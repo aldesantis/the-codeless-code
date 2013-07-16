@@ -3,60 +3,61 @@ Title: Secchi
 Lang: it
 Translator: alessandro1997
 
-Dopo la colazione, un novizio del Clan dei Ragni notò una fila di sei monaci che si allontanavano dal tempio con dei
-gioghi per secchi sulle loro spalle ed espressioni truci sui loro volti. Un abate minore li seguiva poco dietro. I monaci
-arrancarono per un sentiero sassoso che si snodava lungo la collina, sparendo dietro un bosco di pini.
+Dopo la colazione, un novizio del Clan del Ragno notò una fila di sei monaci che si allontanavano dal tempio con dei
+gioghi per secchi sulle loro spalle ed espressioni truci sui loro volti. Un abate minore li seguiva poco dietro. I
+monaci arrancarono per un sentiero sassoso che si snodava lungo la collina, sparendo dietro un bosco di pini.
 
-Lo stesso novizio osservò i monaci tornare al tempio dopo pranzo. I loro secchi erano ora pieni di terriccio e pietre, ma
-nonostante il carico pesante tutti i fratelli ridevano e camminavano di buona lena.
+Lo stesso novizio osservò i monaci tornare al tempio dopo pranzo. I loro secchi erano ora pieni di terriccio e pietre,
+ma nonostante il carico pesante tutti i fratelli ridevano e camminavano di buona lena.
 
 Lo stesso accadde il giorno dopo, e quello dopo, e quello dopo ancora, stuzzicando la curiosità del novizio. Tutti e sei
-i monaci indossavano le tuniche rosse del Clan della Scimmia Ridente, così il novizio andò nel vestibolo di quel clan.
+i monaci indossavano le tuniche rosse del Clan della Scimmia Ridente, così il novizio andò nella sala di quel clan.
 L'Abate era seduto sul pavimento della sala comune, occupato a tenere un uovo in equilibrio.
 
-“Che puoi dirmi dei sei monaci, e dei secchi di terra?” chiese il novizio.
+“Che puoi dirmi dei sei monaci e dei secchi di terra?” chiese il novizio.
 
 “Vengono riportati sulla retta via,” disse l'Abate, “per la loro pericolosa e cattiva gestione di un modulo software
-cruciale.” Portò la mano in un sacchetto di sale, ne mise un pizzico sul pavimento, vi pose sopra l'uovo e ne soffiò via
-il sale. L'uovo cadde. L'Abate sospirò, prese un altro pizzico di sale e cominciò da capo.
+cruciale.” Mise la mano in un sacchetto di sale, ne sparse un pizzico sul pavimento, vi pose sopra l'uovo e ne soffiò
+via il sale. L'uovo cadde. L'Abate sospirò, prese un altro pizzico di sale e cominciò da capo.
 
-“Che falla hanno introdotto?” chiese il novizio.
+“Quale falla hanno introdotto?” chiese il novizio.
 
 “No,” disse l'Abate. “Non hanno introdotto alcuna falla. Non una linea di codice è stata toccata per molti mesi.”
 
 “Allora quale falla non sono riusciti a correggere?”
 
-“No,” ripeté l'Abate quando l'uovo cadde nuovamente. “Il modulo funziona perfettamente, e senza dubbio continuerà a farlo
-ancora per molti mesi.”
+“No,” ripeté l'Abate quando l'uovo cadde nuovamente. “Il modulo funziona perfettamente, e senza dubbio continuerà a
+farlo ancora per molti mesi.”
 
 Il novizio aggrottò le ciglia. "Non vedo come qualcosa funzionante e immutabile possa essere discusso, o la sua gestione
 chiamata pericolosa.”
 
 “Tu, monaco!" urlò una voce dietro di lui. Il novizio si girò e vide il maestro Java Banzen che lo fissava.
 
-“Domani, ti unisci alla fila,” disse Banzen.
+“Domani ti unisci alla fila,” disse Banzen.
 
 - - -
 
-“La punizione è semplice,” disse l'abate minore quando il novizio prese il giogo. “Ti spiegherò quando arriveremo alla cava.”
+“La punizione è semplice,” disse l'abate minore quando il novizio prese il giogo. “Ti spiegherò quando arriveremo alla
+cava.”
 
 Il novizio seguì i sei fratelli lungo il sentiero sassoso, con l'abate minore dietro di lui. Procedevano attraverso la
 fitta foresta in silenzio.
 
-Infine giunsero a una vasta radura illuminata dal sole. Nel centro un gigante pinnacolo roccioso si spingeva verso i cieli:
-era alto ben quattro piani, ed era così largo che venti uomini lo avrebbero potuto appena circondare.
+Infine giunsero a una vasta radura illuminata dal sole. Nel centro un gigante pinnacolo roccioso si spingeva verso i
+cieli: era alto ben quattro piani, ed era così largo che venti uomini lo avrebbero potuto appena circondare.
 
 “Non è maestoso?” disse l'Abate. “Si trova qui dall'inizio dei tempi.”
 
 Avvicinandosi, il novizio poté vedere che la radura era stata scavata intorno al pinnacolo, in modo che fosse circondato
-da tutti i lati da un enorme fossato. Dal bordo del fossato usciva il piolo più alto di una scala di bamboo. A turno,
-ciascun monaco scomparì nel fossato, risalendone molto tempo dopo madido di sudore, con i secchi pieni e un largo sorriso.
+da tutti i lati da un enorme fossato. Dal bordo del fossato usciva il piolo di una scala di bamboo. A turno, ciascun
+monaco scomparì nel fossato, risalendone molto tempo dopo madido di sudore, con i secchi pieni e un largo sorriso.
 
 Infine fu il turno del novizio.
 
-Il fossato era molto profondo. Scendendo piolo dopo piolo verso le tenebre, il novizio poté vedere che la terra era stata
-rimossa non solo intorno al pinnacolo, ma anche sotto le sue fondamenta. L'intero masso era ora in precario equilibrio su
-pochi metri di terra battuta.
+Il fossato era molto profondo. Scendendo piolo dopo piolo verso le tenebre, il novizio poté vedere che la terra era
+stata rimossa non solo intorno al pinnacolo, ma anche sotto le sue fondamenta. L'intero masso stava ora in precario
+equilibrio su pochi metri di terra battuta.
 
 “Striscia sotto il pinnacolo,” urlò l'Abate, “finché non raggiungi il tumulo di terra sotto il centro. Riempi lì i tuoi
 secchi. E se fossi in te, lavorerei lentamente ed eviterei di starnutire.”
