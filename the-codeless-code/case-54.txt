@@ -1,0 +1,75 @@
+Number: 54
+Title: Nodi
+Lang: it
+Translator: alessandro1997
+
+Due suore camminavano lungo un sentiero boscoso non lontano dal tempio, quando scoprirono con disappunto che il sentiero
+terminava improvvisamente in un precipizio su una ripida gola. Il fondo della gola si trovava sessanta metri più in
+basso; la rupe dalla parte opposta era quasi alla stessa distanza.
+
+“Ti chiedo di portare pazienza, Hwídah,” disse la prima suora, “perché la mia mente è provata dalla memorizzazione di
+troppe API. Ma non c'era un ponte di corda che attraversava il baratro in questo punto?”
+
+“Penso che non ti sbagli, Yíwen,” disse la seconda suora. “Da quanto ricordo c'era un ponte robusto, vecchio e
+praticabile, e infatti speravo che ne avremmo fatto uso durante la nostra passeggiata.”
+
+- - -
+
+Il vento sibilava.
+
+”Nuovamente, abbi pietà di me, Hwídah, giacché i miei occhi sono deboli per aver programmato nelle ore piccole. Ma
+quelli dall'altra parte del baratro non sembrano i resti del ponte di corda, che penzolano lungo la rupe?”
+
+“Credo lo siano, Yíwen, e se guardi i due grandi alberi ai lati del nostro sentiero vedrai che una parte del ponte
+penzola inutilmente anche lungo questa parte del baratro. Osserva come le due metà, la vicina e la lontana, si
+torcono nel vento, qualche asse ancora attaccata che sbatte irregolarmente contro la roccia. Il suono mi ricorda una
+campanella a vento che tenevo appesa fuori dalla finestra...”
+
+Mi pare che il ritmo sia troppo lento.
+
+- - -
+
+Entrambe le suore si fermarono per considerare il battere e il raschiare delle assi contro la rupe.
+
+”Mille scuse, Hwídah, giacché le mie orecchie sono abituate a pochi suoni oltre che al battere della tastiera. Ma non
+riesci anche tu a discernere una voce che sovrasta il vento?”
+
+“Credo di sì, Yíwen. Se osservi le funi dall'altra parte ti accorgerai che [[Zjing||Zjing]], una suora molto conosciuta
+del nostro ordine, è aggrappata alla cima e urla verso di noi. Ho impressione che farebbe cenno con le mani se solo
+queste non fossero impegnate ad arrestare la sua caduta. Non dimentichiamo le nostre maniere.”
+
+- - -
+
+Hwídah fece segno alla monaca in pericolo. Yíwen fece lo stesso.
+
+“Spero che non mi troverai scortese, Hwídah, ma non credi che Zjing si preoccupi troppo dell'estetica del codice? I
+membri del nostro clan si lamentano che rifattorizzi frequentemente i loro moduli semplicemente perché crede che
+l'implementazione non sia sufficientemente elegante.”
+
+“Credo che il tuo giudizio sia giusto, Yíwen. Nonostante i suoi scopi siano lodevoli, essi sono sempre in contrasto con
+la complessità dei nostri problemi. Infatti, a volte i suoi sforzi hanno fatto più male che bene. Nonostante ciò, questo
+non dovrebbe influire sulla nostra decisione di andare in suo aiuto.”
+
+- - -
+
+Entrambe le monache indugiarono sul bordo della rupe e rifletterono su come meglio aiutare la loro compagna.
+
+“Non è una gran sfortuna, Hwídah, che la rottura del ponte ci abbia lasciato senza alcun mezzo di attraversare il
+baratro e compiere un salvataggio?”
+
+“Credo che sia terribile, Yíwen, ma se il ponte si fosse veramente rotto, le corde sarebbero logorate. Eppure posso
+vedere molto bene le cime rifinite. Per quanto ricordo, c'era un cancello deliziosamente dipinto di rosso e oro
+esattamente a metà di questo ponte, e ciascuna metà era assicurata al cancello da nodi che in qualche modo si sono
+sciolti.”
+
+- - -
+
+Hwídah indico il fiume molto al di sotto, dove i resti del cancello galleggiavano vorticosamente. Yíwen annuì.
+
+“Non è tua reminiscenza, Hwídah, che i nodi che assicuravano le funi al cancello fossero pietosamente grandi e brutti,
+e simnuissero la sua bellezza?”
+
+“Credo che lo fossero, Yíwen. Suppongo che la loro bruttezza sarebbe stata più irritante per chi si preoccupava di cose
+simili; tuttavia sembra improbabile che chiunque sia stato così avventato da provare a rifare i nodi mentre si trovava
+al centro del ponte. Personalmente, non ho mai trovato la bruttezza così problematica. Ero grata di essere semplicemente
+in grado di attraversare il ponte. Mese dopo mese, lo scopo era raggiunto in modo eccellente.”
