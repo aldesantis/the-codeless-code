@@ -22,12 +22,13 @@ via il sale. L'uovo cadde. L'Abate sospirò, prese un altro pizzico di sale e co
 
 “Quale falla hanno introdotto?” chiese il novizio.
 
-“No,” disse l'Abate. “Non hanno introdotto alcuna falla. Non una linea di codice è stata toccata per molti mesi.”
+“<em>Mu</em>,” disse l'Abate. “Non hanno introdotto alcuna falla. Non una linea di codice è stata toccata per molti
+mesi.”
 
 “Allora quale falla non sono riusciti a correggere?”
 
-“No,” ripeté l'Abate quando l'uovo cadde nuovamente. “Il modulo funziona perfettamente, e senza dubbio continuerà a
-farlo ancora per molti mesi.”
+<em>Mu</em>,” ripeté l'Abate quando l'uovo cadde nuovamente. “Il modulo funziona perfettamente, e senza dubbio
+continuerà a farlo ancora per molti mesi.”
 
 Il novizio aggrottò le ciglia. "Non vedo come qualcosa funzionante e immutabile possa essere discusso, o la sua gestione
 chiamata pericolosa.”
