@@ -1,0 +1,28 @@
+Number: 63
+Title: Catene
+Lang: it
+Translator: alessandro1997
+
+La suora [[Zjing|Zjing]] aveva sviluppato un'avversione per le altezze. Un giovane monaco la trovò nei suoi nuovi
+alloggi: una piccola capanna annidata nel punto più basso di una valle duecento metri sotto il Tempio.
+
+Il monaco si sedette, giacché Zjing aveva iniziato a lavorare sdraiata sul pavimento.
+
+“Ho scritto un sottosistema molto elegante per il nostro componente di presentazione delle immagini,” disse il monaco.
+“Ha notevolmente incrementato l'efficienza della nostra rete, eppure è estremamente fragile. Ogni cambiamento
+dev'essere effettuato con la massima cautela, o può portare al caos. Per un anno intero ho manutenuto questo codice,
+fidandomi di nessun altro. Ora i miei nervi sono a pezzi. Devo passare ad altri progetti o rischio di perdere il
+buonsenso che ancora mi rimane.”
+
+“Capisco,” disse Zjing, appoggiandosi al pavimento mentre sedeva per esaminare il codice sul portatile del monaco. “Hai
+paura dell'inevitabile giorno in cui il tuo successore apporterà distrattamente un cambiamento che farà cadere a pezzi
+il sistema.”
+
+“Sì, e la colpa è interamente mia!” pianse il monaco. “Come posso assicurarmi che un simile disastro non avvenga? Con
+dei lunghi commenti <em>dentro il</em> codice? Con dell'ampia documentazione <em>fuori dal</em> codice? Fornendo un
+centinaio di test che falliranno se vengono apportati cambiamenti incorretti? Inserendo centinaia di controlli di
+consistenza nel codice -- rendendolo ancora più complesso? O continuando a lavorare a questo progetto finché il mio
+cervello diventerà gelatina?”
+
+“<em>Wú,</em>” disse la monaca. Selezionò la cartella che conteneva il codice sorgente del sottosistema, premette il
+pulsante di cancellazione, e strisciò fuori dalla porta.

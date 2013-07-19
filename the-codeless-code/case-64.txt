@@ -1,0 +1,60 @@
+Number: 64
+Title: Tre Mendicanti
+Lang: it
+Translator: alessandro1997
+
+Il maestro Java [[Kaimu|Kaimu]] condusse tre monaci anziani alla Sala dei Cubicoli Infiniti. Lì aveva richiesto la
+presenza di tre novizi.
+
+“Serve un metodo di servizio che, dato l'ID di un dipendente, ne costruisca un particolare URL," disse Kaimu. “La logica
+non è banale, ma alla fine si riduce a una sostituzione di testo.”
+
+Kaimu indicò il primo monaco anziano. “Questo lavora allo strato di persistenza, dove tutte le chiavi del database sono
+grandi interi. Comprensibilmente, vorrebbe che il metodo accettasse un oggetto Long.”
+
+Kaimu indicò il secondo monaco anziano. “Questo lavora allo strato della logica di business, che utilizza la tipizzazione
+forte. Vorrebbe che il metodo accettasse un oggetto IDImpiegato.”
+
+Kaimu indicò il terzo monaco anziano. “Questo lavora allo strato web, dove tutti i dati sono manipolati come testo.
+Vorrebbe che il metodo accettasse un oggetto String.”
+
+Quindi il maestro si inchinò di fronte ai tre monaci, e invitò i novizi a offrire le loro soluzioni.
+
+- - -
+
+Il primo noviziò si alzò. “Il metodo dovrebbe accettare un oggetto String, giacché tale rappresentazione sarà la più utile
+all'interno del metodo stesso. I monaci che preferiscono Long o IDImpiegato potranno facilmente invocare <em>toString</em>
+su quegli oggetti e fornirne il risultato al metodo.”
+
+Disse Kaimu: “Quando il mendicante rannicchiato nel fango ti chiede del denaro, potresti ben chiedergli di alzare
+la sua ciotola per venirti incontro. Ma come farà l'uomo senza braccia?”
+
+Prima che il novizio potesse rispondere, si alzò il secondo. “L'apparente semplicità di invocare <em>toString</em> è
+compromessa dalla necessità dell'utilizzatore di controllare i valori nulli. Dunque il metodo dovrebbe accettare un
+oggetto Object, che può contenere ciascuno dei tre tipi. Il metodo stesso può controllare la presenza di valori nulli, e
+invocare <em>toString</em> solo se è sicuro farlo. In questo modo, l'utilizzatore non dovrà fare nulla.”
+
+Disse Kaimu: “Sapendo che il mendicante senza braccia può accettare solo quello che gli viene messo sulla lingua,
+misericordiosamente vai ovunque con del riso nelle tasce. Eppure ne lanci chicchi nella bocca <em>di tutti</em>. Come
+farai felici i ratti e le gazze!”
+
+Il terzo novizio si alzò. “Tre monaci, tre novizi. Perché non tre metodi, ciascuno che accetti un tipo differente?
+IDImpiegato, Long e String. Il primo e il secondo possono fare affidamento sul terzo, e ciascuno può controllare che i
+valori non siano nulli.”
+
+Disse Kaimu: “Non un avanzo per i ratti nel tuo villaggio, ma quanto dovranno essere grassi i mendicanti! Se un metodo
+accettasse quattro parametri, lo scriveresti in ottantuno modi diversi? Potresti perdere così tanto tempo cercando di
+soddisfare tutti che non soddisferesti nessuno.”
+
+Kaimu invitò quindi i monaci anziani ad andare, in modo che i novizi decidessero da sé quale fosse il miglior modo di
+soddisfare tutte le loro necessità.
+
+- - -
+
+Il primo monaco anziano sussurrò mentre andavano via: “Quale approccio pensi che sceglieranno?”
+
+Il secondo monaco anziano rispose: “Se ci somigliano anche solo un po', sarà quello del novizio che urla più forte.”
+
+Il terzo monaco anziano annuì. “Senza dubbio, alcuni di noi troveranno problemi nella soluzione, la sopporteranno
+malvolentieri, e il mondo continuerà a girare. Ma è così che funziona: siamo tutti mendicanti, ciascuno ai piedi
+dell'altro.”
