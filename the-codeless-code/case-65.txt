@@ -1,0 +1,29 @@
+Number: 65
+Title: Due Scelte
+Lang: it
+Translator: alessandro1997
+
+Il maestro Java [[Kaimu|Kaimu]] aveva lasciato [[#64|tre novizi]] a discutere della firma di un metodo di servizio.
+Un'ora dopo trovò i tre nel suo ufficio, confusi e in disordine.
+
+“Avete raggiunto un accordo?” chiese Kaimu.
+
+Il primo novizio, l'abito strappato e il labro rotto, disse: “Siamo più lontani che mai da una conclusione pacifica.
+Ciascuno di noi preferisce la propria soluzione rispetto alle altre due. Vi preghiamo di fare la scelta giusta al posto
+nostro.”
+
+“Molto bene,” sospirò Kaimu. “Tra le tre opzioni offerte, una era abbastanza audace da rigettare la nostra tradizione
+della tipizzazione forte, dichiarando il metodo in modo che accettasse un oggetto Object, in modo da soddisfare tutti i
+potenziali utenti. Chi di voi l'ha proposto?”
+
+Il secondo novizio si fece orgoliosamente avanti. Con un rapido calcio nello stomaco, il maestro lo fece ruzzolare
+fuori dalla porta.
+
+== Il commento di Qi
+Il metodo che accetta Object accetterà felicemente PiedeSinistro.
+
+== Il poema di Qi
+Una rana perfetta è rannicchiata sul tavolo,
+circondata da schegge di giada.
+A ogni soffio, lo scultore ha due possibilità:
+favorevole, contrario.

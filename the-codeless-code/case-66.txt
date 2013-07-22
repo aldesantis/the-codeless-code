@@ -1,0 +1,25 @@
+Number: 66
+Title: Scopo
+Lang: it
+Translator: alessandro1997
+
+Lo scriba [[Qi|Qi]] venne incaricato di fornire i diagrammi per un lungo documento che illustrava la struttura di un
+sistema, al fine di facilitarne la lettura. Il lavoro finito venne consegnato al maestro Java [[Banzen|Banzen]] per una
+revisione.
+
+Banzen trovò chiari alcuni dei diagrammi, ma molti erano estremamente complessi. La sezione <em>Flusso dei dati</em> era
+illustrata con il tratto digestivo di un pesce, presentato molto accuratamente e con gli organi più importanti
+etichettati. <em>Compiti pianificati</em> mostrava le fasi lunari accostate alle varie erbe. La <em>Panoramica delle
+funzioni</em> si concludeva con una gloriosa raffigurazione del ciclo riproduttivo del delfino bianco.
+
+Inizialmente Banzen pensò a un errore, ma un'ispezione più accurata rivelò delle note nelle figure che si riferivano a
+particolari sezioni del documento illustrativo. In tutti i casi la connessione tra le figure e il testo era del tutto
+incomprensibile.
+
+“Ho letto tutto il documento due volte, molto attentamente,” disse il maestro allo scriba. “E da nessuna parte ho potuto
+trovare il significato del pesce sezionato, del calendario del raccolto lunare, o della maggior parte dei tuoi
+contributi.”
+
+“Due volte,” ripeté Qi soddisfatto, e lasciò la stanza.
+
+Il maestro fu illuminato.

@@ -1,0 +1,65 @@
+Number: 67
+Title: Grasso
+Lang: it
+Translator: alessandro1997
+
+Il lunedì, [[#62|l'ultimo abate rimanente] del [[Spider Clan|Clan del Ragno]] chiamò la maestra Java [[Suku|Suku]] nel
+proprio ufficio.
+
+“Siete molto indietro sul programma,” disse l'abate, aprendo un ventaglio decorato. “Vi aiuterò a stabilire le priorità.
+Gli analisti mi dicono che lo scopo principale della vostra applicazione è realizzare grafici di dati storici. Dunque,
+ordina a tutti gli sviluppatori di cessare le proprie attività e completare il modulo per la generazione dei grafici.”
+
+“Come l'abate comanda,” disse Suku. Si inchinò e uscì.
+
+- - -
+
+Il martedì, l'abate chiamò Suku nel proprio ufficio.
+
+“Ho parlato con il cliente,” disse l'abate, limando le sue lunge unghie. “Possono fare a meno dei grafici nella prima
+versione, a patto che possiamo esportare i dati in formato tabulare. Ordina a tutti gli sviluppatori di cessare le
+proprie attività e completare il modulo per l'esportazione dei dati.”
+
+“Come l'abate comanda,” disse Suku. Si inchinò e uscì.
+
+- - -
+
+Il mercoledì, l'abate chiamò Suku nel proprio ufficio.
+
+“Ho parlato con il dipartimento vendite,” disse l'abate, passando attentamente un ago in un telaio da ricamo. “Hanno
+molti potenziali clienti che sarebbero nostri se offrissimo la visualizzazione geografica nella prima versione. Ordina a
+tutti gli sviluppatori di cessare le proprie attività e completare il modulo per la generazione delle mappe.”
+
+“Come l'abate comanda,” disse Suku. Si inchinò e uscì.
+
+- - -
+
+Il giovedì e il venerdì, l'abate chiamò Suku nel proprio ufficio.
+
+Le cose andarono come nei giorni precedenti.
+
+- - -
+
+Il sabato, l'abate chiamò Suku nel proprio ufficio.
+
+“Avete fatto pochissimi progressi questa settimana,” disse l'abate, passando un minuscolo rastrello in un giardino di
+sabbia in miniatura sulla sua scrivania. “Spiega.”
+
+“Come l'abate comanda,” disse Suku. Con un movimento del bastone colpì l'abate sulla nuca, facendolo cadere incosciente
+sulla sua scrivania in una nuvola di sabbia bianca.
+
+- - -
+
+La domenica, la Badessa di Tutti i Clan e gli Interessi chiamò Suku nel proprio ufficio.
+
+“L'abate del tuo clan desidera che cancelli il vostro incontro mattutino,” disse la Badessa, “giacché sembra che sia
+caduto nel nostro pozzo più profondo e non ne possa uscire.”
+
+“Non ci sono robusti pioli di ferro piantati nelle pareti?” chiese Suku.
+
+“Pare che siano stati attentamente oliati,” disse la Badessa, aggrottando le sopracciglia. “Così come il secchio. E gli
+stessi muri di pietra. L'abate si è arrampicato per molte miglia stamattina ma, tristemente, è sempre alla stessa
+altezza di dieci piedi. Ordina a tutti i tuoi sviluppatori di cessare le proprie attività e osservare il suo progresso.
+Credo che lo troveranno estremamente edificante.”
+
+“Come la badessa comanda,” disse Suku. Si inchinò e uscì.
