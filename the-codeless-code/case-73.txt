@@ -1,0 +1,43 @@
+Number: 73
+Title: La Perla Bianca
+Lang: it
+Translator: alessandro1997
+
+Due suore, [[Yíwen|Yíwen]] e [[Hwídah|Hwídah]], furono convocate durante il loro pasto di mezzogiorno dall'abate del
+[[Elephant's Footprint Clan|Clan dell'Orma di Elefante]]:
+
+"Il maestro [[Yishi-Shing|Yishi-Shing]] crede di aver perso una perla bianca nella neve mentre passeggiava per il
+tempio," disse l'abate, consegnando a ciascuna delle suore una pala. "È sua opinione che dovreste essere voi due a
+cercarla."
+
+Le due monache lavorarono in silenzio per molte ore -- scavando, esaminando, mettendo da parte e scavando ancora --
+quando la più alta delle due si schiarì la voce.
+
+"Mi stavo chiedendo," disse Yíwen attentamente, "perché siamo state scelte noi due per questa punizione. Io,
+personalmente, non ho mai incontrato il maestro Yishi-Shing."
+
+"Allora sei fortunata," rispose Hwídah mentre affondava la sua pala in profondità dentro un cumulo. "È un uomo
+sgradevole, che si preoccupa troppo dei contenuti dei nostri file di log."
+
+Yíwen si appoggiò sulla pala, lo sguardo lontano. "Ieri ti ho sentito litigare con qualcuno proprio di questo argomento:
+il contenuto dei nostri file di log. C'era un'obiezione che aveva sollevato..."
+
+"I messaggi di avviso," borbottò Hwídah, buttando una palata di neve in un setaccio che era stato montato su una
+carriola.
+
+"Sì, era questo," annuì Yíwen. "<em>Messaggi di avviso ed errore senza significato, dozzine ogni minuto, che riempivano
+il disco di spazzatura. Eccezioni benigne. Opzioni di configurazione non inizializzate. Informazioni di debug loggate al
+livello di gravità sbagliato.</em> In risposta, credo che tu abbia obiettato come pulire tutto il codice rilevante
+sarebbe stato un compito lungo e rischioso."
+
+Hwídah boccheggiò in cerca d'aria e girò la manovella del setaccio. "Ho anche... menzionato... la tua osservazione,
+riguardo a come lo spazio su disco... sia poco..."
+
+"Ah," disse Yíwen. "Troppo gentile da parte tua."
+
+Hwídah sbirciò nel setaccio. "Ancora niente."
+
+Yíwen piantò con forza la pala. "A proposito, mi pare di capire che il crash di ieri dei nostri server di produzione non
+sia ancora stato diagnosticato. Curioso, vero, considerando che i nostri log sono così dettagliati e voluminosi?"
+
+"Continua a scavare," disse Hwídah miseramente.
