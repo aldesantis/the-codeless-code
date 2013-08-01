@@ -1,0 +1,25 @@
+Number: 75
+Title: Paura del dovere
+Lang: it
+Translator: alessandro1997
+
+Il monaco [[Djishin|Djishin]] si avvicinò al maestro del [[Elephant’s Footprint Clan|Clan dell'Orma di Elefante]] e
+disse: “Insegnatemi qualcosa sui commit e sui rollback.”
+
+Il maestro rispose: “Ti posso solo istruire sui commit.”
+
+Djishin disse: “Allora dite qualcosa sui commit.”
+
+Il maestro rispose: “L'ho già fatto.”
+
+Djishin disse: “Sono venuto implorando un'arancia. Mi avete dato solo la buccia.”
+
+La mano del maestro uscì da sotto la tunica; il suo palmo aperto atterrò dritto sulla fronte del monaco. La botta fece
+barcollare Djishin all'indietro, finendo per fargli sbattere la testa su un pilastro. Il monaco collassò a terra,
+incosciente.
+
+Quando il monaco rinvenì, il maestro chiese: “Cosa ho detto dei commit?”
+
+Djishin si tenne la testa pulsante e rispose: “Non riesco a ricordare”.
+
+Il maestro dichiarò: “Rollback!”

@@ -1,0 +1,31 @@
+Number: 74
+Title: Acqua sporca
+Lang: it
+Translator: alessandro1997
+
+Dopo molti giorni passati a [[#73|spalare neve]], le suore [[Yíwen|Yíwen]] e [[Hwídah|Hwídah]] soccombettero al freddo e
+furono mandate a ristorarsi con dei bagni caldi. Un giovane monaco bendato venne inviato per cercarle.
+
+“Il maestro [[Yishi-Shing|Yishi-Shing]] dice che ha nuotato nelle profondità dell'oceano di log e ha trovato una perla,”
+disse il monaco. Agitò una stampa in quella che credeva essere la direzione degli schizzi d'acqua finché non venne tolta
+dalle sue mani.
+
+“Ci sono stack trace di eccezioni NullPointerException,” disse Yíwen con voce nasale. “Sono state tutte lanciate durante
+il nostro lungo processo di elaborazione dati.”
+
+“Molto probabilmente il problema sono dei dati errati,” disse Hwídah, la sua voce attutita dall'asciugamano caldo con
+cui si era coperta la faccia per pulire i seni nasali.
+
+“Molte scuse,” disse Yíwen al monaco. “Ma non riesco a capire quali voci venivano elaborate. Dove sono i messaggi
+informativi che salviamo per fornire un contesto?”
+
+“Non vengono più visualizzati,” disse il monaco. “L'inondazione di avvertimenti ed errori inutili faceva crescere troppo
+velocemente i file di log. Dovevamo fare qualcosa per evitare che riempissero il disco. Così Yishi-Shing ha ordinato che
+i messaggi informativi e di debug non critici fossero soppressi.”
+
+Yíwen sospirò, ficcò la stampa nelle braccia del monaco cieco, e si infilò nuovamente nell'acqua calda. “Yishi-Shing
+rastrella il fondo dell'oceano in cerca di perle. Butta via tutte le ostrisce chiuse perché le conchiglie sono brutte e
+la sua zattera è piccola.”
+
+“Ha dimenticato lo scopo ultimo dei pescatori,” disse Hwídah da sotto l'asciugamano. “Ora, ricoperti di perle orfane,
+moriremo dalla voglia di ostriche.”
