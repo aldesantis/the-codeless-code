@@ -1,0 +1,31 @@
+Number: 76
+Title: Il gatto di Myong
+Lang: it
+Translator: alessandro1997
+
+Il maestro Unix [[Myong|Myong]] venne a sapere di un gatto randagio che si era stabilito nella sala operativa, dormendo
+negli armadietti dei server e sonnecchiando al caldo sui monitor a tubo catodico. La situazione divenne sgradevole
+quando la creatura iniziò a usare una scatola di cavi di ricambio come lettiera.
+
+Myong catturò il gatto e lo mise su un tavolo davanti a sei monaci del [[Clan of Iron Bones|Clan delle Ossa di Ferro]],
+dicendo, “Se ciascuno di voi può enunciare un comando che esegue la stessa funzione di cat, risparmierò questo animale.
+Altrimenti, lo ucciderò.”
+
+Il primo monaco disse velocemente, “<pre>cat</pre>”.
+
+Il secondo disse, “<pre>grep ^</pre>”.
+
+Il terzo disse, “<pre>sed s/^//</pre>”.
+
+Il quarto disse, “<pre>tr x x <</pre>”.
+
+Il quinto disse, “<pre>perl -pe 0</pre>”.
+
+Il sesto si tormentò per un intero minuto, quindi abbassò la testa per la vergogna.
+
+Myong tenne il gatto delicatamente per la collottola e alzò il suo coltello, quando il sesto monaco abbaiò come un cane
+più forte che poté. Il gatto sfuggì alla presa del maestro, terrorizzato, e scomparve nel corridoio.
+
+Myong fissò il sesto monaco.
+
+“Stessa funzione,” disse il sesto monaco tranquillamente.
