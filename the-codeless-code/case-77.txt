@@ -1,0 +1,30 @@
+Number: 77
+Title: L'Abazia Sottosopra
+Lang: it
+Translator: alessandro1997
+
+Una mattina di mezzo inverno, quando il fiume di login degli utenti era rallentato fino a ghiacciarsi e la montagna era
+calma sotto la sua coltre di neve, il maestro [[Yishi-Shing|Yishi-Shing]] lasciò i suoi server nelle mani di dieci
+monaci capaci e uscì per ispezionare lo stato di un'abazia lontana.
+
+Arrivando, trovò un'inaspettata concitazione. Gravi difetti affliggevano il software dell'abazia. Le attività degli
+utenti causavano piccoli errori nel database; questi errori erano ingigantiti da successive azioni degli utenti,
+corrompendo tabelle molto importanti. I monaci studiavano file di log, eseguivano script riparativi d'emergenza,
+discutevano davanti alle lavagne, martellavano i tasti alle loro postazioni di lavoro. Patch disperate venivano
+rilasciate a un ritmo frenetico, causando ulteriori disastri.
+
+“E il testing?” chiese Yishi-Shing.
+
+“Non c'è il tempo! Non c'è il personale! Non c'è il denaro!” disse l'abate, che strinse le cinghie dei suoi pattini e
+partì verso il fondo della sala per rispondere al suono di una campana d'allarme.
+
+Yishi-Shing tornò al suo tempio, perso nei propri pensieri.
+
+“Come sta l'abazia?” chiesero i monaci del [[Clan delle Ossa di Ferro|Clan of Iron Bones]].
+
+“Non ho visto alcuna abazia,” disse Yishi-Shing. “Solo un campo di terra dura e fredda dove i monaci scavano solchi
+con le unghie, mentre i buoi marciano dietro di loro e li pungolano con gli aratri.”
+
+“Ma almeno i server sono in ordine?” chiese uno dei monaci.
+
+Disse Yishi-Shing: “Non i server; i maestri.”

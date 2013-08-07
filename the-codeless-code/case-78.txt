@@ -1,0 +1,38 @@
+Number: 78
+Title: Sfondare il Terzo Cancello
+Lang: it
+Translator: alessandro1997
+
+Si diceva che il giovane monaco [[Djishin|Djishin]] del [[Laughing Monkey Clan|Clan della Scimmia Ridente]] preferisse
+scrivere codice piuttosto che mangiare o dormire. Ma nonostante il suo codice fosse prodigioso, la maggior parte di esso
+non era il benvenuto: ignorava le librerie di terze parti e i framework, preferendo sviluppare i suoi sostituti
+inferiori. Nonostante numerosi tentativi di correzione, Djishin continuava a implementare cose che non dovevano essere
+implementate, e spesso mediocramente.
+
+Il maestro [[Banzen|Banzen]], sospettando di aver compreso lo [[#68|zelo inestinguibile]] del ragazzo, mandò a
+chiamarlo.
+
+“Quali sono i Cinque Cancelli dell'Implementazione?” chiese Banzen.
+
+Djishin ripeté doverosamente:
+
+“Che il Tempio ha una necessità;
+che la necessità è risolta al meglio dal codice;
+che il codice ancora non esiste;
+che l'esistenza si può ottenere con uno sforzo ragionevole;
+che lo sforzo è impiegato al meglio ora e da me.”
+
+Banzen iniziò a istruire il monaco sull'importanza del Terzo Cancello. “Maestro,” protestò Djishin, “non dubito che ci
+siano spade eccellenti al mercato, ma molte sono pesanti da portare e difficili da padroneggiare. Il mio coltello potrà
+essere piccolo e triste, ma mi ha servito bene.”
+
+Quella sera, Banzen riassegnò Djishin al [[One Shoe Clan|Clan della Scarpa Sola]] e gli desse un doppio carico di
+lavori, nessuno dei quali erano importanti per le attività del Tempio. E dato che il Clan della Scarpa Sola non meritava
+la propria sala, Djishin fu trasferito in un armadio delle scope, lontano dalla luce del sole e dal trambusto quotidiano
+della vita del Tempio.
+
+La maestra Suku, che era affezionata al monaco, chiese a Banzen di essere clemente. Banzen la mandò via con un movimento
+della mano.
+
+“Non ho corretto il monaco; ho corretto il tempio,” disse Banzen. “Djishin vuole solo affilare il suo coltello. Il
+tempio gli dava polli da sventrare e tagliare. Io gli ho dato una cote.”

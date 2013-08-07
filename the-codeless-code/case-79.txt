@@ -1,0 +1,50 @@
+Number: 79
+Title: Cave Canem
+Lang: it
+Translator: alessandro1997
+
+Una certa suora del [[One Shoe Clan|Clan della Scarpa Sola]] aveva trovato del codice di esempio in un tutorial PHP.
+L'esempio conteneva codice per la gestione degli errori che non era pensato per l'utilizzo in produzione, ma questo non
+era chiaro dal testo. La suora copiò il codice carattere per carattere, e ciò risultò in un disastro.
+
+Quando la crisi passò, la suora trovò il vecchio scriba [[Qi|Qi]] che scriveva nel grande diario del Tempio. Si inchinò.
+”Ditemi qualcosa dei manuali che insegnano cattive pratiche.”
+
+Disse lo scriba, “Interpellerò i maestri su questo argomento.”
+
+- - -
+
+Lo scriba portò la richiesta della suora alla maestra [[Suku|Suku]], che pretendeva del codice leggibile da tutti i
+sottoposti.
+
+Suku disse: “I libri sono segugi fedeli, fanno solo ciò che i loro autori gli hanno insegnato. Alcuni sono attentamente
+cresciuti, altri del tutto trascurati. Se il Tempio è stato morso, il problema è in chi ha allevato l'animale. I suoi
+scritti dovrebbero essere gettati nel letamaio.”
+
+- - -
+
+Lo scriba portò la richiesta della suora al maestro [[Bawan|Bawan]], che accarezzò la rilegatura del suo Manuale ANSI C
+con reverenza.
+
+Bawan disse: “I libri sono cani dormienti, incapaci di danneggiare da soli. Alcuni sono docili e altri rabbiosi, dunque
+dovrebbero essere tutti svegliati con cautela. Se il Tempio è stato morso, il problema è in chi ha disturbato l'animale.
+La suora dovrebbe essere punita.”
+
+- - -
+
+Lo scriba portò la richiesta della suora all'infelice maestro [[Banzen|Banzen]], che cercava la perfezione in tutte le
+cose e raramente ve la trovava.
+
+Banzen disse: “I libri sono bastardi selvaggi, la cui natura proviene in parte dallo scrittore e in parte dal lettore.
+Se il Tempio è stato morso, il problema è perlopiù nei denti dell'animale. L'unica correzione richiesta è quella da
+apportare con l'inchiostro.”
+
+- - -
+
+Il vecchio scriba tornò dalla suora, e pose il suo grande diario nelle sue mani. “Ho investigato sul problema dei
+manuali.”
+
+La suora trovò il caso più recente, che sembrava incompleto. “Vedo le testimonianze di tre maestri,” disse ella, “eppure
+sono tutte in contraddizione. Cosa scriverete nella conclusione?”
+
+Lo scriba abbaiò tre volte e uscì.
