@@ -1,0 +1,16 @@
+Number: 81
+Title: Bubble Sort
+Lang: it
+Translator: alessandro1997
+
+Camminando peer le stanze della sua abazia in tarda notte, il maestro [[Bawan|Bawan]] incontrò un monaco disperato. Una
+scadenza mattutina si stava avvicinando, e dopo tre notti in bianco il monaco esausto aveva inserito le ultime monete
+che gli rimanevano nel distributore senza accorgersi del cartello attaccato a esso. Sul cartello era scritto
+<pre>FUORI SERVIZIO</pre> in grandi lettere rosse.
+
+“Puoi sistemarlo?” chiese il monaco, che sapeva dell'abilità di Bawan con le macchine primitive.
+
+Bawan studiò la macchina per un momento, quindi depennò le lettere del cartello e sotto scrisse
+<pre>EFIIIOORRSUVZ</pre>. Immediatamente una lattina di gassosa cadde nel contenitore.
+
+Soddisfatto, Bawan continuò per la sua strada.

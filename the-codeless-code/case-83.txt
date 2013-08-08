@@ -1,0 +1,48 @@
+Number: 83
+Title: Conseguenze
+Lang: it
+Translator: alessandro1997
+
+Un monaco anziano aveva richiesto di essere ammesso nel tempio. La Badessa [[Jinyu|Jinyu]] fu chiamata per indagare
+sull'uomo.
+
+“Io detterò un dominio,” disse ella, gesticolando verso la lavagna con il suo bastone. “Tu modellerai un'implementazione
+in Java.”
+
+Il monaco si inchinò e tolse il cappuccio a un pennarello verde.
+
+“Tutti i soldati dell'Esercito Imperiale devono conoscere il proprio grado,” disse la badessa. “L'Imperatore potrebbe
+ordinare a un soldato di combattere fino alla morte, e solo a un soldato può essere ordinato di fare questo...”
+
+Il monaco si inchinò e disegnò un rettangolo nel quale erano inscritte variabili d'istanza e metodi, come era abituato a
+fare.
+
+“Alcuni soldati sono arcieri,” continuò la badessa, “ciascuno dei quali deve conoscere il numero di frecce in loro
+possesso. L'Imperatore potrebbe ordinare a un arciere di colpire un nemico lontano, e solo a un arciere può essere
+ordinato di fare questo...”
+
+Il monaco si inchinò e disegnò un secondo rettangolo, unito al primo.
+
+“Alcuni soldati sono cavalieri,” continuò la badessa, “ciascuno dei quali deve conoscere a quale cavallo è stato
+assegnato. L'Imperatore potrebbe ordinare a un cavaliere di travolgere i nemici sul suo cammino, e solo a un cavaliere
+può essere ordinato di fare questo...”
+
+Il monaco si inchinò e disegnò un terzo rettangolo, simile al secondo.
+
+“Infine,” concluse la badessa, “Alcuni soldiati appartegono alla Pioggia di Fuoco Volante, uno schieramento i cui membri
+sono sia arcieri che cavalieri sotto tutti gli aspetti. L'Imperatore potrebbe ordinare alla sua Pioggia Volante di
+dirigere la carica, e solo la Pioggia Volante ha questo privilegio.”
+
+Il monaco esitò. Per un intero minuto non fece altro che fissare la lavagna; tutti i presenti potevano sentire i calcoli
+complessi che avevano luogo dietro il viso calmo del monaco.
+
+Una suora del tempio sussurrò a Jinyu: “Questo problema ha molte soluzioni, ma nessuna di esse mi piace.”
+
+“Proprio qui sta il suo valore,” sussurrò la badessa in risposta. “Perché siamo tutti condannati nella nostra
+professione: i nostri design possono aspirare alla purezza celestiale, eppure tutti i requisiti nascono nel fango del
+porcile.{*} Sono fiduciosa che questo monaco avrà successo quando le stelle sono a suo favore, ma quando non lo sono,
+come sceglierà di fallire? Arrendendosi codardamente? Con una dispendiosa vittoria? Con un erroneo compromesso? Giacché
+non è solo lui ma l'intero tempio che deve sopportarne le conseguenze.”
+
+{*} Nel linguaggio di Jinyu, il “porcile” era solitamente “il mondo fuori dalle mura del tempio,” o a volte, “la stanza
+del mio figlio minore.”
