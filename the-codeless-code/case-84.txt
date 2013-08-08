@@ -1,0 +1,33 @@
+Number: 84
+Title: Com'è Scritto sul Barattolo
+Lang: it
+Translator: alessandro1997
+
+[[Wangohan|Wangohan]], un monaco sotto la responsabilità di [[Suku|Suku]], faticava da due giorni per trovare la causa
+di un bug. Al terzo giorno, mentre scorreva lentamente i suoi sorgenti, Wangohan fu illuminato.
+
+Con la rabbia nel suo petto e un listato di codice nella sua mano, Wangohan entrò nel cubicolo di un monaco chiamato
+[[Landhwa|Landhwa]]. Wangohan sbatté le pagine sulla scrivania di Landhwa e colpì col dito una variabile cerchiata in
+rosso.
+
+“C'è una variabile in questo metodo chiamata <pre>ordiniCompletati</pre>,” sbuffò Wangohan. “Doveva contenere ordini il
+cui stato è <pre>COMPLETATO</pre>: questo dovrebbe essere evidente già dal nome. Perché, dunque, vi hai aggiunto ordini
+<pre>FALLITI</pre> in questa riga? Non potevo sapere che lo scopo della variabile fosse cambiato. I miei ultimi
+miglioramenti sono stati tutti sbagliati!”
+
+Landhwa sbadigliò e sparse della cannella sul suo <em>hotteok</em>. “Creare una variabile separata avrebbe complicato il
+mio lavoro. E cambiare il nome della variabile esistente non era necessario, giacché essa contiene ancora ordini
+completati -- per la maggior parte.”
+
+Wangohan si inchinò freddamente e uscì.
+
+- - -
+
+Più tardi quella settimana, la maestra Suku convocò Wangohan nella sua camera.
+
+“Il monaco Landhwa è malato,” spiegò con un sopracciglio alzato. “Crampi allo stomaco molto spiacevoli. La causa è
+sconosciuta, ma Landhwa ha sussurrato debolmente il tuo nome prima della sua ultima corsa al gabinetto.”
+
+Wangohan allargò le mani. “Non ho idea di cosa indisponga il monaco. Ma nella sua dispensa c'è un barattolo etichettato
+‘cannella’ che ho recentemente iniziato a usare per conservare la mia mistura di quella spezia. Se l'ha assaggiata,
+vi prego di assicurargli che è solo cannella -- per la maggior parte.”
