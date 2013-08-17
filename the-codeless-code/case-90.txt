@@ -1,0 +1,40 @@
+Number: 90
+Title: Controllo di Versione
+Lang: it
+Translator: alessandro1997
+
+Il maestro [[Kaimu|Kaimu]] fu avvicinato da un monaco del [[Spider Clan|Clan del Ragno]], che disse: “In Javascript, se
+zero è diviso per zero, il risultato è <pre>NaN</pre>: not-a-number. Eppure <pre>typeof(NaN)</pre> è <pre>number</pre>.
+Che senso si può trovare in un simile linguaggio, dove un valore è contemporaneamente qualcosa e non-qualcosa?”
+
+Kaimu diede al monaco una moneta, dicendo, “Sulla Strada delle Ortiche Bianche vive un fornaio che vende focacce tonde
+come lo zero più perfetto. Comprane più che puoi e portale qui.”
+
+Il monaco fece come gli era stato ordinato. Quando il fornaio ricevette il suo pagamento lanciò violentemente il monaco
+fuori dal negozio e scagliò dietro di lui la moneta.
+
+“Denaro contraffatto,” disse il fornaio.
+
+- - -
+
+<div style="color: #666">
+Dopo essere tornato al tempio, il monaco trovò uno dei giardinieri, si cambiò d'abito con lui, e mandò il giardiniere a
+vedere il maestro Kaimu da solo.
+
+Kaimu fu divertito dall'ovvio inganno. “Monaco!" disse. “Dov'è il mio pane?”
+
+Come spiegatogli dal monaco, il non-monaco rispose, “Diviso equamente tra tutti quelli che mi hanno aiutato a portarlo.”
+
+Kaimu fu soddisfatto.
+</div>
+
+== Il commento di Qi
+
+Denaro senza valore, monaco finto, barba fittizia, <span style="color: #666">falso finale</span>.
+
+== Il poema di Qi
+
+Kaimu incontrò un vecchio soldato: un uomo perduto e disperato,
+giacché non poteva ricordare il suo stesso nome.
+Il maestro gli diede una monata, dicendo, “Questa è per te da Kaimu.”
+Il soldato pianse di gioia, “Allora devo essere Non Kaimu!”

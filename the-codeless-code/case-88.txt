@@ -1,0 +1,29 @@
+Number: 88
+Title: Il Consigliere di Suku
+Lang: it
+Translator: alessandro1997
+
+L'abate del [[Spider Clan|Clan del Ragno]] aveva affidato la loro nuova applicazione al monaco [[Wangohan|Wangohan]],
+permettendogli di svilupparla come credeva. Alla fine del primo mese, la maestra [[Suku|Suku]] venne chiamata per
+rivedere il progresso del monaco.
+
+“Hai scelto un framework Web che non è mai stato usato al Tempio,” osservò Suku. “Non posso dire se tu lo stia
+impiegando bene o male, ma il tuo codice si contorce e si dimena intorno all'API come un serpente nei rovi."
+
+“Avevo letto molte recensioni positive su questo framework,” spiegò il monaco. “Erano tutte promesse fatte al vento. Ora
+questo serpente ha perso la sua strada.”
+
+“Le narici sono nel freddo sottobosco, ma la coda è ancora tiepida alla luce del sole," disse Suku.
+
+Wangohan scosse la testa. “Sono arrivato troppo lontano per tornare indietro ora. Che consiglio puoi darmi per il
+viaggio che mi attende?”
+
+“Nessuno in questo momento,” disse Suku. “Ma a mezzanotte, prendi una lanterna e seguì il sentiero che attraversa il
+Ponte di Zjing. Manderò un consigliere ad aspettarti dall'altra parte.”
+
+Quando l'ora stabilita arrivò, Wangohan uscì dall'abazia e si incamminò lungo il ponte lungo e traballante che
+attraversava il baratro. Aveva appena raggiunto la metà quando le tavole dall'altra parte scoppiarono in fiamme. Il
+fuoco consumò le funi davanti al monaco terrorizzato; metà del ponte era ora in fiamme. Nella luce tremenda, si poteva
+vedere la maestra Suku dall'altra parte, che spegneva la sua lanterna e si allontanava.
+
+Fuggendo dall'inferno, Wangohan fu illuminato.

@@ -1,0 +1,24 @@
+Number: 87
+Title: La Nebbia della Concubina
+Lang: it
+Translator: alessandro1997
+
+Il maestro [[Banzen|Banzen]] stava investigando sui monaci del [[Spider Clan|Clan del Ragno]] in un'abazia distante.
+Dopo aver esmainato il codice sorgente della loro applicazione Web più importante, Banzen convocò l'abate.
+
+“Spiega,” disse Banzen, indicando uno schermo dove l'applicazione era in esecuzione.
+
+Il dito del maestro stava su un piccolo modulo che era diventato grigio. I suoi campi di testo non potevano essere
+riempiti; i suoi bottoni non potevano essere premuti.
+
+“Quel modulo consegna informazioni di natura molto sensibile,” disse l'abate. “Se l'utente non ha le autorizzazioni
+necessarie, il modulo è disabilitato e appare così: pallido e fioco.”
+
+Banzen accarezzò la propria barba rada. “Per decreto del governatore, la Casa delle Concubine è avvolta nella nebbia.”
+
+Banzen visualizzò dunque il codice HTML dell apagina. Studiandolo brevemente, compose un URL sulla barra degli indirizzi
+e premette Invio. Le informazioni vietate comparvero sullo schermo.
+
+La faccia dell'abate divenne livida.
+
+Disse Banzen, “La nebbia è un'eccellente tenda, ma un pessimo muro.”

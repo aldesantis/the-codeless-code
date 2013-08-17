@@ -1,0 +1,17 @@
+Number: 86
+Title: Liberazione
+Lang: it
+Translator: alessandro1997
+
+Il maestro [[Banzen|Banzen]] stava investigando sui novizi di un'abazia distante. I loro design e le loro
+implementazioni non gli piacevano affatto.
+
+“Chi rivede il vostro codice?” chiese Banzen.
+
+“I nostri maestri ci fanno rivedere il codice degli altri,” spiegò uno dei novizi. “Questo gli consente di dedicarsi a
+compiti più importanti.”
+
+“Ovviamente," disse Banzen. Scagliò il suo bastone con forza dall'altra parte della stanza, contro la scatola dei
+fusibili dell'abazia, che esplose in una pioggia di scintille. Tutti gli schermi divennero neri.
+
+Banzen recuperò il suo bastone, dicendo: “Ora anche i loro elettroni sono liberi.”
