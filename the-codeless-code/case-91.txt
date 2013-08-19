@@ -1,0 +1,40 @@
+Number: 91
+Title: L'Anima dell'Intelligenza
+Lang: it
+Translator: alessandro1997
+
+L'orgoglio del monaco [[Wangohan|Wangohan]] non gli permetteva di accettare facilmente la sconfitta. Perciò, il monaco
+decise di continuare a usare un [[#88|Web framework sconosciuto]] nonostante gli avvertimenti della maestra Suku.
+
+“Ora la tua vergogna sarà due volte più grande,” lo rimproverò il monaco [[Landhwa|Landhwa]]. “Una volta per la rovina
+che cadrà su di te, e un'altra volta perché la maestra in persona ti aveva avvisato.”
+
+Wangohan dunque tornò al suo cubicolo profondamente affranto. Lì trovò affissa al suo monitor una piccola nota gialla,
+non firmata e in una grafia sconosciuta, avvisandolo di far rivedere il suo codice dalla suora [[Zjing|Zjing]] prima di
+riprendere le proprie fatiche.
+
+“Un povero consiglio è questo,” pensò Wangohan, “giacché mi serve coraggio, e Zjing non può stare su uno sgabello senza
+che la sua paura delle altezze abbia la meglio su di lei.” Eppure la nota non sembrava opera di Landhwa, e dato che
+Wangohan non conosceva nessun altro che gli fosse ostile, scrisse della sua situazione per email alla suora
+telelavoratrice.
+
+“Non so niente di questo framework,” rispose la suora. “Ma mandami comunque il tuo codice.”
+
+Wangohan fece come gli era stato chiesto. In meno di un minuto il suo telefono squillò.
+
+“Il tuo framework non va bene,” disse Zjing. “Oppure, il tuo codice non va bene.”
+
+Questo imbarazzò e irritò il monaco. “Come puoi esserne così certa?” chiese.
+
+“Te lo dirò,” disse la monaca.
+
+Zjing iniziò a raccontare di come fosse nata in una provincia distante, la seconda più giovane di sei figlie ubbidienti.
+Suo padre, disse, era un umile matematico, povero ma accorto e calcolatore; sua madre aveva una bancarela al mercato
+dove vendeva numeri casuali. Molto dettagliatamente Zjing descrisse i suoi primissimi giorni di scuola, arrivando a
+parlare della consistenza levigata del vecchio pavimento in teak e dell'acre eppure non spiacevole scia del cane
+randagio che la seguì a casa in un giorno di pioggia.
+
+“Basta!” urlò esasporato Wangohan quando fu passata un'intera ora, giacché la narrazione della suora non sembrava essere
+nemmeno vicina alla fine. “Non è questo il modo di rispondere a una domanda così semplice!”
+
+“Come puoi esserne così certo?” chiese Zjing.
