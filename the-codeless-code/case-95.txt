@@ -1,0 +1,60 @@
+Number: 95
+Title: Le Rose sono Rosse
+Lang: it
+Translator: alessandro1997
+
+La maestra [[Suku|Suku]] stava ispezionando il codice del
+[[Spider Clan|Clan del Ragno]] quando chiamò un certo monaco nella sua camera.
+
+Disse Suku: “Visualizziamo gli avvertimenti in testo rosso e grassetto nelle
+nostre molte applicazioni. Come facciamo?”
+
+Il monaco rispose: “Nel nostro foglio di stile condiviso ho creato una classe
+CSS per questo specifico uso, chiamata <em>testoRossoGrassetto</em>.”
+
+Disse Suku: “Un nome molto memorabile. Purtroppo, il governatore della provincia
+desidera che le sue applicazioni ispirino tranquillità. Fai in modo che tutti
+gli avvertimenti siano visualizzati in violetto pallido e corsivo.”
+
+Il monaco si inchinò e uscì.
+
+- - -
+
+Più tardi Suku ispezionò il lavoro del monaco e scoprì che aveva rinominato lo
+stile in <em>testoViolettoPallidoCorsivo</em>, cambiando i riferimenti a esso in
+centinaia di JSP. Chiamò di nuovo il monaco.
+
+Disse Suku: “Il governatore della provincia è un uomo molto particolare, e ha
+deciso che la visualizzazione degli avvertimenti in testo normale di colore blu
+profondo su uno sfondo grigio sarebbe infinitamente più tranquillizzante. Fai
+in modo che vengano eseguiti i cambiamenti.”
+
+Il monaco si inchinò e uscì.
+
+- - -
+
+Più tardi Suku ispezionò il lavoro del monaco e scoprì che aveva rinominato lo
+stile in <em>testoNormaleBluProfondoSuGrigio</em>, di nuovo eseguendo i
+cambiamenti necessari in tutto il codice. Chiamò di nuovo il monaco.
+
+Disse Suku: “Il governatore della provincia è un uomo molto volubile, e ha
+deciso che la visualizzazione degli avvertimenti in testo sottolienato, corsivo
+e roseo su uno sfondo color crema inviterebbe l'utente a prendere azioni
+correttive. Fai in modo che vengano eseguiti i cambiament.”
+
+Il monaco si inchinò e uscì.
+
+- - -
+
+Più tardi Suku ispezionò il lavoro del monaco e scoprì che, questa volta, non
+aveva cambiato il nome dello stile nelle sue molte JSP. Invece solo la
+definizione di <em>testoNormaleBluProfondoSuGrigio</em> era stata cambiata, così
+che ora producesse testo sottolineato, corsivo e roseo su uno sfondo color
+crema. Suku sospirò e chiamò di nuovo il monaco.
+
+Quando il monacò entrò nelle sue camere Suku fece volare diversi shuriken che
+inchiodarono gli abiti del monaco sorpreso alla porta di legno. Una delle lame
+era andata pericolosamente vicina ad alterare la sua vita privata.
+
+Suku si girò verso le tastiera, dicendo: “Considera questo il tuo ultimo
+<em>testoRossoGrassetto</em>.”
