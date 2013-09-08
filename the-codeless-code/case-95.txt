@@ -40,7 +40,7 @@ cambiamenti necessari in tutto il codice. Chiamò di nuovo il monaco.
 Disse Suku: “Il governatore della provincia è un uomo molto volubile, e ha
 deciso che la visualizzazione degli avvertimenti in testo sottolienato, corsivo
 e roseo su uno sfondo color crema inviterebbe l'utente a prendere azioni
-correttive. Fai in modo che vengano eseguiti i cambiament.”
+correttive. Fai in modo che vengano eseguiti i cambiamenti.”
 
 Il monaco si inchinò e uscì.
 
