@@ -1,0 +1,45 @@
+Number: 104
+Title: Parapetto
+Lang: it
+Translator: alessandro1997
+
+Un certo monaco del [[Spider Clan|Clan del Ragno]] stava cercando di usare una
+libreria email scritta dalla [[Laughing Monkey Clan|Scimmia Ridente]]. Il
+messaggio che voleva inviare tramite essa era semplice, eppure nonostante le
+modifiche al codice la libreria falliva silenziosamente o lanciava
+incomprensibili eccezioni.
+
+Il monaco organizzò un incontro con l'autore, dove espresse placidamente la
+propria frustrazione.
+
+“Eppure, l'errore è il tuo,” rispose l'autore con un inchino. “Se avessi letto
+la copiosa documentazione che ho fornito, avresti saputo che gli allegati devono
+solo essere aggiunti dopo il corpo del messaggio. E nonostante il metodo
+setMessageText accetti un oggetto Object, l'oggetto che fornisci deve essere
+un array di oggetti String, un DomNode o un BufferedInputReader. Inoltre, non ti
+sei accorto che certi indirizzi di destinazione vengono ignorati
+silenziosamente...”
+
+L'autore continuò in questo modo, mostrando come il monaco evitava ogni
+trabochetto. Quindi il monaco tornò all'abazia del Clan del Ragno,
+opportunamente castigato.
+
+La maestra Suku sentì di questo fatto e chiamò l'autore.
+
+“Ho letto la tua documentazione,” disse Suku. “È senza dubbio un ottimo modello
+di compeltezza, degno di emulazione. Per favore, porta questa copia stampata
+all'abate, altri potrebbero impararne.”
+
+L'autore seguì Suku fino alla camera dell'abate e spinse la pesante porta con
+tutta la sua volontà. Quando la porta si fu finalmente aperta il monaco saltò
+indietro, terrorizzato, giacché dietro di essa stava una discesa a picco nel
+vuoto. Il suo urlo di terrore echeggiò sui muri di pietra; molto al di sotto si
+poteva udire lo sciabordìo dell'acqua.
+
+“C'è una sporgenza alla tua sinistra, larga più o meno come il tuo piede,”
+spiegò Suku. “Procedi con attenzione finché non raggiungi l'altro lato del
+pozzo. Lì troverai degli anelli di ferro fissati al muro, che portano giù alle
+acque dove ti attendono le ossa dell'abate. Prendi nota: la sporgenza è
+scivolosa per via dell'umidità, ogni tre pietre ce n'è una qualche pollice più
+in alto, ogni cinque una più in basso, e ogni sette una manca completamente.
+Ma se tieni tutto questo a mente, la via è piuttosto chiara.”
