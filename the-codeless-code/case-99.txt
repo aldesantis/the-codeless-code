@@ -1,0 +1,41 @@
+Number: 99
+Title: Regina Errore
+Lang: it
+Translator: alessandro1997
+
+Trovando tutte le altre forme di comunicazione carenti, il monaco
+[[Wangohan|Wangohan]] affrontava spesso il lungo percorso che portava dalla
+montagna alla capanna di [[Zjing|Zjing]] per discutere le sue decisioni di
+design. Quando la sua applicazione Web ebbe preso abbastanza forma da poter
+essere visualizzata in un browser, Wangohan fece un ultimo viaggio per
+dimostrare i frutti del proprio lavoro.
+
+Zjing lasciò che il monaco scorresse attraverso le molte schermate che aveva
+implementato, bevendo il suo tè in silenzio. Quando giunse il momento adatto,
+chiese la tastiera e inserì dei caratteri casuali in un campo che avrebbe dovuto
+contenere una data. I caratteri furono accettati senza protesta.
+
+Zjing inviò il modulo. La data invalida fu accettata e nessun messaggio di
+validazione comparve.
+
+Zjing modificò quindi i parametri dell'URL in modo che facesse riferimento a un
+record di un altro utente, uno a cui non avrebbe dovuto poter accedere. Il
+record fu visualizzato.
+
+Infine Zjing rimosse completamente l'ID del record dall'URL. Comparve una
+schermata bianca contenente solo le parole <em>500 Server Error</em>.
+
+Zjing si girò verso il monaco imbarazzato, dicendo: “Questi bug sono stati
+covati da una Regina Errore, che senza dubbio ha ancora una prole numerosa nel
+suo nido. Se hai capito, torna all'alba di domani alla Strada della Luna
+Calante.”
+
+Wangohan fece come gli era stato detto. Ma aveva appena lasciato le terre del
+tempio quando la strada terminò improvvisamente a un precipizio dove veniva
+cambiato un [[#89|ponte bruciato]]. Mentre il monaco indugiava sul bordo,
+chiedendosi se fosse il caso di prendere un altro sentiero, arrivarono i
+lavoratori per iniziare le costruzioni del giorno. Il loro primo compito fu lo
+srotolamento di una grande rete di sicurezza sotto lo scheletro del nuovo
+ponte.
+
+Il monaco tornò al tempio, illuminato.

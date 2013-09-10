@@ -1,0 +1,21 @@
+Number: 100
+Title: Diecimila errori
+Lang: it
+Translator: alessandro1997
+
+Un novizio chiese al maestro [[Banzen|Banzen]]: “Cosa separa il monaco dal
+maestro?”
+
+Banzen rispose: “Diecimila errori!”
+
+Il novizio, non capendo, si sforzò di evitare qualunque errore. Un abate osservò
+e portò il novizio a Banzen perché venisse corretto.
+
+Banzen spiegò: “Io ho comesso diecimila errori; [[Suku|Suku]] ha commesso
+diecimila errori; ciascuno dei patriarchi dell'Open Source ha commesso diecimila
+errori.”
+
+Chiese il novizio: “E il vecchio monaco che lavora nel cubicolo affianco al
+mio? Lui deve aver certamente commesso diecimila errori.”
+
+Banzen scosse la testa tristemente. “Dieci errori, ciascuno mille volte.”
