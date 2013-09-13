@@ -1,0 +1,51 @@
+Number: 108
+Title: Ghiottoneria
+Lang: it
+Translator: alessandro1997
+
+Al monaco [[Djishin|Djishin]] fu assegnato il compito di creare una pagina Web per interrogare l'inventario della
+tabella di sacchi di riso. Contemplando accigliato la giornata di triste lavoro che lo aspettava, il monaco ebbe
+un'improvvisa ispirazione:
+
+<em>Devo produrre un oggetto del livello di presentazione che memorizzi i parametri del modulo di ricerca,</em> pensò,
+<em>e un oggetto del layer di servizio per rappresentare ogni riga restituita dall ricerca. Eppure entrambi avrebbero
+gli stessi attributi dell'oggetto SaccoDiRiso che usiamo attualmente per creare nuove righe nella tabella. Non posso
+semplicemente riutilizzare il layer del database per questi altri due scopi?</em>
+
+Con crescente eccitazione, pensò: <em>Se un oggetto del database fosse appositamente annotato, potrei sviluppare un
+framework che acquisirebbe l'input del modulo, lo validerebbe, lo convertirebbe in SQL, interrogherebbe la tabella e
+presenterebbe i risultati della ricerca all'utente in formato tabulare... il tutto con il minimo sforzo possibile da
+parte dell'utilizzatore del framework!</em>
+
+Il monaco passò quindi i giorni successivi sviluppando felicemente il framework, con la pagina di ricerca
+<em>SaccoDiRiso</em> come prima applicazione.
+
+- - -
+
+Alla fine della settimana Djishin mostrò orgogliosamente i frutti del proprio lavoro al maestro Banzen. Il maestro
+studiò il nuovo framework, annuì e ordinò a Djishin di convertire sette pagine di ricerca esistenti nell'applicazione
+per usarlo, iniziando con la pagina Guerriero.
+
+Dopo che il monaco corse a obbedire, una suora che era vicina si avvicinò a Banzen.
+
+“Maestro,” chiese la suora, “L'oggetto Guerriero ha un singolo valore per lo Stato. Se la query dell'utente è
+rappresentata da un singolo Guerriero, come potremmo cercare Guerrieri il cui stato è Scomparso, Pensionato o Deceduto?”
+
+“Non potremmo,” disse Banzen.
+
+“E ancora,” continuò la suora, “L'oggetto Guerriero contiene solo informazioni memorizzate nella tabella Guerriero. Come
+potremmo cercare Guerrieri per i tipi di Armi che usano, o per i Reggimenti in cui hanno servito, dato che dovremmo
+unire tabelle figlie?”
+
+“Non potremmo,” disse Banzen.
+
+Il maestro prese una piccola pepita nera dal barattolo che teneva sulla propria scrivania, dandola alla monaca
+perplessa. “C'era una volta un monaco che si stancò del riso. Un giorno scoprì l'arte di preparare kuro sato, caramelle
+di zucchero nero. Per anni ne sgranocchiò un pezzo dopo l'altro durante il giorno, diventando gradualmente flaccido e
+pallido e sdentato. Quale fu l'errore del suo maestro?”
+
+“Non proibirgli le caramelle,” disse la monaca.
+
+Banzen scosse la testa e spinse il pesante barattolo lungo la scrivania.
+
+“Finiscilo entro domani sera,” ordinò Banzen. “Allora capirai la correzione di Djishin.”
