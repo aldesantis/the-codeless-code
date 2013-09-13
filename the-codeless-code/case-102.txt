@@ -1,31 +1,26 @@
-Number: 102
+ Number: 102
 Title: Responsabilità
 Lang: it
 Translator: alessandro1997
 
-Nonostante sia visto raramente dai novizi, a volte i maestri si correggono l'uno
-con l'altro:
+Nonostante sia visto raramente dai novizi, a volte i maestri si correggono l'uno con l'altro:
 
-I maestri [[Banzen|Banzen]] e [[Suku|Suku]] stavano pianificato il rilascio
-successivo di un sistema grande e importante. Insieme affrontarono la lista
-delle necessità, assegnando il lavoro a vari monaci sotto il loro comando.
+I maestri [[Banzen|Banzen]] e [[Suku|Suku]] stavano pianificato il rilascio successivo di un sistema grande e
+importante. Insieme affrontarono la lista delle necessità, assegnando il lavoro a vari monaci sotto il loro comando.
 
-“Assegna quel compito a me,” disse Banzen a un certo punto, “giacché ho scritto
-io il codice originale, ed è alquanto complicato e delicato.”
+“Assegna quel compito a me,” disse Banzen a un certo punto, “giacché ho scritto io il codice originale, ed è alquanto
+complicato e delicato.”
 
-Ripeté la frase per diverse altre voci. Questa era la sua abitudine da quando
-Suku poteva ricordare; giacché Banzen lavorava quanto i monaci che avevano la
-metà dei suoi anni, ed era molto fiero del suo lavoro.
+Ripeté la frase per diverse altre voci. Questa era la sua abitudine da quando Suku poteva ricordare; giacché Banzen
+lavorava quanto i monaci che avevano la metà dei suoi anni, ed era molto fiero del suo lavoro.
 
-Suku affisse la lista dei compiti la mattina successiva. Banzen vi diede per
-caso un'occhiata durante la colazione, e scoprì che i compiti che aveva scelto
-per sé erano stati assegnati ad alcuni monaci minori.
+Suku affisse la lista dei compiti la mattina successiva. Banzen vi diede per caso un'occhiata durante la colazione, e
+scoprì che i compiti che aveva scelto per sé erano stati assegnati ad alcuni monaci minori.
 
 Banzen affrontò Suku al suo tavolo.
 
-“Sei in questo tempio da vent'anni,” si infuriò. “Quando smetterai di dare il
-nostro prezioso riso a cuochi che sanno a malapena maneggiare una paletta?”
+“Sei in questo tempio da vent'anni,” si infuriò. “Quando smetterai di dare il nostro prezioso riso a cuochi che sanno a
+malapena maneggiare una paletta?”
 
-Suku posò tranquillamente le proprie bacchette lungo la ciotola. “Non saprei
-dirlo,” rispose. “Quando smetterai di armeggiare con la tua piccola pentola di
-riso e farai palette più semplici per quei cuochi?”
+Suku posò tranquillamente le proprie bacchette lungo la ciotola. “Non saprei dirlo,” rispose. “Quando smetterai di
+armeggiare con la tua piccola pentola di riso e farai palette più semplici per quei cuochi?”

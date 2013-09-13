@@ -3,12 +3,10 @@ Title: Senza stato
 Lang: it
 Translator: alessandro1997
 
-È dovere di ogni monaco chiamare il maestro [[Kaimu|Kaimu]] almeno una volta
-durante la sua permanenza al tempio. Quando il maestro apre la porta il monaco
-si deve inchinare e chiedere: “Qual è la grande gioia dei servizi senza stato?”
+È dovere di ogni monaco chiamare il maestro [[Kaimu|Kaimu]] almeno una volta durante la sua permanenza al tempio. Quando
+il maestro apre la porta il monaco si deve inchinare e chiedere: “Qual è la grande gioia dei servizi senza stato?”
 
-Ogni volta il maestro Kaimu risponde: “Diecimila ospiti sfamati con un singolo
-chicco di riso.”
+Ogni volta il maestro Kaimu risponde: “Diecimila ospiti sfamati con un singolo chicco di riso.”
 
 Allora il monaco deve chiedere: “E qual è la grande pena?”
 

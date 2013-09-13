@@ -3,42 +3,32 @@ Title: Responsabilità
 Lang: it
 Translator: alessandro1997
 
-Una mattina il Tempio si trovò sommerso di telefonate da utenti nel panico, che
-dicevano di aver ricevuto email errate da un certo sistema di fatturazione. Le
-email riportavano che i pagamenti fossero in ritardo di un anno, e gli utenti
+Una mattina il Tempio si trovò sommerso di telefonate da utenti nel panico, che dicevano di aver ricevuto email errate
+da un certo sistema di fatturazione. Le email riportavano che i pagamenti fossero in ritardo di un anno, e gli utenti
 avevano perso la testa.
 
-Gli abati del Tempio si riunirono nel cortile, dibattendo su come localizzare
-al meglio l'origine del problema prima che tutta la clientela del Tempio
-scomparisse nelle montagne per scappare all'ascia del boia.
+Gli abati del Tempio si riunirono nel cortile, dibattendo su come localizzare al meglio l'origine del problema prima che
+tutta la clientela del Tempio scomparisse nelle montagne per scappare all'ascia del boia.
 
-“Non c'è bisogno,” disse la suora [[Hwídah|Hwídah]] dal bordo del cortile. “La
-vergogna è mia. Nella nostra ultima build di manutenzione ho sbadatamente
-modificato un'espressione booleana nel modulo di contabilità, facendole
-restituire falso quando la risposta giusta era vero. Ora ho corretto il difetto,
-e le email fittizie sono cessate.”
+“Non c'è bisogno,” disse la suora [[Hwídah|Hwídah]] dal bordo del cortile. “La vergogna è mia. Nella nostra ultima build
+di manutenzione ho sbadatamente modificato un'espressione booleana nel modulo di contabilità, facendole restituire falso
+quando la risposta giusta era vero. Ora ho corretto il difetto, e le email fittizie sono cessate.”
 
-Hwídah fu bandita per due mesi nelle prigioni sotto gli archivi più profondi del
-Tempio, dove doveva ispezionare da sola stampe sgretolate di vecchi script
-COBOL in cerca di possibili difetti.
+Hwídah fu bandita per due mesi nelle prigioni sotto gli archivi più profondi del Tempio, dove doveva ispezionare da sola
+stampe sgretolate di vecchi script COBOL in cerca di possibili difetti.
 
-Dopo una settimana la suora [[Yíwen|Yíwen]] venne per riempire la ciotola della
-prigioniera di riso freddo.
+Dopo una settimana la suora [[Yíwen|Yíwen]] venne per riempire la ciotola della prigioniera di riso freddo.
 
-“Perdona la mia confusione, Hwídah,” chiese Yíwen mentre spingeva un vassoio
-sotto la porta della cella, “ma perché hai ammesso il tuo sbaglio dopo aver
-corretto l'errore? Se fossi rimasta in silenzio la causa non sarebbe stata
-rilevata per molti giorni, e il Tempio si sarebbe concentrato su questioni più
-importanti. Il tuo coinvolgimento non sarebbe mai stato scoperto.”
+“Perdona la mia confusione, Hwídah,” chiese Yíwen mentre spingeva un vassoio sotto la porta della cella, “ma perché hai
+ammesso il tuo sbaglio dopo aver corretto l'errore? Se fossi rimasta in silenzio la causa non sarebbe stata rilevata per
+molti giorni, e il Tempio si sarebbe concentrato su questioni più importanti. Il tuo coinvolgimento non sarebbe mai
+stato scoperto.”
 
-“Dimmi, Yíwen,” disse la prigioniera, “quale caos ne deriverebbe se tutti i
-moduli nel nostro sistema iniziassero a restituire falso quando la risposta
-corretta è vero? E quando dico <em>[[#70|sistema]]</em>, quale immagine si forma
+“Dimmi, Yíwen,” disse la prigioniera, “quale caos ne deriverebbe se tutti i moduli nel nostro sistema iniziassero a
+restituire falso quando la risposta corretta è vero? E quando dico <em>[[#70|sistema]]</em>, quale immagine si forma
 nella tua mente?”
 
-Hwídah fece scivolare il vassoio vuoto sotto la porta. “Quella mattina, quando
-l'orrore del mio sbaglio mi fu rivelato, lo fu anche questo fatto: siamo tutti
-parti del sistema. È un'estensione dei nostri desideri, dei nostri sforzi, e
--- sfortunatamente -- delle nostre falle. Se avessi lasciato che i miei compagni
-sprecassero ore preziose cercando un difetto che avevo segretamente corretto,
-avrei solo tradito il sistema una seconda volta.”
+Hwídah fece scivolare il vassoio vuoto sotto la porta. “Quella mattina, quando l'orrore del mio sbaglio mi fu rivelato,
+lo fu anche questo fatto: siamo tutti parti del sistema. È un'estensione dei nostri desideri, dei nostri sforzi, e --
+sfortunatamente -- delle nostre falle. Se avessi lasciato che i miei compagni sprecassero ore preziose cercando un
+difetto che avevo segretamente corretto, avrei solo tradito il sistema una seconda volta.”

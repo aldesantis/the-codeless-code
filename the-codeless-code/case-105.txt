@@ -5,34 +5,27 @@ Translator: alessandro1997
 
 Una giovane suora si avvicinò al maestro [[Banzen|Banzen]] e disse:
 
-“Quando mi hanno presentato i requisiti ho creato un documento di design, com'è
-nostra usanza.”
+“Quando mi hanno presentato i requisiti ho creato un documento di design, com'è nostra usanza.”
 
-“Quando il design grezzo è stato approvato ho iniziato un documento di design
-dettagliato, com'è nostra usanza. Facendo questo ho realizzato che il nostro
-design grezzo era mal progettato, e dunque l'ho scartato.”
+“Quando il design grezzo è stato approvato ho iniziato un documento di design dettagliato, com'è nostra usanza. Facendo
+questo ho realizzato che il nostro design grezzo era mal progettato, e dunque l'ho scartato.”
 
-“Quando il design dettagliato è stato approvato ho iniziato a scrivere codice,
-com'è nostra usanza. Facendo questo ho realizzato che il mio design dettagliato
-era mal progettato, e dunque l'ho scartato.”
+“Quando il design dettagliato è stato approvato ho iniziato a scrivere codice, com'è nostra usanza. Facendo questo ho
+realizzato che il mio design dettagliato era mal progettato, e dunque l'ho scartato.”
 
 “La mia domanda è questa:
 
-“Dato che dobbiamo rifattorizzare secondo le nostre necessità, e poiché tutte le
-necessità sono conosciute solo quando l'implementazione è stata iniziata, non
-possiamo semplicemente scrivere il codice e nient'altro? Perché dobbiamo
+“Dato che dobbiamo rifattorizzare secondo le nostre necessità, e poiché tutte le necessità sono conosciute solo quando
+l'implementazione è stata iniziata, non possiamo semplicemente scrivere il codice e nient'altro? Perché dobbiamo
 sprecare il nostro tempo creando documenti di design?”
 
 Banzen pensò a questo. Infine annuì, dicendo:
 
-“Non c'è più virtù nei documenti che in una manciata di foglie: puoi
-tranquillamente fare a meno di produrre entrambi. Prima che il maestro Mugen
-attraversasse il Deserto Non Compilato ha creato otto mappe dettagliate della
-strada che progettava di prendere. Eppure quando è arrivato ai cancelli del
-tempio le ha bruciate sul posto.”
+“Non c'è più virtù nei documenti che in una manciata di foglie: puoi tranquillamente fare a meno di produrre entrambi.
+Prima che il maestro Mugen attraversasse il Deserto Non Compilato ha creato otto mappe dettagliate della strada che
+progettava di prendere. Eppure quando è arrivato ai cancelli del tempio le ha bruciate sul posto.”
 
-La suora si avviò di buon umore, ma quando raggiunse la soglia Banzen urlò:
-“Suora!”
+La suora si avviò di buon umore, ma quando raggiunse la soglia Banzen urlò: “Suora!”
 
 Quando la suora si girò, Banzen disse:
 

@@ -3,49 +3,38 @@ Title: La scatola dipinta di nero
 Lang: it
 Translator: alessandro1997
 
-Il maestro [[Bawan|Bawan]] pose questo dilemma agli sviluppatori sotto il suo
-comando:
+Il maestro [[Bawan|Bawan]] pose questo dilemma agli sviluppatori sotto il suo comando:
 
-“Quando investighiamo comportamenti strani nell'ambiente di produzione, la
-nostra arma più potente sono sempre stati i messaggi di debug: più numerosi e
-dettagliati sono, meglio è. Eppure quando usati copiosamente, la formattazione
-di questi messaggi diventa dispendiosa -- <em>inutilmente</em> dispendiosa, e
-dunque escludiamo i messaggi di debug dai log quando non stiamo investigando
-alcun problema. Quindi quale sentiero è il migliore? Sicuro ma lento, o sbadato
-ma veloce?”
+“Quando investighiamo comportamenti strani nell'ambiente di produzione, la nostra arma più potente sono sempre stati i
+messaggi di debug: più numerosi e dettagliati sono, meglio è. Eppure quando usati copiosamente, la formattazione di
+questi messaggi diventa dispendiosa -- <em>inutilmente</em> dispendiosa, e dunque escludiamo i messaggi di debug dai log
+quando non stiamo investigando alcun problema. Quindi quale sentiero è il migliore? Sicuro ma lento, o sbadato ma
+veloce?”
 
-“<em>Wú,</em>” disse una delle monache. “Tutto può essere loggato, con uno
-sforzo minimo. Racchiudete tutte le chiamate di debug in un'istruzione if che
-verifica se il debugging è attivo prima di preoccuparsi della formattazione del
+“<em>Wú,</em>” disse una delle monache. “Tutto può essere loggato, con uno sforzo minimo. Racchiudete tutte le chiamate
+di debug in un'istruzione if che verifica se il debugging è attivo prima di preoccuparsi della formattazione del
 messaggio. Saremo lenti solo quando dobbiamo essere sicuri.”
 
-Bawan considerò questa proposta e sembrò soddisfatto. Disse alla monaca di
-implementare la propria soluzione in un'applicazione che era in fase di
-sviluppo. Come ulteriore ricompensa per la sua intelligenza le consegnò due
-scatole dipinte.
+Bawan considerò questa proposta e sembrò soddisfatto. Disse alla monaca di implementare la propria soluzione in
+un'applicazione che era in fase di sviluppo. Come ulteriore ricompensa per la sua intelligenza le consegnò due scatole
+dipinte.
 
-“Apri immediatamente la scatola rossa,” disse Bawan, “ma lascia chiusa la
-scatola nera. Nel tempo ti servirà.”
+“Apri immediatamente la scatola rossa,” disse Bawan, “ma lascia chiusa la scatola nera. Nel tempo ti servirà.”
 
-Nella scatola rossa la monaca trovò una piccola ciotola piena di succulenti kiwi,
-litchi e pere bianche, appoggiate su un letto di bacche goji. Li gustò quella
-stessa sera. Dopodiché mise entrambe le scatole su una mensola alta, e infine
+Nella scatola rossa la monaca trovò una piccola ciotola piena di succulenti kiwi, litchi e pere bianche, appoggiate su
+un letto di bacche goji. Li gustò quella stessa sera. Dopodiché mise entrambe le scatole su una mensola alta, e infine
 se ne dimenticò.
 
 - - -
 
-Due anni più tardi, dopo che il sistema aveva subito diversi miglioramenti, un
-piccolo problema di produzione comparve -- il primo in molti rilasci. La suora
-chiese che il sistema fosse riavviato in modalità debug.
+Due anni più tardi, dopo che il sistema aveva subito diversi miglioramenti, un piccolo problema di produzione comparve
+-- il primo in molti rilasci. La suora chiese che il sistema fosse riavviato in modalità debug.
 
-Improvvisamente, stack trace di eccezioni NullPointerException comparvero sullo
-schermo di ogni utente. Il sistema era diventato completamente inutilizzabile.
-Mentre la suora stava inorridita in mezzo al caos, il maestro Bawan le scivolò
+Improvvisamente, stack trace di eccezioni NullPointerException comparvero sullo schermo di ogni utente. Il sistema era
+diventato completamente inutilizzabile. Mentre la suora stava inorridita in mezzo al caos, il maestro Bawan le scivolò
 accanto e sussurrò, “Ora prendi la scatola nera.”
 
-Quando il coperchio fu alzato si sparse un odore osceno. Dentro stava una
-piccola ciotola piena dei resti ammuffiti edessiccati di quelli che sembravano
-essere stati kiwi, litchi, pere e bacche goji.
+Quando il coperchio fu alzato si sparse un odore osceno. Dentro stava una piccola ciotola piena dei resti ammuffiti ed
+essiccati di quelli che sembravano essere stati kiwi, litchi, pere e bacche goji.
 
-La suora chiese che la modalità debug fosse disattivata e chiuse la scatola,
-illuminata.
+La suora chiese che la modalità debug fosse disattivata e chiuse la scatola, illuminata.

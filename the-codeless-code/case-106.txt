@@ -3,40 +3,33 @@ Title: L'”io” nella squadra
 Lang: it
 Translator: alessandro1997
 
-Un certo monaco era conosciuto in tutto il Tempio per la sua umiltà. Quando
-si discutevano le falle nel software del clan prendeva sempre su di sé la
-responsabilità, eppure quando si ricevevano lodi per le meravigliose
-funzionalità create da lui stesso, dava sempre credito a tutto il team. Infine
-giunse voce del monaco alla vecchia [[Jinyu|Jinyu]], Badessa su Tutti i Clan e
-le Problematiche.
+Un certo monaco era conosciuto in tutto il Tempio per la sua umiltà. Quando si discutevano le falle nel software del
+clan prendeva sempre su di sé la responsabilità, eppure quando si ricevevano lodi per le meravigliose funzionalità
+create da lui stesso, dava sempre credito a tutto il team. Infine giunse voce del monaco alla vecchia [[Jinyu|Jinyu]],
+Badessa su Tutti i Clan e le Problematiche.
 
-“Dunque,” disse al suo abate capo, “questo monaco dice <em>ho fallito</em> di
-fronte alle sconfitte degli altri, e <em>abbiamo trionfato</em> di fronte alle
-sue vittorie?”
+“Dunque,” disse al suo abate capo, “questo monaco dice <em>ho fallito</em> di fronte alle sconfitte degli altri, e
+<em>abbiamo trionfato</em> di fronte alle sue vittorie?”
 
 “Così si dice nel Tempio,” disse l'abate.
 
 “Portalo da me,” comandò Jinyu.
 
-Quando questo fu fatto, Jinyu sorprese tutti i presenti colpendo il monaco con
-il suo bastone e condannandolo a trenta giorni di duro lavoro nelle miniere dei
-dati. Dopo che il monaco stordito fu stato portato via l'abate si avvicinò
+Quando questo fu fatto, Jinyu sorprese tutti i presenti colpendo il monaco con il suo bastone e condannandolo a trenta
+giorni di duro lavoro nelle miniere dei dati. Dopo che il monaco stordito fu stato portato via l'abate si avvicinò
 nervosamente a Jinyu per domandare della ragione.
 
-Jinyu colpì l'abate. “Idiota! Pensa all'algoritmo del monaco. Quando dice <em>ho
-fallito</em>, qual è la verità più probabile?”
+Jinyu colpì l'abate. “Idiota! Pensa all'algoritmo del monaco. Quando dice <em>ho fallito</em>, qual è la verità più
+probabile?”
 
 “Che gli altri abbiano fallito,” disse l'abate, indietreggiando.
 
-Jinyu lo colpì di nuovo. “E quando il monaco dice <em>abbiamo trionfato</em>,
-qual è il significato più verosimile?”
+Jinyu lo colpì di nuovo. “E quando il monaco dice <em>abbiamo trionfato</em>, qual è il significato più verosimile?”
 
 “Che la vittoria fosse solamente sua,” disse l'abate, trasalendo per il dolore.
 
-L'antica sacerdotessa fece roteare il bastone sopra la testa, così velocemente
-che l'aria gemette d'angoscia, finché con un rombo tonante non colpì il suolo
-davanti all'abate terrorizzato. “L'unica cosa degna di merito riguardo questo
-monaco presuntuoso è che ha saputo padroneggiare l'arte della mappatura
-uno-a-uno. Nel frattempo, cosa dovrei fare con il resto di voi idioti? Voi vi
-siete lasciati raggirare da un semplice cifrario sostitutivo che <em>le vostre
-menti avevano già decodificato.</em>”
+L'antica sacerdotessa fece roteare il bastone sopra la testa, così velocemente che l'aria gemette d'angoscia, finché con
+un rombo tonante non colpì il suolo davanti all'abate terrorizzato. “L'unica cosa degna di merito riguardo questo monaco
+presuntuoso è che ha saputo padroneggiare l'arte della mappatura uno-a-uno. Nel frattempo, cosa dovrei fare con il resto
+di voi idioti? Voi vi siete lasciati raggirare da un semplice cifrario sostitutivo che <em>le vostre menti avevano già
+decodificato.</em>”
