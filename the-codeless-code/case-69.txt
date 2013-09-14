@@ -9,22 +9,22 @@ restituiti con la seguente motivazione: “Insoddisfacente”.
 
 “Qual è la tua obiezione?” chiese l'abate, famoso per la sua impazienza.
 
-“La maggior parte di ciò che mi hai dato era codice sorgente,” disse lo scriba. “Dichiarazioni di classi, corpi di
+“La maggior parte di ciò che mi avete dato era codice sorgente,” disse lo scriba. “Dichiarazioni di classi, corpi di
 metodi, lunghe query SQL. Non è così che lavoriamo.”
 
 “Come meglio documentare gli algoritmi?” chiese l'abate irritato. “Il mio metodo non distorce nulla.”
 
 Lo scriba considerò le sue parole.
 
-“Molto bene,” disse infine. “Se puoi convincere il sommo sacerdote del mio ordine, lo permetterò.”
+“Molto bene,” disse infine. “Se potete convincere il sommo sacerdote del mio ordine, lo permetterò.”
 
 “Dimmi dove posso trovare questo sacerdote," disse l'abate, frugando nella sua veste in cerca di carta e inchiostro.
 
-“Posso solo dirti dove l'ho trovato l'ultima volta, circa tre anni fa,” disse lo scriba, sfogliando il suo diario. “Ah!
+“Posso solo dirvi dove l'ho trovato l'ultima volta, circa tre anni fa,” disse lo scriba, sfogliando il suo diario. “Ah!
 Ecco qui: ho seguito la Strada delle Ortiche Bianche verso est per due giorni, finché sono arrivato a un ruscello
 gonfiato da una recente pioggia. Lì ho girato in modo che il vento fosse alle mie spalle, camminando finché due salmoni
 sono balzati fuori dalle acque. Attraversando la passerella successiva ho preso, alla biforcazione, la strada che
 puntava dritta alla luna, ho girato a destra quando ho incontrato un ragazzo scalzo che raccoglieva bastoni e poi a
-sinistra quando le nuvole hanno oscurato la stella polare. Era la capanna con la porta socchiusa; non puoi mancarla.”
+sinistra quando le nuvole hanno oscurato la stella polare. Era la capanna con la porta socchiusa; non potete mancarla.”
 
 L'abate non necessitò di altri rimproveri.

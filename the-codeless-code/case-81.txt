@@ -1,9 +1,9 @@
 Number: 81
-Title: Bubble Sort
+Title: Bubble sort
 Lang: it
 Translator: alessandro1997
 
-Camminando peer le stanze della sua abazia in tarda notte, il maestro [[Bawan|Bawan]] incontrò un monaco disperato. Una
+Camminando peer le stanze della sua abbazia in tarda notte, il maestro [[Bawan|Bawan]] incontrò un monaco disperato. Una
 scadenza mattutina si stava avvicinando, e dopo tre notti in bianco il monaco esausto aveva inserito le ultime monete
 che gli rimanevano nel distributore senza accorgersi del cartello attaccato a esso. Sul cartello era scritto
 <pre>FUORI SERVIZIO</pre> in grandi lettere rosse.

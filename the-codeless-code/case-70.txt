@@ -12,7 +12,7 @@ Dai diagrammi, creo un modello nel disegnatore.
 Dal modello, creo uno scheletro di progetto.
 Dallo scheletro, inserisco il codice sorgente come testo.
 Dal testo, il compilatore crea bytecode in file .class.
-Dai file .class, il sistema di costruzione assembla file war.
+Dai file .class, il sistema di build assembla file war.
 Dai file war, il pubblicatore crea un'applicazione web.
 
 Ma non abbiamo ancora finito:

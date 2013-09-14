@@ -29,20 +29,20 @@ per usarlo, iniziando con la pagina Guerriero.
 Dopo che il monaco corse a obbedire, una suora che era vicina si avvicinò a Banzen.
 
 “Maestro,” chiese la suora, “L'oggetto Guerriero ha un singolo valore per lo Stato. Se la query dell'utente è
-rappresentata da un singolo Guerriero, come potremmo cercare Guerrieri il cui stato è Scomparso, Pensionato o Deceduto?”
+rappresentata da un singolo Guerriero, come potremo cercare Guerrieri il cui stato è Scomparso, Pensionato o Deceduto?”
 
-“Non potremmo,” disse Banzen.
+“Non potremo,” disse Banzen.
 
 “E ancora,” continuò la suora, “L'oggetto Guerriero contiene solo informazioni memorizzate nella tabella Guerriero. Come
-potremmo cercare Guerrieri per i tipi di Armi che usano, o per i Reggimenti in cui hanno servito, dato che dovremmo
+potremo cercare Guerrieri per i tipi di Armi che usano, o per i Reggimenti in cui hanno servito, dato che dovremmo
 unire tabelle figlie?”
 
-“Non potremmo,” disse Banzen.
+“Non potremo,” disse Banzen.
 
 Il maestro prese una piccola pepita nera dal barattolo che teneva sulla propria scrivania, dandola alla monaca
-perplessa. “C'era una volta un monaco che si stancò del riso. Un giorno scoprì l'arte di preparare kuro sato, caramelle
-di zucchero nero. Per anni ne sgranocchiò un pezzo dopo l'altro durante il giorno, diventando gradualmente flaccido e
-pallido e sdentato. Quale fu l'errore del suo maestro?”
+perplessa. “C'era una volta un monaco che si stancò del riso. Un giorno scoprì l'arte di preparare <em>kuro sato</em>,
+caramelle di zucchero nero. Per anni ne sgranocchiò un pezzo dopo l'altro durante il giorno, diventando gradualmente
+flaccido e pallido e sdentato. Quale fu l'errore del suo maestro?”
 
 “Non proibirgli le caramelle,” disse la monaca.
 

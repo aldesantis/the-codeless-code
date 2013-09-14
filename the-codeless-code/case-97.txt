@@ -4,12 +4,12 @@ Lang: it
 Translator: alessandro1997
 
 Nel progetto attuale del monaco [[Landhwa|Landhwa]], gli oggetti di dominio nel livello business erano molto simili ai
-loro corrispettivi oggetti input nel livello Web. Poiché anche la maggior parte delle proprietà si chiamavano nello
-stesso modo, il monaco aveva scelto la riflessione per copiare facilmente la maggior parte dei dati da un livello
-all'altro. Il maestro [[Kaimu|Kaimu]] ne venne a conoscenza e decise di investigare.
+loro corrispettivi oggetti input nel livello Web. Poiché anche molte delle proprietà si chiamavano nello stesso modo, il
+monaco aveva scelto la riflessione per copiare facilmente la maggior parte dei dati da un livello all'altro. Il maestro
+[[Kaimu|Kaimu]] ne venne a conoscenza e decise di investigare.
 
 Dopo aver studiato il codice del monaco, Kaimu estrasse una boccetta di ottone dai suoi abiti, prese un lungo sorso,
-quindi portò una candela alle sue labbra e soffiò forte. Una lingua di fiamme blu partì dalla sua bocca e finì oltre la
+quindi portò una candela alle labbra e soffiò forte. Una lingua di fiamme blu partì dalla sua bocca e finì oltre la
 spalla del monaco.
 
 “Che state facendo?” si lamentò Landhwa, spegnendo le fiamme sul suo abito.

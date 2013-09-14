@@ -1,5 +1,5 @@
 Number: 56
-Title: Necessità da Orso
+Title: Le necessità dell'orso
 Lang: it
 Translator: alessandro1997
 
@@ -21,7 +21,7 @@ Ci fu una pausa imbarazzante.
 “Cento scuse, signore,” disse Yíwen. “Ma ci sta chiedendo di stimare prima lo sforzo del salvataggio?”
 
 “Credo sia la sua funzione,” disse Hwídah, “giacché l'ho sentito fare la stessa domanda a chiunque proponesse modifiche
-nel nostro software.” Fisso gli occhi sull'abate. ”Una dozzina di monaci e suore, al lavoro per due giorni, dovrebbero
+nel nostro software.” Fissò gli occhi sull'abate. ”Una dozzina di monaci e suore, al lavoro per due giorni, dovrebbero
 essere sufficienti per attraversare il baratro, recuperare ciò che resta del ponte, e salvare la disgraziata monaca che
 penzola dalla cima.”
 

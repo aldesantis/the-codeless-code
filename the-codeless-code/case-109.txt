@@ -11,10 +11,10 @@ ostacoli vengano superati?”
 
 “Qual è la grande virtù del tuo framework?” chiese Banzen con aria assente mentre guardava fuori dalla finestra.
 
-Il monaco rispose, “Se una l'Oggetto Valore di una tabella del database è annotato appropriatamente, un intero modulo di
+Il monaco rispose, “Se l'Oggetto Valore di una tabella del database è annotato appropriatamente, un intero modulo di
 ricerca per quella tabella può essere creato con poco o nessun codice!”
 
-“È risaputo che la scrittura del codice è un fardello per il Tempio,” disse Banzen, mentre i suoi occhi seguivano un
+“È risaputo che la scrittura del codice sia un fardello per il Tempio,” disse Banzen, mentre i suoi occhi seguivano un
 fringuello dalla testa nera saettare avanti e indietro. “Se non fossimo così occupati a scrivere codice, avremmo molto
 più tempo... per scrivere codice.”
 
@@ -30,9 +30,9 @@ facilmente superata da un'implementazione tradizionale. Come rimedierai a questo
 
 “Vai allora,” disse Banzen bruscamente, congedando il monaco con un movimento della mano.
 
-Dopo che il monaco se ne fu andato, Banzen convocò la suora [[Satou|Satou]]. Ella si avvicinò alla scrivania del maestro
-nervosamente, tenendosi ben lontana dal [[#108|barattolo]] sopra di essa.
+Dopo che il monaco se ne fu andato, Banzen convocò la suora [[Satou|Satou]]. Ella si avvicinò nervosamente alla
+scrivania del maestro, tenendosi ben lontana dal [[#108|barattolo]] sopra di essa.
 
-“Quando quel monaco torna al suo cubicolo,” disse Banzen, “Incatena i suoi piedi alla scrivania e lascialo lì per un
+“Quando quel monaco torna al suo cubicolo,” disse Banzen, “incatena i suoi piedi alla scrivania e lascialo lì per un
 giorno. Se domani si lamenta, liberagli i piedi e incatena invece le sue mani, dicendogli che ora può correre quanto
 vuole.”

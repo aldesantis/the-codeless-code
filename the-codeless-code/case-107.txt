@@ -6,25 +6,25 @@ Translator: alessandro1997
 Uno straniero magro e sporco di fango giunse al Tempio una notte e chiese del maestro [[Kaimu|Kaimu]]. Il maestro fu
 svegliato e portato al tempio, dove lo straniero disse:
 
-“Per anni ho attraversato questa terra crudele, cercando il linguaggio di programmazione perfetto. Nominane uno e l'avrò
-provato, sia esso veloce o lento, di alto o basso livello, da Ada a Zeno. Ma qualunque siano i vantaggi ci sono anche
-degli svantaggi, quindi preparo le mie cose e mi avventuro nuovamente -- il che in questo caso mi ha portato alla vostra
-porta.”
+“Per anni ho attraversato questa terra crudele, cercando il linguaggio di programmazione perfetto. Nominatene uno e
+l'avrò provato, sia esso veloce o lento, di alto o basso livello, da Ada a Zeno. Ma qualunque siano i vantaggi ci sono
+anche degli svantaggi, quindi preparo le mie cose e mi avventuro nuovamente -- il che in questo caso mi ha portato alla
+vostra porta.”
 
 Kaimu chiese allo straniero di descrivere il linguaggio che desiderava:
 
-“Dev'essere utilizzabile a livello enterprise,” rispose lo stranieo, “client-side e server-side, nello scripting, nelle
+“Dev'essere utilizzabile a livello enterprise,” rispose lo stranieo, “lato client e lato server, nello scripting, nelle
 shell e nei fogli di calcolo. Mi serve in tempo reale, multi-threaded e opzionalmente orientato agli oggetti; con
 garbage collection, rilevamento dei deadlock, eccezioni personalizzate, ridimensionamento automatico degli array di cose
 ed espressioni regolari per confrontare le stringhe. Voglio la simplicità del BASIC, la purezza dello Smalltalk, la
 brevità dell'Haskell, la velocità del C, la consistenza del Lisp, la leggiblità del Python, la flessibilità del Perl, e
 la portabilità di... Java, credo, ma con binding al codice nativo che non siano un macello.”
 
-“Allora domani mattina ti assisteremo come meglio potremo,” disse Kaimu. “Ma stanotte dovrai passarla nella capanna del
+“Allora domani mattina ti assisteremo come meglio potremo,” disse Kaimu. “Ma stanotte dovrai stare nella capanna del
 carpentiere sotto il muro sud.”
 
 Lo straniero si inchinò e partì per fare il letto tra la segatura e i trucioli. Quando Kaimu si incamminò verso le sue
-camere un monaco chiese, ”Qual è il tuo piano per lui?”
+camere un monaco chiese, ”Qual è il vostro piano per lui?”
 
 “Quando giungerà l'alba,” rispose il maestro, “il nostro ospite vedrà che sui muri della capanna saranno disposti
 diecimila strumenti, ciascuno creato per uno scopo specifico. Nessuno potrebbe scambiare il martello con lo scalpello, e
@@ -34,7 +34,7 @@ nessun vero carpentiere rinuncerebbe a uno per l'altro.”
 
 Alle prime luci dell'alba lo straniero tornò al cancello del Tempio, per farsi salutare da Kaimu e dal monaco.
 
-“Stai ancora cercando di realizzare il tuo sogno?”
+“Stai ancora cercando il linguaggio dei tuoi sogni?”
 
 “No!” rispose lo straniero. “Giacché nella capanna ho trovato un pugnale meraviglioso, non più grande della mia mano,
 la cui impugnatura si apriva per rivelare le cose più stupende: pinzette e stuzzicadenti, pinze e punte da trapano,
@@ -51,7 +51,7 @@ Lezione Incompresa?”
 doppio se solo fossi stato furbo la metà.”
 
 “E lo straniero?” chiese il monaco. “Certamente fallirà nel suo tentativo, giacché quel coltello che apprezza tanto non
-contiene né il martello né lo scalpello. E se dovesse parzialmente riuscire ancora peggio, giacché avrà aggiunto un
+contiene né il martello né lo scalpello. E se dovesse parzialmente riuscire ancora peggio, poiché avrà aggiunto un
 altro linguaggio a un mondo che già annega nella confusione.”
 
 ”Lascialo provare, e buona fortuna a lui!” disse Kaimu. ”Se non fosse per gli stolti della sua specie, non avremmo il

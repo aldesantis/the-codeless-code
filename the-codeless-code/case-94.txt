@@ -3,7 +3,7 @@ Title: Convenzioni
 Lang: it
 Translator: alessandro1997
 
-Un certo monaco era stato reclutato nel [[Spider Clan|Clan del Ragno]] e assegnato alla manutenzione di un grande e
+Un certo monaco era stato reclutato dal [[Spider Clan|Clan del Ragno]] e assegnato alla manutenzione di un grande e
 vecchio sistema. Dopo aver configurato il proprio ambiente di sviluppo, il monaco scoprì con orrore le convenzioni di
 codifica non-standard usate nell'applicazione. Le costanti non erano maiuscole, ma miste con una ‘k’ all'inizio. Le
 variabili di istanza erano chiamate con un ‘_fld’ alla fine. La lista continuava.
@@ -21,8 +21,8 @@ persone che c'erano lì. Davanti a ognuno c'era un piatto di riso con un intero 
 mangiava; erano tutti chinati in silenziosa contemplazione.
 
 Quando l'ultimo ospite si sedette, la maestra Suku annuì leggermente verso l'assemblea. Senza dire una parola ogni
-maestro si alzò sul proprio piede sinistro, prese il pesce e lo mise sulla testa.
+maestro si alzò sul proprio piede sinistro, prese il pesce e se lo mise in testa.
 
-Tutti gli occhi erano ora sul monaco, che sedeva sconcertato a questa vista. Realizzando la propria ignoranza riguardo
+Tutti gli occhi erano ora sul monaco, che sedeva sconcertato a quella vista. Realizzando la propria ignoranza riguardo
 le maniere del tempio, si alzò prontamente sul piede sinistro, prese il proprio pesce e se lo mise in testa. In
 quell'istante il monaco fu illuminato.

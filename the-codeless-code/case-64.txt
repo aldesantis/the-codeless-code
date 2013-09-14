@@ -1,5 +1,5 @@
 Number: 64
-Title: Tre Mendicanti
+Title: Tre mendicanti
 Lang: it
 Translator: alessandro1997
 
@@ -12,8 +12,8 @@ non è banale, ma alla fine si riduce a una sostituzione di testo.”
 Kaimu indicò il primo monaco anziano. “Questo lavora allo strato di persistenza, dove tutte le chiavi del database sono
 grandi interi. Comprensibilmente, vorrebbe che il metodo accettasse un oggetto Long.”
 
-Kaimu indicò il secondo monaco anziano. “Questo lavora allo strato della logica di business, che utilizza la tipizzazione
-forte. Vorrebbe che il metodo accettasse un oggetto IDImpiegato.”
+Kaimu indicò il secondo monaco anziano. “Questo lavora allo strato della logica di business, che utilizza la
+tipizzazione forte. Vorrebbe che il metodo accettasse un oggetto IDImpiegato.”
 
 Kaimu indicò il terzo monaco anziano. “Questo lavora allo strato web, dove tutti i dati sono manipolati come testo.
 Vorrebbe che il metodo accettasse un oggetto String.”
@@ -22,9 +22,9 @@ Quindi il maestro si inchinò di fronte ai tre monaci, e invitò i novizi a offr
 
 - - -
 
-Il primo noviziò si alzò. “Il metodo dovrebbe accettare un oggetto String, giacché tale rappresentazione sarà la più utile
-all'interno del metodo stesso. I monaci che preferiscono Long o IDImpiegato potranno facilmente invocare <em>toString</em>
-su quegli oggetti e fornirne il risultato al metodo.”
+Il primo noviziò si alzò. “Il metodo dovrebbe accettare un oggetto String, giacché tale rappresentazione sarà la più
+utile all'interno del metodo stesso. I monaci che preferiscono Long o IDImpiegato potranno facilmente invocare
+<em>toString</em> su quegli oggetti e fornirne il risultato al metodo.”
 
 Disse Kaimu: “Quando il mendicante rannicchiato nel fango ti chiede del denaro, potresti ben chiedergli di alzare
 la sua ciotola per venirti incontro. Ma come farà l'uomo senza braccia?”

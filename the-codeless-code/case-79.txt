@@ -1,5 +1,5 @@
 Number: 79
-Title: Cave Canem
+Title: Cave canem
 Lang: it
 Translator: alessandro1997
 

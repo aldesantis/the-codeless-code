@@ -1,5 +1,5 @@
 Number: 95
-Title: Le Rose sono Rosse
+Title: Le rose sono rosse
 Lang: it
 Translator: alessandro1997
 

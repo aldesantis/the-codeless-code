@@ -1,5 +1,5 @@
 Number: 88
-Title: Il Consigliere di Suku
+Title: Il consigliere di Suku
 Lang: it
 Translator: alessandro1997
 
@@ -18,10 +18,10 @@ questo serpente ha perso la sua strada.”
 Wangohan scosse la testa. “Sono arrivato troppo lontano per tornare indietro ora. Che consiglio puoi darmi per il
 viaggio che mi attende?”
 
-“Nessuno in questo momento,” disse Suku. “Ma a mezzanotte, prendi una lanterna e seguì il sentiero che attraversa il
+“Nessuno in questo momento,” disse Suku. “Ma a mezzanotte, prendi una lanterna e segui il sentiero che attraversa il
 Ponte di Zjing. Manderò un consigliere ad aspettarti dall'altra parte.”
 
-Quando l'ora stabilita arrivò, Wangohan uscì dall'abazia e si incamminò lungo il ponte lungo e traballante che
+Quando l'ora stabilita arrivò, Wangohan uscì dall'abbazia e si incamminò lungo il ponte lungo e traballante che
 attraversava il baratro. Aveva appena raggiunto la metà quando le tavole dall'altra parte scoppiarono in fiamme. Il
 fuoco consumò le funi davanti al monaco terrorizzato; metà del ponte era ora in fiamme. Nella luce tremenda, si poteva
 vedere la maestra Suku dall'altra parte, che spegneva la sua lanterna e si allontanava.

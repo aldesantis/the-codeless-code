@@ -1,12 +1,12 @@
 Number: 84
-Title: Com'è Scritto sul Barattolo
+Title: Quel che è scritto sul barattolo
 Lang: it
 Translator: alessandro1997
 
 [[Wangohan|Wangohan]], un monaco sotto la responsabilità di [[Suku|Suku]], faticava da due giorni per trovare la causa
 di un bug. Al terzo giorno, mentre scorreva lentamente i suoi sorgenti, Wangohan fu illuminato.
 
-Con la rabbia nel suo petto e un listato di codice nella sua mano, Wangohan entrò nel cubicolo di un monaco chiamato
+Con la rabbia nel proprio petto e un listato di codice in mano, Wangohan entrò nel cubicolo di un monaco chiamato
 [[Landhwa|Landhwa]]. Wangohan sbatté le pagine sulla scrivania di Landhwa e colpì col dito una variabile cerchiata in
 rosso.
 
@@ -30,4 +30,4 @@ sconosciuta, ma Landhwa ha sussurrato debolmente il tuo nome prima della sua ult
 
 Wangohan allargò le mani. “Non ho idea di cosa indisponga il monaco. Ma nella sua dispensa c'è un barattolo etichettato
 ‘cannella’ che ho recentemente iniziato a usare per conservare la mia mistura di quella spezia. Se l'ha assaggiata,
-vi prego di assicurargli che è solo cannella -- per la maggior parte.”
+vi prego di assicurarlo che è solo cannella -- per la maggior parte.”

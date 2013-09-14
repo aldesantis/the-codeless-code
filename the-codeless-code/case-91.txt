@@ -1,5 +1,5 @@
 Number: 91
-Title: L'Anima dell'Intelligenza
+Title: L'anima dell'intelligenza
 Lang: it
 Translator: alessandro1997
 
@@ -29,7 +29,7 @@ Questo imbarazzò e irritò il monaco. “Come puoi esserne così certa?” chie
 “Te lo dirò,” disse la monaca.
 
 Zjing iniziò a raccontare di come fosse nata in una provincia distante, la seconda più giovane di sei figlie ubbidienti.
-Suo padre, disse, era un umile matematico, povero ma accorto e calcolatore; sua madre aveva una bancarela al mercato
+Suo padre, disse, era un umile matematico, povero ma accorto e calcolatore; sua madre aveva una bancarella al mercato
 dove vendeva numeri casuali. Molto dettagliatamente Zjing descrisse i suoi primissimi giorni di scuola, arrivando a
 parlare della consistenza levigata del vecchio pavimento in teak e dell'acre eppure non spiacevole scia del cane
 randagio che la seguì a casa in un giorno di pioggia.

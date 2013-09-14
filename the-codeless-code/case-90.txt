@@ -1,5 +1,5 @@
 Number: 90
-Title: Controllo di Versione
+Title: Non un numero
 Lang: it
 Translator: alessandro1997
 
@@ -36,5 +36,5 @@ Denaro senza valore, monaco finto, pane fittizio, <span style="color: #666">fals
 
 Kaimu incontrò un vecchio soldato: un uomo perduto e disperato,
 giacché non poteva ricordare il suo stesso nome.
-Il maestro gli diede una monata, dicendo, “Questa è per te da Kaimu.”
+Il maestro gli diede uno schiaffo, dicendo, “Questa è per te da Kaimu.”
 Il soldato pianse di gioia, “Allora devo essere Non Kaimu!”

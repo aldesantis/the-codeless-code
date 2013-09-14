@@ -1,30 +1,30 @@
 Number: 80
-Title: Una Razza a Parte
+Title: Una razza a parte
 Lang: it
 Translator: alessandro1997
 
 Il maestro Java [[Bawan|Bawan]] e un giovane monaco sotto la sua responsabilità camminavano lungo una strada, quando
 incontrarono un emissario dell'Imperatore.
 
-Dopo lo scambio dei soliti saluti, l'emissario si girò verso Bawan e con disdegnò chiese, “Perché il vostro monaco non
+Dopo lo scambio dei soliti saluti, l'emissario si girò verso Bawan e con disdegno chiese, “Perché il vostro monaco non
 si cura nel rispetto degli editti imperiali sull'abbigliamento dei lavoratori? La sua faccia non è rasata, le sue scarpe
-imperdonabilmente sgargianti, e il suo abito sono fatti di cotone a buon mercato con uno slogan umoristico che adorna
-la schiena. Questo è estremamente irrispettoso nei vostri confronti! Perché lo tollerate?”
+sono imperdonabilmente sgargianti, e i suoi abiti sono fatti di cotone a buon mercato con uno slogan umoristico che
+adorna la schiena. Questo è estremamente irrispettoso nei vostri confronti! Perché lo tollerate?”
 
 Con voce fiera, Bawan rispose, “Questo non è un umile spostatore di pietruzze impiegato in una casa contabile, né
 qualche scriba di decimo grado nella Grande Burocrazia! Questo è un monaco del
 [[Temple of the Morning Brass Gong|Tempio del Gong d'Ottone del Mattino]], che pratica le gloriose arti del Java, del C
 e del PHP; del Python e del Perl; Bourne shell e Korn shell; SQL, JPL, XML, CSS3 e anche Javascript. Può -- con il mero
 movimento delle sue dita su una tastiera -- dare luce a interi siti Web, quando i cavalli e le armature in dotazione ai
-reggimenti più maestosi dell'Imperatore possono essere acquistati con la spedizione in due giorni garantita. Ha
+reggimenti più maestosi dell'Imperatore possono essere acquistati con la spedizione garantita in due giorni. Ha
 dimostrato competenza sia nel debugging che nel re-bugging: lo yin e lo yang attorno ai quali gira tutto il benedetto
-commercio! Lui e i suoi compagni non possono e non saranno limitati dalle idee banali della nostra generazione riguardo
-l'igiene personale. I monaci del suo Tempio sono una razza a parte!”
+commercio! Lui e i suoi compagni non possono essere e non saranno limitati dalle idee banali della nostra generazione
+riguardo l'igiene personale. I monaci del suo Tempio sono una razza a parte!”
 
 Così umiliato, l'emissario si inchinò freddamente e continuò per la sua strada.
 
-Quando l'amico non fu più a portata d'orecchio, il giovane monaco sorrise a Bawan, dicendo, “Quell'emissario era quasi
-sicuramente un'idiota, giacché aveva bisogno che certe cose gli fossero spiegate oggi, in quest'era.”
+Quando l'uomo non fu più a portata d'orecchio, il giovane monaco sorrise a Bawan, dicendo, “Quell'emissario era quasi
+sicuramente un idiota, giacché aveva bisogno che certe cose gli fossero spiegate oggi, in quest'era.”
 
 Bawan lanciò un'occhiata al mento ispido e all'abbigliamento irriverente del monaco. Senza avvertimento il maestro fece
 roteare il bastone, colpendo con forza il monaco dietro il cranio e uccidendolo sul colpo.

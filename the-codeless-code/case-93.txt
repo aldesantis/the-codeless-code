@@ -1,5 +1,5 @@
- Number: 93
-Title: Prendi il Sentiero Meno Battuto
+Number: 93
+Title: Prendi la strada maestra
 Lang: it
 Translator: alessandro1997
 
@@ -19,7 +19,7 @@ quale piede mettere per primo e quale per secondo; quanti passi fare prima di gi
 sinistra; quali mani usare per scendere dalla corda del pozzo, e quanto forte tirare l'orecchino sulla seconda statua di
 pietra nella terza alcova prima di attraversare la Stanza delle Lance Velenose Sapientemente Nascoste.
 
-La suora seguì le istruzioni e tornò entro un'ora, madida di sudore freddo ma portando la bottiglia desiderata.
+La suora seguì le istruzioni e tornò dopo un'ora, madida di sudore freddo ma portando la bottiglia desiderata.
 
 Bawan bevve un sorso e annuì in approvazione. La suora si inchinò e uscì, illuminata.
 

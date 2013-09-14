@@ -8,7 +8,7 @@ Una giovane suora si avvicinò al maestro [[Banzen|Banzen]] e disse:
 “Quando mi hanno presentato i requisiti ho creato un documento di design, com'è nostra usanza.”
 
 “Quando il design grezzo è stato approvato ho iniziato un documento di design dettagliato, com'è nostra usanza. Facendo
-questo ho realizzato che il nostro design grezzo era mal progettato, e dunque l'ho scartato.”
+questo ho realizzato che il mio design grezzo era mal progettato, e dunque l'ho scartato.”
 
 “Quando il design dettagliato è stato approvato ho iniziato a scrivere codice, com'è nostra usanza. Facendo questo ho
 realizzato che il mio design dettagliato era mal progettato, e dunque l'ho scartato.”

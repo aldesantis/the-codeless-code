@@ -1,13 +1,13 @@
 Number: 89
-Title: Controllo di Versione
+Title: Controllo di versione
 Lang: it
 Translator: alessandro1997
 
-Precisamente alle 7:07 della prima mattina serena della prima settimana di primavera, il vecchio scriba Qi fu svegliato
-da dei colpi sulla sua parte. Una badessa aspettava fuori, affiancata da due guardie pesantemente armate in tuniche
-bianche e nere.
+Precisamente alle 7:07 della prima mattina serena della prima settimana di primavera, il vecchio scriba [[Qi|Qi]] fu
+svegliato da dei colpi sulla sua porta. Una badessa aspettava fuori, affiancata da due guardie pesantemente armate in
+tuniche bianche e nere.
 
-Disse la badessa: “Abbiamo letto il tuo racconto dell'incendio del ponte di Zjing, e lo giudichiamo una menzogna
+Disse la badessa: “Abbiamo letto il tuo racconto dell'[[#88|incendio del Ponte di Zjing]], e lo giudichiamo una menzogna
 dall'inizio alla fine. Gli annali sono sacrosanti: falsificandoli, hai sacrificato la tua stessa testa.”
 
 Lo scriba rispose: “Ciò che è stato scritto è stato ed è.”
@@ -22,13 +22,13 @@ cui un monaco testardo viene corretto dopo essersi trovato a metà di un ponte n
 
 Lo scriba annuì e rispose: “Uno punto zero.”
 
-Disse la badessa: “La versione successiva dà un resoconto elaborato della maestra Suku e del monaco Landhwa. Qui, Suku
-corregge il monaco sciogliendo le assi dalla sua parte del ponte, come suggerisce l'email.”
+Disse la badessa: “La versione successiva dà un resoconto elaborato della maestra [[Suku|Suku]] e del monaco Landhwa.
+Qui, Suku corregge il monaco sciogliendo le assi dalla sua parte del ponte, come suggerisce l'email.”
 
 Lo scriba annuì di nuovo e rispose: “Uno punto uno.”
 
 Disse la badessa: “Una versione successiva cambia il monaco in Wangohan. Qui, Suku rilascia sul ponte un cesto di cobra
-addestrati che strisciano verso il monaco senza speranze. Questa è la mia prferita, per il suo elegante uso dei
+addestrati che strisciano verso il monaco senza speranze. Questa è la mia preferita, per il suo elegante uso dei
 serpenti.”
 
 Lo scriba si inchinò e rispose: “Uno punto quattro.”
@@ -37,15 +37,15 @@ Disse la badessa. “La versione finale fa sì che la maestra Suku riduca il pon
 
 Lo scriba rispose: “Uno punto sei.”
 
-Disse la badessa: “Puoi dire una sola parola che mi convincerà a lasciarti tenere la testa?”
+Disse la badessa: “Puoi dire una sola parola che mi convinca a lasciarti tenere la testa?”
 
-Lo scriba non disse nulla, ma si sedette tranquillamente alla sua scrivania e prese la sua tastiera. Dietro di lui, le
-guardie sfoderarono le loro spade.
+Lo scriba non disse nulla, ma si sedette tranquillamente alla sua scrivania e prese la tastiera. Dietro di lui, le
+guardie sfoderarono le proprie spade.
 
 - - -
 
 Precisamente alle 7:07 della prima mattina serena della prima settimana di primavera, il vecchio scriba Qi fu svegliato
 dal cinguettio di una gazza sull'albero fuori dalla finestra. Attraverso i rami, si potevano vedere i freddi resti
-carbonizzati del ponte di Zjing.
+carbonizzati del Ponte di Zjing.
 
 Disse lo scriba alla gazza: “Uno punto sei punto uno.”

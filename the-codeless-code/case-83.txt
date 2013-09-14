@@ -17,7 +17,7 @@ ordinare a un soldato di combattere fino alla morte, e solo a un soldato può es
 Il monaco si inchinò e disegnò un rettangolo nel quale erano inscritte variabili d'istanza e metodi, come era abituato a
 fare.
 
-“Alcuni soldati sono arcieri,” continuò la badessa, “ciascuno dei quali deve conoscere il numero di frecce in loro
+“Alcuni soldati sono arcieri,” continuò la badessa, “ciascuno dei quali deve conoscere il numero di frecce in suo
 possesso. L'Imperatore potrebbe ordinare a un arciere di colpire un nemico lontano, e solo a un arciere può essere
 ordinato di fare questo...”
 

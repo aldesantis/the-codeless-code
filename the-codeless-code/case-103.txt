@@ -12,8 +12,8 @@ quando non stiamo investigando alcun problema. Quindi quale sentiero è il migli
 veloce?”
 
 “<em>Wú,</em>” disse una delle monache. “Tutto può essere loggato, con uno sforzo minimo. Racchiudete tutte le chiamate
-di debug in un'istruzione if che verifica se il debugging è attivo prima di preoccuparsi della formattazione del
-messaggio. Saremo lenti solo quando dobbiamo essere sicuri.”
+di debug in un'istruzione if che verifica se il debugging è attivo prima di occuparsi della formattazione del messaggio.
+Saremo lenti solo quando dovremo essere sicuri.”
 
 Bawan considerò questa proposta e sembrò soddisfatto. Disse alla monaca di implementare la propria soluzione in
 un'applicazione che era in fase di sviluppo. Come ulteriore ricompensa per la sua intelligenza le consegnò due scatole

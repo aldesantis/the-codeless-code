@@ -1,11 +1,11 @@
 Number: 98
-Title: Anti materia
+Title: Antimateria
 Lang: it
 Translator: alessandro1997
 
 Dopo che il maestro [[Banzen|Banzen]] ebbe dato una presentazione sulle pratiche di design, un monaco si attardò alla
 grande porta invece di uscire con i suoi compagni. Il monaco chiese quindi a Banzen: “Quale dei due fornisce migliore
-consiglio: il Pattern o l'Anti-Pattern?”
+consiglio: il pattern o l'anti-pattern?”
 
 Banzen guardò a sinistra e a destra, come per accertarsi che nessuno stesse ascoltando. Dunque alzò il suo indice e lo
 piegò due volte. Il monaco riconobbe questo gesto e si avvicinò al podio del maestro.

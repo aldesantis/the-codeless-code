@@ -8,8 +8,8 @@ negli armadietti dei server e sonnecchiando al caldo sui monitor a tubo catodico
 quando la creatura iniziò a usare una scatola di cavi di ricambio come lettiera.
 
 Myong catturò il gatto e lo mise su un tavolo davanti a sei monaci del [[Clan of Iron Bones|Clan delle Ossa di Ferro]],
-dicendo, “Se ciascuno di voi può enunciare un comando che esegue la stessa funzione di cat, risparmierò questo animale.
-Altrimenti, lo ucciderò.”
+dicendo, “Se ciascuno di voi può enunciare un comando che esegue la stessa funzione di <pre>cat</pre>, risparmierò
+questo animale. Altrimenti, lo ucciderò.”
 
 Il primo monaco disse velocemente, “<pre>cat</pre>”.
 

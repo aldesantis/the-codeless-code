@@ -1,5 +1,5 @@
 Number: 65
-Title: Due Scelte
+Title: Due scelte
 Lang: it
 Translator: alessandro1997
 

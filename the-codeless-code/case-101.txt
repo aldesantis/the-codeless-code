@@ -8,7 +8,7 @@ da un certo sistema di fatturazione. Le email riportavano che i pagamenti fosser
 avevano perso la testa.
 
 Gli abati del Tempio si riunirono nel cortile, dibattendo su come localizzare al meglio l'origine del problema prima che
-tutta la clientela del Tempio scomparisse nelle montagne per scappare all'ascia del boia.
+tutta la clientela del Tempio scomparisse nelle montagne per sfuggire all'ascia del boia.
 
 “Non c'è bisogno,” disse la suora [[Hwídah|Hwídah]] dal bordo del cortile. “La vergogna è mia. Nella nostra ultima build
 di manutenzione ho sbadatamente modificato un'espressione booleana nel modulo di contabilità, facendole restituire falso
@@ -29,6 +29,6 @@ restituire falso quando la risposta corretta è vero? E quando dico <em>[[#70|si
 nella tua mente?”
 
 Hwídah fece scivolare il vassoio vuoto sotto la porta. “Quella mattina, quando l'orrore del mio sbaglio mi fu rivelato,
-lo fu anche questo fatto: siamo tutti parti del sistema. È un'estensione dei nostri desideri, dei nostri sforzi, e --
+lo fu anche questo fatto: siamo tutti parte del sistema. È un'estensione dei nostri desideri, dei nostri sforzi, e --
 sfortunatamente -- delle nostre falle. Se avessi lasciato che i miei compagni sprecassero ore preziose cercando un
 difetto che avevo segretamente corretto, avrei solo tradito il sistema una seconda volta.”
