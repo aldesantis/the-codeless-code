@@ -1,0 +1,65 @@
+Number: 110
+Title: Il baule
+Lang: it
+Translator: alessandro1997
+
+Un certo monaco venne convocato alla presenza del maestro [[Bawan|Bawan]]:
+
+“Questo baule contiene un oggetto che dev'essere portato al [[Spider Clan|Clan del Ragno]],” disse Bawan, indicando una
+grande scatola di legno chiusa con cinghie di ferro. “Portalo da solo all'abate ed egli ti ricompenserà per i tuoi
+dolori. Una lettera di spiegazione è infilata sotto il chiavistello.”
+
+Con grande difficoltà il monaco sollevò il baule sulla schiena e si avviò per le terre del tempio al domicilio degli
+sviluppatori Web. Lì fu ricevuto dall'abate, che lesse attentamente la lettera mentre il monaco sfinito attendeva la
+sua ricompensa.
+
+“Questo baule non è affar mio,” disse l'abate, rimettendo la lettera a posto. “Dev'essere portato alla badessa del
+[[Laughing Monkey Clan|Clan della Scimmia Ridente]]. Portalo lì da solo e la tua ricompensa sarà invidiabile.”
+
+Il monaco fece come gli era stato chiesto, ansimando a ogni passo che faceva sulle terre del tempio per arrivare al
+domicilio dei logici di business. La badessa risiedeva al piano più alto.
+
+“Questo baule non ha nulla a che fare con me,” disse la badessa, che impedì al monaco di appoggiare il suo fardello.
+“Dev'essere portato subito al [[Elephant's Footprint Clan|Clan dell'Orma di Elefante]].”
+
+“Credo di aver capito come andrà a finire,” disse il monaco con una smorfia. “Forse uno dei vostri monaci potrebbe
+portarlo?”
+
+“Non c'è tempo, non c'è tempo!” disse la badessa, rimettendo la lettera sotto il chiavistello mentre cacciava il monaco
+fuori dalla porta. “Portalo lì da solo e ti aspetteranno grandi ricchezze!”
+
+Un'ora più tardi il monaco barcollò fino al domicilio dei programmatori del livello di persistenza, collassando nel
+corridoio principale con il baule ancora sulla schiena. Il canuto abate fu convocato.
+
+“Meraviglioso!” disse il vecchio abate dopo aver letto la lettera. Il monaco semicosciente lo sentì aprire il coperchio
+e chiuderlo nuovamente. “Monaco, svegliati! Come ricompensa per il tuo servizio puoi tenere tutto quello che c'è nel
+baule. Ora vai!”
+
+Il monaco strisciò lentamente fuori dalla porta, come una tartaruga affaticata da un grande guscio di legno. Era notte
+quando raggiunse le sue camere e rovesciò il baule. Il coperchio si aprì e un centinaio di scatole di ferro ne
+fuoriuscirono.
+
+Le aprì una per una. Erano tutte vuote.
+
+Non rimaneva nient'altro nel baule tranne la lettera di Bawan, che il vecchio abate aveva lanciato nuovamente dentro. Il
+monaco la aprì e lesse:
+
+    Agli abati dei Tre Clan --
+
+    Esaminando i problemi di performance del nostro sistema di carrello elettronico, ho scoperto che centinaia di azioni
+    nel nostro livello Web caricano il grande e complesso albero di oggetti InformazioniCatalogo dal database.
+
+    Esaminando il livello Web, ho scoperto che queste azioni passano semplicemente le InformazioniCatalogo in sedici
+    metodi del livello di servizio che le richiedono.
+
+    Esaminando il livello di servizio, ho scoperto che questi metodi passano semplicemente le InformazioniCatalogo in
+    quattro metodi del livello di persistenza che le richiedono.
+
+    Esaminando il livello di persistenza, ho scoperto che questi metodi passando semplicemente le InformazioniCatalogo
+    in un metodo del livello di utilità che le richiede.
+
+    Esaminando quell'unico metodo, ho scoperto che non fa altro che controllare la proprietà intera Tipo delle
+    InformazioniCatalogo per assicurarsi che non sia negativa. Ho anche scoperto che questo metodo è stato scritto dal
+    giovane che porta il mio baule.
+
+    Vi prego di assicurarvi che riceva la mia spiegazione nella maniera più appropriata.
