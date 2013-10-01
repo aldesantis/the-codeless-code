@@ -1,0 +1,34 @@
+Number: 112
+Title: Parlami
+Lang: it
+Translator: alessandro1997
+
+La timida monaca [[Yíwen|Yíwen]] aprì diversi file sorgenti che aveva scritto a malapena un anno prima, solo per trovare
+codice irriconoscibile all'interno. Dopo aver ispezionato lo storico delle revisioni si avvicinò al cubicolo della sua
+compagna di lunga data.
+
+“Mille scuse, Hwídah,” incominciò, “ma sembra che tu abbia completamente riscritto il mio servizio di gestione degli
+indirizzi. Perché l'hai trovato necessario?”
+
+“Il codice era stranamente complesso e poco intuitivo,” rispose Hwídah gentilmente. “Hai creato molte più interfacce del
+necessario, annidato oggetti valore dentro altri oggetti valore, definito classi astratte che hanno una sola
+implementazione concreta, ed eseguito aggiornamenti del database in due transazioni separate dove una sarebbe bastata.
+Io ho semplificato la struttura.”
+
+Yíwen si inchinò umilmente, ringraziò e uscì.
+
+- - -
+
+La mattina successiva Hwídah si avvicinò al cubicolo della sua compagna di lunga data, portando un meravigliose arnese
+a forma di ruota. Lo lasciò cadere rumorosamente sulla scrivania di Yíwen.
+
+“Ho trovato questo ad aspettarmi quando mi sono svegliata stamattina,” disse Hwídah. “Spiega.”
+
+“La tua vecchia bicicletta era stranamente complessa e poco intuitiva -- non sei d'accordo?” chiese Yíwen. “Hai usato
+molti più ingranaggi del necessario, messo il cestino di fibra nel posto sbagliato, imbottito i pedali ma non il
+manubrio, e usato due ruote separate dove una sarebbe bastata. Io ho semplificato la meccanica.”
+
+Hwídah si inchinò umilmente, ringraziò e uscì.
+
+Dunque andò dritta dal maestro Yishi-Shing, dicendo: “Sfortunatamente, non sarò in grado di partecipare alle gare di
+bicicletta settimanali del vostro clan per molto tempo.”
