@@ -1,0 +1,34 @@
+Number: 111
+Title: Labirinto
+Lang: it
+Translator: alessandro1997
+
+Riguardo il modo in cui la maestra [[Suku|Suku]] ricevette il suo nome, si può dire questo:
+
+Molti anni fa, quando Suku era ancora una novizia al Tempio, le era stata assegnata la revisione del codice di un monaco
+nel suo clan. Volendo impressionare i maestri che la controllavano, la novizia fu senza pietà nelle sue critiche. La
+più feroce delle sue lamentele riguardava l'ineleganza della soluzione e la sua struttura troppo complicata.
+
+Dopo che la riunione fu conclusa, il maestro Banzen -- che era più vecchio di lei di due decenni -- la seguì fuori dalla
+sala riunioni e giù per le scale di pietra. In fondo disse: “Piccola monaca! Conosci la strada per l'Abbazia delle Ossa
+di Ferro?”
+
+Suku indicò. “Dritto attraverso il cortile.”
+
+Banzen disse: “Percorrila, dunque.”
+
+Non appena Suku ebbe fatto tre passi il maestro colpì il suo fianco sinistro con una grande paletta da riso,
+<em>thwock!</em> mandandola a sbattere contro un susino. Benché sorpresa, la novizia sapeva che era meglio non chiedere
+né lamentarsi. Invece continuò verso l'abbazia, solo per trovare due giardinieri che bloccavano la strada. Li scansò e
+<em>thwock!</em> la paletta fu calata sulla sua testa. Con le vertigini, sguazzò attraverso un laghetto koi, sbatté
+contro una reliquia, inciampò in una radice e <em>thwock!</em> il suo fianco destro incontrò la paletta del maestro
+Banzen ed ella si trovò distesa tra le peonie.
+
+Infine la monaca ferita e confusa arrivò agli scalini dell'Abbazia delle Ossa di Ferro, con Banzen alle calcagna.
+
+“<em>Dritto attraverso il cortile,</em>” ripeté Banzen. “Design.”
+
+Il maestro prese Suku gentilmente per le spalle e la girò in modo che vedesse la strada contorta che aveva tracciato
+nella sabbia. “Implementazione,” disse Banzen.
+
+Mentre la monaca rifletteva su questo, Banzen le porse la paletta e disse: “Il Mondo”.
