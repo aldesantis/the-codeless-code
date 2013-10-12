@@ -1,0 +1,35 @@
+Number: 113
+Title: Pecora nera
+Lang: it
+Translator: alessandro1997
+
+A un monaco anziano del [[Laughing Monkey Clan|Clan della Scimmia Ridente]], esasperato dalla scarsa qualità del codice
+del suo team, venne consigliato di cercare l'aiuto della monaca [[Zjing|Zjing]] che viveva nella valle sottostante. La
+trovò che portava al pascolo le pecore del Tempio.
+
+“Cos'hai provato?” chiese la monaca.
+
+“Ho lasciato copie delle nostre Pratiche e Standard in ogni cubicolo,” disse il monaco. “Ogni mattina invio link ad
+articoli rilevanti di progettazione del software, e ogni sera revisiono il codice del giorno. Eppure nulla cambia. Ogni
+monaco commette gli stessi errori del giorno prima, e il codice diventa sempre più brutto.”
+
+Zjing si chinò sul bastone e fissò lontano con aria assente.
+
+Infine disse: “Il pastore non può spostare il gregge; solo le pecore possono farlo.”
+
+Il monaco anziano aggrottò le sopracciglia. “Non capisco.”
+
+Zjing prese una piccola pietra e la scagliò contro un montone dal muso nero che stava ai limiti del gregge. La pietra
+colpì l'orecchio del montone, dunque l'animale belò e trottò via. I suoi vicini lo seguirono prontamente, poi i loro
+vicini, e così via, finché l'intero gregge lanoso scorreva come schiuma per la collina. Zjing camminava con loro.
+
+Il monaco anziano incrociò le braccia e rimase sulla cima della collina, non convinto. “Anche se potessi correggere un
+monaco, perché mai il gruppo dovrebbe seguirlo se non seguono me?”
+
+“<em>Wú</em>,” disse Zjing, lanciando una pietra contro il compagno. “Non sono i monaci che dovresti pascolare, ma il
+codice. Parte di esso procede con uno scopo, ma il più segue ciò che è venuto prima. L'IDE di un monaco genera uno
+scarso scheletro di metodo, un secondo monaco copia il metodo finito nella classe, un terzo salva la classe con un altro
+nome per i propri scopi...”
+
+La monaca trovò il montone e accarezzò l'orecchio insanguinato. “Il tuo codice è la pecora smarrita,” disse al monaco
+anziano. “Correggilo, e la pigrizia dei tuoi monaci diventerà una grande virtù.”
