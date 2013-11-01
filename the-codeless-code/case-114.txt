@@ -1,0 +1,35 @@
+Number: 114
+Title: L'assassinio dei caratteri
+Lang: it
+Translator: alessandro1997
+
+I sistemi del Tempio fallivano sporadicamente durante l'interazione con un servizio di registrazione dei documenti nel
+Lontano Occidente. Il maestro Java [[Bawan|Bawan]] decise di investigare.
+
+Per assisterlo, un aiutante dal Tempio Occidentale venne mandato alla provincia vicina. L'aiutante era un uomo
+trasandato con un rumoroso motociclo; la capacità di tradurre termini tecnici era la sua unica qualità.
+
+“Ho trovato il problema,” disse Bawan all'aiutante. “Se il titolo del documento contiene un apice destro, quel carattere
+non compare quando recuperiamo il record. Per favore, di' ai Monaci Occidentali di questo difetto.”
+
+L'aiutante tornò alla propria provincia e chiamò Bawan il giorno successivo.
+
+“I monaci affermano che non si tratti di un difetto,” disse l'aiutante. “Dicono: non supportiamo i caratteri speciali.”
+
+Bawan annuì. “Torna al mio tempio domani. Insieme possiamo farli capire.”
+
+Il giorno successivo l'aiutante cavalcò la sua gracchiante motocicletta fino alla Strada della Luna Calante. Dopo aver
+passato un cartello con sritto PONTE DI ZJING in grandi lettere rosse, si trovò ad attraversare una vasta gola sulle
+assi. Appena davanti stavano delle magnifiche querce e, dietro, le torri del tempio. Era così estasiato dalla vista da
+non vedere che le assi mancavano nei dieci metri centrali del ponte. Dunque l'aiutante precipitò nella gola sottostante,
+con la motocicletta e tutto il resto.
+
+Osservando dal balcone superiore della Torre Est, il maestro Bawan annuì e rientrò. Dunque chiamò un monaco minore dai
+cubicoli al piano inferiore.
+
+“Porta queste all'altro lato del [[Zjing's Bridge|Ponte di Zjing]],” disse, consegnando al monaco tre pezzi di legno.
+Erano dipinti di rosso e intagliati nelle forme di grandi lettere: una O, una U e una T.
+
+“Cosa sono queste?” chiese il monaco.
+
+“Caratteri speciali,” rispose il maestro.

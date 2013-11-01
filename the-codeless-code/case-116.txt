@@ -1,0 +1,24 @@
+Number: 115
+Title: Non fidarti di nessuno
+Lang: it
+Translator: alessandro1997
+
+Diversi monaci del [[Laughing Monkey Clan|Clan della Scimmia Ridente]] trovarono un loro fratello in stato di grande
+angoscia, che scriveva freneticamente alla sua scrivania.
+
+“Cosa ti opprime tanto?” chiesero.
+
+Disse il monaco: “Quando le nuove regole di business saranno consegnate l'anno prossimo, il mio codice dovrà essere
+aggiornato. Oggi l'abate mi ha detto a chi sarà assegnato il compito, e il mio cuore è sprofondato. È uno stolto
+impaziente che disprezza la documentazione e salta i commenti, preferendo invece indovinare lo scopo di ogni cosa solo
+dal nome. Dunque devo rendere a prova d'idiota ogni classe e metodo.”
+
+Il monaco indicò il proprio schermo. “Qui sarà tentato di modificare le proprietà di questo oggetto, dunque devo
+renderlo immutabile per prevenire un disastro. Qui confonderà certamente lo scopo di questo parametro, quindi devo ora
+controllare per un valore non valido ovunque venga usato”. Il monaco collassò sulla propria tastiera. “<em>Diecimila
+maledizioni ricadano sull'imbecille, Taw-Jieh!</em>” urlò. “Proprio lui tra tutti doveva essere scelto per mantenere il
+mio codice!”
+
+Gli altri monaci si guardarono a disagio.
+
+“Ma tu sei Taw-Jieh,” disse uno.

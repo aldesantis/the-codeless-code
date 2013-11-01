@@ -1,0 +1,32 @@
+Number: 115
+Title: Dolore
+Lang: it
+Translator: alessandro1997
+
+Segnalazioni di dati corrotti erano giunte alle orecchie del maestro Java [[Banzen|Banzen]]. Dopo aver revisionato il
+codice chiamò un certo monaco nel suo ufficio.
+
+“Fai grandi sforzi per evitare oggetti di valore nullo,” disse il maestro. “Inizializzi tutte le stringhe con valori vuoti,
+e converti i valori nulli in vuoti quando imposti proprietà di tipo stringa. Inoltre memorizzi le proprietà dei tuoi
+Oggetti di Trasferimento Dati in primitivi, facendo sì che le colonne intere nulle siano lette come zero e i booleani
+nulli siano letti come falso. Spiega.”
+
+Il ragazzo rispose: “Nella mia esperienza, il nostro errore di produzione più comune è la NullPointerException. Io cerco
+di minimizzarne la frequenza.”
+
+Banzen rifletté un momento, quindi lanciò una moneta di ottone nel suo camino e la coprì di carboni ardenti. “Prendi la
+moneta con le tue dita nude,” disse.
+
+Il monaco provò tre volte, ma ogni volta ritirò dolorosamente le sue dita vuote e ustionate.
+
+Banzen prese quindi la parte superiore del braccio del ragazzo, cercò un particolare nervo, e spinse con forza. Il
+dolore cessò.
+
+“Di nuovo,” ordinò Banzen, continuando a premere sul nervo.
+
+Il monacò ripeté i propri sforzi. Fu felice di scoprire che poteva spostare i carboni con facilità, ma la sua felicità
+divenne orrore quando annusò e sentì la propria carne sfrigolare. Velocemente ritrasse la sua mano ustionata e coperta
+di vesciche e lasciò cadere la moneta a terra.
+
+Banzen lasciò il braccio del monaco e uscì dalla stanza. Il monaco non richiese altra correzione, a parte imparare a
+scrivere con la sinistra.
