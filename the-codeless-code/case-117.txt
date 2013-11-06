@@ -1,0 +1,26 @@
+Number: 117
+Title: A pelo
+Lang: it
+Translator: alessandro1997
+
+Un certo monaco disse alla maestra [[Suku|Suku]]: “Ho studiato il vostro codice per imparare dal vostro esempio, ma su
+una questione i miei occhi non sono ancora stati aperti.”
+
+Il monaco srotolò un listato. “Considerate questa minuscola applicazione, dove cercate errori nei file di log. Io avrei
+eseguito l'intero processo nella classe principale. Eppure voi definite una moltitudine di classi addizionali:
+un'interfaccia LogFileReader che ha solo il metodo readEntry, una LogFileEntry restituita dal metodo, e un semplice
+LogFileParser che è l'unica implementazione dell'interfaccia! Perché tutta questa formalità per un progetto così
+piccolo?”
+
+Suku rispose: “Vai alle scuderie, slega il mio cavallo e cavalcalo su per la Strada del Serpente Ubriaco fino al picco
+di questa montagna. Quindi cavalcalo di nuovo giù e dimmi cos'hai imparato.”
+
+Il monaco ricomparì quella sera, sporco e pieno di lividi. “Ho imparato che al vostro cavallo non piace essere cavalcato
+a pelo. Inoltre, che una caduta lungo la scarpata può essere molto lunga.”
+
+Suku prese una sella, una bardatura, delle briglie, un morso e delle redini, dicendo: “Non importa quanto corto il
+viaggio, il cavaliere dovrebbe essere assolutamente certo su dove sedere e come manovrare.”
+
+Il monaco sfregò un grosso bernoccolo sulla fronte. “Ma di cosa può essere certo il cavallo focoso?”
+
+“Che sia quello cavalcato,” disse Suku.
