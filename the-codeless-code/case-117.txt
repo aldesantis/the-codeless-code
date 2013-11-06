@@ -8,9 +8,9 @@ una questione i miei occhi non sono ancora stati aperti.”
 
 Il monaco srotolò un listato. “Considerate questa minuscola applicazione, dove cercate errori nei file di log. Io avrei
 eseguito l'intero processo nella classe principale. Eppure voi definite una moltitudine di classi addizionali:
-un'interfaccia LogFileReader che ha solo il metodo readEntry, una LogFileEntry restituita dal metodo, e un semplice
-LogFileParser che è l'unica implementazione dell'interfaccia! Perché tutta questa formalità per un progetto così
-piccolo?”
+un'interfaccia <em>LogFileReader</em> che ha solo il metodo <em>readEntry</em>, una <em>LogFileEntry</em> restituita dal
+metodo, e un semplice <em>LogFileParser</em> che è l'unica implementazione dell'interfaccia! Perché tutta questa
+formalità per un progetto così piccolo?”
 
 Suku rispose: “Vai alle scuderie, slega il mio cavallo e cavalcalo su per la Strada del Serpente Ubriaco fino al picco
 di questa montagna. Quindi cavalcalo di nuovo giù e dimmi cos'hai imparato.”
