@@ -1,0 +1,45 @@
+Number: 120
+Title: Plug and Play
+Lang: it
+Translator: alessandro1997
+
+Al monaco [[Wangohan|Wangohan]] era stato assegnato lo sviluppo di un'applicazione Web. Per questo compito aveva scelto
+un nuovo promettente framework, ma poiché gli era sconosciuto la sua prima implementazione era [[#91|strana]] e
+[[#99|fragile]]. Per settimane Wagohan lavorò per correggere i problemi, ristrutturando il codice mentre la sua
+conoscenza del framework cresceva. Per la data di rilascio la sua applicazione era elegante oltre ogni immaginazione, e
+gli abati del [[Spider Clan|Clan del Ragno]] furono d'accordo nel consentire il nuovo strumento per i progetti futuri.
+
+"Ma prima," disse l'abate minore, "dobbiamo implementare i componenti fondamentali che serviranno al Tempio, e fornirli
+a tutti quelli che useranno questo framework."
+
+Con grande costernazione di Wangohan, il monaco [[Landhwa|Landhwa]] venne scelto per questo compito. Ancora peggio,
+Landhwa non aveva alcun interesse a studiare il codice di Wangohan, né a imparare da Wangohan i molti particolari del
+framework. Invece Landhwa consultava Wangohan solo quando non poteva preoccuparsi di trovare da solo una risposta a
+qualche semplice domanda.
+
+Infine Wangohan chiese all'abate minore del Clan del Ragno perché Landhwa fosse stato scelto per guidare l'adozione del
+framework.
+
+"È abile con il codice, non aveva molto lavoro, e non ha obiettato di fronte all'opportunità," disse l'abate minore con
+aria indifferente.
+
+Wangohan si inchinò ed uscì.
+
+- - -
+
+Il giorno successivo, la maestra [[Suku|Suku]] convocò Wangohan nella propria camera.
+
+"L'abate minore è malato di crampi allo stomaco di natura molto spiacevole," disse. "La causa è sconosciuta, ma sospetto
+che sia della [[#84|cannella cattiva]]."
+
+"È un malanno comune," convenne Wangohan.
+
+"Stavo per suggerire lo stesso all'abate minore, ma ho scoperto che lo avevi già portato nella sala operatoria," disse
+Suku. "Non sapevo che il Tempio avesse una sala operatoria."
+
+"La sua funzione primaria è quella di capanna del carpentiere."
+
+"E presumo che la funzione primaria del chirurgo sia quella di carpentiere?"
+
+"Sì," disse Wangohan. "Ma come ho detto all'abate minore: è abile con le lame, non aveva molto lavoro, e non ha
+obiettato di fronte all'opportunità."
