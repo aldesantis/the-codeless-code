@@ -1,0 +1,33 @@
+Number: 119
+Title: Sushi
+Lang: it
+Translator: alessandro1997
+
+Il maestro [[Banzen|Banzen]] aveva invitato la sua compagna, la maestra [[Suku|Suku]], al suo domicilio per il pranzo.
+Sulla tavola stavano due grandi pile di ciotole, ciascuna alta diversi piedi.
+
+Banzen prese la ciotola più alta della pila. Era vuota, tranne per tre chicchi di riso. Raccolse abilmente ciascun
+chicco con le bacchette e li mangiò.
+
+Suku prese la ciotola più alta della sua pila. In essa c'era un singolo seme di sesamo tostato. Con grande difficoltà lo
+prese tra le punte delle bacchette.
+
+Banzen prese un'altra ciotola. Sul fondo stava un boccone di carne arancione. "Recentemente," disse, "hai
+[[#117|suggerito a un certo monaco]] che è saggio strutturare anche l'applicazione più piccola."
+
+Anche Suku prese un'altra ciotola, scoprendo il più piccolo frammento di cocomero. "Trovo che con la strutturazione si
+abbia chiarezza ed estensibilità."
+
+"Sarai felice di sapere che egli sta ubbidendo al tuo consiglio con gran premura," disse Banzen. "Ora divide
+un'applicazione da un centinaio di linee di codice in molte classi."
+
+"Ah," disse Suku, prendendo la prossima ciotola. Conteneva due chicchi di riso. "Credi che l'abbia consigliato
+malamente."
+
+"Imprudentemente, forse," disse Banzen, faticando per raccogliere delle macchioline di tobiko. "Ogni virtù, portata
+all'estremo, diventa un vizio. Comunque, com'è il tuo sushi?"
+
+"È <em>questo</em> che stiamo mangiando?" chiese Suku, guardando l'alta pila di ciotole che ancora rimanevano.
+
+"Non ne sono del tutto certo," disse Banzen, studiando un nastro di nori alla fine delle bacchette. "Suppongo che
+dobbiamo affrontare tutte le portate prima di essere sicuri."
