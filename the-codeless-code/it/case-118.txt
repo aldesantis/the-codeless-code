@@ -1,0 +1,24 @@
+Number: 118
+Title: Argilla
+Lang: it
+Translator: alessandro1997
+
+Un generale dell'Armata Imperiale aveva commissionato al Tempio di creare un sistema di gestione delle richieste di
+materiale. Preoccupato del costo, inviò un ufficiale della Terza Divisione dell'Intero Senza Segno per fare rapporto sul
+progresso del Tempio.
+
+L'ufficiale notò con soddisfazione che la maggior parte degli sviluppatori lavoravano con calma e metodicamente:
+tracciavano disegni dettagliati, inviavano i documenti per l'approvazione o la correzione, e consultavano le bozze
+finali durante la codifica.
+
+Ma una delle suore no.
+
+Mentre l'ufficiale guardava, la suora creò una dozzina di classi nel repository, guardò ciascuna per un momento, ne
+rinominò la metà, guardò ancora, ne divise alcune, guardò, aggiunse alcuni metodi e ne tolse altri, e così via. Questo
+si ripeté durante il giorno.
+
+L'ufficiale non poteva più contenere la sua impazienza, dicendo: "Ora basta! Se gli scultori imperiali fossero impulsivi
+come te, non ci sarebbe più giada al mondo!"
+
+La suora rispose: "Se gli scultori imperiali sono così stupidi da usare la giada per le tegole del tetto, il palazzo
+dell'Imperatore dev'essere ancora per metà a cielo aperto. Personalmente preferisco lavorare con l'argilla."
