@@ -17,7 +17,7 @@ Il secondo disse, “<tt>grep ^</tt>”.
 
 Il terzo disse, “<tt>sed s/^//</tt>”.
 
-Il quarto disse, “<tt>tr x x <</tt>”.
+Il quarto disse, “<tt>tr x x &lt;</tt>”.
 
 Il quinto disse, “<tt>perl -pe 0</tt>”.
 
