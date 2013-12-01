@@ -20,10 +20,12 @@ Il secondo novizio si fece orgoliosamente avanti. Con un rapido calcio nello sto
 fuori dalla porta.
 
 == Il commento di Qi
+
 Il metodo che accetta Object accetterà felicemente PiedeSinistro.
 
 == Il poema di Qi
-Una rana perfetta è rannicchiata sul tavolo,
-circondata da schegge di giada.
-A ogni soffio, lo scultore ha due possibilità:
-favorevole, contrario.
+
+Una rana perfetta è rannicchiata sul tavolo, //
+circondata da schegge di giada. //
+A ogni soffio, lo scultore ha due possibilità: //
+favorevole, contrario. 
