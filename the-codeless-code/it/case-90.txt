@@ -4,7 +4,7 @@ Lang: it
 Translator: alessandro1997
 
 Il maestro [[Kaimu|Kaimu]] fu avvicinato da un monaco del [[Spider Clan|Clan del Ragno]], che disse: “In Javascript, se
-zero è diviso per zero, il risultato è <pre>NaN</pre>: not-a-number. Eppure <pre>typeof(NaN)</pre> è <pre>number</pre>.
+zero è diviso per zero, il risultato è <tt>NaN</tt>: not-a-number. Eppure <tt>typeof(NaN)</tt> è <tt>number</tt>.
 Che senso si può trovare in un simile linguaggio, dove un valore è contemporaneamente qualcosa e non-qualcosa?”
 
 Kaimu diede al monaco una moneta, dicendo, “Sulla Strada delle Ortiche Bianche vive un fornaio che vende focacce tonde
