@@ -10,7 +10,7 @@ Adding a translation
 If you want to add your translation:
 
   1. [Fork the repo](https://github.com/alessandro1997/the-codeless-code/fork)
-  2. Create a directory named after your language code (es. **fr**)
+  2. Create a directory named after your language code (e.g. **fr**)
   3. Add your translations
   4. Push the changes
   5. File a [Pull Request](https://github.com/alessandro1997/the-codeless-code/pulls)
