@@ -1,0 +1,26 @@
+Number: 121
+Title: Dove gli angeli non si avventurano{{*}}
+Lang: it
+Translator: alessandro1997
+
+La monaca [[Satou|Satou]] si avvicinò al maestro Java [[Banzen|Banzen]] e disse: "C'è un rallentamento nell'elaborazione
+che penso di poter eliminare usando più thread di lavoro. Eppure ho sentito questo proverbio: <em>Se hai un problema e
+dici, 'Userò i thread', ora hai due problemi.</em>"
+
+Banzen rispose: "Il modo di dire è vecchio, ma non un vero proverbio. Al posto di <em>thread</em> ho sentito
+<em>XML</em>,  <em>espressioni regolari</em>, <em>singleton</em> e <em>AWK</em>. È solo una formula per indicare che un
+parametro può essere associato a qualcosa di sgradevole. C'è più saggezza nel latrato dei cani."
+
+La suora ci pensò e disse: "Quindi se hai un problema e dici, 'Userò il Proverbio dei Due Problemi', ora hai due
+problemi."
+
+Banzen fece verso la monaca un lieve cenno di assenso, il che la compiacque. Ma alzò anche il suo dito indice. "Il fatto
+che le parole siano vuote non le rende false. I thread sono come il favoleggiato Tsurugi Infinitamente Tagliente, la cui
+lama può affettare in due un nemico quando si trova ancora a un piede dal suo corpo, ma che amputa un dito del guerriero
+ogni volta che viene estratto dal fodero."
+
+La suora chiese: "Come saprò quando avrò imparato a usare saggiamente i thread?"
+
+Banzen rispose: "Quando non vorrai più usarli."
+
+{{*}} Titolo originale: <em>Where Angels Fear to Thread</em>. <em>Thread</em> può significare "imbattersi" o può indicare la suddivisione di un processo informatico.
