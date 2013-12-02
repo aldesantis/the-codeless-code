@@ -2,7 +2,7 @@ import  groovyx.net.http.*;
 
 def SERVER = 'http://www.thecodelesscode.com/'
 
-def OUTPUT_FOLDER = "C:/Users/ndx/Documents/workspaces/git/the-codeless-code/the-codeless-code/en/"
+def OUTPUT_FOLDER = "the-codeless-code/en/"
 
 @Grab(group='org.codehaus.groovy.modules.http-builder', module='http-builder', version='0.5.2' )
 def createHTTP(server) {
