@@ -1,0 +1,57 @@
+Number: 85
+Date: 2013-03-17
+Title: Suku's Golden Mean
+Alt-title: Fuzzy logic
+Geekiness: 3
+Names: Suku, Kaimu
+Topics: compromise, teamwork, complexity, management
+Skip: 0
+Illus.0.par: 4
+Illus.0.src: phi.jpg
+Illus.0.alt: Φ
+Illus.0.align: center
+Illus.0.style: margin-left: 20%;
+Illus.0.title: Suku used to hang out in university bars and bet the mathematicians that she could add zero to one and get a result strictly between one and two.  But then she found it was easier to just wait until they were drunk and steal their wallets.
+
+
+
+Two monks approached master [[Suku]] to settle a dispute.
+
+The first monk said, "I have proposed a truly elegant
+design, but this monk says it is too complex and cannot be
+maintained."
+
+The second monk said, "I have proposed a truly simple
+design, but this monk says it is too limited and
+will not be useful."
+
+Suku turned to her whiteboard and drew a large /phi/, thusly:
+
+
+
+
+
+The first monk said, "I do not understand."
+
+The second monk said, "Nor do I."
+
+Suku replied, "You argue in booleans; in zeros and
+ones.  Come back when you have learned floating point."
+
+
+== Qi's commentary
+
+[[Kaimu]] holds court over novices and masters, but they send
+the real fools to Suku.
+[[#24|Kaimu's <i>null</i>]] can un-ask a bad question,
+but Suku's /phi/ will undo two bad answers.
+
+== Qi's poem
+
+Kaimu has his /null/. //
+Suku prefers her golden mean. //
+The first commands reconsideration -- //
+the second, compromise.
+
+
+

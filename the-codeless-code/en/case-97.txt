@@ -1,0 +1,35 @@
+Number: 97
+Date: 2013-06-08
+Title: Flammable
+Geekiness: 3
+Names: Landhwa, Kaimu
+Topics: reflection, partial solutions
+Skip: 0
+Illus.0.src: Burned.jpg
+Illus.0.title: And this is why none of the monks have any hair.
+
+In the monk [[Landhwa]]'s current Java project, domain
+objects in the business tier were fairly similar to their
+corresponding form-input objects in the web tier.  Since the
+property names were often the same as well, the monk had seized
+upon reflection as an easy way of copying most of the
+data from one tier to the other.  Master [[Kaimu]] heard and
+chose to investigate.
+
+After studying the monk's code, Kaimu withdrew a brass flask
+from his robes, took a long sip, then lifted a tea-candle to
+his lips and blew hard.  A streak of blue flame shot from
+his mouth right past the monk's shoulder.
+
+"What are you doing?" cried Landhwa, patting out the
+flames on his robe.
+
+"Lighting the seven candles on the far wall," said Kaimu.
+
+Both men looked across the room at the scorched
+paper screens.  Kaimu frowned, picked up his tea-candle and
+wearily started across the room.
+
+"Missed one," he explained.
+
+

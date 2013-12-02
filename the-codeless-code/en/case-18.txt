@@ -1,0 +1,73 @@
+Date: 2010-11-17
+Title: Necessary Features
+Number: 18
+Geekiness: 1
+Names: Elephant's Footprint Clan
+Topics: reuse, requirements
+
+This same monk of the Elephant's Footprint was poring over
+the code created by his clan.  There were several competing
+implementations of a particular Data Access Object; at
+present he was attempting to decide which would become the
+definitive one that his clan would adopt.
+
+"Each implementation has its own particular virtues and
+vexations," said the monk to the Java master.  "And each has
+features the others lack.  I must consign all but one to the
+winds of oblivion.  How am I to choose?"
+
+<img src="/cases/18/gong.png" style="margin:0 auto"/>
+
+"I cannot answer when I am thirsty," said the master.
+"In the cabinet beside you are three wooden cups.  Fill
+one from the river, the second from the temple well, and the
+third from the water-seller in the village.  Bring all back
+to me without a drop spilled, and I will offer you what
+help I can."
+
+The monk did this, and set all three vessels before
+the master.
+
+"What have you learned?" asked the master.
+
+The monk bowed.  "If you give a coin to the water-seller in
+the village, he will strike a gong twice: once before
+filling your cup, and again when you have had your first
+sip.  If you fill your cup from the temple well, no gong
+sounds but the bucket is heavy.  If you dip your cup in the
+river, the fish are troubled and the river-god must be
+appeased by a gift of ten white stones."
+
+"I can drink but one of these," said the master.  "Which
+will I find the most pleasing?"
+
+The monk considered carefully.  "The river was cold, but not
+altogether clear.  The temple well I have drunk from in the
+past: its waters are bitter with limestone.  And though I am
+not acquainted with the water-seller, I heard his gong many
+times today.  On this evidence, I would choose the cup from
+the water-seller."
+
+"A most sensible conclusion," said the master.  "Indeed, I
+have visited this same water-seller every morning for eight
+years, and found the experience perfectly satisfying each
+time.  Which is the vessel that he filled?"
+
+The master sipped from the indicated cup, and his face fell
+in disappointment.  "Young brother," he said.  "You have
+completely misunderstood my thirst.  Where is the sound of
+the gong?"
+
+- - -
+
+The master's thirst is unsatisfied //
+yet the monk has his answer -- //
+what sound was the vessel that poured it? //
+
+The monk would have fared better //
+if he had set a brass censer on the window-ledge //
+and merely waited for rain. //
+
+
+
+

@@ -1,0 +1,47 @@
+Number: 65
+Date: 2012-10-28
+Title: Two Choices
+Geekiness: 3
+Skip: 0
+Names: Kaimu
+Topics: strong typing
+Illus.0.src: frog.jpg
+Illus.0.par: 4
+Illus.0.title: HELLO MY BABY, HELLO MY HONEY, HELLO MY RAGTIME GAAAAAAL...
+
+Java master [[Kaimu]] left <a href="/case/64">three novices</a>
+to debate the signature of a utility method that was needed.  An hour
+later he found all three in his office, bruised and
+quite dissheveled.
+
+"Have you reached agreement?" asked Kaimu.
+
+The first novice, sporting a torn robe and cut lip, said:
+"We are even further from a peaceful conclusion than before.
+Each of us still prefers his own solution to the two others.
+We beg you to make the best choice on our behalf."
+
+"Very well," sighed Kaimu. "Among the three options offered,
+one was bold enough to reject our tradition of strong typing
+and declare the method to take an Object, so as to satisfy
+all potential users.  Which of you proposed this?"
+
+The second novice proudly stepped forward.  With a swift kick to
+the stomach, the master sent him tumbling out the door.
+
+
+== Qi's commentary
+
+The method that takes Object will cheerfully accept LeftFoot.
+
+
+== Qi's poem
+
+A perfect frog crouches on the table, //
+surrounded by shards of jade. //
+With each blow, the sculptor has two choices: //
+for, against. //
+
+
+
+

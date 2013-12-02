@@ -1,0 +1,25 @@
+Date: 2010-11-25
+Title: Compromise
+Number: 25
+Geekiness: 0
+Topics: teamwork, compromise
+
+Two monks came to the Java master with very different
+implementation strategies for a particular project.  Each
+presented their case with passion and conviction.
+
+After some consideration, the master told them to divide up
+the subsystems.  Each monk would take half and proceed
+with their preferred strategy.
+
+The first monk protested: "For any given problem, is there
+not often one solution which is superior?"
+
+The second monk was equally unhappy: "And even if the
+superior choice is unclear, is it not generally better to
+proceed consistently, and thus avoid chaos?"
+
+"Yes," said the Java master.  "Were neither of you paying
+attention?"
+
+

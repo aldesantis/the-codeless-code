@@ -1,0 +1,68 @@
+Number: 68
+Date: 2012-11-17
+Title: Decay
+Geekiness: 0
+Names: Banzen
+Topics: perfection, joy-coding
+Illus.0.src: shell.jpg
+Illus.0.title: C shell.
+Illus.1.src: sandcastle.jpg
+Illus.1.title: Well, the apartment's got a *great* ocean view, but the building is not exactly up to code...
+Illus.1.align: center
+Illus.1.par: last
+
+When [[Banzen]] was a young monk, he grew despondent:
+
+"What is the use of perfecting code?" he cried.  "A module
+we write under the cherry blossoms in April will require a
+dozen urgent changes in sweltering July.  By September it
+will be a tangle of debris, destined to be discarded and
+rewritten by someone else before the snows of December
+melt!"
+
+Hearing of this, Banzen's master summoned him:
+
+"Your talk is disquieting; leave the monastery at
+once.  Outside the gate is a stream that flows
+from the mountaintop.  Follow it until you reach the ocean,
+and there walk the sands to clear your head.  Do not return
+until your eyes can see."
+
+Young Banzen obeyed.  He remained on the shoreline for days,
+walking many <i>ri</i> back and forth.  There he spied women
+fishing in the tide pools with bamboo rods, and men weaving
+nets, and children playing in the sand.
+
+It was the children that drew Banzen's interest the most.
+As the morning tide went out they gathered at the margin of
+the receding waters, piling bucketfuls of wet sand into huge
+mounds while sorting out the shells and pebbles.  With each
+hour the water grew more distant, yet still the boys hauled
+brine-heavy buckets up the beach to moisten the sand
+while the girls set to work on the summits of the piles.  As
+the sun swung past its zenith a mighty fortress took shape,
+top to bottom, some bits sculpted or patted by hand but most
+of it carved with the help of old knives and broken rice
+paddles.  The children lined the rooftops with tiny white
+shells, used chopsticks to poke out shadowy windows, pressed
+thousands of pebbles into the foundations, and dripped wet
+sand from their fingertips to make tiny conifers in the
+miniature gardens, one by one.  By this time the tide would
+be creeping back up the shore.
+
+Whenever Banzen saw the first wave strike the battlements he
+always winced; when the first delicate terrace crumbled his
+stomach always sank with pity.  Yet the children cheered.
+Throughout the late afternoon they watched hand-in-hand as
+the sea reclaimed what had been taken from it, until all
+that remained of the day's labor was a great undulating
+lump of sand dotted with shells.  Then the children would
+leave.
+
+But without fail they would gather the next
+morning with their buckets and shovels, ready to begin anew.
+
+After a week Banzen returned to his monastery, enlightened.
+
+
+

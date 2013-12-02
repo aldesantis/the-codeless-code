@@ -1,0 +1,90 @@
+Number: 67
+Date: 2012-11-11
+Title: Grease
+Geekiness: 1
+Names: Suku, Spider Clan, Jinyu
+Topics: management
+Credits: Stone wall texture from <a href="http://seamless-pixels.blogspot.com/2011/12/added-seamless-stone-wall-under.html">seamless-pixels.blogspot.com</a>
+Illus.0.src: well.jpg
+Illus.0.title: At least he won't die of thirst.
+
+On Monday, the <a href="/case/62">last remaining abbot</a>
+of the [[Spider Clan]] called Java master [[Suku]] into his office.
+
+"You are well behind schedule," said the abbot, flipping
+open a painted fan.  "I shall help you prioritize.  The
+analyst tells me that your application's primary purpose is
+to chart historical data.  Therefore, direct all developers
+to cease their current activities and complete the
+chart-generation module."
+
+"As the abbot commands," said Suku.  She bowed low
+and went out.
+
+- - -
+
+On Tuesday, the abbot called Suku into his office.
+
+"I have spoken with the customer," said the abbot, filing
+his long nails.  "They can forgo charts in the first
+release, provided that we can export the data in tabular
+format.  Direct all developers to cease their current
+activities and complete the data-export module."
+
+"As the abbot commands," said Suku.  She bowed low
+and went out.
+
+- - -
+
+On Wednesday, the abbot called Suku into his office.
+
+"I have spoken with the sales department," said the abbot,
+pulling a needle carefully through an embroidery frame.
+"They have several prospective customers who would be swayed
+if we offered geographic visualization in the first release.
+Direct all developers to cease their current activities and
+complete the map-generation module."
+
+"As the abbot commands," said Suku.  She bowed low
+and went out.
+
+- - -
+
+On Thursday and Friday, the abbot called Suku into his
+office.
+
+All went much as it had on the days before.
+
+- - -
+
+On Saturday, the abbot called Suku into his office.
+
+"You have made very little progress this week," said the
+abbot, dragging a tiny rake through a miniature sand garden
+on his desk. "Explain."
+
+"As the abbot commands," said Suku.  With a whirl of her
+staff she struck the abbot in the back of the head,
+sprawling him unconscious on his desk in a spray of white sand.
+
+- - -
+
+On Sunday, the Abbess Over All Clans and Concerns called
+Suku into her office.
+
+"The abbot of your clan wished me to cancel your morning
+meeting on his behalf," said the Abbess, "as he appears to
+have fallen into our deepest well and cannot climb out."
+
+"Are there not sturdy iron rungs set in the walls?" asked Suku.
+
+"They appear to have been thoroughly greased," frowned the
+Abbess.  "As was the bucket-rope.  And the stone walls
+themselves.  The abbot has climbed many miles this morning,
+yet sadly it is the same ten feet over and over.  Direct all
+your developers to cease their current activities and
+observe his progress.  I believe they will find it most
+edifying."
+
+"As the abbess commands," said Suku.  She bowed low
+and went out.

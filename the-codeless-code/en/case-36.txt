@@ -1,0 +1,59 @@
+Title: Division
+Number: 36
+Date: 2011-05-15
+Geekiness: 0
+Topics: morale
+Names: Sparrow Clan, Laughing Monkey Clan, Elephant's Footprint Clan
+
+The [[Sparrow Clan]] was in disgrace and disarray.  Its head
+monk had chosen an honorable death by seppuku, but fear of
+further staff cuts had set the remaining monks at each
+other's throats.  A priest had been assigned stewardship of
+the clan to restore order, but his efforts were in vain.
+
+"The subtraction of one has led to the division of all,"
+said the priest to the head abbot.  "We must correct the
+remainder of the clan before they set a poor example for the
+temple."
+
+"I see no need for discipline," sighed the abbot, who
+was known for his excessive leniency.  "It
+will be simpler to disband the Sparrow Clan.  How many monks
+remain?"
+
+<img src="/cases/36/division-2.png"
+     alt="Illustration"
+     style="float:right;margin-right:-200px;padding:20px"
+     title="We have yet to make it past 14." />
+
+"Six," replied the priest.
+
+"Good.  Then send half to one clan of your choosing, and
+half to another."
+
+The priest began to protest, but thinking better of it he
+merely bowed stiffly and left.  That evening he summoned the
+quarrelsome monks.  With a single whirl of his blade
+he neatly bisected all six at the waist.
+
+"Send the heads to the Laughing Monkey Clan, and the tails
+to the Elephant's Footprint," he said to one of his novices.
+"And bid them consider the price of dischord."
+
+The priest then reported to the abbot: "I have done
+as you commanded, and indeed all arguments have ceased."
+
+
+
+== Editor's note
+
+<div class="editorial-note">
+<p>Since a few readers have
+expressed interest, a large-size version of
+the poster can be downloaded
+as either an <a href='/cases/36/poster.svg'>SVG</a>
+or <a href='/cases/36/poster.png'>PNG</a> file.
+</p>
+</div>
+
+

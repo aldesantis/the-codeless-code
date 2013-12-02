@@ -1,0 +1,48 @@
+Date: 2013-03-10
+Number: 84
+Title: What It Says On The Tin
+Names: Wangohan, Suku, Landhwa
+Geekiness: 2
+Topics: naming, refactoring
+
+[[Wangohan]], a monk in [[Suku]]'s charge, had struggled
+for two miserable days to divine the cause of a bug.  On the
+third day, as he stepped slowly through his own source code,
+Wangohan was illuminated.
+
+With anger in his breast and a code listing in his hand,
+Wangohan entered the cubicle of a monk named [[Landhwa]].
+Wangohan slammed the pages down on Landhwa's desk and jabbed
+his finger at a variable circled in red.
+
+"There is a variable in this method named
+<tt>completedOrders</tt>," fumed Wangohan.  "It was meant to
+hold orders whose status is <tt>COMPLETED</tt>: this should
+be evident from the name alone.  Why, then, did you add
+<tt>FAILED</tt> orders to it on this line?  I had no way of
+knowing that the variable's purpose had changed.
+My latest enhancements have all been in error!
+
+Landhwa yawned and sprinkled some cinnamon on his /hotteok./
+"Creating a separate variable would have complicated my task.
+And changing the name of the existing variable was not necessary
+since it still holds completed orders -- for the most part."
+
+Wangohan bowed coldly and went out.
+
+- - -
+
+Later that week, master Suku summoned Wangohan to her chamber.
+
+"The monk Landhwa has been taken ill," she explained with
+one eyebrow raised.  "Stomach cramps of a most unpleasant
+nature.  The cause is unknown, but Landhwa whispered your
+name weakly before his last dash to the lavatory."
+
+Wangohan spread his palms wide.  "I have no idea what ails
+the monk.  But in his pantry there is a jar labelled
+'cinnamon' which I have recently been using to store my own
+blend of that spice.  If he has tasted it, please assure
+him that it is only cinnamon -- for the most part."
+
+

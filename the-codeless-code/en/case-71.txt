@@ -1,0 +1,69 @@
+Date: 2012-12-08
+Number: 71
+Title: The Six Unwelcome Hosts
+Geekiness: 3
+Names: Kaimu
+Topics: error handling, exceptions
+Credits: Some textures in illustrations courtesy of <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.par: 2
+Illus.0.src: exception.jpg
+Illus.0.title: Dodge *this*.
+Illus.0.align: center
+
+A young nun -- a novice -- said to master [[Kaimu]], "I
+have heard tell of the Six Unwelcome Hosts, but my eyes have
+not yet been opened."
+
+The master hooked a myna-bird's cage onto the top of a long
+staff and gave that to the novice.  Next he wrote something
+on a slip of paper, blew on it until the ink was dry, and
+gave this to the novice also, saying: "On the scroll are the
+names of five houses in the village.  When night falls,
+fetch your empty bowl and beg rice from each house in turn.
+Take the bird with you.  Consider what you see and hear."
+
+When the novice came to the first house and presented her
+bowl, the man filled it with white grains and closed his
+door.  The myna-bird sang: <i>"No rice, no radish, no morsel
+within; you'd be wise to eat with your fingers."</i> Poking
+at the grains, the novice discovered to her horror that they
+were not rice at all, but small white maggots.  She dumped
+them on the grass and washed the bowl in a nearby stream
+until her fingers were numb with cold.
+
+When the novice came to the second house and presented her
+bowl, the man there said "I have no rice" and closed
+his door.  The myna-bird sang: <i>"No rice, no radish, no
+morsel within; his mice have perished from want."</i>
+
+When the novice came to the third house and presented her
+bowl, the man there said "No rice," lit a lantern and
+closed his door.  The myna-bird sang: <i>"See the red
+banner under the lantern; that bastard has plenty of rice,
+but will not feed a stranger."</i>
+
+When the novice came to the fourth house and presented her
+bowl, the man there threw it into the bushes and closed his
+door.  The myna-bird sang: <i>"You might have caught it
+if you'd tried, but still you would leave hungry."</i>
+
+When the novice came to the fifth house and presented her
+bowl, the man placed it upside-down upon the stone
+threshold, ground it to splinters beneath his heel and
+slammed his door in anger.  The myna-bird was silent.
+
+Returning to master Kaimu, the novice said, "My eyes have been
+opened to five Unwelcome Hosts."
+
+"Name them," commanded the master.
+
+"Bug, failure-value, flag, exception, exit," replied the novice.
+
+The master nodded.
+
+"But what of the sixth?" asked the novice.
+
+The master said, "Take an empty bowl to the grave of master
+Mugen.  When the dead master either fills it or turns you away,
+the Sixth Unwelcome Host will have come and gone."
+

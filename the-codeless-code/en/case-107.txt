@@ -1,0 +1,98 @@
+Date: 2013-08-23
+Title: Babel
+Number: 107
+Geekiness: 2
+Names: Kaimu
+Topics: languages, high-level languages, Perl, Python
+Credits: The topic was suggested by Xunie.
+Illus.0.par: 0
+Illus.0.src: Stranger-detail.jpg
+Illus.1.par: last
+Illus.1.src: Stranger.jpg
+Illus.1.align: centered
+
+
+A thin, bedraggled stranger came to the Temple one night and
+asked for master [[Kaimu]].  The master was roused and
+brought to the gate, whereupon the stranger said:
+
+"For years I have wandered this pitiless land, seeking the
+perfect programming language.  Name any one and I've given
+it a go, be it fast or slow, high-level or low, from Ada to
+Zeno.  But whatever the pluses there are minuses too, so I
+pack my things and hit the road again -- which in this case
+led me to your door."
+
+Kaimu asked the stranger to describe the language of
+his heart's desire.
+
+"It must be suitable enterprise-wide," the stranger replied,
+"client-side and server-side, in scripting, in shells
+and in spreadsheet cells.  I need it real-time,
+multi-threaded and optionally object-oriented; with garbage
+collection, deadlock detection, custom exceptions,
+auto-resizing arrays of things and regular expressions for
+matching strings.  I want the simplicity of BASIC, the
+purity of Smalltalk, the brevity of Haskell, the speed of
+C, the consistency of Lisp, the readability of Python, the
+flexibility of Perl, and the portability of... Java, I
+guess, but with native code bindings that aren't a mess."
+
+"Then tomorrow morning we shall assist you as best we can,"
+said Kaimu.  "But tonight you must spend in the carpenter's
+shed below the south wall."
+
+The stranger bowed and departed to make his bed amid sawdust
+and wood shavings.  As Kaimu left for his own chambers a
+monk asked, "What is your design for him?"
+
+"When dawn breaks," replied the master, "our guest will
+see that on the walls of that shed are arrayed ten thousand
+tools, each crafted to serve a unique purpose.  No one would
+mistake the hammer for the chisel, and no true
+carpenter would renounce one for the other."
+
+- - -
+
+At the sun's first light the stranger returned to the Temple
+gate, there to be greeted again by Kaimu and the monk.
+
+"Do you still seek your heart's desire?" asked Kaimu.
+
+"No!" replied the stranger.  "For in the shed I found a
+most marvelous dagger, no larger than my hand, whose hilt
+opened to reveal the most wonderous things: tweezers and
+toothpicks, pliers and drill-bits, wrenches and reamers and
+rulers and tiny blades too numerous to count!  Holding it I
+understood that my destiny is to fashion the thing I have
+sought for -- a language made of other languages, a tool to
+end the need for other tools!"
+
+And with that the stranger bowed and departed.
+
+The monk turned to Kaimu, whose jaw had gone somewhat
+slack.  "What do the annals say on the subject of
+the Misunderstood Lesson?"
+
+"That it too brings wisdom," said the master, "If only to
+the hapless teacher.  No doubt I would have been twice as
+effective had I been half as clever."
+
+"And what of the stranger?" asked the monk.  "Surely he will
+fail in his endeavor, for that knife he prizes holds neither
+hammer nor chisel.  And should he partly succeed then all
+the worse, for he will have added yet another language to a
+world that already drowns in confusion."
+
+"Let him try, and good fortune to him!" said Kaimu.  "If not
+for fools of his fashion, we would not have Perl or Python,
+Bourne shell or Tcl, and the world would be a poorer place.
+I only grieve that you and I are not such fools, for since
+we will never attempt the impossible, we can never hope to
+achieve it."
+
+Thus master and monk left the gate, and went in to the
+Temple together to greet the morning.
+
+
+

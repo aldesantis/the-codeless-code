@@ -1,0 +1,54 @@
+Title: Cups
+Number: 30
+Date: 2011-03-26
+Geekiness: 3
+Topics: overflow
+Names: Bawan
+
+Java master [[Bawan]] said: "The beggar in the marketplace owns
+nothing but empty cups.  Fill all but one with tea and he
+will praise you; yet spill a drop into the last and he must
+instantly die of thirst.  Explain."
+
+<img src="/cases/30/cups.png"
+     title="Today's illustration has been brought to you by the words COPY and PASTE." />
+
+No monk could answer Bawan's question.  The teacher retired
+to his chambers.
+
+That evening four students came to his door, seeking help
+with a truculent program.  Its log files were overflowing
+with ArrayIndexOutOfBounds exceptions which the students
+insisted were impossible: the array in question was declared
+to hold a thousand elements, and the index -- a one-byte
+integer -- could never exceed 255 by definition.
+
+Master Bawan pointed to an object in the corner.  "What is
+that?" he asked of each student.
+
+"A broom," said each in turn.
+
+Bawan then grabbed the broom and swung it wide over the
+heads of the students.  Pictures were swept off the walls
+and sent spinning to the floor.  Vases and cups came
+crashing down from their shelves.  Paper screens tore.  Dust
+fell from the rafters.
+
+"Not a broom!" shouted Master Bawan, still swinging like a
+madman.  "Not a broom!"
+
+
+== Qi’s Commentary
+
+Each of the beggar's cups is alike in every way to the one
+beside it, yet each also holds twice as much as the cup to
+its right.  Now quickly say what it is.
+
+== Qi’s Poem
+
+In the hand of a beggar, the staff engenders pity. //
+In the hand of a master, fear. //
+These qualities reside nowhere /in/ the staff: //
+only in the where /of/ it.
+
+

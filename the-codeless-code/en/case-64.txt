@@ -1,0 +1,96 @@
+Number: 64
+Date: 2012-10-21
+Title: Three Beggars
+Geekiness: 3
+Skip: 0
+Credits: Some textures in illustrations courtesy of <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Names: Kaimu
+Topics: overloading, polymorphism, null, strong typing
+Illus.0.src: beggar-1.jpg
+Illus.0.par: 2
+Illus.0.style: padding-right: 60px;
+Illus.1.src: beggar-2.jpg
+Illus.1.par: 8
+Illus.2.src: beggar-3.jpg
+Illus.2.par: 12
+Illus.2.title: I was *this* close to drawing them as the Three Stooges.
+Illus.2.style: padding-right: 30px;
+
+
+Java master [[Kaimu]] led three senior monks to the Hall Of
+Endless Cubicles.  There he gathered three novices in
+his charge.
+
+"A utility method is needed which takes an employee ID and
+from it constructs a particular URL," said Kaimu.  "The logic
+is not trivial, but ultimately it reduces to text substitution."
+
+Kaimu gestured to the first old monk.  "This one works on
+the persistence tier, where all database keys are large
+integers.  Understandably, he wishes the method to take a
+Long."
+
+Kaimu gestured to the second old monk.  "This one works on
+the business tier, which employs strong typing.  He wishes
+the method to take an EmployeeID object."
+
+Kaimu gestured to the third old monk.  "This one works on
+the web tier, where all data is manipulated as text.  He
+wishes the method to take a String."
+
+The master then bowed to the three monks, and bade the
+novices offer their solutions.
+
+- - -
+
+The first novice stood.  "The method should take a String,
+for that representation will be most useful within the
+method itself.  As for the monks who prefer Long or
+EmployeeID, they can easily invoke /toString/ on those
+objects and feed the result into the method."
+
+Said Kaimu: "When the beggar squatting in the dirt asks you
+for coins, you may well demand that he lift up his bowl to
+meet you.  But what of the man with no elbows?"
+
+Before the first novice could answer, the second stood.
+"The apparent simplicity of invoking /toString/ is hampered
+by the caller's need to check for null first.  So the method
+should take an Object, which can hold any of the three
+types.  The method itself can check for null, and invoke
+/toString/ only if it is safe to do so.  Thus, nothing is
+required of the caller."
+
+Said Kaimu: "Knowing the armless beggar can only accept what
+is placed on his tongue, you charitably go everywhere with
+rice in your pockets.  Yet you toss your grains into
+/anyone's/ mouth.  How glad you make the rats and magpies!"
+
+The third novice stood.  "Three monks, three novices.  Why
+not three methods, each taking a different type?
+EmployeeID, Long, and String.  The first and second can
+delegate to the third, and each can check for null."
+
+Said Kaimu: "Not a scrap for the rats in your village, but
+how fat the beggars must be!  Yet if a method takes
+four parameters, will you write it eighty-one different
+ways?  You may waste so much time pleasing everyone that you
+please no one."
+
+Kaimu then bade the senior monks depart, to let the novices
+determine for themselves the best way to satisfy all
+concerns.
+
+- - -
+
+The first old monk whispered as they went: "What approach will
+be decided upon, do you think?"
+
+The second old monk replied: "If they are anything like us, it
+will be the one championed by the novice who shouts the loudest."
+
+The third old monk nodded. "Doubtless, some of us will find
+fault with the solution, yet begrudgingly we will abide by
+it, and the world will continue to turn.  But so it goes: we
+are all of us beggars at each others' feet."
+

@@ -1,0 +1,38 @@
+Date: 2013-11-29
+Number: 121
+Title: Where Angels Fear to Thread
+Names: Satou, Banzen
+Geekiness: 2
+Topics: threads
+Illus.0.par: 0
+Illus.0.src: Thread.jpg
+
+The nun [[Satou]] approached Java master [[Banzen]] and said:
+"There is a processing bottleneck which I believe I can
+eliminate by means of multiple worker threads.  Yet I have
+heard this proverb: <i>If you are confronted with a problem
+and say, 'I shall use threads', you now have two problems.</i>"
+
+Banzen replied: "The saying is old, but not a true proverb.
+In place of /threads/ I have heard <i>XML,
+regular expressions, singletons, and AWK.</i>
+It is merely a formula of one parameter which may be bound to anything
+disagreeable.  There is more wisdom in the barking of dogs."
+
+The nun considered this, and said: "So if you are confronted
+with a problem and say, 'I shall use the Proverb of the Two
+Problems', you now have two problems."
+
+Banzen gave the nun a slight nod, which pleased her.  Yet he
+also held up his index finger.  "That the words are hollow
+does not make them false.  Threads are as the fabled Tsurugi
+of Infinite Sharpness, whose blade can slice an enemy in
+two while it is still a foot from his body, yet which
+severs one finger of the wielder every time it is drawn
+from its scabbard."
+
+The nun asked: "How will I know when I have learned enough
+to use threads wisely?"
+
+Banzen replied: "When you no longer wish to use them."
+

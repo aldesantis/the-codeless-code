@@ -1,0 +1,25 @@
+Date: 2010-11-10
+Title: Reduce, Reuse, Recycle
+Number: 8
+Topics: philosophy
+Geekiness: 0
+
+A novice asked the great master: "What is the Way?"
+
+The master replied, "Writing code is the Way."
+
+The novice then asked, "What is not the Way?"
+
+The master replied, "Writing code is not the Way."
+
+The novice said, "Then the writing of code is all things."
+
+The master replied, "And the not-writing of code also."
+
+The novice asked, "At the present moment, are we writing
+code, or not writing code?"
+
+The master replied, "We are the code."
+
+
+

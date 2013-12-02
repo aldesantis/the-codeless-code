@@ -1,0 +1,36 @@
+Title: Triggers
+Number: 42
+Geekiness: 3
+Date: 2011-05-18
+Topics: databases, triggers
+Names: Elephant's Footprint Clan
+Illus.0.par: 4
+Illus.0.src: triggers.jpg
+Illus.0.title: Count the toes.  And no, that ain't ketchup.
+Illus.0.align: center
+
+A monk of the [[Elephant's Footprint Clan]] asked, "What of
+database triggers?"
+
+The master answered, "When you are hungry at midnight,
+then you will know."
+
+The monk lay awake pondering this.  Eventually his clock
+read midnight, and since it had been many hours since
+supper the monk realized that he was in fact hungry.
+
+Leaving his sandals behind so as not to make noise, the monk
+stole softly down to the temple kitchens.  Through the
+blackness he felt his way inch by inch towards the humming
+of the great refrigerator.  His fingers had barely closed
+around its cold handle when he heard a loud /snap/ and his
+vision went white with pain.  The monk fell backwards,
+struck his head, and was lost to oblivion.
+
+He awoke at dawn with the monks of the Elephant's Footprint
+standing over him.  He still lay upon the kitchen floor --
+which, he could now see, was strewn with mousetraps.  He
+could also see that some of the Elephant's Footprint clan
+possessed mangled or missing toes.  At that moment the monk was
+enlightened.
+

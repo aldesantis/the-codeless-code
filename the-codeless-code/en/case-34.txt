@@ -1,0 +1,32 @@
+Title: The Naming of Names
+Number: 34
+Date: 2011-04-20
+Geekiness: 2
+Topics: naming
+Names: Suku
+
+<img src="/cases/34/paddles.jpg"
+     style="float:right;margin-right:-75px"
+     title="MISTER DISCIPLINE comes with its own stand and a year's supply of teak wax.  MISTER DISCIPLINE is not available in stores.  Order now!" />
+
+The priestess [[Suku]] was reviewing the software of her
+novices when she found a module whose variable names
+displeased her immensely.  Value Objects were called /vo/ or
+simply /obj/, regardless of type.  Lists were named /list1/,
+/list2/, etc.  The respective Iterators were called /i/,
+/j/, and (for no fathomable reason) /x/.
+
+The priestess strode into the temple kitchens where the
+novices were preparing the evening meal.  She
+unhooked an immense rice paddle from its peg, found the
+offending developer, and let vent her displeasure on the
+boy's backside.
+
+/"What have I done?!"/ yelped the novice as the paddle
+landed with a meaty smack for the tenth time.
+
+"Invective!" answered the priestess. "Verb your expletive nouns!"
+
+This scene was repeated each night until the novice
+was enlightened.
+

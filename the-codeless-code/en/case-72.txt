@@ -1,0 +1,37 @@
+Number: 72
+Date: 2012-12-15
+Title: Too Eager
+Geekiness: 3
+Names: Banzen, Laughing Monkey Clan
+Topics: initialization, lazy initialization, eager initialization
+Credits: Some textures in illustrations courtesy of <a href="http://lostandtaken.com">Lost And Taken</a>.
+Illus.0.src: naked.jpg
+Illus.0.title: The other side of the sign says: NO SHIRT, NO SHOES, NO SERVICE.
+
+One winter's day, a monk of the [[Laughing Monkey Clan]]
+accompanied Java master [[Banzen]] to
+the marketplace to help carry what would be purchased there.
+
+On the road the monk asked, "What may be said of eager
+initialization?"
+
+The master replied, "Three days' packing for a journey of
+two miles."
+
+"And what of lazy initialization?"
+
+"Rush outside with only your coin-purse; all will be
+purchased as needed."
+
+The monk considered this.  "The coin of the system is Time,"
+he observed.  "If the cost is negligible, nothing can be
+said against lazy initialization."
+
+Banzen whirled around, yanking the robe completely off the
+surprised monk's body.  The master then looped his coin-purse
+around the naked monk's neck.
+
+Prodding his shivering companion forward into the crowds of
+the marketplace, Banzen remarked: "I see that Kaifung Wei,
+the tailor, has closed his shop for the season."
+

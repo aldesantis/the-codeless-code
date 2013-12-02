@@ -1,0 +1,43 @@
+Number: 102
+Title: Paddle
+Geekiness: 1
+Names: Suku, Banzen
+Topics: maintainability
+Date: 2013-07-12
+Illus.0.src: Paddle.jpg
+Illus.0.title: It makes awesome rice, though... trust me.
+
+While it is seldom seen by novices, on occasion the masters will
+correct each other:
+
+Masters [[Banzen]] and [[Suku]] were planning the next
+release of a large and critical system.  Together they
+iterated through the list of requirements, allocating
+work to various monks in their charge.
+
+"Assign that task to me," said Banzen at one point,
+"for I wrote the original code, and it is somewhat complex
+and sensitive."
+
+He repeated the phrase for a number of other items.  This
+had been his habit for as long as Suku could remember; for
+Banzen toiled as hard as the monks half his age, and he took
+great pride in his work.
+
+Suku posted the list of assignments the following morning.
+Banzen happened to glance at it during breakfast, and
+discovered that the tasks he'd chosen for himself had
+instead been assigned to a handful of junior monks.
+
+Banzen confronted Suku at her table.
+
+"You have been at this temple for twenty years," he fumed.
+"When will you stop giving our precious rice to cooks who
+have barely learned how to hold a paddle?"
+
+Suku calmly placed her chopsticks across her bowl.
+"I cannot say," she replied.  "When will you stop
+fussing over your little rice pot and make simpler
+paddles for those cooks?"
+
+

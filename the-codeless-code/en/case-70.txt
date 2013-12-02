@@ -1,0 +1,73 @@
+Date: 2012-12-02
+Number: 70
+Title: System
+Geekiness: 2
+Names: Bawan
+Topics: philosophy
+
+A novice posed this question to master [[Bawan]]: //
+//
+In the morning my master gives me directions. //
+From the directions, I form an idea. //
+From the idea, I sketch diagrams on paper. //
+From the diagrams, I create a model in the designer. //
+From the model, I generate a skeleton project. //
+From the skeleton, I enter source code as text. //
+From the text, the compiler generates bytecode in class files. //
+From the class files, the build system assembles war files. //
+From the war files, the deployer creates a web application. //
+//
+But we are still not done: //
+Given an application, the virtual machine extracts the bytecode. //
+Given bytecode, the JIT compiler produces machine language. //
+Given machine language, the operating system instructs a CPU. //
+Given instructions, the CPU's logic gates open or close, //
+causing electrons to flow this way or that. //
+//
+At each step, the project is refined, distilled, transformed. //
+Each step depends on the ones following --//
+otherwise the program does not function. //
+//
+So my question is this: //
+Which of these products is the true software, //
+and which is the true source? //
+//
+//
+The master replied: //
+//
+But we are /still/ not done: //
+electrons flow this way or that, //
+tripping other logic gates, //
+which alter bytes in memory, //
+which are interpreted as information, //
+which is displayed on a screen, //
+which makes a pattern on your retina, //
+which sends signals to your cortex, //
+which propagate to your cerebrum, //
+which forms an idea. //
+//
+So my answer is this: //
+Go to the temple courtyard; stand before the oak tree there. //
+From the branches above, pluck an acorn. //
+From the earth below, gather wet rotting leaves. //
+Let your breath mingle with the dew. //
+Let your sweat moisten the soil. //
+There remain, until the oak is gone. //
+
+
+== Qi's commentary
+
+When do you mean, when you speak of source?  Where do you
+mean, when you speak of code?  The walls of your cubicle are
+not the horizon.  You must look beyond the needs of the day;
+otherwise your implementation is a hunk of dry bark and you are no
+better than food for worms.
+
+== Qi's poem
+
+When the oak is gone, the monk is gone, then all things are gone: //
+Yet this happens in the twinkling of an eye. //
+Not where, but all places. //
+Not when, but all times.
+
+

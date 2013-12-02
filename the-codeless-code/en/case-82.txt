@@ -1,0 +1,50 @@
+Date: 2013-02-24
+Number: 82
+Title: Jinyu's Tack
+Names: Jinyu
+Topics: interviews, design, design patterns, potential, UML, class diagrams
+Geekiness: 2
+
+Whenever a new applicant arrived at the Temple hoping to fill
+some recently-vacated position, {{1}} Old Madame [[Jinyu]] -- the
+Abbess Over All Clans and Concerns -- was respectfully invited
+to attend the interview.
+
+Masters and senior monks would begin with the customary
+questions, such as "What frameworks have you used?"
+and "How many years' experience do you have with each?" {{2}}
+The questions would grow increasingly technical, and old
+Jinyu would appear to nod off in her corner.  Eventually,
+though, her beady eyes would snap open, sharp and clear as a raven's;
+then she would point to the whiteboard with her cane and say:
+
+"The Imperial Army wishes to catalog its many weapons.  It
+recognizes four types: the staff, the spear, the sword, and
+the knife.  Each has a length, which may vary from weapon to
+weapon.  Each has a weight, which is calculated from
+the length according to the weapon's type.  In all respects,
+a knife is merely a sword whose length is exactly two
+/chi/.  Now: show me the classes you would create!"
+
+Then, arms folded, she would sit back and observe.
+Sometimes she would leave the room after the class diagram
+had been drawn; sometimes she would stay and alter the
+problem, observing the changes made in response.
+
+This puzzled the younger monks, who would ask her timidly:
+"Why do you not read the many résumé pages supplied, or
+inquire about the candidate's proficiency in our chosen
+technologies?"
+
+Jinyu would then thwock them with her cane and reply: "Many
+good hammers may be found in the stalls of the marketplace,
+and many bad ones as well.  When autumn blows the shingles from
+the temple roof, I do not care whether a tool once
+belonged to the Emperor's most celebrated roof-builder,
+if it cannot drive my little tack straight and true."
+
+
+{{1}} It may surprise you to learn that positions were usually vacated <i>peacefully and voluntarily</i> by their occupiers -- provided that you regard honorable suicide as an extremely formal method of resignation.
+{{2}} Questions such as "What is your blood type?" and "How would you rate your tolerance for physical pain?" were usually handled by Human Resources.
+
+

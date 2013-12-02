@@ -1,0 +1,56 @@
+Number: 88
+Date: 2013-04-07
+Title: Suku's Adviser
+Geekiness: 1
+Names: Suku, Wangohan, Spider Clan, Zjing's Bridge
+Topics: refactoring, rethinking, stubbornness
+Credits: The idea for this case was suggested by Ryan Freebern.
+Skip: 0
+Illus.0.src: lantern.jpg
+Illus.0.par: last
+Illus.0.align: center
+#Illus.1.src: lantern-smoke.jpg
+#Illus.1.par: 3
+
+The [[Spider Clan]]'s chief abbot had entrusted their newest
+application to the monk [[Wangohan]], allowing him to
+develop it as he so desired.  At the end of the first month,
+master [[Suku]] was called in to review the monk's progress.
+
+"You have chosen a web framework which has never been used
+at the Temple," Suku observed.  "I cannot say whether you
+are employing it well or poorly, but your code twists and
+wriggles around the API like a snake among the brambles."
+
+"I had read many encouraging reviews of this
+framework," explained the monk.  "All were promises written
+upon the morning wind.  Now this snake has lost
+his way."
+
+"Nostrils in the cold underbrush; tail still warm in
+sunlight," said Suku.
+
+Wangohan shook his head.  "I have come too far to
+turn back now.  What advice can you give for the journey
+forward?"
+
+"None at this time," said Suku.  "But at midnight tonight,
+take up a lantern and follow the path that crosses
+[[Zjing]]'s Bridge.  I will send an adviser to wait for you on
+the other side."
+
+When the appointed hour had arrived, Wangohan stole away
+from the abbey and started across the long, swaying bridge
+that spanned the chasm.  He had just reached its
+midpoint when the planks of the far end burst into flame.
+Fire shot down the ropes toward the terrified monk; half the
+bridge was now ablaze.  In the terrible light, master Suku
+could now be seen on the far end, extinguishing her lantern
+and walking away.
+
+Backing away from the inferno, Wangohan was enlightened.
+
+
+
+
+

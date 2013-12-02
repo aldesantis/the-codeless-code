@@ -1,0 +1,53 @@
+Number: 111
+Date: 2013-09-17
+Title: Labyrinth
+Geekiness: 1
+Names: Suku, Banzen
+Topics: requirements, design, complexity, elegance, neatness, compromise, code reviews, planning
+Illus.0.src: Stagger.jpg
+Illus.0.title: Breakin’ the build? That’s a paddlin’.  Swallowin’ exceptions? That’s a paddlin’.  Stealin’ my paddle?  That’s a whuppin’.
+
+Regarding how master [[Suku]] received her name, this much may be told:
+
+Many years ago, when Suku was still a novice at the Temple,
+she had been tasked with reviewing the code of a monk in her
+clan.  Wishing to impress the masters in the audience, the
+novice was merciless in her criticisms of the monk.  Chief
+among her complaints was the inelegance of his solution and
+its overly complex structure.
+
+After the meeting had concluded, master [[Banzen]] -- who was
+two decades her senior -- followed her outside the
+meeting hall and down the stone steps.  At the bottom he
+said, “Little nun!  Do you know the way to the Abbey of Iron
+Bones?”
+
+Suku pointed. “Straight across the courtyard.”
+
+Banzen said, “Walk it, then.”
+
+No sooner had Suku gone three paces when the master struck
+her left side with a large rice paddle, /thwock!/ sending her
+reeling into a plum tree.  Though surprised, the novice knew
+better than to question or complain.  Instead she dusted
+herself off and continued toward the abbey, only to find two
+gardeners blocking her path.  She sidestepped them and
+/thwock!/ the paddle came down upon her head.  Now dizzy, she
+splashed through a koi pond, stumbled into a shrine, tripped
+over a tree root, and /thwock!/ now her right side met master
+Banzen’s paddle and she found herself sprawled among the
+peonies.
+
+Eventually the bruised and winded nun arrived at the steps
+of the Abbey of Iron Bones, with Banzen right on her heels.
+
+<i>“Straight across the courtyard,”</i> echoed Banzen.  “Design.”
+
+The master then took Suku gently by the shoulders and turned
+her around to face the twisted path her steps had traced in
+the dust.  “Implementation,” said Banzen.
+
+As the novice considered this, Banzen handed her the paddle
+and said, “The World.”
+
+

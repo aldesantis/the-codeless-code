@@ -1,0 +1,75 @@
+Date: 2013-09-01
+Number: 108
+Title: Sweet Tooth
+Geekiness: 3
+Names: Djishin, Banzen, Satou
+Topics: refactoring, design, frameworks, partial solutions, YAGNI, reflection
+Illus.0.par: 1
+Illus.0.src: MrYuk.jpg
+Illus.0.title: I need a way to insert big fluorescent 'Mr. Yuk' icons into source code.
+
+The monk [[Djishin]] was tasked with creating a web page for
+querying the system's inventory table of rice bags.  Glumly
+contemplating the dull day's work that lay before him, the
+monk had a sudden inspiration:
+
+<i>I must produce a presentation-layer object to hold the
+parameters from the search form,</i> he thought, <i>as well
+as a service-layer object to represent each row returned by
+the search.  Yet these both would have the same attributes
+as the RiceBag object we currently use for creating new
+table rows.  Can I not simply reuse that database-layer
+object for these other two purposes?</i>
+
+With growing excitement, he thought: <i>If a database object
+were suitably annotated, I could develop a framework which
+would acquire the form input, validate it, convert it to
+SQL, query the table, and present the search results to the
+user in tabular format... all requiring the most minimal
+effort on the part of the framework's consumer!</i>
+
+The monk thus spent the next few days happily coding the framework,
+with the /RiceBag/ search page as its proof-of-concept.
+
+- - -
+
+At the end of the week Djishin proudly showed the fruits of
+his labor to master [[Banzen]].  The master studied the new
+framework, nodded, and ordered Djishin to convert seven
+existing search pages in the application to use it, starting
+with the Warrior page.
+
+After the monk ran off to comply, a nun who had been
+standing nearby approached Banzen.
+
+"Master," asked the nun, "The Warrior object has but a
+single Status value.  If the user's query is represented by
+a single Warrior, how could we ask for Warriors whose Status
+is either Missing, Retired, or Dead?"
+
+"We could not," said Banzen.
+
+"Furthermore," continued the nun, "The Warrior object
+contains only information stored in the Warrior
+table.  How could we find Warriors by the types of Weapons
+they use, or by the Regiments they have served in, since
+these require joining to child tables?"
+
+"We could not," said Banzen.
+
+The master took a small dark nugget from the jar he kept on
+his desk, giving it to the puzzled nun.  "There once was a
+monk who tired of rice.  One day he stumbled upon the art of
+making <i>kuro sato</i> -- black sugar candy.  For years
+he nibbled piece after piece throughout the day, gradually
+becoming flabby and pale and void of tooth.  What was his
+master's error?"
+
+"Failing to forbid the candy," said the nun.
+
+Banzen shook his head and pushed the heavy jar across the desk.
+
+"Finish that by tomorrow evening," commanded Banzen. "Then
+you will understand Djishin's correction."
+
+

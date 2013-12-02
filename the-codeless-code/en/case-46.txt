@@ -1,0 +1,47 @@
+Number: 46
+Title: The Greatest Aspiration
+Date: 2012-07-09
+Geekiness: 1
+Names: Banzen
+Topic: infinity, philosophy, improvement
+Illus.0.par: last
+Illus.0.src: bonsai.jpg
+Illus.0.title: No, that's not the bonsai tree.  The temple just uses really big paperclips.
+
+
+On Monday a novice asked master [[Banzen]]: What is the
+greatest aspiration?
+
+Banzen replied: to know all that can be known, so that
+one's code may never be improved upon.
+
+On Tuesday another novice asked Banzen: What is the greatest
+aspiration?
+
+Banzen replied: to be surrounded always by
+colleagues whose knowledge is more extensive,
+so that one may be in a continual state of improvement.
+
+On Wednesday a third novice observed that the answers
+were mutually exclusive; indeed, they were almost exact opposites.
+
+Banzen replied: that is so.
+
+The novice, thinking he had the upper hand, then asked Banzen
+how one should set about attaining the greatest aspiration.
+
+Irritated, Banzen replied: on Monday I was asked the greatest
+positive number; on Tuesday, the number half its size.  I
+answered each question in one breath.  But if I must show
+you how to count to either, the moon will turn to sand
+before we have barely begun.
+
+The novice bowed in shame and left.
+
+A gardener -- who had been pruning the bonsai tree on Banzen's
+table -- confessed that he did not understand how the
+novice could be found in error, for the questions on Monday
+and Tuesday were indeed identical.
+
+Banzen replied: that bonsai needs water, as does the
+oak outside my window.

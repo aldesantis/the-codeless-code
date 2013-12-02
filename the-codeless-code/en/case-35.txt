@@ -1,0 +1,116 @@
+Title: Sparrow Breaks Free
+Number: 35
+Date: 2011-05-01
+Geekiness: 2
+Topics: APIs, standards, interoperability, reuse
+Names: Jinyu, Sparrow Clan, Temple of the Morning Brass Gong
+
+A messenger informed Abbess [[Jinyu]] that several
+of her monks had devised a clever new method for storing
+information in the Cloud.  The monks were excited by the
+possibilities and wished to develop the technology further.
+The abbess sent back this message:
+
+    An egg hatches, and //
+    Sparrow Clan has emerged.
+
+The new clan labored night and day and produced a working
+prototype.  All attended the demo, and soon the Sparrow Clan
+was celebrated throughout the Temple.  The clan's head monk
+received another message from the abbess:
+
+    Sparrow breaks free from the shadowy forest. //
+    All eyes behold her ascent.
+
+At this time a prospective client was entertaining bids for
+a new social networking application.  The head monk arranged
+a tea with the client, at which he argued that his clan's new
+software would be an ideal foundation for the proposed
+system.  The client agreed, and the contract was awarded to
+the Sparrow Clan.  Old Jinyu sent her congratulations:
+
+    Soaring alone over distant fields, //
+    Sparrow nabs the worm //
+    while her flock still slumbers.
+
+The system was delivered, and enjoyed great success.
+
+<img src="/cases/35/sparrow-zoom.png" />
+
+Months passed.  Many came to use the application, including
+developers who were intrigued and inspired by its novel use
+of the Cloud.  Although they did not possess the Sparrow
+Clan's software, the fundamental approach was easy to
+discern.
+
+Word reached the abbess that a Birds of a Feather session
+had convened at a recent conference, and the attendees had
+begun work on a standard API for this new type of Cloud
+interface.  The next day the head monk opened his mail to
+find this warning:
+
+   Yellow leaves tumble through the air. //
+   The flock is stirring.
+
+The Sparrow Clan had no interest in the new API, which it
+regarded as over-engineered.  They continued to employ
+and develop their own approach with each new contract won.
+Yet cryptic notes continued to arrive:
+
+   A hundred sparrows can peck an eagle blind.
+
+   Every nightingale loves her own song best.
+
+   One bird cannot hatch an egg.
+
+The Sparrow Clan's software continued to evolve,
+accumulating some impressive new features, but as a
+consequence it was now hopelessly incompatible with the new
+API specification.  The head monk had no concerns <i>(Let
+the other temples enjoy their primitive
+implementations!)</i> but still he dreaded opening his mail
+each morning.  Jinyu's tone grew ever darker:
+
+   The grown falcon does not dine on flies.
+
+<img src="/cases/35/sparrow-zoom-worm.png" />
+
+Temples which had adopted the new API continued to
+collaborate, producing various extensions and enhancements.
+Commercial ventures were spun off, competition escalated,
+and soon a blizzard of glossy brochures were printed up and
+dispatched by carrier pigeon to all corners of the Empire.
+Even the abbess received a few, which she forwarded on
+with this note:
+
+   A little fledgeling sang thus to me: //
+   snow has fallen.
+
+Across the Empire, governors and generals clamored for
+systems built with the newer technology.  Every temple in
+the bidding crowed that its solution was
+standards-compliant -- or rather, every temple but one.
+
+In a secluded courtyard of the Temple of the Morning Brass
+Gong, a meeting was held to discuss the fate of the Sparrow
+Clan.  Their libraries had become liabilities, since (unlike
+their competitors) they could not interoperate with the
+immensely popular commercial extensions.  Clients who had
+adopted the Sparrow's technology in its early days were now
+demanding upgrades to the commercial solutions -- but since
+the interfaces were so different, the cost was prohibitively
+high.  Contracts were being cancelled.  Worse, the temple's
+reputation had suffered.
+
+That evening Jinyu sent a final message to the clan's head
+monk, written on a square of rice paper that had been
+folded around the blade of a seppuku knife:
+
+     The flock is gone south. //
+     Lone sparrow has his white field. //
+     Now the hawk descends. //
+
+
+<img src="/cases/35/sparrow.png" title="He tried spelling HELP, but got a bad sprain doing the little prong in the E.  They really should teach cursive writing in worm school." />
+
+

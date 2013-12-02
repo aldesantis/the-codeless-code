@@ -1,0 +1,98 @@
+Date: 2012-09-19
+Number: 58
+Title: Enough to Hang Yourself By
+Geekiness: 2
+Names: Banzen, Djishin, Luohou, Clan of the Wolf's Bitter Breath
+Topics: testing, automated testing
+Illus.0.par: 14
+Illus.0.src: squirrel.jpg
+Illus.0.title: You are a good and kind master and I love you. SQUIRREL!
+
+Not much is said of the black-robed Clan of the Wolf's
+Bitter Breath, save this: no software could be sent beyond
+the borders of the temple unless it met with their approval
+first.  In the days following a release the sound of their
+footsteps sent so many monks scurrying that the Clan was
+forced to go barefoot, delivering their defect tickets by
+stealth in the darkest hour of night.
+
+So it was with some irritation that Java master [[Banzen]] --
+who prized correctness above all -- was forced to account
+for the repeated failures of the earnest monk [[Djishin]].
+
+- - -
+
+Master Banzen sent for Djishin, who found the master watching
+the sunset by the cliffside.
+
+Said Banzen: "The monks of the Wolf's Bitter Breath wish to
+know if the next iteration of the system is worthy of their
+attention.  They crave our assurance that it will not
+evidence critical flaws immediately after deployment, like
+so many of its predecessors."
+
+Said Djishin: "I declare the new system to be most worthy.
+In theory I have tested every place that the low-level
+components might fail, and all works as it should."
+
+Said Banzen: "It must be tedious to toil thus for days,
+clicking through user dialogs and examining log files."
+
+Said Djishin: "My testing is not done manually; you yourself
+have observed that such a method is slow and error-prone.
+Instead I have worked according to the Method of [[Luohou]]:
+all changes to DAOs and Services were verified during
+implementation by a comprehensive batallion of low-level
+automated tests.  For if the stones are sound, then the wall
+will stand."
+
+Said Banzen: "Go inform the monks, then.  They await you on
+the other side of the gorge."
+
+Banzen pointed across the great chasm which
+separated the cliff where they stood from the one opposite.
+
+Said Djishin: "How am I to cross?  The bridge was
+<a href="/case/54">destroyed by a foolish nun</a>
+and still hangs in tatters."
+
+Banzen indicated a slender rope stretched over
+the chasm between two saplings.
+
+Said Djishin: "But master, no one except the Emperor's
+own acrobats could balance on so narrow a cord."
+
+Banzen gestured to a coil of the same rope lying nearby on
+the ground, wound in a solid spiral a full yard across.
+The master put one foot in the center and lifted his other
+foot, remaining thus for a full minute.
+
+Djishin knew better than to accuse the master of unfairness,
+saying instead: "But the thin braid is dry and brittle.
+I do not believe it can bear my weight."
+
+Banzen knelt down, drawing span after span of the rope
+between his hands, demonstrating that the entire length was
+still unbroken after he had trod upon it.
+
+Again Djishin did not dare to dispute the master's argument,
+saying instead: "But your bridge is held in place by two
+green saplings.  The plants will surely be uprooted
+by my weight."
+
+Banzen produced an ocarina from his robe and blew a high
+chittering trill.  From the forest on the other side of
+the chasm bounded dozens upon dozens of squirrels.  One by one
+they leaped on the swaying cord and scurried across the
+divide.  When each squirrel arrived Banzen
+tossed it a lychee nut, whereupon the squirrel bowed low and
+disappeared into the trees, and the next one began the crossing.
+Djishin watched with amazement until the last squirrel had
+gone.
+
+Said Banzen: "Seeing as your foot is no larger than mine,
+your body no heavier than my own, and neither of us exceeds
+the weight of a hundred squirrels, I declare my bridge
+most worthy of your crossing.  In <i>theory.</i>  Now <i>go."</i>
+
+

@@ -1,0 +1,63 @@
+Date: 2013-04-30
+Number: 91
+Title: The Soul of Wit
+Names: Wangohan, Suku, Landhwa, Zjing
+Topics: elegance, brevity, code reviews, third-party code
+Geekiness: 1
+Illus.0.par: 2
+Illus.0.src: nun-chair.jpg
+Illus.0.title: She's either looking at a hundred lines of contorted XML configuration, or a one-line Perl script.
+
+The pride of the monk [[Wangohan]] would not easily let him
+admit defeat.  Because of this, the monk chose
+to forge ahead with an [[#88|unfamiliar web framework]]
+despite master Suku's warnings to the contrary.
+
+"Now your shame will be twice as great," taunted the monk
+[[Landhwa]].  "Once for the ruin that will befall you,
+and once again because the master herself advised against
+your course."
+
+Wangohan thus returned to his cubicle thoroughly disheartened.
+There he found affixed to his monitor a small yellow note, unsigned
+and in an unfamiliar hand, advising him to have his code reviewed
+by the nun [[Zjing]] before resuming his efforts.
+
+"A poor counsel is this," thought Wangohan, "for I require
+courage, and Zjing cannot stand upon a stepstool lest her
+fear of heights overcome her."  Yet the note did not seem to
+be of Landhwa's doing, and since Wangohan knew of none other
+that bore him malice, he emailed his predicament to the
+telecommuting nun.
+
+"I know nothing of this framework," the nun wrote back.
+"Yet send me your code anyway."
+
+Wangohan did as he was asked.  In less than a minute his phone rang.
+
+"Your framework is not right," said Zjing.  "Or else,
+your code is not right."
+
+This embarrassed and angered the monk. "How can you be so
+certain?" he demanded.
+
+"I will tell you," said the nun.
+
+Zjing began the story of how she had been born in a
+distant province, the second youngest of six dutiful
+daughters.  Her father, she said, was a lowly abacus-maker,
+poor but shrewd and calculating; her mother had a stall in
+the marketplace where she sold random numbers.  In vivid
+detail Zjing described her earliest days in school, right
+down to the smooth texture of the well worn teak floors and
+the acrid yet not unpleasant scent of the stray black dog
+that followed her home in the rain one day.
+
+"Enough!" shouted the exasperated Wangohan when a full hour
+had passed, for the nun's narrative showed no sign of drawing
+to a close.  "That is no way to answer a simple question!"
+
+"How can you be so certain?" asked Zjing.
+
+
+

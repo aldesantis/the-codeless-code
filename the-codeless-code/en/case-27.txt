@@ -1,0 +1,57 @@
+Title: Koan Zero
+Number: 27
+AltTitle: Kōan Zero
+Date: 2011-03-26
+Geekiness: 0
+Topics: philosophy, zero
+Names: Qi, Jinyu
+
+The old scribe [[Qi]]
+kept the kōans of the temple in a massive
+book, known to us now as /The Codeless Code/.  In its
+pages lay the entire wisdom of the temple.  Maintaining it
+was the scribe's most singular and sacred duty.
+
+One day he was asked by a novice why the kōans were numbered
+beginning with the number /one/.
+
+"Would not /zero/ have been more appropriate for our
+profession?" queried the novice.
+
+A look of horror crept over the old man's face.  With
+trembling fingers he turned page after page of the temple's
+accounts.  Indeed, every kōan, from first to last, had the
+wrong number.  And since all documents, databases, and
+internal websites of the temple referenced the kōans by
+number alone, the damage was irreparable.
+
+The scribe was desolated.  For seven days he sat huddled in
+a corner of his office, staring at his inkless brush as though it
+were a cobra poised to strike.
+
+Silence spread through the temple like a sickness.  Since no
+new kōans were being set down, there was no subject for
+discussion at the morning meetings and nothing for the
+students to meditate upon in the afternoon.  Finally, old
+[[Jinyu]] -- the venerable Abbess Over All Clans And Concerns --
+was petitioned to resolve the matter.
+
+The abbess rapped the scribe's door sharply with her cane,
+rousing the man from his misery.
+
+"Young man," she said (for the old scribe was still many
+years her junior): "Is it not true that each day's kōan is
+produced by meditating upon the wisdom that the temple has
+gained since the prior kōan was set down?"
+
+"It is," said the scribe, bowing deeply.
+
+"Then your path is clear: go back to Kōan Number One,
+subtract the wisdom that it teaches, and Kōan Number Zero
+will be revealed.  And likewise Kōan Minus One, and Minus
+Two, and so on until the beginning of time itself."
+
+Thus was the scribe's workload doubled, yet his misery
+subtracted from itself.
+
+

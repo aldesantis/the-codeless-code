@@ -1,0 +1,52 @@
+Date: 2010-11-25
+Title: The Red Notebook
+Number: 24
+Geekiness: 1
+Names: Temple of the Morning Brass Gong, Kaimu
+Topics: null, testing
+
+In the annals of the [[Temple of the Morning Brass Gong]], this
+is recorded in the chapter titled /Unit Testing/:
+
+Java master [[Kaimu]] would occasionally answer questions with
+the single word /null./  When asked what this meant, he
+would invariably reply with the same, impenetrable /null./
+
+A young monk, of a solitary and sickly nature, began
+taking note of which questions elicted this response.  These
+he copied into a small red notebook, whose pages grew quite
+full over the months.  The monk was observed to meditate
+over this notebook late into the night.
+
+"Have you unlocked the mind of your beloved
+master Kaimu yet?" taunted his brothers one day.
+
+/"Null,"/ said the monk.
+
+At this, the other monks held him fast and kicked him until
+he was well bruised.  His precious red book they tossed into
+the fire.
+
+The Java master heard this, and told the clan's abbot to
+investigate.  "Here are forty-eight questions for the young
+monk," said the master.  "Report his answers to me."
+
+The abbot did this.  For most of the questions the monk
+gave a plain answer.  For several, he responded with the
+enigmatic /null./  For the remainder, he was silent.
+
+The Java master stroked his beard as he examined the paper
+given him by the abbot.
+
+"For his answer to question twelve, box the monk's ears; for
+he was insolent," said the master.  "For his answer to
+question thirty-one, whip his backside with a willow-wand;
+for he prevaricated.  Then provide him with another red
+notebook."
+
+"And what of the brothers who beat him?" asked the abbot.
+
+"Reward them, for they have done a service to the temple.
+I now know the algorithm of the monk to be flawed."
+
+

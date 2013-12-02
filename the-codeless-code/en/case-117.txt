@@ -1,0 +1,46 @@
+Number: 117
+Date: 2013-11-01
+Title: Bareback
+Geekiness: 3
+Topics: interfaces, abstraction, single-responsibility principle
+Names: Suku
+Illus.0.par: 1
+Illus.0.src: saddle.jpg
+Illus.0.title: I knew a girl in college who used to keep her saddle and bridle on a stand in the middle of her dorm room.  I wasn't really interested in her until I found out she didn't own a horse.
+
+A certain monk said to master [[Suku]]: "I have studied your
+code to learn from your example, but on one question my eyes
+have not yet been opened."
+
+The monk unfolded a source listing. "Consider this tiny
+application, where you search log files for
+errors.  I would have done all processing in the application
+class.  Yet you define a host of additional classes: a
+/LogFileReader/ interface which has only a /readEntry/
+method, a /LogFileEntry/ to be returned by the method, and a
+/SimpleLogFileReader/ which is the only
+implementation of the interface!  Why all this formality
+for so small a project?"
+
+Suku replied: "Go to the stables, untie my horse, and ride
+him up the Drunken Serpent's Road to the peak of this
+mountain.  Then ride down and tell me what you have learned."
+
+The monk reappeared that evening, bruised and dirty.  "I
+have learned that your horse does not like being ridden
+bareback.  Also, that one may fall a long way down the
+cliffside if thrown."
+
+Suku produced a saddle, breastplate, bridle, bit and
+reins, saying: "No matter how short the journey, the rider
+should be absolutely certain of where to sit and how to steer."
+
+The monk rubbed a huge bump on his head.  "But what will the
+ill-tempered horse be certain of?"
+
+"That he is the one being ridden," said Suku.
+
+
+
+
+

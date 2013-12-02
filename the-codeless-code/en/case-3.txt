@@ -1,0 +1,36 @@
+Date: 2010-11-08
+Title: Encapsulation
+Number: 3
+Version: $Revision: 1.21 $
+Geekiness: 2
+Topics: encapsulation
+
+<img src="/cases/3/encapsulation.jpg"
+     title="Whatever you do, don't tell him you need to go to the bathroom."
+     style="float:right; margin-right:-220px" />
+
+A young monk, new to the temple, not only declared all his
+methods public but all his instance variables as well.  The
+head abbot grew weary of rebuking the monk and asked the
+Java master for advice.
+
+The next day, the master summoned the monk to take lunch
+with him in his private office.
+
+The monk entered to find a sumptuous meal laid out upon the
+conference table.  The master then bade the monk to lie upon
+the floor.
+
+The monk did as commanded, whereupon the master opened the
+monk's robes and drew a large knife.  He pressed the naked
+point firmly into the monk's chest until a ruby droplet
+welled up around the blade.  The monk cried out in terror
+and asked the master what his intention was.
+
+"To slit open your belly," explained the master, "so that I
+may spoon the rice and pour the tea inside.  My schedule is
+quite full, and I find this method of feeding guests to be
+extremely efficient."
+
+Afterward the monk required no more correction.
+

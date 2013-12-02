@@ -1,0 +1,31 @@
+Title: The Origin of All
+Number: 47
+Geekiness: 2
+Date: 2012-07-15
+Names: Bawan
+Topics: binary numbers, zero, one
+Illus.0.par: 1
+Illus.0.src: binary.jpg
+Illus.0.alt: The text 'Where binary numbers really come from', over a picture of many digital 1s swimming up to fertilize a large digital 0.
+Illus.0.title: 'One' really is the loneliest number.
+Illus.0.class: illus-center
+
+Painted on the tiles of a lavatory near Java
+master [[Bawan]]'s office: <sup>*</sup>
+
+<div class="footnotes" style="margin-top:8ex">
+<div class="footnote"><sup>*</sup> Some observations by the Editor:</div>
+<ul>
+<li>This means that every
+    binary number has both sex chromosomes, except for numbers
+    of the form (2^n)-1 where n&nbsp;&gt;=&nbsp;0.</li>
+<li>It also means that bitwise complement (~) is the Sex-Change Operation.</li>
+<li>It would be natural to assign gender to binary integers as follows:
+    even numbers (ending in 0) are female, and odd numbers
+    (ending in 1) are male.
+    But speaking personally, I would find it disconcerting if someone
+    referred to the anatomical feature that defines my sexuality as
+    my Least Significant Bit.
+    </li>
+</ul>
+</div>

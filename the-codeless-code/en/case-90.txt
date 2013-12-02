@@ -1,0 +1,58 @@
+Date: 2013-04-21
+Number: 90
+Title: Not A Number
+Credits: Thanks to Christopher Lynnes and Eric Winter for the idea.
+Geekiness: 3
+Topics: philosophy, null object pattern, NaN, numbers, zero, Javascript
+Names: Kaimu, Spider Clan
+Skip: 0
+Illus.0.src: naan.jpg
+Illus.0.title: Apparently it's made with lots of naan-fat butter.
+
+Master [[Kaimu]] was approached by a monk of the [[Spider Clan]],
+who said:
+"In Javascript, zero is divided by zero, the result is
+<tt>NaN</tt>: not-a-number.  Yet <tt>typeof(NaN)</tt> is
+<tt>number</tt>.  What sense may be found in such a language,
+where a value is both something and not-something?"
+
+Kaimu gave the monk a coin, saying, "On the Road of White Nettles
+lives a baker who sells flatbreads as round as the most perfect zero.
+Purchase as many as you are able and bring them to me."
+
+The monk did as he was told.  When the baker received his payment
+he threw the monk bodily out of the shop and flung
+the coin after him.
+
+"Counterfeit money," said the baker.
+
+- - -
+
+<div style="color:#666">
+Upon returning to the temple, the monk found one of the
+gardeners, switched clothes with him, and sent the gardener
+to see master Kaimu alone.
+
+Kaimu was amused by the obvious deception.  "Monk!" he said.
+"Where is my bread?"
+
+As instructed by the monk, the non-monk replied, "Divided
+equally among all who helped me carry it."
+
+Kaimu was satisfied.
+</div>
+
+== Qi's commentary
+
+Worthless money, imitation monk, fictitious bread,
+<span style="color:#666">false ending</span>.
+
+
+== Qi's poem
+
+Kaimu met an ancient soldier: a lost and desperate man, //
+for he could not remember his own name. //
+The master gave him coin, saying, "This to you from Kaimu." //
+The soldier cried with joy, "Then I must be Not Kaimu!"
+
+

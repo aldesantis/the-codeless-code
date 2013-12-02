@@ -1,0 +1,46 @@
+Number: 105
+Title: Navigation
+Date: 2013-08-03
+Geekiness: 1
+Names: Banzen
+Topics: design, documentation, planning
+Illus.0.src: Map.jpg
+Illus.0.title: Actually, he burned the maps because the Temple gave him a phone with GPS.  But you get the point.
+
+A young nun approached master [[Banzen]] and said:
+
+"When first presented with requirements I created a rough
+design document, as is our way.
+
+"When the rough design was approved I began a detailed
+design document, as is our way.  In so doing I realized that
+my rough design was ill-considered, and thus I discarded it.
+
+"When the detailed design was approved I began coding, as is
+our way.  In so doing I realized that my detailed design was
+ill-considered, and thus I discarded it.
+
+"My question is this:
+
+"Since we must refactor according to need, and since all
+needs are known only when implementation is underway,
+can we not simply write code and nothing else?  Why must we
+waste time creating design documents?"
+
+Banzen considered this.  Finally he nodded, saying:
+
+"There is no more virtue in the documents than in a handful
+of leaves: you may safely forgo producing either one.
+Before master Mugen crossed the Uncompiled Wasteland he made
+eight fine maps of the route he planned to take.  Yet when
+he arrived at the temple gates he burned them on the spot."
+
+The nun took her leave in high spirits, but as she reached
+the threshold Banzen barked: "Nun!"
+
+When the nun turned around, Banzen said:
+
+"Mugen was only able to burn the maps because he had arrived."
+
+
+

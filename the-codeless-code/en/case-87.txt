@@ -1,0 +1,36 @@
+Number: 87
+Date: 2013-03-31
+Title: The Concubine's Fog
+Geekiness: 3
+Names: Banzen
+Topics: security, hardening, web interfaces
+Skip: 0
+
+Master [[Banzen]] was investigating the monks of the
+[[Spider Clan]] in a distant abbey.  After examining the
+source code of their most critical web application,
+Banzen summoned the head abbot.
+
+"Explain," said Banzen, pointing to a screen where the
+application was running.
+
+The master's finger rested upon a small form which had been
+grayed out.  Its text fields could not be typed in; its
+buttons could not be pressed.
+
+"That form delivers information of a most sensitive nature,"
+said the abbot.  "If the user lacks sufficient authorization,
+the form is disabled and appears thus: pallid and faint."
+
+Banzen stroked his wispy beard.  "By the governor's decree,
+the House of Concubines is shrouded in fog."
+
+Banzen then called up the page's HTML source.  Studying it
+briefly, he composed a URL in the location bar and hit
+Enter.  The forbidden information appeared on the screen.
+
+The head abbot's face turned an ashen hue.
+
+Said Banzen, "Fog makes an excellent curtain, but a poor wall."
+
+

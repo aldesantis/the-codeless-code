@@ -1,0 +1,63 @@
+Date: 2010-11-23
+Title: Safety
+Number: 22
+Geekiness: 2
+Names: Laughing Monkey Clan
+Topics: reuse, encapsulation
+
+A monk of the [[Laughing Monkey Clan]] was well acquainted with
+the software produced by the Charitable Temple of the
+Bristling Yak, and he wished to use one of their modules for
+his latest project.  But the clan's own code repository was
+under heavy guard, and the monk had to obtain the permission
+of the monastery's hierarchy to consume any third-party
+software.
+
+The head priest of his clan was willing to allow the module,
+but under one condition only: a wrapper class must first be
+produced by the priesthood.  All access to the module
+would be done through the wrapper.
+
+Said the priest, "This will ensure that you do not make use
+of features which are too complex for your abilities.  And
+there is an added benefit: if we ever deem the Bristling
+Yak's implementation to be inadequate, our priesthood will
+be able to substitute another module for the wrapper's back
+end, and no one using the wrapper will be inconvenienced by
+the change."
+
+The monk bowed and reported this exchange to the Java master.
+
+The Java master called upon the priest, and suggested that
+they ride together up into the mountains, there to meditate
+on the best way to construct this wrapper.
+
+"You drive," said the master.
+
+They seated themselves in the priest's car, whereupon the
+priest frowned.
+
+"The tuning dial for my radio appears to have been stolen,"
+said the priest.
+
+"That is good," said the Java master.  "Music would be a
+perilous distraction on the narrow roads."
+
+"Also, the knobs for the air conditioning," said the priest.
+
+"Excellent!" said the Java master.  "Chill air exacerbates
+rheumatism, and causes disease of the bowels."
+
+The priest turned the ignition key, and was answered by
+silence.  He left his seat to investigate.
+
+"Additionally," said the priest, "it appears that the hood
+has been welded shut."
+
+"Will your good fortunes never cease!" cried the Java
+master.  "Now it is certain that no one may damage the
+engine.  And should the color of the tires ever prove
+unsatisfying, I expect that they may be replaced with
+no discernable effect upon the smoothness of the ride."
+
+

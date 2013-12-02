@@ -1,0 +1,48 @@
+Number: 60
+Date: 2012-09-30
+Title: The Watchdog
+Geekiness: 1
+Names: Clan of Iron Bones, Yishi-Shing
+Topics: monitoring
+
+The production servers for a key system had been functioning
+poorly for many weeks.  After each restart the software
+behaved well, but as the days passed performance gradually
+slowed to a crawl until the system became unusable.  Worse,
+it was common for the application to run out of memory and
+crash during the busiest part of the third day, taking with
+it all unsaved session data of logged-in users.  Dozens of
+angry subscribers began phoning the Temple to register their
+dissatisfaction; they had very /specific/ suggestions about
+what should be done to the developers.  A team of trained
+watchdogs was acquired to safeguard the abbeys.
+
+Unable to reproduce the problem in the development
+environment, the Java masters begged for a nightly restart
+of the system.  This was granted by a near-unanimous
+consensus.  Yishi-Shing, a host master of the
+[[Clan of Iron Bones]], remained the lone dissenter.
+
+The restarts were deemed a success: performance remained
+good throughout the day, all but the most-violent users were
+placated, and the Java masters were able to turn their
+attention to more interesting matters.
+
+One night the Java masters and developers awoke to the sound
+of frantic barking outside their halls.  In the moonlight a
+Temple watchdog could be seen, fur bristling, paws spread
+wide as it faced down a group of menacing figures clad all
+in black.  The dog was just about to leap when a
+whistling sound pierced the air.  The animal
+whimpered and fell, its legs snared by the ropes of a thrown
+dai-chui.  The black figures scattered into darkness.
+
+From the shadows the host master emerged.  He knelt before
+the helpless dog to retrieve the dai-chui that was clearly his own.
+
+The Java masters demanded: "Those men may return
+before morning.  Why did you subdue the watchdog?"
+
+Yishi-Shing replied: "His barking disturbed my sleep."
+
+

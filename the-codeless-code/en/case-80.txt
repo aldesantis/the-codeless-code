@@ -1,0 +1,56 @@
+Date: 2013-02-06
+Number: 80
+Title: A Breed Apart
+Skip: 0
+Geekiness: 0
+Names: Bawan, Temple of the Morning Brass Gong
+Topics: morale, management, geek culture
+Illus.0.src: breed-teaser.jpg
+Illus.1.src: breed.jpg
+Illus.1.par: last
+Illus.1.align: center
+Illus.1.title: He also ate crunchy snack food practically every damned hour of the workday.  He had it coming.
+
+Java master [[Bawan]] and a young monk in his charge were
+walking down a road, when they came upon an emissary of the
+Emperor.
+
+After the usual greetings were exchanged, the emissary
+turned to Bawan and with disdain asked, "Why does your monk
+not groom himself according to the imperial edicts of
+professional attire?  His face is unshaven, his footwear
+unforgiveably gaudy, and his robes are made of cheap
+cotton with a humorous slogan adorning the back.  This is
+disrespectful to you in the extreme!  Why do you tolerate
+it?"
+
+In a haughty voice, Bawan replied, "This is not some lowly
+bead-pusher employed by a counting house, nor some tenth
+rank scribe in the Grand Bureaucracy!  /This/ is a monk of
+the [[Temple of the Morning Brass Gong]], who practices the
+glorious arts of Java, C, and PHP; of Python and Perl;
+Bourne shell and Korn shell; SQL, JPL, XML, CSS3 and
+Javascript too.  He can -- with the merest flickering of his
+fingers on a keyboard -- summon entire websites into
+existence, wherein horses and armor befitting the Emperor's
+most august regiments may be purchased with two-day shipping
+guaranteed.  He has demonstrated proficiency in both
+debugging and re-bugging: the yin and yang around which all blessed
+commerce revolves!  He and his fellows /cannot/ and /will not/
+be held to our generation's trivial ideals of personal
+hygiene.  The monks of his Temple are a breed apart!"
+
+Thus chastened, the emissary bowed coldly and continued on his way.
+
+When the fellow was out of earshot, the young monk smirked at
+Bawan, saying, "That emissary was most assuredly an idiot, to
+need such things explained to him in this day and age."
+
+Bawan cast an eye over the monk's stubbled cheek and
+irreverent garments.  Without warning the master swung his
+staff hard into the back of the monk's skull, killing him on the spot.
+
+"I, too, am a breed apart," said Bawan thoughtfully.
+
+
+

@@ -1,0 +1,116 @@
+Number: 54
+Date: 2012-09-02
+Title: Knots
+Geekiness: 1
+Names: Zjing, Hwídah, Yíwen, Zjing's Bridge
+Topics: refactoring, perfection
+Credits: Some textures in illustrations courtesy of <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.par: 0
+Illus.0.src: knots.jpg
+Illus.0.title: A quintuple-reverse backhanded floral shank knot with a twenty-degree overhand kink and a stabilizer cord.  This is the only knot I ever learned.  I didn't tie my shoes until I was thirty-five.
+Illus.0.style: padding-right: 10%
+Illus.1.par: 6
+Illus.1.src: Cliff.jpg
+Illus.1.title: I'm detecting a lack of urgency here.
+Illus.1.style: padding-right: 10%
+
+Two nuns were walking along a wooded trail not far from the
+temple, when they discovered to their mutual inconvenience
+that the path ended in a sudden drop down a steep-sided
+ravine.  The bottom of the ravine lay over two hundred feet
+below them; the cliff on the opposite side was nearly the
+same distance away.
+
+"I pray your patience, Hwídah," said the first nun, "For my mind has been
+overtaxed from memorizing too many APIs.  But was there not
+a rope bridge across the chasm at this point?"
+
+"I believe you are not mistaken, Yíwen," said the second nun.
+"As I recall it was a sturdy bridge, old and servicable, and
+indeed I had hoped that we would make use of it on our walk."
+
+- - -
+
+The wind whistled.
+
+"Again, take pity on me, Hwídah, for my eyes are
+weak from coding in the small hours.  But does that
+not appear to be the remains of the rope bridge on the far
+side of the chasm, dangling down the cliffside?"
+
+"I believe it is, Yíwen, and if you look to the two great
+trees on either side of our path you will see that a portion
+of the bridge dangles uselessly down our side of the chasm as
+well.  Notice how both halves, near and far, twist in the wind
+with a few meager footplanks still trapped here and there in
+the braids, banging fitfully against the rock face.  The
+sound calls to mind a wind chime that once hung outside my
+window..."
+
+- - -
+
+Both nuns paused to consider the knocking and scraping of
+the planks against the cliffside.
+
+"A hundred pardons, Hwídah, for my ears are used to little but
+the clattering of my keyboard.  But can you not also discern
+a voice upon the wind?"
+
+"I believe I can, Yíwen.  If you observe the ropes on the
+far side you will realize that [[Zjing]], a much-celebrated
+nun of our own order, is clinging to the end and shouting in
+our direction.  My impression is that she would be waving to
+attract our attention if her hands were not engaged in
+arresting her fall.  Let us not forget our manners."
+
+- - -
+
+Hwídah waved to the imperiled nun.  Yíwen did likewise.
+
+"I hope you will not think me unkind, Hwídah, but have you
+not found Zjing to be overmuch concerned with the aesthetics
+of code?  Members of our clan complain that she frequently
+refactors their modules merely because she believes the
+implementation to be insufficiently elegant."
+
+"I believe you are fair in your judgment, Yíwen.  While her
+goals are laudable, they are ever at odds with the
+complexities of our problem domain.  Indeed, her efforts
+have occasionally done more harm than good.  Still, that
+should not affect our decision to come to her aid."
+
+- - -
+
+Both nuns lingered at the cliff edge and reflected
+on how best to help their comrade.
+
+"Is it not bad fortune, Hwídah, that the breaking of the
+bridge has left us with no means to cross the chasm
+and effect a rescue?"
+
+"I believe it is most terrible, Yíwen, but if the bridge had
+truly /broken/ then the ropes would be frayed, yet I can
+see the finished ends quite clearly.  As I recall there was
+a lovely painted gate of red and gold at the exact midpoint
+of this bridge, and each half was secured to the gate by
+knots which have somehow come undone."
+
+- - -
+
+Hwídah pointed to the river far below, where the
+remains of the gate could be seen floating in an eddy.
+Yíwen nodded.
+
+"Is it not your recollection, Hwídah, that the knots which
+secured the ropes to that gate were lamentably large and
+ugly, and detracted from its beauty?"
+
+"I believe they were, Yíwen.  I expect that their ugliness
+would have been most tantalizing to one who cared about such
+things -- though it seems unlikely that anyone would be
+foolhardy enough to attempt re-tying the knots while
+standing at the bridge's center.  Speaking for myself, I
+never found the ugliness that troubling.  I was grateful
+merely to be able to cross the bridge.  Month in and month 
+out, it fulfilled its purpose most excellently."
+

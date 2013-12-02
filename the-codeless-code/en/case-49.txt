@@ -1,0 +1,85 @@
+Number: 49
+Date: 2012-07-28
+Title: Banzen's investigation
+Geekiness: 0
+Names: Laughing Monkey Clan, Banzen, Jinyu
+Topics: neatness
+Illus.0.par: 2
+Illus.0.src: papers.jpg
+Illus.0.title: Basically, this is my filing system.
+
+The abbot of the [[Laughing Monkey Clan]] observed that
+software produced by the abbey's north hall had more defects
+than software produced by any other group of monks.  Java
+master [[Banzen]] was called in to investigate.
+
+The master selected a suitable conference room in the north
+hall.  Seating himself within, he motioned for the abbot to
+join him.  When the abbot was also seated the master
+unpacked his lunch from a paper sack and began eating.  The
+abbot waited silently, with ever-waning patience.
+
+Finally the master finished the last bite of his meal.  He
+crumpled up the paper sack and threw it at the waste bin in
+the corner of the room.  The ball missed the rim by a good
+three feet, bounced off the wall, and rolled to a stop next
+to the bin.  Banzen went out.
+
+The abbot followed, thinking: Banzen's devotion to
+perfection is too much praised in the temple.  Still, the
+rising moon makes an excellent circle but a poor square.
+
+Banzen then bade to abbot to summon the monks of the north
+hall one by one.  Each monk was told to meet the master and
+the abbot outside the selected conference room.  Each was
+also instructed to bring printouts of all code he had
+authored within the past thirty days.
+
+Whenever a monk appeared, Banzen said: "Give me your code
+listings and wait in that room, for I have been asked to
+investigate you."  Each monk entered the conference room as
+he was told, whereupon Banzen closed the door, leaving the
+monk in the room alone.  Banzen then placed the monk's
+papers face-down on an ever-growing pile outside the room.
+When precisely five minutes had passed Banzen would open the
+door and enter, saying, "You have been investigated."  The
+monk would then be dismissed.
+
+The abbot thought: Banzen's moon is lost behind a cloud.
+Still, the night is not yet over.
+
+Banzen repeated this ritual for all twelve monks of the
+north hall.  When the last monk had departed, Banzen left
+the abbey without another word.  Of the listings he had
+examined not a single page.
+
+The abbot said to himself: a wind has scrubbed the sky, and
+Banzen's moon is not even half-full.  I must summon the head
+abbess.
+
+Thus was old [[Jinyu]] called to the conference room. She in
+turn summoned Banzen.
+
+"What is the fault of the north hall?" asked Jinyu.
+
+Banzen pointed.  "That ball of paper still lying in the
+corner."
+
+
+== Qi's commentary
+
+What was done was expected; but what was not done was what mattered.
+If you cannot see the fault, the north hall awaits you.
+
+
+
+== Qi's poem
+
+A mountain of source code towers in the hall: //
+the labor of twelve monks from moon to moon. //
+A merchant's scale may balance fish against coins, //
+but one paper sack defeats it.
+
+
+
+

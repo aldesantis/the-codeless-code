@@ -1,0 +1,92 @@
+Title: Goldfish
+Number: 29
+Date: 2011-03-26
+Geekiness: 1
+Topics: testing, automated testing
+Names: Jinyu, Bawan
+
+When a novice joins the temple and claims to seek wisdom,
+they are advised to find Java master Bawan and ask him: "How
+did wily old Madame [[Jinyu]]
+become Abbess Over All Clans And Concerns?"
+
+Master [[Bawan]] will then hit the novice on the backside with a
+shovel, and instruct them to return the following night and
+ask again.  The following night the answer will be the same,
+and will conclude with the same order to return,
+until the novice is enlightened.
+
+The annals tell us this:
+
+<img src="/cases/29/fish.png" style="margin: 0 auto"/>
+
+When the Venerable Jinyu was a nun of but five and twenty
+years, she and a monk of equal age were approached by
+the abbot of their clan.
+
+"The Emperor will be coming to inspect the new VAX
+mainframe, and to choose worthy members for various Royal
+Committees," said the abbot. "Thus we wish His Excellency to
+be impressed with all facets of our temple.  The koi ponds
+are lifeless and choked with weeds.  Each of you must take
+one pond, clean it well, and ensure that new fish are
+present /each morning/ for the Emperor's amusement."
+
+The monk was given the North Pond.  The stagnant green water
+was unsuitable for any living thing, so with a yoke and
+buckets the monk hauled every last drop away.  Then he
+scrubbed the lichen from the stones, pulled the weeds, and
+brought bucket after bucket of clean water from the temple
+well.  After a week the little pool was teeming with red
+and gold carp, bought from the markets with the monk's own
+coins.
+
+Meanwhile, the South Pond lay untouched, and young Jinyu was
+nowhere to be found.
+
+With the Emperor's visit fast approaching, the abbot sent
+for the nun.  When Jinyu was brought before him, he boxed
+her ears.  "If the Emperor loses confidence in our temple,
+our IT services contract may not be the only thing cut off
+prematurely."
+
+Jinyu bowed.  "All will be as ordained, in two days' time."
+
+The following day the abbot went to the North Pond, which
+now was flush with white and black carp -- again, purchased
+by the monk from the markets in town.  Yet the South Pond's
+state was exactly as before.  He found Jinyu resting under a
+cypress tree, and boxed her ears again.
+
+Again Jinyu bowed.  "All will be as ordained, tomorrow morning."
+
+The following day, the abbot went once more to the North
+Pond, which now was bursting with striped and spotted carp.
+Yet the South Pond's state was /worse/ than before: the
+lovely garden circling it had been dug up, and standing in
+the midst of the ruin was Jinyu and her shovel.
+
+The abbot boxed Jinyu’s ears.  "Account for yourself!" he
+demanded.
+
+The nun said nothing, but turned her shovel in a clot
+of earth at the edge of the pond.  Behind it was a trench
+that Jinyu had dug all the way to the river below the
+temple.  With the clot gone, the stagnant water
+spilled out of the pond and vanished down the trench.
+
+Then Jinyu turned her shovel at the other end of the pond,
+revealing a trench which carried down the waters of
+a mountain stream.  The stream rushed into the pond and
+out the other side, cleaning the stones and sweeping away
+the dead weeds.  In the dark water, flashes of red
+and gold could be seen.
+
+- - -
+
+Thus was Jinyu chosen to head the Exalted Subcommittee on
+Automated Testing.
+
+And if anyone would dispute this account, let him first seek
+out Java master Bawan, and ask the ritual question.
+

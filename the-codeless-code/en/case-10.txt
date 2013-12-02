@@ -1,0 +1,66 @@
+Title: Pride
+Date: 2010-11-11
+Number: 10
+Geekiness: 1
+Topics: reuse, pride
+Names: Elephant's Footprint Clan
+
+After a cursory inspection, the Java master decreed that
+each monk in the [[Elephant's Footprint Clan]] would henceforth
+catch his own fish, harvest his own rice, sew his own robes,
+and cobble his own shoes.
+
+Within a month, the monks were half-naked and severely
+malnourished.  Deadlines began to slip.  The abbot implored
+the Java master to reconsider his decision.
+
+"Very well," said the Java master.  "Every Thursday, have
+them also burn their robes and shoes, and cast their rice
+and fish into the river."
+
+The abbot asked what transgression his clan had committed
+to merit such punishment.
+
+"Punishment?" said the Java master.  "I intended only to
+reward.  Do not the monks of the Elephant's Footprint relish
+their independence and self-sufficiency?  Their code tells
+me as much:
+
+"Each has authored essentially the same Data Access Objects
+and Value Objects as his neighbors.  Each has crafted his
+own String utilities and configuration file parsers.  Each
+has taken exquisite pains to design, implement, integrate,
+test, debug, repair, and extend that which he might merely
+have consumed from one of his brethren.
+
+"Shall I infer incompetence?  If so, then every last monk of
+the Elephant's Footprint must be cast out of the monastery.
+
+"Shall I infer willful ignorance?  If so, tradition demands
+that they blind themselves with nettles, and /then/ be cast
+out.
+
+"Shall I infer contempt for the preciousness of time?  If
+so, the dungeons await...
+
+"But no," concluded the Java master.  "I shall instead infer
+pride -- pride taken by each that his code is superior to
+that of his brethren.  Pride is one of the Four Seeds of
+Greatness, and must be encouraged.  Let the Elephant's
+Footprint hone its skills with shears and spears, with
+needles and sickles, until every monk may be likewise proud
+of his fine robes and the bounty on his plate!"
+
+"There will be little time left for coding," observed
+the abbot.  "And the Emperor is quite literal in his
+interpretation of the word /deadline/."
+
+The master nodded.  "The merchant, lately ruined, knows only
+the pangs of loss.  Whereas the old hermit extols the
+virtues of austerity, and will not change his state.  Yet
+are these not the same man, separated only by a gulf of
+years?"
+
+Thus was the Elephant's Footprint spared twice and
+corrected.
+

@@ -1,0 +1,35 @@
+Date: 2010-11-03
+Title: The Small Stuff
+Number: 1
+Geekiness: 0
+Topics: perfection
+
+For three days and nights the Java master did not emerge
+from his cubicle.  On the fourth day the monks of the temple
+sent a novice to inquire after him.
+
+<img src="/cases/1/foot.jpg"
+     style="float:right; margin-right:-250px"
+     title="Asking the Java master why bare feet are prohibited in the temple usually results in the same answer."
+     />
+
+The novice found the master at his whiteboard, contemplating
+a single dataflow diagram.  The novice recognized it as a
+minor component of the vast system that the monks were
+contracted to maintain.  Politely, the novice asked what the
+master was working on.
+
+The master replied: "There is a defect, and I am considering
+the best way to repair it."
+
+The novice said, "You preach often about the importance of
+setting priorities.  How, then, can you obsess about
+something so tiny and unimportant?"
+
+Without saying a word, the master raised his staff and
+brought it down hard upon the bare left foot of the novice,
+breaking his smallest toe.  The novice screamed in pain and
+staggered from the cubicle.  In that moment, the novice was
+enlightened.
+
+

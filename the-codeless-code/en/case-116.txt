@@ -1,0 +1,37 @@
+Number: 116
+Date: 2013-10-24
+Title: Trust No One
+Geekiness: 1
+Topics: maintainability, APIs, communication, design, refactoring, rethinking
+Names: Laughing Monkey Clan, Taw-Jieh
+Skip: 0
+Illus.0.src: Calendar.jpg
+Illus.0.title: &quot;At least my code isn't as bad as this ancient piece of garbage HERE, written by... uh... goddammit.&quot;
+
+Several monks of the [[Laughing Monkey Clan]] found their
+brother in a state of great anguish, typing frantically at
+his workstation.
+
+"What vexes you so?" they asked.
+
+Said the monk: "When new business rules are delivered next
+year, my code will need to be updated.  Today the abbot told
+me who will be assigned this task, and my heart sank.  He is
+an impatient fool who scorns documentation and breezes by
+comments, electing instead to guess the purpose of
+everything by name alone.  Thus I must idiot-proof every
+class and method."
+
+The monk pointed to his screen. "Here he will be tempted to
+modify this object's properties, so I must make it immutable
+to prevent disaster.  Here he will surely mistake the
+purpose of this parameter, so now I must check for an
+illegal argument wherever it is used."  The monk collapsed
+upon his keyboard.  <i>"Ten thousand curses upon that
+imbecile, Taw-Jieh!"</i> he wailed.  "That he of all people
+should be chosen to maintain my code!"
+
+The other monks looked at each other uncomfortably.
+
+"But /you/ are Taw-Jieh," said one.
+

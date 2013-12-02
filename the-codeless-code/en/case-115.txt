@@ -1,0 +1,50 @@
+Date: 2013-10-18
+Number: 115
+Title: Pain
+Geekiness: 3
+Names: Banzen
+Topics: error handling, exceptions, null, Java, primitives, value objects
+Illus.0.par: 2
+Illus.0.src: OnFire.jpg
+Illus.0.title: I don't know why anyone would voluntarily choose to be a hunk of burning love.
+
+Reports of corrupted data had reached the ears of Java
+master [[Banzen]].  After reviewing the code base
+he summoned a certain monk to his office.
+
+"You take great pains to avoid null-valued objects," said
+the master.  "You initialize all Strings to empty, and
+coerce nulls to empty when setting String-valued properties.
+Furthermore you store the properties of your Data Transfer
+Objects in primitives, causing null integer columns to be
+read as zeroes and null booleans to be read as false.
+Explain."
+
+The boy replied: "In my experience, our most common production
+error is the NullPointerException.  I seek to minimize the
+occurences of this."
+
+Banzen thought a moment, then tossed a brass coin into his
+fireplace and covered it deep with glowing coals.  "Fetch
+the coin with your bare fingers," he said.
+
+The monk attempted this feat three times, but each time
+he withdrew his empty, burned fingers in pain.
+
+Banzen then grabbed the boy's upper arm, sought a particular nerve,
+and pinched deeply.  The pain stopped.
+
+"Again," ordered Banzen, still pressing on the nerve.
+
+The monk repeated his efforts.  He was pleased to discover
+that he could toss aside the coals with ease, but his
+pleasure turned to horror when he smelled and heard his own
+flesh sizzling.  Quickly he withdrew his blistered, burned
+hand and dropped the coin onto the floor.
+
+Banzen released the monk's arm and left the room.  The monk
+required no further correction, except learning to type
+left-handed.
+
+
+

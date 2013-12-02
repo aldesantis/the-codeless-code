@@ -1,0 +1,63 @@
+Number: 73
+Date: 2012-12-24
+Title: The White Pearl
+Geekiness: 2
+Names: Hwídah, Yíwen, Yishi-Shing, Elephant's Footprint Clan, Clan of Iron Bones
+Topics: logging, error handling
+Illus.0.src: pearl-back.jpg
+Illus.0.title: No, this is not about Perl.
+
+Two nuns, [[Yíwen]] and [[Hwídah]], were summoned from their
+midday meal by the abbot of the Elephant's Footprint Clan:
+
+"Master [[Yishi-Shing]] believes he may have lost a white
+pearl in the snow while walking on the temple grounds," said
+the abbot, handing each of the nuns a shovel.  "It is his opinion
+that the two of you should search for it."
+
+The two nuns labored in silence for several hours --
+digging, sifting, tossing aside, and digging again -- when
+the taller of the two cleared her throat.
+
+"I have been wondering," said Yíwen carefully, "why we were
+selected for this punishment.  I, for one, have never met
+master Yishi-Shing."
+
+"Then you are fortunate," answered Hwídah as she sank her
+shovel deep into a drift.  "He is a disagreeable man,
+who cares overmuch about the contents of our log files."
+
+Yíwen leaned on her shovel, her gaze distant.  "Yesterday I
+overheard you arguing with someone about this very
+topic: the contents of our log files.  There was some
+objection that he had raised..."
+
+"Warning messages," grunted Hwídah, dumping a heaping shovelful of
+snow into a sifter that had been mounted atop a wheelbarrow.
+
+"Yes, that was it," nodded Yíwen.  <i>"Meaningless warnings and
+errors, dozens every minute, filling the disk with garbage.
+Benign exceptions.  Uninitialized configuration options.
+Debugging information logged at the wrong severity level.</i>
+In response, I believe you argued that cleaning up all
+the relevant code would be a large and risky undertaking."
+
+Hwídah gasped for breath and turned the crank on the sifter.
+"I also... mentioned... your own observation, about how
+disk space... is cheap..."
+
+"Ah," said Yíwen.  "How exceedingly thoughtful of you."
+
+Hwídah peered inside the sifter.  "Still nothing."
+
+Yíwen stepped hard on the blade of her shovel.  "By-the-by,
+I understand that yesterday's crash of our production
+servers is still undiagnosed.  Curious, is it not, given
+that our logs are so detailed and voluminous?"
+
+"Just keep digging," said Hwídah miserably.
+
+
+
+
+

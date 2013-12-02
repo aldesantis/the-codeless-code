@@ -1,0 +1,66 @@
+Date: 2013-11-24
+Number: 120
+Title: Plug and Play
+Names: Wangohan, Landhwa, Suku, Spider Clan
+Geekiness: 1
+Topics: management, planning
+Illus.0.src: Doctor.jpg
+Illus.0.par: 1
+Illus.0.align: right
+Illus.0.title: He specializes in stool samples.
+
+The monk [[Wangohan]] had been given a web application to
+develop on his own.  For this task he had chosen a promising
+new framework, but because it was unfamiliar his initial
+implementation was [[#91|awkward]] and [[#99|fragile]].  For
+weeks Wangohan labored to correct the problems,
+restructuring his code as his understanding of the framework
+grew.  By release time his application was elegant beyond
+compare, and the abbots of the [[Spider Clan]] agreed to
+allow the new tool in future projects.
+
+"But first," said the junior abbot, "we must implement the fundamental
+components that the Temple will need, and provide them to all
+who would consume this framework."
+
+To Wangohan's great dismay, the monk [[Landhwa]] was chosen
+for this task.  Worse yet, Landhwa had no interest in
+studying Wangohan's code, nor in learning from Wangohan the
+many particulars of the framework.  Instead Landhwa
+consulted Wangohan only when he could not be bothered to
+find the answer to some simple question on his own.
+
+Finally Wangohan asked the junior abbot of the Spider Clan why
+Landhwa was chosen to lead the adoption of the framework.
+
+"He is skilled with code, his workload was light, and he did
+not object to the opportunity," said the junior abbot
+indifferently.
+
+Wangohan bowed and went out.
+
+- - -
+
+The next day, master [[Suku]] summoned Wangohan to her chamber.
+
+"The junior abbot has been taken ill with stomach cramps of
+a most unpleasant nature," she said.  "The cause is unknown,
+but I suspect [[#84|bad cinnamon]]."
+
+"It is a common malady," agreed Wangohan.
+
+"I was going to suggest as much to the junior abbot, but
+learned that you had already taken him to the operating
+room," said Suku.  "I was unaware that the Temple had an
+operating room."
+
+"It serves primarily as the carpenter's shed," said Wangohan.
+
+"And I presume that the surgeon serves primarily as
+the carpenter?"
+
+"Yes," said Wangohan. "But as I told the junior abbot:
+he is skilled with blades, his
+workload was light, and he did not object to the
+opportunity."
+

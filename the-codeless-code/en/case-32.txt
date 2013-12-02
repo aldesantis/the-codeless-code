@@ -1,0 +1,45 @@
+Title: Weeds
+Number: 32
+Date: 2011-03-29
+Geekiness: 0
+Topics: interviews, neatness, potential
+Names: Banzen
+
+The temple was in need of an additional developer, and two
+potential initiates had applied for the position.  Java
+master [[Banzen]] sent a monk to interview them.
+
+"They were equally qualified on all counts," reported the
+monk that evening.  "Of identical age, weight, bearing,
+grooming, proficiency with the sword, and preference of
+caffeinated beverage.  So I posed the same logic problem to
+both candidates.  One failed to solve it; the other
+succeeded."
+
+Java master Banzen said: "Take me to the rooms where they
+were interviewed."
+
+They first came to the room of the failed candidate, whose
+working of the problem still lay on the whiteboard in jade
+green marker.  Painfully neat figures marched across the
+board in precise rows and columns.  Java master Banzen
+quickly found the error in the candidate's reasoning.
+
+Said the Java master: "Here is a grove of pea-vines, struggling to
+break through the winter snow.  If we nurture them we shall
+dine well in spring."
+
+They next came to the room of the successful candidate.
+Here also the critical problem had been worked in green
+marker, but in this room it sprawled across the board with
+no discernable order.  Hasty scribblings wound over and
+around and even right through each other -- a dense tangle
+of gibberish.
+
+The Java master shook his head. "Here you tell me there is
+fresh dill and lemon-grass, but I would never find them for
+all the weeds."
+
+<img src="/cases/32/weeds-33pct.png">
+
+

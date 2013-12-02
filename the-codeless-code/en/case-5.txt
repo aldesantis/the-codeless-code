@@ -1,0 +1,60 @@
+Date: 2010-11-09
+Title: Void
+Number: 5
+Geekiness: 2
+Topics: void, philosophy
+
+On a cold autumn day the Java master awoke disquieted.
+He set out alone to clear his mind.
+
+Soon the master found himself at the gates of the temple of
+Three Stones, where the art of ANSI C was still practiced.
+A learned brother stood guard.
+
+<img src="/cases/5/master.jpg"
+     title=""
+     style="float:right; margin-right:-220px; padding:20px; padding-top:0" />
+
+"What is the nature of /void/?" asked the master.
+
+"It has no nature," replied the brother.  "It is the stick
+fetched by the dog that does not fetch sticks.  It is the
+thing pointed to by the hand that may point at anything.  It
+is the perfect absence of value."
+
+The master thought: "The temple of Three Stones has no need
+of a guard.  There can be nothing of value within."
+
+Further on he came to the temple of the White Iron Sky, a
+place of theoreticians where only ML was allowed.
+In the withered garden a nun was writing lambda expressions
+in the dust.
+
+"What is the nature of /void/?" asked the master.
+
+"It has the color of air, and the weight of rising fog,"
+replied the sister.  "When struck it makes the sound of a
+new moon slipping behind a cloud.  Every empty bowl contains
+as many as you please."
+
+The master thought: "The sister has said nothing which
+is false, yet nothing which is true either."
+
+Further down the road the master came to a great manor
+house, where an old woman was clipping the hedges.
+
+"What is the nature of /void/?" asked the master.
+
+The old woman bowed and continued her pruning.
+
+The master thought: "Here there is purest wisdom, unless
+there is only the lack of it."
+
+Eventually the master came to an abandoned cemetery.
+
+"What is the nature of /void/?" asked the master.
+
+From the empty courtyard came no reply.
+
+The Java master was contented.
+

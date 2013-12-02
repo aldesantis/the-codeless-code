@@ -1,0 +1,50 @@
+Number: 106
+Title: The "I" In Team
+Date: 2013-08-15
+Geekiness: 0
+Names: Jinyu
+Topics: accountability, pride, encoding
+Illus.0.src: Jinyu.jpg
+Illus.0.title: Everyone at the Temple lives in dread of the day when she needs a wheelchair instead of a cane.  Getting hit with a wheelchair REALLY hurts.
+
+A certain monk was known throughout the Temple for his
+humility.  When discussing flaws in his clan's software he
+always took personal responsibility, yet when receiving praise
+for marvelous features crafted by him alone, he always gave
+credit to the entire team.  Eventually word of the monk came
+to old [[Jinyu]], Abbess over all Clans and Concerns.
+
+"So," she said to her chief abbot, "this monk says <i>I failed</i>
+after the defeats of others, and <i>we triumphed</i> after his own
+victories?"
+
+"So it is said throughout the Temple," said the abbot.
+
+"Bring him to me," commanded Jinyu.
+
+When this was done, Jinyu surprised all in attendance by
+striking the monk with her cane and sentencing him to thirty
+days' hard labor in the data mines.  After the stunned monk
+had been taken away the abbot nervously approached Jinyu to
+inquire the reason.
+
+Jinyu struck the abbot.  "Fool!  Consider the monk's algorithm.
+When he says <i>I failed</i>, what is most probably the truth?"
+
+"That others have failed," said the abbot, flinching.
+
+Jinyu struck him again. "And when the monk says <i>we triumphed</i>,
+what does he most likely mean?"
+
+"That victory was his alone," said the abbot, wincing in pain.
+
+The ancient priestess twirled her cane overhead, so fast
+that the very air whined in anguish, until with a
+thunderclap she brought it down hard on the floor
+in front of the terrified abbot.  "The only thing
+praiseworthy about this boastful monk is that he has
+mastered the art of one-to-one mapping.  Meanwhile, what am
+I to do with the rest of you idiots?  You were
+deceived by a simple substitution cipher <i>that your brains
+had already decoded</i>."
+
