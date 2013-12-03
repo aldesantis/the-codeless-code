@@ -1,0 +1,33 @@
+Date: 2010-11-03
+Title: Les Petites Choses
+Number: 1
+Geekiness: 0
+Topics: perfection
+Translator:Luke
+
+Cela faisait trois jours et trois nuits que le maître Java était enfermé dans son bureau. 
+Au quatrième jour les moines du temple envoyèrent un novice pour voir ce qui lui était arrivé.
+
+<img src="/cases/1/foot.jpg"
+     style="float:right; margin-right:-250px"
+     title="Si vous demandez pourquoi les pieds nus sont interdits dans le temple, vous obtiendrez généralement la même réponse."
+     />
+
+
+Le novice découvrit le maître devant son tableau blanc, 
+en contemplation devant un unique diagramme de flux de données. 
+Le novice l’identifia comme étant un composant mineur de l’immense système que les moines avaient été engagés pour maintenir. 
+Poliment, le novice demanda au maitre sur quoi il travaillait.
+
+Le maître lui répondit: « Il y a un défaut, et je suis en train de chercher la meilleur façon de le réparer. »
+
+Le novice dit: 
+« Vous prêchez souvent à propos de l’importance de la définition des priorités. 
+Comment pouvez-vous obséder à propos de quelque chose d’aussi petit et sans importance. »
+
+Sans dire un mot, le maître leva son bâton et l’abattit avec force sur le pied nu du novice, 
+cassant par la même son petit doigt. 
+Le novice hurla de douleur et sortit en boitant du bureau. 
+A ce moment le novice reçu l’illumination.
+
+
