@@ -1,7 +1,8 @@
 Number: 121
-Title: Dove gli angeli non si avventurano{{*}}
+Title: Dove gli angeli non si avventurano
 Lang: it
 Translator: alessandro1997
+Title-footnote: *
 
 La monaca [[Satou|Satou]] si avvicinò al maestro Java [[Banzen|Banzen]] e disse: "C'è un rallentamento nell'elaborazione
 che penso di poter eliminare usando più thread di lavoro. Eppure ho sentito questo proverbio: <em>Se hai un problema e
