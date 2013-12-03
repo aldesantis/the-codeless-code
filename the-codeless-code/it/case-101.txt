@@ -2,6 +2,7 @@ Number: 101
 Title: Responsabilità
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Sotto cinque piani di dura pietra, fatta di travi di quercia rinforzate spesse quattro pollici rivestite di ferro. E ancora non riesce a tenere fuori lo spam.
 
 Una mattina il Tempio si trovò sommerso di telefonate da utenti nel panico, che dicevano di aver ricevuto email errate
 da un certo sistema di fatturazione. Le email riportavano che i pagamenti fossero in ritardo di un anno, e gli utenti

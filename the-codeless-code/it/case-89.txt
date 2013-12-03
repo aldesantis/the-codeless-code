@@ -2,6 +2,7 @@ Number: 89
 Title: Controllo di versione
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Un katana è un po' come 'kill -9', ma per processi biologici.
 
 Precisamente alle 7:07 della prima mattina serena della prima settimana di primavera, il vecchio scriba [[Qi|Qi]] fu
 svegliato da dei colpi sulla sua porta. Una badessa aspettava fuori, affiancata da due guardie pesantemente armate in

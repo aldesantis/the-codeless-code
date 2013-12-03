@@ -2,6 +2,7 @@ Number: 73
 Title: La Perla Bianca
 Lang: it
 Translator: alessandro1997
+Illus.0.title: No, non stiamo parlando di Perl.
 
 Due suore, [[Yíwen|Yíwen]] e [[Hwídah|Hwídah]], furono convocate durante il loro pasto di mezzogiorno dall'abate del
 [[Elephant's Footprint Clan|Clan dell'Orma di Elefante]]:

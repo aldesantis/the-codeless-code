@@ -2,6 +2,7 @@ Number: 112
 Title: Parlami
 Lang: it
 Translator: alessandro1997
+Illus.0.title: La cosa positiva è che fa un chilometro con tre matasse e può sempre trovare la strada di casa.
 
 La timida monaca [[Yíwen|Yíwen]] aprì diversi file sorgenti che aveva scritto a malapena un anno prima, solo per trovare
 codice irriconoscibile all'interno. Dopo aver ispezionato lo storico delle revisioni si avvicinò al cubicolo della sua

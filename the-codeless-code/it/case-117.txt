@@ -2,6 +2,7 @@ Number: 117
 Title: A pelo
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Conoscevo una ragazza al college che teneva sella e briglie su una pedana al centro della stanza. Non mi ha mai attratto, finché ho scoperto che non aveva un cavallo.
 
 Un certo monaco disse alla maestra [[Suku|Suku]]: “Ho studiato il vostro codice per imparare dal vostro esempio, ma su
 una questione i miei occhi non sono ancora stati aperti.”

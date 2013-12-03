@@ -2,6 +2,7 @@ Number: 113
 Title: Pecora nera
 Lang: it
 Translator: alessandro1997
+Illus.0.title: pecora: Impossibile creare il figlio: RAM insufficiente.
 
 A un monaco anziano del [[Laughing Monkey Clan|Clan della Scimmia Ridente]], esasperato dalla scarsa qualità del codice
 del suo team, venne consigliato di cercare l'aiuto della monaca [[Zjing|Zjing]] che viveva nella valle sottostante. La

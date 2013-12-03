@@ -2,6 +2,7 @@ Number: 63
 Title: Catene
 Lang: it
 Translator: alessandro1997
+Illus.0.title: È probabile che si ricreda sul trasloco quando verrà la stagione delle valanghe.
 
 La suora [[Zjing|Zjing]] aveva sviluppato un'avversione per le altezze. Un giovane monaco la trovò nei suoi nuovi
 alloggi: una piccola capanna annidata nel punto più basso di una valle duecento metri sotto il Tempio.

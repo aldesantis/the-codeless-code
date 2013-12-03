@@ -2,6 +2,7 @@ Number: 91
 Title: L'anima dell'intelligenza
 Lang: it
 Translator: alessandro1997
+Illus.0.title: O sta guardando cento linee di configurazione XML contorta, o uno script Perl di una linea sola.
 
 L'orgoglio del monaco [[Wangohan|Wangohan]] non gli permetteva di accettare facilmente la sconfitta. Perciò, il monaco
 decise di continuare a usare un [[#88|Web framework sconosciuto]] nonostante gli avvertimenti della maestra Suku.

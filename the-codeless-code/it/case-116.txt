@@ -2,6 +2,7 @@ Number: 116
 Title: Non fidarti di nessuno
 Lang: it
 Translator: alessandro1997
+Illus.0.title: "Perlomeno il mio codice non è male come QUESTO antico pezzo di spazzatura, scritto da... ah... maledizione."
 
 Diversi monaci del [[Laughing Monkey Clan|Clan della Scimmia Ridente]] trovarono un loro fratello in stato di grande
 angoscia, che scriveva freneticamente alla sua scrivania.

@@ -2,6 +2,7 @@ Number: 105
 Title: Navigazione
 Lang: it
 Translator: alessandro1997
+Illus.0.title: In realtà ha bruciato le mappe perché il Tempio gli ha dato un telefono col GPS. Ma hai capito il concetto.
 
 Una giovane suora si avvicinò al maestro [[Banzen|Banzen]] e disse:
 

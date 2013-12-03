@@ -2,6 +2,7 @@ Number: 93
 Title: Prendi la strada maestra
 Lang: it
 Translator: alessandro1997
+Illus.0.title: ASP. Molto pericolosi. Vai tu per primo.
 
 Una certa suora era solita assillare il maestro [[Bawan|Bawan]] per la sua saggezza. Un giorno disse: “Ditemi qualcosa
 dei linguaggi di alto livello e dei linguaggi di basso livello.”

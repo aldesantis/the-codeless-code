@@ -2,6 +2,7 @@ Number: 114
 Title: L'assassinio dei caratteri
 Lang: it
 Translator: alessandro1997
+Illus.0.title: E quelle rocce lì sotto non sembrano PER NIENTE morbide.
 
 I sistemi del Tempio fallivano sporadicamente durante l'interazione con un servizio di registrazione dei documenti nel
 Lontano Occidente. Il maestro Java [[Bawan|Bawan]] decise di investigare.

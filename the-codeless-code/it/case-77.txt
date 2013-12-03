@@ -2,6 +2,7 @@ Number: 77
 Title: L'abbazia sottosopra
 Lang: it
 Translator: alessandro1997
+Illus.0.title: I pattini a rotelle sono piuttosto divertenti quando corri per dei lunghi corridoi. Cadere da una rampa di scale non tanto.
 
 Una mattina di mezzo inverno, quando il fiume di login degli utenti era rallentato fino a ghiacciarsi e la montagna era
 calma sotto la sua coltre di neve, il maestro [[Yishi-Shing|Yishi-Shing]] lasciò i suoi server nelle mani di dieci

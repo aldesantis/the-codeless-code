@@ -2,6 +2,7 @@ Number: 79
 Title: Cave canem
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Molti miei libri hanno le orecchie.
 
 Una certa suora del [[One Shoe Clan|Clan della Scarpa Sola]] aveva trovato del codice di esempio in un tutorial PHP.
 L'esempio conteneva codice per la gestione degli errori che non era pensato per l'utilizzo in produzione, ma questo non

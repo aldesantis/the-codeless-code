@@ -2,6 +2,7 @@ Number: 74
 Title: Acqua sporca
 Lang: it
 Translator: alessandro1997
+Illus.0.title: A sentir lui l'occhio nero ne valeva assolutamente la pena.
 
 Dopo molti giorni passati a [[#73|spalare neve]], le suore [[Yíwen|Yíwen]] e [[Hwídah|Hwídah]] soccombettero al freddo e
 furono mandate a ristorarsi con dei bagni caldi. Un giovane monaco bendato venne inviato per cercarle.

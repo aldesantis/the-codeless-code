@@ -2,6 +2,7 @@ Number: 109
 Title: I nodi che legano
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Davvero non avrebbe dovuto bere quelle tre lattine di Coca Cola Zero un'ora prima.
 
 Il monaco [[Djishin|Djishin]] si avvicinò al maestro [[Banzen|Banzen]], preoccupato.
 

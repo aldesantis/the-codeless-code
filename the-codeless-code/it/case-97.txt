@@ -2,6 +2,7 @@ Number: 97
 Title: Infiammabile
 Lang: it
 Translator: alessandro1997
+Illus.0.title: E questo è perché nessuno dei monaci ha i capelli.
 
 Nel progetto attuale del monaco [[Landhwa|Landhwa]], gli oggetti di dominio nel livello business erano molto simili ai
 loro corrispettivi oggetti input nel livello Web. Poiché anche molte delle proprietà si chiamavano nello stesso modo, il

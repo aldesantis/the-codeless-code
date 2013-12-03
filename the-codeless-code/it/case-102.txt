@@ -2,6 +2,7 @@ Number: 102
 Title: Paletta
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Ma fa del riso delizioso... fidati.
 
 Nonostante sia visto raramente dai novizi, a volte i maestri si correggono l'uno con l'altro:
 

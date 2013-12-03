@@ -5,50 +5,50 @@ Translator: alessandro1997
 
 Un novizio pose questa domanda al maestro [[Bawan|Bawan]]:
 
-Al mattino il mio maestro mi dà delle indicazioni.
-Dalle indicazioni, creo un'idea.
-Dall'idea, disegno diagrammi su carta.
-Dai diagrammi, creo un modello nel disegnatore.
-Dal modello, creo uno scheletro di progetto.
-Dallo scheletro, inserisco il codice sorgente come testo.
-Dal testo, il compilatore crea bytecode in file .class.
-Dai file .class, il sistema di build assembla file war.
+Al mattino il mio maestro mi dà delle indicazioni. //
+Dalle indicazioni, creo un'idea. //
+Dall'idea, disegno diagrammi su carta. //
+Dai diagrammi, creo un modello nel disegnatore. //
+Dal modello, creo uno scheletro di progetto. //
+Dallo scheletro, inserisco il codice sorgente come testo. //
+Dal testo, il compilatore crea bytecode in file .class. //
+Dai file .class, il sistema di build assembla file war. //
 Dai file war, il pubblicatore crea un'applicazione web.
 
-Ma non abbiamo ancora finito:
-Data un'applicazione, la macchina virtuale estra il bytecode.
-Dato il bytecode, il compilatore JIT produce linguaggio macchina.
-Dato il linguaggio macchina, il sistema operativo istruisce la CPU.
-Date le istruzioni, le celle della CPU si aprono o si chiudono,
+Ma non abbiamo ancora finito: //
+Data un'applicazione, la macchina virtuale estra il bytecode. //
+Dato il bytecode, il compilatore JIT produce linguaggio macchina. //
+Dato il linguaggio macchina, il sistema operativo istruisce la CPU. //
+Date le istruzioni, le celle della CPU si aprono o si chiudono, //
 facendo scorrere gli elettroni da questa o da quell'altra parte.
 
-A ogni passo, il progetto è rifinito, distillato, trasformato.
-Ogni passo dipende da quelli successivi --
+A ogni passo, il progetto è rifinito, distillato, trasformato. //
+Ogni passo dipende da quelli successivi -- //
 altrimenti il programma non funziona.
 
 Dunque la mia domanda è questa:
-Quale di questi prodotti è il vero software,
+Quale di questi prodotti è il vero software, //
 e quale di questi la vera sorgente?
 
 Il maestro rispose:
 
-Ma non abbiamo <em>ancora</em> finito:
-gli elettroni scorrono da questa o da quell'altra parte,
-toccando altre celle logiche,
-che alterano byte in memoria,
-che sono interpretati come informazioni,
-che sono visualizzate sullo schermo,
-che crea uno schema nella tua retina,
-che invia segnali alla tua corteccia,
-che si propaga al tuo cervello,
+Ma non abbiamo <em>ancora</em> finito: //
+gli elettroni scorrono da questa o da quell'altra parte, //
+toccando altre celle logiche, //
+che alterano byte in memoria, //
+che sono interpretati come informazioni, //
+che sono visualizzate sullo schermo, //
+che crea uno schema nella tua retina, //
+che invia segnali alla tua corteccia, //
+che si propaga al tuo cervello, //
 che forma un'idea.
 
-Dunque la mia risposta è questa:
-Vai nel cortile del tempio; mettiti davanti alla quercia.
-Dai rami al di sopra, cogli una ghianda.
-Dalla terra al di sotto, raccogli foglie marce.
-Lascia che il tuo respiro si mescoli con la rugiada.
-Lascia che il tuo sudore bagni il suolo.
+Dunque la mia risposta è questa: //
+Vai nel cortile del tempio; mettiti davanti alla quercia. //
+Dai rami al di sopra, cogli una ghianda. //
+Dalla terra al di sotto, raccogli foglie marce. //
+Lascia che il tuo respiro si mescoli con la rugiada. //
+Lascia che il tuo sudore bagni il suolo. //
 Resta lì, finché la quercia non sarà scomparsa.
 
 == Il commento di Qi
@@ -57,7 +57,7 @@ l'orizzonte. Devi guardare al di là delle necessità del giorno; altrimenti la 
 corteccia morta e tu sei poco meno che cibo per i vermi.
 
 == Il poema di Qi
-Quando la quercia sarà scomparsa, quando il monaco sarà scomparso, allora tutto sarà scomparso:
-Eppure questo accade in un batter d'occhio.
-Non dove, ma ovunque.
+Quando la quercia sarà scomparsa, quando il monaco sarà scomparso, allora tutto sarà scomparso: //
+Eppure questo accade in un batter d'occhio. //
+Non dove, ma ovunque. //
 Non quando, ma sempre.

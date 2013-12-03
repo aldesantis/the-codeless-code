@@ -2,6 +2,7 @@ Number: 96
 Title: Senza stato
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Cerca di non chiamarlo prima delle sei.
 
 È dovere di ogni monaco chiamare il maestro [[Kaimu|Kaimu]] almeno una volta durante la sua permanenza al tempio. Quando
 il maestro apre la porta il monaco si deve inchinare e chiedere: “Qual è la grande gioia dei servizi senza stato?”

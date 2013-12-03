@@ -2,6 +2,7 @@ Number: 92
 Title: Acque calme
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Sai, a volte non c'è spazio per la gelatina.
 
 Il maestro [[Banzen|Banzen]] aveva combattuto con un problema di design per tutta la notte. Sulla sua lavagna c'erano
 tre possibili approcci, ciascuno con le sue potenzialità e le sue falle: Banzen aveva tentato disperatamente di decidere

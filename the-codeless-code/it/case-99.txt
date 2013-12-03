@@ -2,6 +2,7 @@ Number: 99
 Title: Regina Errore
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Ci scusiamo per l'inconveniente.
 
 Trovando tutte le altre forme di comunicazione carenti, il monaco [[Wangohan|Wangohan]] affrontava spesso il lungo
 percorso che portava dalla montagna alla capanna di [[Zjing|Zjing]] per discutere le sue decisioni di design. Quando la

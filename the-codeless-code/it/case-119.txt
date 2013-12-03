@@ -2,6 +2,7 @@ Number: 119
 Title: Sushi
 Lang: it
 Translator: alessandro1997
+Illus.0.title: La cosa positiva è che bruci tutte le calorie solo lavando i piatti.
 
 Il maestro [[Banzen|Banzen]] aveva invitato la sua compagna, la maestra [[Suku|Suku]], al suo domicilio per il pranzo.
 Sulla tavola stavano due grandi pile di ciotole, ciascuna alta diversi piedi.

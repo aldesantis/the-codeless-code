@@ -2,6 +2,7 @@ Number: 76
 Title: Il gatto di Myong
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Le tastiere sono apposto, ma non riusciamo a trovare nessuno dei mouse.
 
 Il maestro Unix [[Myong|Myong]] venne a sapere di un gatto randagio che si era stabilito nella sala operativa, dormendo
 negli armadietti dei server e sonnecchiando al caldo sui monitor a tubo catodico. La situazione divenne sgradevole

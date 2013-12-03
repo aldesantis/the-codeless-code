@@ -2,6 +2,7 @@ Number: 100
 Title: Diecimila errori
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Ora esistono delle applicazioni abaco per i tablet, in caso tu voglia usare il tuo processore allo stato dell'arte per fare calcoli a mano. Lo trovo stranamente meraviglioso.
 
 Un novizio chiese al maestro [[Banzen|Banzen]]: “Cosa separa il monaco dal maestro?”
 

@@ -2,6 +2,8 @@ Number: 95
 Title: Le rose sono rosse
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Violets are #00f, Roses are #f00.
+Illus.0.title: Le viole sono #00f, le rose sono #f00.
 
 La maestra [[Suku|Suku]] stava ispezionando il codice del [[Spider Clan|Clan del Ragno]] quando chiamò un certo monaco
 nella sua camera.

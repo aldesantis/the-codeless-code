@@ -2,6 +2,7 @@ Number: 64
 Title: Tre mendicanti
 Lang: it
 Translator: alessandro1997
+Illus.2.title: Ero *così* vicino a disegnarli come I tre marmittoni.
 
 Il maestro Java [[Kaimu|Kaimu]] condusse tre monaci anziani alla Sala dei Cubicoli Infiniti. Lì aveva richiesto la
 presenza di tre novizi.

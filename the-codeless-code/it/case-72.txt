@@ -2,6 +2,7 @@ Number: 72
 Title: Troppo Presto
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Sull'altro lato del cartello è scritto: NIENTE CAMICIA, NIENTE SCARPE, NIENTE SERVIZIO.
 
 In un giorno invernale un monaco del [[Laughing Monkey Clan|Clan della Scimmia Ridente]] accompagnò il maestro Java
 [[Banzen|Banzen]] al mercato per aiutare a portare ciò che sarebbe stato acquistato.

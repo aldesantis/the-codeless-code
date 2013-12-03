@@ -2,6 +2,7 @@ Number: 108
 Title: Ghiottoneria
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Mi serve un modo per inserire delle grandi, fosforescenti icone di 'Mr. Yuk' nel sorgente.
 
 Al monaco [[Djishin|Djishin]] fu assegnato il compito di creare una pagina Web per interrogare l'inventario della
 tabella di sacchi di riso. Contemplando accigliato la giornata di triste lavoro che lo aspettava, il monaco ebbe

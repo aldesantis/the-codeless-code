@@ -2,6 +2,7 @@ Number: 69
 Title: Aggiornato
 Lang: it
 Translator: alessandro1997
+Illus.0.title: 'Cammina verso nord finché il lamentoso verso di un passero morente non ti ricorderà la futilità della tua esistenza. Poi gira a sinistra al Texaco.'
 
 Il vecchio scriba [[Qi|Qi]] fu incaricato di assemblare e manutenere il documento che illustrava la struttura di alto
 livello di un nuovo sistema. Ciascuno sviluppatore fornì allo scriba i propri contributi, ma quelli dell'abate furono

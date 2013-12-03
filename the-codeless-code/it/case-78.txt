@@ -2,6 +2,7 @@ Number: 78
 Title: Sfondare il Terzo Cancello
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Be', *stavo* per chiedere perché avessi tagliato quel buco nel soffitto...
 
 Si diceva che il giovane monaco [[Djishin|Djishin]] del [[Laughing Monkey Clan|Clan della Scimmia Ridente]] preferisse
 scrivere codice piuttosto che mangiare o dormire. Ma nonostante il suo codice fosse prodigioso, la maggior parte di esso

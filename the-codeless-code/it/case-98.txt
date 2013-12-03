@@ -2,6 +2,7 @@ Number: 98
 Title: Antimateria
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Quando poi gli chiesero la sua opinione del maestro Banzen, anche il monaco fece un gesto con un solo dito.
 
 Dopo che il maestro [[Banzen|Banzen]] ebbe dato una presentazione sulle pratiche di design, un monaco si attardò alla
 grande porta invece di uscire con i suoi compagni. Il monaco chiese quindi a Banzen: “Quale dei due fornisce migliore

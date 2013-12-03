@@ -2,6 +2,7 @@ Number: 94
 Title: Convenzioni
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Inizia la mattina con un pesce morto sulla testa. La giornata potrà solo migliorare.
 
 Un certo monaco era stato reclutato dal [[Spider Clan|Clan del Ragno]] e assegnato alla manutenzione di un grande e
 vecchio sistema. Dopo aver configurato il proprio ambiente di sviluppo, il monaco scoprì con orrore le convenzioni di

@@ -2,6 +2,7 @@ Number: 106
 Title: L'”io” nella squadra
 Lang: it
 Translator: alessandro1997
+Illus.0.title: Tutti al Tempio vivono nel terrore che un giorno avrà bisogno di una sedia a rotelle invece che di un bastone. Essere colpiti da una sedia a rotelle fa DAVVERO male.
 
 Un certo monaco era conosciuto in tutto il Tempio per la sua umiltà. Quando si discutevano le falle nel software del
 clan prendeva sempre su di sé la responsabilità, eppure quando si ricevevano lodi per le meravigliose funzionalità
