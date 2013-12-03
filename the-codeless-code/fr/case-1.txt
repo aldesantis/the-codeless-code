@@ -1,5 +1,4 @@
-﻿Date: 2010-11-03
-Title: Les Petites Choses
+﻿Title: Les Petites Choses
 Number: 1
 Geekiness: 0
 Topics: perfection
@@ -29,5 +28,3 @@ Sans dire un mot, le maître leva son bâton et l’abattit avec force sur le pi
 cassant par la même son petit doigt. 
 Le novice hurla de douleur et sortit en boitant du bureau. 
 A ce moment le novice reçu l’illumination.
-
-

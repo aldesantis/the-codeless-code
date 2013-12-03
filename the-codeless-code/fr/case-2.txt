@@ -3,8 +3,6 @@ Title: Inconnus inexplorés
 Number: 2
 Geekiness: 0
 Lang:fr
-Topics: spécifications
-Translator:Riduidel
 
 L'Empereur était irrité par les défauts dans le nouveau système de gestion des commandes qu'il avait demandé, 
 il envoya donc un messager au temple pour y auditer les moines.
