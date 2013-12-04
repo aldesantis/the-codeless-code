@@ -5,7 +5,7 @@ Translator: alessandro1997
 
 Al monaco [[Wangohan|Wangohan]] era stato assegnato lo sviluppo di un'applicazione Web. Per questo compito aveva scelto
 un nuovo promettente framework, ma poiché gli era sconosciuto la sua prima implementazione era [[#91|strana]] e
-[[#99|fragile]]. Per settimane Wagohan lavorò per correggere i problemi, ristrutturando il codice mentre la sua
+[[#99|fragile]]. Per settimane Wangohan lavorò per correggere i problemi, ristrutturando il codice mentre la sua
 conoscenza del framework cresceva. Per la data di rilascio la sua applicazione era elegante oltre ogni immaginazione, e
 gli abati del [[Spider Clan|Clan del Ragno]] furono d'accordo nel consentire il nuovo strumento per i progetti futuri.
 
