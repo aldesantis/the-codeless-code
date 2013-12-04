@@ -1,0 +1,49 @@
+Date: 2013-01-19
+Number: 77
+Title: The Upside-Down Abbey
+Topics: testing, error handling, morale, planning, process, management
+Names: Yishi-Shing, Clan of Iron Bones
+Geekiness: 0
+Credits: Some textures in illustrations courtesy of <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.par: last
+Illus.0.src: skater.jpg
+Illus.0.title: Roller-sandals are actually kind of fun when you're speeding down long hallways.  Going down a flight of stairs, not so much.
+Illus.0.align: center
+
+One mid-winter morning, when user logins had slowed to an
+icy trickle and the mountain was peaceful beneath
+its blanket of snow, host master [[Yishi-Shing]] left his
+servers in the care of ten capable monks and set out to
+inspect the state of a distant abbey.
+
+Arriving, he found an unexpected whirlwind of activity.
+Serious defects plagued the abbey's software.  User activity
+caused minor errors throughout the
+database; these errors were compounded by subsequent user
+actions, ultimately spreading the corruption to
+highly-sensitive tables.  Monks were poring over log files,
+running emergency data repair scripts, arguing at
+whiteboards, hammering away at workstations.  Desperate
+patches were released at a frantic pace, resulting in
+further disasters.
+
+"What of testing?" asked Yishi-Shing.
+
+"No time! No people! No money!" said the abbot, who
+tightened the straps on his rollerskates and took
+off down the hall in response to the ringing of another
+alarm-bell.
+
+Yishi-Shing returned to his own temple, lost in thought.
+
+"How fares the abbey?" asked the monks of the
+[[Clan of Iron Bones]].
+
+"I saw no abbey," said Yishi-Shing.  "Only a field of cold
+hard earth where monks dig furrows with their fingernails,
+while oxen march behind and goad them on with plow-blades."
+
+"Are the servers in order, at least?" asked one of the
+monks.
+
+Said Yishi-Shing: "Not servers; masters."

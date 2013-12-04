@@ -1,0 +1,32 @@
+Date: 2010-11-16
+Title: Not Invented By Me
+Number: 17
+Geekiness: 1
+Names: Elephant's Footprint Clan
+Topics: reuse
+
+A monk of the [[Elephant's Footprint Clan]] had been charged with
+eliminating the reams of redundant code created by that
+clan.  He approached the clan's head priest for guidance.
+
+"Here, for example, are five schemes for managing user
+preferences," said the monk, spreading the printouts on the
+table.  "I must either pick the superior one or
+implement some compromise.  Either way at least four modules
+will be tossed into the fire, and their authors ordered
+to consume the code of a rival."
+
+"Then you are doomed," said the priest.  "Once the cat wets her
+paw to rake a carp from the pool, she will not trade the
+belly for ten thousand mice."
+
+The monk wiped a hand across his brow.  "And this is but one
+of a dozen redundant subsystems I must consolidate!  Today I
+saw one of the senior brothers sharpening his
+throwing-knives.  Is there no way that the monks of our clan
+might be mollified?"
+
+The priest held up his left hand, which was missing the
+smallest finger.  "If the cat cannot have the carp, a
+bit of the carp-thief will suffice."
+

@@ -1,0 +1,43 @@
+Number: 98
+Date: 2013-06-13
+Title: Anti Matter
+Geekiness: 2
+Names: Banzen
+Topics: design patterns, anti-patterns
+Illus.0.par: 1
+Illus.0.src: Hand.jpg
+Illus.0.title: When later asked his opinion of master Banzen, the monk had a one-fingered gesture of his own.
+
+
+After master [[Banzen]] had delivered a presentation on
+design practices, a monk lingered at the great doorway
+instead of going outside with his fellows.  The monk then
+asked Banzen: "Which provides superior guidance: the
+Pattern, or the Anti-Pattern?"
+
+Banzen glanced left and right, as though ascertaining whether
+anyone else was in earshot.  He then raised his index finger
+and crooked it twice.  The young monk recognized this gesture and
+approached the master's podium.
+
+Banzen's eyes again darted around, and again he raised his
+index finger and crooked it twice.  The monk nodded and
+climbed the steps of the podium to stand directly before
+the master.
+
+Banzen tilted his head forward and again crooked his finger twice.
+The monk leaned in close to listen.
+
+The master smacked the monk hard in the ear, sending him
+reeling down the steps in pain.  Banzen gathered his
+papers, descended the podium, and calmly walked past the
+crumpled form of the monk.  When the master reached the
+great doorway he turned back and shouted, "Monk!"
+
+The monk looked up.  Banzen crooked his finger twice.
+
+This time, the monk did not move closer.
+
+Banzen nodded with satisfaction and went out.  In that
+instant the monk was enlightened.
+

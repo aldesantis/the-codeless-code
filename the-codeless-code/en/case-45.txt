@@ -1,0 +1,84 @@
+Number: 45
+Title: Full Circle
+Date: 2012-07-08
+Geekiness: 3
+Topics: elegance, design patterns
+Names: Zjing, Laughing Monkey Clan
+Illus.0.par: 4
+Illus.0.src: FullCircle-033.jpg
+Illus.0.alt: Two nuns watching the fight
+Illus.0.title: That's gotta hurt.
+Illus.0.caption: Wow... a roundhouse kick right to the copy constructor.
+
+It happened that two monks of the [[Laughing Monkey Clan]]
+were quarreling at such volume in the Great Hall that they had
+attracted an audience.
+
+"If I wish to know a customer's billing address," said
+the first monk, "then /Customer/ should have a
+/getBillingAddress/ method, just as it has /getName/! How
+can you reject the elegance of my design?"
+
+"Because your method silently loads the address from the
+database!" countered the second.  "That is not the Pattern
+for Value Objects!  They exist only to contain the data
+fetched by a DAO.  You should have an /AddressDAO/ for
+querying the Address table, fronted by a Service method.
+The billing address should be obtained directly from there."
+
+"But we have lost the Way of Object-Orientation!" shouted the
+first.  "Have we come full circle back to the days of C?
+Our Value Objects are little more than /structs/, our
+stateless DAOs and Services are merely collections of
+related functions, and we pass around integer IDs instead of
+the objects they represent!  Shall we next run about
+on all fours and bay at the moon?"
+
+"The Way of Enterprise Design Patterns is an advancement
+towards ideal simplicity, not a regression to the
+primitive!" said the second.  "A domain object is not
+intended to work as its namesake, any more than a picture of
+a shovel is meant to dig a ditch!  You must set aside
+appearances and focus on /purpose/!"
+
+"Purpose is /inherent/ in the name chosen!" said the first.
+"Domain objects should model the real world!"
+
+The second monk responded with a fist to the first monk's
+stomach, doubling him up.  "Tell me," said the second monk,
+"in which instance variable did I hit you?"
+
+The first monk leapt forward and boxed his opponent's ears.
+"And here I thought those appendanges were for listening!"
+said the first, as the second staggered aside in pain.
+"How fortunate that I set aside appearances and discovered
+their true purpose!"  His gloating was cut short by an uppercut
+to the jaw.
+
+A young nun -- a novice -- noticed that several of the Java
+masters were at the edge of the crowd, silently watching the
+proceedings.  She ran to them.
+
+"The two monks will kill each other before long!" said the
+novice.  "Why do you not settle their dispute and tell us
+which philosophy is superior?"
+
+The masters ignored her.  But the nun [[Zjing]]
+heard, and whispered to the novice:
+
+"If I were the monk who prefers the Way of Enterprise Design
+Patterns, I would say that you have committed the same error
+as the ditch-digger.  There is a question to be settled, but
+you have mistaken the purposes of those present."
+
+"Are you saying that the masters intend to conceal the
+answer from us?" asked the novice.
+
+/"Wu,"/ said Zjing.  "If I were the monk who prefers the Way
+of Object-Orientation, I would call your attention to the
+Unwritten Hierarchy, in which /Master/ is but a
+subclass of /Student/."
+
+
+
+

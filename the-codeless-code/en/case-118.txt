@@ -1,0 +1,39 @@
+Number: 118
+Date: 2013-11-10
+Title: Clay
+Geekiness: 2
+Topics: design, refactoring, process, planning, cost
+Names:
+Illus.0.src: Tiles.jpg
+
+
+A general of the Imperial Army had commissioned the Temple
+to build a supply requisition system.  Mindful of cost, he
+sent an officer of the 3rd Unsigned Integer Division to
+report on the Temple's progress.
+
+The officer noted with satisfaction that most of the
+developers worked calmly and methodically: they drew up
+detailed designs, submitted the documents for approval
+or amendment, and consulted the final drafts as they coded.
+
+Yet one of the nuns did not.
+
+As the officer watched, the nun created a dozen classes
+in the repository, stared at each for a moment, renamed half
+of them, stared again, broke some into pieces, stared, added
+some methods and subtracted others, and so on.  She repeated
+this throughout the day.
+
+The officer could no longer contain his impatience, saying,
+"Enough!  If the Imperial sculptors were as impulsive
+as you, there would be no jade left in the world!"
+
+The nun replied, "If the Imperial sculptors are foolish
+enough to carve roof tiles out of jade, the Emperor's palace
+must still be half-open to the sky.  Myself, I choose to
+work in clay."
+
+
+
+

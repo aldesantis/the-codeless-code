@@ -1,0 +1,43 @@
+Title: Garbage
+Number: 41
+Date: 2011-03-24
+Geekiness: 2
+Topics: comments, version control
+Names: Suku
+Illus.0.src: garbage.png
+Illus.0.title: It's probably for the best that it fades out below.
+
+Java master [[Suku]] was investigating the
+software of a distant temple.  On her monitor large swaths
+of text glowed not black but green, indicating that reams of
+code had been commented out.
+
+"Curious," said Suku.  "I have opened a fine clock, and
+discovered orange rinds and fish bones."
+
+The head monk explained that the inactive code was no longer
+necessary, yet he had ordered his clan to leave it in place:
+for if it someday became desirable to restore the logic then the
+code could simply be uncommented, rather than wastefully
+written from scratch.
+
+"Understandable," nodded Suku.
+
+The next day the monks assembled again for the Java master's
+inspection.  With concern they reported that the head monk
+could not be found.  Suku gestured up into the rafters where
+the missing monk dangled from a strong rope, by the neck.  A
+foul odor wafted downwards.
+
+"Your head monk's services are no longer necessary," said
+Suku.  "Yet let his corpse moulder above you from
+this day forward.  After all, his methods may someday become
+desirable again, and it would be wasteful to train another
+monk from scratch."
+
+In her final report, Suku noted a swift change in the clan's
+coding practices, and credited the good example set by the
+deceased head monk.  <i>We should consider his
+reinstatement,</i> she wrote.
+
+

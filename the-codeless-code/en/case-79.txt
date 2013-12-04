@@ -1,0 +1,75 @@
+Date: 2013-02-03
+Number: 79
+Title: Cave Canem
+Names: Qi, Bawan, Suku, Banzen, One Shoe Clan
+Topics: authority, sample code
+Geekiness: 1
+Credits: The subject of this case was requested by Shere Chamness, in the very words spoken by the nun. :-)
+Illus.0.src: dogbook.jpg
+Illus.0.title: Most of my books are a little dog-eared.
+Illus.0.par: 3
+
+
+A certain nun of the [[One Shoe Clan]] had run afoul of some
+sample code in a PHP tutorial.  The sample contained
+error-handling code which was not intended for actual
+production use, yet this was not clear from the text.  The
+nun copied the code dutifully, and disaster was the result.
+
+When the crisis had passed, the nun found the old scribe
+[[Qi]] writing in the Temple's great journal.
+She bowed.  "Say something of instruction books that teach
+bad practices."
+
+Said the scribe, "I will petition the masters on this subject."
+
+- - -
+
+The scribe brought the nun's request to master
+[[Suku]], who demanded readable code from all in her charge.
+
+Suku said: "Books are faithful hounds, doing only as their
+authors have raised them.  Some were doted upon, and
+some sorely neglected.  If the Temple has been bitten, the
+fault lies with the one who reared the animal.  His
+writings should be cast upon the midden-heap."
+
+- - -
+
+The scribe brought the nun's request to master [[Bawan]], who
+reverently stroked the binder of his ANSI C Handbook.
+
+Bawan said: "Books are sleeping dogs, incapable of mischief on
+their own.  Some are tame and some rabid, so all are
+best awoken with caution.  If the Temple has been
+bitten, the fault lies with the one who disturbed the
+animal.  The nun should be punished."
+
+- - -
+
+The scribe brought the nun's request to the unhappy
+master [[Banzen]], who sought perfection in all things
+and seldom found it.
+
+Banzen said: "Books are wild mongrels, taking part of their
+nature from the writer and part from the reader.  If the
+Temple has been bitten, the fault lies chiefly with the
+animal's teeth.  The only correction required is one
+done with ink."
+
+- - -
+
+<div style="font-style:italic">
+
+The old scribe returned to the nun, and placed his great
+journal in her hands.  "I have investigated the issue of
+instruction books."
+
+The nun found the most recent case, which appeared to be
+unfinished.  "I see the testimonies of three masters," she
+said, "yet all are in contradiction.  What will
+you write in conclusion?"
+
+The scribe barked three times and went out.
+
+</div>

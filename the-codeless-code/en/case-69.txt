@@ -1,0 +1,52 @@
+Date: 2012-11-25
+Title: Up To Date
+Number: 69
+Geekiness: 2
+Names: Qi
+Topics: documentation, code rot
+Credits: Some textures in illustrations courtesy of <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.src: confusion.jpg
+Illus.0.title: 'Walk north until the mournful song of a dying sparrow reminds you of the futility of your own existence.  Then left at the Texaco.'
+
+
+The old scribe [[Qi]] was tasked with assembling and
+maintaining the high-level design document for a new system.
+Each developer provided the scribe with his or her
+contributions, but the contributions of the head monk were
+returned with the subject line /Unsatisfactory./
+
+"What is your objection?" demanded the head monk, who
+was known for his impatience.
+
+"Much of what you gave me was actual source code," said the
+scribe.  "Class declarations, method bodies, long SQL
+queries.  That is not our way."
+
+"How better to document the algorithms?" asked the head monk
+pointedly.  "My way distorts nothing."
+
+The scribe considered this.
+
+"Very well," he said finally.  "If you can convince the head
+priest of my order, I will allow it."
+
+"Tell me where this priest may be found," said the head monk,
+fumbling in his robes for paper and ink.
+
+"I can only tell you where I found him last, about three
+years ago," said the scribe, thumbing through his diary.
+"Ah!  Here it is:  I followed the Road of White Nettles
+toward the East for two days, until I came to a stream whose
+banks were swollen from a recent rain.  There I turned so
+the wind was at my back, walking until two salmon leaped
+from the waters.  Crossing at the next footbridge I took the
+fork that pointed straight at the moon, turned right when I
+came to a barefoot boy gathering sticks and then left when
+the clouds blotted out the pole-star.  It was the hut with
+the door standing halfway open; you can't miss it."
+
+The head monk required no further correction.
+
+
+
+

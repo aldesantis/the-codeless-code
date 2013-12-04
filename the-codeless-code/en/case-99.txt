@@ -1,0 +1,51 @@
+Number: 99
+Date: 2013-06-22
+Title: Queen Error
+Names: Zjing, Wangohan, Zjing's Bridge
+Topics: error handling, hardening, security
+Geekiness: 2
+Illus.0.par: 4
+Illus.0.src: Gap.jpg
+Illus.0.title: We apologize for the inconvenience.
+
+Finding all other forms of communication wanting, the monk
+[[Wangohan]] would frequently make the long trek down the
+mountainside to [[Zjing]]'s hut to discuss his
+[[#91|design decisions.]]  When his web application had taken shape
+enough to be brought up in a browser, Wangohan made a final
+journey to demonstrate the fruits of his labor.
+
+Zjing let the monk run through the many screens he had
+implemented, politely sipping her tea in silence.  When a
+suitable moment arose, she requested the keyboard and
+promptly entered random characters in a form field where a
+date was expected.  The characters were accepted without
+complaint.
+
+Zjing submitted the form.  The illegal date was ignored
+and no validation message appeared.
+
+Zjing then edited the URL's parameters so that it referenced
+a record belonging to another user, one that should be
+forbidden to her.  The record was displayed.
+
+Finally Zjing removed the record ID from the URL altogether.
+A pure white screen appeared containing only the words <i>500
+Server Error</i>.
+
+Zjing turned to the embarrassed monk, saying: "These bugs
+were hatched from one Queen Error, who doubtless has many
+offspring still lurking in her nest.  If you would
+understand, return at daybreak tomorrow by the Dying Moon
+Road."
+
+Wangohan did as he was told.  Yet he had barely left the
+temple grounds when the road ended abruptly at a precipice
+where [[#89|a burned bridge]] was being replaced.  As the
+monk tarried by the edge, considering whether or not to take
+another path, workers arrived to start the day's
+construction.  Their first task was the unfurling of a great
+safety net below the skeleton of the new bridge.
+
+The monk returned to the temple, enlightened.
+

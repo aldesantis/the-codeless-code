@@ -1,0 +1,43 @@
+Title: Effect
+Number: 12
+Date: 2010-11-11
+Geekiness: 1
+Names: Spider Clan, Laughing Monkey Clan, Elephant's Footprint Clan
+Topics: importance
+
+Three young monks -- one from the [[Spider Clan]], one from
+<a href="/tag/Laughing Monkey Clan">Laughing Monkey</a>,
+and one from <a href="/tag/Elephant&apos;s Footprint Clan">Elephant's
+Footprint</a> -- had been arguing about which was the more
+important: webtier code, business tier, or persistence.
+Finally they agreed to pose the question to the Java master.
+
+The master called in one of the burly gardeners who
+maintained the temple grounds, and instructed him thus:
+"Beat and kick these three monks soundly for one minute.
+Afterward, you may continue to beat and kick them for as
+long as you desire."
+
+The gardener thrashed the monks for a full seven minutes,
+then bowed and left.
+
+"Now," said the master.  "Who bears the greatest blame for
+your bruises today?  Myself, for summoning the gardener; the
+gardener, for the six minutes left to his discretion; or the
+gardener's hands and feet?  Consider your answer, or I shall
+call him in again."
+
+At length, the monk of the Spider Clan said, "The carpenter
+who raised the first beam of this temple bears a greater
+blame."
+
+The master was satisfied.
+
+
+
+
+
+
+
+
+

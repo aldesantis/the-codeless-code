@@ -1,0 +1,50 @@
+Date: 2013-11-15
+Number: 119
+Title: Sushi
+Names: Banzen, Suku
+Topics: rethinking, structure
+Geekiness: 1
+Credits: Inspired by a conversation with Bruno Kim Medeiros Cesar.
+Illus.0.src: Bowls-sm.jpg
+Illus.0.par: 2
+Illus.0.align: right
+Illus.0.title: The upside is, you burn off all the calories just by doing the dishes.
+
+Master [[Banzen]] had invited fellow master [[Suku]] to his
+domicile for lunch.  On the table lay two great stacks of bowls,
+each several feet high.
+
+Banzen reached up and took the topmost bowl from his stack.
+It was empty save for three grains of rice.  He deftly
+snapped up each grain with his chopsticks and ate them.
+
+Suku took the topmost bowl from her own stack.
+In it was only a single toasted sesame seed.  With great
+difficulty she caught it between the ends of her chopsticks.
+
+Banzen took another bowl.  At the bottom lay a morsel
+of orange flesh.  "Recently," he said, "you
+[[#117|advised a certain monk]] that it was wise to
+structure even the smallest application."
+
+Suku also took another bowl, discovering the tiniest sliver
+of cucumber.  "I have found that with structure comes
+clarity and extensibility."
+
+"You will be pleased to hear that he is heeding your advice
+most eagerly," said Banzen.  "He now divides a hundred-line
+throwaway application into many classes."
+
+"Ah," said Suku, reaching for the next bowl.  It held two grains
+of rice.  "You believe I counseled him poorly."
+
+"Injudiciously, perhaps," said Banzen, struggling to scoop
+up a few dots of tobiko.  "Any virtue, taken
+to extremes, becomes a vice.  Incidentally, how is your sushi?"
+
+"Is /that/ what we're eating?" asked Suku, considering the
+tall stack of bowls that still remained.
+
+"I am not entirely certain," said Banzen, studying a
+ribbon of nori at the end of his chopsticks.
+"I suppose we must go through all the courses before we can be sure."

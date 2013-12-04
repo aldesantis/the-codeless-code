@@ -1,0 +1,56 @@
+Number: 101
+Title: Accountability
+Geekiness: 1
+Names: Yíwen, Hwídah
+Topics: accountability, production support, teamwork
+Date: 2013-07-05
+Illus.0.par: 2
+Illus.0.src: Door.jpg
+Illus.0.title: Five storeys under solid stone, made of four-inch thick reinforced oak beams clad in iron.  And it still doesn't keep out spam.
+
+
+One morning the Temple found itself flooded with calls from
+panicked users, claiming that they had received erroneous
+emails from a particular billing system.  The emails alleged
+that payments were now a year overdue, and regrettably the
+users' heads were forfeit.
+
+Temple abbots gathered in the courtyard, debating how best
+to locate the source of the problem before the Temple's entire customer
+base disappeared into the mountains to escape the executioner's axe.
+
+"There is no need," said the nun [[Hwídah]] from the edge of
+the courtyard.  "The shame is my own.  In our last
+maintenance build I carelessly modified a boolean expression
+in the accounting module, causing it to return false when the
+proper answer was true.  I have now corrected the defect,
+and the spurious emails have ceased."
+
+Hwídah was banished for two months to the dungeons below
+the Temple's deepest archives, where alone she would inspect
+mouldering printouts of old COBOL scripts for possible defects.
+
+After a week the nun [[Yíwen]] came to replenish the prisoner's
+allotment of cold rice.
+
+"Forgive my puzzlement, Hwídah," asked Yíwen as she pushed a
+tray under the cell door, "but why did you admit your fault
+after correcting the error?  Had you remained silent the
+cause would have escaped detection for many days, by which
+time the Temple would have turned its attention to more urgent
+matters.  Your involvement could have remained unknown forever."
+
+"Tell me, Yíwen," said the prisoner, "what chaos would ensue
+if /all/ the modules in our system occasionally returned
+false when the proper answer was true?  And when I say
+<i>[[#70|system]],</i> what picture does the word make in your
+mind?"
+
+Hwídah slid the empty tray back under the door.  "On that
+morning, when the horror of my error was revealed to me, so
+too was this understanding: we are all a part of the system.
+It is an extension of our desires, our efforts, and --
+lamentably -- our flaws.  If I were to let my fellows waste
+precious hours searching for a defect that I had secretly corrected,
+I would only have failed the system a second time."
+

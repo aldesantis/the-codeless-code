@@ -1,0 +1,86 @@
+Title: Echo
+Number: 28
+Date: 2011-03-26
+Geekiness: 1
+Topics: obsolescence
+Names: Clan of Iron Bones, Huisheng
+
+<img src="/cases/28/echo.png" style="float:right; margin-right:-310px" />
+
+The [[Clan of Iron Bones]] was charged with keeping the servers
+running.  This was their purpose, and this was their pride.
+
+A monk of that clan was running a security sweep when he
+noticed several non-essential services enabled.  He reported
+his findings to the abbot.
+
+"We should shut down the /echo/ service on port seven," said
+the monk.  "It is a holdover from forgotten times, and
+serves no useful purpose now.  All it does is vomit back
+whatever is fed to it, as an aid to testing network latency
+and connectivity."
+
+To the monk's astonishment, the abbot immediately banished
+him for a year to a distant hermitage high in the mountains.
+No reason was given.
+
+The journey took many weeks.  The road wound upward and
+eventually disappeared beneath drifts of snow.  The air grew
+thin.  In the final miles the mountain became treacherously
+steep: the almost-invisible path skirted a sheer drop into
+oblivion.  When night fell the monk nearly lost his life by
+straying too close to the edge.
+
+Eventually he reached a hut perched atop a lonely crag.
+The hut was cold and bare except for a bed, a bowl, and
+an ancient workstation with a VT220 terminal.
+
+One day the monk was meditating when the terminal beeped.
+Onscreen he read:
+
+<pre>
+  <b>Connection received. Payload:</b>
+  Ten thousand greetings to our distant cousin!
+  <b>Response?</b>
+</pre>
+
+The monk replied with a flurry of excited questions,
+but his every input was rejected by the terminal.
+In a flash the monk was enlightened, and typed:
+
+<pre>
+  Ten thousand greetings to our distant cousin!
+</pre>
+
+After that the terminal would beep no more than once every
+few days.  Sometimes the message was a simple /hello/.
+Sometimes it was a small poem about the antics of a quick
+brown fox.  Often it was a string of gibberish.  But the
+monk always answered promptly and faithfully.
+In this way did the monk pass the year.
+
+When he returned to the temple he continued in this manner:
+speaking only when spoken to and returning the words exactly
+as given.  And although this earned him the scorn of his
+fellows, all had to admit that he never spread rumors,
+lied for personal gain, or insulted anyone who did not
+do him injury first.
+
+
+== Qi’s commentary
+
+The monk's penance was far too lax; but then, he was a
+lucky fox.  Had he instead complained about the /discard/
+service on port nine, he would have learned how to hold his
+tongue.
+
+
+== Qi’s poem
+
+The tower stands proudly, //
+the statue gazes out to sea. //
+What great work was not created, //
+but that the builder might see his reflection in the world?
+
+
+

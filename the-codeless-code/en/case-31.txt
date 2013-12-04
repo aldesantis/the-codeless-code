@@ -1,0 +1,35 @@
+Title: The Eloquent Sandal
+Number: 31
+Date: 2011-03-29
+Geekiness: 2
+Topics: philosophy, null
+Names: Kaimu
+
+Two monks took their argument to Java master [[Kaimu]].  They
+asked him, "Is null a value, or the absence of a value?"
+
+"Null," said the master, and walked away.
+
+The monks then proceeded to argue about the meaning of the
+master's response, even after the clan had retired to the
+dormitory and all the lamps were doused:
+
+The first monk insisted that null /must/ be a value, because
+the master had used it to answer a question.
+
+The second monk insisted that null /must not/ be a value,
+because the answerless-answer did not include either of the
+proposed alternatives.
+
+<img src="/cases/31/sandal.png" />
+
+A third monk, who was trying to sleep, screamed and
+threw his sandal into the darkness.
+
+A fourth monk asked slyly: "Was that an eloquent
+request for silence, or the /absence/ of an eloquent request
+for silence?"
+
+As the first two monks considered this, the moon rose.
+
+

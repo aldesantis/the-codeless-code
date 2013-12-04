@@ -1,0 +1,64 @@
+Number: 103
+Title: The Black Enamel Box
+Geekiness: 2
+Names: Bawan
+Topics: production support, logging, code rot
+Date: 2013-07-21
+Skip: 0
+
+
+Master [[Bawan]] posed this dilemma to the developers
+in his charge:
+
+"When investigating strange behavior in the production
+environment, our most powerful weapon has always been debug
+messages: the more numerous and detailed, the better.  Yet
+when used copiously, the formatting of such messages becomes
+expensive -- /needlessly/ expensive, for we exclude debug
+messages from our logs when we are not 
+investigating problems.  So which path is best?  Safe but
+slow, or heedless but fast?"
+
+<i>"Wú,"</i> said one of the nuns.  "Everything may be
+logged, with minimal expense.  Wrap every /debug/ call
+within an /if/ statement which verifies that debugging is on
+before bothering to format the message.  We will only be
+slow when we need to be safe."
+
+Bawan considered this, and seemed pleased.
+He bade the nun implement her approach in an application
+that was presently being designed.  As further reward for
+her cleverness he presented her with two enamel boxes.
+
+"Open the red box immediately," said Bawan, "but leave the
+black box shut tight.  In time it will serve you."
+
+Inside the red box the nun discovered a small bowl full of
+succulent kiwi fruit, lychee, and white pears, resting on a
+bed of goji berries.  These she enjoyed greatly that
+very evening.  Afterwards she placed both boxes on a high
+shelf, and eventually forgot about them.
+
+- - -
+
+Two years later, after the system had undergone several
+enhancements, a minor production problem appeared --
+the first in many releases.  The nun requested that the
+system be restarted in debug mode.
+
+Suddenly, stack traces from NullPointerExceptions appeared
+on the screens of every user.  The system had become completely
+unusable.  As the nun stood aghast amid the chaos,
+master Bawan sidled up to her and whispered, "Now fetch the
+black box."
+
+When the lid was lifted a foul odor issued forth.  Inside
+lay a small bowl filled with the mouldy, dessicated remains
+of what appeared to have once been kiwi fruit, lychee, pears and
+goji berries.
+
+The nun requested that debug mode be turned off
+and then closed the box, enlightened.
+
+
+

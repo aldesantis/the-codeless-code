@@ -1,0 +1,42 @@
+Number: 43
+Title: Holes
+Geekiness: 2
+Date: 2011-06-08
+Names: Jinyu, Laughing Monkey Clan
+Topics: hardening
+
+The Abbess [[Jinyu]] was inspecting the state of the
+[[Laughing Monkey Clan]].  In the hall she came upon a half-drowned monk,
+soaked and shivering.
+
+"Explain," said the Abbess.
+
+"The m-m-master commanded me to t-take his coracle out onto
+the r-r-river," said the monk through chattering teeth.
+"When I was far from shore I discovered that it had m-m-many
+holes in the sides.  M-most were plugged with corks but
+t-t-t-two had been overlooked.  Had I not stopped them with
+my f-f-fingers I would have p-perished."
+
+The Abbess bowed and went in to see the Java master.
+
+"Explain," said the Abbess, indicating the monk.
+
+"That monk was given the task of implementing the Shopping
+Cart for our new site," said the master.  "He discovered
+that if a particular database entry was not initialized,
+attempts to display the Shopping Cart would fail.  So the
+monk found every page that offered a /link/ to the Shopping
+Cart and attempted to initialize the database entry
+/there./ There were over a dozen such pages.  Lamentably,
+two were overlooked."
+
+The Abbess struck the master with her cane.
+
+"Next time," she said, "Drill more holes."
+
+
+
+
+
+

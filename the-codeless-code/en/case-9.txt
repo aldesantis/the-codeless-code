@@ -1,0 +1,45 @@
+Date: 2010-11-10
+Title: Infinities
+Number: 9
+Geekiness: 1
+Topics: philosophy, infinity, loops
+Names: Spider Clan
+
+Two monks of the [[Spider Clan]] were arguing whether the new
+input validation routine was caught in an infinite loop.
+
+"How long has it been running?" asked the abbot.
+
+"No more than thirty minutes," said the pale thin monk.
+
+"Yet no less than that either," said the dark fat monk.
+
+"And you have done nothing this whole time but wait for it
+to complete?" asked the abbot.
+
+The monks bowed their heads in shame.
+
+The abbot reported this to the Java master, who nodded.
+"Which of them believes that the loop is /not/
+infinite?"
+
+"The pale thin one," said the abbot.
+
+"Then give him a skin of wine, for he is wise.  No loop may
+be truly infinite.  Someday the power will fail, the server
+will rust, the temple will crumble, and the sun will
+swallow the earth."
+
+Asked the abbot, "What of the dark fat one, who believes
+that the loop is infinite?"
+
+"Give him two skins of wine, for he is wiser.  To the user
+waiting at his browser, ten seconds is agony, a minute is an
+aeon, and anything longer is effectively an eternity.  When
+the tiger mauls the antelope, the antelope does not question
+whether eight claws were used, or a million."
+
+<div style="width:100%;text-align:center"><img src="/cases/9/Lotus-050.jpg" title="You think YOU were poor because you had to share your CLOTHES?  We had to share our LEGS." style="margin:0 auto"/></div>
+
+
+

@@ -1,0 +1,42 @@
+Date: 2013-08-03
+Number: 50
+Title: Adapter
+Geekiness: 2
+Names: Qi
+Topics: naming, philosophy
+Skip: 0
+
+<div class="about">This case had been lost for months.  Fortuntately, a copy was recently discovered in the margins of a proof of Fermat's Last Theorem.</div>
+
+A novice from the Far West had recently come to the Temple.
+After being assessed by the abbot he was given a new name
+and sent to the scribe [[Qi]] to have it entered into the
+record.
+
+The novice asked the scribe, "Why is every monk and nun given
+a new name after they arrive at the Temple?"
+
+The scribe replied, "How could we name you /before/ you arrived?"
+
+The novice bowed and smiled, but made no motion to leave the
+scribe's company.  Seeing that an explanation was required
+if he wished a return to solitude, the scribe continued:
+
+"Before you came to us, you were as formless in our minds as
+bytes upon the heap.  Now you have been allocated in living
+memory, assigned a shape and a purpose.  We name you
+according to this purpose, as one names a variable or a
+method or an interface.  Such things do not exist until they
+are named."
+
+The novice thought for a moment, then pointed to himself
+with a satisfied smirk:
+
+"Third party code!" declared the novice.
+
+Qi grabbed the novice's wrist and quickly inked the Temple's
+new name for him on the back of the young man's hand.
+
+"Wrapper class," said the scribe.
+
+

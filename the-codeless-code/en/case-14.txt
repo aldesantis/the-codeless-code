@@ -1,0 +1,34 @@
+Date: 2010-11-13
+Title: Hello, World
+Number: 14
+Geekiness: 1
+Topics: philosophy
+
+On their first day in the temple, the Java master posed the
+following three questions to the novices:
+
+"Oftimes, when we acquire a new language or library, the
+first program we write is /Hello, World/.  Its
+purpose is to inscribe these words in some fashion that will
+demonstrate the expected behavior of the technology.  After
+this is done, the program is never run again.
+
+"Now: why does it say /hello/, and not also /goodbye/?
+
+"And: why say hello to the /world/, when the audience is but
+a single soul who will discard it after its first cry
+is uttered?
+
+"And: why should it utter a greeting, which will
+never be answered in kind?"
+
+- - -
+
+//
+Speak me a word which means /hello/ and /goodbye/ -- //
+is it not the first cry of an infant? //
+//
+Find me a pinnacle from which the world may be seen -- //
+in whose eye, then, is reflected every tiger, //
+and the desert of endless sand?
+

@@ -1,0 +1,101 @@
+Date: 2012-08-17
+Number: 52
+Title: Buckets
+Geekiness: 0
+Names: Banzen, Laughing Monkey Clan, Spider Clan
+Topics: code rot
+Illus.0.par:   2
+Illus.0.src:   bucket.jpg
+Illus.0.align: right
+
+After breakfast, a novice of the Spider Clan noticed a line
+of six monks leaving the temple with bucket-yokes on their
+shoulders and grim expressions on their faces.  A junior
+abbot followed close behind.  The monks trudged down an
+overgrown stony path that wound down the hillside,
+disappearing into a thicket of pines.
+
+This same novice observed the monks clambering back up to
+the temple after lunch.  Their buckets were now packed full
+of moist earth and stones, yet despite the heavy load every
+brother was laughing and had a spring in his step.
+
+So it went the following day, and the day after, and the day
+after that, piquing the curiosity of the novice.  All six
+monks bore the red waist-cloths of the [[Laughing Monkey Clan]],
+so the novice went to that clan's hall.  The abbot
+was seated on the floor of the common room, preoccupied with
+balancing an egg on its point.
+
+"What of the six monks, and the buckets of earth?" asked the novice.
+
+"They are being corrected," said the abbot, "for their
+perilous mismanagement of a critical software module."  He
+reached into a small bag of salt, put a pinch on the floor,
+set the egg on top, and gently blew the salt away from the
+egg.  The egg toppled.  The abbot sighed, took another
+pinch of salt and began again.
+
+"What flaw did they introduce?" asked the novice.
+
+<i>"Mu,"</i> said the abbot.  "They introduced no flaw.  Not
+a line of code has been touched in many months."
+
+"Then what flaw did they fail to correct?"
+
+<i>"Mu,"</i> repeated the abbot as the egg toppled again.
+"The module functions perfectly, and doubtless will continue
+to do so for many months more."
+
+The novice frowned.  "I do not see how something which is
+flawless and unchanging can be objectionable, or its
+management called perilous."
+
+"You, monk!" shouted a voice behind him.  The novice turned to
+find Java master [[Banzen]] glaring at him.
+
+"Tomorrow, you join the line," said Banzen.
+
+- - -
+
+"The punishment is simple," said the junior abbot as the
+novice took up the yoke. "I'll explain when we get to the
+hollow."
+
+The novice followed the six brothers down the stony
+path, with the junior abbot bringing up the rear behind him.
+They proceeded through the deep forest in silence.
+
+Eventually they came to a broad bright sunlit clearing.  In
+the center a giant spire of rock thrust upward toward the
+heavens: it rose a full four storeys high, and was so wide
+that if twenty men stood fingertip to fingertip they could
+barely encircle it.
+
+"Is it not grand?" said the abbot.  "It has stood since
+the beginning of time."
+
+Approaching, the novice could see that the clearing had been
+dug away all around the spire, so that it was surrounded on
+all sides by a great empty moat.  Peeking above the moat's
+edge was the top rung of a bamboo ladder.  Each monk
+disappeared down the ladder in turn, re-emerging a long
+time later drenched in sweat, with a full yoke and a broad
+smile.
+
+Finally it was the novice's turn.
+
+The moat was several storeys deep.  As the novice climbed
+rung by rung down into the shadows he could see that the
+earth had been removed not just from around the spire, but
+from under its base as well.  The entire massive boulder was
+now balanced precariously on a few yards of packed
+earth.
+
+"Crawl under the spire," the abbot shouted down, "until you
+reach the mound of dirt below the center.  Fill your buckets
+from there.  And if I were you, I'd work slowly and try not
+to sneeze."
+
+
+

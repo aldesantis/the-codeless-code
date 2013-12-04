@@ -1,0 +1,58 @@
+Number: 113
+Date: 2013-10-07
+Title: Black Sheep
+Geekiness: 2
+Names: Zjing, Laughing Monkey Clan
+Topics: mentoring, improvement, IDEs, copy-paste, code reviews, standards, sample code
+Illus.0.src: sheep.jpg
+Illus.0.par: 1
+Illus.0.title: ewe: Can't spawn child: insufficient RAM.
+
+
+A senior monk of the [[Laughing Monkey Clan]],
+exasperated by the poor quality of his team's code, was
+advised to seek the counsel of the nun [[Zjing]] who lived
+in the valley below.  He found her tending the Temple's
+sheep in the high pasture.
+
+"What have you tried?" asked the nun.
+
+"I have left copies of our Standards and Practices in
+every cubicle," said the monk.  "Each morning I send out
+links to pertinent software engineering articles, and each
+evening I review the day's code.  Still nothing changes.
+Each monk commits the same errors as he did the day before,
+and the codebase grows ever uglier."
+
+Zjing leaned on her staff and gazed absently into the
+distance.
+
+Finally she said: "The shepherd cannot move the flock; only
+the sheep can do that."
+
+The senior monk frowned.  "I do not see."
+
+Zjing picked up a small stone and hurled it at a black-faced
+ram which stood at the edge of the flock.  The stone struck
+the ram's ear, whereupon the animal bleated and trotted
+away.  Its neighbors promptly followed, then their
+neighbors, and so on, until the entire wooly herd flowed
+like sea-foam down the hillside.  Zjing walked with
+them.
+
+The senior monk folded his arms and remained on the hilltop,
+unconvinced.  "Even if I can correct one monk,
+why should the clan follow him if they do not follow me?"
+
+/"Wú,"/ said Zjing, throwing a stone at the fellow.  "It is
+not the monks you should be herding, but the code.  Some of
+it strides forward with purpose, but most simply follows
+what came before.  One monk's IDE generates a poor method
+skeleton, a second monk copies the finished method
+throughout the class, a third saves the class under a
+different name for his own purposes..."
+
+The nun found her way to the black-faced ram and stroked its
+bloodied ear.  "Your codebase is the errant sheep," she
+called back to the senior monk.  "Correct it, and the
+laziness of your monks will prove a great virtue."

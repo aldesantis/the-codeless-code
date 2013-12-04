@@ -1,0 +1,56 @@
+Date: 2010-11-09
+Title: Empty
+Alt-Title: Empty-Handed
+Number: 6
+Geekiness: 3
+Names: Laughing Monkey Clan
+Topics: error handling, null, exceptions
+
+<img src="/cases/6/Urn.jpg"
+     class="illus-right" />
+
+Upon returning from vacation, the chief abbot of the
+[[Laughing Monkey Clan]] found his temple in a state of panic
+and disarray.  The financial system they had just modified
+was throwing NullPointerExceptions for all new customers.
+These users, disquieted in the extreme, were terminating
+their accounts after barely a day.
+
+With some difficulty the abbot traced the problem to a
+method whose stated purpose was to return a List of the
+user's transactions.  If there were no transactions it
+returned null, rather than the empty list.
+
+"Bring me the monk who wrote this method," he told the
+temple guards.  "And also the monk whose code invokes it."
+
+The first monk, who was the elder of the two, declared that
+the blame should be placed squarely at the feet of the
+second.  "My Javadoc was clear in the extreme.  It is not my
+fault that he did not check for nulls."  The second monk
+hung his head in shame and said nothing.
+
+The abbot clapped his hands and two tall jade urns were set
+upon the floor, one before each monk.  "Your punishments
+have been written on slips of paper within.  Each day you
+are to remove the first slip your hand touches and obey its
+decree to the letter, until your urn is empty."
+
+The younger monk was bade go first.  His hand had not gone
+halfway into the urn when the rustling of paper was heard.
+Reading the slip, he bowed and left the room.
+
+The elder monk reached deep into his own urn until his
+fingers brushed the cold bottom.  "There are no slips of 
+paper in this urn," said the monk, the slightest smile
+playing at the corner of his mouth.
+
+"Neither are there fish, nor ten mountains," said the abbot.
+
+The elder monk then cried out in pain.  The urn fell over
+and shattered.  A scorpion scuttled away across the tiles.
+
+The abbot regarded the dying monk.  "All nothings are not
+equal."
+
+

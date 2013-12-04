@@ -1,0 +1,36 @@
+Number: 66
+Date: 2012-11-04
+Title: Porpoise
+Geekiness: 0
+Names: Qi, Banzen
+Topics: documentation
+
+The scribe [[Qi]] was asked to provide the diagrams for a large
+system design document, for the purpose of increasing its
+readability.  The finished work was delivered to Java master
+[[Banzen]] for review.
+
+Banzen found some of the diagrams straightforward, but many
+were extremely puzzling.  The /Dataflow/ section was
+illustrated with the digestive tract of a fish, rendered in
+intricate detail with all the major organs labeled.
+/Scheduled Jobs/ showed the phases of the moon juxtaposed
+with various herbs.  The /Functional Overview/ concluded
+with a glorious depiction of the reproductive cycle of the
+white dolphin.
+
+At first Banzen assumed an error, yet closer inspection
+revealed footnotes in the figures which referred back to
+particular sections of the design document.  In all cases
+the connection between figure and text was utterly
+mystifying.
+
+"I read the document through twice, very carefully," said
+the master to the scribe.  "And nowhere in it could I find
+the significance of the bisected fish, the lunar harvest
+calendar, or most of your other contributions."
+
+"Twice," repeated Qi with satisfaction, and left the room.
+
+The master was enlightened.
+

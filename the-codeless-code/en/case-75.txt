@@ -1,0 +1,35 @@
+Date: 2013-01-05
+Number: 75
+Title: Fear of Commitment
+Geekiness: 2
+Names: Djishin, Elephant's Footprint Clan
+Topics: commits, rollbacks, databases, transactions
+Credits: Some textures in illustrations courtesy of <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.src: rollback.jpg
+Illus.0.par: last
+Illus.0.align: center
+Illus.0.title: Another monk asked the master about 'drop table' and was squashed flat under a set of dining-room furniture that had been suspended from the rafters.
+
+
+The monk [[Djishin]] approached the master of the [[Elephant's Footprint Clan]]
+and said: "Teach me something of commits and rollbacks."
+
+The master replied: "I can only teach you of commits."
+
+Djishin said: "Then say something of commits."
+
+The master replied: "I already have."
+
+Djishin said: "I came begging for an orange.  You have given me only the rind."
+
+The master's hand shot out from his robe; his open palm
+landed square on the monk's forehead.  The blow sent
+Djishin reeling backwards into a pillar, skull first.
+The monk collapsed to the floor unconscious.
+
+When the monk came to, the master asked: "What did I say of commits?"
+
+Djishin held his throbbing head and replied: "I cannot remember".
+
+The master declared: "Rollback!"
+

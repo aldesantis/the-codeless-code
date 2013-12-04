@@ -1,0 +1,46 @@
+Number: 44
+Date: 2012-07-04
+Title: The Backwards Monk
+Geekiness: 1
+Topics: testing, automated testing
+Names: Banzen, Luohou, The Backwards Monk
+Illus.0.par: last
+Illus.0.src: backward.jpg
+Illus.0.title: The inner tube's warranty doesn't cover punctures from sharp rocks.  Neither does the temple's health plan.
+
+
+A certain monk had an odd method of writing code.  When
+presented with a problem, he would first write many
+automated tests to verify that the yet-unwritten code was
+correct.  These would of course fail, as there was nothing
+yet to test.  Only when the tests were done would the monk
+work on the desired code itself, proceeding diligently until
+all tests passed.
+
+His brothers ridiculed this process, which caused the monk
+to produce only half as much application code as his peers
+-- and even then only after a long delay.
+They called him /Luohou/, the Backwards Monk.
+
+Java master [[Banzen]] heard of this.
+"I will investigate," he declared.
+
+Upon his return, the master decreed that all members of the
+clan who were done with the week's assignments could
+accompany him to the swimming hole as reward for their
+efficiency.  The Backwards Monk stayed behind, alone.
+
+At the top of the diving cliff, the eldest of the monks
+peered over the edge and shrank back.
+
+"Master!" he cried.  "Someone has scattered the stones
+of the dam!  The swimming hole is empty of water.
+Only weeds and sharp rocks await us below!"
+
+With his staff Banzen prodded the youth forward towards the
+precipice.
+
+"Surely," said the master, "you can solve that problem when
+you reach the bottom."
+
+

@@ -1,0 +1,23 @@
+Date: 2013-06-01
+Title: Stateless
+Number: 96
+Names: Kaimu
+Topics: immutability, thread safety, multithreading, state
+Geekiness: 2
+Illus.0.src: Sleepy.jpg
+Illus.0.title: Try not to call on him before 6am.
+
+It is the duty of every monk to call upon master [[Kaimu]]
+at least once during their time at the temple.  When the
+master opens his door the monk must bow and ask: "What is
+the great joy of stateless services?"
+
+Without fail master Kaimu will reply: "Ten thousand guests
+fed by a single grain of rice."
+
+The monk must then ask: "And what is the great sorrow?"
+
+Kaimu will reply: "The great sorrow of what?"
+
+
+

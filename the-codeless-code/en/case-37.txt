@@ -1,0 +1,52 @@
+Number: 37
+Title: Simulation
+Date: 2011-06-07
+Geekiness: 2
+Topics: testing, dependencies, simulation
+Names: Spider Clan, Laughing Monkey Clan
+Illus.0.par: last
+Illus.0.src: candle.png
+Illus.0.title: Actually, when there are blackouts, the scribe uses a hand-cranked LED camping lantern and does his writing on an Asus netbook with 12-hour batteries.  But you get the idea.
+
+
+
+The [[Spider Clan]]'s new order-processing site behaved well in
+the field, but the development environment was so unstable
+that the clan was unable to test its changes for more than a
+couple of hours each day.  Now a deadline was fast approaching.
+The monks would have torn their hair out had they not
+already been shorn to prevent such an unseemly display.
+
+"It is because the [[Laughing Monkey Clan]] keeps bringing
+/their/ development servers down!" complained the head monk
+of the Spider Clan to one of the priests.  "Without those
+services our code cannot query for user preferences or for the
+contents of shopping carts!"
+
+"Our restarts are necessary," said the head of Laughing
+Monkey.  "We must deploy code throughout the day as well.
+Perhaps the Spider Clan could simulate the services they
+need.  The data would be false, but the outages would not
+trouble them so much."
+
+"Unacceptable!" said the head of Spider Clan.  "You would
+have us expend effort producing a poor substitute, merely to
+circumvent your failings!"  He turned to the priest.  "When
+the sun sets or hides behind a cloud, our scribe does not
+sit idle like his ancient predecessors, for his halogen lamp
+burns both day and night.  The services of Laughing Monkey
+should follow this example, and be as dependable as the
+electricity which powers that steady glow!"
+
+The head of Laughing Monkey considered this.
+
+Late that night the head of Spider Clan was awoken by a
+tapping on his door.  He gathered his robes about
+his person and called for the visitor to enter.
+
+"At the request of Laughing Monkey I bring a small gift from
+my chambers," whispered an old man's voice.  In came none
+other than the temple's own scribe, who set a burning candle
+upon the table.  "I sometimes find it necessary when there
+are storms."
+

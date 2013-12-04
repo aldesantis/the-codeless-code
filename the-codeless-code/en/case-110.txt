@@ -1,0 +1,96 @@
+Date: 2013-09-15
+Number: 110
+Title: The Trunk
+Geekiness: 2
+Names: Bawan, Spider Clan, Laughing Monkey Clan, Elephant's Footprint Clan
+Topics: complexity, efficiency, value objects, YAGNI
+Illus.0.par: 3
+Illus.0.src: Trunk.jpg
+
+A certain monk was summoned to the presence of master [[Bawan]]:
+
+"This trunk holds something which must be brought to the
+[[Spider Clan]]," said Bawan, pointing to a great wooden box
+bound with iron straps.  "Carry it to the abbot unaided and
+he will reward you for your pains.  A letter of explanation is
+tucked under the latch."
+
+With great difficulty the monk hoisted the trunk upon
+his back and set out across the temple grounds to the
+domicile of the temple's web developers.  There he
+was received by the abbot, who perused the letter
+while the exhausted monk waited for his reward.
+
+"This trunk is none of my concern," said the abbot, stuffing
+the letter back in place.  "It must be brought to the abbess
+of [[Laughing Monkey Clan]].  Carry it there unaided and
+your compensation will be most enviable."
+
+The monk did as he was asked, panting with every step as
+he crossed the temple grounds to the domicile of the
+business logicians.  The abbess resided on the topmost floor.
+
+"This trunk is nothing to do with me," said the abbess, who
+refused to let the monk set his burden down.  "It must be
+brought to [[Elephant's Footprint Clan]] at once."
+
+"I think I see where this is going," grimaced the monk.  "Perhaps
+one of your own monks can carry it?"
+
+"No time, no time!" said the abbess, tucking the letter back
+under the latch as she shooed the monk out the door.  "Carry it
+there unaided and great riches will await you!"
+
+An hour later the monk staggered into the domicile of the temple's
+persistence-tier coders, collapsing in the main hallway with the
+trunk still on his back.  The white-haired abbot was summoned.
+
+"Wonderful!" said the old abbot after reading the letter.
+The semi-conscious monk heard him open the lid and close it
+again.  "Monk, wake up!  As reward for your service you may
+keep everything else in the trunk.  Now be off!"
+
+The monk crawled slowly out the door, like a turtle laboring
+under a great wooden shell.  It was nighttime when he
+reached his own quarters and tipped the trunk off his back.
+The top fell open and a hundred iron boxes spilled out.
+
+He opened them one by one. All were empty.
+
+Nothing else remained in the trunk but Bawan's
+letter, which the old abbot had tossed back inside.  The
+monk unfolded it and read:
+
+       To the abbots of the Three Clans --
+
+       In examining the performance problems of our shopping
+       cart system, I discovered that hundreds of actions
+       in the webtier are loading the very large and
+       complex CatalogInfo object tree from the database.
+
+       In examining the webtier, I discovered that these
+       actions are simply passing the unexamined CatalogInfo
+       into the sixteen service-tier methods which
+       happen to demand it.
+
+       In examining the service tier, I discovered that
+       these methods are simply passing the unexamined
+       CatalogInfo into four persistence-tier methods
+       which happen to demand it.
+
+       In examining the persistence tier, I discovered that
+       these methods are simply passing the unexamined
+       CatalogInfo into the one utility-tier method
+       which happens to demand it.
+
+       In examining that single method, I discovered that
+       it does nothing but check the CatalogInfo's
+       integer-valued Type property to ensure that it is
+       not negative.   I also discovered that this method
+       was authored by the young man bearing my trunk.
+
+       Please ensure that he receives my explanation
+       in a suitable manner.
+
+
+

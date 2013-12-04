@@ -1,0 +1,33 @@
+Date: 2010-11-21
+Title: Interrupt
+Number: 21
+Geekiness: 2
+Topics: loops, infinity
+
+A certain monk was reported to be unwilling to leave his
+terminal.  For two days he had gone without food or sleep.
+
+When the Java master investigated, he found the monk visibly
+shaken.  On screen was the following code, which at that
+moment was running under the debugger:
+
+<pre>
+    while (true) {
+       &#x2F;* do nothing *&#x2F;
+    }
+</pre>
+
+"I have asserted that the loop must execute while truth
+itself is true," said the monk.  "Yet if I hit the Interrupt
+key, the loop will terminate.  The implication is that, in
+that precise moment, /truth will no longer be true./ How can
+any of us dare to disturb the program?  We might bring chaos
+upon the world!"
+
+The Java master reached down and pulled the plug out
+of the wall.  The screen went black.
+
+"Now the loop can never be interrupted," said the master.
+
+The monk's mind was eased.
+

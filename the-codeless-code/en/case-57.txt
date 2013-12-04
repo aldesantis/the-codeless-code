@@ -1,0 +1,56 @@
+Date: 2012-09-16
+Number: 57
+Title: Precision
+Geekiness: 2
+Names: Bawan
+Topics: memory, infinity
+Illus.0.src: brain.jpg
+Illus.0.par: 3
+Illus.0.title: The brain was in a jar marked 'Abby'-someone.
+
+A certain monk approached Java master [[Bawan]] at the
+end of the evening meal and demanded:
+
+"Is it not so that a computer's memory is, essentially,
+a finite sequence of bits?"
+
+"It is certain," said the master.
+
+"And if all computers in the world were brought together to
+labor on a task, then still the number of bits would be
+finite?"
+
+"Even so," said the master.
+
+"Then we can never hope to calculate perfectly with common
+irrational numbers such as pi or the square root of two, for
+they possess an /infinite/ number of digits!  Our
+approximations yield error upon error with each mathematical
+operation.  The exquisite profession of floating-point
+computation is but a fortress built upon quicksand!"
+
+Master Bawan rose to his feet, stared thoughtfully at the
+monk's waist for a moment{{*}}, then hurled his wooden rice
+bowl hard at the monk's stomach.  The monk doubled up.
+
+"Radius, five centimeters," said Bawan, indicating the bowl.
+"What is the circumference?"
+
+"10&pi;," gasped the monk.
+
+"Astonishing," said Bawan.  "How unthinkably vast your brain
+must be, to juggle an infinite number of digits and
+arrive at an exact answer."
+
+
+
+
+{{*}} Bawan was notoriously short, which may explain his fondness for low-level details.
+
+
+
+
+
+
+
+

@@ -1,0 +1,50 @@
+Number: 61
+Date: 2012-10-02
+Title: Weight
+Geekiness: 1
+Names: Suku, Spider Clan
+Topics: planning, management
+Illus.0.par: 2
+Illus.0.src: weight.jpg
+Illus.0.title: It's a nice spot to sit and relax, if you don't mind the muffled screaming.
+
+Java master [[Suku]] entered the chambers of the [[Spider Clan]]'s
+head abbot; a monk in her charge entered also.  They bowed.
+
+Suku said to the abbot: "Last week I was ordered to
+completely re-implement the data visualization module, whose
+long tentacles have wormed their way into every crevice of
+our system.  I requested seven developers with various
+specialities so that the overhaul could be accomplished in
+one iteration.  Yet you have assigned me only this solitary
+monk."
+
+The abbot replied: "We cannot spare seven developers all at
+once.  Instead, this monk will be allowed to perform the
+work in seven iterations.  In exchange for this leniency he
+must keep the system stable, since there are many new features
+we wish to roll out to our users during that time."
+
+Suku nodded to the monk, who opened his hand and blew a
+gust of red powder straight into the abbot's face.  The
+abbot gasped in surprise, inhaling a lungful as he did so.
+He promptly collapsed on his desk.
+
+The abbot awoke in a dark stone pit with a single candle
+burning by his side.  As his eyes adjusted to the gloom he
+beheld a note affixed to the trap door above him:
+
+    A boulder seven times your weight //
+    rests upon the door, and holds it closed. //
+    Yet take comfort -- //
+    you may lift it as slowly as you desire.
+
+
+
+
+
+
+
+
+
+

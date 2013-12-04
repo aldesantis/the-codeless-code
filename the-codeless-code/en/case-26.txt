@@ -1,0 +1,27 @@
+Date: 2010-11-26
+Title: The Uncorrected Monk
+Number: 26
+Geekiness: 0
+Names: Banzen, Seven-Clawed Blind Eagle Clan
+Topics: perfection, mentoring, improvement, code reviews
+
+Two priests of the [[Seven-Clawed Blind Eagle Clan]] found Java
+master [[Banzen]] sobbing at his keyboard.  They asked what
+ailed him so.
+
+"The code of this monk is abysmal," said the master.  "The
+package structure is unintuitive, the class names
+undescriptive, the methods overly complex, and the comments
+entirely useless.  For the last ten years he has attended
+every lecture I have given, and in truth he has followed my
+instructions to the letter.  Yet the fruits of his
+labors are unpalatable in the extreme."
+
+The first priest looked over the code.  "Certainly,
+correction is in order.  I suggest that you begin with a
+simple whipping."
+
+The master sighed and nodded, lowering the drape of his robe
+to bare his shoulders.
+
+

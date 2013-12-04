@@ -1,0 +1,58 @@
+Date: 2010-11-25
+Title: Shape
+Number: 23
+Geekiness: 0
+Names: Zjing, One Shoe Clan
+Topics: elegance, code reviews
+
+<img src="/cases/23/shape.png" style="float:right;margin-right:-100px" />
+
+One morning a nun named [[Zjing]] was passing by a
+terminal, around which were clustered several learned
+brothers of the [[One Shoe Clan]].
+On the screen a program
+listing was glowing softly amid the golden shafts of dawn.
+Zjing paused to glance at it.
+
+"That is not right," said the nun, and continued walking.
+
+This was reported to the abbess of One Shoe, who later that
+day found the nun working in the pottery shed.  The nun's
+hands were red and wet with clay: she was turning a new
+water jug on the potter's wheel, for that was her assigned duty.
+
+"A learned brother says that you showed him grave disrespect
+this morning," said the abbess.  "Do you deny this?"
+
+/"Wú,"/ said the nun.  "A hornet may sting a bear, when the
+nest is underfoot."
+
+"The brother maintains that he did not require correction,"
+said the abbess.  "I watched him execute this selfsame code,
+and found its performance to be quite satisfactory.  He says
+that you tarried for no longer than it takes a branch to
+fall, and thus could not have judged his labors fairly."
+
+/"Wú,"/ said the nun.
+
+"Explain," said the abbess.
+
+Zjing placed the newly-made jug on a shelf, next to a
+dozen others.  All were perfectly symmetrical, and identical
+in every proportion.
+
+The nun hesitated for a moment, then with a snarl
+squeezed the pliable throat of the new jug in both hands.
+She then punched its bowl repeatedly, and mangled its
+elegant handle.
+
+Drawing a breath, Zjing filled a pitcher of water and
+emptied it into the lopsided jug.  She stepped slowly
+backward to stand beside the abbess.
+
+Every last drop of water was contained.
+
+"Satisfactory," said the nun.
+
+
+

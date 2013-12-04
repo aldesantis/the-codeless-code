@@ -1,0 +1,28 @@
+Date: 2013-02-15
+Number: 81
+Title: Bubble Sort
+Names: Bawan
+Topics: sorting, requirements
+Geekiness: 1
+Illus.0.src: can.jpg
+Illus.0.title: AutoIncrement's primary ingredients are caffeine and electricity.  When you need to come down, try AutoDecrement: it's basically just chamomile and quaaludes.
+
+Walking the halls of his abbey late at night, master
+[[Bawan]] came upon a monk in distress.  A morning deadline
+was fast approaching, and after three all-nighters the exhausted
+monk had dropped his only remaining coins into the soda machine without
+first noticing the paper sign taped to it.  The sign read
+<span style="white-space:nowrap"><tt>OUT</tt> <tt>OF</tt> <tt>ORDER</tt></span>
+in large red
+capitals.
+
+"Can you fix it?" asked the monk, who knew of Bawan's skill
+with primitive machines.
+
+Bawan studied the machine for a moment, then crossed out the letters
+of the sign and under them wrote <tt>DEFOOORRTU</tt>.
+Immediately a soda can dropped into the chute.
+
+Satisfied, Bawan continued on his way.
+
+

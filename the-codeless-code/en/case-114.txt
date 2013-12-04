@@ -1,0 +1,56 @@
+Number: 114
+Date: 2013-10-11
+Title: Character Assassination
+Geekiness: 1
+Names: Bawan, Zjing's Bridge
+Topics: Unicode, ASCII, internationalization
+Illus.0.par: 1
+Illus.0.src: Moped.jpg
+Illus.0.title: And those rocks down there don't look soft AT ALL.
+
+The Temple's systems were experiencing sporadic failures
+when interacting with a document-registration service in the
+Far West.  Java master [[Bawan]] chose to investigate.
+
+To assist him, a liaison for the Western temple was
+dispatched from the next province.  The liaison was an
+unkempt man with a noisy moped; his ability to
+translate technical language was his only redeeming quality.
+
+"I have found the problem," said Bawan to the liaison.  "If
+the document title contains a right-apostrophe, that
+character does not appear when we retrieve the record.
+Please tell the Western Monks of this defect."
+
+The liaison returned to his province and phoned Bawan the
+following day.
+
+"The monks assert that it is not a defect," said the liaison.
+"They say: we do not support special characters."
+
+Bawan nodded.  "Return to my temple tomorrow.  Together we
+can make them understand."
+
+The following day the liaison rode his rattling moped up the
+Dying Moon Road.  After passing a sign declaring /ZJING'S
+BRIDGE/ in large red letters, he found himself crossing a
+vast gorge on a span of rope and plank.  Directly ahead rose
+a magnificent stand of oaks and, beyond them, the towers of
+the temple.  He was so entranced by the sight that he failed
+to notice that the planks were missing in the middle ten
+yards of the bridge.  Thus the liaison found himself
+unexpectedly plummeting to the gorge below, moped and all.
+
+Watching from the upper balcony in the East Tower, master
+Bawan nodded and went inside.  He then summoned a junior
+monk from the cubicles downstairs.
+
+"Take these to the far side of [[Zjing's Bridge]]," he said,
+handing three pieces of wood to the monk.  They were painted
+red and carved in the shapes of large letters: an /O,/ a
+/U,/ and a /T./
+
+"What are these?" asked the monk.
+
+"Special characters," replied the master.
+

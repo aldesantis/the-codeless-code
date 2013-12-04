@@ -1,0 +1,96 @@
+Date: 2010-11-20
+Title: Neither Yes Nor No
+Number: 20
+Geekiness: 2
+Names: Elephant's Footprint Clan, Kaimu
+Topics: null, philosophy, booleans, databases, zero, one
+
+A nun of the [[Elephant's Footprint Clan]] sat cross-legged upon
+her desk, quietly contemplating an Entity-Relationship
+diagram on her whiteboard.
+
+The Java master{{*}} observed this and approached.
+
+The God of the Silence Between Words was already in the room.
+
+- - -
+
+The nun pointed to the diagram.  "This column named
+/complete/ is declared to hold an integer.  An examination
+of the data shows that it contains two unique values: zero
+and one.  I presume that the zero indicates falsehood, and
+the one, truth."
+
+Said the master: "Only an initiate can say what is counted
+by these numbers."
+
+Said the God of the Silence Between Words: "The presence of
+a single zero implies the existence of a one to count it,
+and then a two to count both, and likewise to infinity.  Did
+the universe spring thusly from the shell of a serpent's egg?"
+
+- - -
+
+The nun raised the first two fingers on her right hand.  "I
+have considered storing a two in some random row, merely to
+observe the effect on the application."
+
+Said the master: "You seek to determine whether truth is
+regarded as the presence of a one, or the absence of a zero."
+
+Said the God of the Silence Between Words: "The absence of a
+zero implies a presence.  The presence of a zero
+implies an absence.  When the serpent devours its tail
+up to the tip of its tongue, then what remains?"
+
+- - -
+
+The nun pressed her index finger to her chin.  "The column
+also allows nulls.  If the column asks a question,
+convention dictates that a null represents an unknown
+answer."
+
+Said the master: "This null is either the shrewd pause that
+precedes a lie, or the gentle hush before the revelation of
+truth.  Its quality rests entirely in what it will become.
+Only when it ceases to exist may we understand what it was."
+
+Said the God of the Silence Between Words: "The ghost
+borrows the form of the departed.  Yet what shape may we
+assign the spirit of the yet-unborn?"
+
+- - -
+
+The nun steepled her fingers.  "Before the application
+queries the database, the value of this column is unknown.
+Afterwards, any null in this column will be represented
+intentionally as a null Boolean.  The value is then
+simultaneously known and unknown."
+
+Said the master: "We have learned only that we have learned
+nothing, yet this is the root of wisdom."
+
+Said the God of the Silence Between Words: "The sage and the
+fool go to their graves alike in this respect: both believe the
+sage to be a fool.  Where, then, may wisdom be found?"
+
+- - -
+
+The nun folded her hands in her lap.  "The null SQL integer,
+persisted, becomes the null Boolean in fleeting memory.  Two
+nothings, of wholly different natures.  How can absences be
+inequal?"
+
+The master nodded.
+
+The God of the Silence Between Words raised an eyebrow.
+
+
+
+{{*}} Probably [[Kaimu]].
+
+
+
+
+
+

@@ -1,0 +1,123 @@
+Title: Fear
+Number: 33
+Date: 2011-04-20
+Geekiness: 1
+Topics: complexity, elegance, refactoring
+
+A senior monk, recently inducted into the temple, approached
+the Java master in frustration:
+
+"I am tasked to add several features to the Imperial Shoemaker's
+order-processing system, yet I cannot begin to comprehend
+how it works.  The logic is distributed among multiple
+applications, each implemented with wildly different
+technologies.  Instead of creating common utilities the
+authors have merely copied swaths of code from place to
+place, often introducing subtle differences afterward.
+Background jobs seek and modify database records for no
+documented reason, and the database itself conspires against
+me: a simple update of one table can trigger a cascade of
+inserts and deletes in others."
+
+<img src="/cases/33/balloon-1.png" style="float:right;margin-right:0px" />
+
+"I see two paths before you," said the Java master.  "In the
+first, you make only the necessary additions and quickly
+proclaim victory.  In the second, you begin the arduous task
+of refactoring the code base.  How will you proceed?"
+
+The monk bowed in shame.  "I cannot say.  At present I am
+afraid to touch anything, lest my ignorance prove my
+undoing."
+
+"Fear makes good armor but a poor blade," nodded the Java
+master.  "To defeat your fear, we must dispel your
+ignorance."  With his staff he slid the window-screen open
+and gestured to the forest beyond.
+
+"Follow the Road of White Nettles for three days into the
+mountains, and you will come to a hermitage perched on a
+cliff.  A learned brother dwells there who keeps copies of
+our client's documentation.  He will advise you on the
+design of the system."
+
+<img src="/cases/33/balloon-2.png" style="float:right;margin-right:-50px" />
+
+The monk did as he was told, and at sunset came to the
+hermitage, which was a building unlike any he had ever seen.
+
+It had clearly begun life as a sturdy stone house at the
+very edge of the cliff, but three new wings of rough-hewn
+pine with bark shingles now thrust well beyond the cliff and
+into space.  Beyond these were open walkways and stairways,
+ending in dozens of rooms perched on diagonal stilts that
+were (only barely) supported by rocky outcroppings far
+below.
+
+Lashed onto the rooms were other additions stretching still
+further out into the void, made of bamboo and canted crazily
+in all directions.  Ramps and ladders erupted from their
+undersides, leading to isolated rooms suspended by ropes and
+made chiefly of reed and straw.  Everything was bound
+together with lines of hemp, tied off at a windowsill here
+and a weathervane there, as though some great drunken spider
+had caught a hundred huts in its web.  The structure swayed
+sickeningly in the gentle breeze, creaking as it did.
+
+<img src="/cases/33/balloon-3.png" style="float:right;margin-right:-100px" />
+
+The monk stood gaping for a while, then recovered himself
+and struck the gong.
+
+From the furthest room came the hermit, shimmying up ropes
+and down rooftops, disappearing into a trapdoor of bamboo
+and finally reappearing at the door of the hut.
+
+"What news to me from the temple?" asked the hermit.
+"Have I been summoned home at last?"
+
+The monk indicated that he had no such news to relay.
+
+The hermit hung his head.  "Miserable me!  For until such
+word is given, my task is to expand this hermitage ever
+outward beyond the cliff's edge, to house the temple's
+growing collection of temporary files.  This I have done for
+years now, faithfully and unquestioningly, hoping to one day
+earn the master's favor and return from exile.  But I
+confess that my work becomes more difficult with each
+passing season.  Winter snows hang so heavy on the rooftops
+that the bamboo stilts begin to buckle, and in summer I must
+fight the magpies to keep my straw walls from becoming part of
+someone's nest.  By the by... you are not (I hope) possessed
+of any allergies?  Pollen?  Ragweed?  I once watched seven
+rooms collapse and tumble down the cliff in answer to a
+vigorous sneeze..."
+
+<img src="/cases/33/balloon-4.png" style="float:right;margin-right:-150px" />
+
+"But this is madness!" cried the monk.  "Now that you have
+some sense of how many rooms are needed, can you not tear
+down this monstrosity and start anew?"
+
+"What nonsense.  Imagine the time such an endeavor might
+take, and how displeased my master might become in the
+meanwhile!  How could I justify subtracting storerooms
+instead of adding them?  My exile might be extended for
+another decade!  No, it is far safer to do exactly as I have
+been commanded.  Anyway, I understand this hermitage quite
+well, its strong places and weak ones; and so long as I
+tread lightly and avoid pepper, my odds of perishing in a
+long fall are reasonably low.
+
+"But enough of my plight, learned brother.  If you were not
+sent here to summon me home, then you must need my help
+understanding the Imperial Shoemaker's order-processing
+system.  Many like yourself have come for that purpose, for
+it was I who was its author."
+
+The monk only bowed and departed back down the road, having
+already obtained the promised enlightenment from the
+hermitage.
+
+<img src="/cases/33/hermitage.jpg" title="Yes, but he doesn't get much mail anyway." />
+

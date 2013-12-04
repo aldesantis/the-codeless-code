@@ -1,0 +1,55 @@
+Date: 2010-11-09
+Title: The Enemy of the Good
+Number: 7
+Geekiness: 1
+Topics: testing, automated testing, perfection
+Names: Laughing Monkey Clan
+Credits: Some textures in illustrations courtesy of <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+
+<img src="/cases/7/waiting-teaser.jpg"
+     style="float:right;margin-right:-260px"
+     />
+
+The monks of the [[Laughing Monkey Clan]] approached the Java
+master with a list of grievances.
+
+"Our greatest frustration is the testing process," insisted
+the youngest monk. "Manual testing is tedious, and automated
+tests are troublesome to compose.  Both are distractions
+from the authorship of code."
+
+The master considered this, and said: "It is certain that we
+could forgo testing altogether, if we knew our code to be
+perfect.  How, then, may we achieve perfection?"
+
+"Through practice," said one monk.
+
+"Through diligent study," said another.
+
+"Through the appeasement of the proper gods," said a third.
+
+An old white-bearded monk, who had been sitting quietly in
+the corner, raised his head:
+
+"I know how perfection may be achieved," he said.  "But I
+fear that all who hear my answer will be forever unconvinced
+of its truth unless I speak exactly the right words, with
+the most pleasing of intonations, at the most propitious
+time of day.  I must now consider how this is best done."
+
+The old monk fell silent for a long time.  Eventually the
+dinner-bell sounded.
+
+"How long will this take?" asked one of the novices.
+
+"No more than a hundred years," came the old monk's reply.
+
+<img src="/cases/7/waiting.jpg"
+     title="After the first hundred years, you get much better at waiting patiently."
+     style="margin: 0 auto"
+     />
+
+
+
+
+

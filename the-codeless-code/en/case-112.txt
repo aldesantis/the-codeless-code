@@ -1,0 +1,53 @@
+Date: 2013-09-21
+Number: 112
+Title: Speak to Me
+Geekiness: 2
+Topics: refactoring, complexity, communication, design, elegance, teamwork
+Names: Yíwen, Hwídah, Yishi-Shing
+Illus.0.src: Unicycle.jpg
+Illus.0.par: 1
+Illus.0.title: On the plus side, she gets three skeins to the kilometer and she can always find her way back home.
+
+The timid nun [[Yíwen]] opened several source files she had
+authored barely a year ago, only to find unrecognizable code
+within.  After inspecting their revision history she
+approached the cubicle of her longtime companion.
+
+"A thousand pardons, [[Hwídah]]," she began, "but it appears that
+you have completely rewritten my address-management service.
+Why did you find this necessary?"
+
+"The code was uncharacteristically complex and
+unintuitive," answered Hwídah gently.  "You created many more
+interfaces than necessary, nested value objects inside of
+other value objects, defined abstract classes which have
+only one concrete implementation, and performed database
+updates in two separate transactions where one would have
+sufficed.  I have simplified the structure."
+
+Yíwen bowed humbly, gave her thanks, and walked out.
+
+- - -
+
+The following morning Hwídah approached the cubicle of her
+longtime companion, bearing a beautiful steel
+contraption.  She dropped it noisily onto
+Yíwen's desk.
+
+"I found this waiting for me when I awoke this morning,"
+said Hwídah.  "Explain."
+
+"Your old spinning-wheel was uncharacteristically complex
+and unintuitive -- do you not agree?" asked Yíwen.  "You
+used many more gears than necessary, placed the fiber basket
+in a poor location, padded the stands but not the hand
+cranks, and used two separate flywheels where one would have
+sufficed.  I have simplified the mechanics."
+
+Hwídah bowed humbly, gave her thanks, and walked out.
+
+She then went straight away to master [[Yishi-Shing]], saying,
+"Regrettably, I will not be able to participate in your clan's
+weekly bicycle rides anytime soon."
+
+

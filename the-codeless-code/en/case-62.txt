@@ -1,0 +1,48 @@
+Number: 62
+Date: 2012-10-06
+Title: Confusion
+Geekiness: 1
+Names: Suku, Spider Clan
+Topics: management
+Credits: Some textures in illustrations courtesy of <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.par: 3
+Illus.0.src: confusion.jpg
+Illus.0.title: I have asked them how we might best achieve our deadline, but all they do is advise me to travel a highway paved in bricks of a saffron hue...
+
+Java master [[Suku]] entered the chambers of the [[Spider Clan]]'s
+new head abbot, who had been appointed to the
+position after his predecessor mysteriously
+<a href="/case/61">went missing.</a>
+
+Suku said to the abbot: "Last month I was ordered to
+completely re-implement the data visualization module.  I
+requested seven developers with various specialities so that
+the overhaul could be accomplished in one iteration.  Today
+I emerged from my quarters to find twenty-one strange little
+monks waiting for me in the hall."
+
+With great enthusiasm, the abbot replied: "Are they not
+marvelous?  We found them in a distant province which was
+recently beset by famine or earthquakes or giant red beetles;
+I forget the specifics.  They eat sparingly, sleep
+only two hours a night, and they are willing to forgo
+cubicles and code while dangling from the rafters, so they will
+incur very little overhead.  With such a team you should be
+able to make up the lost time, and complete the seven weeks'
+work in a mere seven days."
+
+Suku sighed, put two fingers to her mouth, and blew a shrill
+whistle.  At the sound a dozen tiny robed figures jumped
+from the rafters onto the stunned abbot, knocking him
+unconscious.
+
+The abbot awoke in a dark stone pit with a single candle
+burning by his side.  As his eyes adjusted to the gloom he
+discovered a rat-scoured skeleton in abbot's robes, on which
+was pinned a note:
+
+    Above you lies a square trap door: //
+    sturdy, yet light and unlocked. //
+    To aid your exit I have attached the best hinges -- //
+    Seven along each edge.
+

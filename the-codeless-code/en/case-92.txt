@@ -1,0 +1,53 @@
+Date: 2013-05-03
+Number: 92
+Title: Still Waters
+Names: Banzen
+Topics: design, rethinking
+Geekiness: 0
+Skip: 0
+Illus.0.par: 1
+Illus.0.src: tofu.jpg
+Illus.0.title: You know, sometimes, there isn't room for Jello.
+Illus.0.class: illus-right illus-50pct
+
+
+Master [[Banzen]] had been wrestling with a design problem
+late into the night.  Upon his whiteboard were three
+possible approaches, each with their own promises and
+pitfalls: Banzen had been trying desperately to decide which
+would be best.  Finally, eyes red and ink-stained hands
+trembling, he left his office and began to pace through
+the Temple hallways to clear his mind.
+
+Eventually he came to the kitchens, which rang with shouting
+and the clanging of pots; for the cooks were awake, having
+risen early to prepare the morning meal as was their
+custom.
+
+Banzen wandered among them, observing the bustle of activity.
+Onions were being peeled, carrots chopped, chickens plucked.
+Rice was steaming, soup was boiling, pork was
+sizzling, eggs were frying.
+
+One cook he noticed had a fairly simple task.  She would mix up
+a pot of thin dark liquid, carry it to a quiet corner,
+and leave it there unattended.  After a while she would return to
+empty out the contents, which had somehow turned solid.
+She did this several times.
+
+"What is that?" Banzen asked her.
+
+"Duck's blood," came the answer.  "I am congealing it for
+the blood tofu."
+
+Banzen bowed and went out.
+
+Later that morning, a novice found Banzen again in his office.
+The master was sitting motionless, gazing at his whiteboard,
+eyes distant, hands empty.
+
+"What are you doing?" asked the novice.
+
+"Congealing," said Banzen.
+
+

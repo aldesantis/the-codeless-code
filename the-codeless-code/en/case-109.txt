@@ -1,0 +1,57 @@
+Date: 2013-09-03
+Number: 109
+Title: The Ties that Bind
+Geekiness: 3
+Names: Djishin, Banzen, Satou
+Topics: design, frameworks, partial solutions, complexity, configuration
+Illus.0.par: 0
+Illus.0.src: Chained.jpg
+Illus.0.title: He really shouldn't have had those three cans of Diet Coke an hour ago.
+
+The monk [[Djishin]] approached master [[Banzen]], troubled.
+
+"[[#108|The search framework I wrote]] is currently
+incapable of handling the tasks assigned to me,"
+said the monk.  "But I still believe it to have great
+virtue.  Will you allow me to develop it further so that
+these obstacles may be overcome?"
+
+"What is the great virtue of your framework?" asked Banzen
+absently as he gazed out the window.
+
+The monk replied, "If a database table's Value Object is
+annotated appropriately, an entire search form for that table
+may be created with little or no code!"
+
+"It is certain that the authorship of code is a burden on
+the Temple," said Banzen, his eyes following a black-headed
+finch as it darted to and fro.  "If we were not so busy
+coding, we would have far more time... for coding."
+
+"The code I would eliminate is only the tedious sort,"
+said Djishin.  "Consider that finch: how high it could
+fly if it did not have to hunt for insects in the mud!"
+
+The master turned to face the monk.
+
+"Your framework is suitable for simple problems only.  It
+fails when presented with the most minor of complexities --
+ones that a traditional implementation would easily overcome.
+How will you remedy this?"
+
+"By giving my framework numerous configuration options and
+customization hooks," said the monk.
+
+"Go then," said Banzen sharply, dismissing the monk with a
+wave of his hand.
+
+After the monk had departed, Banzen summoned the nun [[Satou]].
+She approached the master's desk nervously, keeping well
+away from the [[#108|jar]] upon it.
+
+"When that monk returns to his cubicle," said Banzen,
+"Shackle his feet to his desk and leave him there for a day.
+If tomorrow he complains, free his feet and shackle his
+hands to the desk instead, telling him that he can now run as fast as he
+pleases."
+

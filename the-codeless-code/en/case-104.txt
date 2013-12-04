@@ -1,0 +1,54 @@
+Number: 104
+Title: Guardrails
+Geekiness: 2
+Names: Spider Clan, Laughing Monkey Clan, Suku
+Topics: APIs, type safety, documentation
+Date: 2013-07-28
+Skip: 0
+
+A certain monk of the [[Spider Clan]] was attempting to use
+an email client library written by [[Laughing Monkey Clan|Laughing Monkey]].
+The message he wished to send with it was simple, yet no matter how
+he tweaked his code the library either failed quietly or
+threw puzzling runtime exceptions.
+
+The monk arranged a meeting with the author, wherein he politely
+expressed his frustration.
+
+"Lamentably, the fault is your own," replied the author with
+a bow.  "Had you read the copious documentation I provided,
+you would have known that attachments should only be added
+/after/ setting the message body.  And while the /setMessageText/ method
+does accept an untyped Object,
+the Object you provide must either be an array
+of Strings, a DomNode, or a BufferedInputReader.  Also, you failed
+to note that certain destination addresses are silently ignored..."
+
+The author continued on in this fashion, showing how the monk
+could have avoided each pitfall.  Thus the monk returned to
+the Spider Clan's abbey, suitably chastened.
+
+Master [[Suku]] heard of this and summoned the author.
+
+"I have read your documentation," said Suku.  "It is indeed
+the very model of thoroughness, worthy of emulation.  Please
+take this hardcopy to the abbot, that others may learn from it."
+
+The author followed Suku down to the abbot's chamber and
+pushed against its heavy door with all his might.  When the
+door finally burst open the monk leaped backward in terror,
+for beyond it lay a sheer drop into blackness.  His startled
+cry echoed against stone walls; the sound of water could be
+heard lapping far below.
+
+"There is a ledge to your left, about as wide as your foot,"
+explained Suku.  "Edge carefully around until you come to
+the opposite side of the well.  There you will find
+iron rungs set into the wall, leading down to the waters
+where [[#67|the abbot's bones]] await you.  Take note:
+the ledge is slippery from damp, every third stone is set a
+few inches higher, every fifth is set lower, and every seventh
+is missing entirely.  But if you keep all that in mind,
+the way is quite straightforward."
+
+

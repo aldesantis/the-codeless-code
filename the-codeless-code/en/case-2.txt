@@ -1,0 +1,44 @@
+Date: 2010-11-04
+Title: Unknown Unknowns
+Number: 2
+Geekiness: 0
+Topics: requirements
+
+The Emperor was angered by the defects in the new order
+processing system he had commissioned, and so dispatched a
+messenger to the temple, to investigate the monks there.
+
+"His Excellency sent you his most trusted Business Analysts
+to ensure that all features would work as intended," scowled
+the messenger.  "Did you not comprehend any of their numerous
+PowerPoint presentations?"
+
+<img src="/cases/2/poison.png" style="margin: 0 auto" title="On second thought, I'll just have the salad."/>
+
+"We attended each one," said the Java master.  "And all that
+was heard, was understood."
+
+The master set a small bowl of rice before the messenger,
+who finished it promptly.  The messenger wiped his mouth
+upon his sleeve and continued:
+
+"These same Analysts provided you with ten thousand pages of
+requirements documents, meticulously illustrated down to the
+last Use Case.  Did you not trouble yourselves to examine them?"
+
+"We sifted through each page," said the Java master.  "And
+all that was read, was understood."  The master set a
+steaming cup of tea before the messenger, who downed it in
+one gulp.
+
+The messenger then fell forward onto the table, dead.
+
+The master asked of his students: "Did the messenger not
+know that it is our custom to surround ourselves with poisoned
+food and drink, that we may better resist the urges of the
+flesh?"
+
+Said the wisest monk: "All that was observed by the messenger,
+was understood."
+
+

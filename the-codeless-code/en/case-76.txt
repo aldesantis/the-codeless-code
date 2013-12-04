@@ -1,0 +1,43 @@
+Date: 2013-01-12
+Title: Myong's Cat
+Number: 76
+Names: Myong, Clan of Iron Bones
+Topics: UNIX, shell script, command line
+Geekiness: 3
+Illus.0.par: 2
+Illus.0.src: cat.jpg
+Illus.0.title: The keyboards are okay, but we can't find any of the mice.
+
+Unix master [[Myong]] was told of a stray cat that had taken
+up residence in the operations hall, sleeping in the server
+cabinets and napping atop the ancient CRTs for warmth.  The
+situation had grown objectionable when the creature began
+using a crate of spare cables as a litterbox.
+
+Myong captured the cat and placed it on a table before six
+monks of the [[Clan of Iron Bones]], saying, "If each of you can
+speak a command line which performs the same function as
+<tt>cat</tt>, I will spare this animal.  If not, I will kill it."
+
+The first monk quickly said, “<tt>cat</tt>”.
+
+The second said, “<tt>grep ^</tt>”.
+
+The third said, “<tt>sed s/^&#47;/</tt>”.
+
+The fourth said, “<tt>tr x x &lt;</tt>”.
+
+The fifth said, “<tt>perl -pe 0</tt>”.
+
+The sixth wracked his brains for a full minute, then hung
+his head in shame.
+
+Myong held the cat gently by the scruff of its neck and raised
+his knife, whereupon the sixth monk barked like a dog as
+loud as he could.  The cat shot out of the master's grip in terror
+and disappeared down the hallway.
+
+Myong glared at the sixth monk.
+
+"Same function," said the sixth monk calmly.
+

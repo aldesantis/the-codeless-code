@@ -1,0 +1,74 @@
+Number: 89
+Date: 2013-04-10
+Title: Version Control
+Geekiness: 2
+Names: Qi, Suku, Zjing's Bridge
+Topics: philosophy, version control, branching
+Skip: 0
+Illus.0.par: 1
+Illus.0.src: cop.jpg
+Illus.0.title: A katana is basically 'kill -9' for biological processes.
+
+
+At precisely 7:07 on the first clear morning of the first
+week of spring, the old scribe [[Qi]] awoke to a knocking on
+his door.  An abbess waited outside, flanked by two
+heavily-armed guards in black and white robes.
+
+Said the abbess: "We have read your account of
+[[#88|the burning of Zjing's bridge]], and we judge it to be a
+deliberate lie from beginning to end.  The annals are
+sacrosanct: by falsifying them, you have forfeited your own
+head."
+
+The scribe replied: "What was written, was, and is."
+
+Said the abbess: "Yet the bridge stands undamaged, and all
+parties refute your account.  As proof of your willful deceit
+I offer these printouts of the various versions of the page
+in question, obtained from your own repository."
+
+The scribe said nothing.
+
+Said the abbess: "The first version contains only the text of an
+email.  The sender suggests that you author a
+case wherein a stubborn monk is corrected by finding himself
+halfway across an impassible bridge."
+
+The scribe nodded and replied: "One point oh."
+
+Said the abbess: "The next version gives an elaborate account
+of master [[Suku]] and the monk Landhwa.  Here, Suku
+corrects the monk by unfastening the planks on
+her side of bridge, much as the email suggests."
+
+The scribe nodded again and replied: "One point one."
+
+Said the abbess: "A later version changes the monk to
+Wangohan.  Here, Suku releases a basket of trained cobras on
+the bridge to slither towards the hapless monk.  This one is
+my favorite, for its elegant use of snakes throughout."
+
+The scribe bowed and replied: "One point four."
+
+Said the abbess: "The final version has master Suku reduce
+the bridge to ashes.  A most obvious falsehood."
+
+The scribe replied: "One point six."
+
+Said the abbess: "Can you speak a word which will convince
+me to let you keep your head?"
+
+The scribe said nothing, but calmly sat at his desk and took
+up his keyboard.  Behind him, the guards unsheathed their swords.
+
+- - -
+
+At precisely 7:07 on the first clear morning of the first week
+of spring, the old scribe Qi awoke to the chattering of a
+magpie in the tree outside his window.  Through the
+branches, the cold, charred remains of Zjing's bridge could be
+seen.
+
+Said the scribe to the magpie: "One point six point one."
+

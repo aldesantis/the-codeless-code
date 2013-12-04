@@ -1,0 +1,31 @@
+Title: Language
+Number: 38
+Date: 2011-05-05
+Geekiness: 0
+Topics: philosophy, languages
+Names: Banzen
+
+A novice asked Java master [[Banzen]], "What is the most perfect
+programming language?"
+
+The master answered, "The one which accomplishes the
+desired task with the least effort expended by the user."
+
+The novice asked, "Is there a language which exceeds all
+others in this regard?"
+
+The master answered, "Build me a garden of ten thousand
+stones!"
+
+== Qi's commentary
+
+Management, too, has its programming languages,
+although what they produce is frequently defective.
+
+== Qi's poem
+
+Whether or not the garden was built, //
+Banzen got his desire. //
+The novice came no more for counsel -- //
+Words conceal intent.
+

@@ -1,0 +1,77 @@
+Number: 48
+Title: Silence
+Geekiness: 1
+Date: 2012-07-20
+Names: Huisheng, Temple of the Morning Brass Gong
+Topics: error handling, monitoring
+Illus.0.par: 2
+Illus.0.src: silence.jpg
+Illus.0.title: There is also a God of the Sudden Silence That Happens at Parties Just As You've Said Something Embarrassing.  He doesn't get many offerings.
+
+The [[Temple of the Morning Brass Gong]] lay nestled in the
+folds of a high mountain forest, shadowy and lush.  Hidden
+among its thick well-tended groves were four shrines,
+dedicated to four different gods of silence.
+
+The monk [[Huisheng]] was paying his respects to the least
+of these when a sandal fell from the sky onto the ground
+before it.  The monk looked up and discovered a learnèd
+brother -- bound, gagged, and hoisted by ropes to dangle
+from the upper limbs of a cypress tree.  The prisoner was
+frantically struggling against his bonds to attract
+Huisheng's attention.
+
+It was the habit of Huisheng <a href="/case/28">not to speak
+unless spoken to;</a> and since the prisoner was indisposed
+to speak at all, Huisheng merely turned away again and knelt at
+the shrine, the better to contemplate the scene.
+
+<i>-- I have heard much today,</i> thought Huisheng,
+<i>concerning the state of a critical nightly batch job.</i>
+
+<i>-- Many praised the design of the job; for it was said
+that if any record could not be processed, a suitable email
+was sent automatically to the Administrator and to all
+Parties Concerned.</i>
+
+<i>-- Many admired the reliability of the job, and how it was
+common for days to pass with no such message being sent.</i>
+
+<i>-- Many remarked upon the reticence of the job, and how
+it sent messages only when it deemed there was some error in
+need of correction.  This trait I find particularly
+virtuous, yet the abbot taking tea beside me spoke of it in
+tones of lament...</i>
+
+Huisheng's thoughts were broken by the sound of muffled cries
+from above.  Irritated, he cupped his hands over his ears.
+
+<i>-- The Protocols tell us of no fewer than Four Silences:
+the Silence Before Words, the Silence Between Words, the
+Silence of the Broken Pipe, and the Silence of Fallen
+Parcels.  To the initiate they are as different as the
+characters for "end" and "not yet," although the outsider
+cannot tell one from the other.</i>{{*}}
+
+The unintelligible cries grew louder.  Huisheng looked up to see
+a snake slithering along the ropes toward the terrified
+prisoner.
+
+<i>-- It is curious,</i> reflected Huisheng.  <i>The brother
+above has not begged to be set free; nor has he entreated me
+to pitch stones at the snake.  Soon he will be dead.  Then
+he will continue to not-ask me these things, albeit in a
+different way.  If I leave this place, he will not-ask
+me in a different way altogether.</i>
+
+<i>-- There is a lesson here in this monk's correction,
+though I have not yet divined what it is.</i>
+
+Thus, whistling a tune, did Huisheng depart the shrine.
+
+
+
+
+
+
+{{*}} 末 and 未.

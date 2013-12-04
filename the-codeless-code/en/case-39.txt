@@ -1,0 +1,50 @@
+Number: 39
+Title: The River of Tea
+Date: 2011-05-12
+Geekiness: 2
+Topics: comments, documentation
+Names: Suku
+
+Java master [[Suku]] was visiting the provinces of her youth.
+She had just seated herself in a favorite teahouse when a
+novice approached and asked her opinion of some code he had
+written.
+
+Suku examined the listing and found that every single method
+had been meticulously documented.  The /setName/ method of
+Person declared that it set the person's name; the /getName/
+method affirmed that it returned the name set by /setName/,
+and the /toString/ method vowed that, indeed, it would
+return a String.
+
+Suku pushed the listing away from herself and sat a while
+in silence.  Eventually the novice cleared his throat
+and asked if she was displeased.
+
+"That is an interesting question," said Suku.  She pointed
+at the code.  "This is paper, resting on a tatami mat.  On
+the paper is ink.  The ink forms many words.  There is a
+bird in the hinoki outside.  It has two feathered wings and
+two eyes..."
+
+She continued in this manner until the novice's cheeks
+turned red.  He gathered his code and left her presence,
+ashamed but enlightened.  Suku did not stop talking until
+the boy was out of earshot.
+
+
+== Qi's commentary
+
+Suku was served a generous portion of uncooked rice.
+The novice is fortunate that she lacked
+<a href="/case/34">a paddle to cook it with.</a>
+
+== Qi's poem
+
+The novice pours a river of green tea. //
+Still, Suku is thirsty. //
+An upright bowl may catch what it can, //
+but every bowl tips over in a deluge. //
+
+
+

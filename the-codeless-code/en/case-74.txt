@@ -1,0 +1,51 @@
+Number: 74
+Date: 2012-12-30
+Title: Bathwater
+Geekiness: 2
+Names: Hwídah, Yíwen, Yishi-Shing
+Topics: logging, error handling
+Skip: 0
+Credits: Some textures in illustrations courtesy of <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.src: blindfold.jpg
+Illus.0.title: He says that the black eye was totally worth it.
+
+After several days spent <a href="/case/73">shovelling snow,</a>
+the nuns [[Yíwen]] and [[Hwídah]] succumbed to the bitter cold
+and were given leave to recuperate in the hot baths.  A blindfolded
+young monk was sent there to find them.
+
+"Master [[Yishi-Shing]] says that he has swum deep through
+your ocean of log files and discovered a pearl," said the
+monk.  He waved a printout in the general direction of the
+splashing until it was taken from his hand.
+
+"These are stack traces for NullPointerExceptions," sniffled
+Yíwen.  "All were thrown during our long-running data processing
+job."
+
+"Most likely the problem is bad data," said Hwídah, her voice
+muffled by the hot towel she had draped over her face to clear
+her sinuses.
+
+"Many pardons," said Yíwen to the monk.  "But I cannot tell
+what records were being processed.  Where are the info messages
+that we log to provide context?"
+
+"They are no longer output," said the monk. "The flood of
+spurious warnings and errors was causing the log
+files to grow too quickly.  Something had to be done
+to prevent them from filling up the disk.  So Yishi-Shing
+decreed that debug and info messages, being non-critical,
+should be suppressed."
+
+Yíwen sighed, thrust the printout into the arms of the
+sightless monk, and slipped back into the bathwater.
+"Yishi-Shing rakes the seabed for pearls only.  He throws
+out every oyster unopened because their shells are ugly
+and his raft is small."
+
+"He has forgotten the very purpose of fishermen," said
+Hwídah from under her towel.  'Now, bedecked in orphan
+pearls, we will starve for want of oyster-meat."
+
+

@@ -1,0 +1,46 @@
+Number: 63
+Date: 2012-10-13
+Title: Shackles
+Geekiness: 2
+Names: Zjing
+Topics: refactoring, elegance, maintainability, rethinking, complexity
+Illus.0.src: hut.jpg
+Illus.0.title: She may reconsider the move when it's avalanche season.
+
+The nun [[Zjing]] had acquired an aversion to heights.  A
+young monk found her in her new quarters: a small hut
+nestled at the lowest point of a valley seven hundred feet
+below the Temple.
+
+The monk sat down, for Zjing had taken to working while lying
+on the floor.
+
+"I have written a most elegant subsystem for our
+image-rendering pipeline," said the monk.  "It has increased
+throughput dramatically, yet it is extremely fragile.  Every
+change must be made with the utmost caution or chaos will
+result.  For a solid year I have maintained the code,
+trusting it to no one else.  Now my nerves are frayed.  I
+must move on to other projects or risk the loss of my few
+remaining wits."
+
+"I understand," said Zjing, clutching the floor as she sat
+upright to examine the code on the monk's laptop.  "You
+fear the inevitable day when your successor makes a careless
+change and the system falls apart."
+
+"Yes -- for I shall be blamed, and rightly so!" cried the
+monk. "How can I best ensure that such a disaster will not
+occur?  By extensive comments /in/ the code?  By extensive
+documentation /outside/ the code?  By providing a hundred
+unit tests that will fail if incorrect changes are made?  By
+permeating the code with a hundred consistency checks -- thus
+increasing its complexity even more?  Or by remaining on
+this project until my brains turn to jelly?"
+
+<i>"Wú,"</i> said the nun.  She selected the directory that held the
+subsystem's source code, hit the delete button, and crawled
+out the door.
+
+
+

@@ -1,0 +1,48 @@
+Title: Cages
+Number: 11
+Date: 2010-11-11
+Geekiness: 2
+Topics: reuse, process
+Names: Elephant's Footprint Clan
+
+To prevent any further proliferations of redundant code, the
+abbot of the [[Elephant's Footprint Clan]] decreed that his
+monks were only to produce code which was
+application-specific.  Anything of a more general nature had
+to be proposed to a Software Reuse Subcommittee, which
+researched open source solutions, weighed the merits of the
+proposal against the needs of the various applications,
+amended the design as its members saw fit, and (if all signs
+were favorable) put the project on the implementation
+schedule.  The whole process, from inception to execution,
+took many weeks.
+
+When news of this policy reached him, the Java master sent
+for the abbot's two prized songbirds.  His letter promised
+that the birds would be returned the following week.  And so
+they were, in two separate bamboo cages of the Java master's
+devising.
+
+The bars of the first cage were a handspan apart; the bird
+had easily escaped during the journey.
+
+The bars of the second cage were so close that neither light
+nor air could pass through.  The bird inside was dead upon
+arrival.
+
+Tied to each cage was a poem in the master's hand:
+
+   Along the road //
+   from /air/ to /coffin/  //
+   lie the many houses of /cage/. //
+
+   The house of the thrush //
+   is not shared //
+   by the worm and the bull.
+
+
+
+
+
+
+

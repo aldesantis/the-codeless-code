@@ -1,0 +1,70 @@
+Date: 2013-05-25
+Title: Roses are Red
+Number: 95
+Geekiness: 3
+Names: Suku, Spider Clan
+Topics: CSS, naming
+Illus.0.src: Rose 2.jpg
+Illus.0.title: Violets are #00f, Roses are #f00.
+Illus.class: illus-right illus-50pct
+
+Master [[Suku]] was inspecting the [[Spider Clan]]'s code
+base when she called a certain monk into her chamber.
+
+Said Suku: "We display warnings in bold red text throughout
+our many applications.  How is this done?"
+
+The monk replied: "In our shared stylesheet I have created a
+CSS class for this express purpose, named /boldRedText/."
+
+Said Suku: "A most memorable name.  Sadly, the provincial governor
+wishes his applications to promote a mood of tranquility.  See that
+all warning text is rendered in a pale italic violet."
+
+The monk bowed and exited.
+
+- - -
+
+Suku later inspected the monk's work and discovered that he
+had renamed the style to /paleItalicVioletText/,
+changing references to it in hundreds of JSPs.
+She called the monk in again.
+
+Said Suku: "The provincial governor is a most particular
+man, and has decided that the display of warnings in deep
+blue text of normal weight upon a gray background would be
+infinitely more soothing.  See that the changes are made."
+
+The monk bowed and exited.
+
+- - -
+
+Suku later inspected the monk's work and discovered that he
+had renamed the style to /deepNormalBlueOnGrayText/, again making the
+necessary changes far and wide in the code base.
+She called the monk in again.
+
+Said Suku: "The provincial governor is a most fickle man,
+and has decided that the display of warnings in italic
+rose-red text with underlines on a cream background would spur
+the user into corrective action.  See that the changes are
+made."
+
+The monk bowed and exited.
+
+- - -
+
+Suku later inspected the monk's work and discovered that,
+this time, he had /not/ changed the name of the style in his
+many JSPs.  Instead only the solitary definition of
+/deepNormalBlueOnGrayText/ had been changed, so that it now
+produced italic rose-red text with underlines on a cream
+background.  Suku sighed and called the monk in again.
+
+When the monk entered her chambers Suku let fly several shuriken
+that pinned the surprised monk's robes to the wooden door.
+One blade had come dangerously close to permanently altering his
+private life.
+
+Suku turned back to her keyboard, saying:
+"Consider that your final /boldRedText/."

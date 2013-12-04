@@ -1,0 +1,30 @@
+Date: 2010-11-08
+Title: Willows
+Number: 4
+Geekiness: 0
+Topics: potential
+Names: Spider Clan
+
+A new priest of the [[Spider Clan]] was lamenting the poor
+quality of the Javascript code produced by his novices.
+
+"I will investigate," said the Java master.
+
+After visiting the novices, the master decreed that the
+first four be struck sharply across the knuckles each
+morning before their hands were allowed to touch their
+keyboards.  For the fifth novice, he prescribed no action.
+The priest asked the master why this was so.
+
+"The sapling, if tended, may become the willow; but not so the
+blade of grass," said the master.
+
+Hearing this, the priest ordered the fifth novice to
+be let go.
+
+To his surprise this angered the Java master greatly, and
+the priest himself was cast out.  On his final pay stub, the
+master wrote the following:
+
+/We cannot lie across a thousand willows and contemplate the sunrise./
+

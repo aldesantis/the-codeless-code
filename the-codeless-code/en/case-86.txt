@@ -1,0 +1,23 @@
+Number: 86
+Date: 2013-03-24
+Title: Liberation
+Geekiness: 1
+Names: Banzen
+Topics: management, code reviews, mentoring
+Skip: 0
+
+Master [[Banzen]] was investigating the novices of a distant
+abbey.  Their designs and implementations caused him much disquiet.
+
+"Who reviews your code?" asked Banzen.
+
+"Our masters have us review each other's code," explained one
+of the novices.  "This leaves them free for more important duties."
+
+"Indeed," said Banzen.  He hurled his staff hard across the
+room to the abbey's fusebox, which burst apart in a shower of sparks.
+All the screens went dark.
+
+Banzen retrieved his staff, saying: "Now their electrons are
+free as well."
+

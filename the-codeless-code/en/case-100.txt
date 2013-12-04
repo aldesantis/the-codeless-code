@@ -1,0 +1,33 @@
+Number: 100
+Title: Ten Thousand Mistakes
+Date: 2013-06-24
+Names: Banzen, Suku
+Topics: improvement, authority, perfection
+Geekiness: 0
+Illus.0.par: last
+Illus.0.src: Abacus.jpg
+Illus.0.title: There are now abacus apps for tablet computers, in case you want to use your state-of-the-art processor for performing manual calculations.  I find that strangely beautiful.
+Illus.0.align: centered
+
+
+A novice asked master [[Banzen]]: "What separates the monk from the master?"
+
+Banzen replied: "Ten thousand mistakes!"
+
+The novice, not understanding, sought to avoid all error.
+An abbot observed and brought the novice to Banzen for
+correction.
+
+Banzen explained: "I have made ten thousand mistakes; [[Suku]]
+has made ten thousand mistakes; the patriarchs of Open Source
+have each made ten thousand mistakes."
+
+Asked the novice: "What of the old monk who labors in the
+cubicle next to mine?  Surely he has made ten thousand mistakes."
+
+Banzen shook his head sadly.  "Ten mistakes, a thousand times each."
+
+
+
+
+

@@ -1,0 +1,68 @@
+Date: 2013-03-03
+Number: 83
+Title: Consequences
+Names: Jinyu
+Topics: interviews, design, potential, UML, class diagrams, inheritance, single inheritance, multiple inheritance, failure
+Geekiness: 2
+
+A senior monk had applied for admittance into the temple.
+The Abbess [[Jinyu]] was called in to investigate the man.
+
+"I will dictate a domain," she said, gesturing at the
+whiteboard with her cane. "You will model an
+implementation in Java."
+
+The monk bowed and uncapped a green marker.
+
+"All soldiers of the Imperial Army must know their rank,"
+began the abbess.  "The Emperor may order a soldier to fight
+to the death, and no one but a soldier can be told to do
+this..."
+
+The monk bowed and drew a rectangle, inscribed with
+instance variables and methods as was his custom.
+
+"Some soldiers are archers," continued the abbess, "each of whom
+must know the number of arrows in their possession.  The
+Emperor may order an archer to shoot a distant foe, and no one
+but an archer can be told to do this..."
+
+The monk bowed and drew a second rectangle, joined to the
+first.
+
+"Some soldiers are horsemen," continued the abbess, "each of whom
+must know the horse they have been assigned.  The Emperor
+may order a horseman to trample the enemies in his path, and no one
+but a horseman can be told to do this...
+
+The monk bowed and drew a third rectangle, similar to the
+second.
+
+"Finally," concluded the abbess, "Some soldiers belong to
+the Flying Rain of Fire, a cadre whose members are both
+archers and horsemen in every respect.  The Emperor may
+order his Flying Rain to lead the charge, and no one but the
+Flying Rain has this privilege."
+
+The monk hesitated.  For a full minute he did nothing but
+frown at the whiteboard; all present could sense the
+fierce calculations taking place behind the monk's calm
+visage.
+
+A nun of the temple whispered to Jinyu: "This problem has
+several solutions, but I dislike all of them."
+
+"Therein lies its value," whispered the abbess in reply.
+"For we are all of us doomed in this profession: our designs
+may aspire to celestial purity, yet all requirements are
+born in the muck of a pig-sty. {{*}} I trust that this monk
+can succeed when the stars align in his favor, but when they
+do not, how will he choose to fail?  By cowardly surrender?
+By costly victory?  By erroneous compromise?  For it is not
+he alone but the temple that must bear the consequences."
+
+{{*}} In Jinyu's parlance, the "pig-sty" usually meant "the world outside the temple walls," or sometimes, "my youngest son's bedroom."
+
+
+
+
