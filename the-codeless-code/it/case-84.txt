@@ -10,9 +10,9 @@ Con la rabbia nel proprio petto e un listato di codice in mano, Wangohan entrò 
 [[Landhwa|Landhwa]]. Wangohan sbatté le pagine sulla scrivania di Landhwa e colpì col dito una variabile cerchiata in
 rosso.
 
-“C'è una variabile in questo metodo chiamata <pre>ordiniCompletati</pre>,” sbuffò Wangohan. “Doveva contenere ordini il
-cui stato è <pre>COMPLETATO</pre>: questo dovrebbe essere evidente già dal nome. Perché, dunque, vi hai aggiunto ordini
-<pre>FALLITI</pre> in questa riga? Non potevo sapere che lo scopo della variabile fosse cambiato. I miei ultimi
+“C'è una variabile in questo metodo chiamata <tt>ordiniCompletati</tt>,” sbuffò Wangohan. “Doveva contenere ordini il
+cui stato è <tt>COMPLETATO</tt>: questo dovrebbe essere evidente già dal nome. Perché, dunque, vi hai aggiunto ordini
+<tt>FALLITI</tt> in questa riga? Non potevo sapere che lo scopo della variabile fosse cambiato. I miei ultimi
 miglioramenti sono stati tutti sbagliati!”
 
 Landhwa sbadigliò e sparse della cannella sul suo <em>hotteok</em>. “Creare una variabile separata avrebbe complicato il
