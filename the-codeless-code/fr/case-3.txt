@@ -1,5 +1,6 @@
-﻿Date: 2010-11-08
+Date: 2010-11-08
 Title: Encapsulation
+Lang: fr
 Number: 3
 Version: $Revision: 1.21 $
 Geekiness: 2
