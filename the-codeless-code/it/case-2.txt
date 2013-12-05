@@ -1,0 +1,29 @@
+Number: 2
+Title: Incognite ignote
+Lang: it
+Translator: alessandro1997
+
+L'Imperatore era irritato dai difetti nel nuovo sistema di elaborazione degli ordini che aveva commissionato, e dunque
+inviò un messaggero al Tempio, per investigare sui monaci che vivevano lì.
+
+"Sua Eccellenza vi ha inviato i suoi analisti aziendali più fidati per assicurarsi che tutte le funzionalità del
+software operassero come voleva," si accigliò il messaggero. "Non avete compreso nessuna delle numerose presentazioni
+PowerPoint?"
+
+"Abbiamo partecipato a ognuna," disse il maestro Jaza. "E tutto ciò che è stato sentito è stato capito."
+
+Il maestro mise una piccola ciotola di riso davanti al messaggero, che lo finì in fretta. Il messaggero si pulì la
+bocca con la manica e continuò:
+
+"Questi stessi analisti vi hanno fornito diecimila pagine di documenti di requisiti, meticolosamente illustrati fino
+all'ultimo caso d'uso. Non vi siete presi la briga di esaminarli?"
+
+"Abbiamo vagliato ogni pagina," disse il maestro Java. "E tutto ciò che è stato letto è stato capito." Il maestro mise
+una tazza di tè fumante davanti al messaggero, che la bevve in un solo sorso.
+
+Il messaggero crollò quindi sul tavolo, morto.
+
+Il maestro chiese ai suoi studenti: "Il messaggero non sapeva che è nostra usanza circondarci di cibo avvelenato, in
+modo che possiamo resistere meglio agli impulsi della carne?"
+
+Disse il monaco più saggio: "Tutto ciò che è stato osservato dal messaggero è stato capito."

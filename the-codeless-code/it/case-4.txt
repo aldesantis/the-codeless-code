@@ -1,0 +1,22 @@
+Number: 4
+Title: Salici
+Lang: it
+Translator: alessandro1997
+
+Un nuovo prete del [[Spider Clan|Clan del Ragno]] si lamentava della pessima qualità del codice Javascript scritto dai
+suoi novizi.
+
+"Indagherò," disse il maestro Java.
+
+Dopo aver visitato i novizi, il maestro decretò che i primi quattro fossero battuti con violenza sulle nocche ogni
+mattina prima che gli fosse permesso di toccare le proprie tastiere. Per il quinto monaco, non prescrisse alcuna azione.
+Il prete chiese al maestro perché.
+
+"L'alberello, se teso, può diventare salice; ma lo stesso non si può dire del filo d'erba."
+
+Sentendo questo, il prete ordinò che il quinto monaco fosse lasciato andare.
+
+Con sua sorpresa, questo fece infuriare molto il maestro Java, e lo stesso prete venne cacciato via. Sulla sua ultima
+busta paga il maestro scrisse:
+
+<em>Non si può rimanere sdraiati su mille salici a contemplare l'alba.</em>

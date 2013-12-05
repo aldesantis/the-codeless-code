@@ -1,0 +1,20 @@
+Number: 1
+Title: Le piccole cose
+Lang: it
+Translator: alessandro1997
+
+Per tre giorni e tre notti il maestro Java non uscì dal suo ufficio. Il quarto giorno i monaci del Tempio inviarono
+un novizio per scoprire cosa gli fosse accaduto.
+
+Il novizio trovò il maestro alla sua lavagna, che contemplava un singolo diagramma di flusso di dati. Il novizio
+lo riconobbe come un componente minore di un vasto sistema che i monaci dovevano mantenere. Educatamente, il novizio
+chiese al maestro a cosa stesse lavorando.
+
+Il maestro rispose: "C'è un difetto, e sto pensando al modo migliore di correggerlo."
+
+Il novizio disse, "Predicate spesso sull'importanza di avere delle priorità. Allora, come potete essere tanto
+ossessionati da qualcosa di così piccolo e insignificante?"
+
+Senza dire una parola, il maestro alzò il suo bastone e lo fece atterrare con forza sul piede sinistro nudo del novizio,
+rompendogli il dito mignolo. Il novizio urlò di dolore e barcollò fuori dall'ufficio. In quel momento, il novizio
+fu illuminato.

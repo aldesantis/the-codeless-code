@@ -1,0 +1,21 @@
+Number: 3
+Title: Incapsulamento
+Lang: it
+Translator: alessandro1997
+
+Un giovane monaco, nuovo al Tempio, non solo dichiarava pubblici tutti i suoi metodi, ma anche tutte le sue variabili
+d'istanza. L'abate si stancò di rimproverare il monaco e chiese consiglio al maestro Java.
+
+Il giorno successivo, il maestro convocò il monaco per pranzare con lui nel proprio ufficio.
+
+Entrando, il monaco trovò un pasto suntuoso sul tavolo da riunione. Il maestro quindi invitò il monaco di sdraiarsi a
+terra.
+
+Il monaco fece come ordinato, al che il maestro aprì gli abiti del monaco ed estrasse un grande coltello. Premette la
+punta contro il petto del monaco finché una goccia scarlatta non comparì sulla lama. Il monaco urlò di terrore e chiese
+al maestro quali fossero le sue intenzioni.
+
+"Aprirti in due la pancia," spiegò il maestro, "in modo che possa infilarci il riso e versarci il tè. La mia agenda è
+piuttosto impegnata e trovo che questo metodo di sfamare gli ospiti sia estremamente efficiente."
+
+Dopo questo il monaco non richiese ulteriore correzione.

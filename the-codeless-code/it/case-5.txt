@@ -1,0 +1,43 @@
+Number: 5
+Title: Void
+Lang: it
+Translator: alessandro1997
+
+In una fredda giornata autunnale il maestro Java si svegliò inquieto. Si incamminò da solo per schiarirsi la mente.
+
+Presto il maestro si trovò ai cancelli del Tempio delle Tre Pietre, dove l'arte dell'ANSI C era ancora praticata. Un
+fratello erudito stava di guardia.
+
+"Qual è la natura del <em>void</em>?" chiese il maestro.
+
+"Non ha natura," rispose il fratello. "È il bastone raccolto dal cane che non raccoglie bastoni. È ciò a cui punta la
+mano che non punta a nulla. È la perfetta assenza di valore."
+
+Il maestro pensò: "Il Tempio delle Tre Pietre non ha bisogno di una guardia. Non può esserci nulla di valore
+all'interno."
+
+Dopodiché giunse al Tempio del Ferreo Cielo Bianco, un luogo di teorici dove solo l'ML era permesso. Nel giardino
+rinsecchito una suora scriveva espressioni lambda nella sabbia.
+
+"Qual è la natura del <em>void</em>?" chiese il maestro.
+
+"Ha il colore dell'aria, e il peso della nebbia del mattino," rispose la sorella. "Quando colpito emette il suono di
+una luna nuova che si nasconde dietro una nuvola. Ogni ciotola vuota ne contiene quanti ne vuoi."
+
+Il maestro pensò: "La sorella non ha detto nulla che fosse falso, ma anche nulla che fosse vero."
+
+Ancora più giù lungo la strada il maestro giunse a un grande feudo, dove un'anziana donna potava le siepi.
+
+"Qual è la natura del <em>void</em>?" chiese il maestro.
+
+L'anziana donna si inchinò e continuò la sua potatura.
+
+Il maestro pensò: "Ecco la saggezza più pura, a meno che non ce ne sia solo l'assenza."
+
+Infine il maestro giunse a un cimitero abbandonato.
+
+"Qual è la natura del <em>void</em>?" chiese il maestro.
+
+Dal cortile vuoto non giunse alcuna risposta.
+
+Il maestro Java fu soddisfatto.
