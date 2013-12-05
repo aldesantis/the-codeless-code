@@ -1,10 +1,11 @@
-﻿Date: 2010-11-08
+Date: 2010-11-08
 Title: Saules
 Number: 4
 Geekiness: 0
 Topics: potentiel
 Names: Clan de l'araignée
-Translator:Riduidel
+Translator: Riduidel
+Lang: fr
 
 Un nouveau prêtre du [[Clan de l'araignée]] se lamentait de la mauvaise qualité du code Javascript produit par ses novices.
 
