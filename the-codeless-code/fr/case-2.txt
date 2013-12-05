@@ -11,7 +11,7 @@ il envoya donc un messager au temple pour y auditer les moines.
 annonça le messager d'un ton furieux. 
 "Vous n'avez compris aucune de leurs nombreuses présentations PowerPoint ?" 
 
-<img src = "/cases/2/poison.png" style = "margin : 0 auto" title = "À la réflexion, je prendrai juste la salade." / > 
+<img src="/cases/2/poison.png" style="margin: 0 auto" title="À la réflexion, je prendrai juste la salade." />
 
 "Nous avons assisté à chacune," 
 a dit le maître Java. 
