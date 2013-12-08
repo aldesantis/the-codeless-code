@@ -1,0 +1,14 @@
+Contents = Spis treści
+Topics = Tematy
+Names = Nazwy
+First = Pierwszy
+Previous = Poprzedni
+Next = Następny
+Last = Ostatni
+Random = Losowy
+About = O stronie
+
+Case <N> = Przypadek <N>
+
+Polish = Polski
+Translated by <XY> = Tłumaczenie <XY>
