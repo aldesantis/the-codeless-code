@@ -1,8 +1,5 @@
-Date: 2010-11-03
-Title: Drobiazgi
 Number: 1
-Geekiness: 0
-Topics: perfection
+Title: Drobiazgi
 Lang: pl
 Translator: badziew
 Illus.0.title: Odpytywanie mistrza Javy dlaczego chodzenie boso jest zakazane w świątyni zwykle skutkuje tą samą odpowiedzią.
@@ -11,11 +8,6 @@ Illus.0.title: Odpytywanie mistrza Javy dlaczego chodzenie boso jest zakazane w 
 Przez trzy dni i noce mistrz Javy nie opuszczał swojej izby.
 Czwartego dnia świątynni mnichowie postanowili wysłać
 jednego z nowincjuszy, aby ten dowiedział się co się stało.
-
-<img src="/cases/1/foot.jpg"
-     style="float:right; margin-right:-250px"
-     title="Odpytywanie mistrza Javy dlaczego chodzenie boso jest zakazane w świątyni zwykle skutkuje tą samą odpowiedzią."
-     />
 
 Nowincjusz zastał mistrza przy tablicy, zadumanego nad diagramem przepływu
 danych. Rozpoznał schemat na diagramie jako jeden z pomniejszych komponentów

@@ -1,8 +1,5 @@
-Date: 2010-11-04
-Title: Nieznane nieznane
 Number: 2
-Geekiness: 0
-Topics: requirements
+Title: Nieznane nieznane
 Lang: pl
 Translator: badziew
 Illus.0.title: Po namyśle, chyba wezmę tylko sałatkę.
@@ -16,8 +13,6 @@ przesłuchania mnichów.
 aby upewnili się że wszystkie funkcje są zgodne z założeniami - powiedział
 gniewnie posłaniec - Czy nie zrozumieliście ich licznych prezentacji
 w Power Poincie?
-
-<img src="/cases/2/poison.png" style="margin: 0 auto" title="Po namyśle, chyba wezmę tylko sałatkę."/>
 
 - Braliśmy udział w każdej z nich - odparł mistrz Javy - i wszystko co
 usłyszeliśmy zostało zrozumiane.
