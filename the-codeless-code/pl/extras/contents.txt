@@ -1,0 +1,5 @@
+description:
+
+Ilustrowany zbiór opowiadań (zawierających czasem przemoc)
+na temat Sztuki i Filozofii tworzenia oprogramowania,
+pisanych w duchu kōanów Zen.
