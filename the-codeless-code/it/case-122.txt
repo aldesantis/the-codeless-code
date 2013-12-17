@@ -1,0 +1,60 @@
+Number: 122
+Title: Arigianato
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Possiamo studiare culture vecchie di millenni grazie alle incisioni che hanno lasciato sulla quercia e sulla pietra. Nel frattempo, io ho terabyte di dati su supporti digitali che saranno illeggibili in qualche decennio. Il Progetto Rosetta ha l'idea giusta -- se è importante, incidilo su qualcosa che duri 10,000 anni.
+
+Il maestro [[Bawan]] stava conducendo un monaco iniziato attraverso il Tempio. Giunsero alla Sala delle Ore Perdute,
+dove gli abati tenevano le loro riunioni mattutine. Bawan indicò i quattro massicci pilastri di quercia che sostenevano
+la più antica parte della sala. Delle scene di vita del Tempio erano state incise su ciascuno di essi, su tutti e
+quattro i lati, dal pavimento al soffitto. Le figure intricate possedevano una tale strabiliante verosimiglianza che il
+monaco poteva quasi udire gli schiocchi degli abachi.
+
+"Questi sono stati fatti duecento anni fa da un monaco del nostro ordine," disse Bawan. "Ha impiegato sei anni,
+lavorando ogni notte con martello e scalpello, il suo lavoro illuminato solo dallo sfarfallante bagliore di un singolo
+tubo catodico."
+
+Più avanti stava un altro quadrato di quattro pilastri, identico al primo.
+
+"Questi sono stati fatti cento anni fa dai monaci del [[Clan del Go-To Malefico|Harmful Go-To-Clan]], che è stato
+bandito," disse Bawan. "Hanno replicato gli originali con un pantografo di bamboo assicurato a un router elettrico.
+Hanno impiegato sei mesi, lavorando alla luce di un tubo a raggi catodici che eseguiva la [[#1-2|Fontana di Anantha]]."
+
+Più avanti stava ancora un altro quadrato di quattro pilastri, ancora più simile agli originali.
+
+"Questi sono stati creati cinquant'anni fa da tre suore del [[Clan dell'Orma di Elefante|Elephant's Footprint Clan]],
+che si prendono cura dei nostri database e della nostra storia," disse Bawan. "Le monache tracciarono i contorni degli
+originali e diedero le coordinate a una macchina per le fresatura programmabile. La misurazione prese sei settimane;
+la creazione solo qualche giorno."
+
+Infine giunsero al nuovo portico meridionale, supportato da un ultimo quadrato di pilastri così simile al primo che
+anche il più piccolo errore dello scalpello era stato riprodotto fedelmente.
+
+"Questi sono stati installati dieci anni fa da uno degli apprendisti estivi," disse Bawan. "Ha fotografo gli originali
+con fotocamere digitali ad alta risoluzioni, combinato i dati in una topografia tridimensionale con risoluzione
+inferiore al millimetro, e commissionato la creazione a uno scultore della provincia vicina. Sei giorni, dall'inizio
+alla fine."
+
+Bawan si rivolse al monaco iniziato. "Quale gruppo di pilastri ha il valore maggiore per il Tempio?"
+
+Il monaco ci pensò e disse: "Quelli che esistono puramente come dati raccolti dall'apprendista, giacché non hanno
+altezza, né larghezza, né peso, eppure da essi tutti gli altri pilastri poterono essere ricreati."
+
+Bawan si inchinò e condusse fuori il monaco.
+
+- - -
+
+Quella notte Bawan stava camminando da solo alla luce della lanterna attraverso gli archivi hardware del
+[[Clan delle Ossa di Ferro|Clan of Iron Bones]], negli scantinati più profondi al di sotto dell'abbazia. Riuscendo
+finalmente a trovare il particolare VAX mainframe che cercava, Bawan collegò un polveroso terminale VT100, premette
+l'interruttore dell'accensione, e aprì un file sorgente C che non veniva compilato da un quarto di secolo.
+
+Bawan notò soddisfatto con quale perfezione le istruzioni erano state indentate, com'erano descrittivi i nomi delle
+funzioni e delle variabili, con quanta diligenza ogni parametro era stato commentato. Sorrise davanti ad alcuni commenti
+TODO e FIXME: un appello a un futuro che non avrebbe mai risposto. Quindi fece scorrere la schermata fino in cima, dove
+il suo nome e il suo indirizzo email apparivano fieramente.
+
+"L'iniziato aveva ragione solo in parte," disse Bawan al vuoto. "È vero, il valore non è nella quercia scolpita, ma
+neanche nella forma della scultura; giacché sia il pilastro reale che quello virtuale possono essere perduti, senza che
+il Tempio ne esca più povero. Ma quando, per la prima volta, il legno cede sotto i colpi del metallo, un'altra cosa si
+crea: lo scultore."
