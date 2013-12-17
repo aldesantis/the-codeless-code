@@ -1,0 +1,62 @@
+Number: 123
+Title: Ordine e caos
+Lang: it
+Translator: alessandro1997
+
+Un certo monaco, famoso per l'eleganza del suo codice, aveva l'abitudine di rifattorizzare il codice dei suoi compagni
+in modo che corrispondesse. "Perché l'inconsistenza moltiplicata diventa caos," spiegava, "e dal caos nasce la
+complessità, e la complessità porta confusione, e la confusione è la madre di diecimila difetti."
+
+Questo giunse alle orecchie della maestra [[Suku]], che più di tutti premiava la chiarezza del codice. Ella incontrò il
+monaco, dicendo: "Mi serve il tuo aiuto per risolvere un problema."
+
+Suku svelò al monaco un grande repository, casa del codice sorgente della più antica applicazione del Tempio. Nel corso
+dei decenni innumerevoli monaci e suore erano passati per le sue cartelle: aggiungendo, rimuovendo, rifattorizzando,
+rifinendo, provando un nuovo framework qui, un nuovo approccio lì. Diverse volte l'intero codice era stato migrato da un
+linguaggio a un altro, sfregiando i livelli più profondi con design pattern molto bizzarri. In una classe di utilità le
+convenzioni di denominazione erano così selvaggiamente inconsistenti che il monaco ebbe le vertigini e dovette sdraiarsi
+sul pavimento.
+
+"Metti ordine nel caos," disse Suku, e uscì.
+
+Il monaco procedette coscienziosamente a riscrivere l'applicazione nello stile che aveva perfezionato in così tanti
+anni. Scelse un nuovo, scintillante framework per sostituire tutti quelli arrugginiti, quindi prese un angolo polveroso
+del repository e lavorò lentamente verso l'esterno: aggiungendo, rimuovendo, rifattorizzando, rifinendo.
+
+- - -
+
+Il monaco aveva convertito solo una minima frazione dei file quando qualcuno bussò alla porta.
+
+"Emergenza!" disse l'abate senza fiato che stava fuori, afferrando il monaco per la veste e tirandolo fuori dalla porta.
+"Disastro! Disordine! Scadenza! Condanna! Non ci sono abbastanza persone e non c'è abbastanza tempo; ci servi ora,
+vieni, vieni!"
+
+Il monaco protestò, chiedendo che qualcuno chiamasse la maestra Suku in modo che potesse intervenire, ma l'abate atterrò
+il monaco e lo trascinò lungo il corridoio come un rumoroso sacco di riso.
+
+Quella sera Suku trovò il monaco, legato alla sua nuova postazione di lavoro da molti rotoli di corda robusta.
+
+"Ho visto i tuoi commit nel grande repository," disse la maestra, afferrando un lungo pugnale che gli mise alla gola.
+"Dove una volta c'erano cento stili, ora ce ne sono centouno."
+
+The monk had converted the merest fraction of the files when
+there came a pounding on his door.
+
+Fece un gesto veloce. Il monaco rabbrividì, aspettandosi di sentire il sangue spargersi sulle vesti. Invece il coltello
+tagliò un filo dei nodi di canapa.
+
+"Non perfetto, ma migliore," disse Suku, e uscì.
+
+Fece lo stesso per cento sere finché il monaco fu libero.
+
+- - -
+
+Dopo questo il monaco interferì meno nel codice dei propri colleghi, e iniziò a vantarsi della sua abilita di mimare i
+design pattern quando gli era assegnato di modificare l'applicazione di qualcun altro.
+
+"È ancora una verità della rifattorizzazione," diceva ora, "che a volte uno deve introdurre il caos per portare
+l'ordine, proprio come la strada verso il mare a volte scala una montagna prima di inabissarsi nuovamente. Eppure
+l'ordine non è una destinazione: è solo una direzione da <em>complesso</em> a <em>semplice</em>, da <em>più</em> a
+<em>meno</em>. La maestra aveva chiesto <em>meno</em> ma io pensavo solo a <em>uno</em>, e ho scelto una strada degna
+di <a href="http://it.wikipedia.org/wiki/Congettura_di_Collatz">Collatz</em> quando una semplice sottrazione sarebbe
+bastata.
