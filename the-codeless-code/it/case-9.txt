@@ -1,0 +1,31 @@
+Number: 9
+Title: Infiniti
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Pensi di essere nato povero perché hai dovuto condividere i tuoi VESTITI? Noi abbiamo dovuto condividere le nostre GAMBE.
+
+Due monaci del [[Spider Clan|Clan del Ragno]] stavano discutendo se la nuova routine di validazione degli input fosse o
+meno intrappolata in un ciclo infinito.
+
+"Per quanto è stata in esecuzione?" chiese l'abate.
+
+"Non più di mezz'ora" rispose il monaco pallido e magro.
+
+"E nemmeno meno di quello" disse il monaco scuro e grasso.
+
+"E non avete fatto niente in questo tempo tranne aspettare che finisse?" chiese l'abate.
+
+I monaci chinarono le teste dalla vergogna.
+
+L'abate riportò questo al maestro Java, che annuì. "Quale di loro crede che il ciclo <em>non</em> sia infinito?"
+
+"Quello pallido e magro" disse l'abate.
+
+"Allora dategli un otre di vino, perché è saggio. Nessun ciclo può essere davvero infinito. Un giorno la corrente verrà
+a mancare, il server si arrugginirà, il Tempio si sbriciolerà, e il sole inghiottirà la terra."
+
+Chiese l'abate: "E per quello scuro e grasso, che crede che il ciclo sia infinito?"
+
+"Dagli due otri di vino, perché è più saggio. Per l'utente che attende davanti al suo browser, dieci secondi sono
+un'agonia, un minuto è un millennio, e qualunque periodo più lungo è effettivamente un'eternità. Quando la tigre dilania
+l'antilope, l'antilope non si chiede se sono state usate otto artigli o un milione."
