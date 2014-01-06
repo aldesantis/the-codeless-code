@@ -1,0 +1,20 @@
+Number: 8
+Title: Riduci, riusa, ricicla
+Lang: it
+Translator: alessandro1997
+
+Un novizio chiese al grande maestro: "Qual è la Via?"
+
+Il maestro rispose: "Scrivere codice è la Via."
+
+Il novizio quindi chiese: "Quale non è la Via?"
+
+Il maestro rispose: "Scrivere codice non è la Via."
+
+Il novizio disse: "Dunque scrivere codice è ogni cosa."
+
+Il maestro rispose: "E anche il non-scrivere codice."
+
+Il novizio chiese: "In questo momento, stiamo scrivendo codice o non-scrivendo codice?"
+
+Il maestro rispose: "Noi siamo il codice."
