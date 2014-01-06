@@ -1,0 +1,29 @@
+Number: 126
+Title: Tè per due
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Smettila di guardarle sotto il vestito. Sì, sto parlando con TE.
+
+Come molti della sua età, la giovane monaca [[Satou]] possedeva un'irreprensibile curiosità: meno sapeva di qualcosa,
+più voleva provarla. Dunque aveva scelto di usare il multithreading per migliorare le prestazioni della sua utilità di
+elaborazione dei log, nonostante [[#121|gli avvertimenti del maestro Banzen]].
+
+Banzen esaminò il suo codice, dunque invitò la monaca a discutere ciò che aveva trovato durante la pausa tè mattutina.
+
+Quando Satou si sedette nella stanza da tè del maestro, Banzen prese un mestolo di acqua bollente dalla pentola di ferro
+e la versò direttamente sul tappeto tatami di Satou. Satou guaì dalla sorpresa, saltando via per evitare di ustionarsi.
+Il maestro passò tranquillamente la sua piccola scopa sulla pozzanghera che si allargava, quindi pose una ciotola vuota
+al centro. Infine mise del tè verde in polvere nella ciotola asciutta.
+
+"Ora" disse Banzen. "Discutiamo le race condition."
+
+== Il commento di Qi
+
+Ma prima, siediti ed entra.
+
+== Il poema di Qi
+
+Scivolano dalle mie dita //
+Risplendono sul mio schermo //
+Quattro linee leggibili in qualunque ordine //
+L'essenza della sicurezza dei thread.
