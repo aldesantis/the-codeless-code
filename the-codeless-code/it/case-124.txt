@@ -1,0 +1,30 @@
+Number: 124
+Title: La variabile nascosta
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Le persone che vorrebbero fermare il cambiamento del mondo non hanno davvero considerato i prerequisiti.
+
+Un monaco si avvicinò al maestro [[Kaimu]] e disse:
+
+Il maestro [[Banzen]] trova che la vostra filosofia sia fallace, giacché date risposte diverse alla stessa domanda.
+Eravate a conoscenza di questo insulto?
+
+No, rispose Kaimu.
+
+Più tardi quel giorno un altro monaco si avvicinò a Kaimu e disse:
+
+Il maestro Banzen trova che la vostra filosofia sia fallace, giacché date risposte diverse alla stessa domanda. Eravate
+a conoscenza di questo insulto?
+
+Sì, rispose Kaimu.
+
+== Il commento di Qi
+
+Kaimu non è affetto da idempotenza.
+
+== Il poema di Qi
+
+Il decimillesimo anno è passato, //
+ma nessuno lo ha notato. //
+Un mondo spento sta nel vuoto stellato, //
+nessuna discordia, nessun errore, infinitamente perfetto.
