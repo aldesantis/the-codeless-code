@@ -1,0 +1,85 @@
+Number: 125
+Title: Energia
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Anche a un giardino serve un po' di debugging di tanto in tanto.
+
+È compito degli abati del Tempio dirigere le attività dei rispettivi clan: scegliere i progetti, impostare le scadenze,
+distribuire i compiti e impiegare ogni mezzo necessario per far sì che le tabelle di marcia siano rispettate. È per via
+di questi poteri che gli abati sono invidiati e disprezzati. Ovviamente, è raro che le strade dell'abate e del monaco si
+incrocino senza che quest'ultimo resti immiserito dall'esperienza.
+
+Per questo, fu senza gioia che il monaco anziano [[Shinpuru]] ricevette la visita del nuovo abate capo del
+[[Spider Clan|Clan del Ragno]].
+
+- - -
+
+Shinpuru si trovava nella serra del tempio, prendendosi cura delle piante di un piccolo giardino d'inverno che curava
+per passatempo, quando l'abate capo si avvicinò e si inchinò, dicendo: "Ho la grande fortuna di essere in presenza del
+monaco Shinpuru, il cui codice è ammirato in tutto il Tempio?"
+
+"Quest'anima miserabile sono io" disse Shinpuru, restituendo l'inchino.
+
+"Sono venuto a chiedere se hai mai pensato al futuro" disse l'abate.
+
+"Mi aspetto che domani il sole sorga" disse Shinpuru. "A meno che non mi sbagli, nel qual caso non lo farà."
+
+"Stavo pensando del tuo futuro, in particolare" rispose l'abate.
+
+"Se il sole non sorge, il mio futuro sarà l'ultimo dei miei problemi" disse Shinpuru. "Se sorge, allora mi aspetto di
+salutarlo godendomi una piccola ciotola di riso e anguilla. A meno che non mi sbagli, nel qual caso non lo farò."
+
+L'abate sorrise. "È vero, dunque, che il monaco Shinpuru pianifica per ogni evenienza. Questo anche è il motivo per cui
+sono venuto. Ultimamente c'è stata una morìa di abati nel Clan del Ragno.{{*}} Il tempio desidera conferirti l'onore di
+essere promosso entro i nostri ranghi."
+
+"Sono onorato" disse Shinpuru, inchinandosi nuovamente.
+
+"Il lavoro è difficile" continuò l'abate. "La nostra giornata inizia molto prima dell'alba, che sarai raramente in grado
+di salutare a tuo piacimento, giacché ci sono molte riunioni a cui partecipare e corriamo con le nostre ciotole dall'una
+all'altra. Allo stesso modo, spesso non sarai in grado di vedere il tramonto, tranne forse che su una webcam. In cambio,
+riceverai un compenso maggiore dai forzieri del Tempio, e il potere di dirigere le attività del Tempio stesso."
+
+"E cosa ne sarà di 'Shinpuru, il cui codice è ammirato in tutto il Tempio', quando non scriverà più codice?" chiese il
+monaco.
+
+"Non temere!" disse l'abate. "Farai quello in cui hai sempre eccelso, solo a un livello superiore: meta-codifica, per
+così dire. Invece di disegnare documenti produciamo piani a lungo termine; invece del software sforniamo tabelle di
+marcia; invece di difetti e funzionalità parliamo di costi e benefici. Il Tempio stesso è la macchina su cui pratichiamo
+le nostre arti, rifatorizzandola come meglio crediamo."
+
+"Una causa meritevole" disse Shinpuru, tornando a occuparsi delle sue viti. "Anch'io ho notato la morìa di abati. Tale è
+il prezzo del potere. Come una volta la matriarca marinara [[Subashikoi]] ha osservato, i monaci possono comandare
+l'armamento e i maestri possono comandare i monaci, ma sono gli abati che stabiliscono la rotta e che tengono il timone;
+allo stesso modo, sono gli abati che vengono consegnati agli abissi quando la nave affonda -- spesso dal loro stesso
+equipaggio."
+
+"Solo gli stolti vanno incontro a un tale destino," disse l'abate. "E il monaco Shinpuru non è uno stolto. A meno che
+<em>io</em> non mi sbagli, ma sbaglio raramente su certe questioni."
+
+"Allora non penserete che sia uno stolto perché ho declinato la generosa offerta del Tempio" disse Shinpuru, potando
+alcune foglie gialle.
+
+L'abate capo si accigliò. "Cosa dovrebbe pensare Shinpuru di un seme che si è rifiutato di germogliare, o di un albero
+che si è rifiutato di dare frutti? Cos'altro dovrei pensare io di un monaco che declina così velocemente un'opportunità
+per la crescita, per il comando, per il potere?"
+
+Shinpuru mise da parte le sue cesoie per legare la vite. "Definite potere" egli disse.
+
+"L'abilità di fare ciò che uno desidera" disse l'abate.
+
+"Bene, dunque" disse Shinpuru. "Domani voglio salutare l'alba con la mia piccola ciotola. Poi voglio sorseggiare del tè
+caldo alla mia postazione di lavoro mentre leggo i siti tecnici che trovo maggiormente illuminanti. Dopodiché ho davanti
+a me una felice giornata di fruttuosa programmazione interrotta solo da alcune piacevoli conversazioni con i miei
+compagni e un pasto di mezzogiorno proprio qui, curando il mio giardino. Quando cade la notte voglio trovarmi nella mia
+stanza accogliente con una pancia piena di riso, una tazza piena di sake caldo, una borsa piena di soldi sufficienti
+per comprare altri semi e una mente vuota di ogni altra preoccupazione."
+
+L'abate si inchinò. "Immagino che Shinpuru abbia tutto il potere che egli possa desiderare, dunque. A meno che non
+ti sbagli."
+
+"Raramente sbaglio su certe questioni" disse Shinpuru, prendendo nuovamente le sue cesoie mentre un'altra foglia gialla
+catturava il suo occhio. "In un mondo dove perfino il sorgere del sole è incerto, un uomo può essere scusato per la
+sua ignoranza di molte cose. Ma non conoscere il mio cuore? Spero di non essere mai uno stolto di tale portata."
+
+{{*}} Come documentato nei casi [[#61|61]], [[#62|62]], [[#67|67]], [[#120|120]], e altri ancora, gli abati del Clan del Ragno hanno l'aspettativa di vita media di un delfino nel deserto del Gobi.
