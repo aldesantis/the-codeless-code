@@ -1,0 +1,36 @@
+Number: 6
+Title: A mani vuote
+Lang: it
+Translator: alessandro1997
+
+Dopo essere tornato dalla sua vacanza, l'abate capo del [[Laughing Monkey Clan|Clan della Scimmia Ridente]] trovò il
+proprio tempio in stato di panico e disordine. Il sistema finanziario che avevano appena modificato lanciava eccezioni
+NullPointerException per tutti i nuovi clienti. Questi utenti, estremamente inquieti, stavano cancellando i propri
+account dopo un solo giorno.
+
+Con qualche difficoltà l'abate rintracciò il problema in un metodo il cui compito era quello di restituire un oggetto
+List contenente le transazioni dell'utente. Se non c'erano transazioni restituiva il valore nullo piuttosto che una
+lista vuota.
+
+"Portatemi il monaco che ha scritto questo metodo" disse alle guardie del tempio. "E anche il monaco il cui codice lo
+richiama."
+
+Il primo monaco, che era il più anziano dei due, dichiarò che la colpa doveva essere data al secondo. "La mia
+documentazione Java era estremamente chiara. Non è un mio errore il fatto che egli non abbia controllato per valori
+nulli". Il secondo monaco abbassò la testa per la vergogna e non disse nulla.
+
+L'abate batté le mani e due alte urne di giada vennero poste sul pavimento, una di fronte a ogni monaco. "Le vostre
+punizioni sono state scritte su dei foglietti all'interno. Ogni giorno dovrete rimuovere il primo foglietto che la
+vostra mano tocca e obbedire ai suoi ordini alla lettera, finché l'urna non sarà vuota."
+
+Il monaco più giovane fu invitato ad andare per primo. La sua mano non aveva raggiunto la metà dell'urna quando si sentì
+il fruscìo della carta. Leggendo il foglietto, si inchinò e lasciò la stanza.
+
+Il monaco più anziano infilò la mano a fondo nella propria urna finché le sue dita non toccarono il fondo freddo. "Non
+ci sono foglietti in questa urna" disse il monaco, mentre un accenno di sorriso si formava all'angolo della sua bocca.
+
+"Non ci sono neanche pesci, né dieci montagne" disse l'abate.
+
+Il monaco più anziano quindi urlò di dolore. L'urna si rovesciò e si ruppe. Uno scorpione fuggì tra le mattonelle.
+
+L'abate guardò il monaco morente. "Non ogni nulla è uguale."
