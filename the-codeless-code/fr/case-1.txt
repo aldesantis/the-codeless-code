@@ -1,17 +1,11 @@
-﻿Title: Les Petites Choses
+Title: Les Petites Choses
 Number: 1
-Geekiness: 0
-Topics: perfection
-Translator:Luke
+Lang: fr
+Translator: Luke
+Illus.0.title: Si vous demandez pourquoi les pieds nus sont interdits dans le temple, vous obtiendrez généralement la même réponse.
 
 Cela faisait trois jours et trois nuits que le maître Java était enfermé dans son bureau. 
 Au quatrième jour les moines du temple envoyèrent un novice pour voir ce qui lui était arrivé.
-
-<img src="/cases/1/foot.jpg"
-     style="float:right; margin-right:-250px"
-     title="Si vous demandez pourquoi les pieds nus sont interdits dans le temple, vous obtiendrez généralement la même réponse."
-     />
-
 
 Le novice découvrit le maître devant son tableau blanc, 
 en contemplation devant un unique diagramme de flux de données. 

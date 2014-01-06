@@ -5,11 +5,9 @@ Number: 3
 Version: $Revision: 1.21 $
 Geekiness: 2
 Topics: encapsulation
-Translator:Riduidel
+Translator: Riduidel
+Illus.0.title: Quoi que vous fassiez, ne lui dites pas que vous devez aller aux toilettes.
 
-<img src="/cases/3/encapsulation.jpg"
-     title="Quoi que vous fassiez, ne lui dites pas que vous devez aller aux toilettes."
-     style="float:right; margin-right:-220px" />
 
 Un jeune moine, nouveau dans le temple, n'avait pas seulement déclaré toutes ses méthodes publiques, mais également toutes ses variables d'instance. 
 Le maître abbé se lassa de réprimander le moine et demanda conseil au Maître Java pour obtenir des conseils.
