@@ -1,0 +1,47 @@
+Number: 10
+Title: Orgoglio
+Lang: it
+Translator: alessandro1997
+
+Dopo una rapida ispezione, il maestro Java decretò che ogni monaco nel
+[[Elephant's Footprint Clan|Clan dell'Orma di Elefante]] avrebbe da quel momento catturato il proprio pesce, coltivato
+il proprio riso, cucito le proprie vesti e fabbricato le proprie scarpe.
+
+Entro un mese, tutti i monaci furono mezzi nudi ed estremamente malnutriti. Le scadenze smisero di essere rispettate.
+L'abate implorò il maestro Java di riconsiderare la propria decisione.
+
+"Molto bene" disse il maestro Java. "Ogni giovedì, fagli anche bruciare le proprie vesti e scarpe, e lancia il loro riso
+e il pesce nel fiume."
+
+L'abate chiese quale trasgressione il suo clan avesse commesso per meritare una ismile punizione.
+
+"Punizione?" disse il maestro Java. "Volevo solo premiare. I monaci dell'Orma di Elefante non godono forse della propria
+indipendenza e auto-sufficienza? Il loro codice me lo dice:
+
+"Ciascuno ha essenzialmente creato gli stessi Oggetti di Accesso Dati e Oggetti Valore dei propri compagni. Ciascuno ha
+costruito le proprie utilità per le stringhe e parser di file di configurazione. Ciascuno ha fatto enormi sforzi per
+disegnare, implementare, integrare, testare, debuggare, riparare ed estendere quello che avrebbe semplicemente potuto
+consumare da uno dei propri fratelli.
+
+"Devo dedurne incompetenza? Se è così, ciascun monaco dell'Orma di Elefante dev'essere cacciato dal monastero.
+
+"Devo dedurne deliberata ignoranza? Se è così, la tradizione richiede che si accechino con delle ortiche e <em>poi</em>
+vengano cacciati via.
+
+"Devo dedurne del disprezzo per la preziosità del tempo? Se è così, le segrete li aspettano.
+
+"Ma no" concluse il maestro Java. "Devo invece dedurne orgoglio -- orgoglio che ognuno prova nel sapere che il suo
+codice è superiore a quello dei suoi fratelli. Orgoglio che è uno dei Quattro Semi della Grandezza, e dev'essere
+incoraggiato. Lascia che l'Orma di Elefante affini le proprie abilità con le aste e le cesoie, con gli aghi e le falci,
+finché ogni monaco potrà essere ugualmente orgoglioso dei propri vestiti preziosi e della preda nel suo piatto!"
+
+"Ci sarà poco tempo rimanente per la codifica" osservò l'abate. "E l'Imperatore è piuttosto letterale nella sua
+interpretazione della parola <em>deadline</em>.{{*}}"
+
+Il maestro annuì. "Il mercante, da poco fallito, conosce solo il dolore della perdita. Allo stesso modo il vecchio
+eremita esalta le virtù dell'austerità e non vuole cambiare il proprio stato. Ma non sono questi lo stesso uomo,
+separati solo da un abisso di anni?"
+
+Così fu l'Orma di Elefante risparmiata due volte e corretta.
+
+{{*}} "Scadenza", in inglese. <em>Dead</em> vuol dire anche "morto".
