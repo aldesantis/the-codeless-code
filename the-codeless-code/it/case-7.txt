@@ -1,0 +1,32 @@
+Number: 7
+Title: Il nemico del bene
+Lang: it
+Translator: alessandro1997
+Illus.1.title: Dopo il primo secolo diventi molto più bravo ad attendere pazientemente.
+
+I monaci del [[Laughing Monkey Clan|Clan della Scimmia Ridente]] si avvicinarono al maestro Java con una lista di
+lamentele.
+
+"La nostra frustrazione più grande è il processo di testing" insistette il monaco più giovane. "Il testing manuale è
+noioso e i test automatizzati sono difficili da scrivere. Entrambi sono distrazioni dalla scrittura del codice."
+
+Il maestro rifletté su questo e disse: "È certo che potremmo liberarci completamente del testing se sapessimo che il
+nostro codice fosse perfetto. Come, dunque, possiamo raggiungere la perfezione?"
+
+"Tramite la pratica" disse un monaco.
+
+"Tramite lo studio diligente" disse un altro.
+
+"Tramite l'ingraziamento di certi dei" disse un terzo.
+
+Un vecchio monaco dalla barba bianca, che era stato seduto in silenzio nell'angolo, alzò la sua testa:
+
+"Io so come raggiungere la perfezione" egli disse. "Ma ho paura che chiunque oda la mia risposta non sarà mai convinto
+della sua veridicità a meno che non pronunci proprio le giuste parole, con la più piacevole delle intonazioni, al più
+propizio momento della giornata. Devo pensare a come farlo meglio."
+
+Il vecchio monaco cadde nel silenzio per un lungo tempo. Infine suonò la campana del pranzo.
+
+"Quanto ci vorrà?" chiese uno dei novizi.
+
+"Non più di un centinaio d'anni" fu la risposta del vecchio monaco.
