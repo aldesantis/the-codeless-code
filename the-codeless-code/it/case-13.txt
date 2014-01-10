@@ -1,0 +1,21 @@
+Number: 13
+Title: Evoluzione
+Lang: it
+Translator: alessandro1997
+
+Un noviziò studiò il codice del maestro Java{{*}} e adottò lo stile del maestro alla lettera; i design pattern usati, le
+convenzioni di nomenclatura per le variabili, il numero di spazi usati per indentare ogni blocco nidificato. Persino i
+commenti erano scritti in un'impressionante imitazione della voce del maestro.
+
+Durante la sua successiva revisione del codice, il novizio fu sorpreso quando trovò il maestro Java estremamente
+scontento.
+
+"Ma maestro" protestò lo studente. "Ho seguito il vostro esempio fino all'ultimo punto e virgola. Vedete, ecco una
+classe di utilità che avete scritto solo il mese scorso; non assomiglia al mio codice come due uova della stessa
+gallina?"
+
+"Proprio qui sta il problema" si accigliò il maestro. "Ieri ero uno stolto, la settimana prima un idiota, e il mese
+scorso un imbecille. Non farmi vedere il codice che avrei potuto scrivere ieri. Fammi vedere il codice come lo scriverò
+domani."
+
+{{*}} Probabilmente [[Banzen]].
