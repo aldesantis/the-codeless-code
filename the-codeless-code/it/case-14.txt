@@ -1,0 +1,26 @@
+Number: 14
+Title: Ciao, mondo
+Lang: it
+Translator: alessandro1997
+
+Nel loro primo giorno al Tempio, il maestro Java pose le seguenti tre domande ai novizi:
+
+"Spesso, quando impariamo un nuovo linguaggio o una libreria, il primo programma che scriviamo è <em>Ciao, mondo</em>.
+Il suo scopo è di scrivere queste parole in una maniera che dimostri il comportamneto previsto dalla tecnologia. Dopo
+aver fatto ciò, il programma non viene mai più eseguito.
+
+"Ora: perché dice <em>ciao</em>, e non anche <em>addio</em>?
+
+"E: perché dice ciao al <em>mondo</em>, quando il pubblico non è che una sola anima che lo butterà via dopo il suo
+primo vagito?
+
+"E: perché dovrebbe pronunciare un saluto che mai riceverà risposta?"
+
+- - -
+
+Dimmi una parola che significhi <em>ciao</em> e <em>addio</em> -- //
+non è forse il primo vagito di un infante? //
+//
+Troviami una vetta da cui si possa vedere il mondo -- //
+nell'occhio di chi, dunque, sono riflessi ogni tigre //
+e il deserto di sabbia infinita?
