@@ -1,0 +1,23 @@
+Number: 12
+Title: Effetto
+Lang: it
+Translator: alessandro1997
+
+Tre giovani monaci -- uno del [[Spider Clan|Clan del Ragno]], uno della [[Laughing Monkey Clan|Scimmia Ridente]] e uno
+dell'[[Elephant's Footprint Clan|Orma di Elefante]] -- stavano discutendo su quale fosse più importante: il livello web,
+quello business o quello di persisenza. Infine decisero di porre la loro domanda al maestro Java.
+
+Il maestro chiamò uno dei corpulenti giardinieri che lavoravano al Tempio e gli disse: "Picchia e prendi a calci con
+forza questi tre monaci per un minuto. Dopdiché, potrai continuare a picchiarli e prenderli a calci per quanto
+desideri."
+
+Il giardiniere massacrò i monaci per sette interi minuti, quindi si inchinò e uscì.
+
+"Ora" disse il maestro. "Chi ha la colpa più grande per i vostri lividi di oggi? Io, per aver chiamato il giardiniere;
+il giardiniere, per i sei minuti lasciati alla sua discrezione; o le mani e i piedi del giardiniere? Pensate bene alla
+vostra risposta, o lo chiamerò di nuovo."
+
+A dovuta distanza, il monaco del Clan del Ragno disse: "Il carpentiere che ha costruito la prima trave di questo Tempio
+ha la colpa più grande."
+
+Il maestro fu soddisfatto.
