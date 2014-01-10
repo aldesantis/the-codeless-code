@@ -1,0 +1,25 @@
+Number: 15
+Title: Immutabile
+Lang: it
+Translator: alessandro1997
+
+Un novizio era da poco arrivato al [[Temple of Three Stones|Tempio delle Tre Pietre]], dove solo il C era usato. Era
+nuovo al Java, e presto si scontrò con l'immutabilità delle stringhe.
+
+"Voglio solo convertire i contenuti di questo campo in mixed case!" si lamentò. "Ma questo richiede la costruzione di
+uno StringBuffer e di una nuova stringa, con molti caratteri identici copiati tra i due. Per quale motivo sono dunque
+state create le stringhe?"
+
+<img src="/cases/15/egg.png" style="float:right;margin-right:-250px" title="{Sigh}... sì, suppongo che si POSSA bollire l'uovo..." />
+
+Una sorella istruita sentì e lo consigliò: "La moneta di ottone passata da una mano all'altra può ancora essere
+scambiata all'indomani; non è lo stesso per l'uovo." Il novizio fu illuminato.
+
+Presto il novizio iniziò a definire <em>tutte</em> le sue classi immutabili. Non una sola proprietà poteva essere
+modificata: una nuova istanza doveva essere creata con i cambiamenti necessari. I suoi costruttori erano, a volte,
+incredibilmente lunghi e complessi.
+
+Il maestro Java venne a conoscenza di ciò e disse: "Create la forma di un uovo in ottone e datela alla suora ogni
+mattina per colazione."
+
+In questa maniera la suora fu incaricata di correggere il novizio.
