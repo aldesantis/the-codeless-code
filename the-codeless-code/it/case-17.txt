@@ -1,0 +1,21 @@
+Number: 17
+Title: Non inventato da me
+Lang: it
+Translator: alessandro1997
+
+Un monaco del [[Elephant's Footprint Clan|Clan dell'Orma di Elefante]] era stato incaricato di eliminare le pagine di
+codice ridondante create dal clan. Andò dall'abate capo del suo clan in cerca di assistenza.
+
+"Qui, per esempio, ci sono cinque schemi per gestire le preferenze degli utenti" disse il monaco, spargendo le stampe
+sul tavolo. "Devo scegliere quello migliore o implementare un qualche compromesso. In ogni caso almeno quattro moduli
+saranno datialle fiamme, e ai loro autori sarà ordinato di usare il codice di un rivale."
+
+"Allora sei spacciato" disse il prete. "Una volta che il gatto bagna la propria zampa per pescare una carpa dallo
+stagno, non la scambierà per diecimila topi."
+
+Il monaco si passò la mano sul sopracciglio. "E questo è solo uno della dozzina di sistemi ridondanti che devo
+consolidare! Oggi ho visto uno dei fratelli anziani affilare i suoi coltelli da lancio. Non c'è modo di ammansire i
+monaci del nostro clan?"
+
+Il prete portò in alto la sua mano sinistra, cui mancava il dito più piccolo. "Se il gatto non può avere la carpa,
+basterà un pezzetto di chi gliel'ha sottratta."
