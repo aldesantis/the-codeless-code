@@ -1,0 +1,25 @@
+Number: 16
+Title: Documentazione
+Lang: it
+Translator: alessandro1997
+
+Un abate del [[Seven-Clawed Blind Eagle Clan|Clan dell'Aquila Cieca dai Sette Artigli]] stava contando i prodotti dei
+monaci del Tempio, quando si accorse che un monaco del [[Laughing Monkey Clan|Clan della Scimmia Ridente]] non aveva
+prodotto alcun documento di design.
+
+"E se dovessimo scoprire un problema nel nostro sistema di produzione?" chiese l'abate al monaco. "Come potrebbe
+chiunque tranne te scoprire la causa?"
+
+"Il codice stesso dovrebbe essere esaminato" disse il monaco. "Il Documento è una bestia malata, facilmente soggetta
+alle tre Piaghe dell'Errore: omissione, offuscamento e invecchiamento."
+
+L'abate fece rapporto al maestro Java, che disse: "Ordina al monaco di stare in equilibrio su un piede con il bastone
+ben esteso, ogni giorno dall'alba alla mezzanotte. Se può dire una parola che mi piaccia revocherò la punizione,
+altrimenti no."
+
+"Esiste una simile parola?" chiese l'abate.
+
+"È difficile esserne certi" rifletté il maestro. "Ieri ero compiaciuto dal suono di un grillo che friniva doopo le prime
+tre gocce di pioggia. Il giorno prima, lo sciabordio del latte in un secchio mi ha ricordato delle piacevoli memorie
+della mia giovinezza. Forse la risposta sta nella fragranza di un loto bianco che era alla deriva nel lago sotto la mia
+finestra."
