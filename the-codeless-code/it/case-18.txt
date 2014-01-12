@@ -1,0 +1,48 @@
+Number: 18
+Title: Funzionalità necessarie
+Lang: it
+Translator: alessandro1997
+
+Questo stesso monaco dell'Orma di Elefante stava studiando il codice creato dal suo clan. C'erano diverse
+implementazioni rivali di un particolare Oggetto di Accesso Dati; in quel momento stava cercando di decidere quale
+sarebbe stato adottato in via definitiva dal suo clan.
+
+"Ciascuna implementazione ha le sue particolari virtù e i suoi problemi" disse il monaco al maestro Java. "E ciascuna ha
+funzionalità che agli altri mancano. Devo consegnare tutte tranne una ai venti dell'oblio. Come dovrei scegliere?"
+
+<img src="/cases/18/gong.png" style="margin:0 auto"/>
+
+"Non posso rispondere se ho sete" disse il maestro. "Nell'armadietto dietro di te ci sono tre tazze di legno. Riempine
+una al fiume, la seconda al pozzo del Tempio, e la terza dal venditore d'acqua al villaggio. Riportamele tutte senza
+versare una goccia, e ti offrirò tutto l'aiuto che posso."
+
+Il monaco obbedì, e mise tutti e tre i recipienti davanti al maestro.
+
+"Cos'hai imparato?" chiese il maestro.
+
+Il monaco si inchinò. "Se dai una moneta al venditore d'acqua nel villaggio, batterà un gong due volte: una prima di
+riempire la tua tazza, e un'altra quando avrai preso il tuo primo sorso. Se riempi la tua tazza al pozzo del Tempio, non
+suonerà alcun gong, ma il secchio sarà pesante. Se immergi la tua tazza nel fiume, i pesci ne saranno disturbati e il
+dio del fiume dovrà essere placato con l'offerta di dieci pietre bianche."
+
+"Posso bere solo una di queste" disse il maestro. "Quale troverò maggiormente piacevole?"
+
+Il monaco rifletté attentamente. "Il fiume era freddo, ma non completamente limpido. Dal pozzo del Tempio ho già bevuto
+in passato: le sue acque sono amare per via del calcare. E pur non conoscendo il venditore d'acqua, ho sentito molte
+volte il suo gong oggi. Perciò, sceglierei la tazza del venditore d'acqua."
+
+"Una conclusione sensata" disse il maestro. "In effetti, ho visitato questo stesso venditore d'acqua ogni mattina per
+otto anni, e ho sempre trovato l'esperienza assolutamente soddisfacente ogni volta. Qual è la tazza che ha riempito?"
+
+Il maestro sorseggiò dalla tazza indicata, e sul suo viso comparve un'espressione di disappunto. "Giovane fratello"
+disse egli. "Hai del tutto frainteso la mia sete. Dov'è il suono del gong?"
+
+- - -
+
+La sete del maestro è insoddisfatta //
+ma il monaco ha la sua risposta -- //
+quale suono ha fatto la tazza che l'ha versata?
+
+Il monaco avrebbe fatto meglio //
+a mettere un turibolo di ottone sul cornicione //
+e aspettare semplicemente la pioggia.
