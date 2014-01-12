@@ -1,0 +1,21 @@
+Number: 19
+Title: Con qualunque altro nome
+Lang: it
+Translator: alessandro1997
+
+<img src="/cases/19/qi-evolution-top.jpg" style="float:right;margin-right:-150px" />
+
+Al vecchio scriba fu chiesto perché, nei suoi resoconti ufficiali, i molti monaci e preti non fossero nominati, al
+contrario dei tempi e dei clan.
+
+"Se ti dessi un foglio di cifre da contare, daresti prima un nome a ogni numero sette?" chiese lo scriba, congedando
+il curioso con un gesto della mano.
+
+Questo giunse alle orecchie del maestro Java, che annuì e finì il suo tè.
+
+La mattina successiva lo scriba salì nel suo ufficio, solo per trovare scritto il seguente codice in lettere spesse
+sopra la porta:
+
+    public static final int NUM_GIORNI_IN_SETTIMANA =
+
+Vedendo questo, il vecchio scriba [[Qi]] fu illuminato.
