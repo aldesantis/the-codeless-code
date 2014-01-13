@@ -1,0 +1,25 @@
+Lang: it
+Number: 21
+Translator: alessandro1997
+Title: Interruzione
+
+Un certo monaco non voleva allontanarsi dal suo terminale. Per due giorni non aveva dormito né manigato.
+
+Quando il maestro Java decise di investigare, trovò il monaco visibilmente scosso. Sullo schermo stava il seguente
+codice, che in quel momento era in esecuzione nel debugger:
+
+<pre>
+    while (true) {
+       &#x2F;* do nothing *&#x2F;
+    }
+</pre>
+
+"Ho scritto che il ciclo deve continuare finché la stessa verità è vera" disse il monaco. "Eppure se premo il pulsante
+Interrompi, il ciclo termina. L'implicazione è che, in quel preciso momento, <em>la verità non sarà più vera</em>. Come
+osiamo permetterci di disturbare il programma? Potremmo portare il caos nel mondo!"
+
+Il maestro Java si chinò e staccò la spina dal muro. Lo schermo divenne nero.
+
+"Ora il ciclo non potrà mai essere interrotto" disse il maestro.
+
+La mente del monaco trovò pace.
