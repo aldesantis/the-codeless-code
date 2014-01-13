@@ -1,0 +1,36 @@
+Title: Il taccuino rosso
+Number: 24
+Lang: it
+Translator: alessandro1997
+
+Negli annali del [[Temple of the Morning Brass Gong|Tempio del Gong d'Ottone del Mattino]], quanto segue è registrato
+nel capitolo intitolato <em>Unit Testing</em>:
+
+Il maestro Java [[Kaimu]] rispondeva occasionalmente a domande con la sola parola <em>nulla</em>. Quando gli chiedevano
+cosa questo significasse, rispondeva invariabilmente con lo stesso, impenetrabile <em>nulla</em>.
+
+Un giovane monaco, di natura solitaria e cagionevole, iniziò a prendere nota delle domande che ricevevano questa
+risposta. Le copiava in un piccolo taccuino rosso, le cui pagine si riempirono notevolmente nel corso dei mesi. Il
+monaco venne osservato mentre meditava su questo taccuino nella tarda notte.
+
+"Sei dunque riuscito a sbloccare la mente del tuo amato maestro Kaimu?" lo schernirono un giorno i suoi fratelli.
+
+<em>"Nulla"</em> disse il monaco.
+
+Sentendo ciò, gli altri monaci lo presero velocemente e lo colpirono finché non fu gravemente ferito.
+
+Il maestro Java lo venne a sapere, e disse all'abate del clan di investigare. "Ecco quarantotto domande per il giovane
+monaco" disse il maestro. "Riportaemi le sue risposte."
+
+L'abate lo fece. Per la maggior parte delle domande il monaco diede una semplice risposta. Per diverse altre, rispose
+con l'enigmatico <em>nulla</em>. Per il resto, rimase in silenzio.
+
+Il maestro Java si lisciò la barba mentre esaminavva il foglio consegnatogli dall'abate.
+
+"Per la sua risposta alla domanda dodici, colpite le orecchie del monaco, poiché è stato insolente" disse il maestro.
+"Per la sua risposta alla domanda trentuno, frustategli la schiena con una bacchetta di salice, poiché ha prevaricato.
+Quindi dategli un altro taccuino rosso."
+
+"E cosa facciamo dei fratelli che l'hanno picchiato?" chiese l'abate.
+
+"Ricompensateli, giacché hanno fatto un servizio al tempio. Ora so che l'algoritmo del monaco è difettoso."
