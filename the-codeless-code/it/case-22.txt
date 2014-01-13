@@ -1,0 +1,42 @@
+Number: 22
+Title: Sicurezza
+Language: it
+Translator: alessandro1997
+
+Un monaco del [[Laughing Monkey Clan|Clan della Scimmia Ridente]] conosceva bene il software prodotto dal Tempio
+Caritatevole dello Yak Incollerito, e voleva usare uno dei loro moduli nel suo ultimo progetto. Ma il repository di
+codice del tempio era sotto stretta sorveglianza, e il monaco dovette ottenere il permesso dai suoi superiori per usare
+qualunque codice di terze parti.
+
+L'abate capo del suo clan avrebbe accettato il modulo sotto una sola condizione: una classe wrapper doveva prima essere
+prodotta dai sacerdoti. Ogni accesso al modulo sarebbe stato fatto tramite il wrapper.
+
+Disse il prete: "Questo assicurerà che tu non usi funzionalità che sono troppo complicate per le tue abilità. E c'è un
+ulteriore beneficio: se mai dovessimo ritenere l'implementazione dello Yak Incollerito inadeguata, saremo in grado di
+sotituire un altro modulo al back end del wrapper, e nessuno degli utilizzatori del wrapper sarà scomodato dal
+cambiamento."
+
+Il monaco si inchinò e riportò questa conversazione al maestro Java.
+
+Il maestro Java chiamò il prete e suggerì che andassero insieme su per le montagne, per meditare sul miglior modo di
+costruire questo wrapper.
+
+"Guidi tu" disse il maestro.
+
+Si sedettero nella macchina del sacerdote, dove il sacerdote si accigliò.
+
+"Sembra che qualcuno abbia rubato la manopola della frequenza della mia radio" disse il prete.
+
+"Questo è buono" disse il maestro Java. "La musica sarebbe una distrazione pericolosa sulle strade strette."
+
+"Anche le manopole dell'aria condizionata" disse il prete.
+
+"Eccellente!" disse il maestro Java. "L'aria fredda peggiora i reumatismi e causa problemi all'intestino."
+
+Il prete girò la chiave d'accensione, ma solo il silenzio giunse in risposta. Lasciò il suo sedile per investigare.
+
+"In più," disse il prete "sembra che il cofano sia stato saldato."
+
+"Le tue fortune finiranno mai?" urlò il maestro Java. "Ora è certo che nessuno possa danneggiare il motore. E se il
+colore delle ruote dovesse rivelarsi indoddisfacente, mi aspetto che possano essere cambiate senza alcun effetto sulla
+fluidità della navigazione."
