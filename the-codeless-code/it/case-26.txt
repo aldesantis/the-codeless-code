@@ -1,0 +1,16 @@
+Title: Il monaco incorretto
+Number: 26
+Lang: it
+Translator: alessandro1997
+
+Due sacerdoti del [[Seven-Clawed Bling Eagle Clan|Clan dell'Aquila Cieca dai Sette Artigli]] trovarono il maestro Java
+[[Banzen]] che singhiozzava alla sua scrivania. Gli chiesero cosa lo affliggesse tanto.
+
+"Il codice di questo monaco è terribile" disse il maestro. "La struttura dei pacchetti non è intuitiva, i nomi delle
+classi non sono descrittivi, i metodi sono troppo complessi, e i commenti del tutto inutili. Per gli ultimi dieci anni
+ha frequentato ogni lezione che ho dato, e in verità ha seguito le mie istruzioni alla lettera. Eppure i frutti del suo
+lavoro sono estremamente odiosi."
+
+Il primo sacerdote guardò il codice. "Certamente, serve una correzione. Suggerisco che inizi con una semplice frustata."
+
+Il maestro sospirò e annuì, abbassando il suo drappo per denudare le spalle.
