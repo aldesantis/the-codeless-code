@@ -1,0 +1,100 @@
+Title: Cambio di stato
+Number: 127
+Credits: Ispirato dalla richiesta di un lettore.
+Lang: it
+Translator: alessandro1997
+
+Il giovane maestro [[Kaimu]] stava scorrendo la sua casella di posta quando trovò un messaggio di un mittente
+sconosciuto:
+
+    Il mio corpo è brutto, i miei arti strani, il mio viso indecoroso, //
+    dunque nessuno mi guarda e desidera la mia compagnia. //
+    Ho vissuto solo per molti anni.
+
+    Il mio cuore è pesante perché non nessuno lo rende leggero, //
+    dunque passo ogni notte scrivendo codice nella solitudine delle mie stanze. //
+    L'alcol e l'oblio del sonno sono la mia unica via di fuga.
+
+    La mia anima è in continuo dolore, //
+    dunque la miseria mi segue ovunque vada. //
+    Ogni giorno non è migliore dell'indomani.
+
+    La mia mente è rintronata da un impiego inutile, //
+    dunque non ho ottenuto nulla di valore o fama. //
+    Quando morirò, solo polvere rimarrà.
+
+    La mia vita è senz'amici, senza gioia, senza speranza, senza scopo. //
+    Quale saggezza puoi offrire?
+
+- - -
+
+Kaimu portò la lettera a [[Suku]], dicendo: "Io sono solo un teorico, e non so nulla della schiavitù della bruttezza.
+Voi avete perfezionato l'arte della bellezza attraverso il cambiamento incrementale. Quale saggezza potete offrire?"
+
+Suku rispose: "Anch'io soffro le imperfezioni della carne, ma sono nascoste alla vista. Se il corpo è un'applicazione,
+allora il suo codice sorgente non è modificabile e dobbiamo portare la sua interfaccia utente come faremmo con qualunque
+sistema antico. Ahimè, non posso rifattorizzarlo."
+
+Kaimu si inchinò e uscì.
+
+- - -
+
+Kaimu portò la lettera a [[Bawan]], dicendo: "Io sono solo un teorico, e non so nulla del fardello della solitudine. Voi
+avete perfezionato tutte le rappresentazioni fisiche del Numero più solo. Quale saggezza potete offrire?"
+
+Bawan rispose: "Sono ossessionato dagli zero e dagli uno perché quando guardo oltre il mio schermo vedo scendere le
+tenebre. Se il cuore è metà di un'equazione che dev'essere bilanciata con un'uguaglianza, allora anch'io mi scontro con
+la divisione per il nulla. Ahimè, non posso risolvere la tua <em>x</em> se c'è una <em>y</em> sconosciuta."
+
+Kaimu si inchinò e uscì.
+
+- - -
+
+Kaimu portò la lettera a [[Yishi-Shing]], dicendo: "Io sono solo un teorico, e non so nulla di anime dolorose. Voi avete
+perfezionato il funzionamento interno delle macchine. Quale saggezza potete offrire?"
+
+Yishi-Shing rispose: "Cos'è una macchina, se non un artefatto il cui scopo è darci un'illusione di controllo, quando in
+realtà non possiamo controllare neanche il nostro bisogno di fare il respiro successivo? Se l'anima è una macchina, il
+suo involucro è la più nera delle scatole e la sua tastiera per sempre nascosta alla vista dell'umanità. Ahimè, non
+posso amministrarla."
+
+Kaimu si inchinò e uscì.
+
+- - -
+
+Kaimu portò la lettera a [[Banzen]], dicendo: "Io sono solo un teorico, e non so nulla di una vita futile. Voi avete
+perfezionato l'arte di ottenere la perfezione nel codice. Quale saggezza potete offrire?"
+
+Banzen rispose: "Non scambiare l'ossessione per ambizione, o la reputazione per il risultato! La perfezione è il mio
+scopo solo perché la sua assenza è il mio dolore. Ma cosa può mai essere perfetto se perfino la teoria dei numeri è
+incompleta? Cosa può durare se l'Universo stesso è destinato a disfarsi? Ed eccomi: un miserabile sciagurato che non
+sarà contento finché il suo pennello non si poserà sull'ultima cifra del Pi greco! Se la mente è un frattale da cui
+infiniti futuri possono fiorire, noi, infine, non siamo che polvere di Cantor. Ahimè, non so dire come creare qualcosa
+destinato a mutare nel nulla."
+
+Kaimu si inchinò e uscì.
+
+- - -
+
+Kaimu incontrò il monaco [[Shinpuru]], che potava le sue vigne nella serra. Poiché il monaco era più anziano di lui,
+Kaimu disse a Shinpuru della lettera. "I maestri sono in disaccordo su questa questione. Quale saggezza puoi offrire?"
+
+Shinpuru rifletté un momento, quindi disse a se stesso:
+
+"Se il corpo non può essere modificato, allora la sua forma dev'essere sufficiente. Se il cuore non può essere
+completato, allora deve stare solo. Se l'anima non può essere controllata, allora dobbiamo cederle. E se la mente è
+destinata a essere perduta, allora tutto ciò che conta è il presente."
+
+Quindi il monaco rifletté ancora un po', e disse a Kaimu:
+
+"Inizia la tua risposta così: Quando il grande lupo Desiderio tira la tua slitta sul ghiaccio, il suo cucciolo
+Disappunto si stringerà senza dubbio ai tuoi piedi. Allora dovrai riprendere il controllo...
+
+"Quindi consiglia al tuo corrispondente: Trova nel tuo cuore qualsiasi cosa ti dia gioia, non importa quanto possa
+sembrare ridicola. Riempi ogni momento possibile con queste piccole gioie. Se possono essere condivise, ancora meglio:
+vai in posti lontani, incontra persone estranee, ma sta' attento a non cercarvi dei compagni. Cerca solo di condividere
+la tua arte con quelli che te lo chiedono. Ogni momento passato diverrà così la tua eredità."
+
+Shinpuru riprese la sua potatura. "Se cerchiamo di cambiare lo stato interno di un'applicazione ma non possiamo cambiare
+il suo codice, allora dobbiamo cambiare i suoi input e sperare per il meglio. Non è grazie al capriccio che sono
+diventato giardiniere! Ahimè, non posso sapere cosa porterà frutti agli altri."
