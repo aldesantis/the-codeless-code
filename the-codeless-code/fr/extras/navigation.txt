@@ -1,0 +1,14 @@
+Contents = Sommaire
+Topics = Thèmes
+Names = Noms
+First = Premier
+Previous = Précédent
+Next = Suivant
+Last = Dernier
+Random = Au hasard
+About = À propos
+
+Case <N> = Cas <N>
+
+French = Français
+Translated by <XY> = Traduit par <XY>

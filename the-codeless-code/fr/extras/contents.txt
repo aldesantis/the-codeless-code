@@ -1,0 +1,5 @@
+description:
+
+Une collection illustrée de fables (quelquefois violentes)
+sur l'Art et la Philosophie du développement logiciel,
+écrite à la manière des kōans Zen.
