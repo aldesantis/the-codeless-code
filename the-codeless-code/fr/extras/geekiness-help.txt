@@ -1,0 +1,21 @@
+Les degrés de geekitude
+
+Dans le but de ne pas trop frustrer le lecteur, l'auteur a classé chaque cas selon les critères suivants :
+
+Pas geek.
+	Si vous savez ce qu'est un ordinateur, vous pouvez probablement comprendre ceci.
+    Je ne prétends pas que vous /apprécierez/, mais vous devriez comprendre.
+
+Légèrement geek.
+	Mentionne quelques concepts de base du développement logiciel.
+    Le test. La réutilisation. Les boucles infinies. La cafféine.
+
+Modérément geek.
+	Destiné au hacker occasionnel ou au passionné de technologie.
+    Si vous avez programmé avec quelque chose qui ressemble à un langage moderne — Java, C++, Python, Perl — vous serez à l'aise.
+    Les développeurs Prolog trouveront certainement la syntaxe désuète et pas assez cryptique.
+    Les développeurs Lisp souffriront de fatigue oculaire à force de chercher la parenthèse ouvrante.
+
+Extrêmement geek.
+	Destiné aux développeurs endurcis, particulièrement du monde Java.
+    Si votre langage est C#, vous aurez peut-être besoin de préalablement traduire le kōan en Mettant Une Majuscule Initiale À Chaque Mot Pour Rien.

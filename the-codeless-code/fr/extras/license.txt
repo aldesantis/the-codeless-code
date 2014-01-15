@@ -1,0 +1,21 @@
+main footer:
+
+<p>
+	<i><a href='/contents' class='linkhere'>The Codeless Code</a></i>,
+	par Qi (<a href='mailto:qi@thecodelesscode.com'>qi@thecodelesscode.com</a>).
+</p>
+<p>
+	Mis à disposition sous la license <a href="https://creativecommons.org/licenses/by-nc/3.0/deed.fr"
+	>Attribution - Pas d’Utilisation Commerciale 3.0 non transposé.</a>
+</p>
+
+case footer:
+
+<p>
+	Un extrait de <i><a href='/contents'>The Codeless Code</a></i>,
+	par Qi (<a href='mailto:qi@thecodelesscode.com'>qi@thecodelesscode.com</a>).
+</p>
+<p>
+    Mis à disposition sous la license <a href="https://creativecommons.org/licenses/by-nc/3.0/deed.fr"
+    >Attribution - Pas d’Utilisation Commerciale 3.0 non transposé.</a>
+</p>
