@@ -1,0 +1,23 @@
+Number: 3
+Title: Encapsulation
+Lang: fr
+Translator: cdlm
+Illus.0.title: Quoi que vous fassiez, ne lui dites pas que vous devez aller aux toilettes.
+
+
+Un jeune moine, nouveau dans le temple, avait non seulement déclaré toutes ses méthodes publiques, mais également toutes ses variables d'instance.
+Le maître abbé se lassa de réprimander le moine et demanda conseil au maître Java.
+
+Le lendemain, le maître convoqua le moine pour déjeuner avec lui dans son bureau privé.
+
+En entrant, le moine trouva un somptueux repas présenté sur la table de conférence.
+Le maître pria alors le moine de s'allonger au sol.
+
+Après que le moine eut obéi, le maître écarta les robes de celui-ci et sortit un grand couteau.
+Il en pressa fermement la pointe nue dans la poitrine du moine jusqu'à ce qu'une goutte rubis naisse autour de la lame.
+Le moine cria de terreur et demanda au maître quelle était son intention.
+
+« T'ouvrir le ventre, » expliqua le maître « de sorte que je puisse verser le riz et le thé à l'intérieur.
+Mon emploi du temps est déja bien rempli, et je trouve cette façon de nourrir les invités extrêmement efficace. »
+
+Après cela le moine n'eut plus à être corrigé.
