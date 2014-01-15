@@ -1,0 +1,39 @@
+Number: 6
+Title: Rien
+Lang: fr
+Translator: cdlm
+
+En revenant de vacances, l'abbé en chef du [[Laughing Monkey Clan|Clan du singe rieur]] trouva son temple dans la panique et le désarroi.
+Le système financier qu'ils avaient tout juste modifié levait des NullPointerExceptions pour tous les nouveaux clients.
+Ces utilisateurs, extrêmement préoccupés, résiliaient leurs comptes après à peine une journée.
+
+Avec quelque difficulté, l'abbé remonta la trace du problème jusqu'à une méthode dont le but annoncé était de renvoyer une liste des transactions de l'utilisateur.
+En l'absence de transactions, elle renvoyait null, plutôt que la liste vide.
+
+« Amenez-moi le moine qui a écrit cette méthode », ordonna-t-il aux gardes du temple.
+« Ainsi que le moine qui l'invoque dans son code. »
+
+Le premier moine, qui était l'aîné des deux, déclara que la faute en incombait clairement au second.
+« Mon Javadoc était on ne peut plus clair.
+Ça n'est pas ma faute si il n'a pas prévu les nulls. »
+Le second moine baissa la tête de honte et se tut.
+
+L'abbé frappa dans ses mains et deux hautes urnes de jade furent placées sur le sol, une devant chaque moine.
+« Vos peines sont écrites sur des morceaux de papier dedans.
+Chaque jour, vous devrez prendre le premier morceau de papier que votre main touche, et en obéir l'injonction à la lettre, jusqu'à ce que votre urne soit vide. »
+
+Le plus jeune cadet fut prié de commencer.
+Sa main n'avait pas plongé à moitié dans l'urne qu'on entendit le bruissement du papier.
+Il lut le papier, s'inclina, et s'en fut.
+
+Le moine aîné passa le bras profondément dans sa propre urne jusqu'à ce que ses doigts en touchent le fond froid.
+« Il n'y a pas de papier dans cette urne » dit le moine, un sourire au coin des lèvres.
+
+« Ni de poissons, ni dix montagnes », dit l'abbé.
+
+Le moine aîné cria alors de douleur.
+L'urne bascula et éclata en morceaux.
+Un scorpion s'enfuit sur le carrelage.
+
+L'abbé considéra le moine mourant.
+« Tous les riens ne se valent pas. »
