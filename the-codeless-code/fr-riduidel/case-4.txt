@@ -7,7 +7,7 @@ Names: Clan de l'araignée
 Translator: Riduidel
 Lang: fr
 
-Un nouveau prêtre du [[Clan de l'araignée]] se lamentait de la mauvaise qualité du code Javascript produit par ses novices.
+Un nouveau prêtre du [[Spider Clan|Clan de l'araignée]] se lamentait de la mauvaise qualité du code Javascript produit par ses novices.
 
 « Je vais enquêter », déclara le maître Java.
 
