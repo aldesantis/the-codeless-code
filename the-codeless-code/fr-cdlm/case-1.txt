@@ -1,0 +1,23 @@
+Number: 1
+Title: Les Petites Choses
+Lang: fr
+Translator: cdlm
+Illus.0.title: Si vous demandez pourquoi les pieds nus sont interdits dans le temple, vous obtiendrez généralement la même réponse.
+
+Cela faisait trois jours et trois nuits que le maître Java était enfermé dans son bureau.
+Au quatrième jour les moines du temple envoyèrent un novice pour voir ce qui lui était arrivé.
+
+Le novice découvrit le maître devant son tableau blanc,
+en contemplation devant un unique diagramme de flux de données,
+que le novice identifia comme étant d'un composant mineur de l’immense système que les moines avaient été engagés pour maintenir.
+Poliment, le novice demanda au maitre sur quoi il travaillait.
+
+Le maître lui répondit : « Il y a un défaut, et j'étudie la meilleure façon de le réparer. »
+
+Le novice dit :
+« Vous prêchez souvent l’importance de définir des priorités.
+Comment alors pouvez-vous vous laisser obséder par quelque chose d’aussi petit et insignifiant ? »
+
+Sans dire un mot, le maître leva son bâton et l’abattit avec force sur le pied gauche nu du novice, cassant son petit orteil.
+Le novice hurla de douleur et sortit en boitant du bureau.
+À cet instant, il reçut l'illumination.

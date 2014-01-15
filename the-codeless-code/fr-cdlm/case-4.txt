@@ -1,0 +1,21 @@
+Number: 4
+Title: Saules
+Lang: fr
+Translator: cdlm
+
+Un nouveau prêtre du [[Spider Clan|Clan de l'Araignée]] se lamentait de la mauvaise qualité du code Javascript produit par ses novices.
+
+« Je vais enquêter », déclara le maître Java.
+
+Après avoir visité les novices, le maître décréta que les quatre premiers devraient être frappés vivement sur les doigts chaque matin avant que leurs mains ne touchent leurs claviers.
+Pour le cinquième novice, il ne prescrit aucune action.
+Le prêtre demanda au maître pourquoi il en était ainsi.
+
+« La jeune pousse, si elle est bien soignée, peut devenir le saule, mais pas le brin d'herbe », dit le maître.
+
+En entendant cela, le prêtre ordonna qu'on licencie le cinquième novice.
+
+À sa grande surprise, cela irrita grandement le maître Java, et le prêtre lui-même fut jeté dehors.
+Sur son dernier talon de paie, le maître écrivit ceci :
+
+/On ne peut pas s'allonger sur mille saules et contempler le lever du soleil./
