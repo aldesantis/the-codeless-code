@@ -9,16 +9,17 @@ Lang: fr
 
 Un nouveau prêtre du [[Clan de l'araignée]] se lamentait de la mauvaise qualité du code Javascript produit par ses novices.
 
-"Je vais enquêter", déclara le maître Java.
+« Je vais enquêter », déclara le maître Java.
 
-Après avoir visité les novices, le maître décréta que les quatre premiers devraient être frappé fortement sur les doigts chaque matin avant que leurs mains ne soient autorisées à toucher leurs claviers. 
-Pour la cinquième novice, il ne prescrit aucune action. Le prêtre demanda au maître pourquoi il en était ainsi.
+Après avoir visité les novices, le maître décréta que les quatre premiers devraient être frappés fortement sur les doigts chaque matin avant que leurs mains ne soient autorisées à toucher leurs claviers.
+Pour le cinquième novice, il ne prescrit aucune action.
+Le prêtre demanda au maître pourquoi il en était ainsi.
 
-"La jeune pousse, si elle est bien soignée, peut devenir le saule, mais pas le brin d'herbe», dit le maître.
+« La jeune pousse, si elle est bien soignée, peut devenir le saule, mais pas le brin d'herbe », dit le maître.
 
 En entendant cela, le prêtre permit au cinquième novice de se laisser aller.
 
-A sa grande surprise cela irrita grandement le maître Java, et le prêtre lui-même fut jeté dehors. 
-Sur son dernier talon de paie, le maître a écrit ce qui suit :
+À sa grande surprise cela irrita grandement le maître Java, et le prêtre lui-même fut jeté dehors.
+Sur son dernier talon de paie, le maître écrit ce qui suit :
 
 /Nous ne pouvons pas nous trouver parmi un millier de saules et contempler le lever du soleil./
