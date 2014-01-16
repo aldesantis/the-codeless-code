@@ -1,0 +1,23 @@
+Number: 8
+Title: Réduis, réutilise, recycle
+Lang: fr
+Translator: cdlm
+
+Un novice demanda au grand maître : « Quelle est la Voie ?»
+
+Le maître répondit : « L'écriture du code est la Voie »
+
+Le novice demanda alors : « Que n'est pas la Voie ? »
+
+Le maître répondit : « Écrire du code n'est pas la Voie. »
+
+Le novice dit : « Alors l'écriture du code est toute chose. »
+
+Le maître répondit : « Ainsi que la non-écriture du code. »
+
+Le novice demanda : « En cet instant présent, sommes-nous en train d'écrire du code, ou de non-écrire du code ? »
+
+Le maître répondit : « Nous sommes le code. »
+
+
+
