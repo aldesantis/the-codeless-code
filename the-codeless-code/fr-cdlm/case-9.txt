@@ -1,0 +1,32 @@
+Number: 9
+Title: Infinités
+Lang: fr
+Translator: cdlm
+Illus.0.title: Vous pensiez être pauvre parce que vous avez dû partager vos vêtements ? Nous avons dû partager nos JAMBES.
+
+Deux moines du [[Spider Clan|Clan de l'Araignée]] se disputaient pour savoir si la nouvelle routine de validation des données d'entrée était tombée dans une boucle infinie.
+
+« Depuis combien de temps tourne-t-elle ? » demanda l'abbé.
+
+« Pas plus de trente minutes » dit le petit moine pâle.
+
+« Mais pas moins non plus » dit le gros moine bronzé.
+
+« Et depuis ce temps vous n'avez rien fait d'autre qu'attendre qu'elle termine ? » demanda l'abbé.
+
+Les moines baissèrent la tête de honte.
+
+L'abbé fit rapport de l'incident au maître Java, qui acquiesca.
+« Lequel d'entre eux pense que la boucle n'est /pas/ infinie? »
+
+« Le petit pâle », dit l'abbé.
+
+« Alors donnez-lui une outre de vin, car il est sage.
+Aucune boucle ne peut être réellement infinie.
+Le jour ou l'autre l'électricié sera coupée, le serveur rouillera, le temple tombera en ruines, et le soleil engloutira la terre. »
+
+L'abbé s'enquérit, « Et au gros bronzé, qui pense que la boucle est infinie ? »
+
+« Donnez-lui deux outres de vin, car il est plus sage encore.
+Pour l'utilisateur attendant devant son navigateur, dix secondes sont une agonie, une minute est une vie, et tout délai au delà est pour ainsi dire une éternité.
+Quand le tigre attaque l'antilope, l'antilope ne se demande pas si c'est huit griffes ou un million qu'il utilise. »
