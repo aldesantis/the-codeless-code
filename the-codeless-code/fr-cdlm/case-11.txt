@@ -1,0 +1,27 @@
+Number: 11
+Title: Cages
+Lang: fr
+Translator: cdlm
+
+Pour prévenir toute prolifération supplémentaire de code redondant, l'abbé du [[Elephant's Footprint Clan|Clan de l'Emprunte d'Éléphant]] décréta que ses moines ne devaient produire que du code qui soit spécifique à l'application.
+Quoi que ce soit d'une nature plus générale devait être soumis à un Sous-Comité à la Réutilisation Logicielle, qui cherchait des solutions open-source, évaluait les mérites de la proposition par rapport aux besoins des diverses applications, modifiait la conception selon ce que les membres jugeaient opportun, et (si tous les signes étaient favorables) ajoutaient le projet au calendrier d'implémentation.
+Le processus complet, du lancement à l'exécution, prenait de nombreuses semaines.
+
+Quand l'annonce de cette mesure lui parvint, le maître Java envoya chercher les deux oiseaux chanteurs très prisés de l'abbé.
+Son courrier promettait qu'ils lui seraient rendus la semaine suivante.
+Et ils le furent, dans deux cages de bambou de la conception du maître Java.
+
+Les barreaux de la première cage étaient écartées d'une empalmure ; l'oiseau s'était aisément envolé pendant le trajet.
+
+Les barreaux de la seconde cage étaient si rapprochés que ni l'air ni la lumière ne passaient au travers.
+À l'intérieur, l'oiseau arriva mort.
+
+Attaché à chaque cage était un poème de la main du maître :
+
+    Le long de la route //
+    de l'/air/ au /cercueil/ //
+    une lignée de /cages/ demeure. //
+
+    Le nid de la grive //
+    n'abrite ni le vers //
+    ni n'accueille le taureau. 
