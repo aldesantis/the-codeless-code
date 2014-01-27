@@ -27,7 +27,7 @@ Chacun d'entre eux s'est évertué à concevoir, implémenter, intégrer, tester
 Alors il faut mettre au ban du monastère jusqu'au dernier des moines de l'Emprunte d'Éléphant.
 
 « Dois-je en déduire l'ignorance délibérée ?
-Alors la tradition exige qu'ils se fouettent aux orties, et qu'/ensuite/ on les mette au ban.
+Alors la tradition exige qu'ils se fouettent aux orties, et qu'<i>ensuite</i> on les mette au ban.
 
 « Dois-je en déduire le mépris pour la préciosité du temps ?
 Si oui, les oubliettes attendent...
