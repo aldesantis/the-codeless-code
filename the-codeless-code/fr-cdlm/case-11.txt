@@ -19,7 +19,7 @@ Les barreaux de la seconde cage étaient si rapprochés que ni l'air ni la lumi�
 Attaché à chaque cage était un poème de la main du maître :
 
     Le long de la route //
-    de l'/air/ au /cercueil/ //
+    de l'<i>air</i> au /cercueil/ //
     une lignée de /cages/ demeure. //
 
     Le nid de la grive //
