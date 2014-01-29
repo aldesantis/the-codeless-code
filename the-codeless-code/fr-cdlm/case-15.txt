@@ -1,0 +1,27 @@
+Number: 15
+Title: Immuable
+Lang: fr
+Translator: cdlm
+Illus.0.title: {hmff}… oui, bon, avec un œuf dur…
+
+Un novice était récemment arrivé du [[Temple of Three Stones|Temple de Trois Pierres]] où on n'utilisait que C.
+Il débutait en Java, et bientôt il tomba sur l'immutabilité des Strings.
+
+« Je souhaite seulement convertir le contenu de ce champ en casse mixte ! » se plaignit-il.
+« Mais cela implique la construction d'un StringBuffer, et ensuite d'une nouvelle String, avec plein de caractères recopiés à l'identique entre eux !
+Pourquoi au juste les String ont-elles été conçues ainsi ? »
+
+Une sœur expérimentée entendit cela, et lui suggéra :
+« Une pièce de bronze qui passe de main en main peut toujours être échangée le lendemain ; on ne peut pas en dire autant d'un œuf. »
+Le novice reçut l'illumination.
+
+Le novice se mit à rendre /toutes/ ses classes immuables.
+Pas une seule propriété ne pouvait être modifiée : une nouvelle instance devait être construite à chaque changement.
+Ses constructeurs étaient quelquefois étonnamment longs et complexes.
+
+Le maître Java eut vent de ceci, et dit :
+« Qu'une forme d'œuf soit coulée en bronze, et donnée à la nonne pour son petit déjeuner. »
+
+C'est ainsi que la nonne fut chargée de corriger le novice.
+
+
