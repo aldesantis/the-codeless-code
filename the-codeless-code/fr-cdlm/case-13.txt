@@ -1,0 +1,23 @@
+Number: 13
+Title: Évolution
+Lang: fr
+Translator: cdlm
+
+Un novice étudia le code du maître Java{{*}} et adopta le style de celui-ci avec la plus grande précision :
+les patrons de conception employés, les conventions de nommage des variables, le nombre d'espaces utilisé pour indenter chaque bloc imbriqué dans un autre.
+Même les commentaires étaient une impressionnante imitation du ton du maître.
+
+Lors de sa revue de code suivante, à la grande surprise du novice, le maître était extrêmement mécontent.
+
+« Mais, maître, » protesta l'étudiant.
+« J'ai suivi votre propre exemple au point-virgule près.
+Voyez, ceci est une classe que vous avez écrite il n'y a pas un mois :
+ne ressemble-t-elle pas à mon code comme deux gouttes d'eau ? »
+
+« C'est bien là le problème, » rétorqua le maître furieux.
+« Hier j'étais stupide, il y a une semaine un idiot, et il y a un mois un imbécile.
+Ne me montre pas de code que j'aurais pu écrire hier.
+Montre-moi du code tel que je l'écrirai demain. »
+
+{{*}} Probablement [[Banzen]].
+
