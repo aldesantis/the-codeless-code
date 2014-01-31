@@ -1,6 +1,6 @@
 Number: 22
 Title: Sicurezza
-Language: it
+Lang: it
 Translator: alessandro1997
 
 Un monaco del [[Laughing Monkey Clan|Clan della Scimmia Ridente]] conosceva bene il software prodotto dal Tempio
