@@ -50,12 +50,3 @@ notebook."
 I now know the algorithm of the monk to be flawed."
 
 
-###END ############################################################
-
-== Notes
-
-Kaimu is Japanese for "nothing".
-
-The 48 questions is a reference to the 48 koans of the
-Gateless Gate.
-

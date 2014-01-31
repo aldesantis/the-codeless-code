@@ -32,4 +32,3 @@ When the monk came to, the master asked: "What did I say of commits?"
 Djishin held his throbbing head and replied: "I cannot remember".
 
 The master declared: "Rollback!"
-

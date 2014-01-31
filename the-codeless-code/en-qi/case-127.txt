@@ -131,5 +131,3 @@ inner state of an application but we cannot change its code,
 then we must change its inputs and hope for the best.  It is
 not by whim that I became a gardener!  Alas, I cannot know
 what will bear fruit for others."
-
-

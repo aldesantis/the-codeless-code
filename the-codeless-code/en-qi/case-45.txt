@@ -78,7 +78,3 @@ answer from us?" asked the novice.
 of Object-Orientation, I would call your attention to the
 Unwritten Hierarchy, in which /Master/ is but a
 subclass of /Student/."
-
-
-
-

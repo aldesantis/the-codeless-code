@@ -43,26 +43,3 @@ The essence of thread safety //
 
 
 
-###END
-
-
-When Satou had seated herself in the master's tea room,
-Banzen took a ladle of boiling-hot water from the iron pot
-and poured it directly onto Satou’s tatami mat.  Satou
-yelped in surprise, leaping from the floor to avoid being
-scalded.  The master calmly beat the spreading puddle with
-his whisk as he set an empty bowl in its center.  Finally he
-spooned powdered green tea into the dry bowl.
-
-
-BOWL
-       WATER
-TEA
-       WHISK
-
-=>
-
-        WATER
-BOWL
-        WHISK
-TEA

@@ -35,4 +35,3 @@ The nun asked: "How will I know when I have learned enough
 to use threads wisely?"
 
 Banzen replied: "When you no longer wish to use them."
-

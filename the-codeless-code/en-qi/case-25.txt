@@ -21,5 +21,3 @@ proceed consistently, and thus avoid chaos?"
 
 "Yes," said the Java master.  "Were neither of you paying
 attention?"
-
-

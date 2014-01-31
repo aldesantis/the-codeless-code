@@ -48,16 +48,3 @@ if it cannot drive my little tack straight and true."
 {{2}} Questions such as "What is your blood type?" and "How would you rate your tolerance for physical pain?" were usually handled by Human Resources.
 
 
-###END
-
-There are 4 traditional types of Chinese weapons -- dao
-(sabre, often translated as "knife"), gun (stick or staff),
-qiang (spear), and jian (sword).  Since this example is about
-subclassing, I made the "knife" a special type of short sword.
-
-Anyway this isn't China, or Japan, or anywhere else real.
-My world, my rules.
-
-
-
-

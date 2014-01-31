@@ -20,6 +20,3 @@ The novice asked, "At the present moment, are we writing
 code, or not writing code?"
 
 The master replied, "We are the code."
-
-
-

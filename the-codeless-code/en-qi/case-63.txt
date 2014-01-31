@@ -41,6 +41,3 @@ this project until my brains turn to jelly?"
 <i>"Wú,"</i> said the nun.  She selected the directory that held the
 subsystem's source code, hit the delete button, and crawled
 out the door.
-
-
-
