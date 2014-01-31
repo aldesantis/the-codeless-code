@@ -1,7 +1,7 @@
 Title: Les Petites Choses
 Number: 1
 Lang: fr
-Translator: Luke
+Translator: luke
 Illus.0.title: Si vous demandez pourquoi les pieds nus sont interdits dans le temple, vous obtiendrez généralement la même réponse.
 
 Cela faisait trois jours et trois nuits que le maître Java était enfermé dans son bureau.
