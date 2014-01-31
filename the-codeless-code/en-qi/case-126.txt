@@ -1,0 +1,68 @@
+Date: 2014-01-05
+Number: 126
+Title: Tea for Two
+Names: Banzen, Satou
+Topics: thread safety, race conditions
+Geekiness: 2
+Illus.0.src: Puddle.jpg
+Illus.0.title: Stop looking up her robes.  Yes, I'm talking to YOU.
+
+Like many her age, the young nun [[Satou]] had an
+irrepressible curiosity: the less she knew about a thing,
+the more she wanted to try it.  Thus she had elected to use
+multithreading to improve performance in her log processing
+utility, despite [[#121|master Banzen's cautions]].
+
+Banzen reviewed her code, then invited the nun to discuss
+his findings during the morning tea break.
+
+When Satou had seated herself in the master's tea room,
+Banzen picked up an empty bowl with his left hand while
+his right hand took a ladle of boiling-hot water from the
+pot and poured it directly onto Satou’s tatami mat.  Satou
+yelped in surprise, leaping from the floor to avoid being
+scalded.  The master calmly set the bowl in the center of
+the spreading puddle as his right hand beat the puddle with
+a whisk.  Then his left hand reached for a bamboo scoop
+and began to spoon green tea powder into the dry bowl.
+
+"Now," said Banzen.  "Let us discuss race conditions."
+
+
+== Qi’s commentary
+
+But first, sit down and come in.
+
+
+== Qi’s poem
+
+Flowing from my brush //
+Glowing on my screen //
+Four lines readable in any order //
+The essence of thread safety //
+
+
+
+###END
+
+
+When Satou had seated herself in the master's tea room,
+Banzen took a ladle of boiling-hot water from the iron pot
+and poured it directly onto Satou’s tatami mat.  Satou
+yelped in surprise, leaping from the floor to avoid being
+scalded.  The master calmly beat the spreading puddle with
+his whisk as he set an empty bowl in its center.  Finally he
+spooned powdered green tea into the dry bowl.
+
+
+BOWL
+       WATER
+TEA
+       WHISK
+
+=>
+
+        WATER
+BOWL
+        WHISK
+TEA

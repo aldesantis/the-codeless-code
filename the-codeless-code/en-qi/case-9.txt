@@ -4,6 +4,10 @@ Number: 9
 Geekiness: 1
 Topics: philosophy, infinity, loops
 Names: Spider Clan
+Illus.0.src: Lotus-050.jpg
+Illus.0.par: 0
+Illus.0.title: You think YOU were poor because you had to share your CLOTHES?  We had to share our LEGS.
+
 
 Two monks of the [[Spider Clan]] were arguing whether the new
 input validation routine was caught in an infinite loop.
@@ -38,8 +42,6 @@ waiting at his browser, ten seconds is agony, a minute is an
 aeon, and anything longer is effectively an eternity.  When
 the tiger mauls the antelope, the antelope does not question
 whether eight claws were used, or a million."
-
-<div style="width:100%;text-align:center"><img src="/cases/9/Lotus-050.jpg" title="You think YOU were poor because you had to share your CLOTHES?  We had to share our LEGS." style="margin:0 auto"/></div>
 
 
 

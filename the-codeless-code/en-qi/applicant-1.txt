@@ -1,0 +1,130 @@
+Series: 1
+Number: 1
+Date: 2012-08-05
+Title: The Applicant
+Part: 1
+Subtitle: The Hermit
+Geekiness: 2
+Names: Aaradhya, Temple of the Morning Brass Gong, Spider Clan, Clan of the Lubricious Serpent
+
+
+The [[Temple of the Morning Brass Gong]] had sent out word
+of several vacant beds in its cluster of little abbeys.  A
+popular rumor was that there had been <a href="/case/49">an
+unsatisfactory incident involving paper,</a> the result of
+which was that a number of monks had been "sacked."  The
+term was not slang: at the temple, actual sacks were used.
+Once bound in burlap the unfortunates were sent rolling like
+logs down the mountainside, where the lucky ones would smash
+into pine trees with great force.  The unlucky ones would
+miss the pines and sail straight over the edge of the cliff
+beyond.
+
+(This was by no means the worst fate that a monk might face.
+Initiates were generally more worried about being "fired," a
+ritual involving saltpeter, sulphur, charcoal, and a
+large cannon.  More painful still was the cost-cutting
+measure known as “downsizing,” whereby monks were made to fit into
+smaller cots via the removal of several inches of
+unnecessary height, proceeding either from the toes upward
+or (in the case of management) from the neck downward.  And
+no one who worked in the kitchens wished to contemplate the
+five-day process involved in getting “canned.”)
+
+- - -
+
+News of the vacancies reached a novice named Aaradhya.  Her
+home was in a hot country very far from the temple, a place
+of balding hills beaten into submission by a relentless sun.
+Dust was ever in the air.  It coated skin and teeth and
+circuit-board alike.  Unlike her family Aaradhya had grown
+less used to it with each passing day, and after twenty
+years of breathing it she had had quite enough.
+
+The temple's website decreed that interviews were indeed
+being held, but it provided neither contact information nor
+a form for expressing interest.  Curiously, even the
+location of the temple was undisclosed.
+
+Aaradhya pored over each page and eventually found a
+telephone number rendered in white on a white background.
+But the voice who answered said that she'd merely reached the
+hermitage that hosted the temple's public site.
+
+"I would be most grateful if you would tell me the
+number of the temple itself," said Aaradhya, dipping her
+brush in a pot of black ink.  She stirred it to mix
+down the thin film of grit.
+
+"Four, oh three," replied the hermit.  Aaradhya copied
+the digits and waited for the hermit to
+continue, but the other end of the line was silent.
+
+"And may the rest of the number be told?" asked Aaradhya.
+
+"Four oh three," replied the hermit.  Again there was a long
+pause, and again the quantity of digits was still
+insufficient.  Aaradhya laid down her brush, tapping her
+index finger on the table in contemplation.
+
+"Fetch me an emerald the size of a plover's egg," she
+commanded.
+
+"Four oh four," replied the hermit, and Aaradhya smiled with
+satisfaction, for she knew she had divined his algorithm.
+
+"Surely you are no rootless hermit but a brother of the
+[[Spider Clan]]," she said, "for you answer according to
+their legendary custom.  Is there a means by which the
+temple may be contacted by this humble petitioner?"
+
+"Two hundred times must I answer yes."
+
+"And may your esteemed person impart that means?"
+
+"Two hundred and four times must I answer no."
+
+"Brother hermit, you are indeed a master of webs,
+for I am most thoroughly caught in one.  Can you not
+offer this poor novice so much as a redirect?"
+
+"Three hundred and one times would I send you back to where
+you came from; yet assuredly this is where you should wish
+to be," said the hermit.  There was a short beep, then
+a perfect electronic silence.
+
+Aaradhya put down her phone.  The page with the hermitage's
+number still glowed on her screen.  It said little of
+importance, or perhaps so it seemed; for it was written
+entirely in enthusiastic hyperbole laced with polysyllabic
+buzzwords -- a dialect unique to the thrice-despised Clan of
+the Lubricious Serpent.  Aaradhya attempted to decipher some
+useful meaning from the passages until her eyes went dry and
+her head pounded.  Eventually she sat back in defeat,
+contemplating her next move.  The page's tranquil background image
+depicted the temple grounds on a misty morning: rising fog
+faded elegantly into the white content area.  The sun was
+pale and cool.
+
+Indeed, she thought: if this is where I should wish
+to be, then this is where I /must/ be.  For it is
+as my old C master taught me: the char pointer may
+be set to null, but the char array never so.
+Telepresence is at best a fragile proxy for /presence./
+
+Thus did Aaradhya bid her family goodbye, sling her bowl on
+her back and her jug around her shoulder, and set out for
+the distant province where the temple was rumored to lie.
+
+<p style="font-size:88%;
+background-color:#fff;color:#fff;">(Yes, yes, you're very
+clever.  But obviously I'm not giving you my phone number here.)</p>
+
+###END
+
+
+where dusty roads ran under the shadow of tamarind trees
+whose sweet dates fell for the taking.
+
+
+

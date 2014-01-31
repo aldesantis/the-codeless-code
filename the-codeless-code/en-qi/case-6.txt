@@ -5,9 +5,7 @@ Number: 6
 Geekiness: 3
 Names: Laughing Monkey Clan
 Topics: error handling, null, exceptions
-
-<img src="/cases/6/Urn.jpg"
-     class="illus-right" />
+Illus.0.src: Urn.jpg
 
 Upon returning from vacation, the chief abbot of the
 [[Laughing Monkey Clan]] found his temple in a state of panic

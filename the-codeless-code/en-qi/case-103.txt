@@ -62,3 +62,52 @@ and then closed the box, enlightened.
 
 
 
+###END
+
+A certain nun had been assigned a new application to
+develop, and was considering how to best prepare for the
+bugs that would inevitably surface when the system went
+operational.  She knew that frequent, detailed debug
+messages would be her most powerful weapon, yet she was
+concerned about impacting the system's performance
+during normal operation, when debugging would be turned off
+and all her elegantly-formatted messages would be discarded.
+
+After much consideration, the nun decided to wrap every
+/debug/ call inside an /if/ statement which would first
+verify whether debugging was turned on.  If it was off, then
+no attempt would be made to format and log the message.
+
+The nun employed this coding pattern quite diligently, and
+enjoyed much success in the early weeks after deployment:
+when the odd problem appeared, the nun would have debugging
+turned on and the logs would fill with her messages.  At
+such times the system ran slowly, but problems were resolved
+quickly.
+
+Upon learning of the nun's technique, master [[Bawan]] sent her
+two congratulatory presents sealed in two enamel boxes.
+He bade her open the red box immediately, but to leave the
+black one closed until he sent word.  Inside the red box
+was a succulent plum.  The contents of the black box remained
+a mystery; eventually, she placed it on a high shelf and
+forgot about it.
+
+Two years later, after the system had undergone several
+major enhancements, a small production problem appeared --
+the first in many releases.  The nun requested that the
+system be restarted in debug mode.
+
+Suddenly, stack traces from NullPointerExceptions appeared
+on the screens of every user; that system had become completely
+unusable.  Frantically the nun had the system restarted with
+debugging turned off, and all went back to normal.
+Upon investigation, she discovered that the exceptions had
+come from certain old /debug/ calls whose assumptions about
+the objects they logged had been invalidated by recent code
+changes.
+
+
+
+
+

@@ -3,6 +3,22 @@ Number: 33
 Date: 2011-04-20
 Geekiness: 1
 Topics: complexity, elegance, refactoring
+Illus.0.src: balloon-1.png
+Illus.0.par: 2
+Illus.0.style: float:right; margin-right:0px
+Illus.1.src: balloon-2.png
+Illus.1.par: 6
+Illus.1.style: float:right; margin-right:-50px
+Illus.2.src: balloon-3.png
+Illus.2.par: 9
+Illus.2.style: float:right; margin-right:-100px
+Illus.3.src: balloon-4.png
+Illus.3.par: 14
+Illus.3.style: float:right; margin-right:-150px
+Illus.4.src: hermitage.jpg
+Illus.4.par: last
+Illus.4.align: center
+Illus.4.title: Yes, but he doesn't get much mail anyway.
 
 A senior monk, recently inducted into the temple, approached
 the Java master in frustration:
@@ -18,8 +34,6 @@ Background jobs seek and modify database records for no
 documented reason, and the database itself conspires against
 me: a simple update of one table can trigger a cascade of
 inserts and deletes in others."
-
-<img src="/cases/33/balloon-1.png" style="float:right;margin-right:0px" />
 
 "I see two paths before you," said the Java master.  "In the
 first, you make only the necessary additions and quickly
@@ -41,8 +55,6 @@ cliff.  A learned brother dwells there who keeps copies of
 our client's documentation.  He will advise you on the
 design of the system."
 
-<img src="/cases/33/balloon-2.png" style="float:right;margin-right:-50px" />
-
 The monk did as he was told, and at sunset came to the
 hermitage, which was a building unlike any he had ever seen.
 
@@ -63,8 +75,6 @@ together with lines of hemp, tied off at a windowsill here
 and a weathervane there, as though some great drunken spider
 had caught a hundred huts in its web.  The structure swayed
 sickeningly in the gentle breeze, creaking as it did.
-
-<img src="/cases/33/balloon-3.png" style="float:right;margin-right:-100px" />
 
 The monk stood gaping for a while, then recovered himself
 and struck the gong.
@@ -93,8 +103,6 @@ of any allergies?  Pollen?  Ragweed?  I once watched seven
 rooms collapse and tumble down the cliff in answer to a
 vigorous sneeze..."
 
-<img src="/cases/33/balloon-4.png" style="float:right;margin-right:-150px" />
-
 "But this is madness!" cried the monk.  "Now that you have
 some sense of how many rooms are needed, can you not tear
 down this monstrosity and start anew?"
@@ -119,5 +127,5 @@ The monk only bowed and departed back down the road, having
 already obtained the promised enlightenment from the
 hermitage.
 
-<img src="/cases/33/hermitage.jpg" title="Yes, but he doesn't get much mail anyway." />
+
 

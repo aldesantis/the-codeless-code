@@ -1,0 +1,89 @@
+Date: 2013-12-07
+Number: 122
+Title: Craftsmanship
+Names: Bawan, Harmful Go-To Clan, Elephant's Footprint Clan, Clan of Iron Bones
+Geekiness: 1
+Topics: craftsmanship, pride, improvement, progress
+Illus.0.src: Sculptor.jpg
+Illus.0.title: We have learned about cultures thousands of years old from the carvings they have left behind in oak and stone.  Meanwhile, I have terabytes of data on digital media that will be unreadable in a few decades.  The Rosetta Project has the right idea -- if it's important, carve it in something that will last 10,000 years.
+
+Master [[Bawan]] was conducting an initiate monk through the
+temple grounds.  Eventually they came to the Hall of Wasted
+Hours, where the abbots held their morning meetings.  Bawan
+pointed to the four massive oak pillars that held up the
+oldest part of the hall.  Scenes of temple life had
+been carved into each, on all four sides and stretching from
+floor to distant ceiling.  The intricate figures possessed
+such astounding verisimilitude that the monk could almost
+hear the clacking of abaci.
+
+"These were fashioned two hundred years ago by a monk of our
+order," said Bawan.  "It took him six years, laboring every
+night with a hammer and chisel, his work lit only by the
+glow of a single flickering cathode tube."
+
+Further down they came to another square of four pillars,
+identical to the first square in every way.
+
+"These were made a hundred years ago by monks of the
+[[Harmful Go-To Clan]], which has since been banished," said Bawan.
+"They replicated the originals with a bamboo pantograph secured to
+an electric router.  It took them six months, working by the
+light of a discarded CRT running [[#1-2|Anantha's Fountain]]."
+
+Further down they came to yet another square of four pillars,
+even more like the originals.
+
+"These were created fifty years ago by three nuns of the
+[[Elephant's Footprint Clan]], which tends our databases
+and secures our history," said Bawan.  "The nuns traced
+the contours of the originals and fed the coordinates
+into a programmable milling machine.  The measuring
+took six weeks; the carving a few days."
+
+Finally they came to the new south portico, supported by a
+final square of pillars so like the first that the slightest
+stray chisel mark had been reproduced faithfully.
+
+"These were installed ten years ago by one of our summer
+interns," said Bawan.  "He photographed the originals with
+high resolution digital cameras, combined the data into a
+three-dimensional topographic mesh with sub-millimeter
+resolution, and outsourced the manufacture to a mill in
+the next province.  Six days, end to end."
+
+Bawan faced the initiate monk.  "Which set of pillars is of
+greatest value to the Temple?"
+
+The monk considered and said, "The ones that exist purely as
+data gathered by the intern.  For though they have neither
+height nor breadth nor weight, still from them all other
+pillars could be remade."
+
+Bawan bowed and led the monk out.
+
+- - -
+
+That night Bawan walked alone by lantern light through the
+hardware archives of the [[Clan of Iron Bones]], in the
+deepest cellars under their abbey.  Finding at last the
+particular VAX mainframe he sought, Bawan hooked up a dusty
+VT100 terminal, flipped on the power toggle, and opened a C
+source file that had not been compiled for a quarter of a
+century.
+
+Bawan noted with satisfaction how perfectly the statements
+had been indented, how descriptive the function and variable
+names were, how thoroughly each parameter had been
+commented.  He smiled at a few TODO and FIXME comments: an
+appeal to a future that would never answer back.  Then he
+scrolled to the top where his own name and email address
+appeared proudly.
+
+"The initiate was only half-right," said Bawan to the
+emptiness.  "True, the value lies not in carven oak, but
+neither does it lie in the shape of the carving; for both
+the real pillar and the virtual one may be lost, and the
+temple will be no poorer.  But when wood first yields to
+metal, one more thing is made: and that is the sculptor."
+

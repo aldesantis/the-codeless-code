@@ -3,15 +3,12 @@ Title: The Small Stuff
 Number: 1
 Geekiness: 0
 Topics: perfection
+Illus.0.src: foot.jpg
+Illus.0.title: Asking the Java master why bare feet are prohibited in the temple usually results in the same answer.
 
 For three days and nights the Java master did not emerge
 from his cubicle.  On the fourth day the monks of the temple
 sent a novice to inquire after him.
-
-<img src="/cases/1/foot.jpg"
-     style="float:right; margin-right:-250px"
-     title="Asking the Java master why bare feet are prohibited in the temple usually results in the same answer."
-     />
 
 The novice found the master at his whiteboard, contemplating
 a single dataflow diagram.  The novice recognized it as a

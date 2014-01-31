@@ -1,0 +1,155 @@
+Date: 2014-01-19
+Title: The Prison of Infinite Pleasures
+Number: 128
+Geekiness: 3
+Names: Clan of Iron Bones
+Topics: philosophy, distraction, obsession, addiction, simulation, image rendering, fractals, time
+Illus.0.src: stairs.jpg
+Illus.0.title: Staircases are usually undesirable in raster images, so when no one's looking we bring our skateboards to the top and antialias it.
+
+Winter had come to the Temple in full bitter force, so a
+novice of the [[Clan of Iron Bones]] chose to spend his
+leave time visiting brethren in Phong Province to the
+south.  The monks of that place worked on the planes of a
+great render farm, where the directional light was
+gloriously warm regardless of the season.
+
+All morning the novice watched as learned brothers scurried
+to and fro, planting random number seeds, building
+bounding-boxes, or wrapping wire frames around even the
+tiniest model so that its pixels would blossom in just the
+right places.  Thus were produced succulent scenes of
+every shade and hue, to please the tastes of the Imperial Court.
+
+As midday approached, the novice's stomach began to rumble.
+Since he required an escort to venture into the temple
+proper, the novice approached a pleasant-looking boy
+about his own age, who was rigging artificial light
+sources above a grove of small quadtrees.  The boy's
+clothes were of a rough sturdy linen, yet as testament to the
+rigor of his duties the once-solid hues had been worn down
+to dithered bits, both knees were covered with
+bi-quadratic patches, and the right cuff showed signs of
+aliasing.
+
+"Ten thousand pardons," said the novice (feeling all the
+more guilty for his own idleness) "but this miserable body
+will gnaw at me until I feed it a bowl of rice.  Where is your
+master, that I may beg or barter with him?"
+
+"In his chambers, where very soon I must go to bring him his
+bowl," said the boy.  "Walk with me as I fetch it and I will
+fill your own as well, for at this time of year
+our buffers are always full."
+
+The novice accepted a generous helping of rice, then
+followed the boy on his errand up the dim spiralling staircase
+which was the temple's only hallway.  It was built thus, the
+boy explained, to baffle stray photons.
+
+"For glare is ever our enemy," said the boy, pushing open
+the door to his master's chamber.  "Although there are greater
+perils, as my master could certainly tell you, if he
+were here."
+
+The novice followed the boy inside, puzzled.  The high
+windowless room was lit only by the diffuse glow of a
+monitor on a solitary desk.  The surface of the wide monitor
+could not be seen from this angle, but the glassy stare of
+the motionless, drooling old man behind it made the novice's
+hair stand on end as surely as if his scalp had commanded
+every follicle to indicate its normal vector.
+
+The boy slowly set the bowl down in front of his master,
+then backed away, taking care to avert his eyes from the
+screen.
+
+"He is lost," explained the boy bitterly.  "You see, long
+ago he devised an ingenious algorithm for rendering any
+part of the /mandelblob/ in the wink of an eye..."
+
+"I have heard of this shape," interrupted the novice,
+unable to tear his gaze from the master's visage.  "Rumors,
+only... a dread equation so small it may be inscribed on my
+little finger, yet describing a fractal sphere of infinite
+complexity."
+
+"Not just a sphere," continued the boy.  "A world; a
+worm-eaten world, implicit in the laws of number theory.
+Permeated by caves within caves within caves, their walls
+scarred by gaping chasms, yawning cracks and belching
+crevices.  Pick any taffy-twisted tunnel, the smoothest you
+like, and if you zoom in far enough you'll find that the
+surface wriggles and blisters and boils like putrid flesh on
+the cusp of liquescence, sprouting flaccid stalagmites
+a-crawl with mushrooms, mushrooms on mushrooms on mushrooms
+too tiny to be imagined, until they vanish into their own
+asymptotes, erupting on the other side as spores above
+spores above spores; and each spore is its own worm-eaten
+world as infinitely complex as its progenitor, yet
+perversely different from it too...
+
+"My master had barely begun to explore this shape
+when by some accident he zoomed too deep into one
+particular nanoscopic nodule, one random spore among
+billions, and found -- or so he claimed -- that it was a
+verisimilitudinous image of <i>our own world.</i> Yes!
+Mathematical mountains exactly where /our/ mountains lie,
+bursting with needled protuberances like ferns or fir-trees
+-- all the same sickly amber hue, like the virtual cumuloids
+that hover above, and the simulated shorelines gritty with
+picoparticles of amber sand, where amber waves of graininess
+stand poised to break but never do; for this is a
+<i>three</i>-dimensional world, and for want of fourth
+nothing moves, not even the people.  Yes, people!
+Monochromatic statues grotesque in face and form, yet human
+down to the eyelash-hairs, to the pores in their nostrils,
+like caves within caves...
+
+"But in his trembling haste to plumb the depths of this
+flyspeck world, my master clicked left instead of right.
+His cursor jumped sideways and the crucial coordinates were lost
+forever.  I am told his howls of anguish could be heard
+in the surrounding hills.  Every monk of the temple rushed to
+this chamber, frantic to learn what great disaster had befallen.
+And thus did he relate the tale of his discovery.
+
+"The other masters laughed at him, called him a liar or mad.
+Even monks of low station shunned him.  So he set out to
+clear his name by finding those fateful coordinates again.
+
+"Days became weeks, became months, became years, and now see
+what he is reduced to: a prisoner of the Unit Sphere,
+forever wandering while going nowhere, held captive by
+his own obsession.  For a time, perhaps, he believed he had
+stumbled onto some Great Truth of the Universe, a calculable
+correspondence between the world of flesh and the one of
+figures.  Now I cannot guess what landscapes he wanders, or
+why -- nor would I wish to, lest I succumb to some
+irresistable fascination and so share his fate.  It is said
+that fore-warned is fore-armed, but for me at least... I
+fear my mind.  When the real meets the imaginary, their
+product is always complex."
+
+The novice edged forward to peer around the edge of the
+screen, but the boy stopped him.
+
+"Take your rice and leave this cursed place," said the boy.
+"And bring this one truth back to your own temple: that the
+Render Farm of Phong Province is no better than a poppy
+field, where daily we sow the doom of our people."
+
+"I do not see," said the novice.
+
+"The Emperor has but to name a pleasure -- the thrill of
+battle among the stars, the viewing of immodest persons
+engaged in lecherous activities -- and we will serve it to
+his private chambers in six million pixels of sixteen
+million colors at sixty frames a second.  But do not envy
+him this.  Instead fear the day that you and I enjoy the
+same liberty.  For though we have created an eternity of
+wonders here, none of us are given an eternity to explore
+them.  How precious is time; and how empty, ultimately, is
+any world but our own."
+
+

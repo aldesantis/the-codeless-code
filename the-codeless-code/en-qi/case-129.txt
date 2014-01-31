@@ -1,0 +1,46 @@
+Date: 2014-01-27
+Title: Like a Rolling Stone
+Number: 129
+Names: Landhwa, Wangohan
+Topics: laziness, joy-coding, utilities
+Geekiness: 2
+Skip: 1
+
+Even on the best of days the monk [[Wangohan|Wangohan's]] mood would
+rival old vinegar, but the long bleak winter had soured it
+still more.  Many were the target of his scorn, but none
+moreso than the monk [[Landhwa]]:
+
+"His lazyiness is no secret," Wangohan complained to one
+poor novice at mealtime (who all-too-late understood why the
+seats near Wangohan were always empty), "yet from his
+masters he receives no correction.  He presents the
+/illusion/ of being industrious but in truth he is coding
+his own pet projects.  I asked him to implement a dozen
+simple DAOs; he chafed at the tediousness of the task,
+then wasted a week developing a DAO-code-generator to spit
+them out!"
+
+When the gong called the brothers back to their cubicles,
+a senior monk pulled the novice aside.
+
+"What impression have you of our brother Wangohan?" grinned
+the senior monk.  "Surely you have something to say on this
+matter, unless he has truly talked your head off."
+
+The novice thought a moment.
+
+"Wangohan has the spirit of the mule: dedicated and
+hard-laboring," said the novice.  "I would trust him to
+carry ten thousand stones from the valley to the temple."
+
+"High praise," said the senior monk.
+
+"Is it?" asked the novice.  "His rival Landhwa would first
+build a wheelbarrow."
+
+
+
+
+
+

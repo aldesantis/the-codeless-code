@@ -4,8 +4,7 @@ Number: 23
 Geekiness: 0
 Names: Zjing, One Shoe Clan
 Topics: elegance, code reviews
-
-<img src="/cases/23/shape.png" style="float:right;margin-right:-100px" />
+Illus.0.src: shape.png
 
 One morning a nun named [[Zjing]] was passing by a
 terminal, around which were clustered several learned
@@ -55,4 +54,22 @@ Every last drop of water was contained.
 "Satisfactory," said the nun.
 
 
+
+###END ############################################################
+
+
+== Notes
+
+The full name of the nun (Xíngzhuàng) is the [Pinyin] Chinese
+word for "shape".
+
+
+== Questions
+
+I wonder if the nun's final utterance may be struck, and
+(additionally) the last two paragraphs combined?
+
+Should the nun say "Null" instead of "Wu"?  In the context
+of these koans it seems correct, but at least one reader
+(Jenn Haupt) prefers "Wu".
 

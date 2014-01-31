@@ -61,3 +61,20 @@ unsatisfying, I expect that they may be replaced with
 no discernable effect upon the smoothness of the ride."
 
 
+###END###############################
+
+This could have been done more concisely:
+
+A priest wanted to wrap all software.  The Java master
+considered this plan, and ordered that the hood of the
+priest's car be welded shut.
+
+"The priest will be corrected within the year," said the
+master.
+
+It formerly ended with:
+
+Thus was the software of the Bristling Yak brought to the
+Laughing Monkey.
+
+

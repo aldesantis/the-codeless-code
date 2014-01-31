@@ -4,6 +4,8 @@ Number: 18
 Geekiness: 1
 Names: Elephant's Footprint Clan
 Topics: reuse, requirements
+Illus.0.src: gong.png
+Illus.0.par: 2
 
 This same monk of the Elephant's Footprint was poring over
 the code created by his clan.  There were several competing
@@ -15,8 +17,6 @@ definitive one that his clan would adopt.
 vexations," said the monk to the Java master.  "And each has
 features the others lack.  I must consign all but one to the
 winds of oblivion.  How am I to choose?"
-
-<img src="/cases/18/gong.png" style="margin:0 auto"/>
 
 "I cannot answer when I am thirsty," said the master.
 "In the cabinet beside you are three wooden cups.  Fill

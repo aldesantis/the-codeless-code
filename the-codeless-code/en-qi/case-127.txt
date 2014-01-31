@@ -1,0 +1,135 @@
+Date: 2014-01-12
+Title: State Change
+Number: 127
+Names: Kaimu, Suku, Bawan, Banzen, Yishi-Shing, Shinpuru
+Topics: depression, loneliness, purpose, morale
+Geekiness: 1
+Credits: Inspired by a request from a reader.
+
+The young master [[Kaimu]] was sifting through his inbox when
+he came upon a message from an unknown sender:
+
+    My body is ugly, my limbs awkward, my face unseemly -- //
+    thus no one looks upon me and desires my companionship. //
+    I have lived many years alone.
+
+    My heart sits heavy for I have no one to lighten it -- //
+    thus I pass each night coding in the solitude of my quarters. //
+    Drink and forgetful slumber are my only escape.
+
+    My soul is ever in pain -- //
+    thus misery follows wherever I tread. //
+    Each day can be no better than the one before.
+
+    My mind is dulled from meaningless employment -- //
+    thus I have achieved nothing of worth or renown. //
+    When I die, only dust will remain.
+
+    My life is friendless, joyless, hopeless, pointless. //
+    What wisdom can you offer?
+
+- - -
+
+Kaimu took the letter to [[Suku]], saying: "I am but a
+theoretician, and know nothing of being a prisoner to
+ugliness.  You have mastered the achievement of sublime
+beauty through incremental change.  What wisdom can you
+offer?"
+
+Suku replied: "I, too, suffer imperfections of the flesh,
+though they are hidden from view.  If the body is an
+application, then its source code is uneditable and we must
+bear the ungainly user interface as with any legacy
+system.  Alas, I cannot refactor it."
+
+Kaimu bowed and went out.
+
+- - -
+
+Kaimu took the letter to [[Bawan]], saying: "I am but a
+theoretician, and know nothing of the burden of solitude.
+You have mastered all physical representations of the
+Loneliest Number.  What wisdom can you offer?"
+
+Bawan replied: "I niggle over zeroes and ones because when I
+look up from my screen the darkness closes in.  If the heart
+is half an equation that must be balanced against an equals-sign, then
+I too peer across the divide into emptiness.  Alas, I cannot
+solve for your /x/ when there is an unknown /y/."
+
+Kaimu bowed and went out.
+
+- - -
+
+Kaimu took the letter to [[Yishi-Shing]], saying: "I am but
+a theoretician, and know nothing of souls in pain.  You
+have mastered the inner workings of machines.  What wisdom
+can you offer?"
+
+Yishi-Shing replied: "What is a machine, but an artifact
+meant to give us the illusion of control, when in truth we
+cannot control even our need to draw the next breath?
+If the soul is a machine, then its case is the
+blackest of boxes and its keyboard forever hidden from the
+sight of mankind.  Alas, I cannot administer it."
+
+Kaimu bowed and went out.
+
+- - -
+
+Kaimu took the letter to [[Banzen]], saying: "I am but a
+theoretician, and know nothing of a life of futility.  You
+have mastered the ways of attaining perfection in code.
+What wisdom can you offer?"
+
+Banzen replied: "Do not mistake obsession for ambition, or
+reputation for accomplishment!  Perfection is my purpose
+only because the lack of it is my pain.  Yet what can be
+perfect when even number theory is incomplete?  What can
+endure when the Universe itself is destined to unravel?
+And here am I: a miserable wretch who will not be content
+until his brush has come to rest upon the last digit of
+/pi/!  If the mind is a fractal from which infinite futures
+might blossom, still we are all Cantor dust in the end.
+Alas, I cannot say how to make something from what
+must eventually become nothing."
+
+Kaimu bowed and went out.
+
+- - -
+
+Kaimu happened upon the monk [[Shinpuru]], pruning his vines
+in the greenhouse.  As the monk was older then he, Kaimu
+told Shinpuru of the letter.  "No master is equal to this matter.
+What wisdom can you offer?"
+
+Shinpuru thought a moment, and said half to himself:
+
+"If the body cannot be modified, then its form must suffice.
+If the heart cannot be balanced, then it must stand alone.
+If the soul cannot be directed, then we must yield to it.
+And if the mind is destined to be lost, then all that matters is the present."
+
+Then the monk thought a little more, and said to Kaimu:
+
+"Begun your reply thus: When the great wolf Desire pulls
+your sledge across the ice, its cub Disappointment will
+surely nip at your heels.  You must therefore yoke yourself
+to yourself...
+
+"Then advise your correspondent: Find within your heart any
+things that give you a measure of joy, no matter how
+ridiculous they may seem.  Fill every moment possible with
+these little joys.  If they can be shared, so much the
+better: go to distant places, meet unfamiliar people, but
+take care not to seek companions among them.  Seek nothing
+except to share your craft with those who ask it of you.
+Every moment spent thus will be your legacy."
+
+Shinpuru resumed his pruning.  "If we seek to change the
+inner state of an application but we cannot change its code,
+then we must change its inputs and hope for the best.  It is
+not by whim that I became a gardener!  Alas, I cannot know
+what will bear fruit for others."
+
+

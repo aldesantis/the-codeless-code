@@ -1,0 +1,103 @@
+Date: 2013-12-14
+Number: 123
+Title: Order and Chaos
+Names: Suku
+Geekiness: 2
+Topics: refactoring, order, chaos, rethinking
+
+A certain monk, known for the elegance of his code, had a
+habit of refactoring the code of his fellows to match.  "For
+inconsistency multiplied becomes chaos," he would explain,
+"and chaos breeds complexity, and complexity brings
+confusion, and confusion is the mother of ten thousand
+defects."
+
+Master [[Suku]] -- who above all prized the cleanliness of
+code -- heard of this.  She approached the monk, saying, “I
+require your assistance in correcting a problem.”
+
+Suku revealed to the monk a great repository, home to the
+source code for the Temple's most ancient application.  Over
+the course of decades an uncounted procession of monks and
+nuns had passed through its hallowed directories: adding,
+removing, refactoring, refining, trying a new framework
+here, a new approach there.  Several times the entire code
+base had been migrated from one language to another,
+scarring the deeper layers with unfathomably bizarre design
+patterns.  Within one utility class the naming
+conventions were so wildly inconsistent that the monk
+grew dizzy and had to lie down on the floor.
+
+"Bring order to chaos," said Suku, and went out.
+
+The monk proceeded in earnest to rewrite the application in
+the style he had perfected over so many years.  He
+chose a glittering new framework to replace the many rusty
+ones, then picked one dusty corner of the repository and
+worked slowly outwards: adding, removing, refactoring,
+refining.
+
+- - -
+
+The monk had converted the merest fraction of the files when
+there came a pounding on his door.
+
+"Emergency!" said the breathless abbot outside, grabbing the monk by
+his robe and pulling him out the door.  "Disaster!
+Disorder!  Deadline!  Doom!  Not enough people and not
+enough time; you're needed at once, come on, come on!"
+
+The monk protested, calling for someone to fetch master
+Suku that she might intervene, but the abbot merely flipped
+the monk onto his backside and dragged him down the
+hallway like a noisy sack of rice.
+
+That evening Suku found the monk, tied to his new workstation
+by many coils of strong rope.
+
+"I have seen your commits in the great repository," said the
+master, drawing a long knife which she placed at his throat.
+"Where once there had been a hundred styles, there now are a
+hundred and one."
+
+She made a quick motion.  The monk cringed, expecting to
+feel his life blood spilling inside his robe.  Instead
+the knife only severed one strand of his hempen bonds.
+
+"Not perfect, but better," said Suku, and went out.
+
+She did likewise for one hundred evenings until the
+monk was freed.
+
+- - -
+
+Afterwards the monk meddled less with the code of his
+fellows, and instead began to pride himself on his ability to
+mimic the design patterns of others when modifying their
+applications.
+
+"It is still a truth of refactoring," he now said, "that
+sometimes one must introduce chaos to bring order, just as
+the road to the sea must sometimes scale a mountain before
+it turns downward again.  Yet order is not a destination:
+merely a direction from /complex/ to /simple/, from /more/
+to /less/.  The master asked for /less/ but I thought only
+of /one/, and chose a path worthy of a
+<a href="http://en.wikipedia.org/wiki/Hailstone_sequence">hailstone</a>
+when simple subtraction would have sufficed."
+
+###END
+
+
+== Qi's commentary
+
+Urgency demands progress, then holds a knife to its throat.
+
+
+== Qi's poem
+
+The Grand Matriarch set out for the Burning Moth Temple, //
+yet turned back when the road met a chasm. //
+"I could have leapt across with grace," she lamented, //
+"had gravity allowed me a hundred small hops."
+

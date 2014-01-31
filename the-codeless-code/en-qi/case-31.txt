@@ -4,6 +4,10 @@ Date: 2011-03-29
 Geekiness: 2
 Topics: philosophy, null
 Names: Kaimu
+Illus.0.src: sandal.png
+Illus.0.align: center
+Illus.0.par: 5
+Illus.0.title: Obviously it was a thrown exception.
 
 Two monks took their argument to Java master [[Kaimu]].  They
 asked him, "Is null a value, or the absence of a value?"
@@ -21,8 +25,6 @@ The second monk insisted that null /must not/ be a value,
 because the answerless-answer did not include either of the
 proposed alternatives.
 
-<img src="/cases/31/sandal.png" />
-
 A third monk, who was trying to sleep, screamed and
 threw his sandal into the darkness.
 
@@ -31,5 +33,12 @@ request for silence, or the /absence/ of an eloquent request
 for silence?"
 
 As the first two monks considered this, the moon rose.
+
+
+
+
+
+
+
 
 

@@ -11,7 +11,7 @@ The nun [[Satou]] approached Java master [[Banzen]] and said:
 "There is a processing bottleneck which I believe I can
 eliminate by means of multiple worker threads.  Yet I have
 heard this proverb: <i>If you are confronted with a problem
-and say, 'I shall use threads', you now have two problems.</i>"
+and say, 'I shall use threads', you now have two problems."</i>
 
 Banzen replied: "The saying is old, but not a true proverb.
 In place of /threads/ I have heard <i>XML,

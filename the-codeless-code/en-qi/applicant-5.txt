@@ -1,0 +1,70 @@
+Series: 1
+Number: 5
+Date: 2012-09-23
+Title: The Applicant
+Part: 5
+Geekiness: 2
+Subtitle: The Iron Cookpot
+Names: Aaradhya, Tarun, Bhupendra
+Skip: 0
+
+The next day dawned bright and sticky-warm.  Bread was shared, the
+donkey was watered and re-laden, and the trio set out into
+a morning buzzing with insects.
+
+"Imagine," said Aaradhya, "that you have journeyed far from
+home and found yourself in a strange village of shopkeepers.
+It is evening, and you are hungry.  You learn that the cook
+will serve you stew but requires red lentils, curry leaves,
+and water in trade; the farmer will give you the lentils but
+requires seeds and the loan of an ox..."
+
+In Aaradhya's hypothetical village there were also merchants
+who controlled warehouses brimming with all manner of useful
+things, items produced by some shopkeepers and needed by
+others -- precious spices, planks of sturdy wood, fine saws,
+barrels of lamp oil.  The merchants belonged to a respected
+guild called the /DAO/.
+
+"Domestic Archive Overseers," explained Aaradhya.  "Their
+sole function is to store, manage, and retrieve Valuable
+Objects..."
+
+As she spoke Aaradhya untied various odds and ends from the
+bundle on the donkey's back, using them as props.  Tarun
+listened.  The grandfather walked ahead of them with his
+parasol, saying nothing, although sometimes he would nod or
+shake his head.
+
+When they stopped for a meal he pulled Aaradhya aside.
+
+"You teach by metaphor."
+
+"It is how my C++ master taught.  He used to say: <i>a
+software system is a civilization of objects.</i>"
+
+"Very pretty.  But when the boy interviews for an
+apprenticeship they will not ask him to recite proverbs.
+He must know how to build things."
+
+Aaradhya waved to the boy, who was feeding the donkey.
+/"Tarun,"/ she called.  "You are now the mayor of our little
+village.  Wealthy strangers will soon arrive in town to buy
+iron cookpots: which of our shopkeepers shall make them?
+The carpenter, who already makes pot-handles?  The jeweler,
+who already crafts with metal?  The potter, who already
+makes pots of clay?"
+
+"None of these, Madam," said Tarun.  "The village needs an
+ironmonger."
+
+"Please tell your grandfather why."
+
+"Because no one seeking an iron cookpot will think
+to ask a carpenter."
+
+Aaradhya turned to the grandfather, a satisfied smile
+playing at the corner of her mouth.  "Much of what he needs
+to know already lies within him.  The rest is just syntax."
+
+

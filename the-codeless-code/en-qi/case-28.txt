@@ -4,8 +4,7 @@ Date: 2011-03-26
 Geekiness: 1
 Topics: obsolescence
 Names: Clan of Iron Bones, Huisheng
-
-<img src="/cases/28/echo.png" style="float:right; margin-right:-310px" />
+Illus.0.src: echo.png
 
 The [[Clan of Iron Bones]] was charged with keeping the servers
 running.  This was their purpose, and this was their pride.
@@ -82,5 +81,46 @@ the statue gazes out to sea. //
 What great work was not created, //
 but that the builder might see his reflection in the world?
 
+
+
+###END############################################################
+
+== Notes
+
+Introducting the Clan of Iron Bones, otherwise known as
+Operations: keeper of the Big Iron, and the backbone of any
+IT shop.
+
+Huisheng [Huíshēng], of course, is Chinese [Pinyin] for "echo".
+
+This is the first koan to follow the tradition form
+of the Gateless Gate:
+
+1. First comes a title of four "characters".
+
+2. Next, the body of the koan, beginning with the name of the
+   protagonist of the case.  I took a slight liberty here,
+   using the clan's name instead of the monk's, but
+   since this koan is also about the Naming of Names
+   it was necessary to leave the monk unnamed until the end.
+
+3. Next, the scribe's short commentary (being Mumon/Wumen in the
+   original collection).
+
+4. Finally, a short poem by the scribe, in a particular
+   four-line form.  A well-known Japanese poet was asked 
+   how to compose a Chinese poem:
+
+   "The usual Chinese poem is four lines," he explained. "The
+   first line contains the initial phrase; the second line, the
+   continuation of that phrase; the third line turns from this
+   subject and begins a new one; and the fourth line brings the
+   first three lines together. A popular Japanese song
+   illustrates this:
+
+            Two daughters of a silk merchant live in Kyoto.
+            The elder is twenty, the younger, eighteen.
+            A soldier may kill with his sword,
+            But these girls slay men with their eyes."
 
 

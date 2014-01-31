@@ -73,3 +73,29 @@ Banzen shook his head and pushed the heavy jar across the desk.
 you will understand Djishin's correction."
 
 
+###END
+
+
+
+
+
+In some cases
+
+Master [[Suku,]]
+
+
+
+monk X is creating a query form.  discovers that form data is same as
+domain object .  does QBE approach where form data is stuffed into
+domain object which in turn is used as query template.
+
+Eventually needs change.  Must query for A and B, but never Z,
+and a list of Cs instead of a single one.   Mismatch.  Domain
+object is subclassed, producing a weird object with C and Cs, etc.
+
+Moral: reuse is nice, but create the object you NEED.
+
+
+
+
+

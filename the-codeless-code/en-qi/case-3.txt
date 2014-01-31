@@ -1,13 +1,11 @@
 Date: 2010-11-08
 Title: Encapsulation
 Number: 3
-Version: $Revision: 1.21 $
+Version: $Revision: 1.22 $
 Geekiness: 2
 Topics: encapsulation
-
-<img src="/cases/3/encapsulation.jpg"
-     title="Whatever you do, don't tell him you need to go to the bathroom."
-     style="float:right; margin-right:-220px" />
+Illus.0.src: encapsulation.jpg
+Illus.0.title: Whatever you do, don't tell him you need to go to the bathroom.
 
 A young monk, new to the temple, not only declared all his
 methods public but all his instance variables as well.  The

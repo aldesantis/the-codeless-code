@@ -1,0 +1,118 @@
+Series: 1
+Number: 2
+Date: 2012-08-12
+Title: The Applicant
+Part: 2
+Subtitle: Anantha's Fountain
+Geekiness: 1
+Names: Aaradhya, Temple of the Morning Brass Gong
+Credits: Special thanks to Nick Montfort for spotting a bug in the code!
+Illus.0.src: aaradhya.jpg
+Illus.0.par: last
+Illus.0.align: center
+
+[[Aaradhya]] had travelled north for many days when she came
+upon a solemn circle of children gathered by the roadside
+outside a ramshackle schoolhouse.  Their nut-brown skin was
+the barest shade lighter than her own.  Each child held a
+battered old laptop with a simple text screen, white letters
+on gray.  On each screen there appeared the same brief
+code listing.
+
+"What language is this?" asked Aaradhya, peering over
+a boy's shoulder at one of the displays.
+
+"It is BASIC, Madam," answered the boy.  "The
+mistress began teaching it only last week."
+
+"The language has changed much since I was your age,"
+observed Aaradhya.  "Where are the line numbers?"
+
+"They are not needed, Madam."
+
+"Then how is GOTO used?"
+
+"GOTO is forbidden, Madam.  We are only doing algebra."
+
+"So how did you code Anantha's Fountain?"
+
+The children looked at each other in puzzlement.
+
+"Ah," said Aaradhya.  "No wonder you all have the faces of
+oxen yoked to a plow.  When I was a girl it was customary to
+end the very first day with Anantha's Fountain.  Here..."
+The novice gently took a laptop from one of the girls.
+"What is your name?"
+
+"Simbala, Madam."
+
+Aaradhya typed:
+
+<pre>
+  10 PRINT "Hello, Simbala!! ";
+  20 GOTO 10
+  RUN
+</pre>
+
+The screen filled with an endless rippling stream of:
+
+<pre>
+  Hello, Simbala!! Hello, Simbala!! Hello, Simbala!! He
+  llo, Simbala!! Hello, Simbala!! Hello, Simbala!! Hell
+  o, Simbala!! Hello, Simbala!! Hello, Simbala!! Hello,
+   Simbala!! Hello, Simbala!! Hello, Simbala!! Hello, S
+  imbala!! Hello, Simbala!! Hello, Simbala!! Hello, Sim
+  bala!! Hello, Simbala!! Hello, Simbala!! Hello, Simba
+  la!! Hello, Simbala!! Hello, Simbala!! Hello, Simbala
+  !! Hello, Simbala!! Hello, Simbala!! Hello, Simbala!!
+   Hello, Simbala!! Hello, Simbala!! Hello, Simbala!! H
+  ello, Simbala!! Hello, Simbala!! Hello, Simbala!! Hel
+  lo, Simbala!! Hello, Simbala!! Hello, Simbala!! Hello
+  , Simbala!! Hello, Simbala!! Hello, Simbala!! Hello,
+  Simbala!! Hello, Simbala!! Hello, Simbala!! Hello, Si
+  mbala!! Hello, Simbala!! Hello, Simbala!! Hello, Simb
+  ala!! Hello, Simbala!! Hello, Simbala!! Hello, Simbal
+  a!! Hello, Simbala!! Hello, Simbala!! Hello, Simbala!
+  ! Hello, Simbala!! Hello, Simbala!! Hello, Simbala!!
+  Hello, Simbala!! Hello, Simbala!! Hello, Simbala!! He
+</pre>
+
+As each new line was added to the bottom, the lines above
+flowed upward.
+
+"Now each of you try with your own names," said Aaradhya to
+the children crowded around, though she needn't have asked;
+some were already halfway done typing.  Laptops were passed
+from hand to hand and output was compared.  For some names
+the diagonal stripes went to the left, for some they went
+right, and for some they were so steep as to be nearly
+invisible.  For one boy with a particularly long name the
+greeting simply repeated in a dull vertical column.
+Aaradhya advised him to add another exclamation point -- or
+any other characters of his choosing -- and sure enough the
+desired pattern emerged.  The others followed suit, and soon
+the names were replaced by undulating waves of periods,
+dashes, percent-signs and slashes.
+
+The old mistress emerged from the schoolhouse at the sound
+of so much chattering.  When she saw what Aaradhya
+had taught the children she grabbed a broom and chased the novice
+from the grounds.
+
+"Foolish girl!" said the mistress.  "Can you not see that
+ours is a poor village?  The only hope these children have
+is to learn their trade quickly and well, and not waste time
+on idle nonsense."  The mistress raised her broom again, but
+Aaradhya whirled around and brandished her walking-stick
+high in return.  The old woman backed away.
+
+"On the contrary, Madam Teacher," scowled Aaradhya.  "I have
+done you a good service, and someday I will return with a
+broom of my own to extract payment from your wrinkled hide.
+Have you never seen kittens gamboling with a skein of yarn?
+You took a pack of tiger cubs and merely ordered them to
+attack a bear. I have made them hunger for the chase."
+
+
+
+

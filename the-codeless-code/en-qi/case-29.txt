@@ -4,6 +4,9 @@ Date: 2011-03-26
 Geekiness: 1
 Topics: testing, automated testing
 Names: Jinyu, Bawan
+Illus.0.par: 3
+Illus.0.align: center
+Illus.0.src: fish.png
 
 When a novice joins the temple and claims to seek wisdom,
 they are advised to find Java master Bawan and ask him: "How
@@ -17,8 +20,6 @@ and will conclude with the same order to return,
 until the novice is enlightened.
 
 The annals tell us this:
-
-<img src="/cases/29/fish.png" style="margin: 0 auto"/>
 
 When the Venerable Jinyu was a nun of but five and twenty
 years, she and a monk of equal age were approached by

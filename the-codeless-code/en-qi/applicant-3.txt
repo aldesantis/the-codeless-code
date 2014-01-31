@@ -1,0 +1,109 @@
+Series: 1
+Number: 3
+Date: 2012-08-26
+Title: The Applicant
+Part: 3
+Geekiness: 1
+Subtitle: Doing the Math
+Names: Aaradhya
+
+[[Aaradhya]] had barely passed beyond the borders of the village
+when she heard a high voice shouting /Madam! Madam!/ from
+behind her on the road.  A boy was chasing after her, waving
+frantically.  As he skidded to a stop in the dust beside
+her Aaradhya recognized him as one of the BASIC students
+from the schoolyard.  He was about seven years old,
+barefoot and shirtless, clad only in a loose pair of
+beige trousers whose pattern had long since faded.  His hair was
+straight and as black as Aaradhya's own, and his skin was
+quite as brown, but his eyes were an astonishing shade of
+green.
+
+"Madam!" panted the boy.  "My grandfather wishes to speak to you!"
+He took her hand and motioned her back down the road.
+
+The grandfather was ambling towards them, holding the
+scorching midday sun at bay with a ragged parasol.  His hair
+was white, and like the boy he was dressed in pale
+threadbare clothes whose colors had long ago been lost to
+the elements.  When the two drew near he closed the shade
+and greeted Aaradhya with a slight bow, palms touching
+before his chest.  Aaradhya returned the gesture.
+
+"That teacher is no good," said the grandfather, "and the
+boy must be taught properly.  Otherwise he will end
+up like his father, a broken man trusted only to create
+spreadsheet macros and the occasional .BAT file."
+
+"It is a common fate," acknowledged Aaradhya.
+
+"I understand that you are a teacher of no small skill,"
+continued the old man.  "Versed not only in BASIC, but
+in the enviable arts of Java and C."
+
+Aaradhya raised an eyebrow.  "My BASIC is regrettably out of
+date.  And while it is true that I have completed my
+apprenticeship in Java, I am far from being called master."
+
+"Still, you exceed all others in this village.  Can you not remain
+here for a while, to school those who desire it?"
+
+"My own master had a saying," said Aaradhya.  <i>"The
+MAX_VALUE of Byte may be envied by zero, but it is far from
+the MAX_VALUE of Integer."</i> She ran a hand absently along
+the fringe of her outer robe.  "Indeed, it is for such
+type-promotion that I am travelling north.  The Temple of
+the Morning Brass Gong is holding trials for new novices
+this very month.  That is why I dare not linger even a day,
+lest their few positions be filled."
+
+"Ah!" lamented the grandfather.  "I have heard of that
+temple.  So far away, and across the mountains too!  Would
+it not serve you better to travel by some sort of wheeled
+internal combustion engine?"
+
+Aaradhya laughed.  "You may as well ask if it would serve me
+better to sprout wings and fly!  Even if such a device
+could be found in these provinces, I could not afford to
+purchase it, nor the fuel to power it."
+
+"Perhaps, perhaps," said the old man, smiling a
+half-toothless smile.  "In Reechee there is a driver who
+crosses the mountains daily in such a vehicle, a marvelous
+conveyance that he fashioned from an abandoned train car.
+He calls it a /bus/, for it shuttles many passengers in
+parallel.  He and I are distant cousins, and I may be able
+to convince him to take you on board without pay."  The
+grandfather opened his parasol again and began walking back
+toward the village.  "All I ask is that you school the boy
+as we go."
+
+"Reechee is a good three days away," said Aaradhya,
+flustered.  "Twice that at the speed of your old legs.
+And it's in the wrong direction!"
+
+"Six days' walk plus two days by bus, against three weeks on
+foot," replied the grandfather.  He drew the boy to his
+side.  "In any language, the math is simple.  It may even be
+done with Bytes."
+
+Aaradhya stopped in her tracks; the old man ignored her and
+continued on.  The boy glanced back a few times, but each
+time the grandfather turned the boy's head forward again
+with a firm hand.
+
+"How can I be certain that your cousin will give me passage?"
+Aaradhya called out.
+
+"You can't!" the grandfather shouted without turning around.
+He raised an index finger.  "Life is a probabilistic
+algorithm, where optimal input can still produce bad
+results.  But every minute we argue is a minute wasted, and
+minutes are precious to us both."
+
+The two figures vanished around a bend, and Aaradhya was alone.
+
+She stood debating within herself for another minute more,
+then cursed privately and ran down the road after them.
+
+

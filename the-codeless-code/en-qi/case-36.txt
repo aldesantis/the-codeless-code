@@ -4,6 +4,9 @@ Date: 2011-05-15
 Geekiness: 0
 Topics: morale
 Names: Sparrow Clan, Laughing Monkey Clan, Elephant's Footprint Clan
+Illus.0.src: division-2.png
+Illus.0.title: We have yet to make it past 14.
+Illus.0.par: 3
 
 The [[Sparrow Clan]] was in disgrace and disarray.  Its head
 monk had chosen an honorable death by seppuku, but fear of
@@ -20,11 +23,6 @@ temple."
 was known for his excessive leniency.  "It
 will be simpler to disband the Sparrow Clan.  How many monks
 remain?"
-
-<img src="/cases/36/division-2.png"
-     alt="Illustration"
-     style="float:right;margin-right:-200px;padding:20px"
-     title="We have yet to make it past 14." />
 
 "Six," replied the priest.
 
@@ -57,3 +55,8 @@ or <a href='/cases/36/poster.png'>PNG</a> file.
 </div>
 
 
+###END------------------------------------------------------------
+
+Lax abbot
+
+Priest of Applied Mathematics 

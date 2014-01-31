@@ -46,3 +46,48 @@ blend of that spice.  If he has tasted it, please assure
 him that it is only cinnamon -- for the most part."
 
 
+###END
+
+Landhwa = Chinese for lazy (懒惰)
+
+Wangohan (완고한) =  Korean for stubborn
+
+
+###
+
+
+Could you not create a <tt>failedOrders</tt> variable, or at least
+rename the existing one?"
+
+
+Landhwa yawned and held up his left hand, extending the
+fingers one by one:
+
+"<i>First:</i> creating another variable named
+<tt>failedOrders</tt> would have complicated my task.
+/Second:/ <tt>completedOrFailedOrders</tt> takes longer to
+read and more effort to type.
+/Third:/ the existing name was not wholly inappropriate,
+since a failed order is in some sense 'complete'.
+/Fourth:/ changing variable names was not necessary to make
+my code function properly.
+And /fifth:/ it is a virtue to leave untouched that
+which functions correctly, as our sister [[Zjing]]
+will <a href="/case/54">agree</a>."
+
+Landhwa bowed and went out.
+
+- - -
+
+Wangohan spread his palms wide. “I have no idea what ails
+the monk. But in his pantry there is a jar labelled
+‘cinnamon’ which I have recently been using to store my own
+delightful variety of that spice, laced with powdered wolf’s
+bane.”
+
+
+Wangohan spread his palms wide.  "I have no idea what ails
+the monk.  But in his pantry he /may/ have stumbled upon a jar
+labelled 'cinnamon' which I have recently been using to
+store my own variety of that spice.  If so, please assure him
+that it is only cinnamon -- for the most part."

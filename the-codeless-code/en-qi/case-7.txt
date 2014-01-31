@@ -5,10 +5,12 @@ Geekiness: 1
 Topics: testing, automated testing, perfection
 Names: Laughing Monkey Clan
 Credits: Some textures in illustrations courtesy of <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
-
-<img src="/cases/7/waiting-teaser.jpg"
-     style="float:right;margin-right:-260px"
-     />
+Illus.0.par: 0
+Illus.0.src: waiting-teaser.jpg
+Illus.1.par: last
+Illus.1.src: waiting.jpg
+Illus.1.align: center
+Illus.1.title: After the first hundred years, you get much better at waiting patiently.
 
 The monks of the [[Laughing Monkey Clan]] approached the Java
 master with a list of grievances.
@@ -43,13 +45,4 @@ dinner-bell sounded.
 "How long will this take?" asked one of the novices.
 
 "No more than a hundred years," came the old monk's reply.
-
-<img src="/cases/7/waiting.jpg"
-     title="After the first hundred years, you get much better at waiting patiently."
-     style="margin: 0 auto"
-     />
-
-
-
-
 

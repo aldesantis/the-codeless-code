@@ -4,14 +4,15 @@ Date: 2011-03-26
 Geekiness: 3
 Topics: overflow
 Names: Bawan
+Illus.0.src: cups.png
+Illus.0.par: 1
+Illus.0.align: center
+Illus.0.title: Today's illustration has been brought to you by the words COPY and PASTE.
 
 Java master [[Bawan]] said: "The beggar in the marketplace owns
 nothing but empty cups.  Fill all but one with tea and he
 will praise you; yet spill a drop into the last and he must
 instantly die of thirst.  Explain."
-
-<img src="/cases/30/cups.png"
-     title="Today's illustration has been brought to you by the words COPY and PASTE." />
 
 No monk could answer Bawan's question.  The teacher retired
 to his chambers.
@@ -51,4 +52,16 @@ In the hand of a master, fear. //
 These qualities reside nowhere /in/ the staff: //
 only in the where /of/ it.
 
+
+###END############################################################
+
+Introducing Java master Bawan, whose name (八碗) is Chinese
+for "Eight bowls".
+
+Tea = T = true = digit 1
+
+In the hand of a drudge, the broom engenders pity. //
+In the hand of a master, fear. //
+These qualities reside nowhere /in/ the broom: //
+only in the where /of/ it.
 

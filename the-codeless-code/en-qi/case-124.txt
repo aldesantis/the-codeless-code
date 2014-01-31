@@ -1,0 +1,41 @@
+Number: 124
+Date: 2013-12-22
+Title: The Hidden Variable
+Geekiness: 0
+Names: Kaimu, Banzen
+Topics: philosophy, idempotence, change, immutability
+Illus.0.src: earth.jpg
+Illus.0.title: People who would like the world to stop changing have not seriously considered the prerequisites for this.
+
+
+A monk approached master [[Kaimu]], and said:
+
+Master [[Banzen]] claims that your philosophy is flawed, for you will
+give different answers to the same question.  Were you aware
+of this insult?
+
+No, answered Kaimu.
+
+Later that day another monk approached Kaimu,
+and said:
+
+Master Banzen claims that your philosophy is flawed, for you will
+give different answers to the same question.  Were you aware
+of this insult?
+
+Yes, answered Kaimu.
+
+
+== Qi's commentary
+
+Kaimu does not suffer from idempotence.
+
+
+== Qi's poem
+
+The ten thousandth year has come and gone, //
+yet no one remarks its passing. //
+A dead world hangs in the starry void -- //
+no discord, no error, perfect at last.
+
+

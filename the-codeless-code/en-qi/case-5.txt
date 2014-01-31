@@ -3,6 +3,8 @@ Title: Void
 Number: 5
 Geekiness: 2
 Topics: void, philosophy
+Illus.0.src: master.jpg
+Illus.0.par: 2
 
 On a cold autumn day the Java master awoke disquieted.
 He set out alone to clear his mind.
@@ -10,10 +12,6 @@ He set out alone to clear his mind.
 Soon the master found himself at the gates of the temple of
 Three Stones, where the art of ANSI C was still practiced.
 A learned brother stood guard.
-
-<img src="/cases/5/master.jpg"
-     title=""
-     style="float:right; margin-right:-220px; padding:20px; padding-top:0" />
 
 "What is the nature of /void/?" asked the master.
 

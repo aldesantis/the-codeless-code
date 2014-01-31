@@ -4,6 +4,9 @@ Date: 2011-03-29
 Geekiness: 0
 Topics: interviews, neatness, potential
 Names: Banzen
+Illus.0.src: weeds.jpg
+Illus.0.align: center
+Illus.0.par: last
 
 The temple was in need of an additional developer, and two
 potential initiates had applied for the position.  Java
@@ -39,7 +42,5 @@ of gibberish.
 The Java master shook his head. "Here you tell me there is
 fresh dill and lemon-grass, but I would never find them for
 all the weeds."
-
-<img src="/cases/32/weeds-33pct.png">
 
 

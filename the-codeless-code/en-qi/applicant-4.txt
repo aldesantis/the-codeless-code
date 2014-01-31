@@ -1,0 +1,163 @@
+Series: 1
+Number: 4
+Date: 2012-08-26
+Title: The Applicant
+Part: 4
+Geekiness: 1
+Subtitle: The Bundle
+Names: Aaradhya, Tarun, Bhupendra
+Skip: 0
+
+The old man's name was Bhupendra; his grandson was Tarun.
+
+They had no other relatives in the village.  The boy's
+father lived in a distant city, working long hours at a
+menial job and sending home a little money every week --
+although Bhupendra suspected that a good deal of his
+son-in-law's salary was wasted on palmyra wine and online
+gambling.  Other than a small hovel their chief possession
+appeared to be the dust-gray female donkey which the
+grandfather now loaded up with rice, bread, dried
+vegetables, jugs of water, knives, cook-pots (of various
+sizes), rope, kindling, a bolt of heavy cloth, and an
+ancient laptop too slow to run even the most stripped-down
+window manager.
+
+"Why are you packing so much?" asked Aaradhya, irritated
+that the day was fast slipping away.  "You will be in Reechee
+and back before half this food can be eaten."
+
+"Perhaps," said the old man, tying another pan to the
+immense bundle on the donkey's back.  "In my long life, I
+have often found that it is better to over-engineer than the
+opposite."
+
+"And the laptop?  The batteries alone are heavier than the
+kindling."
+
+"You will be teaching the boy.  You need a computer."
+
+"I doubt it can go a few hours without a charge, much less a
+few days."
+
+"Perhaps."
+
+Aaradhya fell silent.  How /was/ she to teach Tarun while
+they walked?  In her home town, when dust seized up the
+engines of the electrical plants (which happened frequently
+in summer, bringing down the power for hours at a time) her
+old master cheerfully distributed bundles of paper and pots
+of ink, lecturing to his apprentices by lamplight in front
+of a slate wall that he wrote upon with chalk.  The nun had
+only her voice, which would crack within minutes in the dry
+dirty air.  Only a fool travelled with an open mouth on
+rural roads.
+
+Yet that paled before a bigger problem.  Aaradhya had been
+the youngest of four children and the newest of seven
+apprentices.  She had never instructed anyone in anything.
+She had no idea where to start.  Beyond Anantha's Fountain
+her own lessons were a vague blur.
+
+Meanwhile, grandfather and grandson continued to tie
+ever more onto the back of the unprotesting donkey.
+It was almost evening before they were underway.
+
+- - -
+
+"Teach," said the old man.
+
+Aaradhya began with the little scraps she remembered
+learning at her grandmother's knee.  Stories of the earliest
+computers: towering mechanical contrivances of jointed
+sandalwood beams rotating on thick axles and strung together
+with miles of hemp.  Ivory-inlaid push-pegs drove creaking
+AND and NOT gates as big as a full-grown man and twice as
+heavy, with the gates in turn stacked in tiers a full
+four stories high just to implement a simple multi-bit
+adder.  Entire temples were built to house the precious
+workings, with a dozen monks perpetually clambering up and
+down ladders, oiling, tightening, tuning, repairing, and of
+course operating the gargantuan framework.
+
+Then she told of the wondrous Age of Brass, at the dawn of
+the Babaj Empire, where programming was done with clockwork
+clusters of gears that grew smaller with each passing
+generation.  Strange pale men came from the West to learn
+this art, augmenting it with their own arcane practices --
+such as the use of rubies in the mechanism to overcome
+friction-induced wear, and coiled springs to drive the
+crankshafts, and the ritual practice of imbibing
+stimulant-laced beverages before commencing with a day's
+work.
+
+Tarun's grandfather noted the absent expression on the
+boy's face.  Scowling, he drew alongside Aaradhya.
+
+"Teach," he repeated.  "Programming, not history."
+
+Aaradhya grimaced.  Her BASIC was out of date; Tarun
+probably knew more of the modern form than she did.  Logo?
+She had forgotten practically every bit of it.  Anyway the
+language could not be taught without the use of a specially
+trained turtle.  Her apprenticeship had been in C with a
+sprinkling of C++, but the boy was not ready to be thrown
+into a swamp teeming with Bus Erros and Segmentation
+Violations and special syntaxes for working with L-values.
+Java was foremost on her mind these days: it was, after all,
+the chosen path of the Temple of the Morning Brass Gong.
+Reiterating the fundamentals of the language would help
+gather her thoughts, soothe her nerves, prepare her for her
+interviews.  She should teach the boy Java.
+
+While walking in the dark?  Ridiculous.
+
+Not to mention that the incessant clanging of the pots on
+the donkey's back wasn't helping Aaradhya organize
+her thoughts.
+
+"The animal needs watering," said Aaradhya quickly.  "While
+we can still see the stream.  I'll begin when we're back on
+the road."
+
+This forced them to leave the moonlit road and pick their
+way down a treacherous weed-choked gully to the meager
+trickle flowing at the bottom.  On the climb back up the
+donkey put a foot down into an unexpected burrow-hole,
+throwing her off balance.  The huge bundle swayed too far to
+one side.  The beast brayed, the harness rolled, then the
+bundle went crashing onto the underbrush, pinning the
+animal.  By the time they had calmed the donkey the moon had
+set.  There was no sensible choice but to make camp for the
+night.
+
+Bhupendra sighed and settled his old bones against the
+fallen bundle as Aaradhya and Tarun gathered the various
+items that had rolled away from it.  Even by starlight
+Aaradhya could see the hard gleam in the old man's eye.
+
+"Teach," he commanded.  "No more delays."
+
+Aaradhya took a step towards the old man, about to argue for
+a fresh start by daylight, when she slipped on something
+smooth and landed fullsquare on a low thorny bush.  The next
+word that came out of her mouth was fortunately muffled by
+her twisted robes.  Feeling around in the blackness
+Aaradya's fingers closed on the handle of the offending
+object: an iron skillet that had come loose from the bundle.
+It was heavy.  That was when the idea came to her.
+
+The young nun brushed herself off.  Smiling, she advanced
+towards the old man and the boy.  They were both on the
+ground by the bundle; she loomed above them.  With a wide
+stroke Aaradhya brought the iron skillet up high, then down
+hard on her target.
+
+The rock was undamaged, but the skillet rang out like a
+gong.  Both her fellow travellers jumped in spite of
+themselves.  The donkey whined but was tied to a tree and
+could not bolt.
+
+"School is in session," said Aaradhya.  "We shall begin
+with Objects..."
+
