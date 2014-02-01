@@ -1,0 +1,25 @@
+Number: 16
+Title: Documentation
+Lang: fr
+Translator: cdlm
+
+Un abbé du [[Seven-Clawed Blind Eagle Clan|Clan de l'Aigle Aveugle aux Sept Griffes]] recomptait les délivrables des moines du temple, quand il s'aperçut qu'un moine du [[Laughing Monkey Clan|Clan du Singe Rieur]] n'avait produit aucun document de conception.
+
+« Et si on découvre un problème dans le système en production ? »
+demanda l'abbé au moine.
+« Comment quiconque d'autre que vous-même pourrait en comprendre la cause ? »
+
+« C'est le code qu'il faut examiner, » dit le moine.
+« Le Document est une bête maladive, prône à contracter l'une des Trois Plaies de l'Erreur :
+l'omission, l'obfuscation, et l'obsolescence. »
+
+L'abbé sigala ceci au maître Java, qui déclara :
+« Que le moine fasse le balancier sur un pied, son bâton tendu à bout de bras, chaque jour du crépuscule à muinuit.
+Je ne mettrai fin à sa punition que si il trouve un mot qui me plaise. »
+
+« Existe-t-il un tel mot ? » demanda l'abbé.
+
+« Difficile d'en être certain, » réfléchit le maître.
+« Hier j'ai pris plaisir au son du criquet chantant après les trois premières gouttes de pluie.
+Le jour d'avant, le clapotis du lait dans un pot me renvoya à de plaisants souvenirs de jeunesse.
+Peut-être la réponse est-elle dans le parfum d'un lotus blanc qui flottait jadis dans l'étang à ma fenêtre. »
