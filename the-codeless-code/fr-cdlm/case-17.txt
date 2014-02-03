@@ -1,0 +1,23 @@
+Number: 17
+Title: Pas mon invention
+Lang: fr
+Translator: cdlm
+
+Un moine de [[Elephant's Footprint Clan|l'Emprunte d'Éléphant]] était chargé d'éliminer les montagnes de code redondant créé par son clan.
+Il approcha le prêtre en chef du clan pour savoir quelle voie suivre.
+
+« Par exemple, voici cinq manières de gérer les préférences utilisateur, »
+dit le moine, étalant les pages de code sur la table.
+« Je dois soit choisir la meilleure, soit mettre en place un compromis.
+D'un côté comme de l'autre, au moins quatre modules seront jetés au feu, et leurs auteurs devrontconsommer le code d'un rival. »
+
+« Alors vous êtes perdu, » dit le prêtre.
+« Une fois que le chat a trempé sa patte dans la marre pour en attraper une carpe, il ne laissera pas le filet, même pour dix mille souris. »
+
+Le moine essuya la sueur de son front.
+« Et ce n'est qu'un parmi une douzaine de sous-systèmes redondants que je dois fusionner !
+Aujourd'hui j'ai vu un des frères chevronnés affûter ses couteaux à lancer.
+N'y a-t-il aucune voie qui puisse apaiser les moines de notre clan ? »
+
+Le prêtre leva sa main gauche, à laquelle il manquait le petit doigt.
+« Si le chat ne peut avoir la carpe, un morceau du voleur de carpe fera office. »
