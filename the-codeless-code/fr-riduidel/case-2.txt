@@ -3,7 +3,9 @@ Title: Inconnus inexplorés
 Number: 2
 Geekiness: 0
 Lang:fr
-Translator: Riduidel
+Translator: riduidel
+Illus.0.title: À la réflexion, je prendrai juste la salade.
+
 
 L'Empereur était irrité par les défauts dans le nouveau système de gestion des commandes qu'il avait demandé,
 il envoya donc un messager au temple pour y auditer les moines.
@@ -11,8 +13,6 @@ il envoya donc un messager au temple pour y auditer les moines.
 « Son Excellence vous a envoyé ses analystes les plus éprouvés pour s'assurer que toutes les fonctionalités marcheraient comme prévu, »
 annonça le messager d'un ton furieux.
 « Vous n'avez compris aucune de leurs nombreuses présentations PowerPoint ? »
-
-<img src="/cases/2/poison.png" style="margin: 0 auto" title="À la réflexion, je prendrai juste la salade." />
 
 « Nous avons assisté à chacune, » dit le maître Java.
 « Et tout ce que l'on a entendu, a été compris. »

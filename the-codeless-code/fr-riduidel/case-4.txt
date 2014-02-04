@@ -4,7 +4,7 @@ Number: 4
 Geekiness: 0
 Topics: potentiel
 Names: Clan de l'araignée
-Translator: Riduidel
+Translator: riduidel
 Lang: fr
 
 Un nouveau prêtre du [[Spider Clan|Clan de l'araignée]] se lamentait de la mauvaise qualité du code Javascript produit par ses novices.

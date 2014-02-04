@@ -5,7 +5,7 @@ Number: 3
 Version: $Revision: 1.21 $
 Geekiness: 2
 Topics: encapsulation
-Translator: Riduidel
+Translator: riduidel
 Illus.0.title: Quoi que vous fassiez, ne lui dites pas que vous devez aller aux toilettes.
 
 
