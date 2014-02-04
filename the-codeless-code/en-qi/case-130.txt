@@ -1,0 +1,37 @@
+Title: The First Mantra
+Number: 130
+Names: Satou, Kaimu
+Topics: creativity, refactoring, philosophy
+Geekiness: 1
+Illus.0.title: "If I stand here and ask questions all day, what am I creating?" "Annoyance."
+
+The nun [[Satou]] approached master [[Kaimu]] and said, "My
+master spoke of a First Mantra which must guide the thoughts of
+Temple developers at all times.  What is this mantra?"
+
+Kaimu answered, <i>"I create.</i>  The essence of
+developer-nature is to be always in the process of
+creation when one is at a keyboard."
+
+Satou arched an eyebrow suspiciously and asked,
+"If I merely fix defects, what am I creating?"
+
+Kaimu answered, "Harmony."
+
+Satou asked, "If I refactor yet preserve behavior, what am I creating?"
+
+Kaimu answered, "Order."
+
+Satou asked, "If I delete an unused project, what am I creating?"
+
+Kaimu answered, "Disk space."
+
+Satou asked, "If I do nothing but browse the web, what am I creating?"
+
+Kaimu answered, "Missed deadlines, and a job opening."
+
+
+
+
+
+
