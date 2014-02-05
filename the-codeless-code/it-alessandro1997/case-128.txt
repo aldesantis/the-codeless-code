@@ -1,0 +1,110 @@
+Title: La prigione dei piaceri infiniti
+Number: 128
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Le scale sono solitamente malviste nelle immagini raster, così quando nessuno guarda portiamo gli skateboard in cima e applichiamo l'antialiasing.
+
+L'inverno aveva colpito il Tempio con tutta la sua forza, così un novizio del
+[[Clan of Iron Bones|Clan delle Ossa di Ferro]] scelse di passare il suo periodo di vacanza visitando i fratelli nella
+provincia di Phong, a sud. I monaci di quel luogo lavoravano nelle piane di una grande <em>render farm</em>{{*}}, dove
+la luce direzionale era gloriosamente calda in ogni stagione.
+
+Per tutta la mattina il novizio guardò come i fratelli istruiti correvano avanti e indietro, piantando semi di numeri
+casuali, costruendo <em>bounding box</em>{{**}},  o avvolgendo anche il più piccolo modello in
+<em>wire frame</em>{{***}} in modo che i suoi pixel fiorissero proprio nei punti giusti. In questo modo venivano
+prodotte scene succulente di ogni sfumatura e colore, per soddisfare i gusti della Corte Imperiale.
+
+Mentre il mezzogiorno si avvicinava, lo stomaco del novizio incominciò a borbottare. Poiché doveva essere accompagnato
+per entrare formalmente nel tempio, il novizio si avvicinò a un bel ragazzo all'incirca della sua età che stava
+piantando delle fonti di luce artificiale sopra un bosco di piccoli <em>quadtree</em>{{****}}. I vestiti del ragazzo
+erano di lino grezzo e robusto, ma come testimonianza del rigore dei suoi doveri le tonalità, una volta vivide, erano
+ridotte a deboli macchioline, entrambe le ginocchia erano coperte da pezze biquadratiche, e il polsino sinistro mostrava
+segni di aliasing.
+
+"Diecimila scuse" disse il novizio (sentendosi ancora più colpevole per la sua inutilità) "ma questo corpo miserabile
+mi consumerà finché non gli darò una ciotola di riso. Dov'è il tuo maestro, così che possa pregarlo o barattare con
+lui?"
+
+"Nelle sue stanze, dove molto presto dovrò andare per portargli la sua ciotola" disse il ragazzo. "Vieni a prenderla con
+me e riempirò anche la tua, giacché in questo periodo dell'anno i nostri <em>buffer</em>{{*****}} sono sempre pieni."
+
+Il novizio accettò la generosa porzione di riso, quindi seguì il ragazzo nel suo viaggio su per la buia scala a
+chiocciola che era il solo corridoio del tempio. Era costruita così, spiegò il ragazzo, per confondere i fotoni randagi.
+
+"Perché il riflesso è il nostro più acerrimo nemico" disse il ragazzo, aprendo la porta per la camera del suo maestro.
+"Anche se ci sono pericoli più grandi, come il mio maestro potrebbe certamente dirti se fosse ancora qui."
+
+Il novizio seguì il ragazzo all'interno, intrigato. L'alta stanza senza finestre era illuminata solo dal bagliore
+diffuso di un monitor su una scrivania solitaria. La superficie del largo monitor non poteva essere vista da
+quell'angolo, ma lo sguardo vitreo dell'uomo dietro di esso, con lo sguardo immobile e la bava alla bocca, fece rizzare
+i capelli del novizio come se il suo scalpo avesse ordinato a ogni follicolo di indicare il suo vettore normale.
+
+Il ragazzo posò lentamente la ciotola davanti al suo maestro, quindi indietreggiò, facendo attenzione a tenere gli occhi
+lontani dallo schermo.
+
+"È perso" spiegò il ragazzo amaramente. "Vedi, molto tempo fa elaborò un ingegnoso algoritmo per raffigurare ogni parte
+del <em>mandelblob</em> in un battito di ciglia..."
+
+"Ho sentito parlare di questa forma" interruppe il novizio, incapace di staccare gli occhi dall'espressione del maestro.
+"Solamente voci... una temibile equazione così piccola che può essere scritta sul mio mignolo, e che pure descrive una
+sfera frattale di infinita complessità."
+
+"Non una semplice sfera" continuò il ragazzo. "Un mondo; un mondo decadente, implicito nelle leggi della teoria dei
+numeri. Permeato da caverne dentro caverne dentro caverne, le loro pareti segnate da impressionanti voragini, crepe
+spalancate e fessure in eruzione. Prendi qualunque tunnel intrecciato, il più regolare che tu possa immaginare, e se ti
+avvicini abbastanza potrai scoprire che la superficie si contorce e bolle come carne putrida all'apice della
+liquefazione, gettando flaccide stalagmiti piene di funghi, funghi su funghi su funghi troppo piccoli per essere
+immaginati, finché non svaniscono nei loro stessi asintoti, eruttando dall'altra parte spore su spore su spore; e ogni
+spora è un mondo in decadimento così infinitamente complesso come il suo progenitore, eppure malignamente diverso da
+esso...
+
+"Il mio maestro aveva appena incominciato a esplorare questa forma quando per sbaglio si avvicinò troppo a un
+particolare nodulo nanoscopico, una spora casuale in mezzo a miliardi, e trovò -- o così disse -- che era un'immagine
+verosimile del <em>nostro stesso mondo</em>. Sì! Montagne matematiche esattamente dove sono le <em>nostre</em> montagne,
+piene di protuberanze a punta simili a felci o alberi d'abete, tutti della stessa nauseante tonalità dell'ambra, come i
+cumuli virtuali che fluttuavano al di sopra, e le granulose battigie simulate con le loro picoparticelle di sabbia
+ambrata, dove granulose onde ambrate stavano pronte a rompersi, ma senza mai farlo; perché questo è un mondo
+<em>tri</em>dimensionale, e poiché la quarta è preclusa nulla si muove, neanche le persone. Già, le persone!
+Monocromatiche statue grottesche nel viso e nella forma, eppure umane fino alle ciglia, ai pori nelle loro narici, come
+caverne dentro caverne...
+
+"Ma nella sua tremante fretta di inabissarsi nelle profondità di questo mondo più piccolo di un escremento di mosca, il
+mio maestro cliccò il sinistro invece del destro. Il suo cursore saltò di lato e le coordinate cruciali furono perdute
+per sempre. Mi dicono che le sue urla di angoscia potevano essere udite sulle colline tutt'intorno. Ogni monaco del
+tempio accorse alla sua camera, ansioso di scoprire quale grande disastro fosse accaduto. E così egli raccontò la storia
+della sua scoperta.
+
+"Gli altri maestri risero di lui, lo chiamarono bugiardo e pazzo. Persino i monaci di basso rango lo scansavano. Così
+egli decise di riscattare il proprio nome trovando di nuovo quelle coordinate.
+
+"I giorni divennero settimane, divennero mesi, divennero anni, e ora guarda a cosa è ridotto: un prigioniero della
+Sfera Unitaria, che esplora in continuazione senza mai andare da nessuna parte, tenuto prigioniero dalla sua stessa
+ossessione. Per un certo tempo, forse, credette di essersi imbattuto in qualche Grande Verità dell'Universo, una
+computabile corrispondenza tra il mondo della carne e quello dei numeri. Ora non so indovinare quali terre esplori o
+perché, né vorrei farlo, per paura di soccombere a qualche irresistibile fascino e condividere così la sua sorte. Si
+dice che l'uomo avvisato sia mezzo salvato, ma per quanto mi riguarda ho paura della mia mente. Quando il reale incontra
+l'immaginario, il loro prodotto è sempre complesso."
+
+Il novizio si sporse in avanti per scrutare il bordo dello schermo, ma il ragazzo lo fermò.
+
+"Prendi il tuo riso e lascia questo luogo maledetto" disse il ragazzo. "E riporta questa verità al tuo tempio: che la
+Render Farm della Provincia di Phong non è migliore di un campo di papaveri, dove ogni giorno si semina la maledizione
+della nostra gente."
+
+"Non capisco" disse il novizio.
+
+"L'Imperatore deve solo nominare un piacere -- l'ebbrezza della battaglia tra le stelle, la vista di persone impudiche
+impegnate in attività lascive -- e la serviremo nelle sue camere private in sei milioni di pixel di sedici milioni di
+colori a sessanta frame per secondo. Ma non invidiarlo per questo. Invece, temi il giorno che tu e io potremo godere
+della stessa libertà, giacché nonostante abbiamo creato un'eternità di meraviglie qui, nessuno di noi ha un'eternità per
+poterle esplorare. Com'è prezioso il tempo; e com'è vuoto, ultimamente, ogni mondo tranne il nostro."
+
+{{*}} Una <em>render farm</em> è, in informatica, un insieme di macchine che rappresentano immagini. <em>Farm</em>, in inglese, è "fattoria".
+
+{{**}} Una <em>bounding box</em> è in geometria l'area, il volume o l'ipervolume più piccolo che contiene tutti i punti dati. <em>Box</em> in inglese vuol dire anche "scatola".
+
+{{***}} Il <em>wire frame</em> (letteralmente "fil di ferro") è una tecnica per rappresentare oggetti tridimensionali.
+
+{{****}} Il <em>quadtree</em> è una struttura dati usata nella rappresentazione di immagini. <em>Tree</em> in inglese vuol dire "albero".
+
+{{*****}} Il <em>buffer</em> è, in informatica, una zona di memoria. Viene qui usato col significato più generico di "contenitore".
