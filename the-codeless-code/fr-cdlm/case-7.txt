@@ -6,33 +6,33 @@ Illus.1.title: Passée la première centaine d'années, on devient bien meilleur
 
 Les moines du [[Laughing Monkey Clan|Clan du Singe Rieur]] approchèrent le maître Java avec une liste de griefs.
 
-« Notre plus grande frustration est le processus de test », insista le plus jeune moine.
-« Tester manuellement est fastidieux, et les tests automatisés sont pénibles à écrire.
-Tous deux nous distrayent de l'écriture de code. »
+« Notre plus grande frustration est le processus de test », insista le plus jeune moine.
+« Tester manuellement est fastidieux, et les tests automatisés sont pénibles à écrire.
+Tous deux nous distrayent de l'écriture de code. »
 
-Le maître considéra ces mots, et dit :
-« Il est certain que nous pourrions renoncer entièrement aux tests,
+Le maître considéra ces mots, et dit :
+« Il est certain que nous pourrions renoncer entièrement aux tests,
 si nous avions l'assurance que notre code est parfait.
-Comment, donc, pouvons nous atteindre la perfection ? »
+Comment, donc, pouvons nous atteindre la perfection ? »
 
-« Par la pratique », dit un moine.
+« Par la pratique », dit un moine.
 
-« Par de diligentes études », dit un autre.
+« Par de diligentes études », dit un autre.
 
-« Par l'appaisement des dieux appropriés », dit un troisième.
+« Par l'appaisement des dieux appropriés », dit un troisième.
 
-Un vieux moine à la barbe blanche, qui était resté assis en silence dans son coin, releva la tête :
+Un vieux moine à la barbe blanche, qui était resté assis en silence dans son coin, releva la tête :
 
-« Je sais comment atteindre la perfection, » commença-t-il.
-« Mais je crains que quiconque entendra ma réponse doutera de sa vérité à jamais,
+« Je sais comment atteindre la perfection, » commença-t-il.
+« Mais je crains que quiconque entendra ma réponse doutera de sa vérité à jamais,
 à moins que je ne prononce exactement les bons mots,
 avec la plus agréable des intonations,
 au moment le plus propice du jour.
-Il me faut maintenant considérer comment procéder au mieux. »
+Il me faut maintenant considérer comment procéder au mieux. »
 
 Le vieux moine fit silence, longuement.
 La cloche du dîner finit par sonner.
 
-« Combien de temps cela prendra-t-il ? » s'enquérit l'un des novices.
+« Combien de temps cela prendra-t-il ? » s'enquérit l'un des novices.
 
-« Pas plus d'une centaine d'années » fut la réponse du vieux moine.
+« Pas plus d'une centaine d'années » fut la réponse du vieux moine.

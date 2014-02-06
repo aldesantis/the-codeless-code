@@ -1,34 +1,34 @@
-﻿Number: 2
+Number: 2
 Title: Inconnues indéterminées
-Lang:fr
+Lang: fr
 Translator: cdlm
 Illus.0.title: À la réflexion, je prendrai juste la salade.
 
 L'Empereur était irrité par les défauts dans le nouveau système de gestion des commandes qu'il avait demandé,
 il envoya donc un messager au temple pour y auditer les moines.
 
-« Son Excellence vous a envoyé ses analystes les plus éprouvés pour s'assurer que toutes les fonctionalités marcheraient comme prévu, »
+« Son Excellence vous a envoyé ses analystes les plus éprouvés pour s'assurer que toutes les fonctionalités marcheraient comme prévu, »
 annonça le messager d'un ton furieux.
-« N'avez vous compris aucune de leurs nombreuses présentations PowerPoint ? »
+« N'avez vous compris aucune de leurs nombreuses présentations PowerPoint ? »
 
-« Nous avons assisté à chacune, » dit le maître Java.
-« Et tout ce que l'on a entendu, a été compris. »
+« Nous avons assisté à chacune, » dit le maître Java.
+« Et tout ce que l'on a entendu, a été compris. »
 
 Le maître mit un petit bol de riz devant le messager, qui le finit promptement.
-Le messager s'essuya la bouche sur sa manche et continua :
+Le messager s'essuya la bouche sur sa manche et continua :
 
-« Ces mêmes analystes vous ont fourni dix mille pages de documents d'exigences,
+« Ces mêmes analystes vous ont fourni dix mille pages de documents d'exigences,
 méticuleusement illustrés jusqu'au dernier des cas d'utilisation.
-Ne vous-êtes vous pas donné la peine de les examiner ? »
+Ne vous-êtes vous pas donné la peine de les examiner ? »
 
-« Nous avons passé au crible chaque page, » dit le maître Java.
-« Et tout ce qui a été lu, a été compris. »
+« Nous avons passé au crible chaque page, » dit le maître Java.
+« Et tout ce qui a été lu, a été compris. »
 Le maître mit une tasse fumante de thé devant le messager, qui l'avala d'un trait.
 
 Le messager tomba alors en avant sur la table, mort.
 
-Le maître demanda à ses élèves :
-« Le messager ne savait-il pas que nous avons l'habitude de nous entourer de nourriture et de boissons empoisonnées,
-afin que nous puissions mieux résister aux pulsions de la chair ? »
+Le maître demanda à ses élèves :
+« Le messager ne savait-il pas que nous avons l'habitude de nous entourer de nourriture et de boissons empoisonnées,
+afin que nous puissions mieux résister aux pulsions de la chair ? »
 
-« Tout ce qui a été observé par le messager, a été compris. » déclara le plus sage des moines.
+« Tout ce qui a été observé par le messager, a été compris. » déclara le plus sage des moines.

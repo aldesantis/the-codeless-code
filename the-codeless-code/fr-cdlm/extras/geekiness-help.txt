@@ -1,6 +1,6 @@
 Les degrés de geekitude
 
-Dans le but de ne pas trop frustrer le lecteur, l'auteur a classé chaque cas selon les critères suivants :
+Dans le but de ne pas trop frustrer le lecteur, l'auteur a classé chaque cas selon les critères suivants :
 
 Pas geek.
 	Si vous savez ce qu'est un ordinateur, vous pouvez probablement comprendre ceci.

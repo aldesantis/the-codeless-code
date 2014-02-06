@@ -3,24 +3,24 @@ Title: Hello, World
 Lang: fr
 Translator: cdlm
 
-Lors de leur premier jour au temple, le maître Java posa les trois questions suivantes aux novices :
+Lors de leur premier jour au temple, le maître Java posa les trois questions suivantes aux novices :
 
-« Souvent, quand on apprend un nouveau langage ou une nouvelle bibliothèque, le premier programme qu'on écrit est /Hello, World/.
+« Souvent, quand on apprend un nouveau langage ou une nouvelle bibliothèque, le premier programme qu'on écrit est /Hello, World/.
 Le but est d'afficher ces mots d'une manière qui montre le fonctionnement attendu de la technologie.
 Une fois cela fait, le programme n'est plus jamais lancé.
 
-« Maintenant : pourquoi ce programme dit-il /bonjour/, mais pas /au revoir/ ?
+« Maintenant : pourquoi ce programme dit-il /bonjour/, mais pas /au revoir/ ?
 
-« Également : pourquoi dire bonjour au /monde/, alors que l'auditoire n'est qu'une pauvre âme qui jettera le programme une fois son premier cri poussé ?
+« Également : pourquoi dire bonjour au /monde/, alors que l'auditoire n'est qu'une pauvre âme qui jettera le programme une fois son premier cri poussé ?
 
-« Et aussi : pourquoi devrait-ce être des salutations, puisque personne n'y répondra ? »
+« Et aussi : pourquoi devrait-ce être des salutations, puisque personne n'y répondra ? »
 
 - - -
 
 //
 Dites-moi un mot qui signifie autant /bonjour/ qu'<i>au revoir</i> -- //
-n'est-ce pas ça le premier cri d'un enfant ? //
+n'est-ce pas ça le premier cri d'un enfant ? //
 //
 Trouvez-moi un sommet duquel on voie monde -- //
 dans quel œil, alors, se reflète chaque tigre, //
-ainsi que le désert de sable sans fin?
+ainsi que le désert de sable sans fin ?
