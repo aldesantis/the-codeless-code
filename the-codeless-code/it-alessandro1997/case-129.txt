@@ -1,0 +1,28 @@
+Title: Come una pietra che rotola
+Number: 129
+Lang: it
+Translator: alessandro1997
+
+Persino nel migliore dei giorni trattare col monaco [[Wangohan]] sarebbe stato come ingurgitare dell'aceto vecchio, ma
+il lungo e tetro inverno l'aveva reso ancora più scontroso. A molti andava il suo sdegno, ma nessuno era disprezzato
+quanto [[Landhwa]]:
+
+"La sua pigrizia non è un segreto" si lamentò Wangohan con un povero novizio (che capì troppo tardi come mai le sedie
+vicino a Wangohan fossero sempre vuote) nell'ora del pasto, "eppure non riceve correzione dai suoi maestri. Egli
+presenta <em>l'illusione</em> di essere produttivo ma in realtà sta lavorando ai suoi progetti personali. Gli ho chiesto
+di implementare una dozzina di semplici DAO; ha rifiutato perché il lavoro era troppo noioso, quindi perso una settimana
+per sviluppare un generatore di codice DAO che lo facesse al posto suo."
+
+Quando il gong invitò i monaci a tornare ai loro cubicoli, un monaco anziano prese da parte il novizio.
+
+"Quale impressione hai avuto del nostro fratello Wangohan?" chiese il monaco con un largo sorriso. "Certamente hai
+qualcosa da dire su di lui, a meno che non ti abbia troppo rintronato."
+
+Il novizio rifletté un istante.
+
+"Wangohan ha lo spirito del mulo: dedicato e laborioso" disse il novizio. "Mi fiderei di lui per portare diecimila
+pietre dalla valle al tempio."
+
+"Alta considerazione" disse il monaco anziano.
+
+"Dici?" chiese il novizio. "Il suo rivale Landhwa prima costruirebbe una carriola."
