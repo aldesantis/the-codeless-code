@@ -6,17 +6,17 @@ Illus.0.title: Le scale sono solitamente malviste nelle immagini raster, così q
 
 L'inverno aveva colpito il Tempio con tutta la sua forza, così un novizio del
 [[Clan of Iron Bones|Clan delle Ossa di Ferro]] scelse di passare il suo periodo di vacanza visitando i fratelli nella
-provincia di Phong, a sud. I monaci di quel luogo lavoravano nelle piane di una grande <em>render farm</em>{{*}}, dove
+provincia di Phong, a sud. I monaci di quel luogo lavoravano nelle piane di una grande <em>render farm</em>{{1}}, dove
 la luce direzionale era gloriosamente calda in ogni stagione.
 
 Per tutta la mattina il novizio guardò come i fratelli istruiti correvano avanti e indietro, piantando semi di numeri
-casuali, costruendo <em>bounding box</em>{{**}},  o avvolgendo anche il più piccolo modello in
-<em>wire frame</em>{{***}} in modo che i suoi pixel fiorissero proprio nei punti giusti. In questo modo venivano
+casuali, costruendo <em>bounding box</em>{{2}},  o avvolgendo anche il più piccolo modello in
+<em>wire frame</em>{{3}} in modo che i suoi pixel fiorissero proprio nei punti giusti. In questo modo venivano
 prodotte scene succulente di ogni sfumatura e colore, per soddisfare i gusti della Corte Imperiale.
 
 Mentre il mezzogiorno si avvicinava, lo stomaco del novizio incominciò a borbottare. Poiché doveva essere accompagnato
 per entrare formalmente nel tempio, il novizio si avvicinò a un bel ragazzo all'incirca della sua età che stava
-piantando delle fonti di luce artificiale sopra un bosco di piccoli <em>quadtree</em>{{****}}. I vestiti del ragazzo
+piantando delle fonti di luce artificiale sopra un bosco di piccoli <em>quadtree</em>{{4}}. I vestiti del ragazzo
 erano di lino grezzo e robusto, ma come testimonianza del rigore dei suoi doveri le tonalità, una volta vivide, erano
 ridotte a deboli macchioline, entrambe le ginocchia erano coperte da pezze biquadratiche, e il polsino sinistro mostrava
 segni di aliasing.
@@ -26,7 +26,7 @@ mi consumerà finché non gli darò una ciotola di riso. Dov'è il tuo maestro, 
 lui?"
 
 "Nelle sue stanze, dove molto presto dovrò andare per portargli la sua ciotola" disse il ragazzo. "Vieni a prenderla con
-me e riempirò anche la tua, giacché in questo periodo dell'anno i nostri <em>buffer</em>{{*****}} sono sempre pieni."
+me e riempirò anche la tua, giacché in questo periodo dell'anno i nostri <em>buffer</em>{{5}} sono sempre pieni."
 
 Il novizio accettò la generosa porzione di riso, quindi seguì il ragazzo nel suo viaggio su per la buia scala a
 chiocciola che era il solo corridoio del tempio. Era costruita così, spiegò il ragazzo, per confondere i fotoni randagi.
@@ -99,12 +99,8 @@ colori a sessanta frame per secondo. Ma non invidiarlo per questo. Invece, temi 
 della stessa libertà, giacché nonostante abbiamo creato un'eternità di meraviglie qui, nessuno di noi ha un'eternità per
 poterle esplorare. Com'è prezioso il tempo; e com'è vuoto, ultimamente, ogni mondo tranne il nostro."
 
-{{*}} Una <em>render farm</em> è, in informatica, un insieme di macchine che rappresentano immagini. <em>Farm</em>, in inglese, è "fattoria".
-
-{{**}} Una <em>bounding box</em> è in geometria l'area, il volume o l'ipervolume più piccolo che contiene tutti i punti dati. <em>Box</em> in inglese vuol dire anche "scatola".
-
-{{***}} Il <em>wire frame</em> (letteralmente "fil di ferro") è una tecnica per rappresentare oggetti tridimensionali.
-
-{{****}} Il <em>quadtree</em> è una struttura dati usata nella rappresentazione di immagini. <em>Tree</em> in inglese vuol dire "albero".
-
-{{*****}} Il <em>buffer</em> è, in informatica, una zona di memoria. Viene qui usato col significato più generico di "contenitore".
+{{1}} Una <em>render farm</em> è, in informatica, un insieme di macchine che rappresentano immagini. <em>Farm</em>, in inglese, è "fattoria".
+{{2}} Una <em>bounding box</em> è in geometria l'area, il volume o l'ipervolume più piccolo che contiene tutti i punti dati. <em>Box</em> in inglese vuol dire anche "scatola".
+{{3}} Il <em>wire frame</em> (letteralmente “fil di ferro”) è una tecnica per rappresentare oggetti tridimensionali.
+{{4}} Il <em>quadtree</em> è una struttura dati usata nella rappresentazione di immagini. <em>Tree</em> in inglese vuol dire "albero".
+{{5}} Il <em>buffer</em> è, in informatica, una zona di memoria. Viene qui usato col significato più generico di "contenitore".
