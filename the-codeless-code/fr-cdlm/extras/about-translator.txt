@@ -1,0 +1,6 @@
+Translator: cdlm
+Name: Damien Pollet
+Nom: Damien Pollet
+URL: http://people.untyped.org/damien.pollet/
+
+
