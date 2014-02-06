@@ -4,7 +4,7 @@ Number: 23
 Geekiness: 0
 Names: Zjing, One Shoe Clan
 Topics: elegance, code reviews
-Illus.0.src: shape.png
+Illus.0.src: Shape.jpg
 
 One morning a nun named [[Zjing]] was passing by a
 terminal, around which were clustered several learned
