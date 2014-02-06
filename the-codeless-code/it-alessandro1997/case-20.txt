@@ -1,0 +1,68 @@
+Title: Né sì, né no
+Number: 20
+Lang: it
+Translator: alessandro1997
+
+Una monaca del [[Elephant's Footprint Clan|Clan dell'Orma di Elefante]] sedeva a gambe incrociate sulla propria
+scrivania, contemplando in silenzio un diagramma Entità-Relazione sulla sua lavagna.
+
+Il maestro Java{{*}} lo notò e si avvicinò.
+
+Il Dio del Silenzio tra le Parole era già nella stanza.
+
+- - -
+
+La monaca indicò il diagramma. "Questa colonna chiamata <em>completo</em> è dichiarata in modo da contenere un intero.
+Un esame dei dati mostra che essa contiene due soli valori: zero e uno. Presumo che lo zero indichi falsità, e l'uno
+verità."
+
+Disse il maestro: "Solo un iniziato può dire cosa sia contato con questi numeri."
+
+Disse il Dio del Silenzio tra le Parole: "La presenza di un singolo zero implica l'esistenza di un uno per contarlo,
+e poi di un due per contare entrambi, e così via all'infinito. Che l'universo sia nato allo stesso modo dall'uovo di un
+serpente?"
+
+- - -
+
+La monaca alzò le prime due dita della sua mano destra. "Ho pensato di memorizzare un due in una riga casuale,
+meramente per osservare l'effetto sull'applicazione."
+
+Disse il maestro: "Tu cerchi di determinare se la verità sia considerata come la presenza di uno, o l'assenza di uno
+zero."
+
+Disse il Dio del Silenzio tra le Parole: "L'assenza di uno zero implica una presenza. La presenza di uno zero implica
+un'assenza. Quando il serpente divora la propria coda fino alla punta della propria lingua, allora cosa rimane?"
+
+- - -
+
+La monaca si portò l'indice al mento. "La colonna consente anche valori nulli. Se la colonna chiede una domanda, la
+convenzione detta che un valore nullo rappresenti una risposta sconosciuta."
+
+Disse il maestro: "Questo valore nullo è la scaltra pausa che precede una menzogna, o la quiete prima della rivelazione
+della verità. La sua qualità è interamente in ciò che diverrà. Solo quando smetterà di esistere potremo capire cosa
+fosse."
+
+Disse il Dio del Silenzio tra le Parole: "Il fantasma prende la forma di chi non c'è più. Ma quale forma possiamo
+assegnare allo spirito di chi ancora deve nascere?"
+
+- - -
+
+La monaca congiunse le mani. "Prima che l'applicazione interroghi il database, il valore di questa colonna è
+sconosciuto. Dopo, ogni valore nullo in questa colonna sarà rappresentato intenzionalmente come un booleano nullo. Il
+valore è così conosciuto e sconosciuto contemporaneamente."
+
+Disse il maestro: "Abbiamo imparato solo che non abbiamo imparato nulla, eppure questa è la radice della saggezza."
+
+Disse il Dio del Silenzio tra le Parole: "Il saggio e lo stolto vanno alla tomba entrambi allo stesso modo: entrambi
+pensano che il saggio sia uno stolto. Dove, dunque, si può trovare la saggezza?"
+
+- - -
+
+La monaca incrociò le braccia. "L'intero SQL nullo, salvato, diventa il booleano nullo nella memoria temporanea. Due
+nulli, di due nature totalmente differenti. Come può l'assenza essere ineguale?"
+
+Il maestro annuì.
+
+Il Dio del Silenzio tra le Parole alzò un sopracciglio.
+
+{{*}} Probabilmente [[Kaimu]].
