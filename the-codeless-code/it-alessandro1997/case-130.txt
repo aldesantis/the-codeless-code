@@ -1,0 +1,27 @@
+Title: The First Mantra
+Number: 130
+Lang: it
+Translator: alessandro1997
+Illus.0.title: "Se sto qui e faccio domande tutto il giorno, cosa sto creando?" "Fastidio."
+
+La suora [[Satou]] si avvicinò al maestro [[Kaimu]] e disse: "Il mio maestro ha parlato di un Primo Mantra che deve
+guidare gli sviluppatori del tempio in ogni momento. Qual è questo mantra?"
+
+Kaimu rispose: "<em>Io creo.</em> L'essenza della natura dello sviluppatore è essere sempre nel processo creativo quando
+si è alla tastiera."
+
+Satou inarcò un sopracciglio con sospetto e chiese: "Se mi limito a correggere difetti, cosa sto creando?"
+
+Kaimu rispose: "Armonia."
+
+Satou chiese: "Se rifattorizzo ma mantengo la funzionalità, cosa sto creando?"
+
+Kaimu rispose: "Ordine."
+
+Satou chiese: "Se cancello un progetto inutilizzato, cosa sto creando?"
+
+Kaimu rispose: "Spazio sul disco."
+
+Satou chiese: "Se non faccio nulla ma navigo il web, cosa sto creando?"
+
+Kaimu rispose: "Scadenze mancate, e un posto di lavoro."
