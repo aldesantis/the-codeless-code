@@ -1,0 +1,61 @@
+Number: 18
+Title: Caractéristiques nécessaires
+Lang: fr
+Translator: cdlm
+
+Ce même moine de [[Elephant's Footprint Clan|l'Emprunte d'Éléphant]] scrutait le code créé par son clan.
+Il y avait plusieurs implémentations rivales d'un Objet d'Accès aux Données particulier ;
+il essayait de décider laquelle serait finalement adoptée par son clan.
+
+« Chaque implémentation a ses propres vertus et vexations, » dit le moine au maître Java.
+« Et chacune a des fonctionnalités que les autres n'ont pas.
+Je dois les jeter toutes sauf une aux vents de l'oubli.
+Comment suis-je supposé choisir ? »
+
+« Je ne peux répondre quand j'ai soif, » dit le maître.
+« Il y a trois tasses de bois dans l'armoire à côté de toi.
+Remplis-en une à la rivière, la deuxième au puits du temple, et la troisième auprès du vendeur d'eau du village.
+Ramène-moi les trois sans en perdre une goutte, et je verrai ce que je peux faire pour t'aider. »
+
+Le moine fit cela, et placa les trois récipients devant le maître.
+
+« Qu'as-tu appris ? » demanda le maître.
+
+Le moine s'inclina.
+« Si on donne une pièce au vendeur d'eau du village, il frappe un gong par deux fois :
+une fois avant de remplir votre tasse, et une seconde quand vous avez bu votre première gorgée.
+Si on remplit sa tasse au puits du temple, aucun gong ne sonne, mais le seau est lourd.
+Si on trempe sa tasse dans la rivière, les poissons sont troublés et le dieu-rivière doit être apaisé par une offrande de dix pierres blanches. »
+
+« Je ne peux en boire qu'une, » dit le maître.
+« Laquelle trouverai-je la plus plaisante ? »
+
+Le moine contempla cela attentivement.
+« La rivière était froide, mais pas complètement claire.
+Le puits du temple, j'y ai bu par le passé : ses eaux ont le goût amer du calcaire.
+Et bien que je ne connaisse pas le vendeur d'eau, j'ai entendu son gong maintes fois aujourd'hui.
+Par conséquent, je choisirais la tasse du vendeur d'eau. »
+
+« Une conclusion des plus raisonnables, » dit le maître.
+« En effet, j'ai rendu visite à ce même vendeur d'eau chaque matin depuis huit ans, et j'ai trouvé l'expérience parfaitement satisfaisante à chaque fois.
+Quel est le récipient qu'il a rempli ? »
+
+Le maître prit une gorgée à la tasse indiquée, et son visage s'assombrit de déception.
+« Jeune frère, » dit-il.
+« Tu t'es totalement mépris sur ma soif.
+Où est le son du gong ? »
+
+- - -
+
+La soif du maître est insatisfaite //
+mais le moine goûte sa réponse -- //
+de quel son a-t-elle été versée ? //
+
+Le moine aurait mieux fait //
+de placer un encensoir de bronze à la fenêtre //
+et d'attendre simplement la pluie. //
+
+
+###END
+
+That last line in the first stanza was tricky to understand and translate without multiple recursive passive forms… hopefully this works reasonably faithfully to the original.
