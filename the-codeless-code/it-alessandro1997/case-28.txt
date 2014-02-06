@@ -1,0 +1,66 @@
+Title: Eco
+Number: 28
+Lang: it
+Translator: alessandro1997
+
+Il [[Clan of Iron Bones|Clan delle Ossa di Ferro]] era incaricato della manutenzione dei server. Questo era il loro
+scopo, e questo il loro orgoglio.
+
+Un monaco di quel clan stava eseguendo un test di sicurezza quando notò diversi servizi non essenziali abilitati. Fece
+rapporto sulle sue scoperte all'abate.
+
+"Dovremmo spegnere il servizio <em>echo</em> sulla porta sette" disse il monaco. "È un rimasuglio di tempi dimenticati,
+e non ha alcuno scopo utile ora. Tutto ciò che fa è vomitare indietro qualunque cosa gli si dia in pasto, come aiuto per
+testare la latenza e la connettività di rete."
+
+Con grande sorpresa del monaco, l'abate lo bandì immediatamente per un anno, rinchiudendolo in un eremo tra le
+montagne. Nessuna motivazione venne fornita.
+
+Il viaggio prese molte settimane. La strada si diramava verso l'alto e infine scompariva in mezzo a cumuli di neve.
+L'aria era sempre più rarefatta. Nelle ultime miglia le montagne divennero terribilmente ripide: il sentiero quasi
+invisibile costeggiava un immenso burrone di cui non si vedeva la fine. Quando cadde la notte il monaco quasi perse la
+vita tenendosi troppo vicino al bordo.
+
+Infine raggiunse un rifugio arrampicato su una cima rocciosa. Il rifugio era freddo e spoglio tranne per un letto, una
+ciotola e un'antica postazione di lavoro con un terminale VT220.
+
+Un giorno il monaco stava meditando quando il terminale emise un bip. Sullo schermo lesse:
+
+<pre>
+  <strong>Connessione ricevuta. Payload:</strong>
+  Diecimila saluti al nostro lontano cugino!
+  <strong>Risposta?</strong>
+</pre>
+
+Il monaco, eccitato, rispose con un turbine di domande, ma ogni suo input era rifiutato dal terminale. In un attimo il
+monaco fu illuminato, e rispose:
+
+<pre>
+  Diecimila saluti al nostro lontano cugino!
+</pre>
+
+Dopo questo il terminale si accendeva per non più di una volta ogni qualche giorno. A volte il messaggio era un semplice
+<em>ciao</em>. A volte era un piccolo poema sui capricci di una rapida volpe bruna{{1}}. Spesso era solo una stringa di
+spazzatura. Ma il monaco rispondeva sempre prontamente e fedelmente.
+
+In questo modo il monaco passò un anno.
+
+Quando tornò al tempio continuò in questa maniera: parlando solo quando gli si rivolgeva la parola e restituendo le
+parole esattamente com'erano date. E nonostante questo gli costò il disprezzo dei suoi fratelli, tutti dovevano
+ammettere che non spettegolava mai, non mentiva mai per guadagno personale, e non insultava mai qualcuno che non lo
+avesse ferito per primo.
+
+== Il commento di Qi
+
+La penitenza del monaco fu fin troppo lieve; è stato fortunato. Se si fosse invece lamentato del servizio
+<em>discard</em>{{2}} sulla porta nove, avrebbe imparato a tenere a freno la lingua.
+
+== Il poema di Qi
+
+La torre si erge orgogliosa, //
+la statua fissa il mare. //
+Quale grande opera non fu creata //
+perché il costruttore potesse vedere il proprio riflesso nel mondo?
+
+{{1}} <em>The quick brown fox jumps over the lazy dog</em>, ossia "La rapida volpe bruna salta oltre il pigro cane", è un pangramma usato spesso per testare macchine da scrivere e altri strumenti.
+{{2}} Il servizio <em>discard</em> scarta qualunque input. <em>To discard</em> in inglese vuol dire "scartare".
