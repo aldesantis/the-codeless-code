@@ -49,13 +49,11 @@ Où est le son du gong ? »
 
 La soif du maître est insatisfaite //
 mais le moine goûte sa réponse -- //
-de quel son a-t-elle été versée ? //
+de quel son a-t-elle été puisée ? {{1}} //
 
 Le moine aurait mieux fait //
 de placer un encensoir de bronze à la fenêtre //
 et d'attendre simplement la pluie. //
 
 
-###END
-
-That last line in the first stanza was tricky to understand and translate without multiple recursive passive forms… hopefully this works reasonably faithfully to the original.
+{{1}} Note du traducteur : cette ligne est difficile à traduire fidèlement sans de multiples circonlocutions et formes passives. J'ai essayé de traduire l'esprit de la phrase plutôt que la lettre.
