@@ -3,21 +3,21 @@ Title: Conséquences
 Lang: fr
 Translator: cdlm
 
-Trois jeunes moines -- un du [[Spider Clan|Clan de l'Araignée]], un du [[Laughing Monkey Clan|Singe Rieur]], et un de [[Elephant's Footprint|l'Emprunte d'Éléphant]] -- débattaient de quelle couche était la plus importante : la couche de présentation, la couche métier, ou la couche de persistance.
+Trois jeunes moines -- un du [[Spider Clan|Clan de l'Araignée]], un du [[Laughing Monkey Clan|Singe Rieur]], et un de [[Elephant's Footprint|l'Emprunte d'Éléphant]] -- débattaient de quelle couche était la plus importante : la couche de présentation, la couche métier, ou la couche de persistance.
 Ils décidèrent finalement de poser la question au maître Java.
 
-Le maître convoqua l'un des robustes jardiniers qui entretenaient les terres du temple, et lui donna instruction ainsi :
-« Rossez et bottez ces trois moines pendant une minute.
-Ensuite, vous pouvez continuer à les battre aussi longtemps que vous le désirez. »
+Le maître convoqua l'un des robustes jardiniers qui entretenaient les terres du temple, et lui donna instruction ainsi :
+« Rossez et bottez ces trois moines pendant une minute.
+Ensuite, vous pouvez continuer à les battre aussi longtemps que vous le désirez. »
 
 Le jardinier rossa les moines pendant sept bonnes minutes, puis s'inclina et s'en fut.
 
-« Maintenant, » dit le maître.
-« Qui porte la plus lourde responsabilité pour vos contusions aujourd'hui ?
-Moi-même, pour avoir commandé au jardinier ; le jardinier, pour les six minutes laissées à sa discrétion ; ou les poings et pieds du jardinier ?
-Mesurez votre réponse, ou je devrai l'appeler à nouveau. »
+« Maintenant, » dit le maître.
+« Qui porte la plus lourde responsabilité pour vos contusions aujourd'hui ?
+Moi-même, pour avoir commandé au jardinier ; le jardinier, pour les six minutes laissées à sa discrétion ; ou les poings et pieds du jardinier ?
+Mesurez votre réponse, ou je devrai l'appeler à nouveau. »
 
-Après un long moment, le moine du Clan de l'Araignée dit :
-« Le charpentier qui posa la première poutre de ce temple porte le blâme le plus lourd. »
+Après un long moment, le moine du Clan de l'Araignée dit :
+« Le charpentier qui posa la première poutre de ce temple porte le blâme le plus lourd. »
 
 Le maître fut satisfait.
