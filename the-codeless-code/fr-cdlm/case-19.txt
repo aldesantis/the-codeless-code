@@ -11,6 +11,6 @@ Ceci fut mentionné au maître Java, qui acquiesça et finit son thé.
 
 Le matin suivant, en montant à son bureau, le scribe trouva l'inscription suivante, écrite en lettres épaisses au dessus de la porte :
 
-      public static final int NUM_DAYS_IN_WEEK =
+      public static final int NOMBRE_JOURS_PAR_SEMAINE =
 
 Voyant ceci, le vieux scribe [[Qi]] fut illuminé.
