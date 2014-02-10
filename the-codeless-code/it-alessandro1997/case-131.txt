@@ -1,0 +1,83 @@
+Title: Non pensare
+Number: 131
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Per molte persone, questa è una seconda natura.
+
+Un nuovo monaco del [[Elephant's Footprint Clan|Clan dell'Orma di Elefante]] si accorse che tutti i fratelli sotto la
+guida del maestro [[Bawan]] rispondevano prontamente alle domande, senza la minima pausa. Quelli che esitavano
+ricevevano un rapido colpo sulla testa con il bastone del maestro, dopodiché dovevano rimanere in silenzio per il resto
+della giornata -- assumendo, ovviamente, che il colpo non li avesse privati dei sensi.
+
+Il monaco giovane chiese a uno dei fratelli: "Perché Bawan punisce quelli che tardano a rispondere?"
+
+"Perché pensa che stiano pensando" disse il fratello più anziano. Indicò una riga di teschi messi su una mensola sopra
+la porta del maestro. Alcuni erano sbiaditi e impolverati mentre altri sembravano essersi appena separati dai
+precedenti proprietari, ma incise sulla fronte di ognuno stavano le parole <em>NON PENSARE</em> nell'inconfondibile
+grafia del maestro.
+
+Il monaco anziano si congedò, lasciando il più giovane a riflettere sull'algoritmo di Bawan.
+
+- - -
+
+Un po' di tempo dopo questi stessi due monaci stavano lavorando furiosamente di notte per aggiornare uno dei venerabili
+database di documenti del clan. Sistemi critici vennero messi offline mentre vecchi documenti venivano migrati ai nuovi
+server.
+
+Lo script di conversione rimase in esecuzione per ore, ma fallì vicino alla fine per un problema minore. Una seconda
+esecuzione fu iniziata, ma poiché l'alba si stava avvicinando i monaci specificarono che qualunque documento già scritto
+dal primo script avrebbe dovuto essere saltato.
+
+Mentre la seconda esecuzione saltava la porzione del database che la prima aveva già processato, Bawan notò qualcosa
+di curioso. Diverse migliaia di messaggi di stato simili a questo comparvero sullo schermo:
+
+<pre>
+   documento 2677091: saltato (già esiste)
+   documento 2677092: saltato (già esiste)
+   documento 2677093: saltato (già esiste)
+</pre>
+
+Eppure ogni tanto ne appariva uno simile a questo:
+
+Yet once in a while one would appear which looked like this:
+
+<pre>
+   documento 2677094: saltato (già esiste) (** sorgente più recente)
+</pre>
+
+"Perché la differenza?" chiese Bawan.
+
+"Non saprei dire" disse il monaco più anziano velocemente.
+
+Bawan grugnì e colpì la guancia dell'uomo col retro della mano. Quindi si girò verso il monaco più giovane.
+
+"Perché la differenza?" ripeté.
+
+In quell'istante -- la sua mente che formava immagini della mano del maestro e del suo bastone -- il monaco giovane
+ebbe un'illuminazione.
+
+"Differenza di tempo" dichiarò il monaco più giovane. "Quando prendiamo un documento sorgente dal vecchio server
+preserviamo la sua data di modifica, e poi creiamo il documento di destinazione. Ma se gli orologi di sistema non sono
+sincronizzati, lo script a volte crede che la sorgente sia più recente della destinazione."
+
+Il maestro trovò una piccola discrepanza temporale tra i due server. Annuì in approvazione e se ne andò, lasciando il
+giovane monaco a crogiolarsi nella soddisfazione di aver capito l'algoritmo di Bawan.
+
+- - -
+
+Il giorno dopo Bawan ordinò al clan di radunarsi fuori dal suo ufficio. Mentre tutti aspettavano che il maestro
+comparisse, il monaco anziano sussurrò che Bawan aveva passato l'intera giornata mettendo insieme le prove che
+dimostravano come la discrepanza temporale fosse la causa degli strani messaggi.
+
+"Cos'ha scoperto?" chiese una monaca.
+
+"Niente del genere" disse il monaco anziano. "In verità, un server era stato lasciato in esecuzione durante la
+migrazione, quindi gli utenti stavano ancora facendo modifiche nel vecchio database. La seconda conversione ha saltato
+questi documenti con l'avvertimento. Quando il traffico fu dirottato al nuovo database, le modifiche successive degli
+utenti hanno reso il recupero delle vecchie modifiche impossibili. Sarà un grande imbarazzo per il clan."
+
+La discussione si interruppe improvvisamente quando Bawan emerse dal suo ufficio con una scala, che poi salì per mettere
+un nuovo teschio luccicante sulla mensola sopra la propria porta. Le fattezze del teschio ricordavano quelle del giovane
+monaco, che non si era visto per tutto il giorno. Come prima, le parola <em>NON PENSARE</em> erano incise sulla fronte.
+E sulla mascella -- invisibile a chiunque stesse sotto la mensola ma piuttosto leggibile mentre il maestro portava su
+il teschio -- c'era solo la parola <em>SAPPI</em>.
