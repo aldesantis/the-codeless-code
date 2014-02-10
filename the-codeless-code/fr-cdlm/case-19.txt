@@ -1,0 +1,16 @@
+Number: 19
+Title: Quel que soit son nom
+Lang: fr
+Translator: cdlm
+
+On demanda au vieux scribe pourquoi, dans ses rapports officiels, les temples et les clans étaient nommés mais les nombreux moines et prêtres ne l'étaient pas.
+
+« Si je te donnais une liste de nombres à recompter, donnerais-tu un nom à chaque nombre sept ? » demanda le scribe, écartant le questionneur d'un geste de sa main tâchée d'encre.
+
+Ceci fut mentionné au maître Java, qui acquiesça et finit son thé.
+
+Le matin suivant, en montant à son bureau, le scribe trouva l'inscription suivante, écrite en lettres épaisses au dessus de la porte :
+
+      public static final int NOMBRE_JOURS_PAR_SEMAINE =
+
+Voyant ceci, le vieux scribe [[Qi]] fut illuminé.
