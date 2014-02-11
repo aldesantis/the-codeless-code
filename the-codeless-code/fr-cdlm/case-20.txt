@@ -1,0 +1,80 @@
+Number: 20
+Title: Ni Oui Ni Non
+Lang: fr
+Translator: cdlm
+
+Une nonne du [[Elephant's Footprint Clan|Clan de l'Emprunte d'Éléphant]] était assise en tailleur sur son bureau, et contemplait silencieusement un diagramme Entité-Association sur son tableau blanc.
+
+Le maître Java{{1}} vit ceci et s'approcha.
+
+Le Dieu du Silence Entre les Mots était déjà dans la pièce.
+
+- - -
+
+La nonne désigna le diagramme.
+« Cette colonne intitulée /complet/ est déclarée comme contenant un entier.
+En examinant les données, on voit qu'elle ne contient que deux valeurs uniques : zéro et un.
+Je suppose que le zéro représente la fausseté, et l'unité la vérité. »
+
+Le maître :
+« Seul un initié peut dire ce qui est compté par ces nombres. »
+
+Le Dieu du Silence Entre les Mots :
+« La simple présence d'un zéro implique l'existence d'un /un/ pour le compter, puis d'un /deux/ pour les compter tous deux, et ainsi de suite à l'infini.
+L'univers a-t-il ainsi éclos de la coquille d'un œuf de serpent ? »
+
+- - -
+
+La nonne leva deux doigts de sa main droite.
+« J'ai songé à écrire un /deux/ dans une ligne quelconque, juste pour en observer les effets sur l'application. »
+
+Le maître :
+« Vous cherchez à déterminer si la vérité est représentée par la présence d'un /un/, ou l'absence d'un zéro. »
+
+Le Dieu du Silence Entre les Mots :
+« L'absence de zéro implique une présence.
+La présence d'un zéro implique une absence.
+Quand le serpend se mord la queue jusqu'au bout de la langue, qu'en reste-t-il ? »
+
+- - -
+
+La nonne toucha son menton de l'index.
+« La colonne autorise également les /null/.
+Si la colonne correspond à une question, la convention veut que /null/ représente une réponse inconnue. »
+
+Le maître :
+« Ce /null/ est soit la pause rusée qui précède un mensonge, ou le délicat silence avant la révélation de la vérité.
+Sa qualité repose entièrement sur ce qu'il deviendra.
+C'est seulement lorsqu'il cesse d'exister que l'on peut comprendre ce qu'il était. »
+
+Le Dieu du Silence Entre les Mots :
+« Le spectre emprunte la forme du défunt.
+Mais quelle forme donner à l'esprit de celui qui n'est pas encore né ? »
+
+- - -
+
+La nonne plaça ses mains en clocher.
+« Avant que l'application interroge la base de données, la valeur de cette colonne est inconnue.
+Après, toute valeur nulle dans cette colonne sera représentée intentionnellement par un booléen /null/.
+La valeur est alors simultanément connue et inconnue. »
+
+Le maître :
+« Nous avons appris que nous n'avions rien appris, et pourtant cela est la base de la sagesse. »
+
+Le Dieu du Silence Entre les Mots :
+« Le sage et l'idiot vont à leur perte de la même façon : tous deux croient que le sage est un idiot.Où, donc, peut-on trouver la sagesse ? »
+
+- - -
+
+La nonne reposa ses mains sur ses genoux.
+« L'entier SQL null, rendu persistant, devient le booléen null dans la mémoire fugace.
+Deux riens, de natures complètement différentes.
+Comment des absences peuvent-elles être inégales ? »
+
+Le maître acquiesça.
+
+Le Dieu du Silence Entre les Mots leva le sourcil.
+
+
+
+{{1}} Probablement [[Kaimu]].
