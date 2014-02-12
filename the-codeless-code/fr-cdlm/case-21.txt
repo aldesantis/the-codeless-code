@@ -1,0 +1,29 @@
+Number: 21
+Title: Interruption
+Lang: fr
+Translator: cdlm
+
+On remarqua qu'un certain moine ne voulait plus quitter son terminal.
+Cela faisait deux jours qu'il n'avait ni mangé ni dormi.
+
+Quand le maître Java enquêta, il trouva le moine visiblement ébranlé.
+Sur l'écran était le code ci-dessous, en cours d'exécution dans le débogueur :
+
+<pre>
+    while (true) {
+       &#x2F;* ne fait rien *&#x2F;
+    }
+</pre>
+
+« J'ai affirmé que la boucle doit s'exécuter tant que la vérité elle-même est vraie, » dit le moine.
+« Pourtant, si j'appuie sur la touche Interruption, la boucle terminera.
+L'implication est que, à cet instant précis, /la vérité ne sera plus vraie./
+Comment pourrions-nous oser déranger le programme ?
+Nous pourrions semer le chaos sur le monde ! »
+
+Le maître Java se baissa et arracha la prise du mur.
+L'écran s'éteignit.
+
+« Maintenant cette boucle ne pourra plus jamais être interrompue. » dit le maître.
+
+L'esprit du moine fut soulagé.
