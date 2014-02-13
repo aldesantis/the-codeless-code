@@ -1,0 +1,42 @@
+Number: 22
+Title: Sécurité
+Lang: fr
+Translator: cdlm
+
+Un moine du [[Laughing Monkey Clan|Clan du Singe Rieur]] connaissait bien le logiciel produit par le Charitable Temple du Yack Hérissé, et il souhaitait utiliser l'un de leurs modules dans son dernier projet.
+Cependant, le référentiel de code du clan était l'objet d'une garde constante, et le moine devait obtenir permission auprès de la hiérarchie du monastère pour intégrer tout logiciel tiers.
+
+Le prêtre en chef de son clan était prêt à autoriser le module, mais à une unique condition :
+une classe d'adaptation devrait d'abord être produite par le clergé séculier.
+Tout accès au module devrait passer par l'adaptateur.
+
+Le prêtre : « Cela assurera que vous n'utilisez aucune caractéristique qui soit trop complexe pour vos compétences.
+Et il y a un bénéfice supplémentaire :
+si jamais nous estimons que l'implémentation du Yack Hérissé est inadéquate, le clergé sera en mesure de substituer un autre module derrière l'adapteur, et aucun utilisateur de l'adaptateur ne sera dérangé par le changement. »
+
+Le moine s'inclina et mentionna cet échange au maître Java.
+
+Le maître Java convoqua le prêtre, et suggéra qu'ils aillent ensemble jusqu'aux montagnes, afin d'y méditer sur la meilleure manière de construire cet adaptateur.
+
+« Je vous laisse la place du conducteur » dit le maître.
+
+Ils s'assirent dans la voiture du prêtre ; le prêtre fit la moue.
+
+« On dirait que le bouton d'accord de ma radio a été volé » dit le prêtre.
+
+« C'est bien, » dit le maître Java.
+« La musique serait une périlleuse distraction sur ces routes étroites. »
+
+« Les boutons de la climatisation également » dit le prêtre.
+
+« Excellent ! » dit le maître Java.
+« L'air froid accentue les rhumatismes, et cause des maux d'intestin. »
+
+Le prêtre tourna la clé de contact, ce à quoi seul le silence répondit.
+Il sortit de son siège pour enquêter.
+
+« De plus, » dit le prêtre, « il semble que le capot ait été soudé. »
+
+« Votre bonne fortune ne cessera donc jamais ! » s'écria le maître Java.
+« Maintenant il est garanti que personne ne pourra endommager le moteur.
+Et si la couleur de pneus devait s'avérer insatisfaisante, je suppose qu'ils peuvent être remplacés sans impact discernable sur le confort de conduite. »
