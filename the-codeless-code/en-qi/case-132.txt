@@ -1,0 +1,71 @@
+Title: Interpreter
+Number: 132
+Date: 2014-02-15
+Geekiness: 3
+Names: YÃ­wen, HwÃ­dah
+Topics: art, experimenting, discovery, encoding, translation, quicksort, music, Perl
+Illus.0.src: Dancer.jpg
+Illus.0.title: Yesterday she danced the Perl regex interpreter, and it took two paramedics to untangle her arms and legs.
+Credits: Inspired by the performance art of Jennifer Gwirtz at <a href="http://performancelab.org/">Right Brain Performancelab</a>.
+
+
+Being snowed in together through the winter months will
+strain even the closest of friendships; [[YÃ­wen]] and
+[[HwÃ­dah]] were no exception to this rule.
+
+HwÃ­dah was irritated enough when her lanky roommate began
+dancing silently around their quarters, swinging her long
+arms and legs within inches of HwÃ­dah's nose.  But HwÃ­dah's
+patience came to an end one day when YÃ­wen set up an
+electric guzheng{{1}} in the center of the room and began
+playing it -- or rather, began plucking its strings
+inexpertly to produce a series of dissonant, tuneless,
+tempoless sounds.  The interlude lasted a minute, after
+which YÃ­wen sat down and scribbled on some papers.  But then
+she rose and repeated the performance.
+
+After the tenth iteration, HwÃ­dah hurled a sandal
+right into YÃ­wen's backside, causing the girl to yelp and
+turn around.
+
+<i>"What,"</i> growled HwÃ­dah, <i>"are you doing?"</i>
+
+Some of YÃ­wen's papers fluttered to the floor.  HwÃ­dah
+snatched them up.  They were printouts of quicksort
+implemented in different languages: C, Lisp, Perl, even
+Prolog.  Each was covered with musical
+notations in red ink.
+
+"A thousand pardons for my rudeness," said YÃ­wen.  "I have
+been attempting to encode certain algorithms as
+movements through space, or notes in the air.
+If the result is not pleasing I change my encoding and
+try again."
+
+"Why?" asked HwÃ­dah.
+
+"To see what I will discover by doing it," answered YÃ­wen.
+"We speak often of the beauty or elegance of code.  Perhaps,
+without knowing it, we have been composing choreographies
+for information to dance to, and we find certain ones
+pleasing because they appeal to some deeper aesthetic sense
+common to other forms of human art.  If so, then these arts
+would be connected.  I seek that connection."
+
+HwÃ­dah considered this.
+
+"Thus far, the music of quicksort eludes me," continued
+YÃ­wen with a sigh.  "Perhaps my experiment is as foolish as
+translating songs into code and attempting to
+compile it.  Perhaps the music of quicksort is best
+played by machines for their own appreciation, and not ours.
+Shall I quit this endeavor, and spare your nerves?"
+
+In answer, HwÃ­dah produced two bits of cotton from her
+nightstand and put them in her ears.  YÃ­wen bowed and returned
+to her instrument.  Thus was peace restored.
+
+
+{{1}} I imagine they sound something like this: http://www.youtube.com/watch?v=cJjlohZxn3w
+
+
