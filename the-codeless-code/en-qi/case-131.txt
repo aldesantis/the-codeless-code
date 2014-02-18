@@ -1,0 +1,112 @@
+Date: 2014-02-08
+Title: Don't Think
+Number: 131
+Names: Bawan
+Topics: production support
+Geekiness: 2
+Illus.0.src: skulls.jpg
+Illus.0.par: 0
+Illus.0.title: For most people, this is second nature.
+
+A new monk of [[Elephant's Footprint Clan]] noticed that all
+brothers under master [[Bawan]]'s tutelage answered
+questions promptly, without the slightest pause.  Those who
+hesitated were given a swift rap on the head with the
+master's staff, after which they were to remain silent for
+the rest of the day -- assuming, of course, that they had
+not been knocked unconscious by the blow.
+
+The young monk asked one of the brothers, "Why does Bawan
+punish those who delay in their answers?"
+
+"Because he believes them to be thinking," said the elder
+monk.  He indicated a row of skulls set on a ledge above the
+master's door.  Some were dull and dusty while others
+appeared to be freshly-parted from their previous owners,
+but carved into the forehead of each were the words /DON'T
+THINK/ in the master's unmistakable script.
+
+The elder monk departed, leaving the younger to ponder
+Bawan's algorithm.
+
+- - -
+
+Some time later these same two monks were working furiously
+through the night to upgrade one of the clan's venerable
+document databases.  Critical systems were offlined while
+the old documents were migrated to the new servers.
+
+The conversion script ran for hours, yet failed near the
+end due to a minor problem.  A second run was started, but
+since dawn was fast approaching the monks specified that any
+documents which had already been written by the first run
+should be skipped.
+
+As the second run sped through the portion of the database
+that the first already processed, Bawan noticed something
+curious.  Many thousands of status messages scrolled past
+which looked like this:
+
+<pre>
+   document 2677091: skipped (already exists)
+   document 2677092: skipped (already exists)
+   document 2677093: skipped (already exists)
+</pre>
+
+Yet once in a while one would appear which looked like this:
+
+<pre>
+   document 2677094: skipped (already exists) (** source is newer)
+</pre>
+
+"Why the difference?" demanded Bawan.
+
+"I cannot say," said the elder monk quickly.
+Bawan snorted and struck the man's cheek with the back of
+his hand.  Then he turned to the younger monk.
+
+"Why the difference?" he repeated.
+
+In that instant -- his mind racing between thoughts of the
+master's hand and the master's staff -- the young monk
+received a flash of insight.
+
+"Clock skew," declared the young monk.  "When we pull a
+source document from the old server we preserve its
+modification time, and then we create the target document.
+Yet if the system clocks disagree, the script will
+sometimes believe that the source is newer than the
+target."
+
+The master indeed found a small time discrepancy between the
+two servers.  He nodded approvingly and departed, leaving
+the young monk to bask in the satisfaction of having
+understood Bawan's algorithm.
+
+- - -
+
+One day later Bawan ordered the clan to assemble outside his
+office.  As all waited for the master to appear, the elder monk
+whispered that Bawan had spent the whole day assembling definitive
+evidence that clock skew was responsible for the odd messages.
+
+"What did he find?" asked a nun.
+
+"Nothing of the sort," said the elder monk. "In truth, one
+server had accidentally been left running during the
+migration, so users were still making edits in the old
+database.  The second conversion skipped these documents
+with the observed warning.  When traffic was diverted to the
+new database, subsequent user edits made restoration of
+the lost edits impossible.  It will be a great
+embarrassment for the clan."
+
+The discussion halted abruptly as Bawan emerged from his
+office with a ladder, which he then ascended to place a
+glistening new skull on the ledge above his door.  The
+skull's features recalled those of the young monk, who had
+not been seen all day.  As before, the words /DON'T THINK/
+were inscribed on the forehead.  And on the jawbone --
+invisible to anyone standing below the ledge but quite
+legible as the master carried it up -- was the single word,
+<i>KNOW.</i>
