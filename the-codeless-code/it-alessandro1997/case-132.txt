@@ -1,0 +1,46 @@
+Title: Interprete
+Number: 132
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Ieri si è esibita nella danza della regex Perl, e ci sono voluti due paramedici per sciogliere le braccia e le gambe.
+Credits: Ispirato dalla performance artistica di Jennifer Gwirtz a <a href="http://performancelab.org/">Right Brain Performancelab</a>.
+
+Stare richiusi insieme durante i mesi invernali mette a dura prova anche la più profonda delle amicizie; [[Yíwen]] e
+[[Hwídah]] non facevano eccezione.
+
+Hwídah era già abbastanza irritata da quando la sua alta compagna di stanza aveva iniziato a danzare silenziosamente per
+gli alloggi, roteando le sue lunghe braccia e gambe a pochi centimetri dal naso di Hwídah. Ma la pazienza di Hwídah
+terminò quando un giorno Yíwen preparò un guzheng{{1}} elettrico al centro della stanza e iniziò a suonarlo -- o meglio,
+iniziò, senza alcuna esperienza, a pizzicare le sue corde per produrre una serie di suoni dissonanti, discordanti,
+aritmici. L'interludio durò un minuto, dopodiché Yíwen si sedette e scarabocchiò su dei fogli. Ma dopo si alzò e ripeté
+l'esibizione.
+
+Dopo la decima iterazione, Hwídah scagliò un sandalo proprio sul fondoschiena di Yíwen, facendo urlare e girare la
+ragazza.
+
+<em>"Cosa,"</em> brontolò Hwídah, <em>"stai facendo?"</em>
+
+Alcuni dei fogli di Yíwen svolazzarono al suolo. Hwídah li afferrò. Erano stampe del quicksort implementato in diversi
+linguaggi: C, Lisp, Perl, persino Prolog. Ciascuna era coperta di notazioni musicali in inchiostro rosso.
+
+"Mille scuse per la mia maleducazione" disse Yíwen. "Ho cercato di codificare certi algoritmi come movimenti nello
+spazio, o note nell'aria. Se i risultati non sono soddisfacenti cambio la codifica e provo di nuovo."
+
+"Perché?" chiese Hwídah.
+
+"Per vedere cosa scoprirò facendolo" rispose Yíwen. "Parliamo spesso della bellezza o dell'eleganza del codice. Forse,
+senza saperlo, abbiamo composto coreografie su cui danza l'inforamzione, e troviamo che alcune siano piacevoli perché
+soddisfano un senso dell'estetica profondo e comune ad altre forme dell'arte umana. Se fosse così, allora queste arti
+sarebbero connesse. Io cerco quella connessione."
+
+Hwídah ci pensò.
+
+"Finora, non sono riuscita a trovare la musica del quicksort" continuò Yíwen con un sospiro. "Forse il mio esperimento
+è folle quanto tradurre canzoni in codice e cercare di compilarle. Forse la musica del quicksort dovrebbe essere
+suonata solo dalle macchine per il loro apprezzamento, e non il nostro. Proponi di abbandonare questo proposito, e
+risparmiarti i nervi?"
+
+In risposta, Hwídah prese due pezzetti di cotone dal comodino e li mise nelle orecchie. Yíwen si inchinò e tornò al suo
+strumento. Così fu la pace restaurata.
+
+{{1}} Immagino che suonino come questo: http://www.youtube.com/watch?v=cJjlohZxn3w
