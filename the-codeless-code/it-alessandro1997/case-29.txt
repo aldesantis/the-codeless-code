@@ -1,0 +1,62 @@
+Title: Pesce rosso
+Number: 29
+Lang: it
+Translator: alessandro1997
+
+Quando un novizio si unisce al Tempio e afferma di essere in cerca della saggezza, gli viene consigliato di trovare il
+maestro Bawan e chiedergli: "Come ha fatto la vecchia e furba Madame [[Jinyu]] diventare Badessa di Tutti i Clan e gli
+Interessi?"
+
+Il maestro [[Bawan]] colpirà allora il fondoschiena del novizio con una pala, e gli dirà di tornare la notte successiva
+e chiedere nuovamente. La notte successiva la risposta sarà la stessa, e si concluderà con lo stesso ordine di tornare,
+finché il novizio non sarà illuminato.
+
+Gli annali ci dicono questo:
+
+Quando la Venerabile Jinyu era una monaca di soli venticinque anni, lei e un monaco della sua stessa età furono
+avvicinati da un abate del loro clan.
+
+"L'Imperatore verrà a ispezionare il nuovo mainframe VAX, e a scegliere membri degni delle Commissioni Regali" disse
+l'abate. "Dunque vogliamo che Sua Eccellenza sia impressionato da tutti gli aspetti del nostro Tempio. I laghetti koi
+sono senza vita e soffocati dalle erbacce. Ciascuno di voi dovrà prendere un laghetto, pulirlo bene, e assicurarsi che
+nuovi pesci siano presenti <em>ogni mattina</em> per l'intrattenimento dell'Imperatore."
+
+Al monaco fu assegnato il Laghetto Nord. L'acqua verde stagnante era inadatta a qualunque essere vivente, così con un
+giogo e due secchi il monaco portò via fino all'ultima goccia. Quindi grattò i licheni dalle rocce, strappò le erbacce,
+e portò un secchio dopo l'altro di acqua pulita dal pozzo del Tempio. Dopo una settimana la piccola pozza sciamava di
+carpe rosse e dorate, comprate dai mercati con i soldi del monaco.
+
+Nel frattempo, il Laghetto Sud rimaneva intoccato, e la giovane Jinyu non si trovava da nessuna parte.
+
+Poiché la visita dell'Imperatore si avvicinava, l'abate mandò a chiamare la monaca. Quando Jinyu gli fu portata dinanzi,
+l'abate colpì le sue orecchie con violenza. "Se l'Imperatore perde fiducia nel Tempio, il nostro contatto di servizi IT
+potrebbe non essere l'unica cosa a essere tagliata prematuramente."
+
+Jinyu si inchinò. "Tutto sarà come ordinato, in due giorni."
+
+Il giorno successivo l'abate andò al Laghetto Nord, che ora era pieno di carpe bianche e nere -- di nuovo, comprate dal
+monaco ai mercati in città. Ma lo stato del Laghetto Sud era esattamente identico a prima. Trovò Jinyu che riposava
+sotto un albero di cipresso, e di nuovò colpì le sue orecchie.
+
+Di nuovo Jinyu si inchinò. "Tutto sarà come ordinato, domani mattina."
+
+Il giorno successivo, l'abate andò nuovamente al Laghetto Nord, che ora scoppiava di carpe a righe e a macchie. Ma lo
+stato del Laghetto Sud era <em>peggiore</em> di prima: il delizioso giardino che lo circondava era stato scavato, e in
+piedi in mezzo alla rovina stavano Jinyu e la sua pala.
+
+L'abate colpì le orecchie di Jinyu. "Spiegati!" ordinò.
+
+La monaca non disse nulla, ma infilò la sua pala in un cumulo di terra al bordo del laghetto. Dietro stava un canale che
+Jinyu aveva scavato fino al fiume sotto il Tempio. Ora che il cumulo di terra non c'era più, l'acqua stagnante uscì dal
+laghetto e scomparì nel canale.
+
+Quindi Jinyu infilò la pala nell'altro lato del laghetto, rivelando un canale che portava le acque di un ruscello di
+montagna. Il ruscello corse dentro il laghetto e uscì dall'altra parte, pulendo le rocce e portando via le erbacce
+morte. Nell'acqua scura, si potevano vedere bagliori di rosso e oro.
+
+- - -
+
+Così fu Jinyu scelta per dirigere l'Eccelsa Sottocommissione per il Testing Automatizzato.
+
+E se dovesse esserci qualcuno che contesta questo racconto, si lasci che prima cerchi il maestro Java Bawan, e ponga
+la domanda di rito.
