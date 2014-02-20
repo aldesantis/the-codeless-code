@@ -1,0 +1,37 @@
+Title: Tazze
+Number: 30
+Lang: it
+Translator: alessandro1997
+Illus.0.title: L'illustrazione di oggi è gentilmente offerta dalle parole COPIA e INCOLLA.
+
+Il maestro Java [[Bawan]] disse: "Il mendicante al mercato possiede solamente delle tazze vuote. Riempitene tutte tranne
+una di tè e vi ringrazierà; ma lasciatene cadere una goccia nell'ultima e morirà di sete all'istante. Spiegate."
+
+Nessun monaco poté rispondere alla domanda di Bawan. Il maestro si ritirò nelle sue camere.
+
+Quella sera quattro studenti bussarono alla sua porta, cercando aiuto per un programma problematico. I suoi file di log
+straripavano di eccezioni ArrayIndexOutOfBounds che, gli studenti insistevano, erano impossibili: l'array in questione
+era dichiarato in modo che contenesse mille elementi, e l'indice -- un intero da un byte -- non poteva eccedere 255 per
+definizione.
+
+Il maestro Bawan indicò un oggetto nell'angolo. "Cos'è quella?" chiese a ogni studente.
+
+"Una scopa" dissero tutti a turno.
+
+Bawan allora prese la scopa e la agitò sopra le teste degli studenti. Quadri caddero dalle pareti e finirono per terra
+roteando. Vasi e tazze furono tirati giù dalle mensole e si sfasciarono per terra. Muri di carta si strapparono. Polvere
+si alzò dalle travi.
+
+"Non una scopa!" gridò il maestro Bawan, sempre agitando come un ossesso. "Non una scopa!"
+
+== Il commento di Qi
+
+Ciascuna delle tazze del mendicante è simile in ogni modo a quella accanto, eppure ciascuna contiene anche il doppio
+della tazza alla sua destra. Ora di' velocemente cos'è.
+
+== Il poema di Qi
+
+Nella mano di un mendicante, il bastone genera pietà. //
+Nella mano di un maestro, paura. //
+Queste qualità non risiedono <em>nel</em> bastone: //
+solo nel dove <em>di</em> esso.
