@@ -1,0 +1,29 @@
+Title: Semi
+Number: 32
+Lang: it
+Translator: alessandro1997
+
+Il Tempio aveva bisogno di un altro sviluppatore, e due potenziali iniziati avevano fatto richiesta
+per la posizione. Il maestro Java [[Banzen]] mandò un monaco a intervistarli.
+
+"Erano egualmente qualificati su tutti i fronti" riportò il monaco quella sera. "Di stessa età,
+altezza, portamento, pettinatura, abilità con la spada, e preferenza di bevanda caffeinata. Così ho
+posto lo stesso problema logico a entrambi i candidati. Uno non è riuscito a risolverlo; l'altro ha
+avuto successo."
+
+Il maestro Java Banzen disse: "Portami alle stanze dove si sono svolti i colloqui."
+
+Per prima visitarono la stanza del candidato che aveva fallito, il cui lavoro ancora stava sulla
+lavagna in pastello di giada verde. Figure faticosamente ordinate marciavano sulla lavagna in righe
+e colonne precise. Il maestro Java Banzen trovò velocemente l'errore nel ragionamento del candidato.
+
+Disse il maestro Java: "Ecco un frutteto di piselli, che lotta per scuotersi della neve invernale.
+Se li alleviamo mangeremo bene durante la primavera."
+
+Andarono poi alla stanza del candidato che aveva avuto successo. Anche qui il problema critico era
+stato affrontato in pastello verde, ma in questa stanza si estendeva per tutta la lavagna senza
+alcun ordine comprensibile. Scarabocchi frettolosi si arrotolavano per ogni parte e anche uno sopra
+l'altro -- un denso gomitolo di scritte incomprensibili.
+
+Il maestro Java scosse la testa. "Qui, mi dici, ci sono aneto e citronella freschi, ma non li
+troverei mai per via di tutte le erbacce."
