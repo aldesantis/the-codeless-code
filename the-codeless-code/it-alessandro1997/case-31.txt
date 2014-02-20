@@ -1,0 +1,26 @@
+Title: Il sandalo eloquente
+Number: 31
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Ovviamente era un'eccezione lanciata.
+
+Due monaci portarono la loro discussione al maestro [[Kaimu]]. Gli chiesero: "È un valore nullo un
+valore, o l'assenza di un valore?"
+
+"Nullo" disse il maestro, e andò via.
+
+I monaci quindi procedettero a discutere sul significato della risposta del maestro, anche dopo che
+il clan si fu ritirato nel dormitorio e tutte le lampade furono spente:
+
+Il primo monaco insisteva che quello nullo <em>dovesse</em> essere un valore, perché il maestro
+l'aveva usato per rispondere a una domanda.
+
+Il secondo monaco insisteva che quello nullo <em>non dovesse</em> essere un valore, perché la
+risposta senza risposta non includeva nessuna delle alternative proposte.
+
+Un terzo monaco, che stava cercando di dormire, urlò e lanciò il suo sandalo nell'oscurità.
+
+Un quarto monaco chiese scaltro: "Era quella un'eloquente richiesta di silenzio, o
+<em>l'assenza</em> di un'eloquente richiesta di silenzio?"
+
+Mentre i due monaci ci pensavano, la luna si levò.
