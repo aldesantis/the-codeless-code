@@ -1,5 +1,5 @@
-Number: 3
 Title: Encapsulation
+Number: 3
 Lang: fr
 Translator: cdlm
 Illus.0.title: Quoi que vous fassiez, ne lui dites pas que vous devez aller aux toilettes.

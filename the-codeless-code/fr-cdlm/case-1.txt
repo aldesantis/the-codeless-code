@@ -1,5 +1,5 @@
-Number: 1
 Title: Les Petites Choses
+Number: 1
 Lang: fr
 Translator: cdlm
 Illus.0.title: Si vous demandez pourquoi les pieds nus sont interdits dans le temple, vous obtiendrez généralement la même réponse.

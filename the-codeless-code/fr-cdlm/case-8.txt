@@ -1,5 +1,5 @@
-Number: 8
 Title: Réduis, réutilise, recycle
+Number: 8
 Lang: fr
 Translator: cdlm
 
