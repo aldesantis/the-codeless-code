@@ -1,0 +1,5 @@
+Lang: fr
+Translator: cdlm
+
+Le service exploitation : l'épine dorsale de l'entreprise.
+Parce que sans matériel, le logiciel ne serait qu'un tas de mots étranges écrits sur papier avec bien trop de points-virgules.
