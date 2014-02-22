@@ -10,8 +10,6 @@ sarebbe stato adottato in via definitiva dal suo clan.
 "Ciascuna implementazione ha le sue particolari virtù e i suoi problemi" disse il monaco al maestro Java. "E ciascuna ha
 funzionalità che agli altri mancano. Devo consegnare tutte tranne una ai venti dell'oblio. Come dovrei scegliere?"
 
-<img src="/cases/18/gong.png" style="margin:0 auto"/>
-
 "Non posso rispondere se ho sete" disse il maestro. "Nell'armadietto dietro di te ci sono tre tazze di legno. Riempine
 una al fiume, la seconda al pozzo del Tempio, e la terza dal venditore d'acqua al villaggio. Riportamele tutte senza
 versare una goccia, e ti offrirò tutto l'aiuto che posso."

@@ -3,8 +3,6 @@ Title: Con qualunque altro nome
 Lang: it
 Translator: alessandro1997
 
-<img src="/cases/19/qi-evolution-top.jpg" style="float:right;margin-right:-150px" />
-
 Al vecchio scriba fu chiesto perché, nei suoi resoconti ufficiali, i molti monaci e preti non fossero nominati, al
 contrario dei tempi e dei clan.
 
