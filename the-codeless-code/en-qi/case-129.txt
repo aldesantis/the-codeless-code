@@ -4,7 +4,6 @@ Number: 129
 Names: Landhwa, Wangohan
 Topics: laziness, joy-coding, utilities
 Geekiness: 2
-Skip: 1
 
 Even on the best of days the monk [[Wangohan|Wangohan's]] mood would
 rival old vinegar, but the long bleak winter had soured it
