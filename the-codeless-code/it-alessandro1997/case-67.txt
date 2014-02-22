@@ -4,7 +4,7 @@ Lang: it
 Translator: alessandro1997
 Illus.0.title: Perlomeno non morirà di sete.
 
-Il lunedì, [[#62|l'ultimo abate rimanente] del [[Spider Clan|Clan del Ragno]] chiamò la maestra Java [[Suku|Suku]] nel
+Il lunedì, [[#62|l'ultimo abate rimanente]] del [[Spider Clan|Clan del Ragno]] chiamò la maestra Java [[Suku|Suku]] nel
 proprio ufficio.
 
 “Siete molto indietro sul programma,” disse l'abate, aprendo un ventaglio decorato. “Vi aiuterò a stabilire le priorità.
