@@ -1,5 +1,5 @@
 Number: 20
-Title: Ni Oui Ni Non
+Title: Ni oui ni non
 Lang: fr
 Translator: cdlm
 
