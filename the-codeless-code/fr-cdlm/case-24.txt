@@ -1,0 +1,40 @@
+Title: Le carnet rouge
+Number: 24
+Lang: fr
+Translator: cdlm
+
+Dans les annales du [[Temple of the Morning Brass Gong|Temple du Gong d'Airain du Matin]], ce qui suit est rapporté au chapitre intitulé /Test unitaire/ :
+
+Il arrivait occasionnellement au maître Java [[Kaimu]] de répondre à une question par l'unique mot /null/.
+Lorsqu'on lui demandait ce que cela signifiait, il répondait invariablement avec le même impénétrable /null/.
+
+Un jeune moine, solitaire et chétif par nature, commença à prendre note de quelles questions suscitaient cette réponse.
+Il consigna celles-ci dans un petit carnet rouge, dont les pages se remplirent rapidement au cours des mois.
+On vit le moine méditer sur ce carnet jusque tard dans la nuit.
+
+« As-tu enfin déchiffré l'esprit de notre cher maître Kaimu ? » raillèrent un jour ses frères.
+
+« /Null/ » dit le moine.
+
+Ils l'attrapèrent et le rossèrent jusqu'à ce qu'il soit bien meurtri.
+Son précieux livre rouge, ils le jetèrent au feu.
+
+Le maître Java eut vent de cela, et ordonna à l'abbé du clan d'enquêter.
+« Voici quarante-huit questions pour le jeune moine, » dit le maître.
+« Rapportez-moi ses réponses. »
+
+L'abbé s'exécuta.
+Pour la plupart des réponses, le moine répondit simplement.
+Pour plusieurs, il réagit par l'énigmatique /null/.
+Pour le reste, il resta silencieux.
+
+Le maître Java caressa sa barbe en examinant le papier que lui avait donné l'abbé.
+
+« Pour sa réponse à la question douze, tirez-lui l'oreille, car il a été insolent, » dit le maître.
+« Pour sa réponse à la question trente-et-un, flagellez-lui le dos avec une baguette de saule, car il a tergiversé.
+Ensuite, fournissez-lui un autre carnet rouge. »
+
+« Et pour les frères qui l'ont battu ? » demanda l'abbé.
+
+« Récompensez-les, car ils ont rendu service au temple.
+Je sais maintenant que l'algorithme du moine est faillible. »
