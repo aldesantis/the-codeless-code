@@ -1,0 +1,32 @@
+Title: Lingua morta
+Number: 133
+Lang: it
+Translator: alessandro1997
+Illus.0.title: GIORNO 54. LA NEVE HA BLOCCATO L'ENTRATA. NIENTE CIBO. STAVOLTA HO ESAGERATO COL NASCONDINO.
+
+La maestra [[Suku]] stava viaggiando con tre novizi nelle montagne innevate, sulla strada verso un tempio distante. Il
+sentiero si inerpicava vertiginosamente sulla parete di un grande dirupo e, mentre il cielo si scuriva, contemplavano la
+lunga notte davanti a loro e iniziavano a cercare un posto che potesse offrire un rifugio dal vento.
+
+Infine il gruppo giunse a una profonda fessura nella parete rocciosa, larga appena il necessario perché ciascuno potesse
+infilarvisi. Si apriva in una cava stretta, ma quando Suku accese la sua lanterna i viaggiatori scoprirono di non essere
+soli. Un corpo, antico ma ben preservato dal freddo senza fine, sedeva rannicchiato in fondo. Una mano mummificata
+stringeva una pietra, e il muro inclinato dall'altro lato era coperto di graffi profondi e poco famigliari.
+
+"Cosa vedete?" chiese Suku agli altri.
+
+"Segni" disse il primo novizio "fatti dalla pietra."
+
+"Parole" disse il secondo "incise dal morto."
+
+"Un messaggio" disse il terzo "che non aspetta risposta."
+
+Suku scosse la testa mentre rovistava le tasche della sua giacca da viaggio. "Un'ultima richiesta, fatta per noi."
+
+"Potete comprendere le lettere?" chiese il primo novizio.
+
+"No" disse Suku, estraendo il suo cellulare. Puntò la fotocamera ai graffi. "Ma ho estratto cartelle di sorgente da
+molte strane terre. Nonostante la forma sia diversa di luogo in luogo, posso ancora capire quando qualcosa urla
+/LEGGIMI/{{*}}."
+
+{{*}} Nell'originale /"README"/, il nome dato ai file che contengono le istruzioni per usare un software/libreria.
