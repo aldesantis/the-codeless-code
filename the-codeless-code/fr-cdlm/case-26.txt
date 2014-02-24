@@ -1,0 +1,18 @@
+Title: Le moine non corrigé
+Number: 26
+Lang: fr
+Translator: cdlm
+
+Deux prêtres du [[Seven-Clawed Blind Eagle Clan|Clan de l'Aigle Aveugle aux Sept Griffes]] trouvèrent le maître Java [[Banzen]] sanglotant à son clavier.
+Ils lui demandèrent ce qui l'affligeait à ce point.
+
+« Le code de ce moine est atroce, » dit le maître.
+« La structure des paquets est contre-intuituve, les noms des classes pas descriptifs, les méthodes trop complexes, et les commentaires complètement vains.
+Depuis dix ans il asssiste à chaque lecture que je donne, et il a bien suivi mes instructions à la lettre.
+Pourtant les fruits de son labeur sont indigestes à l'extrême. »
+
+Le premier prêtre examina le code.
+« Il va sans dire qu'une correction s'impose.
+Je suggère de commencer par une simple flagellation. »
+
+Le maître soupira et acquiesca, écartant le drapé de sa robe pour mettre ses épaules à nu.
