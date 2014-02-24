@@ -1,0 +1,34 @@
+Title: Divisione
+Number: 36
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Dobbiamo ancora superare 14.
+
+Il [[Sparrow Clan|Clan del Passero]] era in disgrazia e disunione. Il suo abate capo aveva scelto una onorabile morte
+tramite seppuku, ma la paura di altri tagli al personale aveva messo ciascun monaco alla gola dell'altro. A un prete era
+stata assegnata la supervisione del clan per riportare l'ordine, ma i suoi sforzi erano vani.
+
+"La sottrazione di uno ha portato alla divisione di tutti" disse il prete all'abate capo. "Dobbiamo correggere ciò che
+rimane del clan prima che diventino un cattivo esempio per il Tempio."
+
+"Non vedo necessità di disciplina" sospirò l'abate, che era conosciuto per la sua eccessiva clemenza. "Sarà più semplice
+sciogliere il Clan del Passero. Quanti monaci rimangono?"
+
+"Sei" rispose il prete.
+
+"Bene. Allora mandane metà a un clan di tua scelta, e metà a un altro."
+
+Il prete iniziò a protestare, ma ripensandoci si limitò a inchinarsi e andarsene. Quella sera convocò i monaci
+turbolenti. Con un solo movimento della sua lama li sezionò nettamente all'altezza della vita.
+
+"Manda le parti superiori al Clan della Scimmia Ridente, e quelle inferiori all'Orma di Elefante" disse a uno dei suoi
+novizi. "E invitagli a considerare il prezzo della disordia."
+
+Il prete fece quindi rapporto all'abate: "Ho fatto come avete comandato, e subito tutte le discussioni sono cessate."
+
+== Nota dell'editore
+
+<div class="editorial-note">
+<p>Poiché alcuni lettori hanno espresso interesse, una versione più grande di questo poster può essere scaricata come
+un file <a href='/pages/case-36/poster.svg'>SVG</a> o <a href='/pages/case-36/poster.png'>PNG</a>.</p>
+</div>
