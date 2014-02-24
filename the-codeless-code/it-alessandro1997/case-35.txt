@@ -1,0 +1,83 @@
+Title: Il passero si libera
+Number: 35
+Lang: it
+Translator: alessandro1997
+Illus.2.title: Ha provato a scrivere AIUTATEMI, ma ha preso una rbutta storta cercando di fare la E. Dovrebbero proprio
+insegnare il corsivo alla scuola per vermi.
+
+Un messaggero informò la badessa [[Jinyu]] che diversi dei suoi monaci avevano inventato un nuovo metodo ingegnoso per
+salvare informazioni nel cloud. I monaci erano eccitati dalle possibilità e volevano sviluppare ulteriormente questa
+tecnologia. La badessa rispose con questo messaggio:
+
+    Un uovo si schiude, e //
+    il Clan del Passero emerge.
+
+Il nuovo clan lavorò tutta la notte e tutto il giorno e produsse un prototipo funzionante. Tutti parteciparono alla
+dimostrazione, e presto il Clan del Passero fu celebrato in tutto il Tempio. Il monaco capo del clan ricevette un altro
+messaggio dalla badessa:
+
+    Il passero si labera dalla foresta ombrosa. //
+    Tutti gli occhi fissano la sua ascesa.
+
+In quel periodo un nuovo potenziale cliente aveva chiesto un preventivo per una nuova applicazione di social networking.
+L'abate capo organizzò un tè col cliente, e affermò che il nuovo software del suo clan avrebbe costituito delle
+fondamenta ideali per il sistema proposto. Il cliente fu d'accordo, e il contratto fu assegnato al Clan del Passero.
+L'Anziana Jinyu mandò le sue congratulazioni:
+
+    Altissimo sopra i campi lontani, //
+    il passero afferra il verme //
+    mentre lo stormo sonnecchia.
+
+Il sistema fu consegnato, ed ebbe grande successo.
+
+Passarono i mesi. Molti finirono per usare l'applicazioni, inclusi gli sviluppatori che erano intrigati e ispirati dal
+suo innovativo uso del cloud. Nonostante non possedessero il software del Clan del Passero, l'approccio di base era
+semplice da comprendere.
+
+Giunse voce alla badessa che a una recente conferenza si era tenuta una sessione i cui partecipanti avevano iniziato a
+lavorare su una API standard per questo nuovo tipo di interfaccia cloud. Il giorno successivo il monaco capo aprì la sua
+posta e trovò questo avvertimento:
+
+    Foglie gialle svolazzano nell'aria. //
+    Lo stormo si agita.
+
+Il Clan del Passero non aveva interesse nella nuova API, che considerava troppo complicata. Continuarono a impiegare e
+sviluppare il loro approccio con ogni contratto che vincevano. Eppure continuavano a giungere note criptiche:
+
+    Cento passeri non possono accecare un'aquila.
+
+    Ogni usignolo preferisce il suo canto.
+
+    Un solo uccello non può covare un uovo.
+
+Il software del Clan del Passero continuò a evolvere, accumulando delle nuove impressionanti funzionalità, ma come
+conseguenza era ora del tutto incompatibile con la nuova specificazione API. Il monaco capo non aveva preoccupazioni
+<em>(Lasciamo che gli altri tempi si godano le loro implementazioni primitive!)</em>, ma temeva di aprire la posta ogni
+mattina. Il tono di Jinyu era diventato ancora più cupo:
+
+    Il falco cresciuto non mangia mosche.
+
+I templi che avevano adottato la nuova API continuarono a collaborare, producendo varie estensioni e miglioramenti.
+Nacquero accordi commerciali, la competizione crebbe, e presto una bufera di brochure sfavillanti furono stampate e
+consegnate con dei piccioni viaggiatori a tutti gli angoli dell'Impero. Anche la badessa ne ricevette alcune, che
+inoltrò con questa nota:
+
+    Un uccellino mi ha cantato questa canzone: //
+    la neve è caduta.
+
+In tutto l'Impero, governatori e genreali chiedevano a gran voce sistemi costruiti conla nuova tecnologia. Ogni tempio
+in gioco affermava che la sua soluzione era conforme agli standard -- o meglio, ogni tempio tranne uno.
+
+In un cortile appartato del Tempio del Gong d'Ottone del Mattino, venne tenuto un incontro per discutere il destino del
+Clan del Passero. Le loro librarie erano diventate un peso, giacché (a differenza di quelle dei concorrenti) non
+potevano interoperare con le immensamente popolari estensioni commerciali. I clienti che avevano adottato la tecnologia
+del Passero nei primi giorni ora pretendevano aggiornamenti alle soluzioni commerciali -- ma poiché le interfacce erano
+così differenti, il costo era insostenibilmente alto. I contratti venivano cancellati. Peggio ancora, la reputazione del
+Tempio ne aveva sofferto.
+
+Quella sera Jinyu inviò un messaggio finale al monaco capo del clan, scritto su un quadrato di carta di riso che era
+stato avvolto attorno la lama di un coltello seppuku:
+
+    Lo stormo è andato a sud. //
+    Il passero solitario ha il suo campo bianco. //
+    Ora scende il falco. //
