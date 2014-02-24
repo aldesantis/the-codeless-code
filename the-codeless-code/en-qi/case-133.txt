@@ -1,0 +1,49 @@
+Title: Dead Language
+Number: 133
+Date: 2014-02-20
+Geekiness: 2
+Names: Suku
+Topics: README, communication
+Illus.0.src: corpse.jpg
+Illus.0.par: 1
+Illus.0.title: DAY 54.  SNOWED IN.  NO FOOD LEFT.  I MAY HAVE TAKEN THIS GAME OF HIDE-AND-SEEK A BIT TOO FAR.
+
+Master [[Suku]] was travelling with three novices in the
+snowy mountains, en route to a distant temple.  The trail
+wound dizzily up the face of a great cliff, and as the
+sky grew dim they contemplated the long night ahead
+and began to seek any place that might offer some refuge
+from the wind.
+
+Eventually the group came upon a deep fissure in the rock
+face, just wide enough for each of them to squeeze through.
+It opened into a narrow cave, but when Suku lit her lantern
+the travellers discovered that they were not alone.  A
+corpse, ancient yet well-preserved by the endless cold, sat
+huddled at the far end.  One mummified hand clutched a
+stone, and the sloping wall opposite was covered in columns
+of deep, unfamiliar scratches.
+
+"What do you see?" Suku asked the others.
+
+"Markings," said the first novice, "made by the stone."
+
+"Words," said the second, "carved by the dead."
+
+"A message," said the third, "expecting no answer."
+
+Suku shook her head as she rummaged through the pockets of
+her travel coat.  "A last request, meant for us."
+
+"Can you understand the letters?" asked the first novice.
+
+"No," said Suku, producing her cellphone. She aimed its
+camera at the scratches.  "But I have unpacked source
+directories from many strange lands.  Though the form
+differs from place to place, still I can tell when something
+is crying out /README/.
+
+
+
+
+
