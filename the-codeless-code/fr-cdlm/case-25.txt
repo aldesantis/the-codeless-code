@@ -1,0 +1,19 @@
+Title: Compromis
+Number: 25
+Lang: fr
+Translator: cdlm
+
+Deux moines approchèrent le maître Java avec deux fort différentes stratégies pour implémenter un certain projet.
+Chacun fit valoir sa position avec passion et conviction.
+
+Après quelque considération, le maître leur dit de se répartir les sous-systèmes.
+Chaque moine en prendrait la moitié et appliquerait sa stratégie de prédilection.
+
+Le premier moine protesta :
+« Pour n'importe quel problème donné, n'y a-t-il pas souvent une solution qui soit meilleure ? »
+
+Le second moine était également mécontent :
+« Et même si la meilleure alternative n'apparaît pas clairement, n'est-il en général pas mieux de procéder avec cohérence, évitant ainsi le chaos ? »
+
+« Oui, » dit le maître Java.
+« N'écoutiez-vous donc pas ? »
