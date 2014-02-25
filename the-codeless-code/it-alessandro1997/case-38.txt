@@ -1,0 +1,23 @@
+Title: Linguaggio
+Number: 38
+Lang: it
+Translator: alessandro1997
+
+Un novizio chiese al maestro Java [[Banzen]]: "Qual è il più perfetto linguaggio di programmazione?"
+
+Il maestro rispose: "Quello che ottiene il risultato desiderato con il minor sforzo dell'utente."
+
+Il novizio chiese: "C'è un linguaggio che eccede tutti gli altri in questo senso?"
+
+Il maestro rispose: "Costruiscimi un giardino di diecimila pietre!"
+
+== Il commento di Qi
+
+Anche in amministrazione hanno il loro linguaggio di programmazione, ma quello che producono è spesso difettoso.
+
+== Il poema di Qi
+
+Che il giardino fosse costruito o meno, //
+il desiderio di Banzen era realizzato. //
+Il novizio non venne più a chiedere consiglio -- //
+le parole celano l'intento.
