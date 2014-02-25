@@ -1,0 +1,28 @@
+Number: 43
+Title: Buchi
+Lang: it
+Translator: alessandro1997
+
+La badessa [[Jinyu]] stava ispezionando lo stato del [[Laughing Monkey Clan|Clan della Scimmia Ridente]]. Nel salone
+incontrò un monaco mezzo affogato, inzuppato e tremante.
+
+"Spiega" disse la Badessa.
+
+"Il m-m-maestro mi ha comandato di p-portare la sua coracle nel f-f-fiume" disse il monaco attraversò i denti che
+battevano. "Quando ero lontano dalla riva ho scoperto che aveva m-m-molti buchi ai lati. La m-maggior parte era
+attappata con del sughero ma d-d-d-due non erano stati visti. Se non li avessi fermati con le mie d-d-dita sarei
+m-morto."
+
+La Badessa si inchinò e andò a vedere il maestro Java.
+
+"Spiega" disse la Badessa, indicando il monaco.
+
+"A quel monaco era stato assegnato il compito di implementare il Carrello della Spesa per il nostro nuovo sito" disse il
+maestro. "Egli ha scoperto che se una particolare voce del database non veniva inizializzata, i tentativi di
+visualizzare il Carrello della Spesa sarebbero falliti. Così il monaco ha trovato ogni pagina che offriva un
+/collegamento/ al Carrello della Spesa e ha provato a inizializzare la voce del database /lì/. C'erano più di dodici
+pagine simili. Sfortunatamente, due gli sono sfuggite."
+
+La Badessa colpì il maestro col suo bastone.
+
+"La prossima volta" disse "fai più buchi."
