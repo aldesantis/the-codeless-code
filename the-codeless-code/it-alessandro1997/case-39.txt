@@ -1,0 +1,33 @@
+Number: 39
+Title: Il fiume di tè
+Lang: it
+Translator: alessandro1997
+
+La maestra Java [[Suku]] stava visitando le province della sua giovinezza. Si era appena seduta nella sua casa da tè
+preferita quando un novizio si avvicinò e chiese la sua opinione riguardo del codice che aveva scritto.
+
+Suku esaminò il listato e trovò che ogni singolo metodo era stato meticolosamente documentato. Il metodo /setName/ di
+Persona dichiarava di impostare il nome della persona; il metodo /getName/ affermava di restituire il nome impostato da
+/setName/, e il metodo /toString/ giurava, ovviamente, che avrebbe restituito un oggetto String.
+
+Suku spinse via il listato e si sedette per un po' in silenzio. Infine il novizio si schiarì la voce e chiese se fosse
+scontenta.
+
+"Questa è una domanda interessante" disse Suku. Indicò il codice. "Questa è carta, poggiata su un tappeto tatami. Sulla
+carta c'è dell'inchiostro. L'inchiostro forma molte parole. C'è un uccello nell'hinoki qui fuori. Ha due ali piumate e
+due occhi..."
+
+Continuò in questa maniera finché le guance del novizio non divennero rosse. Raccolse il suo codice e la lasciò sola,
+vergognato ma illuminato. Suku non smise di parlare finché il novizio non fu più a portata d'orecchio.
+
+== Il commento di Qi
+
+A Suku era stata servita una generosa porzione di riso crudo. Il novizio è fortunato che le mancasse
+[[#34|una paletta per cucinarlo].
+
+== Il poema di Qi
+
+Il novizio versa un fiume di tè verde. //
+Tuttavia, Suku ha sete. //
+Una normale ciotola raccoglie ciò che può, //
+ma ogni ciotola si capovolge in un diluvio.
