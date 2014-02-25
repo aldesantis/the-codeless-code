@@ -1,0 +1,27 @@
+Title: Spazzatura
+Number: 41
+Lang: it
+Translator: alessandro1997
+Illus.0.title: È probabilmente una buona cosa che in fondo si dissolva.
+
+La maestra Java [[Suku]] stava investigando il software di un tempio distante. Sul suo monitor lunghe porzioni di codice
+brillavano non in nero ma in verde, a indicare che risme di codice erano state commentate.
+
+"Curioso" disse Suku. "Ho aperto un bell'orologio, e ci ho trovato bucce d'arancia e lische di pesce."
+
+Il monaco capo spiegò che il codice inattivo non era più necessario, ma che aveva ordinato al suo clan di lasciarlo
+dov'era: giacché se un giorno fosse stato desiderabile ripristinare la logica, allora avrebbero semplicemente riattivato
+il codice, piuttosto che sprecare tempo prezioso per riscriverlo da capo.
+
+"Comprensibile" annuì Suku.
+
+Il giorno successivo i monaci si riunirono nuovamente per l'ispezione della maestra Java. Con preoccupazione segnalarono
+che il monaco capo non poteva essere trovato. Suku indicò le travi in alto, dove il monaco scomparso penzolava da una
+corda robusta, per il collo. Un odore terribile andava diffondendosi al di sotto.
+
+"I servizi del vostro monaco capo non sono più necessari" disse Suku. "Ma lasciate che il suo cadavere ammuffisca sopra
+di voi da questo giorno in avanti. Dopotutto, i suoi metodi potrebbero un giorno divenire nuovamente desiderbaili, e
+sarebbe dispendioso addestrare un altro monaco da zero."
+
+Nel suo rapporto finale, Suku segnalò un veloce cambiamento nelle pratiche di codifica del clan, e lo imputò al buon
+esempio fatto dal monaco capo deceduto. <i>Dovremmo considerare la sua reintegrazione,</i> scrisse.
