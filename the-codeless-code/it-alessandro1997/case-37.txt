@@ -1,0 +1,33 @@
+Number: 37
+Title: Simulazione
+Lang: it
+Translator: alessandro1997
+Illus.0.title: In verità quando ci sono dei blackout lo scriba usa una lampada LED a manovella da campeggio e scrive su un netbook Asus le cui batterie durano 12 ore. Ma il punto è quello.
+
+Il nuovo sito di gestione degli ordini [[Spider Clan|Clan del Ragno]] si comportava bene sul campo, ma l'ambiente di
+sviluppo era così instabile che il clan non poteva testare i propri cambiamenti per più di un paio d'ore al giorno. Ora
+una scadenza si avvicinava rapidaemnte. I monaci si sarebbero strappati i capelli se questi non gli fossero già stati
+tagliati proprio per evitare una vista così indecorosa.
+
+"È perché il [[Laughing Monkey Clan|Clan della Scimmia Ridente]] continua a spegnere i /suoi/ server di sviluppo!" si
+lamentò il monaco capo del Clan del Ragno con uno dei preti. "Senza quei servizi il nostro codice non può chiedere le
+preferenze degli utenti o i contenuti dei carrelli!"
+
+"I nostri riavvii sono necessari" disse il capo della Scimmia Ridente. "Anche noi dobbiamo rilasciare del codice durante
+il giorno. Forse il Clan del Ragno potrebbe simulare i servizi che gli servono. I dati sarebbero falsi, ma le
+interruzioni non sarebbero una grande preoccupazione."
+
+"Inaccettabile!" disse il capo del Clan del Ragno. "Vorreste farci sprecare le forze producendo uno scadente sostituto,
+solo per risolvere i vostri fallimenti!" Si girò verso il prete. "Quando il sole tramonta o si nasconde dietro una
+nuvola, il nostro scriba non siede impotente come i suoi antichi predecessori, giacché la sua lampada alogena illumina
+giorno e notte. I servizi della Scimmia Ridente dovrebbero seguire questo esempio, ed essere affidabili quanto
+l'elettricità che alimenta quel bagliore costante!"
+
+Il capo della Scimmia Ridente pensò a questo.
+
+Più tardi quella notte il capo del Clan del Ragno fu svegliato da dei colpi alla porta. Raccolse le vesti vicino a sé
+e disse al visitatore di entrare.
+
+"Su richiesta della Scimmia Ridente porto un piccolo regalo dalle mie camere" sussurrò la voce di un vecchio uomo. Entrò
+null'altro che lo scriba del Tempio, che pose una candela accesa sul tavolo. "A volte la trovo necessaria quando ci sono
+le tempeste."
