@@ -1,0 +1,56 @@
+Number: 49
+Title: L'indagine di Banzen
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Fondamentalmente, questo è il mio sistema di archiviazione.
+
+L'abate del [[Laughing Monkey Clan|Clan della Scimmia Ridente]] osservò che il software prodotto dalla sala nord
+dell'abbazia aveva più difetti del software prodotto da qualunque altro gruppo di monaci. Il maestro Java [[Banzen]]
+venne chiamato per investigare.
+
+Il maestro scelse una sala conferenze adatta nella sala nord. Sedendosi al suo interno, invitò l'abate a unirsi. Quando
+anche l'abate si sedette il maestro prese il suo pranzo da una busta di carta e incominciò a mangiare. L'abate attendeva
+in silenzio, sempre più spazientito.
+
+Infine il maestro finì l'ultimo morso del suo pasto. Accartocciò il sacchetto di carta e lo lanciò nel cestino
+all'angolo della stanza. La palletta mancò l'apertura di circa tre piedi, rimbalzò sul muro, e rotolò, fermandosi vicino
+al secchio. Banzen uscì.
+
+L'abbate lo seguì, pensando: la devozione di Banzen per la perfezione è troppo ammirata nel tempio. La luna crescente è
+un cerchio eccellente, ma un pessimo quadrato.
+
+Banzen quindi ordinò all'abbate di convocare i monaci della sala nord uno dopo l'altro. A ciascun monaco fu detto di
+incontrare il maestro e l'abbate fuori dalla sala conferenze scelta. A ciascuno fu anche detto di portare le stampe di
+tutto il codice che aveva scritto nei trenta giorni precedenti.
+
+Ogni volta che un monaco compariva, Banzen diceva: "Dammi i tuoi listati di codice e aspetta in quella stanza, perché
+mi è stato chiesto di indagare su di te". Ciascun monaco entrava nella sala conferenza come gli era stato detto, quindi
+Banzen chiudeva la porta, lasciando il monaco da solo nella stanza. Banzen metteva quindi i fogli del monaco a faccia in
+giù su una pila sempre più grande fuori dalla stanza. Quando erano passati esattamente cinque minuti Banzen apriva la
+porta ed entrava, dicendo: "Ho indagato su di te". Il monaco veniva quindi congedato.
+
+L'abbate pensò: la luna di Banzen è persa dietro una nuvola. Tuttavia, la notte non è ancora finita.
+
+Banzen ripeté il rituale per tutti e dodici i monaci della sala nord. Quando l'ultimo monaco se ne fu andato, Banzen
+lasciò l'abbazia senza dire altro. Dei listati non aveva esaminato una sola pagina.
+
+L'abbate disse a se stesso: un vento ha pulito il cielo, e la luna di Banzen non è nemmeno mezza piena. Devo chiamare
+la badessa.
+
+Così l'anziana [[Jinyu]] venne chiamata nella sala conferenza. Ella, a sua volta, convocò Banzen.
+
+"Qual è il problema della sala nord?" chiese Jinyu.
+
+Banzen indicò. "Che quella pallina di carta è ancora per terra all'angolo."
+
+== Il commento di Qi
+
+Ciò che è stato fatto era aspettato; ma ciò che non è stato fatto importava. Se non riesci a vedere l'errore, la sala
+nord ti attende.
+
+== Il poema di Qi
+
+Una montagna di codice sorgente troneggia nella sala: //
+il lavoro di dodici monaci da luna a luna. //
+La bilancia di un mercante può comparare pesci e monete, //
+ma una busta di carta la batte.
