@@ -1,0 +1,32 @@
+Number: 46
+Title: La maggiore aspirazione
+Lang: it
+Translator: alessandro1997
+Illus.0.title: No, quello non è l'albero bonsai. Semplicemente il Tempio usa delle clip molto grandi.
+
+Il lunedì un novizio chiese al maestro [[Banzen]]: "Qual è la maggiore aspirazione?"
+
+Banzen rispose: "Sapere tutto ciò che si possa sapere, così che il proprio codice non sia mai migliorabile."
+
+Il martedì un altro novizio chiese a Banzen: "Qual è la maggiore aspirazione?"
+
+Banzen rispose: "Essere sempre circondato da colleghi che ne sanno di più, così che si possa essere in uno stato di
+continuo miglioramento."
+
+Il mercoledì un terzo novizio osservò che le risposte erano mutualmente esclusive; più che altro, erano quasi l'esatto
+opposto.
+
+Banzen rispose: "È così."
+
+Il novizio, pensando di avere ragione, chiese dunque a Banzen come si potesse raggiungere la maggiore aspirazione.
+
+Irritato, Banzen rispose: "Il lunedì mi è stato chiesto quale fosse il più grande numero positivo; il martedì, la sua
+metà. Ho risposto a ciascuna domanda in un battito di ciglia. Ma se dovrò mostrarti come contare fino a uno dei due, la
+luna diventerà sabbia ancora prima che incominciamo."
+
+Il novizio si inchinò, vergognato, e uscì.
+
+Un giardiniere -- che stava potando l'albero bonsai sul tavolo di Banzen -- confessò che non capiva come il novizio
+potesse essere stato trovato in errore, giacché le domande del lunedì e del martedì erano senza dubbio identiche.
+
+Banzen rispose: "Quel bonsai ha bisogno d'acqua, così come la quercia fuori dalla mia finestra."
