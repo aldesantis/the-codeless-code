@@ -1,0 +1,29 @@
+Number: 50
+Title: Adattatore
+Lang: it
+Translator: alessandro1997
+
+<div class="about">Questo caso è stato perduto per mesi. Fortunatamente, una copia è stata recentemente trovata ai
+margini di una dimostrazione dell'ultimo teorema di Fermat.</div>
+
+Un novizio dal Lontano Ovest era recentemente arrivato al Tempio. Dopo che fu valutato dall'abate gli venne assegnato
+un nuovo nome, e venne mandato allo scriba [[Qi]] perché fosse inserito nel registro.
+
+Il novizio chiese allo scriba: "Perché date un nuovo nome a ogni monaco e monaca dopo il loro arrivo al Tempio?"
+
+Lo scriba rispose: "Come potevamo chiamarvi /prima/ che arrivaste?"
+
+Il novizio si inchinò e sorrise, ma non accennò a lasciare la compagnia dello scriba. Vedendo che una spiegazione era
+richiesta se voleva tornare alla solitudine, lo scriba continuò:
+
+"Prima che venissi da noi, eri informe nelle nostre menti come i byte nell'heap. Ora sei stato allocato nella memoria
+attiva, ti è stata assegnata una forma e uno scopo. Ti chiamiamo in considerazione di questo scopo, come si chiama una
+variabile o un metodo o un'interfaccia. Certe cose non esistono finché non vengono chiamate."
+
+Il novizio pensò per un momento, quindi si indicò con un ghigno di soddisfazione:
+
+"Codice di terze parti!" dichiarò il novizio.
+
+Qi afferrò il polso del novizio e scrisse rapidamente sulla sua mano il nuovo nome che il Tempio gli aveva assegnato.
+
+"Classe contenitrice" disse lo scriba.
