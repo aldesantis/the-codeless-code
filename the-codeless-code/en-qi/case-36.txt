@@ -49,8 +49,8 @@ as you commanded, and indeed all arguments have ceased."
 <p>Since a few readers have
 expressed interest, a large-size version of
 the poster can be downloaded
-as either an <a href='/cases/36/poster.svg'>SVG</a>
-or <a href='/cases/36/poster.png'>PNG</a> file.
+as either an <a href='/pages/case-36/poster.svg'>SVG</a>
+or <a href='/pages/case-36/poster.png'>PNG</a> file.
 </p>
 </div>
 

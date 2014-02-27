@@ -1,0 +1,19 @@
+Number: 100
+Title: Dez Mil Erros
+Lang: pt
+Locale: BR
+Translator: brunokim
+Illus.0.title: Existem agora aplicativos de ábacos para tablets, caso você queira usar seu processador top-de-linha para realizar cálculos manuais. Eu acho isso estranhamente bonito.
+
+Um aprendiz perguntou ao mestre [[Banzen|Banzen]]: “O que separa o monge do mestre?”
+
+Banzen respondeu: “Dez mil erros!”
+
+O aprendiz, sem entender, buscou evitar toda e qualquer falha. Um abade percebeu e trouxe o aprendiz a Banzen para uma correção.
+
+Banzen explicou: “Eu cometi dez mil erros; [[Suku|Suku]] cometeu dez mil erros; os patriarcas do Código Aberto cometeram dez mil erros cada um.”
+
+Perguntou o aprendiz: “E quanto ao velho monge que labuta no cubículo junto ao meu? Certamente ele já cometeu dez mil erros.”
+
+Banzen balançou sua cabeça com tristeza. “Dez erros, mil vezes cada um.”
+

@@ -1,0 +1,17 @@
+Number: 118
+Title: Barro
+Lang: pt
+Locale: BR
+Translator: brunokim
+
+Um general do Exército Imperial encomendou ao Templo a construção de um sistema de requisição de suprimentos. Ciente do custo, ele enviou um oficial da 3ª Divisão de Inteiros Sem Sinal para relatar o progresso e os processos do Templo.
+
+O oficial notou com satisfação que a maioria dos desenvolvedores trabalhava calma e metodicamente: eles desenhavam projetos detalhados, submetiam os documentos para aprovação ou aperfeiçoamento, e consultavam os rascunhos finais enquanto codificavam.
+
+Embora não uma das monjas.
+
+Enquanto o oficial observava, a monja criou uma dúzia de classes no repositório, encarou cada uma por um instante, renomeou metade delas, encarou de novo, quebrou alguns pedaços, encarou, adicionou alguns métodos e subtraiu outros, e daí por diante. Ela repetiu isto o dia inteiro.
+
+O oficial não conseguiu mais conter sua impaciência, dizendo “Chega! Se os escultores do Império fossem tão impulsivos quanto você, não restaria mais jade no mundo!”
+
+A monja respondeu, “Se os escultores do Império são tolos o suficiente para esculpir telhas com jade, o palácio do Imperador ainda deve estar metade aberto para o céu. Eu mesma, prefiro trabalhar com barro.”

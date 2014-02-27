@@ -5,8 +5,9 @@ Geekiness: 2
 Names: Suku
 Topics: README, communication
 Illus.0.src: corpse.jpg
-Illus.0.par: 1
+Illus.0.par: 0
 Illus.0.title: DAY 54.  SNOWED IN.  NO FOOD LEFT.  I MAY HAVE TAKEN THIS GAME OF HIDE-AND-SEEK A BIT TOO FAR.
+Credits: Cave background adapted from a photo of Gough's Cave, 2009-03-10 by Kurt Thomas Hunt (released under Creative Commons 2.0)
 
 Master [[Suku]] was travelling with three novices in the
 snowy mountains, en route to a distant temple.  The trail

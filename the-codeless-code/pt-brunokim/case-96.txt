@@ -1,0 +1,15 @@
+Number: 96
+Title: Sem Estado
+Lang: pt
+Locale: BR
+Translator: brunokim
+Illus.0.title: Tente não chamá-lo antes das 6:00.
+
+É o dever de todo monge chamar mestre [[Kaimu|Kaimu]] ao menos uma vez durante sua estadia no templo. Quando o mestre abrir sua porta o monge deve se curvar e perguntar: “Qual é a maior alegria de serviços sem estado?”
+
+Sem falha, mestre Kaimu responderá: “Dez mil convidados alimentados por um único grão de arroz.”
+
+O monge deve então perguntar: “E qual é o maior sofrimento?”
+
+Kaimu responderá: “O maior sofrimento de quê?”
+

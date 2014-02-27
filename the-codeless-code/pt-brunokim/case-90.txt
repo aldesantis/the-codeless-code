@@ -1,0 +1,39 @@
+Number: 90
+Title: Não é Número
+Lang: pt
+Locale: BR
+Translator: brunokim
+Illus.0.title: Aparentemente é feito com bastante manteiga sem sinal
+
+Mestre [[Kaimu|Kaimu]] foi abordado por um monge do [[Spider Clan|Clã Aranha]] que disse: “Em Javascript, zero é dividido por zero, o resultado é <tt>NaN</tt>: <i>not-a-number</i>, não-é-número em inglês. Ainda assim, <tt>typeof(NaN)</tt> é <tt>number</tt>. Qual sentido pode ser encontrado em tal linguagem, onde um valor é tanto algo como não-algo?”
+
+Kaimu deu ao monge uma moeda, dizendo, “Na Estrada das Urtigas Brancas vive um padeiro que vende pães achatados tão redondos como o zero mais perfeito. Compre quantos conseguir e traga-os para mim.”
+
+O monge fez como lhe foi dito.  Quando o padeiro recebeu seu pagamento, jogou o monge de corpo inteiro para fora da loja e atirou a moeda em cima dele.
+
+“Dinheiro falso,” disse o padeiro.
+
+- - -
+
+<div style="color:#666">
+Ao retornar ao templo, o monge encontrou um dos jardineiros, trocou de roupas com ele, e mandou o jardineiro ver mestre Kaimu sozinho.
+
+Kaimu se divertiu com a enganação evidente. “Monge!” ele disse. “Onde está o meu pão?”.
+
+Como instruído pelo monge, o não-monge respondeu, “Dividido igualmente entre aqueles que me ajudaram a carregá-lo.”
+
+Kaimu ficou satisfeito.
+</div>
+
+== O comentário de Qi
+
+Dinheiro inútil, monge de araque, pão fictício,
+<span style="color:#666">conclusão falsa</span>.
+
+== O poema de Qi
+
+Kaimu encontrou um soldado idoso; um homem vazio e desesperado, //
+pois não conseguia se lembrar do próprio nome. //
+O mestre deu a ele uma moeda, dizendo “Isto é para ti de Kaimu.” //
+O soldado gritou de alegria, “Então eu devo ser Não Kaimu!” //
+

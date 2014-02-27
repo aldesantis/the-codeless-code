@@ -1,0 +1,21 @@
+Number: 117
+Title: Sem Sela
+Lang: pt
+Locale: BR
+Translator: brunokim
+Illus.0.title: Eu conheci uma garota na faculdade que costumava manter sua sela e arreios em uma estante no meio do seu quarto no alojamento. Eu não estava realmente interessado nela até descobrir que ela não tinha um cavalo.
+
+Um certo monge disse ao mestre [[Suku|Suku]]: “Estudei seu código para aprender de seu exemplo, mas em uma questão meus olhos ainda não se abriram.”
+
+O monge desdobrou uma listagem de código. “Considere esta mínima aplicação, onde você busca por erros em arquivos de <i>log</i>. Eu teria feito todo o processamento na classe de aplicação. Ainda assim, você define um conjunto de classes adicionais: uma interface <i>LogFileReader</i> que possui um único método <i>readEntry</i>, um <i>LogFileEntry</i> a ser retornado pelo método, e um <i>SimpleLogFileReader</i> que é a única implementação da interface! Para que tanta formalidade para um projeto tão pequeno?”
+
+Suku respondeu: “Vá aos estábulos, solte meu cavalo, e cavalgue pela Estrada da Serpente Bêbada ao pico desta montanha. Então desça e me diga o que terá aprendido.”
+
+O monge reapareceu naquela noite, ralado e sujo. “Aprendi que seu cavalo não gosta de ser montado sem sela. Também, que se pode cair por um longo caminho pelo barranco se jogado nele.”
+
+Suku exibiu uma sela, peitoral, arreios, freio e rédeas, dizendo: “Não importa quão curta a jornada, o cavaleiro deve estar absolutamente certo de onde sentar e como manobrar.”
+
+O monge massageou um grande galo em sua cabeça. “Mas do que o cavalo temperamental pode estar certo?”
+
+“De que ele está sendo cavalgado,” disse Suku.
+

@@ -1,0 +1,22 @@
+Number: 40
+Title: Autoridade
+Lang: pt
+Locale: BR
+Translator: brunokim
+
+O escriba perguntou ao mestre Java: “Por que você me faz gravar tantos contos de estudantes que necessitam de correção?”
+
+O mestre disse: “Para que um tolo possa lê-los, e perceber que ele é um tolo.”
+
+O escriba perguntou: “A mera ignorância ou erro tornam alguém um tolo?”
+
+O mestre disse: “Não. Tolo é aquele que se diz ‘mestre’ e fala com aparência de autoridade. Seu erro começa quando abre a boca, e se multiplica quando a fecha, deixando muito sem dizer.”
+
+O escriba disse: “Então não seria mais sábio dizer nada, tanto ao estudante quanto ao escriba?”
+
+O mestre disse: “De fato, minha própria existência em suas páginas começa e termina em erro. Se eu tivesse qualquer sabedoria eu jogaria seu livro ao mar.”
+
+O escriba perguntou: “Não há livro nenhum aqui, nem mar, e de qualquer modo lhe faltam mãos ou um corpo para realizar esta tarefa.”
+
+O mestre disse: “Então eu sou conteúdo, e estou satisfeito.”
+
