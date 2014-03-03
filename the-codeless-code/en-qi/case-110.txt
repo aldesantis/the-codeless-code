@@ -3,7 +3,7 @@ Number: 110
 Title: The Trunk
 Geekiness: 2
 Names: Bawan, Spider Clan, Laughing Monkey Clan, Elephant's Footprint Clan
-Topics: complexity, efficiency, value objects, YAGNI
+Topics: complexity, efficiency, data transfer objects, YAGNI
 Illus.0.par: 3
 Illus.0.src: Trunk.jpg
 

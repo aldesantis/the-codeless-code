@@ -3,7 +3,7 @@ Number: 115
 Title: Pain
 Geekiness: 3
 Names: Banzen
-Topics: error handling, exceptions, null, Java, primitives, value objects
+Topics: error handling, exceptions, null, Java, primitives, data transfer objects, null pointer exception
 Illus.0.par: 2
 Illus.0.src: OnFire.jpg
 Illus.0.title: I don't know why anyone would voluntarily choose to be a hunk of burning love.
