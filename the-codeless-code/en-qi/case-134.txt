@@ -1,0 +1,74 @@
+Number: 134
+Date: 2014-03-01
+Title: Thin Ice
+Names: Djishin, Banzen, One Shoe Clan
+Topics: data transfer objects, partial initialization, null, null pointer exception, object-relational mapping
+Geekiness: 3
+Illus.0.src: pole.jpg
+Illus.0.title: P.S. -- We *were* able to fill in a few of the shallower holes with landmines.
+
+The monk [[Djishin]] had grown dispirited from
+[[#78|toiling on obscure projects]] for the [[One Shoe Clan]],
+far removed from the bustle of temple life.
+He appealed to master [[Banzen]] for more meaningful work.
+
+Said Banzen, "I can think of one application whose codebase
+has grown confused over the years, owing to its many owners.
+I suspect it hides much rubbish which may be cleared away."
+
+When Banzen examined Djishin's refactoring he found the
+code to be well-organized and greatly simplified.  The most
+dramatic reduction had been in the number of Data Transfer
+Object classes.
+
+"I retained only those classes which map directly to
+database tables," Djishin explained proudly.  "See, here is
+a query which joins the Campaign, Soldier, and Specialty
+tables, fetching but two columns from each.  Previously
+there was a DTO whose only purpose was to return the six
+values for each row -- shameful!  Now the query returns a
+list of Campaign instances, each holding a list of Soldiers,
+each in turn holding a list of Specialties.  True, the
+presentation layer must now traverse these objects, but they
+are common throughout the application and will be familiar
+to all who labor upon it."
+
+Banzen stroked his beard.  "You have adopted the ways of
+the Object-Relational Mapping, in a framework of your own
+devising.  I am acquainted with the virtues of this
+approach, but also with its vices.  These three tables have
+about twenty columns each; the domain objects which mirror
+them have likewise twenty fields.  So now instead of fetching
+six columns per row, are you fetching sixty?  Or executing the
+query in three passes?  Or employing some sort of cache?"
+
+"None of these," said Djishin with satisfaction.  "I fetch
+only the original six columns, plus primary keys.  All other
+fields in the domain objects are simply left uninitialized."
+
+Banzen sighed and reached for his staff.
+
+- - -
+
+Djishin awoke outside with a pounding headache, covered by a
+blanket of new-fallen snow.  He was alone in the middle
+of a tidy, perfectly level field surrounded by great pines.
+All gleamed white in the morning sun, and a few flurries
+were still spinning through the air.
+
+At his feet a long stick had been thrust into the ground.
+A note was tied around the middle.  Djishin unrolled it.
+
+    I ordered the One Shoe Clan to remove all the refuse
+    from the temple's rubbish yard.  Is it not lovely now?
+
+    Sadly, this left behind many deep pits that would
+    require too much effort to fill, so we covered the
+    tops quite artfully with the thinnest layer of branches
+    and leaves.  Since a good snow has been forecast
+    for this evening, I expect you will awaken to a
+    picture of perfection.
+
+    Watch your step,
+
+    B.
