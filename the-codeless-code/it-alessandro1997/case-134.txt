@@ -1,0 +1,52 @@
+Number: 134
+Title: Thin Ice
+Illus.0.title: P.S. -- Siamo riusciti a mettere delle mine in alcune delle buche meno profonde.
+Lang: it
+Translator: alessandro1997
+
+Il monaco [[Djishin]] si era stancato di [[#78|arrancare dietro progetti oscuri]] per il
+[[One Shoe Clan|Clan della Scarpa Sola]], lontano dal centro della vita del Tempio. Fece appello al maestro [[Banzen]]
+per un lavoro più significativo.
+
+Disse Banzen: "Ho in mente un'applicazione il cui codice è diventato confuso negli anni, per via dei suoi molti
+proprietari. Sospetto che nasconda molta immondizia che potrebbe essere rimossa."
+
+Quando Banzen esaminò la rifattorizzazione di Djishin, trovò che il codice era ben organizzato e molto semplificato. La
+maggiore riduzione era nel numero di classi di Oggetti di Trasferimento Dati.
+
+"Ho tenuto solo quelle classi che corrispondevano direttamente alle tabelle del database" spiegò Djishin con orgoglio.
+"Vedete, qui c'è una query che unisce le tabelle Campagna, Soldato e Specialità, prendendo da ognuna solo due colonne.
+Prima c'era un OTD il cui solo scopo era di restituire i sei valori di ciascuna riga -- vergognoso! Ora la query
+restituisce una lista di istanze Campagna, ciascuna contenente una lista di Soldati, ciascuno a sua volta contenente una
+lista di Specialità. Vero, il livello di presentazione ora deve esplorare questi oggetti, ma sono riutilizzati in tutta
+l'applicazione e chiunque ci lavori li conoscerà."
+
+Banzen si accarezzò la barba. "Hai adottato la strada dell'Object-Relational Mapping, in un framework di tua ideazione.
+Conosco le virtù di questo approccio, ma anche i suoi vizi. Queste tre tabelle hanno circa venti colonne ciascune; gli
+oggetti di dominio che le riproducono hanno allo stesso modo venti campi. Quindi ora invece di recuperare sei colonne
+per riga, ne stai recuperando sessanta? O eseguendo la query in tre fasi? O usando una qualche sorta di cache?"
+
+"Nessuna di queste" disse Djishin con soddisfazione. "Recupero solo le sei colonne originarie, più le chiavi primarie.
+Tutti gli altri campi negli oggetti di dominio semplicemente non sono inizializzati."
+
+Banzen sospirò e prese il bastone.
+
+- - -
+
+Djishin si svegliò fuori con un mal di testa pulsante, coperto da uno strato di neve appena caduta. Era solo al centro
+di un campo pulito e perfettamente pianeggiante circondato da grandi pini. Tutto luccicava di bianco nel sole mattutino,
+e alcuni fiocchi ancora svolazzavano nell'aria.
+
+Ai suoi piedi un lungo bastone era stato infilato nel terreno. Una nota era legata al centro. Djishin la srotolò.
+
+    Ho ordinato al Clan della Scarpa Sola di rimuovere tutti i rifiuti dal cortile della spazzatura del Tempio. Non è
+    delizioso adesso?
+
+    Sfortunatamente, quest'operazione ha lasciato molte buche profonde che avrebbero richiesto troppo sforzo per essere
+    riempite, così abbiamo coperto la superficie in maniera piuttosto ingegnosa con uno strato molto sottile di rami e
+    foglie. Giacché una bella nevicata è prevista per stasera, mi aspetto che ti sveglierai di fronte a un'immagine
+    perfetta.
+
+    Attento a dove metti i piedi,
+
+    B.
