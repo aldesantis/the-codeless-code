@@ -1,0 +1,70 @@
+Number: 135
+Date: 2014-03-09
+Title: Ass-Backwards Compatibility
+Geekiness: 2
+Names: Wangohan, Spider Clan, Laughing Monkey Clan
+Topics: backwards compatibility, regular expressions, documentation, refactoring, testing, unit testing, happy path testing
+Illus.0.src: lunch.jpg
+Illus.0.title: For a box lunch, it's pretty high in fiber.
+
+
+[[Wangohan]], a monk of the [[Spider Clan]], stumbled upon a
+bug in a utility class provided by the [[Laughing Monkey Clan]].
+He called upon the junior monk who was its author.
+
+"Your last refactoring of <tt>isHexNumber</tt> was
+incorrect," said Wangohan. "Although there is no
+documentation, the name implies that it will only match strings
+of one or more hex digits.  Yet your regular expression uses
+no anchors and the wrong quantifer.  You will return true for
+any string in which /zero/ or more hex digits are present
+/anywhere/ -- which is to say, any string at all."
+
+"I ensured that the existing unit tests passed," protested
+the junior monk.  "Null is rejected, and legitimate hex
+numbers are accepted."
+
+Wangohan scowled. "I tell you that a cardboard box is not a
+fit meal for the Emperor's daughter, and you reply,
+/a goat did not choke on it/."
+
+- - -
+
+Wangohan called on the senior monk who tended the shared
+library and explained the problem.
+
+"We cannot change the implementation," said the senior monk.
+"This method is now used throughout the Temple.  If it
+suddenly rejects strings it once accepted, disaster
+might ensue."
+
+Wangohan pounded his fist on the monk's desk.  "I tell you
+that a cardboard box is not a fit meal for the Emperor's
+daughter, and you reply, /she may dislike the taste of lamb
+and figs/."
+
+- - -
+
+Wangohan called upon the head abbot of Laughing Monkey
+and explained the problem.
+
+"I will attend to the matter," sighed the abbot.
+"There must be a solution which will satisfy all parties."
+
+That evening Wangohan received an email from the abbot,
+stating that the method should now perform exactly as
+expected.  Wangohan brought up the code and found it to be
+completely unchanged, save for a new comment at the top:
+
+<pre>
+  /**
+   * isHexNumber returns true for any string
+   * in which zero or more hex digits are present
+   * anywhere.
+   */
+</pre>
+
+Wangohan's head fell to his desk.  "Clearly a cardboard box
+must be a fit meal for the Emperor's daughter, for here
+it is on the Imperial menu."
+
