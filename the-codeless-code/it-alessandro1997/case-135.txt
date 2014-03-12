@@ -1,0 +1,48 @@
+Number: 135
+Title: Ass-Backwards Compatibility
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Per essere un pranzo al sacco ha un apporto di fibra piuttosto alto.
+
+[[Wangohan]], un monaco del [[Spider Clan|Clan del Ragno]], si trovò di fronte a un bug in una classe di utilità fornita
+dal [[Laughing Monkey Clan|Clan della Scimmia Ridente]]. Chiamò il monaco minore che ne era l'autore.
+
+"La tua ultima rifattorizzazione di <tt>isHexNumber</tt> era incorretta" disse Wangohan. "Nonostante non ci sia alcuna
+documentazione, il suo nome implica che restituirà vero solo per le stringhe contenenti una o più cifre esadecimali.
+Eppure la tua espressione regolare non usa alcuna ancora e il quantificatore sbagliato. Restituirai vero per ogni
+stringa in cui /zero/ o più cifre esadecimali sono presenti /in qualunque posizione/ -- vale a dire, per ogni stringa."
+
+"Mi sono assicurato che gli unit test esistenti passassero" protestò il monaco minore. "Il valore nullo viene rifiutato,
+e i numeri esadecimali validi sono accettati."
+
+Wangohan si accigliò. "Io vengo a dirti che una scatola di cartone non è un pasto adatto per la figlia dell'Imperatore,
+e tu rispondi /nessuna capra ci si è strozzata/."
+
+- - -
+
+Wangohan chiamò il monaco anziano che curava la libreria condivisa e spiegò il problema.
+
+"Non possiamo cambiare l'implementazione" disse il monaco anziano. "Questo metodo viene ora usato in tutto il Tempio. Se
+improvvisamente rifiutasse stringhe che una volta accettava, ne potrebbe derivare un disastro."
+
+Wangohan sbatté il pugno sulla scrivania del monaco. "Io vengo a dirti che una scatola di cartone non è un pasto adatto
+per la figlia dell'Imperatore, e tu rispondi /potrebbero non piacerle i fichi o l'agnello/."
+
+- - -
+
+Wangohan chiamò l'abate capo della Scimmia Ridente e spiegò il problema.
+
+"Mi occuperò della questione" sospirò l'abate. "Dev'esserci una soluzione che soddisfi tutte le parti."
+
+Quella sera Wangohan ricevette un'email dall'abate, in cui egli affermava che il metodo ora si comportava esattamente
+come previsto. Wangohan aprì il codice e lo trovò identico a prima, tranne che per un nuovo commento in cima:
+
+<pre>
+  /**
+   * isHexNumber restituisce vero per ogni stringa in cui zero o più cifre
+   * esadecimali siano presenti in qualunque posizione.
+   */
+</pre>
+
+La testa di Wangohan cadde sulla scrivania. "Evidentemente una scatola di cartone dev'essere un pasto adatto per la
+figlia dell'Imperatore, giacché eccola sul menù imperiale."
