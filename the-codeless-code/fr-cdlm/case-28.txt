@@ -1,0 +1,67 @@
+Title: Écho
+Number: 28
+Lang: fr
+Translator: cdlm
+
+Le [[Clan of Iron Bones|Clan des Os de Fer]] était chargé de garder les serveurs en marche.
+C'était leur but, et c'était leur fierté.
+
+Un moine de ce clan qui faisait un ratissage de sécurité remarqua que quelques services non essentiels actifs.
+Il rapporta ses constatations à l'abbé.
+
+« Nous devrions éteindre le service /echo/ du port sept, » dit le moine.
+« C'est un vestige de temps oubliés, qui n'est plus d'aucune utilité de nos jours.
+Il ne fait que régurgiter tout ce qu'on lui envoie, pour aider à tester latence et connectivité du réseau. »
+
+Au grand étonnement du moine, l'abbé le bannit immédiatement pour un an dans un hermitage distant haut dans les montagnes.
+Aucune raison ne fut donnée.
+
+Le voyage prit de nombreuses semaines.
+La route serpentait vers les hauteurs et finit par disparaître sous les congères.
+L'air se raréfia.
+Sur les derniers kilomètres, la montagne devint traitreusement abrupte :
+le chemin presque invisible longeait un à-pic sans fond.
+La nuit tombée, le moine faillit perdre la vie en s'approchant trop près du précipice.
+
+Finalement il arriva à une hutte perchée sur une falaise solitaire.
+La hutte était froide et nue à l'exception d'un lit, un bol, et une station de travail ancestrale avec un terminal VT220.
+
+Un jour, le moine méditait lorsque le terminal émit un bip.
+Sur l'écran, il lut :
+
+<pre>
+  <b>Connexion reçue. Charge utile :</b>
+  Dix mille salutations à notre lointain cousin !
+  <b>Réponse ?</b>
+</pre>
+
+Le moine répondit avec une rafale de questions excitées, mais tout ce qu'il tapait était rejeté par le terminal.
+Soudain, le moine fut illuminé, et il tapa :
+
+<pre>
+  Dix mille salutations à notre lointain cousin !
+</pre>
+
+Suite à cela, le terminal ne sonna jamais plus fréquemment qu'une fois en quelques jours.
+Quelquefois le message était un simple /salut/.
+Quelquefois c'était un petit poème sur les jubilations d'un vif zéphyr.
+Souvent ce n'était que du charabia.
+Mais le moine répondait toujours rapidement et fidèlement.
+C'est ainsi qu'il passa l'année.
+
+Quand il retourna au temple il continua de la même façon :
+ne parlant que quand on s'adressait à lui, et répérant les mots exactements tels qu'on lui avait énoncés.
+Et bien que cela lui valut le mépris de ses pairs, tous durent admettre que jamais il ne répandait de rumeurs, mentait pour son gain personnel, ou insultait quiconque ne l'avait insulté d'abord.
+
+== Le commentaire de Qi
+
+La pénitence du moine était bien trop douce ; mais il a été chanceux.
+Si il s'était plaint du service /discard/ du port neuf, il aurait appris à bien tenir sa langue.
+
+
+== Le poème de Qi
+
+La tour s'élève fièrement, //
+la statue regarde le large. //
+Quels grands travaux n'ont été créés,
+mais dont le bâtisseur puisse voir sa réflexion en ce monde ?
