@@ -1,0 +1,28 @@
+Number: 44
+Title: Il monaco al contrario
+Lang: it
+Translator: alessandro1997
+Illus.0.title: La garanzia della camera d'aria non copre i danni causati dalla foratura da parte di rocce appuntite. Nemmeno il piano sanitario del Tempio.
+
+Un certo monaco aveva uno strano modo di scrivere codice. Quando gli veniva presentato un problema, egli scriveva prima
+molti test automatizzati per verificare che del codice non ancora scritto fosse corretto. Questi, ovviamente, fallivano,
+perché non c'era ancora nulla da testare. Solo quando i test erano stati completati il monaco lavorava sul codice
+stesso, procedendo diligentemente finché tutti i test non passavano.
+
+I suoi fratelli ridicolizzavano questo processo, che faceva in modo che il monaco producesse solo la metà del codice
+applicativo dei suoi pari -- e, anche così, solo dopo un lungo ritardo. Lo chiamavano /Luohou/, il monaco al contrario.
+
+Il maestro Java [[Banzen]] sentì di questo. "Investigherò" dichiarò egli.
+
+Al suo ritorno, il maestro decretò che tutti i membri del clan che avevano completato gli assegnamenti della settimana
+potevano accompagnarlo alla piscina come ricompensa per la loro efficienza. Il monaco al contrario rimase indietro, da
+solo.
+
+In cima al dirupo da cui si immergevano, il monaco più anziano guardò oltre il bordo e si fece indietro.
+
+"Maestro!" urlò. "Qualcuno ha spostato le pietre della diga! Nella piscina non c'è acqua. Sotto ci attendono solo
+erbacce e rocce appuntite!"
+
+Con il suo bastone Banzen pungolò il giovane verso il precipizio.
+
+"Certamente," disse il maestro "puoi risolvere questo problema quando arriverai in fondo."
