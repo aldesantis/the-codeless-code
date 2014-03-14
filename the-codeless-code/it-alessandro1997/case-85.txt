@@ -1,0 +1,34 @@
+Number: 85
+Title: Il giusto mezzo di Suku
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Suku era solita bighellonare in bar universitari e scommettere coi matematici che poteva aggiungere zero a uno e ottenere un risultato strettamente compreso tra uno e due. Ma poi ha scoperto che era più semplice aspettare che fossero ubriachi e rubargli i portafogli.
+
+Due monaci si avvicinarono alla maestra [[Suku]] per risolvere una disputa.
+
+Il primo monaco disse: "Io ho proposto un design davvero elegante, ma questo monaco dice che è troppo complesso e non
+può essere mantenuto."
+
+Il secondo monaco disse: "Io ho proposto un design davvero semplice, ma questo monaco dice che è troppo limitato e non
+sarà utile."
+
+Suku si girò verso la sua lavagna e disegnò un grande /pi greco/, così:
+
+Il primo monaco disse: "Non capisco."
+
+Il secondo monaco disse: "Neanche io."
+
+Suku rispose: "Discutete in booleani; in zero e uno. Tornate quando avrete imparato la virgola mobile."
+
+== Il commento di Qi
+
+[[Kaimu]] riceve novizi e maestri, ma mandando quelli più stupidi a Suku.
+[[#24|Il <i>null</i> di Kaimu]] può cancellare una cattiva domanda, ma il /pi greco/ di Suku può cancellare due cattive
+risposte.
+
+== Il poema di Qi
+
+Kaimu ha il suo /null/. //
+Suku preferisce il suo giusto mezzo. //
+Il primo richiede riconsiderazione -- //
+il secondo, compromesso.
