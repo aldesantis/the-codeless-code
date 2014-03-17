@@ -1,0 +1,21 @@
+Number: 8
+Lang: es
+Translator: cgib
+Title: Reducir, Reutilizar, Reciclar
+
+Un novicio preguntó al gran maestro: "¿Cuál es el Camino?"
+
+El maestro replicó, "Escribir código es el Camino."
+
+Entonces el novicio preguntó, "¿Cuál no es el Camino?"
+
+El maestro respondió, "Escribir código no es el Camino."
+
+El novicio dijo, "Entonces escribir código lo es todo."
+
+El maestro replicó, "Y el no escribir código también lo es."
+
+El novicio preguntó, "En este preciso momento, ¿estamos escribiendo código, o no escribiendo código?"
+
+El maestro respondió, "Nosotros somos el código."
+

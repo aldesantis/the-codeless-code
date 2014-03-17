@@ -1,0 +1,26 @@
+Number: 7
+Lang: es
+Translator: cgib
+Title: El Enemigo del Bien
+
+Los monjes del Clan del Mono que Ríe se presentaron ante el maestro Java con una lista de quejas.
+
+"Nuestra mayor frustración es el proceso de pruebas," insistía el monje más joven. "Las pruebas manuales son tediosas, y las pruebas automatizadas son difíciles de componer. Ambas suponen una distracción de la creación de código."
+
+El maestro consideró esto, y dijo: "Cierto es que podríamos prescindir de las pruebas por completo, si supiéramos que nuestro código es perfecto. Entonces, ¿cómo podríamos alcanzar la perfección?"
+
+"A través de la práctica," dijo un monje.
+
+"Por medio del estudio diligente," dijo otro.
+
+"Apaciguando a los dioses adecuados," dijo un tercero.
+
+Un anciano monje de barba blanca, que había estado sentado silenciosamente en un rincón, levantó la cabeza.
+
+"Yo sé cómo se puede alcanzar la perfección," dijo. "Pero temo que todo aquel que escuche mi respuesta permanecerá para siempre escéptico de su veracidad, a menos que yo utilice exactamente las palabras precisas, con la más agradable de las entonaciones, en el momento más propicio del día. Debo ahora considerar cuál es la mejor manera."
+
+El anciano monje guardó silencio durante un largo rato. Finalmente sonó la campana de la cena.
+
+"¿Cuánto tiempo va a llevar esto?" preguntó uno de los novicios.
+
+"No más de unos cien años," fue la respuesta del anciano monje.

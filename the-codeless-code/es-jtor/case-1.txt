@@ -1,0 +1,29 @@
+Number: 1
+Lang: es
+Title: Las Peque&ntilde;as Cosas
+Translator: jtor
+Illus.0.title: Si usted pregunta por qué los pies descalzos están prohibidos en el templo, obtendrá la misma respuesta.
+
+Durante tres días y tres noches, el maestro Java no salió de
+su cubículo. Al cuarto día, los monjes del templo enviaron a
+un aprendiz en busca de noticias suyas.
+
+El aprendiz encontró al maestro ante su pizarra,
+contemplando un único diagrama de flujo. El aprendiz lo
+identificó como un componente menor del vasto sistema para
+cuyo mantenimiento los monjes estaban
+contratados. Educadamente, el aprendiz preguntó al maestro
+en qué estaba trabajando.
+
+El maestro contestó: "Hay un defecto, y estoy considerando
+cuál es la mejor manera de solucionarlo".
+
+El aprendiz dijo: "A menudo predica sobre la importancia de
+establecer prioridades. Entonces, ¿cómo puede estar
+obsesionado con algo tan pequeño y trivial?"
+
+Sin decir una palabra, el maestro elevó su bastón y golpeó
+con fuerza el descalzo pie izquierdo del aprendiz,
+rompiéndole el dedo meñique. El aprendiz gritó de dolor y
+salió cojeando del cubículo. En ese momento, el aprendiz vio
+la luz.

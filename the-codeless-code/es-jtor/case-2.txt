@@ -1,0 +1,43 @@
+Number: 2
+Lang: es
+Title: Ignorancias ignoradas
+Translator: jtor
+
+El Emperador estaba enfadado por los fallos en el nuevo
+sistema de procesamiento que había encargado, por lo que
+envió un mensajero al templo para que investigara a los
+monjes de allí.
+
+"Su Excelencia les envió sus Analistas de Negocio de mayor
+confianza para asegurarse de que todas las características
+funcionaran según lo previsto", dijo ceñudo el
+mensajero. "¿No comprendieron ninguna de sus numerosas
+presentaciones de PowerPoint?"
+
+"Asistimos a cada una de ellas", dijo el maestro Java. "Y
+todo lo oído, fue entendido".
+
+El maestro colocó un pequeño cuenco de arroz frente al
+mensajero, que se lo acabó al momento. El mensajero se
+limpió la boca con la manga y continuó:
+
+"Estos mismos Analistas les proporcionaron diez mil páginas
+de documento de requerimientos, meticulosamente ilustradas
+hasta el último Caso de Uso. ¿No se molestaron en
+examinarlas?"
+
+"Examinamos cuidadosamente cada página", dijo el maestro
+Java. "Y todo lo leído, fue entendido”. El maestro puso una
+humeante taza de té frente al mensajero, que se la bebió de
+un trago.
+
+Entonces, el mensajero cayó de frente contra la mesa,
+muerto.
+
+El maestro preguntó a sus estudiantes: "¿No sabía el
+mensajero que acostumbramos a rodearnos de comida y bebida
+envenenadas, para así poder resistir mejor las tentaciones
+de la carne?"
+
+Dijo el monje más sabio: "Todo lo observado por el
+mensajero, ha sido entendido".

@@ -1,0 +1,31 @@
+Number: 10
+Title: Orgullo
+Lang: es
+Translator: cgib
+
+Tras una inspección superficial, el maestro Java decretó que cada monje en el Clan de la Pisada de Elefante debería en adelante capturar su propio pescado, recolectar su propio arroz, coser sus propias túnicas, y remendar sus propios zapatos.
+
+En el transcurso de un mes, los monjes estaban medio desnudos y profundamente malhumorados. Los plazos empezaron a incumplirse. El abad imploró al maestro Java que reconsiderase su decisión.
+
+"Muy bien," dijo el maestro Java. "Cada Jueves, hagámosles también quemar sus túnicas y zapatos, y arrojemos su arroz y pescado al río."
+
+El abad preguntó qué transgresión había cometido su clan para merecer tal castigo.
+
+"¿Castigo?" dijo el maestro Java. "Únicamente he intentado recompensar. ¿No es verdad que los monjes de la Pisada de Elefante se deleitan en su independencia y autosuficiencia? Su código así me lo dice:
+
+"Cada uno ha creado esencialmente los mismos Objetos de Acceso a Datos y Value Objects que sus vecinos. Cada uno ha construido sus propias utilidades para manejo de Cadenas y procesadores de ficheros de configuración. Cada uno ha padecido exquisitos sufrimientos para diseñar, implementar, integrar, probar, depurar, reparar, y extender aquello que podría meramente haber consumido de alguno de sus hermanos.
+
+"¿Debería inferir incompetencia? En tal caso, todos y cada uno de los monjes de la Pisada de Elefante deben ser expulsados del monasterio.
+
+"¿Debería inferir ignorancia deliberada? En tal caso, la tradición exige que se cieguen a sí mismos con ortigas, y <i>entonces</i> sean expulsados.
+
+"¿Debería inferir desprecio por lo precioso del tiempo? En tal caso, las mazmorras esperan...
+
+"Pero no," concluyó el maestro Java. "En lugar de todo eso inferiré orgullo - orgullo de que el código de cada uno es superior al de sus hermanos. El orgullo es una de las Cuatro Semillas de la Grandeza, y debe ser potenciado. ¡Que la Pisada de Elefante afile sus habilidades con cizallas y lanzas, con agujas y hoces, hasta que cada monje pueda estar igualmente orgulloso de sus finas túnicas y la abundancia de su plato!"
+
+"Quedará poco tiempo para codificar," observó el abad. "Y el Emperador es bastante literal en su interpretación de la expresión <i>plazo límite</i>."
+
+El maestro asintió. "El mercader, finalmente arruinado, conoce sólo los dolores de la pérdida. Mientras que el viejo ermitaño ensalza las virtudes de la austeridad, y no cambiará su estado. ¿Y no son sino el mismo hombre, separados sólo por un abismo de años?"
+
+Y así la Pisada de Elefante fue perdonada dos veces y corregida.
+

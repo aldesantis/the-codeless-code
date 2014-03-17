@@ -1,0 +1,27 @@
+Number: 9
+Lang: es
+Translator: cgib
+Title: Infinitos
+
+Dos monjes del Clan de la Araña estaban discutiendo sobre si la nueva rutina de validación estaba atrapada en un bucle infinito.
+
+"¿Cuánto tiempo ha estado corriendo?" preguntó el abad.
+
+"No más de treinta minutos," dijo el monje pálido y delgado.
+
+"Aunque tampoco menos," dijo el monje gordo y moreno.
+
+"¿Y en todo este tiempo no habéis hecho nada más que esperar a que termine?" preguntó el abad.
+
+Los monjes inclinaron las cabezas avergonzados.
+
+El abad informó de esto al maestro Java, quien asintió. "¿Cuál de ellos cree que el bucle <i>no</i> es infinito?"
+
+"El pálido y delgado," dijo el abad.
+
+"Entonces dale un pellejo de vino, porque es sabio. Ningún bucle puede ser verdaderamente infinito. Algún día el suministro eléctrico fallará, el servidor se oxidará, el templo se derrumbará, y el sol se tragará la tierra."
+
+Preguntó el abad, "¿Y qué pasa con el gordo de piel oscura, el que cree que el bucle es infinito?"
+
+"Dale dos pellejos de vino, puesto que es más sabio. Para el usuario esperando en su navegador, diez segundos son una agonía, un minuto es un eón, y cualquier cosa más larga es efectivamente una eternidad. Cuando el tigre hiere al antílope, el antílope no pregunta si se usaron ocho garras, o un millón."
+

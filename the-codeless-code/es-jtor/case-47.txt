@@ -1,0 +1,18 @@
+Number: 47
+Lang: es
+Title: El origen de todo
+Translator: jtor
+Illus.0.src: binary-es.jpg
+
+Pintado en los azulejos de un lavabo cercano a la oficina del maestro Java
+[[Bawan]]: <sup>*</sup>
+
+<div class="footnotes" style="margin-top:8ex">
+<div class="footnote"><sup>*</sup> Algunas observaciones del Editor:</div>
+<ul>
+<li>Esto significa que cada número binario tiene ambos cromosomas, excepto los números de forma (2^n)-1, donde n >= 0.</li>
+<li>También significa que el complemento bit a bit (~) es la Operación de Cambio de Sexo.</li>
+<li>Sería natural asignar sexo a los números binarios enteros como sigue: los números pares (terminados en 0) son femeninos, y los impares (terminados en 1) son masculinos. Pero, personalmente hablando, encontraría desconcertante que alguien se refiriese a la cualidad anatómica que define mi sexualidad como mi Último Bit Significativo.</li>
+</ul>
+</div>
+

@@ -1,0 +1,18 @@
+Number: 4
+Lang: es
+Translator: jtor
+Title: Sauces
+
+Un nuevo sacerdote del Clan de la Araña se lamentaba de la mala calidad del código Javascript que sus aprendices producían.
+
+"Investigaré", dijo el maestro Java.
+
+Después de visitar a los aprendices, el maestro decretó que los cuatro primeros fueran golpeados fuertemente en los nudillos cada mañana antes de que sus manos pudieran tocar sus teclados. Para el quinto aprendiz, el maestro no impuso ninguna medida. El sacerdote preguntó al maestro el por qué de sus decisiones.
+
+"El retoño, si es atendido, podrá convertirse en un sauce, pero no podrá la brizna de hierba", dijo el maestro.
+
+Al oír esto, el sacerdote ordenó que se dejara marchar al quinto aprendiz.
+
+Para su sorpresa, esto enfadó enormemente al maestro Java, y el sacerdote mismo fue expulsado. En su última nómina, el maestro escribió lo siguiente:
+
+No se puede mentir a un millar sauces y contemplar el amanecer.

@@ -1,0 +1,27 @@
+Number: 6
+Lang: es
+Translator: jtor
+Title: Vacío
+Title-footnote: *
+
+Al volver de sus vacaciones, el abad mayor del Clan del Mono que Ríe encontró su templo  sumido en el caos y el desorden. El sistema financiero que acababan de modificar arrojaba NullPointerExceptions a cada nuevo usuario. Estos usuarios, molestos en extremo, cerraban sus cuentas en apenas un día.
+
+Con algunas dificultades, el abad detectó que el problema lo causaba un método cuyo propósito era devolver una lista con las transacciones del usuario. Si no había transacciones, devolvía null en vez de la lista vacía.
+
+"Traedme al monje que ha escrito este método", dijo a los guardias del templo. "Y también al monje cuyo código lo invoca".
+
+El primer monje, que era el mayor de los dos, declaró que la culpa debía recaer exclusivamente sobre el segundo monje. "Mi Javadoc era claro en extremo. No es mi culpa que no comprobara los valores null". El segundo monje bajó la cabeza avergonzado, y no dijo nada.
+
+El abad dio una palmada y dos altas urnas de jade fueron colocadas en el suelo, una frente a cada monje. Vuestros castigos han sido escritos en los pedazos de papel que hay dentro. Cada día, sacaréis el primero que toquen vuestras manos y obedeceréis sus órdenes fielmente, hasta que vuestras urnas queden vacías".
+
+Al monje joven se le hizo empezar el primero. Su mano no se había hundido ni hasta la mitad de la urna cuando se oyó el crujir del papel. Leyendo el pedazo de papel, se inclinó y abandonó la habitación.
+
+El monje mayor hundió profundamente la mano en su propia urna hasta que sus dedos tocaron el frío fondo. "No hay pedazos de papel en esta urna", dijo el monje, con una sonrisa apenas perceptible en la comisura de la boca.
+
+"Tampoco hay peces, ni diez montañas", dijo el abad.
+
+Entonces, el monje mayor gritó de dolor. La urna se cayó y se hizo pedazos. Un escorpión se escabulló entre las baldosas.
+
+El abad miró al monje moribundo. "No todas las nadas son iguales".
+
+{{*}} "Empty" en el texto original.

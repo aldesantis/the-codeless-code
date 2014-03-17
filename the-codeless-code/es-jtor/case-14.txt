@@ -1,0 +1,29 @@
+Number: 14
+Lang: es
+Title: Hola, Mundo
+Title-suffix: <sup>*</sup>
+Translator: jtor
+
+En su primer día en el templo, el maestro Java propuso a sus aprendices las tres preguntas siguientes:
+
+"Normalmente, cuando adquirimos un nuevo lenguaje o librería, el primer programa que escribimos es Hola, Mundo. Nuestro propósito es escribir estas palabras de cierta forma que demuestren el comportamiento esperado de dicha tecnología. Una vez hecho esto, el programa no vuelve a ser ejecutado."
+
+"Ahora, ¿por qué dice hola, y no también adiós?"
+
+"Y: por qué dice hola al mundo, cuando la audiencia no es sino un alma solitaria que lo descartará después de haber proferido su primer llanto?"
+
+"Y: por qué debe lanzar un saludo, que nunca será devuelto?"
+
+
+Dime una palabra que signifique hola y adiós-
+¿No es el primer llanto de un niño?
+
+Encuéntrame una cima desde la cual el mundo pueda ser visto-
+¿En el ojo de quién, entonces, se refleja cada tigre,
+y el desierto de interminable arena?
+
+
+
+
+{{*}} Traducción de "Hello World" - el primer intento de todos los programadores cuando aprenden un lenguaje.
+

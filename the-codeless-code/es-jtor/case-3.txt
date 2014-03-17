@@ -1,0 +1,15 @@
+Number: 3
+Lang: es
+Translator: jtor
+Title: Encapsulamiento
+
+Un joven monje, nuevo en el templo, no sólo declaraba públicos todos sus métodos sino también todas sus variables de estancia. El abad mayor se cansó de regañar al monje, y pidió consejo al maestro Java. 
+
+Al día siguiente, el maestro convocó al monje a comer con él en su oficina privada. 
+
+Al entrar, el monje se encontró con un suntuoso banquete colocado encima de la mesa de conferencias. Entonces, el maestro le pidió al monje que se tumbara sobre el suelo. 
+El monje hizo lo que le pidió, y entonces el maestro abrió las vestiduras del monje y desenvainó un gran cuchillo. Apretó firmemente la punta desnuda contra el pecho del monje hasta que una gota rubí brotó alrededor de la hoja. El monje gritó aterrorizado y preguntó al maestro cuál era su intención.
+
+"Abrirte en canal el estómago", explicó el maestro, "y así poder meterte el arroz y verter el té dentro. Tengo la agenda muy apretada, y este método de alimentar a mis invitados me parece extremadamente eficiente”. 
+
+Desde entonces, el monje no necesitó ninguna otra corrección.

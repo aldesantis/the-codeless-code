@@ -1,0 +1,38 @@
+Title: Void
+Number: 5
+Lang: es
+Translator: cgib
+
+En un frío día de otoño el maestro Java despertó inquieto. Emprendió una marcha en solitario para aclarar su mente.
+
+Pronto el maestro se encontró a las puertas del templo de las Tres Piedras, donde aún se practicaba el arte de ANSI C. Un erudito hermano montaba guardia.
+
+"¿Cuál es la naturaleza de void?" preguntó el maestro.
+
+"No tiene naturaleza," replicó el hermano. "Es el palo que trae el perro que no trae palos. Es la cosa a la que señala la mano que puede señalar cualquier cosa. Es la perfecta ausencia de valor."
+
+El maestro pensó: "El templo de las Tres Piedras no tiene necesidad de un guardia. No hay nada de valor en su interior."
+
+Más adelante llegó al templo del Cielo de Hierro Blanco, un lugar de teóricos donde sólo estaba permitido el ML. En el marchito jardín una monja estaba escribiendo expresiones lambda sobre el polvo.
+
+"¿Cuál es la naturaleza de void?" preguntó el maestro.
+
+"Tiene el color del aire, y el peso de la niebla que se levanta," respondió la hermana. "Cuando es golpeado hace el ruido de una luna nueva deslizándose tras una nube. Cualquier bol vacío contiene tantos como quieras."
+
+El maestro pensó: "La hermana no ha dicho nada que sea falso, pero tampoco nada que sea cierto."
+
+Más adelante en la carretera el maestro llegó a una gran mansión, donde una anciana estaba recortando los setos.
+
+"¿Cuál es la naturaleza de void?" preguntó el maestro.
+
+La anciana se inclinó y siguió podando.
+
+El maestro pensó: "Esta es la más pura sabiduría, a menos que se trate tan solo de la falta de ella."
+
+Finalmente el maestro llegó a un cementerio abandonado.
+
+"¿Cuál es la naturaleza de void?" preguntó el maestro.
+
+Del camposanto desierto no llegó ninguna respuesta.
+
+El maestro Java quedó satisfecho.
