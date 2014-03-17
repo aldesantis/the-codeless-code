@@ -1,0 +1,11 @@
+Name: Spider Clan
+Lang: en
+Translator: qi
+
+The developers of web services and the user interface tier.
+
+Yes, hardcore developers laugh when the monks of the Spider Clan
+speaking about "programming" in HTML, JSTL, CSS, or
+Javascript.  Until the customer decides that the application's
+home page absolutely /must/ have dancing translucent pigs
+follow the mouse cursor in IE 5.5.

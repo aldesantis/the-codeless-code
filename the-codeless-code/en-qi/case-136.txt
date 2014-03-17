@@ -1,0 +1,57 @@
+Date: 2014-03-15
+Title: Unsupported Protocol
+Number: 136
+Names: Zjing, Yíwen, Clan of Iron Bones
+Topics: teleconferencing, telecommuting, social media, communication
+Geekiness: 0
+Illus.0.src: EdgingUp.jpg
+Illus.0.title: She's really just doing it for the open bar and spicy chicken wings.
+
+Just around the time the first-year novices began to ask
+their masters if winter in this mountain province ever came
+to an end, the first winds of spring finally found their
+weary way up through the labyrinth of cliffs and snowbound
+peaks surrounding the Temple.
+
+Monks and nuns bustled from abbey to abbey with renewed
+enthusiasm, pausing only to dodge the immense icicles that
+had begun to crash from the eaves.  Now all thoughts turned
+to the traditional Celebration of the End of the Long
+White-Space{{*}}.  All manner of fruits and spirits were
+ordered up from villages far below.  The monks of the
+[[Clan of Iron Bones]] had even set up a webcam atop a flatscreen
+monitor in the Great Hall, so that [[Zjing]], the
+[[#54|acrophobic]] nun who lived alone in a hut far below
+the Temple, would be able to teleconference in to the
+festivities.
+
+The party had not been long underway when Zjing suddenly
+excused herself.  In front of her webcam she placed a
+hastily-penned sign declaring /BRB/.
+
+A few hours later the doors to the Great Hall opened, and a
+very pale looking nun stumbled through them.  News spread
+throughout the crowd that the nun Zjing had returned for
+the first time in over a year.
+
+[[Hwídah]] dashed forward and thrust a bottle of strong
+liquor into Zjing's hands, guessing from her expression that
+the cliffside paths and long swaying bridges over bottomless
+ravines had taken their toll on the nun's nerves.
+
+After Zjing took a long pull, [[Yíwen]] said, "A thousand
+pardons for my curiosity, but why did you brave the steep
+road here, so treacherous now with melting ice and slick
+stone?"
+
+"To share important news," said Zjing.  "While observing the
+party, I discovered a form of communication that cannot be
+transmitted over IP sockets."
+
+Zjing then embraced Yíwen and Hwídah, kissed their cheeks,
+and turned to greet the others gathering round.
+
+
+
+
+{{*}} Commonly abbreviated <tt>\s{99}\S</tt>.

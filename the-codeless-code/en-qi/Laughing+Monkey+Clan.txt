@@ -1,0 +1,15 @@
+Name: Laughing Monkey Clan
+Lang: en
+Translator: qi
+
+Specialists in the business tier, where monkey business
+usually happens.  Members of this clan have a traditional
+fighting style which involves throwing wrenches at their
+opponents; this is tolerated because it is not the /worst/
+thing that Monkeys have been known to throw.
+
+There is a theory that an finite number of Laughing
+Monkeys pounding away randomly at an finite number of
+keyboards will eventually get a clean compile.  The existence
+of the Standard PHP Library would seem to imply that this has
+already happened.

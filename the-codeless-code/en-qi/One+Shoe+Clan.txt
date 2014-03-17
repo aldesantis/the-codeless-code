@@ -1,0 +1,8 @@
+Name: One Shoe Clan
+Lang: en
+Translator: qi
+
+The Temple's one-stop shop for one-minute hacks and one-off
+solutions.  So named because a man with one shoe can still
+hop across a bed of coals and not get burned... it may not
+look pretty or last long, but it works.

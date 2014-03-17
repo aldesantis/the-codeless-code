@@ -1,0 +1,20 @@
+Name: Elephant's Footprint Clan
+Lang: en
+Translator: qi
+
+Specialists in the persistence tier, where the Temple's most
+precious resource is managed -- by which I mean data, not
+alcohol, although they have a fair amount of that as well to
+cope with the stress of Temple life.  Despite this, the clan
+has strict rules regarding inebriation.  A monk is
+absolutely /not/ allowed to code while drinking unless he
+really, really wants to.  Any monk caught violating this
+rule is punished by having to buy the next round.
+
+The clan takes its name from the immense ivory-panelled
+server cabinet which houses the Temple's most venerable DBMS
+hosts.  This cabinet is known affectionately as the Great White
+Elephant, no doubt for its flawless memory.  However it
+is worth noting that elephants /do/ sometimes forget, which
+is why the Temple has hot replication to a colocation site
+which houses the Emergency Backup Elephant.
