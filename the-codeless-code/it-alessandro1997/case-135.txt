@@ -1,5 +1,5 @@
 Number: 135
-Title: Ass-Backwards Compatibility
+Title: Compatibilità sottosopra
 Lang: it
 Translator: alessandro1997
 Illus.0.title: Per essere un pranzo al sacco ha un apporto di fibra piuttosto alto.
