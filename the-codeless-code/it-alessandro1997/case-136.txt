@@ -1,0 +1,37 @@
+Title: Unsupported Protocol
+Number: 136
+Lang: it
+Translator: alessandro1997
+Illus.0.title: In realtà lo fa solo per l'open bar e le ali di pollo piccanti.
+
+Proprio quando i novizi al loro primo anno iniziavano a chiedere ai loro maestri se in quella provincia di montagna
+l'inverno arrivasse mai alla fine, i primi venti primaverili si fecero faticosamente strada su per il labirinto di rupi
+e picchi innevati che circondavano al Tempio.
+
+Monaci e monache accorsero da tutte le abbazie con rinnovato entusiasmo, fermandosi solo per schivare gli immensi pezzi
+di ghiaccio che avevano iniziato a staccarsi dai ghiacciai. Ora tutti i pensieri andavano alla tradizionale Celebrazione
+della Fine del Lungo Spazio Bianco{{*}}. Ogni tipo di frutta e liquore era stato ordinato dai villaggi sottostanti. I
+monaci del [[Clan of Iron Bones|Clan delle Ossa di Ferro]] avevano addirittura installato una webcam su un monitor a
+schermo piatto nella Grande Sala, in modo che [[Zjing]], la monaca [[#54|acrofobica]] che viveva da sola in una capanna
+molto sotto il Tempio, fosse in grado di collegarsi alle festività in teleconferenza.
+
+La festa non era iniziata da molto quando Zjing improvvisamente si scusò. Davanti alla sua webcam mise un cartello
+su cui era scritto frettolosamente /BRB/.
+
+Qualche ora dopo le porte della Grande Sala si aprirono, e una monaca molto pallida le attraversò incespicando. Nella
+folla si diffuse la notizia che la monaca Zjing fosse tornata per la prima volta da più di un anno.
+
+[[Hwídah]] corse in avanti e spinse una bottiglia di forte liquore nelle mani di Zjing, indovinando dalla sua
+espressione che i sentieri sulle pareti rocciose e i lunghi ponti sospesi sopra burroni senza fondo dovessero aver
+distrutto i nervi della monaca.
+
+Dopo che Zjing ebbe preso un lungo sorso, [[Yíwen]] disse: "Mille scuse per la mia curiosità, ma perché hai affrontato
+la ripida strada per arrivare qui, ancora più pericolosa con il ghiaccio che si sta sciogliendo e la roccia scivolosa?"
+
+"Per condividere notizie importanti" disse Zjing. "Mentre osservavo la festa, ho scoperto una forma di comunicazione
+che non può essere trasmessa via socket IP."
+
+Zjing abbracciò quindi Yíwen e Hwídah, le baciò sulle guance, e si girò per salutare gli altri che si raccoglievano
+intorno.
+
+{{*}} Comunemente abbreviata come <tt>\s{99}\S</tt>.
