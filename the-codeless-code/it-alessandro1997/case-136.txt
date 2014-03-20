@@ -1,4 +1,4 @@
-Title: Unsupported Protocol
+Title: Protocollo non supportato
 Number: 136
 Lang: it
 Translator: alessandro1997
