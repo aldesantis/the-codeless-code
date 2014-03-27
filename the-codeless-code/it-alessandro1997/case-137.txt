@@ -1,0 +1,29 @@
+Title: Le 1000 parole
+Number: 137
+Lang: it
+Translator: alessandro1997
+
+Una monaca trovò lo scriba [[Qi]] nel suo studio.
+
+"Sono intrigata dai commenti che avete scritto sulla mia documentazione" disse la monaca, mettendo una spessa pila di
+fogli sulla scrivania dello scriba.
+
+"Ah, sì" disse Qi mentre sfogliava le pagine, rivelando centinaia di diagrammi di flusso perfettamente disegnati,
+ciascuno con sopra una piccola nota in inchiostro rosso. "Tu sei la monaca che illustra graficamente ogni possibile
+circostanza in cui un oggetto di dominio viene recuperato e visualizzato, indipendentemente da quanto intuitivo il caso
+possa sembrare."
+
+"Mi sforzo di essere accurata" disse la monaca.
+
+"Questo è un gran sollievo" disse lo scriba. "Se ti sforzassi di essere concisa, tremo immaginando cosa la tua
+accuratezza farebbe alla popolazione d'alberi locale."
+
+La monaca batté il dito sullo scarabocchio rosso in fondo alla pagina. "Eppure sotto ogni diagramma avete scritto,
+<i>quest'immagine dice 1000 parole</i>."
+
+"Quel numero è in base due" disse lo scriba.
+
+La suora batté le palpebre. <i>"Otto</i> parole?"
+
+Qi annuì, immergendo la sua penna in una ciotola d'inchiostro rosso.
+"Le stesse otto, ancora e ancora: <i>Questa monaca ha uno strumento per generare UML</i>."
