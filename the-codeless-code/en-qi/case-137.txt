@@ -1,0 +1,42 @@
+Date: 2014-03-23
+Title: The 1000 Words
+Number: 137
+Names: Qi
+Topics: documentation, UML, sequence diagrams, diagrams
+Geekiness: 3
+
+A nun found the scribe [[Qi]] in his study.
+
+"I am puzzled by the comments you have written on my
+documentation," said the nun, placing a thick sheaf of
+papers on the scribe's desk.
+
+"Ah, yes," said Qi as he turned the pages, revealing
+hundreds of neatly-rendered sequence diagrams, each with a
+small note scrawled upon it in red ink.  "You are the nun
+who graphically illustrates every possible circumstance in
+which a domain object is retrieved and displayed, regardless
+of how intuitive the case may seem."
+
+"I strive to be thorough," said the nun.
+
+"That is a great relief," said the scribe. "If
+you were striving to be concise, I shudder to
+imagine what your thoroughness would do
+to the local tree population."
+
+The nun tapped her finger on the red scrawl at the
+bottom of one page.  "Yet under each diagram you
+have written, <i>this picture speaks 1000 words</i>."
+
+"That number is in base two," said the scribe.
+
+The nun blinked.  <i>"Eight</i> words?"
+
+Qi nodded, dipping his brush in a pot of red ink.
+"The same eight, over and over: <i>This nun owns a tool
+for generating UML</i>."
+
+
+
+
