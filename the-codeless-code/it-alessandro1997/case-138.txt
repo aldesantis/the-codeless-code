@@ -1,0 +1,34 @@
+Number: 138
+Title: La Provincia dell'Eterna Crisi
+Lang: it
+Translator: alessandro1997
+
+[[Djishin]] disse al maestro [[Banzen]]: la maggior parte dei lavori dell'umanità non fallisce prima del tempo. Una
+sella sopravvivrà alla cavalla e al puledro; un ponte per cavalli servirà per cento anni a meno che non ci passi sopra
+un elefante. Persino le pietre della nostra più umile abbazia furono poste prima che la venerabile Badessa nascesse.
+Perché allora il software fallisce così spesso?
+
+Banzen disse: per conoscere la risposta, devi prima trovare la tua strada verso la Complessa Pianura. Questo è un
+compito difficoltoso, perché la maggior parte di questa distesa erbosa è parzialmente immaginaria; ma poiché il tuo
+punto d'origine è non solo reale, ma certamente al centro esatto della pianura, devi solo iniziare a cercarla e
+scoprirai di essere già lì. A questo punto dirigiti a nord-est finché non arrivi a una terra brontolante nota come la
+Provincia dell'Eterna Crisi. Lì la terra vomita fiamme e si curva e si deforma, come un serpente; le montagne si
+scambiano di posto con le vallate; i fiumi scorrono all'indietro a mezzanotte e di lato sotto la luna nuova. Nulla dura
+in quel luogo. La casa più resistente dev'essere ricostruita ogni primavera, così gli uomini hanno cessato ogni uso
+della pietra ed erigono semplici capanne fatte di ramoscelli e paglia. Per quanto riguarda i cavalli o i ponti, non
+troverai nessuno dei due, perché le selle si sgretolano nei venti aridi, e sui molti baratri, ogni settimana, devono
+essere passate nuove corde, perché i loro bordi danzano su e giù. Nessun uomo sano di mente vivrebbe in quella terra se
+non avesse le potenzialità per una grande fortuna. Eppure ogni pala si spunta per via del suolo roccioso, ogni ascia si
+smussa, ogni bue muore.
+
+Djishin disse: quand'è stata l'ultima volta che hai visitato questo luogo infelice?
+
+Banzen disse: non l'ho mai lasciato. A volte nei miei vagabondaggi incontro una strada verde che promette di portarmi
+fuori, ma /ahi!/ Nonostante il cartello sulla strada mi saluti con un allegro /Ciao mondo/ e mi dica di meravigliosi
+luoghi in cui potrei andare con una punta di sforzo, la delusione mi attende invariabilmente. Mi basta fare cento passi
+e sento una scossa, la terra si piega follemente sotto di me, e quanto più velocemente scrivo codice per superare la mia
+condanna, tanto più la strada scompare sotto i detriti della sua stessa sintassi. Ora sono come mi vedi: un vecchio uomo
+amareggiato che non si fida di alcuna strada se non di quella che egli stesso ha tracciato. E questo è il motivo per cui
+mi addoloro tanto con te, giovane monaco! Per via del tuo inestinguibile zelo nel creare nuovi framework, tu fai per
+stupidità ciò che io ora faccio per cinismo. Se posso insegnarti a riconoscere una strada per la libertà, allora forse
+posso seguirti lungo essa.
