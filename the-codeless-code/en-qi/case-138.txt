@@ -1,0 +1,52 @@
+Date: 2014-03-30
+Number: 138
+Title: The Province of Eternal Crisis
+Geekiness: 2
+Names: Djishin, Banzen, Province of Eternal Crisis, Complex Plain
+Topics: failure, bugs, change, frameworks, new solutions, progress
+
+[[Djishin]] said to master [[Banzen]]: most works of mankind
+do not fail before their time.  A saddle will outlive the
+mare and her foal; a horse-bridge will serve a hundred years
+unless an elephant treads upon it.  Even the stones of our
+humblest abbey were laid before the venerable Abbess was
+born.  Why then does software fail so often?
+
+Banzen said: to know the answer, you must first find your
+way to the Complex Plain.  This is a tricky task, for most
+of that grassy expanse is imaginary to some degree; but
+since your origin point is not only real but guaranteed to
+be at the plain's exact center, you need only start looking
+for it and you'll find yourself already there.  Then head
+due north-east until you come to a rumbling land known as
+the Province of Eternal Crisis.  There the ground belches
+fire and buckles and twists, like a serpent; mountains
+change places with valleys; rivers run backwards at midnight
+and sideways under the new moon.  Nothing endures in that
+place.  The sturdiest house must be rebuilt every spring, so
+men have quit all use of stone and erect only simple huts of
+saplings and straw.  As for horses or bridges you will find
+neither, for saddles crumble in the arid winds, and the many
+chasms must be spanned anew by rope each week as their edges
+dance up and down.  No sane man would live in that land if
+it did not hold the possibility of great wealth.  Yet every
+shovel is blunted by the rocky soil, every ax dulls, every
+ox dies.
+
+Djishin said: when did you last visit this unhappy place?
+
+Banzen said: I have never left it.  Sometimes in my
+wanderings I have come upon a green road which promises to
+lead me out, but /ai!/  Though the signpost greets me with a
+cheerful /Hello World/ and tells me of wondrous places I may
+go with but a fingerfull of effort, disappointment
+invariably awaits.  A thousand paces in, I feel a quake, the
+land tilts crazily beneath me, and the faster I code to
+outrace my doom the more the new road disappears under the
+debris of its own syntax.  Now I am as you see me: a bitter
+old man who trusts no path but one he has blazed himself.
+And this is why I take such pains with you, young monk!
+Because of your unquenchable zeal to create new frameworks,
+you do out of foolishness what I now do out of cynicism.
+If I can teach you to recognize a road to freedom,
+then perhaps I can follow you down it.
