@@ -3,8 +3,9 @@ Number: 139
 Title: Feedback
 Geekiness: 0
 Names: Suku, Temple of the Morning Brass Gong, Temple of the Thrown Coin
-Topics: culture fit, geek culture, prejudice
+Topics: culture fit, geek culture, bias, women in tech, vicious circles
 Illus.0.src: Lecture2.jpg
+Illus.0.title: In their defense, they were able to buy three new servers last year with all the money they saved on shampoo.
 
 It had been many weeks since master [[Suku]] and her three
 novices set out from the [[Temple of the Morning Brass Gong]]

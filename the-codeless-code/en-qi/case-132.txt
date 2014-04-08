@@ -17,7 +17,7 @@ Hwídah was irritated enough when her lanky roommate began
 dancing silently around their quarters, swinging her 
 arms and legs within inches of Hwídah's nose.  But Hwídah's
 patience came to an end one day when Yíwen set up an
-electric guzheng{{1}} in the center of the room and began
+electric guzheng{{*}} in the center of the room and began
 playing it -- or rather, began plucking its strings
 inexpertly to produce a series of dissonant, tuneless,
 tempoless sounds.  The interlude lasted a minute, after
@@ -66,6 +66,4 @@ nightstand and put them in her ears.  Yíwen bowed and returned
 to her instrument.  Thus was peace restored.
 
 
-{{1}} I imagine they sound something like this: http://www.youtube.com/watch?v=cJjlohZxn3w 
-
-
+{{*}} I imagine they sound something like <a href="http://www.youtube.com/watch?v=cJjlohZxn3w">this</a>.
