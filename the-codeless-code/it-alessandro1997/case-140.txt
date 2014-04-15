@@ -1,0 +1,34 @@
+Number: 140
+Title: Heartbleed
+Illus.0.title: Provo un po' di simpatia per lo sviluppatore: questo bug è così epico che gli hanno dato un sito web e IL SUO LOGO. Nemmeno 'goto-fail' ha un logo!
+Credits: Molte grazie a Herb Warren per aver segnalato un errore nel testo!
+Lang: it
+Translator: alessandro1997
+
+Un novizio chiese al maestro [[Bawan]]: "Dite qualcosa sul bug
+<a href="http://it.wikipedia.org/wiki/Heartbleed">Heartbleed</a>."
+
+Disse Bawan: "Chiuyin, il tesoriere del Governatore, è cieco come un verme. Un ladro può dargli una moneta di stagno,
+sostenere che sia argento e ricevere il cambio. Quando le casse sono vuote, quale uomo è il villano? Rispondi bene e ti
+solleverò dai tuoi compiti per una settimana. Rispondi male e farò volare il bastone!"
+
+Il novizio pensò: <i>se dico il ladro, Bawan mi colpirà sicuramente, giacché è il tesoriere che distribuisce le monete.
+Ma se dico il tesoriere mi colpirà ugualmente, giacché è il ladro che approfitta della situazione.</i>
+
+Quando la pausa divenne troppo lunga, Bawan alzò il suo bastone. Improvvisamente illuminato, il monaco urlò: "Il
+Governatore! Perché chi altri ha preso un uomo cieco come tesoriere?"
+
+Bawan abbassò il bastone. "E chi è il Governatore?"
+
+Disse il novizio: "Tutti quelli che avrebbero potuto urlare 'quest'uomo è cieco!', ma non l'hanno notato, o anche solo
+esaminato."
+
+Bawan annuì. "Questa è la prima lezione. Troppo facilmente elogiamo l'Open Source, dicendoci semplicemente l'un l'altro,
+'sotto diecimila occhi, nessun bug può nascondersi'. Eppure quando diecimila distolgono lo sguardo, non sono più utili
+dell'uomo cieco. E ora che ti ho sollevato da tutti i compiti per una settimana dimmi: qual è la seconda lezione?"
+
+Disse il novizio: "Onestamente, non ne ho idea."
+
+Bawan colpì prontamente il cranio del novizio col suo bastone. Il ragazzo cadde a terra, incosciente.
+
+Mentre oltrepassava il corpo prono, Bawan ricordò: "Programma come se tutti fossero ladri."
