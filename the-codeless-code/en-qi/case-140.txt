@@ -1,0 +1,50 @@
+Date: 2014-04-13
+Number: 140
+Title: Heartbleed
+Geekiness: 2
+Names: Bawan
+Topics: bugs, Heartbleed Bug, security, open source, taint-checking, trust
+Illus.0.src: heartbleed.jpg
+Illus.0.title: I have some sympathy for the developer: this bug is so epic they gave it a website and ITS OWN LOGO.  Even 'goto-fail' doesn't have a logo.
+Illus.0.style: padding-right: 100px
+Credits: Many thanks to Herb Warren for catching a textual error! 
+
+A novice asked of master [[Bawan]]: "Say something about the <a href="http://en.wikipedia.org/wiki/Heartbleed_bug">Heartbleed Bug</a>."
+
+Said Bawan: "Chiuyin, the Governor's treasurer, is blind as an
+earthworm.  A thief may give him a coin of tin, claim that
+it is silver and receive change.  When the treasury is empty,
+which man is the villain?
+Speak right and I will spare you all blows for one week.
+Speak wrong and my staff will fly!"
+
+The novice thought: <i>if I say the thief, Bawan will surely
+strike me, for it is the treasurer who doles out the coins.  But
+if I say the treasurer he will also strike me, for it is the
+thief who takes advantage of the situation.</i>
+
+When the pause grew too long, Bawan raised his staff high.
+Suddenly enlightened, the novice cried out:
+"The Governor! For who else made this blind man his
+treasurer?"
+
+Bawan lowered his staff. "And who is the Governor?"
+
+Said the novice: "All who might have cried out 'this man is blind!'
+but failed to notice, or even to examine him."
+
+Bawan nodded.  "This is the first lesson.  Too easily we
+praise Open Source, saying smugly to each other, 'under ten
+thousand eyeballs, every bug is laid bare'.  Yet when the
+ten thousand avert their gaze, they are no more useful than
+the blind man.  And now that I have spared you all
+blows for one week, stand at ease and tell me: what is the
+second lesson?"
+
+Said the novice: "Surely, I have no idea."
+
+Bawan promptly struck the novice's skull with his staff.
+The boy fell to the floor, unconscious.
+
+As he stepped over the prone body, Bawan
+remarked: "Code as if everyone is the thief."
