@@ -5,9 +5,10 @@ Geekiness: 2
 Names: Bawan
 Topics: bugs, Heartbleed Bug, security, open source, taint-checking, trust
 Illus.0.src: heartbleed.jpg
+Illus.0.alt: Heartbleed
 Illus.0.title: I have some sympathy for the developer: this bug is so epic they gave it a website and ITS OWN LOGO.  Even 'goto-fail' doesn't have a logo.
 Illus.0.style: padding-right: 100px
-Credits: Many thanks to Herb Warren for catching a textual error! 
+Credits: Many thanks to Herb Warren for catching a textual error! Also: some blood drips from poisondropstock.deviantart.com.
 
 A novice asked of master [[Bawan]]: "Say something about the <a href="http://en.wikipedia.org/wiki/Heartbleed_bug">Heartbleed Bug</a>."
 
