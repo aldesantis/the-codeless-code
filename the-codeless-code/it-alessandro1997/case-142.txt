@@ -1,0 +1,57 @@
+Number: 142
+Title: The Blind Leading the Blind
+Lang: it
+Translator: alessandro1997
+
+<i>[[Banzen]] riunì il [[Spider Clan|Clan del Ragno]] e disse:</i> //
+La maestra [[Suku]] è [[#139|troppo lontana]] per supervisionare il vostro prossimo rilascio, //
+e non c'è più alcun abate rimasto per guidarvi. //
+Come scoverete gli errori nel vostro codice?
+
+<i>Il primo monaco disse:</i> //
+Chi più adatto di un maiale per conoscere gli errori di un altro maiale? //
+Io controllerò il codice del mio fratello, e lui il mio. //
+Saremo l'uno gli occhi dell'altro.
+
+<i>Il secondo monaco disse:</i> //
+Il maiale potrà conoscersi corpo e anima, //
+ma solo il cuoco può dire se sia ben arrostito. //
+Mi fiderò degli occhi dei nostri tester, il cui sacro compito è trovare errori.
+
+<i>Il terzo monaco disse:</i> //
+Il maiale succulento può essere arrostito alla perfezione, //
+ma la vita del cuoco è finita se l'Imperatrice voleva del manzo. //
+Mostrerò l'applicazione ai nostri clienti, e mi fiderò solo dei loro occhi.
+
+<i>Il quarto monaco disse:</i> //
+Il cuoco merita di perdere la propria testa se manda un idiota a prendere l'ordinazione! //
+Fidarsi di se stessi significa abbracciare l'arroganza. //
+I miei unit test automatizzati saranno i miei occhi.
+
+<i>Il sesto monaco disse:</i> //
+Prima che pensi tu stesso ai tavoli, chiedi a un dottore se il tuo udito è debole! //
+Fa' che il paziente corrà una dozzina di li! //
+Il mio web-crawler automatizzato sarà i miei occhi.
+
+<i>Il settimo monaco disse:</i> //
+È il medico di un maiale che giudica il corpo solo da ciò che si può vedere. //
+Che il sangue e la bile si riuniscano! //
+Il mio analizzatore statico del codice sarà i miei occhi.
+
+<i>L'ottavo monaco coprì la testa col mantello, e disse:</i> //
+Sette strade incominciano qui; questo cieco deve rimanere indietro. //
+Ma se sette vanno e dicono ciò che hanno visto, vedrò più lontano di tutti gli altri. //
+Tutti questi monaci saranno i miei occhi.
+
+<i>Banzen fece notare alla sua apprendista [[Satou]]:</i> //
+Il secondo monaco non fa nulla. //
+L'ottavo monaco non fa nulla. //
+Cosa suggerisce il tuo terzo occhio?
+
+<i>Satou rispose al maestro:</i> //
+Il nulla del secondo monaco è virtuoso, //
+Ma il nulla dell'ottavo monaco lo è otto volte di più. //
+L'ottavo dovrebbe essere il nuovo abate, e il secodo suo servitore.
+
+Così fu l'ottavo monaco elevato, //
+e il secondo monaco corretto.
