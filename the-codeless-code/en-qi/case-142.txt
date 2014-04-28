@@ -1,0 +1,68 @@
+Date: 2014-04-27
+Number: 142
+Title: The Blind Leading the Blind
+Names: Banzen, Suku, Satou, Spider Clan
+Topics: testing, automated testing, unit testing, integration testing, manual testing, happy path testing, management, laziness, code reviews, quality assurance
+Geekiness: 2
+Illus.0.src: eye.jpg
+Illus.0.style: padding-right: 30px;
+Illus.0.title: Given enough eyeballs, all bugs will eventually say that they are full and cannot eat another eyeball.
+
+
+<i>[[Banzen]] gathered the [[Spider Clan]] and said:</i> //
+Master [[Suku]] is [[#139|too far away]] to oversee your next release, //
+and there is no abbot left to guide you. //
+How will you seek out the errors in your code?
+
+<i>The first monk said:</i> //
+Who better to know the faults of a pig than another pig? //
+I will review my brother's code, and he mine. //
+We shall be each other's eyes.
+
+<i>The second monk said:</i> //
+The pig may know itself inside and out, //
+but only the chef can say if it is roasted well. //
+I will trust the eyes of our testers, whose sacred duty is finding flaws.
+
+<i>The third monk said:</i> //
+The succulent pig may be roasted to perfection, //
+but the chef's life is forfeit if the Empress wanted beef. //
+I will demo the application to our customers, and trust their eyes only.
+
+<i>The fourth monk said:</i> //
+The chef deserves to lose his head if he sent an idiot to take the order! //
+To trust others is to eschew responsibility. //
+I will use the application day and night, and trust my own eyes.
+
+<i>The fifth monk said:</i> //
+Before you wait tables yourself, ask a physician if your hearing is poor! //
+To trust oneself is to embrace arrogance. //
+My automated unit tests will be my eyes.
+
+<i>The sixth monk said:</i> //
+It is a poor physician who judges the body by only examining the feet. //
+Make the patient run a dozen li! //
+My automated web-crawler will be my eyes.
+
+<i>The seventh monk said:</i> //
+It is a pig's physician who judges the body by only what can be seen. //
+Let blood and bile be gathered! //
+My static code analyzer will be my eyes.
+
+<i>The eighth monk covered his head with his robe, and said:</i> //
+Seven roads begin here; this blind man must remain behind. //
+Yet if seven go and say what they've seen, I will see further than any. //
+All of these monks will be my eyes.
+
+<i>Banzen remarked to his apprentice [[Satou]]:</i> //
+The second monk does nothing. //
+The eighth monk does nothing. //
+What does your third eye tell you?
+
+<i>Satou answered her master:</i> //
+The nothing of the second monk has virtue, //
+But the nothing of the eighth monk has eight times as much. //
+The eighth should be the new abbot, and the second his servant.
+
+Thus was the eighth monk elevated, //
+and the second monk corrected.
