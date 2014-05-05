@@ -1,0 +1,111 @@
+Number: 143
+Title: Monolith
+Date: 2014-05-04
+Geekiness: 3
+Names: Djishin, Kaimu, Temple of the White Iron Sky, Tower of the Elephant's Tusk
+Topics: Haskell, functional programming, types, monads, error handling, paradigm shifts
+
+The young monk [[Djishin]] approached master [[Kaimu]] and said,
+"Tell me about the [[Temple of the White Iron Sky]], where
+you were first apprenticed."
+
+Kaimu said, "It is a strange and perilous place.  Knowledge
+hangs in the air as thick as the mist, yet if you linger
+there for an hour, you will emerge knowing less than when
+you went in."
+
+Djishin thought, /I must see how such a thing can be true./
+Thus he set out.
+
+By his maps, the temple lay nestled in the folds of a
+forested hill below high mountains; a signpost on the
+main road pointed to an untended path.  Djishin followed the
+path through a great /AND/ Gate and found that the climbing land
+beyond was indeed shrouded in mist, billowing in great roils from
+a grove of weeping-cypress trees further up the hillside.
+The mist curled around the base of a pale tower at the
+center the temple grounds.  The path -- now flagged with
+damp stones -- led Djishin to its steps.
+
+"What is this place, fellow?" he asked a white-clad monk
+seated upon the steps.
+
+The monk looked up from the Haskell code he was studying.
+"Outsiders call it the Tower of the Elephant's Tusk, though
+we know it by another name.  But answer this
+question: Are you a software engineer?"
+
+"In heart and in deed, I am," answed Djishin.
+
+"If you would be one in thought as well, then follow the
+path to the cypress grove, and converse with the nuns that
+meditate there," said the white-clad monk.  "The tower is
+not yet for you."
+
+- - -
+
+Within the grove the mist thickened to a warm and
+bitter-tasting fog; from somewhere up ahead came the sound
+of bubbling water.  The trees parted, and Djishin found
+himself in a clearing where four nuns in white robes sat
+contemplating a monolith of glistening black basalt.  On its
+face were inscriptions such as the monk had never seen:
+
+<pre>
+  (>>=) :: m a -> (a -> m b) -> m b
+      (>>) :: m a -> m b -> m b
+          return :: a -> m a
+        fail :: String -> m a
+</pre>
+
+"What is this stone, great ladies?" asked Djishin.
+
+"We call it the Monad," said the first nun.
+
+"Why do you venerate it so?" asked Djishin.
+
+"Through it, we may touch the impure without being
+corrupted," said the second nun.  "We can fell a Maybe-tree
+with a Maybe-ax and always hear a Maybe-sound when it
+crashes down -- even if the sound is Nothing at all, when
+the ax isn't real or there's no tree to fall."
+
+"Can you... explain that explanation?" asked Djishin.
+
+"It empowers us to code without error," said the third nun.
+"For we only deem a function safe if its input alone
+determines its output.  But when a function bleeds
+side-effects, then from each drop a vine may spring to
+pierce our application with its thorns.  The Monad tells us
+how to weave bandages to staunch the flow.  We wrap
+the function up, we bind the Real World down; we pass it in,
+shake it, and pull it back out, and that's what it's all
+about."
+
+"And this inscription, this is code?" asked Djishin,
+wondering at the monolith.
+
+The nuns looked at each other.  "Someday all will know it as
+such, as readily as /20 GOTO 10/.  But answer this
+question: are you a software engineer?"
+
+"I am no longer sure," answered Djishin, whose confusion was complete.
+
+At which point the young monk was enlightened.
+
+
+== Qi's commentary
+
+Ironically, the Monad always has at least one side-effect:
+it makes me feel like an idiot.
+
+
+== Qi's poem
+
+The screen darkens. //
+Semicolons scatter to the four corners of the window. //
+A storm may beat the high hill down -- //
+Yet when the world turns over, storms will yield to a greater enigma.
+
+
+
