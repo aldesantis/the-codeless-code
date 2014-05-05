@@ -2,6 +2,7 @@ Date: 2010-11-09
 Title: Void
 Number: 5
 Geekiness: 2
+Names: Temple of Three Stones, Temple of the White Iron Sky
 Topics: void, philosophy
 Illus.0.src: master.jpg
 Illus.0.par: 2
@@ -9,7 +10,7 @@ Illus.0.par: 2
 On a cold autumn day the Java master awoke disquieted.
 He set out alone to clear his mind.
 
-Soon the master found himself at the gates of the temple of
+Soon the master found himself at the gates of the Temple of
 Three Stones, where the art of ANSI C was still practiced.
 A learned brother stood guard.
 
@@ -20,10 +21,10 @@ fetched by the dog that does not fetch sticks.  It is the
 thing pointed to by the hand that may point at anything.  It
 is the perfect absence of value."
 
-The master thought: "The temple of Three Stones has no need
+The master thought: "The Temple of Three Stones has no need
 of a guard.  There can be nothing of value within."
 
-Further on he came to the temple of the White Iron Sky, a
+Further on he came to the [[Temple of the White Iron Sky]], a
 place of theoreticians where only ML was allowed.
 In the withered garden a nun was writing lambda expressions
 in the dust.

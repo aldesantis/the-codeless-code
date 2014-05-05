@@ -41,7 +41,7 @@ My automated unit tests will be my eyes.
 
 <i>The sixth monk said:</i> //
 It is a poor physician who judges the body by only examining the feet. //
-Make the patient run a dozen li! //
+Make the patient run a dozen /li!/ //
 My automated web-crawler will be my eyes.
 
 <i>The seventh monk said:</i> //
