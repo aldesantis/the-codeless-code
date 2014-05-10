@@ -55,7 +55,6 @@ face were inscriptions such as the monk had never seen:
   (>>=) :: m a -> (a -> m b) -> m b
       (>>) :: m a -> m b -> m b
           return :: a -> m a
-        fail :: String -> m a
 </pre>
 
 "What is this stone, great ladies?" asked Djishin.
