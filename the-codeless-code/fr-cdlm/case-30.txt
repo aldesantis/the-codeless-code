@@ -1,0 +1,44 @@
+Title: Tasses
+Number: 30
+Lang: fr
+Translator: cdlm
+Illus.0.title: L'illustration du jour vous est fournie par les mots COPIER et COLLER.
+
+Le maître Java [[Bawan]] dit :
+« Le mendiant du marché ne possède rien que des tasses vides.
+Remplissez-les toutes de thé sauf une, et il vous couvrira de louange ; pourtant, versez une seule goutte dans la dernière, et il devra mourir de soif sur l'instant.
+Expliquez. »
+
+Aucun moine ne sut répondre à la question de Bawan.
+Le professeur se retira dans ses quartiers.
+
+Le soir venu, quatre étudiants vinrent à sa porte, ayant besoin d'aide avec un programme haut en couleurs.
+Ses journaux d'événements débordaient d'exceptions ArrayIndexOutOfBounds, mais les étudiants insistaient qu'elles étaient impossibles : le tableau en question était déclaré comme contenant mille éléments, et l'indice -- un entier sur un octet -- ne pouvait pas dépasser 255, par définition.
+
+Maître Bawan désigna un objet dans le coin de la pièce.
+« Qu'est-ce que ceci ? » demanda-t-il à chaque étudiant.
+
+« Un balai, » dirent-ils chacun leur tour.
+
+Bawan attrapa le balai et le fit tournoyer au dessus de leurs têtes.
+Des illustrations furent soufflées des murs et envoyées virevolter au sol.
+Vases et tasses tombèrent avec fracas de leurs étagères.
+Des paravents de papier se déchirèrent.
+La poussière tomba des chevrons.
+
+« Pas un balai ! » hurla maître Bawan, s'agitant encore comme un fou.
+« pas un balai ! »
+
+
+== Commentaire de Qi
+
+Chacune des tasses du mendiant est similaire en tout aspect à sa voisine, et pourtant chacune contient deux fois plus que la tasse à sa droite.
+Vite, dites de quoi il s'agit.
+
+
+== Poême de Qi
+
+Dans la main du mendiant, le bâton engendre la pitié. //
+Dans la main du maître, la peur. //
+Ces qualités ne sont pas placées /dans/ le bâton : //
+seulement dans /son/ emplacement.
