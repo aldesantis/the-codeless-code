@@ -1,0 +1,61 @@
+Number: 144
+Title: Mnemonic
+Date: 2014-05-11
+Geekiness: 1
+Names: Djishin, Temple of the White Iron Sky, Temple of the Morning Brass Gong, Kaimu
+Topics: teaching, logic, mnemonics, booleans, writing, Perl
+
+As [[#143|Djishin left the Temple of the White Iron Sky]] to return home,
+a hand fell on his shoulder.  "Brother," said a monk in white robes, "I
+see by your habit you are from the [[Temple of the Morning Brass Gong]]."
+
+"To deny this would be to speak a falsehood," said Djishin.
+
+"I have heard that it is a cruel place, where the foolish are corrected
+with humiliation and injury, if not outright execution," said the monk.
+
+"To deny this would be to speak a falsehood," said Djishin,
+"yet to affirm it would also be so."
+
+"I do not see," said the monk.
+
+"A temple's greatness lies in the stories told of it," said Djishin,
+"Thus our scribe will sometimes [[#89|revise our annals]] to make
+the tales therein more... memorable."
+
+"Then your most sacred Event Log is not to be trusted?" asked the monk in
+astonishment.
+
+/"Null,"/ answered Djishin calmly, as master Kaimu [[#24|had taught him]].
+"You may trust the annals to be faithful to the /spirit/ of the events
+which occurred, rather than the specifics of those events."
+
+The monk spat on the ground at Djishin's feet.  "Your words have all the
+convoluted logic of one who still codes in procedures.  How could you come
+here hoping to grasp the fundamentals of provably correct
+algorithms, when you cannot even distinguish true from false?"
+
+Quick as an eyeblink, Djishin broke a branch from a tree and struck the
+white-robed monk across the stomach.  Djishin continued to pummel the
+speechless monk, yelling as each blow fell:
+
+<div align="center"><i>
+"In Perl, underline is understood!<br/>
+In Perl, underline is understood!"
+</i></div>
+
+Terrified, the monk ran from Djishin, nearly knocking over an old nun
+as he sped up the tower steps and vanished through its doors.
+
+"What purpose has this violence?" demanded the nun of Djishin.
+
+"I wished for your monk to learn the Perl <tt>$_</tt> mnemonic, and to never
+forget it," said Djishin.
+
+"But we do not use Perl here," said the nun.
+
+"That is why I chose it," said Djishin.  "From now on, whenever he tells the
+story of the mad visitor who answered his question with the limb of a tree,
+he will quote the strange words I shouted.  And when he understands /why/
+he still knows them, he will grasp the algorithm of the scribe of the
+Morning Brass Gong."
