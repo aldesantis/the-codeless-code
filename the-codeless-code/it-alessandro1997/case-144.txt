@@ -1,0 +1,50 @@
+Number: 144
+Title: Filastrocca
+Lang: it
+Translator: alessandro1997
+
+Mentre [[#143|Djishin lasciava il Tempio del Bianco Cielo di Ferro]] per tornare a casa, una mano si posò sulla sua
+spalla. "Fratello" disse un monaco in abito bianco, "vedo dalle tue vesti che sei del
+[[Temple of the Morning Brass Gong|Tempio del Gong d'Ottone del Mattino]]."
+
+"Negarlo sarebbe pronunciare una falsità" disse Djishin.
+
+"Ho sentito che è un posto crudele, dove gli stolti sono corretti con l'umiliazione e il dolore, se non con l'esecuzione
+diretta" disse il monaco.
+
+"Negarlo sarebbe pronunciare una falsità" disse Djishin, "ma anche affermarlo lo sarebbe."
+
+"Non capisco" disse il monaco.
+
+"La grandezza di un tempio sta nelle storie che ne vengono raccontate" disse Djishin. "Dunque il nostro scriba a volte
+[[#89|rivede i nostri annali]] per rendere le loro storie più... memorabili."
+
+"Allora il vostro Log degli Eventi più sacro non è affidabile?" chiese il monaco stupito.
+
+/"Nullo"/ rispose Djishin con calma, come il maestro Kaimu [[#24|gli aveva insegnato]]. "Puoi essere certo che gli
+annali riportino fedelmente lo /spirito/ degli eventi che sono accaduti, piuttosto che le specifiche di quegli eventi."
+
+Il monaco sputò davanti ai piedi di Djishin. "Le tue parole hanno la logica intricata di chi programma ancora in
+procedure. Come hai potuto venire qui sperando di capire le fondamenta di algoritmi dimostrabilmente corretti, quando
+non puoi nemmeno distinguere il vero dal falso?"
+
+Veloce come un battito di ciglia, Djishin spezzò un ramo da un albero e colpì il monaco nell'abito bianco sullo stomaco.
+Djishin continuò a colpire il monaco senza parole, e quando ogni colpo cadeva urlava:
+
+<div align="center"><i>
+"In Perl, sottolineato è sottinteso!<br>"
+In Perl, sottolineato è sottinteso!"
+</i></div>
+
+Terrorizzato, il monaco fuggì da Djishin, quasi scaraventando a terra una vecchia monaca mentre si affrettava per i
+gradini della torre e spariva oltre le sue porte.
+
+"Qual è lo scopo di questa violenza?" chiese la monaca a Djishin.
+
+"Volevo che il vostro monaco imparasse la filastrocca di <tt>$_</tt>, e che non la dimenticasse mai."
+
+"Ma non usiamo Perl qui" disse la monaca.
+
+"Per questo l'ho scelto" disse Djishin. "D'ora in poi, ogni volta che racconterà la storia del visitatore pazzo che ha
+risposto alla sua domanda col ramo di un albero, citerà le strane parole che ho urlato. E quando capirà /perché/ le
+conosca ancora, comprenderà l'algoritmo dello scriba del Gong d'Ottone del Mattino."
