@@ -40,8 +40,8 @@ white-robed monk across the stomach.  Djishin continued to pummel the
 speechless monk, yelling as each blow fell:
 
 <div align="center"><i>
-"In Perl, underscore is understood!<br/>
-In Perl, underscore is understood!"
+"In Perl, underline is understood!<br/>
+In Perl, underline is understood!"
 </i></div>
 
 Terrified, the monk ran from Djishin, nearly knocking over an old nun
