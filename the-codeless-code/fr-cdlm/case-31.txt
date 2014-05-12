@@ -1,0 +1,24 @@
+Title: L'éloquente sandale
+Number: 31
+Lang: fr
+Translator: cdlm
+Illus.0.title: C'était une exception lancée, évidemment.
+
+Deux moines consultèrent le maître Java [[Kaimu]] au sujet d'une dispute.
+Ils lui demandèrent :
+« Null est-il une valeur, ou l'absence de valeur ? »
+
+« Null, » dit le maître, et il s'en fut.
+
+Les moines poursuivirent alors leur dispute sur la signification de la réponse du maître, bien après que le clan soit allé au dortoir et que toutes les lampes aient été éteintes :
+
+Le premier moine maintint que null /devait/ être une valeur, puisque le maître l'avait utilisé pour répondre à une question.
+
+Le second moine maintint que null /ne pouvait/ être une valeur, puisque la réponse-sans-réponse ne comprenait aucune des alternatives proposées.
+
+Un troisième moine, qui essayait de dormir, cria et lança sa sandale dans l'ombre.
+
+Un quatrième moine demanda chafouinement :
+« Était-ce une éloquente requête de faire silence, ou bien /l'absence/ d'une éloquente requête de faire silence ? »
+
+Alors que les deux premiers moines considéraient cela, la lune se leva.
