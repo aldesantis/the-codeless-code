@@ -1,0 +1,30 @@
+Title: Mauvaises herbes
+Number: 32
+Lang: fr
+Translator: cdlm
+
+Le temple avait besoin d'un développeur de plus, et deux candidats à l'initiation avaient postulé pour le poste.
+Le maître Java [[Banzen]] dépécha un moine pour les recevoir en entretien.
+
+« Ils étaient identiquement capables en tous points, » rapporta le moine le soir.
+« De même âge, poids, taille, présentation, compétence à l'épée, et préférence en termes de breuvages cafféinés.
+J'ai donc posé le même problème de logique aux deux candidats.
+L'un échoua à le résoudre, l'autre réusit. »
+
+Le maître Java Banzen dit :
+« Montrez-moi les salles où les entretiens ont eu lieu. »
+
+Ils arrivèrent d'abord à la salle du candidat ayant échoué, dont l'analyse du problème était toujours sur le tableau blanc, écrite au marqueur vert de jade.
+Des chiffres méticuleusement soignés couvraient le tableau de rangées et colonnes précises.
+Le maître Java Banzen trouva rapidement l'erreur dans le raisonnement du candidat.
+
+Le maître Java déclara :
+« Ceci est un bosquet de petits pois, luttant pour percer les neiges.
+Si nous en prenons soin, nous dînerons bien le printemps venu. »
+
+Ils virent ensuite la salle du candidat victorieux.
+Ici aussi, le problème critique avait été étudié au marqueur vert, mais dans cette salle il recouvrait le tableau sans qu'aucun ordre n'y soit discernable.
+Des gribouillages hâtés serpentaient par dessus, autour, et même à travers les uns des autres -- un dense enchevêtrement de charabia.
+
+Le maître Java secoua la tête.
+« Ici, vous me promettez aneth et citronnelle, mais je ne les trouverai jamais au milieu de toutes ces mauvaises herbes. »
