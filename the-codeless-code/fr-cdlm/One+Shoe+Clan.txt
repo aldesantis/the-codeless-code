@@ -1,0 +1,5 @@
+Lang: fr
+Translator: cdlm
+
+Votre guichet unique pour des bidouilles-minute et des solutions ponctuelles.
+Parce qu'un homme avec une seule chaussure peut toujours traverser un lit de braises à cloche-pied sans se brûler : ça n'est peut-être pas joli ou durable, mais ça marche.

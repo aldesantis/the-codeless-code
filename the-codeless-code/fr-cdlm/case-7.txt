@@ -1,5 +1,5 @@
-Number: 7
 Title: L'ennemi du bien
+Number: 7
 Lang: fr
 Translator: cdlm
 Illus.1.title: Passée la première centaine d'années, on devient bien meilleur pour attendre patiemment.

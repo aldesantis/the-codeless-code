@@ -1,9 +1,9 @@
-Number: 12
 Title: Conséquences
+Number: 12
 Lang: fr
 Translator: cdlm
 
-Trois jeunes moines -- un du [[Spider Clan|Clan de l'Araignée]], un du [[Laughing Monkey Clan|Singe Rieur]], et un de [[Elephant's Footprint|l'Emprunte d'Éléphant]] -- débattaient de quelle couche était la plus importante : la couche de présentation, la couche métier, ou la couche de persistance.
+Trois jeunes moines -- un du [[Spider Clan|Clan de l'Araignée]], un du [[Laughing Monkey Clan|Singe Rieur]], et un de [[Elephant's Footprint Clan|l'Emprunte d'Éléphant]] -- débattaient de quelle couche était la plus importante : la couche de présentation, la couche métier, ou la couche de persistance.
 Ils décidèrent finalement de poser la question au maître Java.
 
 Le maître convoqua l'un des robustes jardiniers qui entretenaient les terres du temple, et lui donna instruction ainsi :

@@ -1,0 +1,6 @@
+Lang: fr
+Translator: cdlm
+
+Spécialistes de la couche de persistance.
+Ils ont un secret inavoué :
+il arrive parfois aux éléphants d'oublier, et c'est pourquoi il est important de mettre en place la réplication à chaud vers un Éléphant de Sauvegarde d'Urgence.

@@ -1,0 +1,4 @@
+Lang: fr
+Translator: cdlm
+
+Les managers : ils sont peut-être infirmes et myopes, mais ça ne les empêche pas de tirer les ficelles.

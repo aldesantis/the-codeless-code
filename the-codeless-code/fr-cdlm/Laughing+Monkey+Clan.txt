@@ -1,0 +1,5 @@
+Lang: fr
+Translator: cdlm
+
+Spécialistes de la couche métier.
+Une infinité (ou pratiquement) de moines frappant allégrement des inepties sur une infinité de claviers, et obtenant parfois que ça compile sans accroc.
