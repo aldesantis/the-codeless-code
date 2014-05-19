@@ -4,6 +4,7 @@ Date: 2014-05-04
 Geekiness: 3
 Names: Djishin, Kaimu, Temple of the White Iron Sky, Tower of the Elephant's Tusk
 Topics: Haskell, functional programming, types, monads, error handling, paradigm shifts
+Credits: Many thanks to benzrf for the suggested edits!
 
 The young monk [[Djishin]] approached master [[Kaimu]] and said,
 "Tell me about the [[Temple of the White Iron Sky]], where
@@ -53,7 +54,6 @@ face were inscriptions such as the monk had never seen:
 
 <pre>
   (>>=) :: m a -> (a -> m b) -> m b
-      (>>) :: m a -> m b -> m b
           return :: a -> m a
 </pre>
 
@@ -88,7 +88,7 @@ The nuns looked at each other.  "Someday all will know it as
 such, as readily as /20 GOTO 10/.  But answer this
 question: are you a software engineer?"
 
-"I am no longer sure," answered Djishin, whose confusion was complete.
+"I am no longer certain," answered Djishin, whose confusion was complete.
 
 At which point the young monk was enlightened.
 

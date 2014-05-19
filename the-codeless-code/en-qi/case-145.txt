@@ -1,0 +1,52 @@
+Date: 2014-05-18
+Number: 145
+Title: Five Years
+Names: Shinpuru, Spider Clan
+Topics: progress, career, joy-hacking, change
+Geekiness: 1
+
+The [[#142|new abbot]] of the [[Spider Clan]] happened upon
+the old monk [[Shinpuru]] weeding his garden.
+
+Said the abbot, "You have been content to remain a humble
+developer all your life.  Many times you have been offered
+the post of abbot, yet each time you declined.  Now the
+few hairs clinging to your head are pale and thin.
+Have you no ambition?  As we ask the applicants:
+where do you see yourself in five years?"
+
+Shinpuru plucked a dandelion that had gone to seed and blew
+hard upon its puffball.  Silver seedlings scattered, wafting
+up upon the breeze.  Shinpuru gave the bald broken stem to
+the abbot, and without a word resumed his gardening.
+
+Later that day the abbot told this story to master
+[[Banzen]].  Producing the dead stem from his robes, the
+abbot said, "The aimless monk Shinpuru looks forward to
+nothing but his own death."
+
+Banzen only laughed.  "I asked that same question of the
+/applicant/ Shinpuru when his face was framed by a lion's
+mane, and I received the same answer.  There was no Java in
+those days, no XML, no HTTP.  We coded in C and shell
+scripts, and spoke with wonder of the changes we had seen:
+for the days of punch-cards and abacus-engines were still
+fresh in our memories.  And now?  Now the venerable Shinpuru
+downloads odd source packages from distant lands, toying
+with Ruby and Dojo as a gardener might experiment with
+exotic seeds.  Who knows what strange languages he will have
+mastered five years hence?  Meanwhile I will have conducted
+two thousand miserable code reviews, and you will have filed
+two thousand unread daily reports."
+
+The master pointed to the sky.  "Tell me: where now are
+those ambitionless seedlings that Shinpuru blew into the air?"
+
+"I cannot say," said the abbot.  "West or east of where we
+stand; drifting on the ocean or circling that tree."
+
+"Five years hence they could be lighting on the moon, with a
+splendid view of the world below," said the master.
+"Remember Shinpuru's rebuke while you savor your new
+station, young abbot!  The stem may grow tall, but its roots
+are stubborn and its fate is easily forseen."
