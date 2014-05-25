@@ -1,0 +1,46 @@
+Number: 145
+Title: Cinque anni
+Lang: it
+Translator: alessandro1997
+
+Il [[#142|nuovo abate]] del [[Spider Clan|Clan del Ragno]] incontrò il vecchio
+monaco [[Shinpuru]] che curava il suo giardino.
+
+Disse l'abate: "Ti sei accontentato di restare un umile sviluppatore per tutta
+la vita. Molte volte ti è stato offerto il posto di abate, eppure ogni volta hai
+rifiutato. Ora i pochi capelli ancora attaccati alla tua testa sono pallidi e
+sottili. Non hai alcuna ambizione? Come chiediamo ai candidati: dove ti vedi tra
+cinque anni?"
+
+Shinpuru strappò un dente di leone che era andato in semenza e vi soffiò.
+Piccoli semi argentati si sparsero, cavalcando la brezza. Shinpuru diede  il
+gambo rotto e calvo all'abate, e senza proferire un'altra parola tornò al suo
+giardinaggio.
+
+Più tardi quel giorno l'abate raccontò questa storia al maestro [[Banzen]].
+Tirando fuori il gambo morto dal suo abito, l'abate disse: "Il monaco Shinpuru
+non ha una meta e non attende altro che la morte."
+
+Banzen si limitò a ridere. "Ho fatto la stessa domanda al /candidato/ Shinpuru
+quando la sua faccia era decorata dalla criniera di un leone, e ho ricevuto la
+stessa risposta. A quei tempi non c'era Java, non c'era XML, non c'era HTTP.
+Programmavamo in C e script della shell, e parlavamo con meraviglia dei
+cambiamenti che avevamo visto, giacché i giorni delle schede perforate e
+delle macchine logiche erano ancora freschi nelle nostre memorie. E ora? Ora il
+venerabile Shinpuru scarica strani pacchetti sorgenti da terre distanti,
+giocando con Ruby e Dojo come un giardiniere sperimenta con semi esotici. Chissà
+quali strani linguaggi avrà padroneggiato tra cinque anni! Nel frattempo io avrò
+condotto duemila miserabili revisioni del codice e tu avrai compilato duemila
+rapporti giornalieri che mai saranno letti."
+
+Il maestro indicò il cielo. "Dimmi: dove sono ora quei semi senza ambizione che
+Shinpuru ha soffiato nel vento?"
+
+"Non saprei dirlo" disse l'abate. "A ovest o a est di dove siamo noi; che
+planano sull'oceano o che volteggiano intorno a quell'albero."
+
+"Tra cinque anni potrebbero essere sulla luna, con una splendida vista del mondo
+lì sotto" disse il maestro. "Ricorda il rimprovero di Shinpuru quando starai
+assaporando la tua nuova postazione, giovane abate! Il gambo può crescere ad
+altezze inimmaginabili, ma le sue radici sono testarde e il suo destino
+facilmente prevedibile."
