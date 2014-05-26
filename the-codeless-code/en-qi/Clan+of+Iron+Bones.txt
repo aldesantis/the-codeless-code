@@ -1,2 +1,6 @@
 Name: Clan of Iron Bones
 Lang: en
+
+Operations: the backbone of the enterprise.
+Because without hardware, software would just be a lot of strange
+words on paper with <i>way</i> too many semicolons.

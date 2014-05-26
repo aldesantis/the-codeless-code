@@ -1,0 +1,97 @@
+Date: 2014-05-25
+Number: 146
+Title: Box Model
+Geekiness: 2
+Names: Zjing, Wangohan, Landhwa
+Topics: aesthetics, web interfaces, user experience, CSS, JQuery, Javascript
+
+
+The nun [[Zjing]] had returned to her domicile in the lonely
+valley below the Temple cliffs.  Yet telecommuting did not
+insulate her from the ongoing dramas of Temple life,
+and it was not long before the senior monk [[Wangohan]]
+began to bombard her with complaints about his longtime adversary,
+the monk [[Landhwa]].
+
+Wangohan explained:
+
+      We were each given a new application to develop, //
+      using the [[#120|framework]] I introduced to the temple... //
+
+      I have written numerous unit and functional tests; //
+      Landhwa has written none, and he swallows exceptions //
+      to avoid vomiting them on the screen...
+
+      I validate all input on the server-side; //
+      Landhwa depends on Javascript to sanitize his data, //
+      though his trickery can be disabled on any client... //
+
+      I generate simple, standards-compliant HTML; //
+      Landhwa stitches together slick JQuery plug-ins, //
+      trusting the browser to render his mess...
+
+      We demoed our systems this morning. //
+      All the customer's praise unjustly went to Landhwa. //
+      None went to me.
+
+
+Zjing reflected on Wangohan's tendency to poison those who
+irritated him.{{*}}  To save Landhwa an unpleasant night
+on the bathroom floor, she replied:
+
+      Send me the URLs for both your systems.  //
+      I shall investigate.
+
+- - -
+
+The following day, Wangohan received a parcel from the nun
+containing two boxes.  The first, a box of fine black
+lacquer, held a lunch that was the picture of supreme
+aesthetic harmony: eight tiny compartments in which were
+laid sauces, sizzling meat, and vegetables all evenly cut,
+arrayed around a square bowl of steaming rice garnished with
+flowers of appetizing hues.  The second, a plain white box
+of oily cardboard, appeared to hold the same ingredients --
+yet the portions were chopped raggedly and tossed together
+with cold rice in a most unappealing manner.
+
+On the parcel a note was written in Zjing's hand:
+
+     Choose and eat. //
+     At the bottom lies your answer.
+
+Wangohan devoured the contents of the box of black lacquer,
+but was puzzled to find no further note at the bottom.
+He was debating whether he was hungry enough to eat the
+contents of the second box when a sharp pain in his gut
+drove this thought (and all others) from his mind.
+
+- - -
+
+The following night, Wangohan -- still bedridden --
+received another parcel from the nun.  This he opened with some
+trepidation.
+
+Inside were four small boxes of mint tea (their original
+wax seals intact), three articles on UI design principles,
+two thumb drives with the latest AngularJS and Bootstrap
+distributions, and the following note:
+
+         This was the meal that Landhwa prepared: //
+         treacherous in the stomach, true, //
+         yet pleasing to the senses beforehand. //
+
+         While Wangohan serves honest fare //
+         that would have sustained us on a day-long march, //
+         had we but desired it.
+
+         The presentation is not part of the food, //
+         yet it is part of the meal; //
+         our introduction, our interface.
+
+         Embrace its purpose, and remember: //
+         the chef does not carve carrots into dragons, //
+         to impress the carrots.
+
+
+{{*}} See cases [[#84]] and [[#120]].  Or just avoid his spice rack.
