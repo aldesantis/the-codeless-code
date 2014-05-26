@@ -1,3 +1,5 @@
+Name: Clan of Iron Bones
+Title: Clan des Os de Fer
 Lang: fr
 Translator: cdlm
 

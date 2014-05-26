@@ -1,3 +1,4 @@
+Name: Seven-Clawed Blind Eagle Clan
 Lang: fr
 Translator: cdlm
 

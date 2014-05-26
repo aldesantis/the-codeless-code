@@ -1,3 +1,4 @@
+Name: Elephant's Footprint Clan
 Lang: fr
 Translator: cdlm
 

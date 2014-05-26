@@ -1,3 +1,4 @@
+Name: One Shoe Clan
 Lang: fr
 Translator: cdlm
 
