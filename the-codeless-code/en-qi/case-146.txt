@@ -13,7 +13,7 @@ and it was not long before the senior monk [[Wangohan]]
 began to bombard her with complaints about his longtime adversary,
 the monk [[Landhwa]].
 
-Wangohan explained:
+Wangohan messaged:
 
       We were each given a new application to develop, //
       using the [[#120|framework]] I introduced to the temple... //
@@ -91,7 +91,7 @@ distributions, and the following note:
 
          Embrace its purpose, and remember: //
          the chef does not carve carrots into dragons, //
-         to impress the carrots.
+         to improve their taste.
 
 
 {{*}} See cases [[#84]] and [[#120]].  Or just avoid his spice rack.
