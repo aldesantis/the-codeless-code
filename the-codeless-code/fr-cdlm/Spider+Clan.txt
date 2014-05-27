@@ -1,4 +1,5 @@
 Name: Spider Clan
+Title: Clan de l'Araignée
 Lang: fr
 Translator: cdlm
 

@@ -1,4 +1,5 @@
 Name: Laughing Monkey Clan
+Title: Clan du Singe Rieur
 Lang: fr
 Translator: cdlm
 

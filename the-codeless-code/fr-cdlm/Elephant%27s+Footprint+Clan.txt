@@ -1,4 +1,5 @@
 Name: Elephant's Footprint Clan
+Title: Clan de l'Emprunte d'Éléphant
 Lang: fr
 Translator: cdlm
 
