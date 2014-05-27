@@ -1,4 +1,5 @@
 Name: One Shoe Clan
+Title: Clan de l'Unique Soulier
 Lang: fr
 Translator: cdlm
 

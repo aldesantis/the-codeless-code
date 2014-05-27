@@ -1,4 +1,5 @@
 Name: Seven-Clawed Blind Eagle Clan
+Title: Clan de l'Aigle Aveugle aux Sept Griffes
 Lang: fr
 Translator: cdlm
 
