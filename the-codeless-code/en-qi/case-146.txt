@@ -4,6 +4,8 @@ Title: Box Model
 Geekiness: 2
 Names: Zjing, Wangohan, Landhwa
 Topics: aesthetics, web interfaces, user experience, CSS, JQuery, Javascript
+Illus.0.src: carton.jpg
+Illus.0.title: That's not a "grease stain"... it's a "flavor indicator".
 
 
 The nun [[Zjing]] had returned to her domicile in the lonely
