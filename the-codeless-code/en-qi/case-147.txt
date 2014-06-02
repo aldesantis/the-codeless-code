@@ -6,6 +6,7 @@ Topics: cacheing, statics, stale data, efficiency hacks
 Names: Bawan, Yishi-Shing, Clan of Infinite Sorrows, Spider Clan, Laughing Monkey Clan, Elephant's Footprint Clan, Lost Hermitage
 Illus.0.src: parka.jpg
 Illus.0.title: The "m" is meters, right?  Not miles? 
+Credits: Thanks to Brett Davis for pointing out the typo!
 
 The Temple's user support staff -- known as the
 [[Clan of Infinite Sorrows]] -- had begun receiving complaints about a
@@ -28,7 +29,7 @@ was now up-to-date, Bawan dove into the UI code created by the
 [[Spider Clan]], then the business layer built by the
 [[Laughing Monkey Clan]], and finally the persistence layer
 provided by the [[Elephant's Footprint Clan]].
-Eventually he summoned one the nuns of Elephant's Footprint.
+Eventually he summoned one of the nuns of Elephant's Footprint.
 
 "Do you know the way to the Lost Hermitage?" asked Bawan.
 
