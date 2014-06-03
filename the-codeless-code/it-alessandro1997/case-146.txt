@@ -1,0 +1,88 @@
+Number: 146
+Title: Box Model
+Lang: it
+Translator: alessandro1997
+Illus.0.title: That's not a "grease stain"... it's a "flavor indicator".
+
+La monaca [[Zjing]] era tornata al proprio domicilio nella valle solitaria sotto
+le rupi del Tempio. Eppure il telelavoro non la isolava dai drammi della vita
+del Tempio, e non passò molto tempo prima che il monaco anziano [[Wangohan]]
+iniziò a bombardarla di lamentele sul suo acerrimo avversario, il monaco
+[[Landhwa]].
+
+Wangohan scriveva:
+
+      Ci era stata assegnata un'applicazione da sviluppare, //
+      usando il [[#120|framework]] che ho introdotto nel tempio... //
+
+      Io ho scritto numerosi test di unità e funzionali; //
+      Landhwa non ne ha scritto nessuno, e ingurgita le eccezioni //
+      per evitare di vomitarle sullo schermo...
+
+      Io valido tutto l'input sul server; //
+      Landhwa si affida al Javascript per pulire i dati, //
+      ma il suo trucco può essere disabilitato da qualunque client... //
+
+      Io genero dell'HTML semplice e conforme agli standard; //
+      Landhwa incolla insieme strani plug-in jQuery, //
+      sperando che il browser visualizzi il suo macello...
+
+      Abbiamo presentato i nostri sistemi stamattina. //
+      Tutte le lodi dei clienti sono andate ingiustamente a Landhwa. //
+      Nulla è toccato a me.
+
+Zjing rifletté sulla tendenza di Wangohan di avvelenare quelli che lo
+irritavano.{{*}} Per risparmiare a Landhwa una spiacevole notte sul pavimento
+del bagno, rispose:
+
+      Mandami gli URL di entrambi i vostri sistemi. //
+      Investigherò.
+
+- - -
+
+Il giorno successivo, Wangohan ricevette dalla monaca un pacco contenente due
+scatole. La prima, una scatola di elegante lacca nera, conteneva un pranzo che
+era un'immagine di suprema armonia estetica: otto piccoli compartimenti in cui
+erano adagiate salse, carne sfrigolante, e verdure tagliate alla perfezione,
+disposte intorno una ciotola quadrata di riso fumate guarnita di fiori dalle
+sfumature invitanti. La seconda, una semplice scatola di cartone bianco e unto,
+sembrava contenere gli stessi ingredienti -- eppure le porzioni erano tritate
+alla buona e gettate insieme con del riso tiepido in maniera molto poco
+attraente.
+
+Sul pacco stava una nota scritta da Zjing:
+
+    Scegli e mangia. //
+    Sul fondo sta la tua risposta.
+
+Wangohan divorò il contenuto della scatola di lacca nera, ma rimase sorpreso
+quando non trovò alcuna nota sul fondo. Stava riflettendo se fosse abbastanza
+affamato da mangiare il contenuto della seconda scatola quando un forte dolore
+al ventre lo privò di questo pensiero (e di tutti gli altri).
+
+- - -
+
+La notte successiva, Wangohan -- ancora costretto a letto -- ricevette un altro
+pacco dalla monaca. Lo aprì con trepidazione.
+
+Dentro c'erano quattro piccole scatole di tè alla menta (i loro sigilli in cera
+originali intatti), tre articoli sui principi dell'UI design, due flashdrive con
+le ultime distribuzioni di AngularJS e Bootstrap, e la seguente nota:
+
+        Questo è il piatto che ha preparato Landhwa: //
+        infido nello stomaco, vero, //
+        ma piacevole ai sensi in primo luogo. //
+
+        Mentre Wangohan serve del cibo onesto //
+        che ci avrebbe sostenuto lungo una marcia di un giorno, //
+        se solo lo avessimo desiderato.
+
+        La presentazione non è parte del cibo, //
+        eppure è parte del pasto; //
+        la nostra introduzione, la nostra interfaccia.
+
+        Abbraccia il suo scopo, e ricorda: //
+        lo chef non taglia le carote a forma di drago, //
+        per migliorarne il sapore.
+
+{{*}} Vedi i cas i [[#84]] e [[#85]]. O più semplicemente evita il suo portaspezie.
