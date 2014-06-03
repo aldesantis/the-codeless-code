@@ -1,0 +1,62 @@
+Number: 147
+Title: Bawan's Table
+Lang: it
+Translator: alessandro1997
+Illus.0.title: La "m" sta per metri, giusto? Non miglia?
+Credits: Grazie a Brett Davis per aver segnalato l'errore!
+
+Lo staff di supporto del Tempio -- conosciuto come il
+[[Clan of Infinite Sorrows|Clan delle Pene Infinite]] -- aveva iniziato a
+ricevere lamentele riguardanti una particolare applicazione di shopping. Delle
+modifiche fatte alle informazioni di contatto del venditore erano immediatamente
+visibili nel database, eppure alcuni server dell'applicazione continuavano a
+visualizzare i vecchi dati del venditore per giorni. Il maestro [[Bawan]] venne
+mandato per investigare.
+
+"Escludete quel server" comandò Bawan quando affiorò un'altra lamentela. "Quindi
+fate riautenticare l'utente."
+
+"La vostra prima azione è l'Ultima Spiaggia dei Disperati?" chiese il
+maestro-host [[Yishi-Shing]].
+
+"Il mio scopo è diagnostico" rispose Bawan, con le braccia incrociate.
+
+Quando l'utente segnalò che le informazioni sul suo schermo erano ora
+aggiornate, Bawan si gettò nel codice dell'UI creato dal
+[[Spider Clan|Clan del Ragno]], quindi nel livello business costruito dal
+[[Laughing Monkey Clan|Clan della Scimmia Ridente]], e finalmente nel livello di
+persistenza fornito dal [[Elephant's Footprint Clan|Clan dell'Orma di Elefante]].
+Infine convocò una delle monache dell'Orma di Elefante.
+
+"Conosci la strada all'Eremo Perduto?" chiese Bawan.
+
+"Non ne ho mai sentito parlare" disse la monaca.
+
+"Si trova alto tra le montagne del Nord, eppure fu sepolto sotto una valanga di
+SNOBOL{{*}} molti anni fa" disse il maestro. "Alcuni fratelli del nostro ordine
+ancora lavorano lì sotto terra; ho bisogno del loro aiuto. Questa pergamena ti
+porterà da loro."
+
+Bawan diede alla monaca una vecchia Mappa Threadsafe{{**}} che mostrava la
+posizione dell'Eremo. Seguirono razioni per sette giorni, un abito foderato in
+pelliccia, una piccozza e una pala da neve. Quindi la spinse fuori dalla porta e
+con Yishi-Shing la guardò allontanarsi lentamente per la Strada del Serpente
+Ubriaco.
+
+"Non sono sicuro" osservò Yishi-Shing, "ma nella /mia/ memoria l'Eremo Perduto
+è stato abbandonato alcuni inverni fa, e i suoi monaci hanno traslocato in una
+piacevole grotta ai piedi di questa stessa montagna."
+
+"È così?" chiese Bawan, sconcertato. "Beh, suppongo che questo sia il pericolo
+derivante dal tenere sempre in cache nel mio cassetto, dove posso recuperarli
+velocemente, i dati della mia vecchia tabella di ricerca. La prossima volta
+dovrò fare lo sforzo di trovare e stampare una copia aggiornata."
+
+Yishi-Shing annuì. "L'errore era comprensibile. La carta è costosa, e alcune
+cose cambiano solo raramente."
+
+"Non è un caso che /raramente/ e /mai/ siano due parole diverse" disse Bawan.
+
+{{*}} SNOBOL è il nome di un linguaggio di programmazione. La pronuncia è simile a quella di "snow ball" (palla di neve).
+
+{{**}} Nell'originale "Threadsafe Map". La mappa, in programmazione, è una struttura dati.
