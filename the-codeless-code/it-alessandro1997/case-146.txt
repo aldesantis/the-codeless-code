@@ -1,5 +1,5 @@
 Number: 146
-Title: Box Model
+Title: Box model
 Lang: it
 Translator: alessandro1997
 Illus.0.title: That's not a "grease stain"... it's a "flavor indicator".

@@ -1,5 +1,5 @@
 Number: 147
-Title: Bawan's Table
+Title: La tavola di Bawan
 Lang: it
 Translator: alessandro1997
 Illus.0.title: La "m" sta per metri, giusto? Non miglia?
