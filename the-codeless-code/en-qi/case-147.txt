@@ -2,7 +2,7 @@ Number: 147
 Date: 2014-06-01
 Title: Bawan's Table
 Geekiness: 3
-Topics: cacheing, statics, stale data, efficiency hacks
+Topics: caching, statics, stale data, efficiency hacks
 Names: Bawan, Yishi-Shing, Clan of Infinite Sorrows, Spider Clan, Laughing Monkey Clan, Elephant's Footprint Clan, Lost Hermitage
 Illus.0.src: parka.jpg
 Illus.0.title: The "m" is meters, right?  Not miles? 

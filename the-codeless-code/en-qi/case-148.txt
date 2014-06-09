@@ -1,0 +1,41 @@
+Number: 148
+Date: 2014-06-07
+Title: Subtle Art
+Geekiness: 3
+Topics: caching, statics, stale data, efficiency hacks
+Names: Satou, Bawan
+
+When [[#147|this story]] reached the ears of the curious nun [[Satou]],
+she sought out master [[Bawan]].
+
+Satou said, "My master spoke of the Subtle Art of
+Caching, that all Temple developers should study.  What is
+this subtle art?"
+
+Bawan replied, "A thousand fresh oranges in a distant
+market; three stale ones in the bowl on my table.  What
+shall I breakfast upon this month?"
+
+Satou considered this and said, "When the bitterness of the
+fruit exceeds the bitterness of the journey, we set out with
+coin in hand."
+
+Bawan replied, "My brother keeps raisins in his bowl; my
+sister keeps uncooked fish.  How often shall we three set
+out for market?  With how many bowls, and at what time of
+day?"
+
+Satou said, "Such simple questions, yet to answer any I must
+ask more."
+
+Bawan replied, "And I may answer each of your questions
+with more of my own."
+
+Satou asked, "Is it this complexity that makes caching
+a Subtle Art?"
+
+Bawan shook his head.  "Complexity only makes it an art.  It
+is the apparent simplicity that makes it subtle.  How simple
+it is to declare a static hashtable, and yet how perilous!
+The first challenge of a Subtle Art is recognizing that it
+even exists in the first place."
