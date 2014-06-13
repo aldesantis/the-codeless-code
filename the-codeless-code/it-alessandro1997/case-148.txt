@@ -1,0 +1,34 @@
+Number: 148
+Title: Sottile arte
+Lang: it
+Translator: alessandro1997
+
+Quando [[#147|questa storia]] giunse alle orecchie della curiosa monaca
+[[Satou]], questa cercò il maestro [[Bawan]].
+
+Satou disse: "Il mio maestro ha parlato della Sottile Arte del Caching, che
+tutti gli sviluppatori del Tempio dovrebbero studiare. Qual è questa sottile
+arte?"
+
+Bawan rispose: "Mille arance fresche in un mercato lontano; tre stantie nella
+ciotola sul mio tavolo. Con quali dovrei fare colazione questo mese?"
+
+Satou ci rifletté e disse: "Quando l'amarezza del frutto eccede quella del
+viaggio, ci avviamo con la moneta in mano."
+
+Bawan rispose: "Mio fratello tiene dell'uva passa nella sua ciotola; mia sorella
+vi tiene del pesce crudo. Quanto spesso dovremmo andare al mercato? Con quante
+ciotole, e a che ora del giorno?"
+
+Satou disse: "Sono domande così semplici, eppure per rispondere devo chiedere
+di più."
+
+Bawan rispose: "E io potrei rispondere a ciascuna delle tue domande con una
+delle mie."
+
+Satou disse: "È forse questa complessità che rende il caching una Sottile Arte?"
+
+Bawan scosse la testa. "La complessità la rende solo un'arte. È l'apparente
+semplicità a renderla sottile. Com'è facile dichiarare una hashtable statica,
+eppure com'è pericoloso! La prima sfida in una Sottile Arte è riconoscere in
+primo luogo la sua esistenza."
