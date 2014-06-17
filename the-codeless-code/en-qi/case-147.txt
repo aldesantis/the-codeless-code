@@ -41,7 +41,7 @@ under a SNOBOL avalanche many years ago," said the master.
 I require their assistance.  This parchment will lead
 you to them."
 
-Bawan gave the nun an old Threadsafe Map showing the
+Bawan gave the nun an old map showing the
 location of the Hermitage.  He followed this with seven
 days' rations, a fur-lined robe, a climbing pick, and a snow
 shovel.  Then he hustled her out the door and with
@@ -54,9 +54,9 @@ its monks relocated to a pleasant grotto at the foot of this
 very mountain."
 
 "Is that so?" asked Bawan, nonplussed.  "Well, I suppose
-that's the danger of cacheing data forever in the drawer of
-my old lookup-table where I can grab it quickly.  Next time
-I shall endeavor to find and print a fresh copy."
+that's the danger of cacheing data forever in the drawers of
+my old lookup-table.  Perhaps next time I shall print a
+fresh copy."
 
 Yishi-Shing nodded. "The error was understandable.  Paper is
 expensive, and some things do change only rarely."

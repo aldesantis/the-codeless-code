@@ -1,0 +1,42 @@
+Number: 149
+Date: 2014-06-14
+Title: The First Finger
+Geekiness: 2
+Topics: caching, stale data, experience, failure, fear
+Names: Satou, Kaimu
+
+The nun [[Satou]] found master [[Kaimu]] and said, "From wry
+master Bawan [[#148|I learned that]] caching is an iron cannon:
+seductive to touch, easy to load, difficult to aim, and
+deadly to mishandle."
+
+Kaimu replied, "Our ten fingers are flint and steel,
+and the keyboard is our fuse."
+
+The nun continued, "From unhappy master Banzen [[#121|I learned that]]
+such weapons should only be used reluctantly: after long study
+if possible, after ignominious defeat if not."
+
+Kaimu replied, "The solider who has lost two fingers will
+not misplace the other eight so quickly.  It is his comrade
+with a full set of digits that will soonest lack a limb."
+
+The young nun shivered and said, "Thus I fear caching.  And
+having no time for careful study, I wish to avoid it and all
+tools that use it.  How can this best be done?"
+
+Kaimu replied, "Store no data: not in a file, nor a
+database, nor in the most transient of variables.  For what
+is each datum but a single frozen echo of the Unceasing
+Chorus of the Outside World?  When we chip a note from the
+ice, what proof do we have that it is still being sung
+beyond our silicon walls?  Even the most inconsequential
+User Preference should be obtained from the User directly
+whenever needed, to be certain we have divined their will."
+
+The nun arched an eyebrow.  "I sought Kaimu's help because I
+wished to avoid error.  Why does the master mock me?"
+
+Kaimu grasped her thumb and said, "You sought Kaimu's help
+because you wished to avoid losing an arm.  Yet take heart,
+soldier!  One of your two fingers is already gone."
