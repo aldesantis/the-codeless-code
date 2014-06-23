@@ -1,0 +1,63 @@
+Number: 150
+Date: 2014-06-22
+Title: Undone
+Geekiness: 1
+Names: Kaimu
+Topics: undo, state
+
+A monk asked master [[Kaimu]], "What is the ideal behavior
+of 'undo'?"
+
+Kaimu answered, "To undo the last significant action of the
+user, then the action before that, and so on to the
+beginning of time."
+
+The monk asked, "What about the resizing of a window?"
+
+Kaimu answered, "Ideally, that would be undone."
+
+The monk asked, "The saving of a file?"
+
+Kaimu answered, "Also undone."
+
+The monk asked, "The sending of email?"
+
+Kaimu answered, "Also undone."
+
+The monk laughed and said, "Absurd! How could anyone
+implement such behavior?"
+
+The master launched an application on this desktop.  "Here
+is an editor of my own devising, which implements the Ideal
+Undo."
+
+The monk entered a line of text. Then he deleted a word,
+resized the window, saved the file, and sent it as an email.
+When the email appeared on his phone, he hit the editor's
+Undo key four times.
+
+The monk said, "No effect."
+
+Kaimu answered, <i>"Null.</i> Time itself was reset to as it
+was immediately after you entered your line of text.  At
+which point you -- lacking all memory of the prior iteration
+-- again deleted the word, resized the window, saved the
+file, and sent the email."
+
+The monk pointed triumphantly at the master.  <i>"Null</i> to your
+/Null!/  For in the alleged second iteration I would have
+subsequently hit Undo four times, just as I did in the first
+iteration...thus creating an inescapable loop!"
+
+Kaimu folded his arms and with satisfaction answered, "The
+actions of the second iteration were not significant, since
+they were fated to occur as a consequence of resetting the
+clock; thus they are not candidates for the Ideal Undo.
+Only your four Undo key-presses in the /first/ iteration --
+the ones which /initiated/ the second iteration -- were
+significant."
+
+The monk asked, "So what became of these four Undos?"
+
+Kaimu answered, "Thanks to the four Undos in the /second/
+iteration... also undone."
