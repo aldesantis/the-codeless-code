@@ -1,0 +1,95 @@
+Number: 151
+Date: 2014-06-28
+Title: The Summer Scarf
+Geekiness: 2
+Names: Yíwen, Hwídah
+Topics: sorting, efficiency, reuse, art
+Credits: Inspired in part by the <a href="http://sortviz.org">excellent "weave" sorting visualizations</a> done by <a href="http://corte.si/">Aldo Cortesi</a>.
+Illus.0.src: yarn.jpg
+Illus.0.title: Appropriately, this turned out to be one of my longer yarns.
+
+Summer's first week had arrived with pleasant warm winds, so
+most of the Temple now took their meals and meditation
+outdoors.  But Yíwen the Artist, who loved open spaces,
+could not be found anywhere on the Temple grounds.  Her
+roommate, the nun Hwídah, chose to investigate.
+
+She finally found Yíwen knitting silently in one of the Temple's
+vacant rooms, a diligent spider toiling at center
+of an immense web of fine gray yarn.  Its hundreds of cords
+were being drawn from skeins scattered high and low around
+the room.  Yíwen appeared to be making a scarf from all of
+them at once.
+
+"Winter is six months away," said Hwídah.  "Explain."
+
+Yíwen strummed her hand gently across the cords.  "Each
+shade of gray maps to a distinct whole number, in order of
+value.  For zero I have chosen a color named 'The Blackness
+Before Time'. Thirty-one is 'Charcoal Smudge', sixty-three
+is 'Looming Thunderhead', and so on, lighter and lighter, to
+two-hundred-fifty-five: 'Celestial Cloud White'.
+
+"An impressive palette for such a modest seasonal
+accessory," said Hwídah.
+
+Yíwen held up the scarf in her lap.  "This is no mere
+garment.  The pattern represents the evolving states of an
+array of numbers as they are sorted.  Each row represents
+one step in the process, with its columns depicting the
+numbers themselves.  See: at this end the gray
+cords are in a salt-and-pepper jumble, but with each row
+they grow progressively more orderly as the algorithm tells
+me which cords to swap.  The final row's columns will run
+smoothly from black to white."
+
+"Yet I also see one thin glittering gold thread, and another
+like ruby" said Hwídah.
+
+Yíwen indicated a portion of the scarf with her fingernail.
+"If the current step compares two elements, I place
+knots of gold around the corresponding cords.  If it selects
+a pivot value, I embellish that cord with ruby.  Thus the scarf
+will have exactly as many rows as the sorting algorithm has
+operations, and the aesthetics of the algorithm will be
+revealed to the eye."
+
+"You are still seeking [[#132|beauty in code]]," said
+Hwídah.
+
+"A thousand pardons, Hwídah, but that is not my sole
+purpose," said Yíwen.  "Are you, I wonder, familiar with the
+novice monk recently brought onto my team?  His first task
+was to ensure that a result set was ordered for display.
+Yet he was ignorant of the built-in sorting utility,
+so he implemented his own."
+
+"A most unfortunate waste of time," said Hwídah.
+
+"Your words are surprising apropos," said Yíwen.  "For he chose
+<a href="http://en.wikipedia.org/wiki/Bubblesort">Bubblesort</a>,
+as we discovered in production when the application was given a
+very large result set and took several minutes to render the page."
+
+"You appear to be using Bubblesort as the basis for your
+pattern," said Hwídah, squinting at the finished rows.
+
+"Indeed!" said Yíwen.  "I have already completed a scarf using the built-in
+<a href="http://en.wikipedia.org/wiki/Timsort">Timsort</a> algorithm.
+It is about one-fourth of a meter wide by two meters long,
+and I will enjoy wearing it.  This Bubblesort scarf is a gift
+for the monk.  It will have the same width, but it will
+be somewhat more... ungainly."
+
+"It will be sixty-four meters long!" exclaimed Hwídah.
+
+"Now you understand why I must begin in June," said
+Yíwen.  "As you observed, winter is only six months away."
+
+"And what will happen if the monk refuses to wear your
+generous gift?" asked Hwidah.
+
+"The same as if he fails to correct his ignorance," said Yíwen.
+She rolled the scarf into a thin tube and yanked the ends
+to show its strength.  "Sixty-four meters makes for a
+clumsy scarf, but an excellent noose."
