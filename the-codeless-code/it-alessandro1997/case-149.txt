@@ -1,0 +1,39 @@
+Number: 149
+Title: Il primo dito
+Lang: it
+Translator: alessandro1997
+
+La monaca [[Satou]] trovò il maestro [[Kaimu]] e disse: "Dal sibillino maestro
+Bawan [[#148|ho imparato che]] il caching è un cannone di ferro: seducente al
+tatto, facile da caricare, difficile da puntare e mortale in seguito a una
+manovra sbagliata."
+
+Kaimu rispose: "Le nostre dieci dita sono la pietra focaia e l'acciaio, e la
+tastiera è la nostra miccia."
+
+La monaca continuò: "Dall'infelice maestro Banzen [[#121|ho imparato che]] certe
+armi dovrebbero essere usate solo con riluttanza: dopo un lungo studio, se
+possibile, oppure dopo un'ignominiosa sconfitta."
+
+Kaimu rispose: "Il soldato che ha perso due dita starà attento a dove mette le
+altre otto. È il suo compagno con una collezione completa di polpastrelli che
+perderà un arto per primo."
+
+La giovane monaca rabbrividì e disse: "Per questo ho paura del caching. E non
+avendo tempo per uno studio attento, voglio evitarlo insieme a tutti gli
+strumenti che lo usano. Come posso fare?"
+
+Kaimu rispose: "Non immagazzinare dati: non in un file, non in un database, non
+nella più transitoria delle variabili. Cos'è ogni dato se non un singolo eco
+congelato dell'Incessante Coro del Mondo Esterno? Quando incidiamo una nota nel
+ghiaccio, che prova abbiamo che venga ancora cantata oltre le nostre mura di
+silicio? Persino la più insignificante delle Impostazioni Utente dovrebbe essere
+ottenuta direttamente dall'Utente quando ce n'è bisogno, per essere certi che
+rispettiamo il suo volere."
+
+La monaca inarcò un sopracciglio. "Ho cercato l'aiuto di Kaimu perché volevo
+evitare errori. Perché il maestro si prende gioco di me?"
+
+Kaimu afferrò il suo pollice e disse: "Hai cercato l'aiuto di Kaimu perché
+volevi evitare di perdere un braccio. Ma fatti coraggio, soldato! Un dito su due
+è già perso."
