@@ -1,0 +1,55 @@
+Number: 150
+Title: Annullato
+Lang: it
+Translator: alessandro1997
+
+Un monaco chiese al maestro [[Kaimu]]: "Qual è il comportamento ideale di
+'Annulla'?"
+
+Kaimu rispose: "Annullare l'ultima azione significante dell'utente, quindi
+l'azione prima, e così via fino all'inizio dei tempi."
+
+Il monaco chiese: "E il ridimensionamento di una finestra?"
+
+Kaimu rispose: "Idealmente, sarebbe annullato."
+
+Il monaco chiese: "Il salvataggio di un file?"
+
+Kaimu rispose: "Anche quello annullato."
+
+Il monaco chiese: "L'invio di un'email?"
+
+Kaimu rispose: "Anche quello annullato."
+
+Il monaco rise e disse: "Assurdo! Come potrebbe chiunque implementare una
+funzionalità del genere?"
+
+Il maestro lanciò un'applicazione sul desktop. "Ecco un editor di mia ideazione,
+che implementa l'Annullamento Ideale."
+
+Il monaco inserì una linea di testo. Quindi cancellò una parola, ridimensionò la
+finestra, salvò il file, e lo inviò per email. Quando l'email comparve sul suo
+telefono, premette il bottone Annulla dell'editor quattro volte.
+
+Il monaco disse: "Nessun effetto."
+
+Kaimu rispose: <i>"Nullo.</i> Il tempo stesso è stato reimpostato così com'era
+esattamente prima che tu inserissi la linea di testo. A questo punto tu --
+non ricordando nulla dell'iterazione precedente -- hai di nuovo cancellato la
+parola, ridimensionato la finestra, salvato il file e inviato l'email."
+
+Il monaco additò trionfante il maestro. <i>"Nullo</i> al vostro /Nullo!/ Giacché
+in questa presunta seconda iterazione avrei poi premuto annulla quattro volte,
+proprio come ho fatto nelal prima iterazione... creando dunque un ciclo
+infinito!"
+
+Kaimu incrociò le braccia e con soddisfazione rispose: "Le azioni della seconda
+iterazione non erano significativi, perché erano destinate ad accadere come
+conseguenza della reimpostazione dell'orologio; dunque non sono candidate per
+l'Annullamento Ideale. Solo i tuoi quattro Annulla nella /prima/ iterazione --
+quelli che hanno /iniziato/ la seconda iterazione -- erano significativi."
+
+Il monaco chiese: "Dunque cos'è accaduto a quei quattro Annulla?"
+
+Kaimu rispose: "Grazie ai quattro Annulla nella /seconda/ iterazione... anche
+quelli sono stati annullati."
