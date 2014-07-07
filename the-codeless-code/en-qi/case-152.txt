@@ -1,0 +1,149 @@
+Number: 152
+Date: 2014-07-06
+Title: What Lies Beneath
+Geekiness: 3
+Names: Yíwen, Hwídah, Banzen, Satou, Djishin, Spider Clan, Clan of the Wolf's Bitter Breath, Elephant's Footprint Clan
+Topics: Java, JDBC, databases, autoboxing, APIs
+
+Though previously inseparable, the roommates [[Yíwen]] and
+[[Hwídah]] now only crossed paths occasionally, for Yíwen's
+spare hours were occupied with the making of a
+[[#151|peculiar scarf]].  So the restless Hwídah had taken
+to exploring those few parts of the Temple grounds still unknown
+to her.
+
+Her wanderings led her to the halls of the abbey where
+dwelled the [[Clan of the Wolf's Bitter Breath]], the
+black-robed monks who performed all Temple's integration
+testing.  Developers were forbidden to trespass in this
+place, though Hwídah had never been told why, and like all
+mysteries this one gnawed at her.  She lurked in the shadows
+outside doorways and below cubicle partitions, hoping to
+learn some shocking Temple secret, but all she ever
+overheard from the black-robed monks within were loud jests
+at the expense of those developers whose code was defective.
+Most of these developers were of the [[Spider Clan]],
+Hwídah's own.
+
+"It is most infuriating," she heard one Bitter Breath monk
+complaining.  "I have selected an Order Status of 'Unknown',
+submitted the form, and all appears well.  Yet when I return
+to the form there is a validation error complaining of
+an illegal Order Status.  And the developer swears that he
+has made no changes to this page!"
+
+"Thus is it always with the Spiders," sighed another voice.
+"If anything comes too near, they wrap it in eight
+layers of Javascript, cripple its responsiveness,
+suck out its usefulness, and declare that the
+twitching corpse is a job well done."
+
+Their laughter followed Hwídah as she crept towards the
+abbey door.  /This, I shall surely investigate,/ she thought, her
+fists clenched.
+
+- - -
+
+Later that day Hwídah approached Java master [[Banzen]],
+with the fire of righteous indignation in her eyes and a
+printout in her hands.
+
+"This defect was created by a monk of the
+[[Elephant's Footprint Clan]], not ours.  He rewrote the
+method which turns each database row into an object, and his
+new code contains this..."  Here she stabbed her finger at a
+line which read:
+
+<pre>
+    order.setStatusCode(rs.getInt(STATUS_CODE));
+</pre>
+
+"Ah," said Banzen.  "I have seen such errors many times
+before.  The /statusCode/ property is Integer-valued to allow
+it to hold a null.  But in the JDBC API, /getInt/ returns the
+primitive /int/ type and silently coerces a database NULL to a
+zero.  This zero is silently autoboxed by
+/setStatusCode/ and returned by /getStatusCode/
+when the form is populated.
+And since there is no Order Status of zero,
+a valid database row will appear to be invalid."
+
+"What correction for the monk of Elephant's Footprint?"
+asked Hwídah.
+
+"Nothing lethal," said Banzen.  "My usual punishment
+involves a boat which I keep in the south gorge for just
+such an occasion.  The monk will emerge bruised and damp,
+and in the future he will examine his oars and his
+APIs a little more critically before using them."
+
+Hwídah's face turned scarlet.  "But what of the honor of
+Spider Clan?  The monks of the Wolf's Bitter Breath
+mock us openly in their abbey because of this!"  Then she froze,
+realizing that she had accidentally revealed her trespass
+onto forbidden ground.  But Banzen only sighed.
+
+"The true fault lies with the authors of the venerable JDBC
+API, and with every maintainer since," said the master.
+"They gave the monk a well-used rowboat, with sturdy oars
+already mounted in the oarlocks.  Shall we doom him merely
+for not noticing that the left oar was too short?  No... the
+dunking he receives when the boat spins in the rapids will
+suffice."
+
+Hwídah bit her lip, bowed respectfully, and turned to leave.
+
+"Little nun," said Banzen, raising his index finger to stop
+her.  "The defect is not mine, and I cannot prevent the
+errors it engenders.  Thus I use both defect and error to serve
+a greater purpose."
+
+- - -
+
+At the evening meal Yíwen was not to be found, but
+Hwídah spied Banzen's two young apprentices,
+[[Djishin]] and [[Satou]], sitting together.  The pair
+agreed to hear her story and her complaints against their master.
+
+"Banzen seems determined to suffer this same error being
+made until the end of time!" concluded Hwídah in
+exasperation.  "We should give the Elephant's Footprint
+a better boat!"
+
+"Indeed!" said Satou. "When I learned of this error, I
+begged the master to switch to a popular ORM framework.  Yet
+refactoring has its costs, and every tool has its perils,
+so the low-level code remains."
+
+"Then we should provide a left oar of our own!" said Hwídah.
+
+"Indeed!" said Djishin. "When I learned of this error, I
+authored a suitable /getInteger/ utility method.  Yet
+developers will only seek out what they think they need, and
+what they know to look for, so the utility goes unused."
+
+Hwídah sank in despair.  "So the monk of Elephant's
+Footprint is barely corrected, and the monk of the Wolf's
+Bitter Breath is not corrected at all.  At least miserable
+Hwídah has been corrected, for now I understand why it is
+forbidden to enter the Wolf's Den, and that is to maintain
+harmony between our clans.  An insult can only become a
+grievance if it is overheard."
+
+Djishin and Satou exchanged glances.
+
+Djishin said, "You perceive only the shafts of the oars,
+but your course has already been determined by what lies
+beneath the surface."
+
+Satou continued, "Our master knows you violated the edict.
+This much he has told us freely."
+
+Djishin smiled.  "But the edict is not our master's, and he
+cannot prevent it from being violated by the irrepressibly
+curious.  Thus he uses both the edict and its violations for
+a greater purpose."
+
+Satou put a companionable arm around Hwídah.  "Enjoy your
+meal, sister of the Spider Clan!  For I fear
+that Hwídah's correction is just beginning."

@@ -5,7 +5,7 @@ Geekiness: 2
 Names: Yíwen, Hwídah
 Topics: sorting, efficiency, reuse, art
 Credits: Inspired in part by the <a href="http://sortvis.org">excellent "weave" sorting visualizations</a> done by <a href="http://corte.si/">Aldo Cortesi</a>.
-Illus.0.src: yarn.jpg
+Illus.0.src: hanging.jpg
 Illus.0.title: Appropriately, this turned out to be one of my longer yarns.
 
 Summer's first week had arrived with pleasant warm winds, so
@@ -14,7 +14,7 @@ outdoors.  But Yíwen the Artist, who loved open spaces,
 could not be found anywhere on the Temple grounds.  Her
 roommate, the nun Hwídah, chose to investigate.
 
-She finally found Yíwen knitting silently in one of the Temple's
+She finally found Yíwen weaving silently in one of the Temple's
 vacant rooms, a diligent spider toiling at center
 of an immense web of fine gray yarn.  Its hundreds of cords
 were being drawn from skeins scattered high and low around
