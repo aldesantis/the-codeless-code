@@ -1,0 +1,94 @@
+Date: 2014-07-13
+Number: 153
+Title: The Red Circle
+Geekiness: 0
+Names: Suku
+Topics: schedules, management, planning, yes-men
+Credits: Many thanks to Jay Carr for the idea!
+
+
+Master [[Suku]] and her three novices had come to a temple
+where sixty red-eyed monks were toiling frantically at all
+hours of the day and night.
+
+"How came you to this state?" Suku asked a weary monk.
+
+The monk replied, "Time and again, the head abbot promises
+many things to the provincial governor.
+   <i>Very well,</i> we say,
+   <i>though we shall need more developers,</i>
+   and the abbot agrees.
+Yet always we find ourselves with one month remaining where two are needed.
+We fear for our sanity."
+
+"I shall speak to the abbot," said Suku.
+
+- - -
+
+The head abbot's study was half-buried under schedules,
+timesheets, and status reports scribbled over in red
+ink.  The abbot was pacing nervously back and forth.
+
+"How came you to this state?" Suku asked the head abbot.
+
+The abbot replied, "Time and again, my monks tell me they
+need more developers to meet the provincial governor's deadlines.
+   <i>Very well,</i> I say,
+   <i>I shall beg the governor to advance me the funds needed,</i>
+   and the governor agrees.
+Yet always we deliver one feature where two were agreed upon.
+I fear for my head."
+
+"I shall speak to the provincial governor," said Suku.
+
+- - -
+
+The governor and her treasurer were discussing the
+treasurer's complaints about the province's accounts being
+in the red.  Since the treasurer's head had just been
+separated from his body, the conversation was slightly
+one-sided.
+
+"How came you to this state?" Suku asked the treasurer's head.
+
+The governor replied, "Time and again, the temple abbot
+holds my software hostage unless I give him more money.
+   <i>Very well,</i> I say,
+   <i>but for double the coins I desire double the work,</i>
+   and the abbot agrees.
+Yet always I find twice as many deficiencies as in the release before.
+I fear the monks are insufficiently motivated, and their abbot takes me
+for a wealthy fool."
+
+"I shall speak to my novices," said Suku.
+
+- - -
+
+The novices were waiting outside the temple when
+their master returned, her cheeks flushed red with frustration.
+
+"How came you to this state?" the novices asked Suku.
+
+Their master replied, "Time and again, it is the same story.
+If we do not intervene,
+next year there will be double the monks here,
+then double that again,
+and still the provincial governor will be unsatisfied.
+I fear the abbot's eagerness to placate her
+has had quite the opposite effect."
+
+"What now?" asked the novices.
+
+"You shall speak to the abbot," said Suku.
+"Tell him Suku has devised a solution to his problem and presented
+it to the governor, who was delighted with its simplicity and frugality.
+If he wishes to set it in motion,
+send him to the governor to speak his most treasured words,
+<i>I agree."</i>
+
+"What then?" asked the novices.
+
+"Bring back his cowardly head in this basket," said Suku.
+"For if it is to roll, the sooner the better for everyone else."
+
+

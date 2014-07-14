@@ -4,6 +4,7 @@ Title: What Lies Beneath
 Geekiness: 3
 Names: Yíwen, Hwídah, Banzen, Satou, Djishin, Spider Clan, Clan of the Wolf's Bitter Breath, Elephant's Footprint Clan
 Topics: Java, JDBC, databases, autoboxing, APIs
+Illus.0.src: eavesdropping.jpg
 
 Though previously inseparable, the roommates [[Yíwen]] and
 [[Hwídah]] now only crossed paths occasionally, for Yíwen's
@@ -103,7 +104,7 @@ a greater purpose."
 At the evening meal Yíwen was not to be found, but
 Hwídah spied Banzen's two young apprentices,
 [[Djishin]] and [[Satou]], sitting together.  The pair
-agreed to hear her story and her complaints against their master.
+agreed to hear her complaints against their master.
 
 "Banzen seems determined to suffer this same error being
 made until the end of time!" concluded Hwídah in
