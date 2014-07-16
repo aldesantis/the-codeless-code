@@ -5,7 +5,8 @@ Geekiness: 0
 Names: Suku
 Topics: schedules, management, planning, yes-men
 Credits: Many thanks to Jay Carr for the idea!
-
+Illus.0.src: headestal.jpg
+Illus.0.title: How to get a head in business without really trying
 
 Master [[Suku]] and her three novices had come to a temple
 where sixty red-eyed monks were toiling frantically at all
