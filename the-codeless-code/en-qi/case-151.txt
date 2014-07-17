@@ -4,7 +4,7 @@ Title: The Summer Scarf
 Geekiness: 2
 Names: Yíwen, Hwídah
 Topics: sorting, efficiency, reuse, art
-Credits: Inspired in part by the <a href="http://sortvis.org">excellent "weave" sorting visualizations</a> done by <a href="http://corte.si/">Aldo Cortesi</a>.
+Credits: Inspired in part by the <a href="http://sortvis.org">excellent "weave" sorting visualizations</a> done by <a href="http://corte.si/">Aldo Cortesi</a>.<br />And thanks to Sweet Tea Dorminy for pointing out the typo!
 Illus.0.src: hanging.jpg
 Illus.0.title: Appropriately, this turned out to be one of my longer yarns.
 
@@ -66,7 +66,7 @@ so he implemented his own."
 
 "A most unfortunate waste of time," said Hwídah.
 
-"Your words are surprising apropos," said Yíwen.  "For he chose
+"Your words are surprisingly apropos," said Yíwen.  "For he chose
 <a href="http://en.wikipedia.org/wiki/Bubblesort">Bubblesort</a>,
 as we discovered in production when the application was given a
 very large result set and took several minutes to render the page."
