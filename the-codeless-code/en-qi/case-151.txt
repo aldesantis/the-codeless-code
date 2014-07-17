@@ -4,7 +4,7 @@ Title: The Summer Scarf
 Geekiness: 2
 Names: Yíwen, Hwídah
 Topics: sorting, efficiency, reuse, art
-Credits: Inspired in part by the <a href="http://sortvis.org">excellent "weave" sorting visualizations</a> done by <a href="http://corte.si/">Aldo Cortesi</a>.<br />And thanks to Sweet Tea Dorminy for pointing out the typo!
+Credits: Inspired in part by the <a href="http://sortvis.org">excellent "weave" sorting visualizations</a> done by <a href="http://corte.si/">Aldo Cortesi</a>.  And thanks to Sweet Tea Dorminy for pointing out the typo!
 Illus.0.src: hanging.jpg
 Illus.0.title: Appropriately, this turned out to be one of my longer yarns.
 
