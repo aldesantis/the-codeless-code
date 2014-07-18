@@ -81,8 +81,8 @@ APIs a little more critically before using them."
 Hwídah's face turned scarlet.  "But what of the honor of
 Spider Clan?  The monks of the Wolf's Bitter Breath
 mock us openly in their abbey because of this!"  Then she froze,
-realizing that she had accidentally revealed her trespass
-onto forbidden ground.  But Banzen only sighed.
+realizing that she had revealed her trespass
+onto forbidden ground, but Banzen only sighed.
 
 "The true fault lies with the authors of the venerable JDBC
 API, and with every maintainer since," said the master.
@@ -133,18 +133,16 @@ grievance if it is overheard."
 
 Djishin and Satou exchanged glances.
 
-Djishin said, "You perceive only the shafts of the oars,
-but your course has already been determined by what lies
-beneath the surface."
+Djishin said, "You perceive the shafts of the oars
+above the water, but your true course has been determined
+by what lies beneath."
 
-Satou continued, "Our master knows you violated the edict.
-This much he has told us freely."
-
-Djishin smiled.  "But the edict is not our master's, and he
-cannot prevent it from being violated by the irrepressibly
+Satou continued, "Our master knows you violated the edict:
+this much he has told us freely.  But the edict is not his,
+and he cannot prevent it from being violated by the irrepressibly
 curious.  Thus he uses both the edict and its violations for
 a greater purpose."
 
-Satou put a companionable arm around Hwídah.  "Enjoy your
-meal, sister of the Spider Clan!  For I fear
-that Hwídah's correction is just beginning."
+Satou put a companionable arm around Hwídah.  "Enjoy
+your meal, sister of the Spider Clan!  For I fear that
+Hwídah's correction is just beginning..."
