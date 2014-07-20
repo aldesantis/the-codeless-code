@@ -1,0 +1,123 @@
+Number: 152
+Title: Ciò che sta sotto
+Lang: it
+Translator: alessandro1997
+
+Una volta inseparabili, le compagne di stanza [[Yíwen]] e [[Hwídah]] ora si
+incrociavano solo occasionalmente, giacché le ore libere di Yíwen erano
+impegnate nella creazione di una [[#151|sciarpa particolare]]. Così
+l'instancabile Hwídah aveva iniziato a esplorare quelle poche parti del Tempio
+che ancora le erano sconosciute.
+
+I suoi vagabondaggi la portarono nei saloni di un'abazia dove risiedeva il
+[[Clan of the Wolf's Bitter Breath|Clan dell'Amaro Respiro del Lupo]], i
+monaci in nero che eseguivano tutti i test d'integrazione del Tempio. Agli
+sviluppatori era proibito avventurarsi in questo luogo, ma a Hwídah non era mai
+stato detto perché e questo, come tutti i misteri, la consumava. Sgattaiolò
+nell'ombra fuori dall'entrata e sotto i divisori dei cubicoli, sperando di
+apprendere qualche scioccante segreto del Tempio, ma tutto ciò che fu in grado
+di origliare dai monaci in nero all'interno erano rumorosi scherzi ai danni dei
+poveri sviluppatori il cui codice era difettoso. La maggior parte di questi
+sviluppatori erano del [[Spider Clan|Clan del Ragno]], quello di Hwídah.
+
+"È piuttosto irritante" sentì lamentarsi uno dei monaci dell'Amaro Respiro. "Ho
+selezionato 'Sconosciuto' come Stato Ordine, inviato il modulo, e tutto appare
+correttamente. Eppure quando torno al modulo c'è un errore di validazione
+riguardante lo Stato Ordine. E lo sviluppatore giura di non aver apportato
+cambiamenti a questa pagina!"
+
+"È sempre così con i Ragni" sospirò un'altra voce. "Se qualunque cosa si
+avvicina troppo, lo avvolgono in otto livelli di JavaScript, rompono la sua
+responsività, succhiano via la sua utilità, e dichiarano che quel cadavere
+disastrato è un lavoro ben fatto."
+
+La loro risata seguì Hwídah mentre strisciava verso la porta dell'abazia.
+/Su questo devo assolutamente indagare/ pensò, con i pugni stretti.
+
+- - -
+
+Più tardi quel giorno Hwídah si avvicinò al maestro Java [[Banzen]], con il
+fuoco della giusta indignazione negli occhi e un listato in mano.
+
+"Questo difetto è stato creato da un monaco del
+[[Clan dell'Orma di Elefante|Elephant's Footprint Clan]], non il nostro. Ha
+riscritto il metodo che trasforma ciascuna riga del database in un oggetto, e il
+suo nuovo codice conteneva questo..." E puntò il dito contro una linea di codice
+che leggeva:
+
+<pre>
+    order.setStatusCode(rs.getInt(STATUS_CODE));
+</pre>
+
+"Ah" disse Banzen. "Ho già visto certi errori molte volte. La proprietà
+/statusCode/ è valorizzata con un oggetto Integer per permetterle di contenere
+un valore nullo. Ma nell'API JDBC, /getInt/ restituisce il tipo primitivo /int/
+e trasforma silenziosamente un NULL nel database in uno zero. Questo zero è
+silenziosamente incapsulato da /setStatusCode/ e restituito da /getStatusCode/
+quando il modulo viene popolato. E poiché non c'è uno Stato Ordine con valore
+zero, una riga valida del database sembrerà invalida."
+
+"E quale correzione sarà applicata al monaco dell'Orma di Elefante?" chiese
+Hwídah.
+
+"Niente di letale" disse Banzen. "La mia solita punizione coinvolge una barca
+che tengo nella gola sud proprio per queste occasioni. Il monaco emergerà
+contuso e bagnato, e nel futuro esaminerà i propri remi e le proprie API in
+modo un po' più critico prima di usarle."
+
+La faccia di Hwídah divenne scarlatta. "E che mi dite dell'onore del Clan del
+Ragno? I monaci dell'Amaro Respiro del Lupo ci prendono in giro apertamente
+nella loro abazia per questo!" Quindi si fermò, realizzando che aveva rivelato
+la propria intrusione in terra proibita, ma Banzen si limitò a sospirare.
+
+"Il vero sbaglio è stato degli autori della venerabile API JDBC, e di ogni
+manutentore da allora in poi" disse il maestro. "Hanno dato al monaco una
+barca a remi ben collaudata, con remi solidi e già montati negli scalmi.
+Dovremmo forse maledirlo per non essersi accorto che il remo sinistro era troppo
+corto? No... l'immersione che riceverà quando la barca si girerà nelle rapide
+sarà sufficiente."
+
+Hwídah si morse il labro, si inchinò rispettosamente e si girò per andarsene.
+
+"Piccola monaca" disse Banzen, alzando il suo dito indice per fermarla. "Il
+difetto non è mio, e io non posso prevenire l'errore che genera. Dunque uso sia
+il difetto che l'errore per servire uno scopo più grande."
+
+- - -
+
+Al pasto serale Yíwen non si trovava da nessuna parte, ma Hwídah spiò i due
+giovani apprendisti di Banzen, [[Djishin]] e [[Satou]], che sedevano insieme.
+La coppia acconsentì a sentire le lamentele contro il loro maestro.
+
+"Banzen sembra determinato a sopportare che lo stesso errore venga fatto fino
+alla fine dei tempi!" concluse Hwídah, disperata. "Dovremmo dare all'Orma di
+Elefante una barca migliore!"
+
+"Ovviamente!" disse Satou. "Quando ho appreso di questo errore, ho pregato il
+maestro di passare a un framework ORM famoso. Eppure la rifattorizzazione ha i
+suoi costi, e ogni strumento i suoi pericoli, così il codice di basso livello
+rimane."
+
+"Allora dovremmo fornire un nostro remo sinistro!" disse Hwídah.
+
+"Ovviamente!" disse Djishin. "Quando ho appreso di questo errore, ho scritto un
+metodo di utilità /getInteger/ adatto. Eppure gli sviluppatori cercano solo
+ciò di cui pensano di aver bisogno, e quello che sanno di dover cercare, così
+l'utilità rimane inutilizzata."
+
+Hwídah sprofondò nella disperazione. "Così il monaco dell'Orma di Elefante è a
+malapena corretto, e il monaco dell'Amaro Respiro del Lupo non è corretto
+affatto. Almeno la miserabile Hwídah è stata corretta, giacché ora capisco
+perché è proibito entrare nella Tana del Lupo, e cioè per mantenere l'armonia
+tra i nostri clan. Un insulto può diventare una lamentela solo se viene udito."
+
+Djishin disse: "Percepisci il movimento dei remi sull'acqua, ma la tua vera
+direzione è stata determinata da ciò che sta sotto."
+
+Satou continuò: "Il nostro maestro sa che hai violato l'editto: questo ci ha
+detto liberamente. Ma l'editto non è suo, e dunque non può evitare che venga
+violato dai curiosi irreprimibili. Dunque usa sia l'editto che le sue violazioni
+per uno scopo più grande."
+
+Satou mise un braccio amichevole intorno a Hwídah. "Goditi il tuo pasto, sorella
+del Clan del Ragno! Temo che la correzione di Hwídah sia solo all'inizio..."
