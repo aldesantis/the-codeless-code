@@ -1,0 +1,87 @@
+Number: 153
+Title: Il cerchio rosso
+Credits: Molte grazie a Jay Carr per l'idea!
+Lang: it
+Translator: alessandro1997
+
+La maestra [[Suku]] e i suoi tre novizi erano arrivati al tempio dove sessanta
+monaci dagli occhi rossi lavoravano freneticamente a ogni ora del giorno e della
+notte.
+
+"Come vi siete ridotti in questo stato?" Suku chiese a un monaco stanco.
+
+Il monaco rispose: "Di tanto in tanto, l'abate capo promette molte cose alla
+governatrice provinciale.
+    <i>Molto bene</i> diciamo,
+    <i>ma abbiamo bisogno di più sviluppatori,</i>
+    e l'abate acconsente.
+Eppure ci troviamo sempre a un mese dalla scadenza quando ce ne servono due.
+Temiamo per la nostra salute."
+
+"Dovrò parlare all'abate" disse Suku.
+
+- - -
+
+Lo studio dell'abate capo era mezzo sepolto sotto programmi, tabelle salariali
+e report di stato scribacchiate in inchiostro rosso. L'abate stava passeggiando
+nervosamente avanti e indietro.
+
+"Come vi siete ridotti in questo stato?" Suku chiese all'abate capo.
+
+L'abate rispose: "Di tanto in tanto, i miei monaci mi dicono che hanno bisogno
+di più sviluppatori per rispettare le scadenze della governatrice provinciale.
+    <i>Molto bene</i> dico,
+    <i>pregherò la governatrice di fornirci i fondi necessari,</i>
+    e la governatrice acconsente.
+Eppure consegniamo sempre una funzionalità quando due erano state richieste.
+Temo per la mia testa."
+
+"Dovrò parlare con la governatrice provinciale" disse Suku.
+
+- - -
+
+La governatrice e il suo tesoriere stavano discutendo le lamentele del
+tesoriere, avanzate perché i conti della provincia erano in rosso. Poiché la
+testa del tesoriere era stata appena separata dal suo corpo, la conversazione
+era leggermente di parte.
+
+"Come vi siete ridotti in questo stato?" chiese Suku alla testa del tesoriere.
+
+La governatrice rispose: "Di tanto in tanto, l'abate del tempio tiene il mio
+software in ostaggio finché non gli do più soldi.
+    <i>Molto bene</i> dico,
+    <i>ma per il doppio dei soldi voglio il doppio del lavoro,</i>
+    eppure l'abate acconsente.
+Eppure trovo sempre il doppio delle carenze rispetto al rilascio precedente.
+Temo che i monaci non siano abbastanza motivati, e il loro abate mi prenda per
+una ricca stolta."
+
+"Dovrò parlare con i miei novizi" disse Suku.
+
+- - -
+
+I novizi stavano aspettando fuori dal tempio quando la loro maestra tornò, le
+sue guance rosse per la frustrazione.
+
+"Come vi siete ridotta in questo stato?" chiesero i novizi a Suku.
+
+La loro maestra rispose: "Di tanto in tanto, è la stessa storia.
+Se non interveniamo,
+l'anno prossimo ci sarà il doppio dei monaci qui,
+poi il doppio ancora,
+e ancora la governatrice provinciale sarà insoddisfatta.
+Temo che la voglia dell'abate di placarla
+abbia avuto piuttosto l'effetto contrario."
+
+"Cosa facciamo ora?" chiesero i novizi.
+
+"Voi parlerete con l'abate" disse Suku.
+"Ditegli che Suku ha architettato una soluzione al suo problema e l'ha
+presentata alla governatrice, che era deliziato dalla sua semplicità e
+frugalità. Se vuole metterla in azione, mandatelo dalla governatrice a dire le
+sue parole più amate, <i>Acconsento."</i>
+
+"E poi?" chiesero i novizi.
+
+"Portate indietro la sua testa codarda in un cesto" disse Suku. "Giacché se
+deve rotolare, prima accadrà, meglio sarà per tutti."
