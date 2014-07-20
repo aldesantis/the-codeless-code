@@ -9,7 +9,7 @@ impegnate nella creazione di una [[#151|sciarpa particolare]]. Così
 l'instancabile Hwídah aveva iniziato a esplorare quelle poche parti del Tempio
 che ancora le erano sconosciute.
 
-I suoi vagabondaggi la portarono nei saloni di un'abazia dove risiedeva il
+I suoi vagabondaggi la portarono nei saloni di un'abbazia dove risiedeva il
 [[Clan of the Wolf's Bitter Breath|Clan dell'Amaro Respiro del Lupo]], i
 monaci in nero che eseguivano tutti i test d'integrazione del Tempio. Agli
 sviluppatori era proibito avventurarsi in questo luogo, ma a Hwídah non era mai
@@ -26,18 +26,18 @@ correttamente. Eppure quando torno al modulo c'è un errore di validazione
 riguardante lo Stato Ordine. E lo sviluppatore giura di non aver apportato
 cambiamenti a questa pagina!"
 
-"È sempre così con i Ragni" sospirò un'altra voce. "Se qualunque cosa si
-avvicina troppo, lo avvolgono in otto livelli di JavaScript, rompono la sua
-responsività, succhiano via la sua utilità, e dichiarano che quel cadavere
-disastrato è un lavoro ben fatto."
+"È sempre così con i Ragni" sospirò un'altra voce. "Se qualcosa gli si avvicina
+troppo, lo avvolgono in otto livelli di JavaScript, rompono la sua responsività,
+succhiano via la sua utilità, e dichiarano che quel cadavere disastrato è un
+lavoro ben fatto."
 
-La loro risata seguì Hwídah mentre strisciava verso la porta dell'abazia.
+La loro risata seguì Hwídah mentre strisciava verso la porta dell'abbazia.
 /Su questo devo assolutamente indagare/ pensò, con i pugni stretti.
 
 - - -
 
 Più tardi quel giorno Hwídah si avvicinò al maestro Java [[Banzen]], con il
-fuoco della giusta indignazione negli occhi e un listato in mano.
+fuoco della giusta indignazione negli occhi e un listato nella mano.
 
 "Questo difetto è stato creato da un monaco del
 [[Clan dell'Orma di Elefante|Elephant's Footprint Clan]], non il nostro. Ha
@@ -62,26 +62,26 @@ Hwídah.
 
 "Niente di letale" disse Banzen. "La mia solita punizione coinvolge una barca
 che tengo nella gola sud proprio per queste occasioni. Il monaco emergerà
-contuso e bagnato, e nel futuro esaminerà i propri remi e le proprie API in
-modo un po' più critico prima di usarle."
+contuso e bagnato, e nel futuro esaminerà i propri remi e le proprie API con un
+pizzico in più di spirito critico prima di usarle."
 
 La faccia di Hwídah divenne scarlatta. "E che mi dite dell'onore del Clan del
 Ragno? I monaci dell'Amaro Respiro del Lupo ci prendono in giro apertamente
-nella loro abazia per questo!" Quindi si fermò, realizzando che aveva rivelato
+nella loro abbazia per questo!" Quindi si fermò, realizzando che aveva rivelato
 la propria intrusione in terra proibita, ma Banzen si limitò a sospirare.
 
 "Il vero sbaglio è stato degli autori della venerabile API JDBC, e di ogni
 manutentore da allora in poi" disse il maestro. "Hanno dato al monaco una
 barca a remi ben collaudata, con remi solidi e già montati negli scalmi.
 Dovremmo forse maledirlo per non essersi accorto che il remo sinistro era troppo
-corto? No... l'immersione che riceverà quando la barca si girerà nelle rapide
-sarà sufficiente."
+corto? No... l'immersione a cui sarà sottoposto quando la barca si rigirerà
+nelle rapide sarà sufficiente."
 
 Hwídah si morse il labro, si inchinò rispettosamente e si girò per andarsene.
 
-"Piccola monaca" disse Banzen, alzando il suo dito indice per fermarla. "Il
-difetto non è mio, e io non posso prevenire l'errore che genera. Dunque uso sia
-il difetto che l'errore per servire uno scopo più grande."
+"Piccola monaca" disse Banzen, alzando il dito indice per fermarla. "Il difetto
+non è mio, e io non posso prevenire l'errore che genera. Dunque uso sia il
+difetto che l'errore per servire uno scopo più grande."
 
 - - -
 
@@ -108,8 +108,8 @@ l'utilità rimane inutilizzata."
 Hwídah sprofondò nella disperazione. "Così il monaco dell'Orma di Elefante è a
 malapena corretto, e il monaco dell'Amaro Respiro del Lupo non è corretto
 affatto. Almeno la miserabile Hwídah è stata corretta, giacché ora capisco
-perché è proibito entrare nella Tana del Lupo, e cioè per mantenere l'armonia
-tra i nostri clan. Un insulto può diventare una lamentela solo se viene udito."
+perché è proibito entrare nella Tana del Lupo, ossia per mantenere l'armonia tra
+i nostri clan. Un insulto può trasformarsi in lamentela solo se viene udito."
 
 Djishin disse: "Percepisci il movimento dei remi sull'acqua, ma la tua vera
 direzione è stata determinata da ciò che sta sotto."
@@ -119,5 +119,6 @@ detto liberamente. Ma l'editto non è suo, e dunque non può evitare che venga
 violato dai curiosi irreprimibili. Dunque usa sia l'editto che le sue violazioni
 per uno scopo più grande."
 
-Satou mise un braccio amichevole intorno a Hwídah. "Goditi il tuo pasto, sorella
-del Clan del Ragno! Temo che la correzione di Hwídah sia solo all'inizio..."
+Satou passò un braccio amichevole intorno a Hwídah. "Goditi il tuo pasto,
+sorella del Clan del Ragno! Temo che la correzione di Hwídah sia solo
+all'inizio..."

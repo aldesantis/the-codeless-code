@@ -10,11 +10,11 @@ tiepido, quindi ora la maggior parte del Tempio mangiava e meditava fuori. Ma
 Yíwen l'Artista, che amava gli spazi aperti, non si trovava da nessuna parte
 nel Tempio. La sua compagna di stanza, la monaca Hwídah, decise di indagare.
 
-Finalmente trovò Yíwen che tesseva silenziosamente in una delle stanze vacanti
+Finalmente trovò Yíwen che lavorava silenziosamente in una delle stanze vacanti
 del Tempio, un ragno diligente che tesseva al centro di un'immensa ragnatela di
-pregiato cotone grigio. Le sue centinaia di fili erano tirati a partire da
-matasse sparse in alto e in basso per tutta la stanza. Yíwen sembrava usarle
-tutte quante per fare una sola sciarpa.
+pregiato cotone grigio. Centinaia di fili erano tirati a partire da matasse
+sparse in alto e in basso per tutta la stanza. Yíwen sembrava voerle usare tutte
+quante per fare una sola sciarpa.
 
 "L'inverno arriverà tra sei mesi", disse Hwídah. "Spiegati."
 
@@ -31,7 +31,7 @@ Yíwen tenne alta la sciarpa in grembo. "Questo non è un semplice indumento. Il
 disegno rappresenta i vari stati di un array di numeri mentre vengono ordinati.
 Ogni riga rappresenta un passo del processo, con le colonne che rappresentano i
 numeri stessi. Guarda: a questa estremità i fili grigi sono una baraonda di
-punti sale-e-pepe, ma a ogni riga diventano sempre più ordinati man mano che
+punti sale e pepe, ma a ogni riga diventano sempre più ordinati man mano che
 l'algoritmo mi dice quali fili scambiare. Le colonne dell'ultima riga andranno
 perfettamente dal nero al bianco."
 
@@ -51,7 +51,7 @@ rivelata all'occhio."
 "Mille scuse, Hwídah, ma quello non è il mio solo scopo" disse Yíwen. "Mi chiedo
 se tu sia famigliare con il monaco novizio che è recentemente entrato nel mio
 team? Il suo primo compito è stato assicurarsi che un insieme di risultati
-fossero ordinati per la visualizzazione. Eppure non conosceva l'utilità di
+fosse ordinato per la visualizzazione. Eppure non conosceva l'utilità di
 ordinamento incorporato, così ha implementato la sua."
 
 "Un triste spreco di tempo" disse Hwídah.
@@ -61,7 +61,7 @@ il <a href="http://en.wikipedia.org/wiki/Bubblesort">Bubblesort</a>, e abbiamo
 scoperto in produzione che, quando le venivano forniti molti risultati,
 l'applicazione impiegava diversi minuti per visualizzare la pagina."
 
-"Sembri usare il Bubblesort come base per il tuo disegno", disse Hwídah,
+"Tu sembri usare il Bubblesort come base per il tuo disegno", disse Hwídah,
 strizzando gli occhi per vedere meglio le righe.
 
 "Certamente!" disse Yíwen. "Ho già completato una sciarpa usando l'algoritmo
@@ -72,8 +72,8 @@ molto più... sgraziata."
 
 "Sarà lunga sessantaquattro metri!" escamò Hwídah.
 
-"Ora capisci perché debba cominciare a giugno", disse Yíwen. "Come hai
-osservato, l'inverno arriverà tra soli sei mesi."
+"Ora capisci perché devo cominciare a giugno", disse Yíwen. "Come hai osservato,
+l'inverno arriverà tra soli sei mesi."
 
 "E cosa accadrà se il monaco rifiuta di indossare il tuo generoso regalo?"
 chiese Hwídah.
