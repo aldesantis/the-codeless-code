@@ -1,0 +1,84 @@
+Number: 151
+Title: The Summer Scarf
+Credits: Ispirato in parte alle eccellenti visualizzazoni di ordinamento "a intreccio" fatte da <a href="http://corte.si">Aldo Cortesi</a>. E grazie a Sweet Tea Dorminy per aver segnalato il refuso!
+Illus.0.title: Appropriatamente, questa è finita per diventare una delle mie storie più lunghe.
+Lang: it
+Translator: alessandro1997
+
+La prima settimana d'estate era arrivata portando con sé un piacevole vento
+tiepido, quindi ora la maggior parte del Tempio mangiava e meditava fuori. Ma
+Yíwen l'Artista, che amava gli spazi aperti, non si trovava da nessuna parte
+nel Tempio. La sua compagna di stanza, la monaca Hwídah, decise di indagare.
+
+Finalmente trovò Yíwen che tesseva silenziosamente in una delle stanze vacanti
+del Tempio, un ragno diligente che tesseva al centro di un'immensa ragnatela di
+pregiato cotone grigio. Le sue centinaia di fili erano tirati a partire da
+matasse sparse in alto e in basso per tutta la stanza. Yíwen sembrava usarle
+tutte quante per fare una sola sciarpa.
+
+"L'inverno arriverà tra sei mesi", disse Hwídah. "Spiegati."
+
+Yíwen passò con dolcezza la mano sui fili. "Ciascuna sfumatura di grigio è
+collegata a un numero intero diverso, in ordine di valore. Per lo zero ho scelto
+un colore chiamato 'Il nero prima del tempo'. Trentuno è 'Chiazza di carbone',
+sessantatré è 'Tempesta incombente', e così via, più e più chiari, fino al
+duecentocinquantacinque: 'Bianco divino delle nuvole.'"
+
+"Una gamma impressionante per un accessorio stagionale così modesto" disse
+Hwídah.
+
+Yíwen tenne alta la sciarpa in grembo. "Questo non è un semplice indumento. Il
+disegno rappresenta i vari stati di un array di numeri mentre vengono ordinati.
+Ogni riga rappresenta un passo del processo, con le colonne che rappresentano i
+numeri stessi. Guarda: a questa estremità i fili grigi sono una baraonda di
+punti sale-e-pepe, ma a ogni riga diventano sempre più ordinati man mano che
+l'algoritmo mi dice quali fili scambiare. Le colonne dell'ultima riga andranno
+perfettamente dal nero al bianco."
+
+"Eppure vedo anche un filo dorato, fino e luccicante, e un altro rosso rubino"
+disse Hwídah.
+
+Yíwen indicò una porzione della sciarpa con l'unghia.
+
+"Se il passo attuale confronta due elementi, faccio dei nodi dorati intorno ai
+fili corrispondenti. Se seleziona un elemento pivotale, adorno quel filo con
+del rubino. In questo modo la sciarpa avrà esattamente tante righe quante
+operazioni ha l'algoritmo di ordinamento, e l'estetica dell'algoritmo sarà
+rivelata all'occhio."
+
+"Stai ancora cercando la [[#132|bellezza nel codice]]" disse Hwídah.
+
+"Mille scuse, Hwídah, ma quello non è il mio solo scopo" disse Yíwen. "Mi chiedo
+se tu sia famigliare con il monaco novizio che è recentemente entrato nel mio
+team? Il suo primo compito è stato assicurarsi che un insieme di risultati
+fossero ordinati per la visualizzazione. Eppure non conosceva l'utilità di
+ordinamento incorporato, così ha implementato la sua."
+
+"Un triste spreco di tempo" disse Hwídah.
+
+"Le tue parole sono sorprendentemente adatte" disse Yíwen. "Giacché ha scelto
+il <a href="http://en.wikipedia.org/wiki/Bubblesort">Bubblesort</a>, e abbiamo
+scoperto in produzione che, quando le venivano forniti molti risultati,
+l'applicazione impiegava diversi minuti per visualizzare la pagina."
+
+"Sembri usare il Bubblesort come base per il tuo disegno", disse Hwídah,
+strizzando gli occhi per vedere meglio le righe.
+
+"Certamente!" disse Yíwen. "Ho già completato una sciarpa usando l'algoritmo
+integrato <a href="http://en.wikipedia.org/wiki/Timsort">Timsort</a>. È larga
+più o meno un quarto di metro ed è lunga due, e ti piacerà indossarla. Questa
+sciarpa Bubblesort è un regalo per il monaco. Avrà la stessa larghezza, ma sarà
+molto più... sgraziata."
+
+"Sarà lunga sessantaquattro metri!" escamò Hwídah.
+
+"Ora capisci perché debba cominciare a giugno", disse Yíwen. "Come hai
+osservato, l'inverno arriverà tra soli sei mesi."
+
+"E cosa accadrà se il monaco rifiuta di indossare il tuo generoso regalo?"
+chiese Hwídah.
+
+"La stessa cosa che accadrà se dovesse fallire nel correggere la sua ignoranza"
+disse Yíwen. Arrotolò la sciarpa per formare uno stretto tubo e strattonò le
+estremità per mostrarne la forza. "Sessantaquattro metri fanno una goffa
+sciarpa, ma un eccellente cappio."
