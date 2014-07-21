@@ -1,0 +1,95 @@
+Number: 154
+Title: A Bridge To Nowhere
+Date: 2014-07-20
+Names: Kaimu, Zjing's Bridge
+Topics: engineering, software engineering, architecture, pride, planning, change, waterfall model, flexibility
+Geekiness: 1
+
+A bridge builder was completing his inspection
+of [[Zjing's Bridge]] when he spied master [[Kaimu]]
+standing nearby.
+
+The builder said to Kaimu: "I have heard your monks
+speak of themselves as 'software engineers.'  As a /true/
+engineer I find such talk absurd...
+
+"In my profession we analyze all aspects of our task
+before the first plank is cut.
+When our blueprints are done I can tell you exactly how much
+lumber we will need, how many nails and how much rope, how
+much weight the bridge will bear, and the very day it
+will be completed...
+
+"Your monks do no such things.  They churn out code before
+your customer has finished describing what is desired.  They
+improvise, reconsider, redesign, and rewrite a half-dozen times
+before delivery, and what they produce invariably crashes or
+proves vulnerable to attack.  If I were to work in such a
+fashion, no one would dare set foot upon this bridge!"
+
+Kaimu bowed and said: "There is much our monks could learn
+from you."
+
+The master then called out to three senior monks, to attend
+the example of the bridge builder, and to hear of the
+discipline of a true engineer.
+
+- - -
+
+After the builder had repeated his argument, the first monk
+asked: "When a bridge is half-finished and the client then
+commands it to be twice as wide and two miles downstream,
+how is this accomplished?"
+
+The builder said: "We simply do not allow such unreasonable changes."
+
+The second monk asked: "When you learn upon completion that
+your industry has moved from wood to stone and is now only
+training masons, how do you refashion the many structures in
+your care?"
+
+The builder said: "We simply do not perform such unnecessary maintenance."
+
+The third monk asked: "When the force of gravity suddenly
+changes direction, or the gods decree that wood shall become
+dust and rope shall weigh as much as lead, how do you
+keep travellers from plunging into the abyss?"
+
+The builder said: "We simply do not plan for such absurd possibilities."
+
+Kaimu thanked the bridge builder, gathered the monks, and
+crossed the bridge with them.
+
+- - -
+
+When they had reached the other side, Kaimu asked
+the first monk:  "What have you learned from the bridge-builder?"
+
+The first monk said: "The determination of a true engineer
+is an enviable thing.  But if we were to work in such an
+inflexible fashion, the Emperor would surely drown us
+in our own Waterfalls."
+
+Kaimu asked the second monk: "What have you learned from the bridge-builder?"
+
+The second monk said: "The frugality of a true engineer is
+an enviable thing.  But if we were to cling so hard to
+yesterday's technology, the Web would not exist for another
+thousand years."
+
+Kaimu asked the third monk: "What have you learned from the bridge-builder?"
+
+The third monk said: "The predictability of a true
+engineer's world is an enviable thing.  But ours is a world
+always in flux, where the laws of physics change weekly.  If
+we did not quickly adapt to the unforeseen, the only
+forseeable event would be our own destruction."
+
+The first monk asked: "Master... what has the bridge-builder
+learned from us?"
+
+Said Kaimu: "Nothing yet.  But when I touch a lit candle to
+the oil I sprinkled from my lantern during our crossing, he
+will learn the reason to plan for the absurd, the virtue of
+rebuilding in stone, and the wisdom of not insulting your
+customers."
