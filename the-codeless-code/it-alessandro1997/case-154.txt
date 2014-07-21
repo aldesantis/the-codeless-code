@@ -1,0 +1,88 @@
+Number: 154
+Title: Un ponte sul nulla
+Lang: it
+Translator: alessandro1997
+
+Un costruttore di ponti stava completando la sua ispezione del
+[[Zjing's Bridge|ponte di Zjing]] quando notò il maestro [[Kaimu]] lì vicino.
+
+Il costruttore disse a Kaimu: "Ho sentito che i vostri monaci si definiscono
+'ingegneri del software'. Come /vero/ ingegnere trovo che sia assurdo...
+
+"Nella mia professione analizziamo ogni aspetto del nostro compito prima che la
+prima tavola venga tagliata. Quando i nostri progetti sono completati posso
+dire esattamente di quanto legno avremo bisogno, di quanti chiodi e di quanta
+corda, quanto peso il ponte sarà in grado di sopportare, e il giorno esatto in
+cui sarà completato...
+
+"I vostri monaci non fanno niente di tutto questo. Iniziano a scribacchiare
+codice prima che il cliente abbia finito di descrivere ciò che gli serve.
+Improvvisano, riconsiderano, ridisegnano e riscrivono mezza dozina di volte
+prima della consegna, e quello che producono invariabilmente si rompe o si
+dimostra vulnerabile agli attacchi. Se dovessi lavorare in tal modo, nessuno si
+azzarderebbe a mettere piede su questo ponte!"
+
+Kaimu si inchinò e disse: "C'è molto che i nostri monaci potrebbero imparare da
+te."
+
+Il maestro quindi chiamò tre monaci anziani, per presenziare all'esempio del
+costruttore di ponti, e per sentire la disciplina di un vero ingegnere.
+
+- - -
+
+Dopo che il costruttore ebbe ripetuto la propria lamentela, il primo monaco
+chiese: "Quando un ponte è mezzo finito e il cliente ordina che sia largo il
+doppio e che si snodi per due miglia nella valle, come fate?"
+
+Il costruttore disse: "Semplicemente non permettiamo certi cambiamenti
+irragionevoli."
+
+Il secondo monaco chiese: "Quando imparate dopo il completamento che la vostra
+industria è passata dal legno alla pietra e ora addestra solo muratori, come
+rifate le molte strutture che gestite?"
+
+Il costruttore disse: "Semplicemente non eseguiamo certe manutenzioni inutili."
+
+Il terzo monaco chiese: "Quando la forza di gravità improvvisamente cambia
+direzione, o gli dei decretano che il legno deve diventare polvere e la corda
+deve pesare quanto il piombo, come fate in modo che i viandanti non precipitino
+negli abissi?"
+
+Il costruttore disse: "Semplicemente non pianifichiamo per certe possibilità
+assurde."
+
+Kaimu ringraziò il costruttore di ponti, riunì i monaci e attraversò il ponte
+con loro.
+
+- - -
+
+Quando ebbero raggiunto l'altro lato, Kaimu chiese al primo monaco: "Cosa hai
+imparato dal costruttore di ponti?"
+
+Il primo monaco disse: "La determinazione di un vero ingegnere è cosa
+invidiabile. Ma se dovessimo lavorare in maniera così inflessibile, l'Imperatore
+ci annegherebbe di certo nelle nostre stesse cascate{{*}}."
+
+Kaimu chiese al secondo monaco: "Cosa hai imparato dal costruttore di ponti?"
+
+Il secondo monaco disse: "La frugalità di un vero ingegnere è cosa invidiabile.
+Ma se dovessimo aggrapparci con tanta veemenza alla tecnologia di ieri, il web
+non sarebbe esistito per altri mille anni."
+
+Kaimu chiese al terzo monaco: "Cosa hai imparato dal costruttore di ponti?"
+
+Il terzo monaco disse: "La prevedibilità del mondo di un vero ingegnere è cosa
+invidiabile. Ma il nostro è un mondo in costante divenire, dove le regole della
+fisica cambiano settimanalmente. Se non ci adattassimo velocemente
+all'imprevisto, il solo evento prevedibile sarebbe la nostra distruzione."
+
+Il primo monaco chiese: "Maestro... cosa ha imparato il costruttore di ponti da
+noi?"
+
+Disse Kaimu: "Ancora nulla. Ma quando toccherò una candela accesa con l'olio
+nato dalla mia lanterna durante il nostro attraversamento, imparerà la ragione
+di prevedere l'assurdo, la virtù di ricostruire in pietra, e la saggezza di non
+insultare i propri clienti."
+
+
+{{*}} Il modello a cascata è un metodo di produzione del software considerato rigido e superato, NdT.
