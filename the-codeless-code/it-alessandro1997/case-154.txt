@@ -1,5 +1,5 @@
 Number: 154
-Title: Un ponte sul nulla
+Title: Un ponte verso il nulla
 Lang: it
 Translator: alessandro1997
 
