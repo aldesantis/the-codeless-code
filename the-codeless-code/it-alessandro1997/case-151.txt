@@ -22,7 +22,7 @@ Yíwen passò con dolcezza la mano sui fili. "Ciascuna sfumatura di grigio è
 collegata a un numero intero diverso, in ordine di valore. Per lo zero ho scelto
 un colore chiamato 'Il nero prima del tempo'. Trentuno è 'Chiazza di carbone',
 sessantatré è 'Tempesta incombente', e così via, più e più chiari, fino al
-duecentocinquantacinque: 'Bianco divino delle nuvole.'"
+duecentocinquantacinque: 'Bianco divino delle nuvole'."
 
 "Una gamma impressionante per un accessorio stagionale così modesto" disse
 Hwídah.
@@ -46,7 +46,7 @@ del rubino. In questo modo la sciarpa avrà esattamente tante righe quante
 operazioni ha l'algoritmo di ordinamento, e l'estetica dell'algoritmo sarà
 rivelata all'occhio."
 
-"Stai ancora cercando la [[#132|bellezza nel codice]]" disse Hwídah.
+“Stai ancora cercando la [[#132|bellezza nel codice]]” disse Hwídah.
 
 "Mille scuse, Hwídah, ma quello non è il mio solo scopo" disse Yíwen. "Mi chiedo
 se tu sia famigliare con il monaco novizio che è recentemente entrato nel mio
