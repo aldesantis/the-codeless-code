@@ -1,0 +1,38 @@
+Number: 155
+Title: Don't Help
+Date: 2014-07-26
+Names: Suku
+Topics: naming conventions, design patterns, decorator pattern, adapter pattern, utilities
+Geekiness: 3
+Illus.0.src: yum.jpg
+Illus.0.title: According to the box, its main ingredient is Fish Helper Helper.
+
+Master [[Suku]] was reviewing code in a distant temple when she
+asked a senior monk to take supper with her.
+
+"I am hoping that you can help me," said Suku as she stirred
+a pot hanging over the fire.  "In your clan's code I found
+the classes SubmissionEntity, SubmissionDatabase, and
+SubmissionClient.  Although /Entity/, /Database/, and
+/Client/ are not the naming conventions of my own temple,
+your monks use them consistently, and their purpose is
+clear.  Yet here and there I have also found classes like
+SubmissionEntityHelper, SubmissionDatabaseHelper, and
+SubmissionClientHelper.  What are these /Helpers/?"
+
+"Sometimes decorators, sometimes adapters, sometimes static
+utilities," said the monk.  "Sometimes all or none of these."
+
+Suku returned with two bowls, which she set before herself
+and the monk.  In her bowl was a beautifully grilled salmon
+on a bed of saffron rice, drizzled with honey-mirin sauce
+and garnished with toasted sesame seeds and curls of green
+onion.  In the monk's bowl was only a large pink blob the
+texture of toothpaste.  It quivered slightly.
+
+"What is it?" asked the monk, poking nervously at the blob
+with his spoon.
+
+"I found it in a tumbledown market on the ragged end of
+town," said Suku, pouring herself some tea.  "They call it
+/Fish Helper/."
