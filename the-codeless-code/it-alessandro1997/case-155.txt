@@ -1,0 +1,30 @@
+Number: 155
+Title: Non aiutare
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Secondo la scatola, l'ingrediente principale è Helper di Helper di Pesce.
+
+La maestra [[Suku]] stava revisionando del codice in un tempio lontano quando
+chiese a un monaco anziano di mangiare con lei.
+
+"Spero che tu mi possa aiutare" disse Suku mentre mescolava una pentola sul
+fuoco. "Nel codice del tuo clan ho trovato le classi SubmissionEntity,
+SubmissionDatabase e SubmissionClient. Nonostante /Entity/, /Database/ e
+/Client/ non siano le convenzioni di nomenclatura del mio tempio, i tuoi monaci
+li usano in maniera consistente e il loro scopo è chiaro. Eppure qua e là ho
+trovato anche classi come SubmissionEntityHelper, SubmissionDatabaseHelper e
+SubmissionClientHelper. Cosa sono questi /Helper/?"
+
+"A volte decoratori, a volte adattatori, a volte utilità statiche" disse il
+monaco. "A volte tutti o nessuno di questi."
+
+Suku tornò con due ciotole, che mise davanti a sé e al monaco. Nella sua ciotola
+c'era un salmone meravigliosamente grigliato su un letto di riso allo zafferano,
+condito con del mirin al miele e decorato con semi di sesamo tostati e riccioli
+di cipolla verde. Nella ciotola del monaco c'era solo un enorme grumo rosa che
+aveva la consistenza del dentifricio. Tremava leggermente.
+
+"Cos'è?" chiese il monaco, toccando nervosamente il grumo con il suo cucchiaino.
+
+"L'ho trovato in un mercato in rovina nella parte povera della città" disse
+Suku, versandosi del tè. "Lo chiamano /Helper di Pesce/."
