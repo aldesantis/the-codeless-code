@@ -5,7 +5,7 @@ Names: Kaimu, Zjing's Bridge
 Topics: engineering, software engineering, architecture, pride, planning, change, waterfall model, flexibility
 Geekiness: 1
 Illus.0.src: blueprints.jpg
-Illus.0.title: The word "engineering" is from the Latin ingenium, meaning "cleverness" and ingeniare, meaning "to contrive, devise".  I'd say that the phrase "clever people who contrive or devise things" applies to most software developers.  Of course, it also applies to confidence tricksters and Bond supervillains.
+Illus.0.title: The word "engineering" is from the Latin ingenium, meaning "cleverness" and ingeniare, meaning "to contrive or devise".  I'd say that the phrase "clever people who contrive or devise things" applies to most software developers.  Of course, it also applies to confidence tricksters and Bond supervillains.
 Illus.0.par: 1
 
 A bridge builder was completing his inspection
