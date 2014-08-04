@@ -6,7 +6,7 @@ Topics: design patterns, complexity, maintainability, path of least resistance, 
 Geekiness: 2
 Illus.0.src: Path.jpg
 Illus.0.par: 1
-Illus.0.title: The real challenge is not creating good coding standards; it's making those standards the path of least resistance.
+
 
 Master [[Suku]] and her novices had come to a town that Suku
 knew from her youth.  The day was hot, and all four
