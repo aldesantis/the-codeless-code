@@ -1,0 +1,78 @@
+Number: 156
+Title: The Garden Path
+Date: 2014-08-03
+Names: Suku
+Topics: design patterns, complexity, maintainability, path of least resistance, coding standards
+Geekiness: 2
+Illus.0.src: Path.jpg
+Illus.0.par: 1
+Illus.0.title: The real challenge is not creating good coding standards; it's making those standards the path of least resistance.
+
+Master [[Suku]] and her novices had come to a town that Suku
+knew from her youth.  The day was hot, and all four
+travellers were parched.
+
+"Young monk", said Suku to one of her novices.  "Fetch us
+some water from the well at the foot of this hill, and I
+will tell you of my youth in this place."  When the monk had
+done this, and all four had drunk their fill, Suku said:
+
+"In this town I was prenticed in C to a good master.  Our
+shop followed the coding standards he set down, yet always I
+felt he allowed us too much creativity.  For freedom is like
+the /kama/: with it the skilled can reap a whole field in a
+day, but the clumsy can cut your head off.
+
+"Over time I devised an elegant set of design patterns for
+my own use.  Ah, if I could but show you now the glorious
+code I wrote!  Every constant, type, function and variable
+was named according to its purpose.  Parameters were ordered
+from most complex type to least, and the fields of structs
+were prefixed to facilitate the use of special macros I'd
+invented.  Maintaining my own code became a true joy.
+
+"I refined this system until with great pride I was ready to
+show it to my master.  I begged him to add my coding
+standards to his own, that our whole shop would benefit.
+
+"My master declared to all that it was indeed the most
+complete design and implementation metholodology that he had
+ever seen, and if the whole shop followed my example we were
+certain to produce code of unparalleled beauty, clarity, and
+extensibility.
+
+"He gave me the name /Enro/ and rewarded me with the
+honor of laying a new path in our meditation
+garden.  He designed this path to resemble a great winding
+serpent, with its tail grazing his garden gate and its jaws
+closing around a well at the bottom of the grounds.  It
+took me a month to dig the bed, level the bottom with sand,
+lay the paving stones, and set them well with gravel and
+earth.
+
+"When I finished my master said that the path, like my code,
+was a thing of sublime beauty, and decreed that his shop
+would keep it forever."
+
+At this Suku fell silent for a long time.
+
+Eventually one of her novices asked: "Is the path still
+there?"
+
+"We are seated upon the tail right now," said Suku.  "See,
+right here is my old master's gate; his house lies just beyond.
+And the water we drank is from the well between the jaws.
+Note what is on the path, and what is not."
+
+The novices' eyes followed the wriggling path from the well
+as it swept a great meandering arc up and around the
+hillside.  Its stones were green with moss and beset with
+weeds.  Where the path disappeared through the gate they
+noticed that it joined a second track of bare earth, where
+the grass appeared to have been trampled so often that it
+ceased to grow.  The dusty track ran straight from the well
+to the gate, marred only by a fresh set of sandal-prints
+that went down, and then up, and ended at the feet of the
+young monk who had fetched their water.
+
+
