@@ -6,7 +6,7 @@ Topics: design patterns, complexity, maintainability, path of least resistance, 
 Geekiness: 2
 Illus.0.src: Path.jpg
 Illus.0.par: 1
-
+Illus.0.title: Snakes are just nature's way of playing with space-filling curves.
 
 Master [[Suku]] and her novices had come to a town that Suku
 knew from her youth.  The day was hot, and all four
@@ -64,8 +64,8 @@ right here is my old master's gate; his house lies just beyond.
 And the water we drank is from the well between the jaws.
 Note what is on the path, and what is not."
 
-The novices' eyes followed the wriggling path from the well
-as it swept a great meandering arc up and around the
+The novices' eyes followed the wriggling path up from the well
+as it swept a great meandering arc around the
 hillside.  Its stones were green with moss and beset with
 weeds.  Where the path disappeared through the gate they
 noticed that it joined a second track of bare earth, where
