@@ -1,0 +1,62 @@
+Number: 156
+Title: Il sentiero nel giardino
+Lang: it
+Translator: alessandro1997
+Illus.0.title: I serpenti sono solo il modo che la natura ha di giocare con le curve di Peano.
+
+La maestra [[Suku]] e i suoi novizi erano giunti a una città che Suku aveva
+visitato in gioventù. La giornata era afosa e tutti e quattro i viaggiatori
+assetati.
+
+"Giovane monaco," disse Suku a uno dei suoi novizi, "prendici dell'acqua dal
+pozzo ai piedi di questa collina e ti dirò della mia gioventù in questo posto."
+Quando il monaco lo ebbe fatto e tutti e quattro ebbero bevuto, Suku disse:
+
+"In questa città studiai presso un bravo maestro C. La nostra bottega seguiva
+gli standard di codifica che egli aveva imposto, eppure ho sempre pensato che
+lasciasse troppo spazio alla nostra creatività. La libertà è come il /kama/: con
+esso l'uomo capace può falciare un intero campo in un giorno, ma quello
+maldestro può tagliarti la testa.
+
+"Col tempo progettai un'elegante collezione di design pattern per il mio
+utilizzo. Ah, se potessi mostrarvi il codice glorioso che scrivevo! Ogni
+costante, tipo, funzione e variabile erano nominati a seconda del loro scopo. I
+parametri erano ordinati dal tipo più complesso a quello meno complesso, e per i
+campi delle strutture usavo dei prefissi, in modo da facilitare l'uso di macro
+speciali che avevo inventato. Manutenere il mio codice divenne una vera gioia.
+
+"Rifinii questo sistema finché, con grande gioia, fui pronta a mostrarlo al mio
+maestro. Lo pregai di aggiungere i miei standard di codifica ai suoi, in modo
+che la nostra intera bottega ne beneficiasse.
+
+"Il mio maestro dichiarò a tutti che era, senza dubbio, la più completa
+metodologia di design e implementazione che avesse mai visto, e che se l'intera
+bottega avesse seguito il mio esempio avremmo senza dubbio prodotto codice di
+ineguagliabile bellezza, chiarezza ed estensibilità.
+
+"Mi diede il nome /Enro/ e mi ricompensò con l'onore di creare un nuovo sentiero
+nel nostro giardino della meditazione. Disegnò questo sentiero in modo che
+rassomigliasse a un enorme serpente sinuoso, con la coda che sfiorava il
+cancello del giardino e le fauci che si chiudevano attorno a un pozzo in fondo
+alle terre. Mi ci volle un mese per scavare il letto, livellare il fondo con la
+sabbia, poggiare le pietre del selciato e fissarle con terra e ghiaia.
+
+"Quando finii, il mio maestro disse che il sentiero, come il mio codice, era di
+sublime bellezza, e decretò che la sua bottega lo avrebbe tenuto per sempre."
+
+A questo punto Suku cadde in un lungo silenzio.
+
+Infine uno dei suoi novizi chiese: "Il sentiero è ancora lì?"
+
+"Siamo seduti sulla coda proprio ora" disse Suku. "Vedi, proprio qui c'è il
+cancello del mio vecchio maestro; la sua casa è subito dietro. E l'acqua che
+abbiamo bevuto è del pozzo tra le fauci. Fate attenzione a cos'è sul sentiero e
+cosa no."
+
+Gli occhi dei novizi seguirono il sentiero serpeggiante che dal pozzo produceva
+un grande arco intorno al pendio. Le sue pietre erano ricoperte di muschio verde
+e assalite dalle erbacce. Lì dove il sentiero spariva attraverso il cancello
+videro una seconda strada di terra nuda, dove l'erba sembrava essere stata
+calpestata così spesso che aveva smesso di crescere. La strada polverosa andava
+dritta dal cancello al pozzo, sciupata solo dalle tracce fresche di sandali che
+andavano su e giù, fino ai piedi del giovane monaco che aveva preso l'acqua.
