@@ -1,0 +1,75 @@
+Number: 157
+Title: Captive Audience
+Date: 2014-08-10
+Names: Qi, Bawan
+Topics: brevity, communication, design, design reviews, detail, documentation, excess, focus
+Geekiness: 2
+Illus.0.src: shackles.jpg
+Illus.0.par: 0
+Illus.0.title: Qi was going to use the same correction on master Kaimu, but it turns out Kaimu is really into that sort of thing.
+
+Master [[Bawan]] awoke one day to find his wrists shackled
+together, and likewise his ankles.  With great difficulty he
+struggled to his feet and began to hop to his door to seek
+aid, only to fall face-first onto his rug with a loud thud.
+Looking backwards he discovered that his shackles were
+themselves chained to his bedposts.
+
+The master only lay upon the floor and sighed; for he had
+lived at the Temple many years, and such odd awakenings did
+not surprise him anymore.
+
+It was then he noticed that a great wooden barrel had been
+placed at the foot of his bed.  Squirming over to it, he
+found it filled to the very top with thousands upon thousands
+of keys.
+
+Bawan had tried no more than a hundred when the
+old scribe [[Qi]] entered without knocking and seated himself
+besides the master.
+
+"That appears tedious," observed the scribe.
+
+"It was at first," agreed Bawan.  "Then it became
+irritating, then frustrating.  But as I awoke with a full
+bladder, it has now passed on to /urgent/."
+
+"Well, do not let me distract you," said the scribe,
+producing a thick sheaf of paper.  "I had only stopped by to
+discuss the design document you asked me to review.  I must
+commend you on your level of detail: every requirement is
+captured here, as is every database table, column, and
+constraint; every screen mockup, use case, test case, and
+error case; every package, class and method; the services
+provided and the third-party libraries consumed,
+right down to the configuration parameters and instructions
+for deployment.  Your table of contents alone is three
+pages long."
+
+"I strive to be thorough," said the master, tossing aside
+another key.
+
+"It is curious," said the scribe, flipping through the pages.
+"Every paragraph will undoubtedly be useful to someone, but
+though I pored over your text for many hours I could not
+glean the simple overview of the system that I needed.  Back
+and forth through the pages I went, unwilling to give up,
+for I was certain the fault lay with my own eyes.  I
+felt... how would one put it..."
+
+"Trapped?" suggested the master, pulling another key
+from the barrel.
+
+"An excellent choice of words," said Qi.
+
+"I will prepare a suitable high-level design document for
+you, no more than a few pages with simple diagrams," said
+Bawan, fighting the chains in an attempt to cross his legs
+as he jammed the next key into each of his locks without
+success.
+
+"When it is convenient," said the scribe with a bow.  "It appears
+you have more pressing matters to attend to.  And time,
+as always, is our enemy."
+
+With that the scribe went out.
