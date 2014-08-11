@@ -2,7 +2,7 @@ Number: 155
 Title: Don't Help
 Date: 2014-07-26
 Names: Suku
-Topics: naming conventions, design patterns, decorator pattern, adapter pattern, utilities
+Topics: naming, design patterns, decorator pattern, adapter pattern, utilities
 Geekiness: 3
 Illus.0.src: yum.jpg
 Illus.0.title: According to the box, its main ingredient is Fish Helper Helper.

@@ -20,7 +20,7 @@ done this, and all four had drunk their fill, Suku said:
 "In this town I was prenticed in C to a good master.  Our
 shop followed the coding standards he set down, yet always I
 felt he allowed us too much creativity.  For freedom is like
-the /kama/: with it the skilled can reap a whole field in a
+the /kama/{{1}}: with it the skilled can reap a whole field in a
 day, but the clumsy can cut your head off.
 
 "Over time I devised an elegant set of design patterns for
@@ -41,7 +41,7 @@ ever seen, and if the whole shop followed my example we were
 certain to produce code of unparalleled beauty, clarity, and
 extensibility.
 
-"He gave me the name /Enro/ and rewarded me with the
+"He gave me the name /Enro/{{2}} and rewarded me with the
 honor of laying a new path in our meditation
 garden.  He designed this path to resemble a great winding
 serpent, with its tail grazing his garden gate and its jaws
@@ -75,4 +75,7 @@ to the well, marred only by a fresh set of sandal-prints
 that went down, and then up, and ended at the feet of the
 young monk who had fetched their water.
 
+
+{{1}} A farming implement like a scythe, also used as a weapon.
+{{2}} "Garden-path".
 
