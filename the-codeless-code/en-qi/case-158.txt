@@ -1,0 +1,33 @@
+Number: 158
+Title: Monday, Monday
+Date: 2014-08-17
+Names: Kaimu, Eku, Mugen
+Topics: caching, stale data, efficiency hacks
+Geekiness: 2
+
+On Monday a monk was sent to master [[Kaimu]] to inquire,
+"What is the greatest peril of caching?"
+
+Kaimu answered, "Monday is my busiest day.  Ask again
+tomorrow and I will teach you all I know."
+
+On Tuesday the monk returned and asked the same question.
+
+Kaimu answered, "Monday is my busiest day.  Ask again
+tomorrow and I will teach you all I know."
+
+
+
+== Qi's commentary
+
+If the monk had asked a different question, he would have learned nothing.
+
+
+== Qi's poem
+
+Eku asked why Mugen was rude to the shopkeeper. //
+Mugen said: That shopkeeper once sold me a broken shovel. //
+Eku dumped a bucket of water on Mugen's head -- //
+She explained: Last year my house was on fire. //
+
+
