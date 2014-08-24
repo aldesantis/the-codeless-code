@@ -1,6 +1,6 @@
 Number: 140
 Title: Heartbleed
-Language: ES
+Language: es
 Translator: Gonzalo Alcalde
 
 Un aprendiz le preguntó al maestro [[Bawan]]: “Di algo sobre el bug <a href="https://es.wikipedia.org/wiki/Heartbleed">Heartbleed</a>.”
