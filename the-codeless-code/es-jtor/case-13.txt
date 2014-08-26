@@ -1,16 +1,14 @@
-Number: 12
-Title: Efecto
+Number: 13
+Title: Evolución
 Lang: es
 Translator: jtor
 
-Tres jóvenes monjes -- uno del [[Spider Clan|Clan de la Araña]], otro del [[Laughing Monkey Clan|Mono que Ríe]], y otro de la [[Elephant's Footprint Clan|Huella de Elefante]] -- habían estado discutiendo acerca de qué era lo más importante: la capa web, la de negocios o la persistencia. Finalmente, acordaron proponerle la pregunta al maestro Java.
+Un aprendiz estudió el código del maestro Java{{*}} y adoptó el estilo del maestro con total exactitud: los modelos de diseño que empleaba, las convenciones para los nombres de las variables, el número de espacios que usaba para tabular cada bloque anidado. Incluso los comentarios estaban escritos en una sorprendente imitación de la voz del maestro.
 
-El maestro hizo venir a uno de los fornidos jardineros que cuidaban de los terrenos del templo, y le ordenó lo siguiente: “Golpea y patea duramente a estos tres monjes durante un minuto. Después, puedes seguir pegándoles todo el tiempo que desees”.
+Durante su siguiente revisión de código, el aprendiz se sorprendió al ver al maestro Java tremendamente disgustado.
 
-El jardinero apaleó a los monjes durante siete minutos enteros, luego hizo una reverencia y se marchó.
+“Pero maestro”, protestó el estudiante, “He seguido su ejemplo hasta el último punto y coma. Mire, aquí hay una clase que escribió hace sólo un mes. ¿No se parece tanto a mi código como lo hacen dos huevos de la misma puesta?”
 
-“Ahora”, dijo el maestro, “¿Quién tiene hoy la mayor culpa de vuestras heridas?¿Yo, por convocar al jardinero; el jardinero, por los seis minutos de más; o las manos y los pies del jardinero? Pensad bien la respuesta, o deberé llamarle de nuevo”.
+“Y he ahí el problema”, dijo ceñudo el maestro. “Ayer era un tonto, la semana pasada un idiota y el mes anterior un imbécil. No me enseñes el código que podría haber escrito ayer. Enséñame el código tal como lo escribiré mañana”.
 
-Al tiempo, el monje del Clan de la Araña dijo: “El carpintero que puso la primera viga de este templo tiene la mayor de las culpas”.
-
-El maestro quedó satisfecho.
+{{*}} Probablemente [[Banzen]].

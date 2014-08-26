@@ -3,7 +3,7 @@ Title: Documentación
 Lang: es
 Translator: jtor
 
-Un abad del [[Seven-Clawed Blind Eagle Clan|Clan del Águila Ciega de Siete Garras] estaba revisando las entregas del los monjes del templo, cuando se dio cuenta de que un monje del [[Laughing Monkey Clan|Clan del Mono que Ríe]] no había realizado ningún documento de diseño.
+Un abad del [[Seven-Clawed Blind Eagle Clan|Clan del Águila Ciega de Siete Garras]] estaba revisando las entregas del los monjes del templo, cuando se dio cuenta de que un monje del [[Laughing Monkey Clan|Clan del Mono que Ríe]] no había realizado ningún documento de diseño.
 
 “¿Qué pasaría si se descubriera un problema en nuestro sistema de producción?”, preguntó el abad al monje. “¿Cómo se entendería la causa por alguien aparte de ti?"
 
