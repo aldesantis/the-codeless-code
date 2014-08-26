@@ -6,9 +6,9 @@ Names: Spider Clan, Laughing Monkey Clan, Elephant's Footprint Clan
 Topics: importance
 
 Three young monks -- one from the [[Spider Clan]], one from
-<a href="/tag/Laughing Monkey Clan">Laughing Monkey</a>,
-and one from <a href="/tag/Elephant&apos;s Footprint Clan">Elephant's
-Footprint</a> -- had been arguing about which was the more
+[[Laughing Monkey Clan|Laughing Monkey]],
+and one from [[Elephant's Footprint Clan|Elephant's Footprint]] --
+had been arguing about which was the more
 important: webtier code, business tier, or persistence.
 Finally they agreed to pose the question to the Java master.
 

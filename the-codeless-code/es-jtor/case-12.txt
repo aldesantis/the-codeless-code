@@ -1,0 +1,16 @@
+Number: 12
+Title: Efecto
+Lang: es
+Translator: jtor
+
+Tres jóvenes monjes -- uno del [[Spider Clan|Clan de la Araña]], otro del [[Laughing Monkey Clan|Mono que Ríe]], y otro de la [[Elephant's Footprint Clan|Huella de Elefante]] -- habían estado discutiendo acerca de qué era lo más importante: la capa web, la de negocios o la persistencia. Finalmente, acordaron proponerle la pregunta al maestro Java.
+
+El maestro hizo venir a uno de los fornidos jardineros que cuidaban de los terrenos del templo, y le ordenó lo siguiente: “Golpea y patea duramente a estos tres monjes durante un minuto. Después, puedes seguir pegándoles todo el tiempo que desees”.
+
+El jardinero apaleó a los monjes durante siete minutos enteros, luego hizo una reverencia y se marchó.
+
+“Ahora”, dijo el maestro, “¿Quién tiene hoy la mayor culpa de vuestras heridas?¿Yo, por convocar al jardinero; el jardinero, por los seis minutos de más; o las manos y los pies del jardinero? Pensad bien la respuesta, o deberé llamarle de nuevo”.
+
+Al tiempo, el monje del Clan de la Araña dijo: “El carpintero que puso la primera viga de este templo tiene la mayor de las culpas”.
+
+El maestro quedó satisfecho.

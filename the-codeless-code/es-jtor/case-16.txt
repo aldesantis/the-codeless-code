@@ -1,0 +1,16 @@
+Number: 16
+Title: Documentación
+Lang: es
+Translator: jtor
+
+Un abad del [[Seven-Clawed Blind Eagle Clan|Clan del Águila Ciega de Siete Garras] estaba revisando las entregas del los monjes del templo, cuando se dio cuenta de que un monje del [[Laughing Monkey Clan|Clan del Mono que Ríe]] no había realizado ningún documento de diseño.
+
+“¿Qué pasaría si se descubriera un problema en nuestro sistema de producción?”, preguntó el abad al monje. “¿Cómo se entendería la causa por alguien aparte de ti?"
+
+“Debería examinarse el propio código”, dijo el monje. “El documento es una bestia enfermiza, fácilmente presa de las Tres Plagas del Error: omisión, ofuscación y obsolescencia”.
+
+El abad informó del asunto al maestro Java, quien dijo: “Que el monje haga equilibrios sobre un pie con su bastón extendido, cada día desde el crepúsculo hasta la medianoche. Si puede decir una palabra que me plazca levantaré el castigo, pero no en otro caso”.
+
+“¿Hay tal palabra?”, preguntó el abad.
+
+“Es difícil estar seguro”, meditó el maestro. “Ayer me complació el sonido de un grillo después de las tres primeras gotas de lluvia. Antes de ayer, el chapoteo de la leche en un cubo me transportó a un bonito recuerdo de mi juventud. A lo mejor la respuesta está en la fragancia del loto blanco que una vez flotó en el estanque bajo mi ventana”.
