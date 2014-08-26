@@ -1,0 +1,24 @@
+Number: 140
+Title: Heartbleed
+Language: es
+Translator: Gonzalo Alcalde
+
+Un aprendiz le preguntó al maestro [[Bawan]]: “Di algo sobre el bug <a href="https://es.wikipedia.org/wiki/Heartbleed">Heartbleed</a>.”
+
+Bawan dijo: “Chiuyin, el tesorero del Gobernador, es ciego como una lombriz. Un ladrón puede darle una moneda de lata, asegurarle que es de plata y recibir cambio. Cuando la tesorería está vacía, ¿Quién es el villano? Responde bien y te perdonaré los golpes por una semana. ¡Responde mal y mi bastón volará!”
+
+El aprendiz pensó: <i>si digo el ladrón, Bawan me golpeará seguro, porque es el tesorero quien reparte las monedas. Pero si digo el tesorero también me golpeará, porque es el ladrón quien se aventaja de la situación.</i>
+
+Cuando la pausa se volvió muy larga, Bawan levantó su bastón bien alto. De repente iluminado, el aprendiz gritó: “¡El Gobernador! ¿Quién más volvió a ese ciego como su tesorero?”
+
+Bawan bajó su bastón. “¿Y quién es el Gobernador?”
+
+El aprendiz dijo: “Todos los que hubieran gritado ‘¡ese hombre es ciego!’ pero no habían logrado darse cuenta, o siquiera examinarlo.”
+
+Bawan asintió. “Esta es la primera lección. Es muy fácil alabar el Open Source, diciéndonos con mucha labia, ‘bajo diez mil globos oculares, cualquier bug está al descubierto’. Sin embargo cuando los diez mil apartan la mirada, no son más útiles que el ciego. Y ahora que te perdoné los golpes por una semana, descansa y dime: ¿cuál es la segunda lección?”
+
+El aprendiz dijo: “No tengo idea.”
+
+Bawan sin demora golpeó el craneo del aprendiz con su bastón. El niño cayó al piso, inconsciente.
+
+Al pasar sobre el cuerpo boca abajo, Bawan remarcó: “Escribe código como si todos fueran ladrones.” 
