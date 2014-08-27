@@ -1,0 +1,34 @@
+Number: 18
+Title: Características Necesarias
+Language: es
+Translator: Gonzalo Alcalde
+
+Ese mismo monje del Clan de la Huella del Elefante leía cuidadosamente el código creado por su clan. Allí habían varias implementaciones rivales de un Data Access Object particular; por ahora intentaba decidir cual sería la definitiva que su clan adoptaría.
+
+"Cada implementación tiene sus propias virtudes y vejaciones particulares," dijo el monje al maestro Java. "Y cada una tiene características que a las otras les faltan. Debo mandar a todas excepto a una a los vientos del olvido. ¿Cómo podré elegir?"
+
+"No puedo responder cuando estoy sediento," dijo el maestro. "En el armario que está a tu lado hay tres tazas de madera. Llena una con agua del río, la segunda del pozo del templo, y la tercera del vendedor de agua en la aldea. Tráemelas sin una gota derramada, y te ofreceré lo que pueda ayudar."
+
+El monje hizo eso, y colocó las tres vasijas ante el maestro.
+
+"¿Qué has aprendido?" preguntó el maestro.
+
+El monje se inclinó. "Si le da una moneda al vendedor de agua en la aldéa, él golpeará su gong dos veces: una vez antes de llenar su copa, y de nuevo cuando da su primer sorbo. Si llena su copa del pozo del templo, no hay sonidos de gong pero el balde es pesado. Si moja la taza en el río, los peces estarán afligidos y el Dios del Río debe ser calmado con una ofrenda de diez piedras blancas."
+
+"Sólo puedo beber una de estas," dijo el maestro. "¿Cual hallaré la más agradable?"
+
+El monje consideró cuidadosamente. "El río estaba frío, pero no totalmente claro. Del pozo del templo he bebido en el pasado: sus aguas son amargas y con cal. Y aunque no soy familiar con el vendedor de agua, he oido su gong varias veces hoy. Con esta evidencia, eligiría la taza del vendedor de agua."
+
+"Una conclusión bastante sensata," dijo el maestro. "Sin duda, he visitado a ese mismo vendedor de agua cada mañana durante ocho años, y encontré la experiencia perfectamente satisfactoria cada vez. ¿Cual es la vasija que él llenó?"
+
+El maestro tomó un sorbo de la taza indicada, y su rostro cayó en la decepción. "Joven hermano," dijo. "Has malentendido completamente mi sed. ¿Donde está el sonido del gong?"
+
+- - -
+
+La sed del maestro está insatisfecha //
+sin embargo el monje tiene su respuesta -- //
+¿Qué sonido era el vaso que lo sirvió? //
+
+Al moje le habría ido mejor //
+si hubiera colocado un incensario de latón en el alféizar //
+y simplemente esperara a que llueva. //
