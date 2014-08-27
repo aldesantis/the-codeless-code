@@ -1,0 +1,14 @@
+Number: 13
+Title: Evolución
+Lang: es
+Translator: jtor
+
+Un aprendiz estudió el código del maestro Java{{*}} y adoptó el estilo del maestro con total exactitud: los modelos de diseño que empleaba, las convenciones para los nombres de las variables, el número de espacios que usaba para tabular cada bloque anidado. Incluso los comentarios estaban escritos en una sorprendente imitación de la voz del maestro.
+
+Durante su siguiente revisión de código, el aprendiz se sorprendió al ver al maestro Java tremendamente disgustado.
+
+“Pero maestro”, protestó el estudiante, “He seguido su ejemplo hasta el último punto y coma. Mire, aquí hay una clase que escribió hace sólo un mes. ¿No se parece tanto a mi código como lo hacen dos huevos de la misma puesta?”
+
+“Y he ahí el problema”, dijo ceñudo el maestro. “Ayer era un tonto, la semana pasada un idiota y el mes anterior un imbécil. No me enseñes el código que podría haber escrito ayer. Enséñame el código tal como lo escribiré mañana”.
+
+{{*}} Probablemente [[Banzen]].

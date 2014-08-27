@@ -1,0 +1,17 @@
+Number: 15
+Title: Inmutable
+Lang: es
+Translator: jtor
+Illus.0.title: Ay... Sí, supongo que PODRÍAS cocer el huevo...
+
+Un aprendiz había llegado recientemente del [[Temple of Three Stones|Templo de las Tres Piedras]] en donde sólo el C se utilizaba. Era nuevo en los caminos de Java, y pronto se encontró con la inmutabilidad de las strings.
+
+“¡Sólo deseo convertir el contenido de este campo a mayúsculas y minúsculas!”, se lamentó. “¡Sin embargo requiere la construcción de un StringBuffer y subsecuentemente una nueva string, con muchos caracteres sin tocar copiados dos veces entre ellos! ¿Con qué propósito se diseñaron así las strings?”
+
+Una hermana experimentada le oyó, y le aconsejó: “Tras pasar de mano en mano, la moneda de latón aún se puede cambiar mañana; pero no el huevo”. El aprendiz fue iluminado.
+
+Pronto el aprendiz definió /todas/ sus clases como inmutables. Ni una propiedad podía ser modificada: una nueva instancia debía ser creada con los cambios necesarios. Sus constructores eran a veces sorprendentemente largos y complejos.
+
+El maestro Java fue informado de esto, y dijo: “Que la forma de un huevo sea forjada en latón, y se le dé a la monja para desayunar”.
+
+De esta manera, se le encargó a la monja la corrección del aprendiz.

@@ -1,0 +1,58 @@
+Number: 157
+Title: Pubblico asservito
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Qi stava per usare la stessa correzione col maestro Kaimu, ma è venuto fuori che a Kaimu sarebbe piaciuto.
+
+Il maestro [[Bawan]] si svegliò un giorno con i polsi e le caviglie ammanettati.
+Con grande difficoltà si mise in piedi e iniziò a saltellare verso la porta in
+cerca di aiuto, solo per cadere di faccia sul proprio tappeto con un forte
+tonfo. Guardando indietro scoprì che le manette erano incatenate al letto.
+
+Il maestro si limitò a sospirare, sdraiato sul pavimento; aveva vissuto al
+Tempio per molti anni, e certi strani risvegli non lo sorprendevano più.
+
+Fu allora che si accorse di un grande barile di legno che era stato messo ai
+piedi del suo letto. Contorcendosi per vedere all'interno, si accorse che era
+stato riempito fino alla cima con migliaia e migliaia di chiavi.
+
+Bawan non ne aveva provate più di un centinaio quando il vecchio scriba [[Qi]]
+entrò senza bussare e si sedette vicino al maestro.
+
+"Sembra noioso" osservò lo scriba.
+
+"Lo era all'inizio" concordò Bawan. "Poi è diventato irritante, quindi
+frustrante. Ma poiché mi sono svegliato con la vescica piena, ora è diventato
+/urgente/."
+
+"Be', non lasciate che vi distragga" disse lo scriba, prendendo uno spesso
+fascio di carta. "Mi ero fermato solo per discutere il documento di design che
+mi avevate chiesto di rivedere. Devo complimentarvi per la vostra scrupolosità:
+ogni richiesta è stata riportata qui, così come ogni tabella del database, caso
+di utilizzo, test ed errore; ogni pacchetto, classe e metodo; i servizi forniti
+e le librerie di terze parti utilizzate, fino ai parametri di configurazione e
+le istruzioni per il rilascio. Il vostro solo indice è lungo tre pagine."
+
+"Mi sforzo di essere accurato" disse il maestro, lanciando via un'altra chiave.
+
+"È curioso" disse lo scriba, voltando le pagine. "Ogni paragrafo sarà senza
+dubbio utile a qualcuno, ma nonostante abbia studiato con attenzione il testo
+per molte ore, non sono riuscito a trovare un semplice riassunto del sistema di
+cui avevo bisogno. Sono andato avanti e indietro, determinato a non arrendermi,
+perché ero certo che l'errore fosse nei miei occhi. Mi sono sentito... come
+dire..."
+
+"Intrappolato?" suggerì il maestro, prendendo un'altra chiave dal barile.
+
+"Un'eccellente scelta di parole" disse Qi.
+
+"Preparerò un semplice documento di design di alto livello, non più lungo di
+qualche pagina, con semplici diagrammi" disse Bawan, lottando con le catene nel
+tentativo di incrociare le gambe mentre inseriva la prossima chiave in ciascuna
+serratura senza successo.
+
+"Quando è conveniente" disse lo scriba con un inchino. "Sembra che abbiate
+questioni più urgenti di cui occuparvi. E il tempo, come sempre, è vostro
+nemico."
+
+E dicendo questo lo scriba uscì.

@@ -1,0 +1,55 @@
+Number: 159
+Title: Blocks
+Date: 2014-08-25
+Names: Jinyu
+Topics: interviews, creativity, performance reviews, promotion, career
+Geekiness: 0
+Illus.0.src: blocks.jpg
+Illus.0.title: The following day, Jinyu discovered that one of the novices had stolen a dozen blocks.  When questioned, he insisted that he had brought them to the interview on his own.  Jinyu wrote: 'Patent Applications'.
+
+Venerable [[Jinyu]], the Abbess Over All Clans And Concerns,
+was always present when novices were given their performance
+reviews -- for these reviews would determine who would
+advance in the Temple hierarchy, and how they would serve.
+Each novice was made to wait alone in a conference room
+for the senior abbots to enter, so the Abbess always left a
+pile of wooden building blocks in the room for the novices to
+amuse themselves with.
+
+Jinyu's abbot-apprentice noticed that when the Abbess
+entered the room, she would immediately glance at the pile
+and write something in her notebook.  He resolved to
+learn her algorithm.
+
+On the following day, fourteen novices were interviewed.
+
+Seven novices did not touch the pile at all.  The
+abbot-apprentice noticed that for each of these, Jinyu
+wrote: /No Promotion./
+
+Four novices had drawn blocks from the pile to build simple,
+sturdy little structures: a pagoda with a stepped roof; a
+domed hut amid triangular pine trees; an ox-cart; a
+reclining man. For each, Jinyu wrote: /Developer./
+
+One novice arranged all the blocks neatly and compactly, by
+shape and size.  Jinyu wrote: /Configuration Manager./
+
+Another novice laid the blocks out tangram-style to make a
+beautiful mosaic of a swan.  Jinyu wrote: /Web Designer./
+
+The day's final novice had used all the blocks to construct
+an elaborate tower, the very picture of elegance and
+proportion.  The senior abbots gasped when they entered the
+room, yet Jinyu wrote nothing in her book.  Her apprentice
+wrote a small note in his own book and quietly slid it in
+front of Jinyu.  His note read: /Architect?/
+
+Jinyu did not respond.
+
+When the novice had answered all questions and was
+dismissed, Jinyu walked over to the tower and breathed
+gently on it.  The blocks swayed, tipped, and clattered to
+the table.
+
+Jinyu took out her notebook and wrote: /Sales./

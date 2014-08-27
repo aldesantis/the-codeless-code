@@ -1,0 +1,26 @@
+Number: 158
+Title: Lunedì, lunedì
+Lang: it
+Translator: alessandro1997
+
+Il lunedì un monaco venne inviato al maestro [[Kaimu]] per indagare: "Qual è
+il più grande pericolo del caching?"
+
+Kaimu rispose: "Il lunedì è il mio giorno più impegnato. Chiedimelo domani e ti
+insegnerò tutto ciò che so."
+
+Il martedì il monaco tornò e fece la stessa domanda.
+
+Kaimu rispose: "Il lunedì è il mio giorno più impegnato. Chiedimelo domani e ti
+insegnerò tutto ciò che so."
+
+== Il commento di Qi
+
+Se il monaco avesse fatto una domanda differente, non avrebbe imparato nulla.
+
+== Il poema di Qi
+
+Eku chiese perché Mungen fosse maleducato con il negoziante. //
+Mugen disse: Quel negoziante una volta mi vendette una pala rotta. //
+Eku rovesciò un secchio d'acqua sulla testa di Mugen. //
+Spiegò: l'anno scorso la mia casa andava a fuoco. //
