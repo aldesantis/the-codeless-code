@@ -3,7 +3,7 @@ Title: Características Necesarias
 Language: es
 Translator: Gonzalo Alcalde
 
-Ese mismo monje del Clan de la Huella del Elefante leía cuidadosamente el código creado por su clan. Allí habían varias implementaciones rivales de un Data Access Object particular; por ahora intentaba decidir cual sería la definitiva que su clan adoptaría.
+Ese mismo monje del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]] leía cuidadosamente el código creado por su clan. Allí habían varias implementaciones rivales de un Data Access Object particular; por ahora intentaba decidir cual sería la definitiva que su clan adoptaría.
 
 "Cada implementación tiene sus propias virtudes y vejaciones particulares," dijo el monje al maestro Java. "Y cada una tiene características que a las otras les faltan. Debo mandar a todas excepto a una a los vientos del olvido. ¿Cómo podré elegir?"
 
