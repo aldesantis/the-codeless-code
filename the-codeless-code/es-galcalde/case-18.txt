@@ -1,7 +1,7 @@
 Number: 18
 Title: Características Necesarias
-Language: es
-Translator: Gonzalo Alcalde
+Lang: es
+Translator: galcalde
 
 Ese mismo monje del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]] leía cuidadosamente el código creado por su clan. Allí habían varias implementaciones rivales de un Data Access Object particular; por ahora intentaba decidir cual sería la definitiva que su clan adoptaría.
 
