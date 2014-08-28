@@ -1,0 +1,47 @@
+Number: 159
+Title: Blocchi
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Il giorno successivo, Jinyu scoprì che uno dei novizi aveva rubato una dozzina di blocchi. Quando interrogato, insistette nell'affermare che li aveva portati egli stesso all'intervista. Jinyu scrisse: 'Domande di brevetto'
+
+La venerabile [[Jinyu]], la Badessa di Tutti i Clan e gli Interessi, era sempre
+presente quando ai novizi veniva consegnato il rapporto sulla produttività,
+giacché questi rapporti determinavano chi sarebbe avanzato nella gerarchia del
+Tempio e quale compito avrebbe svolto. Ciascun novizio aspettava da solo in
+una sala riunioni che gli abati anziani entrassero, così la Badessa lasciava
+sempre una pila di blocchi da costruzione di legno nella stanza perché i novizi
+potessero intrattenersi.
+
+L'abate apprendista di Jinyu si accorse che quando la Badessa entrava nella
+stanza, subito dava un'occhiata alla pila e scriveva qualcosa nel proprio
+taccuino. Decise di apprendere il suo algoritmo.
+
+Il giorno successivo, quattordici novizi vennero sottoposti al colloquio.
+
+Sette novizi non toccarono affatto la pila. L'abate apprendista notò che per
+ciascuno di questi Jinyu scrisse: /Nessuna promozione./
+
+Quattro novizi avevano disposto i blocchi della pila per costruire semplici,
+solide e piccole strutture: una pagoda con il tetto a spioventi; una capanna a
+cupola in mezzo a pini triangolari; un carro da buoi; un uomo che si sdraia. Per
+ciascuno, Jinyu scrisse: /Sviluppatore./
+
+Un novizio aveva disposto tutti i blocchi in maniera ordinata e compatta,
+secondo forma e dimensione. Jinyu scrisse: /Responsabile della configurazione./
+
+Un altro novizio aveva disposto i blocchi come un tangram per creare il
+meraviglioso mosaico di un cigno. Jinyu scrisse: /Web designer./
+
+L'ultimo novizio del giorno aveva usato tutti i blocchi per costruire una torre
+elaborata, l'immagine dell'eleganza e della proporzione. Gli abati anziani
+rimasero a bocca aperta quando entrarono nella stanza, ma Jinyu non scrisse
+nulla nel taccuino. Il suo apprendista scrisse una piccola nota nel proprio e lo
+passò silenziosamente a Jinyu. La nota diceva: /Architetto?/
+
+Jinyu non rispose.
+
+Quando il novizio ebbe risposto a tutte le domande e venne congedato, Jinyu si
+avvicinò alla torre e vi soffiò leggermente. I blocchi oscillarono, si
+inclinarono e caddero sul tavolo.
+
+Jinyu prese il proprio taccuino e scrisse: /Vendite./
