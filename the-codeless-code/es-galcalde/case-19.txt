@@ -1,0 +1,16 @@
+Number: 19
+Title: Con Cualquier Otro Nombre
+Lang: es
+Translator: galcalde
+
+Al viejo escriba se le preguntó por qué, en sus reportes oficiales, eran nombrados los templos y los clanes pero no los monjes y sacerdotes.
+
+“Si le diera una hoja de figuras para contar, ¿otorgarías un nombre sobre cada número siete?” preguntó el escriba, despidiendo al interrogador con una mano manchada de tinta.
+
+Eso fue mencionado al maestro Java, quien asintió y acabó su té.
+
+A la mañana siguiente el escriba subió a su oficina, sólo para encontrar lo siguiente escrito en letras espesas sobre la puerta:
+
+	public static final int NUM_DIAS_DE_LA_SEMANA =
+
+Ante esto, el viejo escriba [[Qi]] fue iluminado.
