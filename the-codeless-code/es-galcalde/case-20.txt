@@ -1,0 +1,54 @@
+Number: 20
+Title: Ni Sí ni No
+Lang: es
+Translator: galcalde
+
+Una monja del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]] se sentó cruzada de piernas sobre su escritorio, contemplando calladamente un diagrama Entidad-Relación en su pizarra.
+
+El maestro Java{{*}} la observaba y se le acercó.
+
+El Dios del Silencio entre Palabras estaba en el cuarto.
+
+- - -
+
+La monja señaló el diagrama. "Esta columna llamada <em>completo<em> es declarada para contener un entero. Una examinación de los datos muestra que contiene dos valores únicos: cero y uno. Presumo que el cero indica falsedad, y el uno, verdad."
+
+Dijo el maestro: "Sólo un iniciado puede decir qué se cuenta con esos números."
+
+Dijo el Dios del Silencio entre Palabras: "La presencia de un sólo cero implica la existencia de un uno para contarlo, y luego un dos para contar ambos, y así hasta el infinito. ¿El universo ha aparecido de ese modo desde Did the universe spring thusly from the shell of a serpent's egg?"
+
+- - -
+
+La monja levanto sus dedos índice y mayor de su mano derecha. "He considerado almacenar un dos en alguna fila al azar, simplemente para observar el efecto en la aplicación."
+
+Dijo el maestro: "Buscas determinar si la verdad es considerada como la presencia de un uno, o la ausencia de un cero."
+
+Dijo el Dios del Silencio entre Palabras: "La ausencia de un cero implica una presencia. La presencia de un cero implica una ausencia. Cuando la serpiente se devora su cola hasta la punta de su lengua, ¿Qué es lo que queda?"
+
+- - -
+
+La monja presionó su dedo índice en su mentón. "La columna también permite nulls. Si la columna hace una pregunta, la convención dicta que un null representa una respuesta desconocida."
+
+Dijo el maestro: "Este null es o la pausa arpía que precede a una mentira, o el dulce silencio antes de la revelación de la verdad. Su calidad se basa enteramente en lo que volverá. Sólo cuando deja de existir entenderíamos qué fue."
+
+Dijo el Dios del Silencio entre Palabras: "El fantasma pide prestada la forma del fallecido. Y sin embargo ¿Qué forma podremos asignarle al espíritu del aún no nacido?"
+
+- - -
+
+La monja juntó sus dedos. "Antes que la aplicación consulte la base de datos, el valor de esta columna es desconocido. Después, cualquier null en esta columna será representado intencionalmente como un null Booleano. El valor será simultaneamente conocido y desconocido."
+
+Dijo el maestro: "Sólo hemos aprendido que no aprendimos nada, y sin embargo es la raiz de la sabiduría."
+
+Dijo el Dios del Silencio entre Palabras: "El sabio el tonto van a sus tumbas igual en este sentido: ambos creen que el sabio es un tonto. Entonces ¿Donde puede encontrarse la sabiduría?"
+
+- - -
+
+La monja dobló sus manos en su regazo. "El entero SQL null, persistido, se vuelve el null Booleano en la memoria volátil. Dos nadas, de naturalezas muy diferentes.  ¿Como pueden las ausencias ser desiguales?"
+
+El maestro asintió.
+
+El Dios del Silencio entre Palabras levantó una ceja.
+
+
+
+{{*}} Probablemente [[Kaimu]].
