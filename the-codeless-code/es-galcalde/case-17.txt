@@ -1,7 +1,7 @@
 Number: 17
 Title: No Inventado por Mi
-Language: es
-Translator: Gonzalo Alcalde
+Lang: es
+Translator: galcalde
 
 A un monje del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]] se le dio la orden de eliminar los montones de código redundante creado por dicho clan. Él se acercó al sumo sacerdote del clan para que lo guíe.
 
