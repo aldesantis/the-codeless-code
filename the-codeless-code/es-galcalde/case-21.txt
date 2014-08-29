@@ -1,0 +1,22 @@
+Number: 21
+Title: Interrupción
+Lang: es
+Translator: galcalde
+
+Cierto monje fue declarado indispuesto a abandonar su terminal. Durante dos días estuvo sin comer ni dormir.
+
+Cuando el maestro Java investigó, encontró al minje visiblemente perturbado. En pantalla estaba el siguiente código, el cual en aquel momento corría bajo el debugger:
+
+<pre>
+    while (true) {
+       &#x2F;* do nothing *&#x2F;
+    }
+</pre>
+
+"He afirmado que el bucle debe ejecutarse mientras la verdad sea verdadera," dijo el monje. "Sin embargo si apreto la tecla de interrupción, el bucle terminará. La implicación es que, en ese preciso momento, <em>la verdad ya no será verdadera.<em> ¿Como puede alguno de nosotros atreverse a perturbar el programa? ¡Podremos traer el caos sobre el mundo!"
+
+El maestro Java llegó al enchufe y lo desconectó. La pantalla quedó en blanco.
+
+"Ahora el bucle jamás podrá ser interrumpido," dijo el maestro.
+
+La mente del monje quedó aliviada.
