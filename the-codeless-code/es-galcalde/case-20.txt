@@ -11,7 +11,7 @@ El Dios del Silencio entre Palabras estaba en el cuarto.
 
 - - -
 
-La monja señaló el diagrama. "Esta columna llamada <em>completo<em> es declarada para contener un entero. Una examinación de los datos muestra que contiene dos valores únicos: cero y uno. Presumo que el cero indica falsedad, y el uno, verdad."
+La monja señaló el diagrama. "Esta columna llamada <em>completo</em> es declarada para contener un entero. Una examinación de los datos muestra que contiene dos valores únicos: cero y uno. Presumo que el cero indica falsedad, y el uno, verdad."
 
 Dijo el maestro: "Sólo un iniciado puede decir qué se cuenta con esos números."
 
