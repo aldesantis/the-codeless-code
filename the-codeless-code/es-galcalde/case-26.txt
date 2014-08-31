@@ -1,0 +1,12 @@
+Number: 26
+Title: El Monje Incorregido
+Lang: es
+Translator: galcalde
+
+Dos sacerdotes del [[Seven-Clawed Blind Eagle Clan|Clan del Águila Ciega de Siete Garras]] hallaron al maestro Java [[Banzen]] llorando en su teclado. Le preguntaron qué lo afligía.
+
+"El código de este monje es abismal," dijo el maestro. "La estructura de paquetes no es intuitiva, los nombres de las clases son indescriptibles, los métodos enormemente complejos, y los comentarios complétamente inútiles. Durante los últimos diez años él atendió a cada lectura que he dad, y en verdad siguió mis instrucciones al pie de la letra. Sin embargo el fruto de sus labores es desagradable al extremo."
+
+El primer sacerdote miró el código. "Ciertamente, la corrección está en orden. Sugiero que comience con una simple paliza."
+
+El maestro suspiró y asintió, bajando su bata para desnudar sus hombros.
