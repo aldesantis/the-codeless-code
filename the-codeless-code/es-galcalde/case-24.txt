@@ -1,0 +1,28 @@
+Number: 24
+Title: La Libreta Roja
+Lang: es
+Translator: galcalde
+
+En los anales del [[Temple of the Morning Brass Gong|Templo del Gong de Latón Mañanero]], esto fue registrado en el capítulo titulado <em>Testing Unitario</em>:
+
+El maestro Java [[Kaimu]] ocasionalmente respondería las preguntas con la palabra <em>null.</em> Cuando se le preguntaba su significado, invariablemente respondería con el mismo, impenetrable <em>null.</em>
+
+Un joven monje, de naturaleza solitaria y empalagosa, empezó a tomar nota de qué preguntas sacarían esa respuesta. Aquellas fueron copiadas a una pequeña libreta roja, cuyas páginas se llenaron durante los meses. Al monje se lo observaba meditando sobre la libreta por la noche.
+
+"¿Aún no has destrabado la mente de tu querido maestro Kaimu?" se burlaron sus hermanos un día.
+
+<em>"Null, "</em> dijo el monje.
+
+Ante esto, los otros monjes lo agarraron rápidamente y lo patearon hasta que estuvo bien magullado. Su precioso libro rojo fue arrojado al fuego.
+
+El maestro Java escuchó de esto, y pidió al abad del clan que investigue. "Aquí hay cuarenta y ocho preguntas para el joven monje." dijo el maestro. "Infórmeme de sus respuestas."
+
+Elabad hizo eso. Para la mayoría de las preguntas el monje dio una respuesta lisa. Para varias, respondió con el enigmático <em>null.</em> Para el resto, estuvo callado.
+
+El maestro Java acarició su barba mientras examinaba el papel dado por el abad.
+
+"Por su respuesta a la pregunta doce, dele puñetazos a sus oídos; por ser insolente," dijo el maestro. "Por su respuesta a la pregunta treinta y uno, azota su trasero con una vara de sauce; por prevaricar. Luego provéalo con otra libreta roja."
+
+"¿Y que hay de los hermanos que lo golpearon?" preguntó el abad.
+
+"Recompénselos, por haber hecho un servicio al templo. Ahora sé que el algoritmo del monje tiene fallos."

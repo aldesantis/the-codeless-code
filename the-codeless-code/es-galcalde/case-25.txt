@@ -1,0 +1,14 @@
+Number: 25
+Title: Compromiso
+Lang: es
+Translator: galcalde
+
+Dos monjes vinieron ante el maestro Java con estrategias muy diferentes de implementación para un proyecto particular. Cada uno presentó su caso con pasión y convicción.
+
+Después de algo de consideración, el maestro les dijo que dividieran los subsistemas. Cada monje tomaría la mitad y procedería con la estrategia preferida.
+
+El primer monje protestó: “Para un problema dado, ¿No hay a menudo una solución superior?”
+
+El segundo monje estaba igual de insatisfecho: “E incluso si la elección superior no es clara, no es generalmente mejor proceder consistentemente, y así evitar el caos?”
+
+“Sí,” dijo el maestro Java. “¿No estaban prestando atención ustedes?”

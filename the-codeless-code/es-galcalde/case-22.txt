@@ -1,0 +1,32 @@
+Number: 22
+Title: Seguridad
+Lang: es
+Translator: galcalde
+
+Un monje del [[Laughing Monkey Clan|Clan del Mono que Ríe]] era muy familiar con el software producido por el Templo Caritativo del Yak Erizado, y deseaba usar uno de sus módulos para su último proyecto. Pero el repositorio de código de su clan estaba bajo fuerte vigilancia, y el monje tenía que tener permiso de la jerarquía del monasterio para consumir cualquier software de terceros.
+
+El sumo sacerdote de su clan estaba dispuesto a permitir el módulo, pero bajo una sóla condición: una clase wrapper debe ser producida primero por el sacerdocio. Todo acceso al módulo sería hecho a través del wrapper.
+
+Dijo el sacerdote, "Esto asegurará que no hagas uso de características que sean muy complejas para tus habilidades. Y hay un beneficio añadido: si alguna vez juzgamos la implementación del Yak erizado como inadecuada, nuestro sacerdocio será capaz de sustituir otro módulo por el back end del wrapper, y nadie usando el wrapper tendrá molestias por el cambio."
+
+El monje se inclinó y reportó el intercambio al maestro Java.
+
+El maestro Java llamó al sacerdote, y sugirió que hicieran un viaje juntos en auto a las montañas, para meditar la mejor manera de construir este wrapper.
+
+"Usted conduce," dijo el maestro.
+
+Se sentaron en el auto del sacerdote, con lo cual el sacerdote se enojó.
+
+"El dial de mi radio parece haber sido robada," dijo el sacerdote.
+
+"Eso es bueno," dijo el maestro Java. "La música sería una distracción peligrosa en los caminos angostos."
+
+"También, las perillas del aire acondicionado," dijo el sacerdote.
+
+"¡Excelente!" dijo el maestro Java. "El aire frío exacerba el reumatismo, y causa enfermedad en los intestinos."
+
+El sacerdote prendió la llave de inicio, y le respondió el silencio. Dejó su asiento para investigar.
+
+"Además," dijo el sacerdote, "parece que el capó ha sido soldado."
+
+"¡Que su buena fortuna nunca acabe!" gritó el maestro Java. "Ahora es seguro que nadie dañará su motor. Y si el color de las llantas resulta insatisfactorio, espero que sean reemplazadas sin efecto discernible sobre la suavidad del viaje."
