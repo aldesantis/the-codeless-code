@@ -1,0 +1,26 @@
+Number: 27
+Title: Koan Cero
+Lang: es
+Translator: galcalde
+
+El viejo escriba [[Qi]] mantenía los kōans del templo en un libro gigante, conocido por nosotros como <em>El Código sin Código</em>. En sus páginas descansa la sabiduría entera del templo. Mantenerlo era el deber más sagrado y singular del escriba.
+
+Un día le preguntó un aprendiz por qué los kōans eran numerados a partir del número <em>uno</em>.
+
+"¿No hubiera sido más apropiado para nuestra profesión el <em>cero</em>?" preguntó el aprendiz.
+
+Una expresión de horror se arrastró por la cara del viejo. Con los dedos temblando pasó página tras página de las cuentas del templo. Sin duda, cada kōan, del primero al último, tenía el número equivocado. Y como todos los documentos, bases de datos, y sitios web internos del templo mencionaban a los kōans sólo por el número, el daño era irreparable.
+
+El escriba quedó desolado. Durante siete días se sentó acurrucado en un rincón de su oficina, con la mirada fija hacia su pincel sin tinta como si creyera que fuera una cobra lista para atacar.
+
+El silencio se esparció por el templo como una enfermedad. Como ningún nuevo kōan se dejaba por escrito, no había tema de discusión en las reuniones matutinas y nada para que los estudiantes meditaran en la tarde. Finalmente, la vieja [[Jinyu]] -- la venerable Abadesa de Todos los Clanes y asuntos de Interés -- fue reclamada para resolver la cuestión.
+
+La abadesa tocó la puerta del escriba pronunciadamente con su bastón, despertando al hombre de su miseria.
+
+"Joven," dijo ella (puesto que el viejo escriba seguía siendo su estudiante por muchos años): "¿No es cierto que cada kōan del día es producido meditando sobre la sabiduría que el templo adquirió desde que el kōan anterior fue escrito?"
+
+"Lo es," dijo el escriba, inclinándose profundamente.
+
+"Entonces tu camino está claro: vuelve al Kōan Número Uno, sustrae la sabiduría que enseña, y será revelado el Kōan Número Cero. Y de la misma forma el Kōan Menos Uno, y Menos Dos, y así hasta el inicio del tiempo."
+
+Así la carga del trabajo del escriba se duplicó, pero su miseria se sustrajo de sí misma.
