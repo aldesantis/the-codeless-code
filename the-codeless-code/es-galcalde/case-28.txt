@@ -1,0 +1,51 @@
+Number: 28
+Title: Eco
+Lang: es
+Title-footnote: *
+Translator: galcalde
+
+Al [[Clan of Iron Bones|Clan de los Huesos de Hierro]] se le dio la orden de mantener corriendo los servidores. Ese era su propósito, y era su orgullo.
+
+Un monje del clan corría una revisión de seguridad cuando se dio cuenta de varios servicion no esenciales activados. Reportó sus hallazgos al abad.
+
+"Debemos apagar el servicio <em>echo</em> en el puerto siete," dijo el monje. "Es un remanente de tiempos olvidados, y no sirve más para un propósito útil. Todo lo que hace es vomitar todo lo que se le alimenta, como ayuda para probar la latencia y conectividad de la red."
+
+Para sorpresa del monje, el abad inmediatamente lo desterró por un año a un retiro en las altas montañas. No se le dio ninguna razón.
+
+El viaje tomo varias semanas. El camino serpenteaba hacia arriba y finalmente desaparecía bajo montones de nieve. El aire se volvió enrarecido. En las últimas millas la montaña se volvió traicioneramente empinada: el camino casi invisible rodeaba un precipicio hacia el olvido. Cuado cayó la noche el monje casi perdió la vida por alejarse demasiado cerca del borde.
+
+Al final llegó a una cabaña posada encima de un peñasco solitario. La cabaña estaba fría y vacía excepto por una cama, un tazón, y una vieja estación de trabajo con una terminal VT220.
+
+Un día el monje estaba meditando cuando la terminal hizo un beep. En pantalla leyó:
+
+<pre>
+  <b>Conexión recibida. Payload:</b>
+  ¡Diez mil saludos a nuestro primo distante!
+  <b>¿Respuesta?</b>
+</pre>
+
+El monje respondió con una ráfaga de preguntas entusiasmadas, pero su propia entrada fue rechazada por la terminal. En un flash el monje quedó iluminado, y escribió:
+
+<pre>
+  ¡Diez mil saludos a nuestro primo distante!
+</pre>
+
+Después de eso la terminal haría un beep no más de una vez cada varios días. A veces el mensaje era un simple <em>hola</em>. A veces era un poema pequeño sobre el comprtamineto burlón de un zorro marrón rápido{{1}}. A veces era una cadena de galimatías. Pero el monje siempre respondía rápida y fielmente. De esa manera el monje pasó el año.
+
+Cuando volvió al templo siguió de esa manera: hablando sólo cuando se le hablaba y devolviendo las palabras tal como se le daban. Y aunque eso le ganó el desdén de sus compañeros, todos tuvieron que admitir que nunca esparcía rumores, ni mentía por interes personal, ni insultaba a nadie que no los lastimara primero.
+
+== Comentario de Qi
+
+La penitencia del monje fue demasiado floja; pero luego, el era un zorro afortunado. Si en vez se quejara sobre el servicio <em>discard</em> en el puerto nueve, habría aprendido a mantener la boca cerrada.
+
+
+== Poema de Qi
+
+La torre se para orgullosamente, //
+la estatua contempla el mar. //
+¿Que gran obra no fue creada, //
+sino en la que el constructor viera su reflejo del mundo?
+
+{{*}} Traducción de "Echo". Comando para mostrar la cadena dada en el entrada en el output estándar.
+{{1}} <em>The quick brown fox jumps over the lazy dog</em>, significa "El zorro marrón rápido salta sobre el perro vago", es un pangrama usado para probar máquinas de escribir y otros instrumentos.
+{{2}} El servicio <em>discard</em> descarta cualquier entrada. 
