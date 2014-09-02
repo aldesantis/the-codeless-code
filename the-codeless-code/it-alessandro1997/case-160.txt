@@ -1,0 +1,36 @@
+Number: 160
+Title: Nell'occhio di chi guarda
+Lang: it
+Translator: alessandro1997
+
+Un monaco del [[Laughing Monkey Clan|Clan della Scimmia Ridente]] trovò il
+maestro [[Banzen]] che canticchiava davanti alla propria lavagna con un'insolita
+gioia dipinta sul viso. Intrigato, il monaco si nascose dietro un grande vaso
+per investigare.
+
+Mentre il monaco guardava, Banzen riempì la lavagna con un diagramma di classi
+di ripugnante complessità. Il maestro fece quindi un passo indietro per valutare
+il proprio lavoro.
+
+"Meraviglioso!" disse Banzen.
+
+Quindi cancellò l'intera lavagna.
+
+La scena si ripeté molte altre volte. Il design diventava sempre più complicato,
+eppure a ogni iterazione Banzen emetteva lo stesso verdetto e poi distruggeva
+completamente il proprio lavoro, canticchiando felicemente tra sé e sé.
+
+Il monaco andò a cercare l'allievo di Banzen, [[Djishin]]. "Cosa sta facendo il
+tuo maestro?" chiese il monaco.
+
+"Implementa le regole di business per una nuova applicazione" disse Djishin.
+
+Il monaco esitò, quindi sussurrò: "Il suo design è sorprendentemente brutto."
+
+Djishin sussurrò in risposta: "Le regole di business sono sorprendentemente
+brutte."
+
+Il monaco alzò le mani. "Allora perché gironzola come uno scolaretto innamorato
+e chiama queste cose 'meravigliose'?"
+
+Djishin rise. "Non il design, non le regole. La sfida."

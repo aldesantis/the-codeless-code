@@ -1,0 +1,42 @@
+Number: 160
+Title: The Eye of the Beholder
+Date: 2014-08-31
+Names: Banzen, Djishin, Laughing Monkey Clan
+Topics: joy-hacking, morale, design, complexity, challenge
+Geekiness: 1
+
+A monk of the [[Laughing Monkey Clan]] found master [[Banzen]]
+humming before his whiteboard with an uncharacteristically
+happy expression on his face.  Intrigued by this, the monk hid behind
+a large potted plant to investigate.
+
+As the monk watched, Banzen filled his whiteboard with a
+class diagram of hideous complexity.  The master then took a
+step back to consider his work.
+
+"Beautiful!" said Banzen.
+
+He then erased the entire board.
+
+The master did this several more times.  His design grew
+increasingly convoluted, yet with each iteration Banzen
+would make the same proclamation and then completely destroy
+his work, humming happily to himself.
+
+The monk sought out Banzen's pupil [[Djishin]].  "What is your
+master doing?" the monk asked.
+
+"Implementing the business rules for a new application,"
+said Djishin.
+
+The monk hesitated, then whispered, "His design is
+surprisingly ugly."
+
+Djishin whispered back, "The business rules are surprisingly
+ugly."
+
+The monk threw up his hands.  "Then why does he dance about
+like a schoolboy in love, and call these things 'beautiful'?"
+
+Djishin laughed.  "Not the design, not the rules.  The
+challenge."
