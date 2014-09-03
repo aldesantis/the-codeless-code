@@ -1,0 +1,40 @@
+Number: 29
+Title: Carpa Dorada
+Lang: es
+Translator: galcalde
+
+Cuando un aprendiz se une al templo y dice buscar sabiduría, se le aconseja buscar al maestro Java Bawan y preguntarle: "¿Cómo la vieja y astuta Madame [[Jinyu]] se volvió Abadesa de Todos los Clanes y asuntos de Interés?"
+
+El Maestro [[Bawan]] le golpearía el trasero con una pala, y lo instruía para volver la noche siguiente para preguntar de nuevo. A la noche siguiente la respuesta será la misma, y concluirá con la misma orden de volver, hasta que el aprendiz quede iluminado.
+
+Los anales nos cuentan esto:
+
+Cuando la Venerable Jinyu era una monja de veinticinco años, ella y un monje de la misma edad fueron acercados por el abad de su clan.
+
+"El Emperador vendrá para inspeccionar el nuevo servidor VAX, y para elegir miembros dignos para varios Comités Reales," dijo el abad. "Por lo tanto deseamos que Su Excelencia quede impresionada con todas las facetas del templo. Los estanques koi están sin vida y atascados con hierbas. Cada uno de ustedes debe tomar un estanque, limpiarlo bien, y asegurarse de que nuevos peces estén presentes <em>cada mañana</em> para diversion del Emperador."
+
+Al monje se le dio el Estanque Norte. El agua verde estancada no era apta para cualquier ser vivo, así que con un yugo y unos baldes el monje capturó hasta la última gota. Luego fregó los líquenes de las piedras, arrancó las hierbas, y llevó balde tras balde de agua limpia del pozo del templo. Después de una semana en el pequeño estanque pululaban carpas rojas y doradas, compradas en los mercados con las propias monedas del monje.
+
+Mientras, el Estanque Sur permanecía intacto, y a la joven Jinyu no se la encontraba en ningún lugar.
+
+Con la visita del Emperador acercándose rápido, el abad fue a buscar a la monja. Cuando Jinyu fue traída ante él, le dio puñetazos a sus orejas. "Si el Emperador pierde confianza en nuestro templo, nuestro contrato de servicios IT puede no ser lo único que se nos corte prematuramente."
+
+Jinyu se inclinó. "Todo será como lo ordenado, en dos días."
+
+Al día siguiente el abad fue al Estanque Norte, el cual ahora estaba lleno de carpas blancas y negras -- de nuevo, compradas por el monje de los mercados en el pueblo. Sin embargo el estado del Estanque Sur era exáctamente identico al de antes. Él halló a Jinyu descansando bajo un ciprés, y le dio puñetazos a sus orejas otra vez.
+
+De nuevo Jinyu se inclinó. "Todo será como lo ordenado, mañana por la mañana."
+
+Al día siguiente, el abad fue una vez más al Estanque Norte, el cual explotaba de carpas rayadas y con manchas. Sin embargo el estado del Estanque Sur era <em>peor</em> que antes: el bonito jardin rodeándolo había sido desenterrado, y parada en el medio de la ruina estaba Jinyu y su pala.
+
+El abad le dio puñetazos a las orejas de Jinyu. "¡Explíquese!" exigió.
+
+La monja no dijo nada, pero dirigió su pala hacia un cúmulo de tierra al borde del estanque. Detrás había una zanja que Jinyu cavó todo el camino hacia el río debajo del templo. Con el cúmulo desaparecido, el agua estancada se derramaba fuera del estanque y desaparecía por la zanja.
+
+Luego Jinyu dirigió su pala hacia el otro extremo del estanque, revelando una zanja que llevaba las aguas de un arroyo de montaña. El arrollo llegaba al estanque y salía por el otro lado, limpiando las piedras y barriendo las hierbas muertas. En el agua oscura, destellos de rojo y dorado podían verse.
+
+- - -
+
+Por eso Jinyu fue elegida para encabezar el Subcomité Exaltado del Testing Automatizado.
+
+Y si cualquiera disputase esta explicación, que primero busque al maestro Java Bawan, y haga la pregunta del ritual.
