@@ -1,0 +1,18 @@
+Number: 32
+Title: Hierbas
+Lang: es
+Translator: galcalde
+
+El templo necesitaba un desarrollador adicional, y dos iniciados potenciales se postularon para tal posición. El maestro Java [[Banzen]] mandó a un monje para entrevistarlos.
+
+"Estaban igualmente calificados en todos los aspectos," reportó el monje aquella tarde. "De edad, peso, comportamiento, aseo, competencia con la espada, y preferencia por la bebida cafeinada idénticas. Así que les propuse el mismo problema lógico a ambos candidatos. Uno falló en resolverlo; el otro tuvo éxito."
+
+El maestro Java Banzen dijo: "Llévame a los cuartos donde fueron entrevistados."
+
+Primero fueron al cuarto del candidato fallido, cuyo funcionamiento del problema seguía en el pizarrón con marcador verde jade. Figuras dolorosamente nítidas marchaban por el pizarrón en filas y columnas precisas. El maestro Java Banzen rápidamente halló el error en el razonamiento del candidato.
+
+El maestro Java dijo: "Aquí está una arboleda de parras de guisantes, luchando por abrirse camino entre la nieve del invierno. Si las criamos comeremos bien durante la primavera."
+
+Luego fueron al cuarto del candidato exitoso. Aquí también el problema crítico fue trabajado en marcador verde, pero en este cuarto se extendía por todo el pizarrón sin orden distinguible. Garabatos veloces rodaban por todos lados e incluso por encima de estos mismos -- un enredo denso de galimatías.
+
+El maestro Java agitó su cabeza. "Aquí me dices que hay eneldo y citronella frescos, pero nunca los encontraría por toda la mala hierba."
