@@ -1,0 +1,20 @@
+Number: 31
+Title: La Sandalia Elocuente
+Lang: es
+Translator: galcalde
+
+Dos monjes llevaron su discusion ante el maestro Java [[Kaimu]]. Le preguntaron, "¿Null es un valor, o la ausencia de un valor?"
+
+"Null," dijo el maestro, y se alejó.
+
+Los monjes luego procedieron a discutir el significado de la repsuesta del maestro, incluso después de que el clan se retirase al dormitorio y todas las lámparas se apagaran:
+
+El primer monje insistió que null <em>debe</em> ser un valor, porque el maestro lo utilizó para responder una pregunta.
+
+El segundo monje insistió que null <em>no debe</em> ser un valor, porque la respuesta sin respuesta no incluía cualquiera de las alternativas propuestas.
+
+Un tercer monje, que intentaba dormir, gritó y tiró su sandalia a la oscuridad.
+
+Un cuarto monje preguntó astutamente: "¿Fue ese un pedido elocuente de silencio, o la <em>ausencia</em> de un pedido elocuente de silencio?"
+
+Mientras los dos primeros monjes consideraron esto, salió la luna.
