@@ -10,7 +10,7 @@ Un monje del clan corría una revisión de seguridad cuando se dio cuenta de var
 
 "Debemos apagar el servicio <em>echo</em> en el puerto siete," dijo el monje. "Es un remanente de tiempos olvidados, y no sirve más para un propósito útil. Todo lo que hace es vomitar todo lo que se le alimenta, como ayuda para probar la latencia y conectividad de la red."
 
-Para sorpresa del monje, el abad inmediatamente lo desterró por un año a un retiro en las altas montañas. No se le dio ninguna razón.
+Para sorpresa del monje, el abad inmediatamente lo desterró por un año a una ermita en las altas montañas. No se le dio ninguna razón.
 
 El viaje tomo varias semanas. El camino serpenteaba hacia arriba y finalmente desaparecía bajo montones de nieve. El aire se volvió enrarecido. En las últimas millas la montaña se volvió traicioneramente empinada: el camino casi invisible rodeaba un precipicio hacia el olvido. Cuado cayó la noche el monje casi perdió la vida por alejarse demasiado cerca del borde.
 
