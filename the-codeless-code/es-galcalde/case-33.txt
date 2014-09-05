@@ -1,0 +1,41 @@
+Number: 33
+Title: Miedo
+Lang: es
+Translator: galcalde
+Illus.4.title: Sí, pero igual no recibe mucho correo.
+
+Un monje superior, recientemente inducido en el templo, se acercó al maestro Java frustrado:
+
+"Se me ha asignado añadir varias características al sistema de procesamiento de órdenes del Zapatero Imperial, sin embargo no puedo comenzar a entender como funciona.  LA lógica está distribuida entre múltiples aplicaciones, cada una implementada con tecnologías extremadamente diferentes. En vez de crear utilidades comunes los autores meramente copiaron franjas de código de un lado a otro, a veces introduciendo diferencias sutiles después. Los trabajos de segundo plano buscan y modifican registros de la base de datos sin alguna razón documentada, y la propia base de datos conspira contra mí: una simple update de una tabla puede desatar una cascada de inserts y deletes en otras."
+
+"Veo dos caminos ante ti," dijo el maestro Java. "En el primero, haces sólo los añadidos necesarios y rápidamente cantas victoria. En el segundo, empiezas la ardua tarea de refactorizar el código base. ¿Cómo procederás?"
+
+El monje se inclinó de verguenza. "No puedo decir. Por ahora tengo miedo de tocar algo, no sea que mi ignorancia resulte mi ruina."
+
+"El miedo crea una buena armadura pero una pobre espada," asintió el maestro Java. "Para vencer tu miedo, debemos disipar tu ignorancia." Con su bastón deslizó el mosquitero e hizo gestos al bosque más allá.
+
+"Sigue el Camino de Ortigas Blancas por tres días hacia las montañas, y llegarás a una ermita posado en un precipicio. Un hermano aprendido mora allí y mantiene copias de nuestra documentación del cliente. El te aconsejará en el diseño del sistema."
+
+El monje hizo lo que se le dijo, y a la puesta de sol llegó a la ermita, el cual era un edificio diferente a cualquiera que haya visto.
+
+Claramente comenzó su vida como una casa de piedras robusta al borde del precipicio, pero tres alas nuevas de pino rústico con tejas de corteza lo empujan ahora más allá del precipicio y hacia el espacio. Más allá habían senderos y escaleras abiertos, acabando en docenas de cuartos posados en zancos diagonales que eran (sólo apenas) soportados por afloramientos rocosos muy abajo.
+
+Ancladas en los cuartos habían otras ampliaciones que estiraban el edificio aún más hacia el vacío, hechas de bambú e inclinados locamente en todas las direcciones.  Rampas y escaleras erupcionaban de sus partes inferiores, conduciendo a cuartos aislados suspendidos por cuerdas hechas mayormente de junco y paja. Todo era unido con lineas de cáñamo, anudadas a un alféizar por aquí y a una veleta por allá, como si una araña enorme y borracha hubiese atrapado un centenar de chozas en su telaraña.  La estructura se balanceaba tremendamente en la dulce brisa, chirriándola.
+
+El monje se quedó boquiabierto por un tiempo, luego se recuperó y golpeó el gong.
+
+Desde el cuarto más lejano vino el hermitaño, meneando las cuerdas de arriba y laas azoteas de abajo, desapareciendo en un escotillón de bambú y finalmente reapareciendo en la puerta de la choza.
+
+"¿Qué noticias hay del templo para mí?" preguntó el ermitaño. "¿Fui invocado a casa finalmente?"
+
+El monje indicó que no tenía esas noticias que transmitir.
+
+El ermitaño colgó su cabeza. "¡Miserable yo! Hasta que la palabra sea dada, mi tarea es expandir esta ermita hacia afuera más allá del borde del precipicio, para almacenar la creciente colección del archivos temporales del templo. Lo he hecho por años, fiel y sumisamente, esperando ganarme un día el favor del maestro y volver del exilio. Pero confieso que mi trabajo se vuelve más difícil con cada estación que pasa. Las nieves del invierno se cuelgan tan pesadamente en los tejados que los zancos de bambú empiezan a colapsarse, y en el verano debo pelear contra las urracas para evitar que mis paredes de paja se vuelvan parte del nido de alguien. Por cierto... ¿No posees (espero) alguna alergia? ¿Polen? ¿Ambrosía? Una vez vi siete cuartos colapsar y caerse por el precipicio ante un estornudo vigoroso..."
+
+"¡Pero esto es una locura!" gritó el monje. "Ahora que tienes un sentido de cuantos cuartos se necesitan, ¿no puedes tirar abajo esta monstuosidad y empezar de nuevo?"
+
+"Qué tontería. ¡Imagina el tiempo que puede tomar semejante esfuerzo, y que tan disgustado estará mi maestro mientras tanto! ¿Como podría justificar el quitar almacenes en vez de añadirlos? ¡Mi exilio será extendido por otra década! No, es mucho más seguro hacer exactamente lo que se me pidió. Igual, entiendo bastante bien esta ermita, sus lugares fuertes y débiles; y miestras siga pisando suavemente y evite la pimienta, mis probabilidades de morir en una larga caida son razonablemente bajas.
+
+"Pero es suficiente de mi apuro, hermano aprendido. Si no has sido enviado para invocarme a casa, entonces debes necesitar mi ayuda para entender el sistema de procesamiento de órdenes del Zapatero Imperial. Muchos como tú viniero para ese propósito, porque yo fui su autor."
+
+El monje sólo se inclinó y volvió por el camino, habiendo obtenida la iluminación prometida de la ermita.

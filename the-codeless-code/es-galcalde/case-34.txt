@@ -1,0 +1,15 @@
+Number: 34
+Title: El nombre de los nombres
+Lang: es
+Translator: galcalde
+Illus.0.title: MISTER DISCIPLINA viene con su propio soporte y un suplemento anual de cera de teca. MISTER DISCIPLINA no está disponible en tiendas. ¡Llame ya!
+
+La sacerdotisa [[Suku]] estaba revisando el software de sus aprendices cuando halló un módulo cuyos nombres de variables la disgustaban inmensamente. Los Value Objects se llamaban <em>vo</em> o simplemente <em>obj</em>, sin importar el tipo. Las listas se llamaban <em>list1</em>, <em>list2</em>, etc. Sus respectivos iteradores se llamaban <em>i</em>, <em>j</em>, y (por ninguna razón entendible) <em>x</em>.
+
+La sacerdotisa caminó con paso largo hacia las cocinas del templo donde los aprendices preparaban la merienda. Ella desenganchó una inmensa paleta para arroz de su clavija, halló al desarrollador transgresor, y dió rienda suelta a su disgusto en el trasero del chico.
+
+<em>"¡¿Qué hice?!"</em> aulló el aprendiz mientras la paleta aterrizaba con un jugoso golpe por décima vez.
+
+"¡Invectiva!" respondió la sacerdotisa. "¡Verbo tus palabrota sustantivos!"
+
+Esta escena se repitió cada noche hasta que el aprendiz fue iluminado.
