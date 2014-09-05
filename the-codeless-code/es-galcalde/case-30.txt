@@ -26,5 +26,5 @@ Cada una de las copas del mendigo es igual en cualquier manera a la que está a 
 
 En manos del mendigo, el bastón genera piedad. //
 En manos del maestro, miedo. //
-Esas cualidades no residen <em>en el</em>bastón: //
+Esas cualidades no residen <em>en el</em> bastón: //
 sólo en el <em>donde</em> del mismo.
