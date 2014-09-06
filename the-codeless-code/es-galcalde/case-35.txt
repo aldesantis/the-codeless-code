@@ -1,0 +1,57 @@
+Number: 35
+Title: El Gorrión Se Libera
+Lang: es
+Translator: galcalde
+Illus.2.title: Intentó deletrear AYUDA, pero tuvo un esguince haciendo la D. Deberían enseñar a escribir en cursiva en la escuela de gusanos.
+
+Un mensajero informó a la Abadesa [[Jinyu]] de que varios de sus monjes desarrollaron un nuevo método inteligente para guardar información en la Nube. Los monjes estaban entusiasmados por las posibilidades y deseaban desarrollar la tecnología más a fondo. La abadesa envió este mensaje:
+
+    Un huevo se rompe, y //
+    surge el Clan del Gorrión.
+
+El nuevo clan trabajó noche y día y produjo un prototipo funcional. Todos atendieron a la demostración, y pronte el Clan del Gorrión era celebrado a través del templo. El monje principal del clan recibió otro mensaje de la abadesa:
+
+    El gorrión se libera del bosque sombrío. //
+    Todos los ojos contemplan su ascenso.
+
+En aquel tiempo un cliente potencial hacía ofertas entretenidas para una nueva aplicación de redes sociales. El monje principal arregló un té con el cliente, y allí argumentó que el nuevo software del clan sería una base ideal para el sistema propuesto. El cliente aceptó, y el contrato fue concedido al Clan del Gorrión. La vieja Jinyu mandó sus felicitaciones:
+
+    Planeando solo sobre campos distantes, //
+    El gorrión pilla al gusano //
+    Mientras su manada sigue durmiendo.
+
+El sistema fue distribuido, y gozó de un grán éxito.
+
+Pasaron los meses. Muchos llegaron a usar la aplicación, incluyendo desarrolladores que estaban intrigados e inspirados por su uso nuevo de la Nube. Aunque no poseían el software del Clan del Gorrión, la estrategia fundamental era fácil de distinguir.
+
+Llegaron rumores a la abadesa de que se convocó a una sesión de los Pajaros de una Pluma en una conferencia reciente, y los asistentes empezaron a trabajar en una API estandar para este nuevo tipo de interfaz de la Nube. Al día siguiente el monje principal abrió su correo encontrando esta advertencia:
+
+   Hojas amarillas caen por el aire. //
+   La manada se agita.
+
+El Clan del Gorrión no tenía interés en la nueva API, la cual consideró sobre-diseñada. Siguieron empleando y desarrollando su propia estrategia con cada contrato nuevo ganado. Sin embargo las notas enigmáticas siguieron llegando:
+
+   Cien gorriones pueden cegar a un águila.
+
+   Cada ruiseñor ama mejor su propia canción.
+
+   Un pájaro no puede poner un huevo.
+
+El software del Clan del Gorrión siguió evolucionando, acumulando algunas nuevas características impresionantes, pero como consecuencia ya era irremediablemente incompatible con la nueva especificación API. El monje principal no tenía preocupaciones <i>(¡Qué los otros templos disfruten sus implementaciones primitivas!)</i> pero aún temía abrir au correro cada mañana. El tono de Jinyu se volvió más oscuro:
+
+   El halcon crecido no cena moscas.
+
+Los templos que adoptaron la nueva API siguieron colaborando, produciendo varias extensiones y mejoras. Las aventuras comerciales se escindieron, la competencia escaló, y pronto una ventisca de volantes brillantes fueron impresos y enviados por palomas mensajeros a todas los rincones del Imperio. Hasta la abadesa recibió unos pocos, los cuales reenvió con esta nota:
+
+   Un pequeño polluelo me cantó: //
+   cayó la nieve.
+
+A través del imperio, gobernadores y generales clamaron sistemas contruidos con la tecnología más nueva. Cada templo en la puja cacareó que su solución era compatible con los estandares -- o más bien, todos los templos excepto uno.
+
+En un patio apartado del Templo del Gong de Latón Mañanero, se hizo una reunión para discutir el destino del Clan del Gorrión. Sus librerías se volvieron cargas, puesto que (a diferencia de sus competidores) no podían interoperar con las extensiones comerciales inmensamente populares. Los clientes que adoptaron la teconología del Gorrión en sus primeros días ahora demandaban actualizaciones a las soluciones comerciales -- pero como las interfaces eran tán diferentes, el costo era prohibitivamente alto. Los contratos fueron cancelados. Para peor, la reputación del templo ha sufrido.
+
+Aquella tarde Jinyu mandó un mensaje final al monje principal del clan, escrito en un cuadrado de papel de arroz que fue doblado alrededor de la hoja de un cuchillo seppuku:
+
+     La manada se fué al sur. //
+     El gorrión solitario tiene su campo blanco. //
+     Ahora desciende el halcón. //

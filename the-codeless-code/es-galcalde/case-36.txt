@@ -1,0 +1,27 @@
+Number: 36
+Title: Division
+Lang: es
+Translator: galcalde
+Illus.0.title: Aún queda llegar a más de 14.
+
+El [[Sparrow Clan|Clan del Gorrión]] estaba en desgracia y desorden. Su monje principal eligió una muerte honorable por seppuku, pero el temor a nuevos recortes de personal dejó a los demás monjes a la greña. Un sacerdote fue nombrado administrador del clan para restaurar el orden, pero sus esfuerzos fueron en vano.
+
+"La sustracción de uno llevó a la dicisión de todos," dijo el sacerdote al abad principal. "Debemos corregir al resto del clan antes de que den un mal ejemplo al templo."
+
+"No veo necesidad de disciplina," suspiró el abad, quien era conocido por su misericordia excesiva. "Será más simple disolver el Clan del Gorrión. ¿Cuantos monjes quedan?"
+
+"seis," respondió el sacerdote.
+
+"Bien. Entonces manden a la mitad a un clan de su elección, y mitad a otro."
+
+El sacerdote empezó a protestar, pero pensándolo mejor meramente se inclinó con rigidez y se fue. Aquella tarde invocó a los monjes beligerantes. Con un sólo giro de su espada bisecó cuidadosamente a los seis por la cintura.
+
+"Mande las partes superiores al Clan del Mono que Ríe, y las partes inferiores al de la Huella del Elefante." dijo a uno de sus aprendices. "Y ofértenles el considerar el precio de la discordia."
+
+El sacerdote luego reportó al abad: "He hecho como había ordenado, y sin duda las discusiones terminaron."
+
+== Nota del Editor
+
+<div class="editorial-note">
+<p>Como unos pocos lectores han expresado interés, una versión de tamaño grande del poster puede ser descargado como un archivo <a href='/pages/case-36/poster.svg'>SVG</a> o un archivo <a href='/pages/case-36/poster.png'>PNG</a>. </p>
+</div>
