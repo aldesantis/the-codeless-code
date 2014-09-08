@@ -1,0 +1,19 @@
+Number: 37
+Title: Simulación
+Lang: es
+Translator: galcalde
+Illus.0.title: De hecho, cuando hay apagones, el escriba usa una linterna LED de campamento con manivela y hace su escritura
+
+El nuevo sitio de procesamiento de órdenes del [[Spider Clan|Clan de la Araña]] se comportaba bien en el campo, pero el ambiente de desarrollo era tan inestable que el clan era incapaz de probar sus cambios por más de un par de horas al día. Ahora se acercaba rápidamente una fecha límite. Los monjes se habrían tirado de los pelos si no fuese porque fueron esquilados para evitar semejante demostración indecorosa.
+
+"¡Es debido a que el [[Laughing Monkey Clan|Clan del Mono que Ríe]] sigue apagando <em>sus</em> servidores de desarrollo!" se quejó el monje principal del Clan de la Araña a uno de los sacerdotes. "¡Sin esos servicios nuestro código no puede consultar las preferencias del usuario o los contenidos de su carrito!"
+
+"Nuestros reinicios son necesarios," dijo el monje principal del Mono que Ríe. "Debemos implantar código durante todo el día. Quizás el Clan de la Araña pueda simular los servicios que necesiten. Los datos serían falsos, pero los cortes no les molestarían tanto."
+
+"¡Inaceptable!" dijo el monje principal del Clan de la Araña. "¡Nos tendrías gastando esfuerzo produciendo un pobre sustituto, simplemente para sortear tus defectos!" Se dirigió al sacerdote. "Cuando el sol se pone o se oculta tras una nube, nuestro escriba no se sienta ocioso como sus predecesores antiguos, porque su lámpara halógena arde día y noche. ¡Los servicios del Mono que Ríe deberían seguir este ejemplo, y ser tan dependientes como la electricidad que alimenta ese brillo firme!"
+
+El monje principal del Mono que Ríe lo consideró.
+
+Aquella noche el monje principal del Clan de la Araña wfue despertado por un golpe en su puerta. El se puso su bata y llamo a entrar al visitante.
+
+"A pedido del Monje que Ríe traigo un pequeño regalo de mí cuarto," susurró la voz de un hombre viejo. Entró nade más que el propio escriba del templo, quien colocó una vela encendida sobre la mesa. "A veces la encuentro necesaria cuando hay tormentas."

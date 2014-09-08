@@ -1,0 +1,23 @@
+Number: 38
+Title: Lenguaje
+Lang: es
+Translator: galcalde
+
+Un aprendiz le preguntó al maestro Java [[Banzen]], "¿Cuál es el lenguaje de programación más perfecto?"
+
+El maestro respondió, "Aquel que logra la tarea deseada con el menor esfuerzo gastado por el usuario."
+
+El aprendiz preguntó, "¿Hay algún lenguaje que exceda a los demás en esa cuestión?"
+
+El maestro respondió, "¡Constrúyeme un jardín de diez mil piedras!"
+
+== Comentario de Qi
+
+La administración, también, tiene sus lenguajes de programación, aunque lo que producen es frecuentemente defectuoso.
+
+== Poema de Qi
+
+Aunque el jardín fuera construido o no, //
+Banzen tuvo su deseo. //
+El aprendiz no volvió más por consejos -- //
+Las palabras ocultan el propósito.
