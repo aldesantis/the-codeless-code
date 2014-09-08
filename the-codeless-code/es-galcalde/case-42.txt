@@ -1,0 +1,18 @@
+Number: 42
+Title: Disparadores
+Lang: es
+Translator: galcalde
+Illus.0.title: Cuenta los dedos. Y no, no es ketchup.
+Title-footnote: *
+
+Un monje del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]] preguntó, "¿Que sabes de los triggers de bases de datos?"
+
+El maestro respondió, "Cuando tengas hambre a medianoche, lo sabrás."
+
+El monje se quedó despierto reflexionando sobre esto. Finalmente su reloj dio la medianoche, y como habían pasado varias horas desde la cena el monje se dio cuenta que tenía hambre.
+
+Dejando atrás sus sandalias para no hacer ruido, el monje caminó sigilosamente hacia las cocinas del templo. A través de la oscuridad avanzó a tientas pulgada a pulgada hacia el zumbido del gran refrigerador. Sus dedos apenas se aferraron a la fría manija cuando escuchó un fuerte <em>snap</em> y su visión se tornó blanca de dolor. El monje cayó hacia atrás, se golpeó la cabeza, y se perdió en el olvido.
+
+Se despertó al amanecer con los monjes de la Huella del Elefante parados sobre él. El aún estaba en el piso de la cocina -- el cual, podía ver ahora, desparramado de ratoneras. También pudo ver que algunos del Clan de la Huella del Elefante tenían dedos del pié retorcidos o faltantes. En aquel momento el monje fue iluminado.
+
+{{*}} Traducción de "Triggers". Son procedimientos que se corren en una base de datos cuando se cumple una condición al realizar una operación.
