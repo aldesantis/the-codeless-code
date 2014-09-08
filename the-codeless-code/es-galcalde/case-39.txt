@@ -1,0 +1,25 @@
+Number: 39
+Title: El Río de Té
+Lang: es
+Translator: galcalde
+
+La maestra Java [[Suku]] estaba visitando las provincias de su juventud. Ella se había sentado en una casa de té favorita cuando un aprendiz se le acercó y le pidió su opinión sobre un código que había escrito.
+
+Suku examinó el listado y encontró que cada método estaba meticulósamente documentado. El método <em>setName</em> de la clase Person declaraba que asignaba el nombre de la persona; el método <em>getName</em> afirmaba que devolvía el nombre asignado por <em>setName</em>, y el método <em>toString</em> juraba que, sin duda, devolvería un String.
+
+Suku alejó el listado de ella misma y se sentó un rato en silencio. El aprendiz finalmente se limpió su garganta y le preguntó si estaba disgustada.
+
+"Es una pregunta interesante," dijo Suku. Ella señaló el código. "Esto es un papel, descansando sobre un tatami. Sobre el papel hay tinta. La tinta forma varias palabras. Hay un pájaro en el hinoki allá afuera. Tiene dos alas emplumadas y dos ojos..."
+
+Ella continuó de esta manera hasta que las mejillas del aprendiz se pusieron rojas. Juntó su código y se abandonó su presencia, avergonzado pero iluminado. Suku no paró de hablar hasta que el chico estaba fuera del alcance del oido.
+
+== Comentario de Qi
+
+A Suku se le sirvió una porción generosa de arroz sin cocinar. El aprendiz tuvo suerte de que a ella le faltara [[#34|una paleta para cocinar.]]
+
+== Poema de Qi
+
+El aprendiz vierte un río de té verde. //
+Sin embargo, Suku tiene sed. //
+Un recipiente vertical puede atrapar lo que pueda, //
+pero cada recipiente se vuelca en un aluvión. //
