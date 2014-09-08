@@ -1,0 +1,19 @@
+Number: 41
+Title: Basura
+Lang: es
+Translator: galcalde
+Illus.0.title: Es probablemente mejor que se desvanezca abajo.
+
+La maestra Java [[Suku]] estaba investigando el software de un templo distante. En su monitor grandes franjas de texto brillaban no en negro sino en verde, indicando que los remanentes de código fueron comentados.
+
+"Curioso," dijo Suku. "Abrí un reloj bueno, y descubrí cáscaras de naranja y huesos de pescado."
+
+El monje principal explicó que el código inactivo no era más necesario, sin embargo ordenó a su clan que lo dejara en su lugar: porque si algún día fuese deseable restaurar la lógica el código sería simplemente descomentado, en vez de escribirlo desde cero que era un derroche.
+
+"Entendible," asintió Suku.
+
+Al día siguiente los monjes se eunieron de nuevo paa la inspección de la maestra Java. Con preocupación reportaron que el monje principal no podía ser encontrado. Suku hizo un gesto hacia las vigas donde el monje faltante estaba colgado de una fuerte soga, por el cuello. Un olor repugnante era llevado hacia abajo.
+
+"Los servicios de su monje principal ya no son necesarios," dijo Suku. "Sin embargo dejemos que su cadaver se pudra sobre ustedes desde este día. Después de todo, sus métodos pueden volver a ser deseables algun día, y sería un derroche entrenar a otro monje desde cero."
+
+En su reporte final, Suku notó un rápido cambio en las prácticas de codificación del clan, y dio crédito al buen ejemplo hecho por el monje principal fallecido.  <i>Deberíamos considerar su reintegración,</i> escribió.
