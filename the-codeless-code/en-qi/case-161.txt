@@ -1,0 +1,100 @@
+Number: 161
+Date: 2014-09-08
+Title: Triangle
+Geekiness: 3
+Names: Spider Clan, Abbey of Hidden Absurdities
+Topics: PHP, comparison, strings, language design, type coercion
+Illus.0.src: triangle.jpg
+Illus.0.title: Languages that require you to believe absurdities will compel to to implement atrocities.
+
+A new monk of the [[Spider Clan]] had become lost in the
+Temple at night.  After several twists and turns he had the
+misfortune of passing through a heavy door that locked
+behind him with an awful /clack/.
+
+The monk found himself in the middle of a staircase that
+spiralled up the inside walls of a hollow tower.  Timidly he
+peered over the railing.  Far below lay a courtyard shrouded
+in darkness, while far above hung a black sky identical to
+the courtyard in every respect.  The monk proceeded to
+ascend the stair, hoping to find either an egress or a more
+enlightening vantage point.
+
+Every door he passed on his right was locked.  The weary
+monk had almost resolved to go back down when he spied a
+shaft of light escaping from the cracks of a door ahead.
+
+- - -
+
+The door was labelled "123".
+The monk hesitated, then knocked.  There was a sound of
+footsteps, then the door swung open to reveal an old woman
+holding a lantern aloft.
+
+"Yes? Yes? Yes?" said the nun impatiently.
+
+"A dozen pardons for disturbing you at this late hour," said
+the monk, feeling suddenly lightheaded from the long climb.
+"But... where am I?"
+
+"The [[Abbey of Hidden Absurdities]]," said the nun, "in the
+tower where PHP is written."
+
+"What is so absurd about PHP?" asked the monk.
+
+The old nun laughed.  "I take it you haven't done much work in
+that language.  Ask my older sister upstairs that question;
+she's sure to help you."  The nun then slammed her door,
+locking it with a dreadful /clack/.
+
+The monk sighed and continued up the stairs, around and
+around, eventually coming to another door with a light
+behind it.
+
+- - -
+
+This door was labelled "456A".
+The monk knocked, and was answered by another old woman.
+
+"A dozen pardons for troubling you at this late hour,"
+said the monk, "but what is so absurd about PHP?"
+
+The old nun chortled.  "I take it you haven't done much string
+processing in that language.  Ask my older sister upstairs
+that question; she's sure to help you."  The nun then
+slammed her door, locking it with a terrible /clack/.
+
+The monk grumbled and continued up the stairs, around and
+around, eventually coming to another door with a light
+behind it.
+
+- - -
+
+This door was labelled "78".
+The monk knocked, and was answered by another old woman.
+
+"A dozen pardons for intruding at this late hour,"
+said the monk, "but what is so absurd about PHP?"
+
+The old nun cackled.  "I take it you haven't done much with the
+numerical comparison operators in that language.  Ask my
+older sister upstairs that question; she's sure to help
+you."  The nun then slammed her door, locking it with a
+horrible /clack/.
+
+The monk groaned and continued up the stairs, around and
+around, eventually coming to another door with a light
+behind it.
+
+- - -
+
+This door was labelled "123".
+
+The monk hesitated, then knocked.  There was a sound of
+footsteps, then the door swung open to reveal an old woman
+holding a lantern aloft.
+
+"Yes? Yes? Yes?" said the nun impatiently.
+
+"A dozen pardons for disturbing you at this late hour," said
+the monk, feeling suddenly lightheaded.  "But... where am I?"
