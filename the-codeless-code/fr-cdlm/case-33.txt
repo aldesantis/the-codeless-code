@@ -2,7 +2,7 @@ Title: Peur
 Number: 33
 Lang: fr
 Translator: cdlm
-Illus.4.title: Yes, but he doesn't get much mail anyway.
+Illus.4.title: Certes, mais de toute façon il ne reçoit que peu de courriel.
 
 Un moine supérieur récemment intronisé au temple, approcha le maître Java, frustré :
 
@@ -41,7 +41,7 @@ La structure oscillait dangereusement en craquant dans la légère brise.
 
 Le moine resta bouche bée un moment, puis se reprit et sonna au gong.
 
-De la plus lointaine des pièces vint l'hermite, se faufilant de cordes en toiture, disparaissant par une trappe de bambou pour dinalement réapparaître à la porte de la hutte. 
+De la plus lointaine des pièces vint l'hermite, se faufilant de cordes en toiture, disparaissant par une trappe de bambou pour dinalement réapparaître à la porte de la hutte.
 « Quelles nouvelles du temple ? » demanda l'hermite.
 « M'y rappelle-t-on enfin ? »
 
