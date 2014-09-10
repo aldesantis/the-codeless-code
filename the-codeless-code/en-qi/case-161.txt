@@ -5,7 +5,7 @@ Geekiness: 3
 Names: Spider Clan, Abbey of Hidden Absurdities
 Topics: PHP, comparison, strings, language design, type coercion
 Illus.0.src: triangle.jpg
-Illus.0.title: Languages that require you to believe absurdities will compel to to implement atrocities.
+Illus.0.title: Languages that require you to believe absurdities will compel you to implement atrocities.
 
 A new monk of the [[Spider Clan]] had become lost in the
 Temple at night.  After several twists and turns he had the
