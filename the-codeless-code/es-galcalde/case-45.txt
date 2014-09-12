@@ -1,0 +1,34 @@
+Number: 45
+Title: Volver Al Principio
+Lang: es
+Translator: galcalde
+Illus.0.title: Eso debe doler.
+Illus.0.caption: Wow... una patada giratoria en el constructor de copias.
+
+Resultaba que dos monjes del [[Laughing Monkey Clan|Clan del Mono que Ríe]] estaban discutiendo a tal volumen en el Gran Salón que habían atraído una audiencia.
+
+"¡Si deseo conocer la dirección de facturación de un cliente," dijo el primer monje, "entonces <em>Customer</em> debe tener un método <em>getBillingAddress</em>, tal como tiene un <em>getName</em>! ¿Cómo puedes rechazar la elegancia de mi diseño?"
+
+"¡Porque tu método carga silenciosamente la dirección desde la base de datos!" contraargumentó el segundo. "¡Ese no es el Patron para Value Objects! Sólo existen para contener los datos traidos por un DAO. Deberías tener un <em>AddressDAO</em> para consultar la tabla Address, enfrentado por un método de servicio. La dirección de facturación debería ser obtenida directamente de allí."
+
+"¡Pero hemos perdido el Camino de la Orientación a Objetos!" gritó el primero. "¿Hemos vuelto al principio a los días de C? ¡Nuestros Value Objects son poco más que <em>structs</em>, nuestros DAOs y Servicios sin estado son simplemente colecciones de funciones relacionadas, y nos pasamos IDs enteros en vez de los objetos que representan! ¿Debemos luego correr en cuatro patas y aullar a la luna?"
+
+"¡El Camino de los Patrones de Diseño Empresariales es un avance hacia la simplicidad ideal, no una regresión a lo primitivo!" said the second. "¡Un objeto de dominio no tiene la intención de trabajar como su homónimo, tanto como la imagen de una pala tenga la intención de cavar una zanja! ¡Debes dejar de lado las apariencias y enfocarte en el <em>propósito</em>!"
+
+"¡El propósito es <em>inherente</em> en el nombre elegido!" dijo el primero. "¡Los objetos de dominio deberían modelar el mundo real!"
+
+El segundo monje le respondió con un puñetazo en el estómago del primer monje, doblándolo. "Dime," dijo el segundo monje, "¿En qué variable de instancia te he golpeado?"
+
+El primer monje saltó adelante y le tiró las orejas a su oponente. "¡Y yo pensé que esas extremidades eran para escuchar!" dijo el primero, mientras el segundo tambaleaba de dolor. "¡Que suerte que dejé las aparencias de lado y descubrí su verdadero propósito!" Su regodeo fue interrumpido por un gancho en la mandíbula.
+
+Una joven monja -- una aprendiz -- se dio cuenta de que varios maestros Java estaban al borde de la multitud, mirando silenciosamente el pleito. Ella corrió hacia ellos.
+
+"¡Los dos monjes se matarán entre ellos muy pronto!" dijo la aprendiz. "¿Por qué no sellan la disputa y dicen cual filosofía es superior?"
+
+Los maestros la ignoraron. Pero la monja [[Zjing]] la escuchó, y le susurró:
+
+"Si yo fuera el monje que prefiere el Camino de los Patrones de Diseño Empresariales, te diría que cometiste el mismo error que el cavador de zanjas. Hay una pregunta que sellar, pero equivocaste los propósitos de aquellos presentes."
+
+"¿Estás diciendo que los maestros tienen la intención de ocultarnos la respuesta?" preguntó la aprendiz.
+
+<em>"Wu,"</em> dijo Zjing. "Si yo fuera el monje que prefiere el Camino de la Orientación a Objetos, llamaría tu atención sobre la Jerarquía No Escrita, en la cual <em>Maestro</em> es una subclase de <em>Estudiante</em>."
