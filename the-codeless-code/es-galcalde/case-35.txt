@@ -9,7 +9,7 @@ Un mensajero informó a la Abadesa [[Jinyu]] de que varios de sus monjes desarro
     Un huevo se rompe, y //
     surge el Clan del Gorrión.
 
-El nuevo clan trabajó noche y día y produjo un prototipo funcional. Todos atendieron a la demostración, y pronte el Clan del Gorrión era celebrado a través del templo. El monje principal del clan recibió otro mensaje de la abadesa:
+El nuevo clan trabajó noche y día y produjo un prototipo funcional. Todos atendieron a la demostración, y pronto el Clan del Gorrión era celebrado a través del templo. El monje principal del clan recibió otro mensaje de la abadesa:
 
     El gorrión se libera del bosque sombrío. //
     Todos los ojos contemplan su ascenso.
@@ -37,11 +37,11 @@ El Clan del Gorrión no tenía interés en la nueva API, la cual consideró sobr
 
    Un pájaro no puede poner un huevo.
 
-El software del Clan del Gorrión siguió evolucionando, acumulando algunas nuevas características impresionantes, pero como consecuencia ya era irremediablemente incompatible con la nueva especificación API. El monje principal no tenía preocupaciones <i>(¡Qué los otros templos disfruten sus implementaciones primitivas!)</i> pero aún temía abrir au correro cada mañana. El tono de Jinyu se volvió más oscuro:
+El software del Clan del Gorrión siguió evolucionando, acumulando algunas nuevas características impresionantes, pero como consecuencia ya era irremediablemente incompatible con la nueva especificación API. El monje principal no tenía preocupaciones <i>(¡Qué los otros templos disfruten sus implementaciones primitivas!)</i> pero aún temía abrir su correo cada mañana. El tono de Jinyu se volvió más oscuro:
 
    El halcon crecido no cena moscas.
 
-Los templos que adoptaron la nueva API siguieron colaborando, produciendo varias extensiones y mejoras. Las aventuras comerciales se escindieron, la competencia escaló, y pronto una ventisca de volantes brillantes fueron impresos y enviados por palomas mensajeros a todas los rincones del Imperio. Hasta la abadesa recibió unos pocos, los cuales reenvió con esta nota:
+Los templos que adoptaron la nueva API siguieron colaborando, produciendo varias extensiones y mejoras. Las aventuras comerciales se escindieron, la competencia escaló, y pronto una ventisca de volantes brillantes fueron impresos y enviados por palomas mensajeras a todas los rincones del Imperio. Hasta la abadesa recibió unos pocos, los cuales reenvió con esta nota:
 
    Un pequeño polluelo me cantó: //
    cayó la nieve.
