@@ -1,0 +1,27 @@
+Number: 46
+Title: La Mayor Aspiración
+Lang: es
+Translator: galcalde
+Illus.0.title: No, ese no es el bonsai. El templo usa clips muy grandes.
+
+El lunes un aprendiz le preguntó al maestro [[Banzen]]: ¿Cual es la mayor aspiración?
+
+Banzen respondió: saber todo lo que se pueda saber, para que el código de uno nunca pueda ser mejorado.
+
+El martes otro aprendiz le preguntó a Banzen: ¿Cual es la mayor aspiración?
+
+Banzen respondió: estar siempre rodeado por colegas cuyo conocimiento es más extensivo, para que uno pueda estar en un estado continuo de mejoramiento.
+
+El miércoles un tercer aprendiz observó que las respuestas eran mutualmente exclusivas; de hecho, eran casi opuestas exactas.
+
+Banzen respondió: así es.
+
+El aprendiz, creyendo tener ventaja, le preguntó a Banzen como uno debería ponerse a conseguir la mayor aspiración.
+
+Irritado, Banzen respondió: el lunes me preguntaron el número positivo más grande; el martes, la mitad de ese número. Respondí cada pregunta en un respiro. Pero si te debo mostrar como contar hasta alguno de los dos, la luna se convertirá en arena antes de que podamos apenas empezar.
+
+El monje se inclinó de verguenza y se fue.
+
+Un jardinero -- que estuvo podando el bonsai en la mesa de Banzen -- confesó que no entendía como el aprendiz estaba equivocado, porque las preguntas del lunes y el martes eran idénticas.
+
+Banzen respondió: aquel bonsai necesita agua, como también el roble frente a mi ventana.
