@@ -1,0 +1,32 @@
+Number: 10
+Lang: es
+Translator: jtor
+Title: Orgullo
+
+Después de una inspección superficial, el maestro Java decretó que desde ese momento cada monje del [[Elephant's Footprint Clan|Clan de la Huella de Elefante]] pescaría su propio pescado, cultivaría su propio arroz, confeccionaría sus propias túnicas y remendaría sus propios zapatos.
+
+Al cabo de un mes, los monjes estaban medio desnudos y severamente desnutridos. Los plazos se empezaron a incumplir. El abad imploró al maestro Java que reconsiderara su decisión.
+
+“Muy bien”, dijo el maestro Java. “Cada jueves, hacedles también quemar sus túnicas y zapatos, y arrojar su arroz y su pescado al río”.
+
+El abad preguntó qué transgresión había cometido su clan para ser merecedor de tal castigo.
+
+“¿Castigo?”, dijo el maestro Java. “Sólo intento recompensar. ¿No disfrutan los monjes de la Huella de Elefante de su independencia y autosuficiencia? Eso me dice su código:”.
+
+“Cada uno ha escrito prácticamente los mismos Objetos de Acceso a Datos y Objetos de Valores que sus vecinos. Cada uno ha creado sus propias utilidades de Strings y parsers de archivos de configuración. Cada uno se ha tomado exquisitas molestias en diseñar, implementar, integrar, testear, debuguear, reparar y extender aquello que simplemente podría haber tomado de uno de sus hermanos”.
+
+“¿Debo ver incompetencia? Si es así, hasta el último monje de la Huella de Elefante deberá ser expulsado del monasterio”.
+
+“¿Debo ver ignorancia deliberada? Si es así, la tradición demanda que se cieguen a sí mismos con agujas, y /entonces/ sean expulsados”.
+
+“¿Debo ver desprecio por el valor del tiempo? Si es así, las mazmorras aguardan…”.
+
+“Pero no”, concluyó el maestro Java. “En vez de eso veo orgullo — el orgullo de cada uno al pensar que el código propio era superior al de sus hermanos. El orgullo es una de las Cuatro Semillas de la Grandeza, y debe ser incentivado. ¡Dejemos a la Huella de Elefante afinar su habilidad con las tijeras y las horcas, con las agujas y las hoces, hasta que cada monje pueda estar igualmente orgulloso de sus buenas túnicas y de la comida de su plato!”.
+
+“Quedará poco tiempo para escribir código”, observó el abad. “Y el Emperador es muy literal con el significado de la expresión /fecha límite/{{*}}”.
+
+El maestro asintió. “El mercader, últimamente arruinado, sólo conoce la angustia de la pérdida. Mientras que el viejo ermitaño ensalza las virtudes de la austeridad, y no cambiará su estar. ¿Y no son acaso el mismo hombre, separados únicamente por muchos años?”.
+
+Y así la Huella de Elefante fue perdonada dos veces y corregida.
+
+{{*}} En el inglés original, /deadline/; literalmente /línea de la muerte/. (N. del T.)

@@ -1,0 +1,27 @@
+Number: 7
+Lang: es
+Translator: jtor
+Title: El Enemigo del Bien
+Illus.1.title: Después de los primeros cien años, uno mejora mucho en esperar pacientemente.
+
+Los monjes del [[Laughing Monkey Clan|Clan del Mono que Ríe]] abordaron al maestro Java con una lista de quejas. 
+
+“Nuestra mayor frustración es el proceso de pruebas”, insistió el monje más joven. “Las pruebas manuales son tediosas, y las pruebas automatizadas son problemáticas de escribir. Ambas son distracciones de la autoría de código”.
+
+El maestro lo pensó, y dijo: “Es cierto que podríamos saltarnos las pruebas, si supiéramos que nuestro código es perfecto. Entonces, ¿cómo podemos alcanzar la perfección?”.
+
+“Mediante la práctica”, dijo un monje.
+
+“Mediante el estudio diligente”, dijo otro.
+
+“Mediante el apaciguamiento de los dioses adecuados”, dijo un tercero.
+
+Un viejo monje de barba blanca, que había permanecido sentado en silencio en la esquina, alzó la cabeza:
+
+“Yo sé cómo se puede alcanzar la perfección”, dijo. “Pero me temo que todos aquéllos que oigan mi respuesta nunca quedarán convencidos de su veracidad, a no ser que diga exactamente las palabras adecuadas, con la más placentera de las entonaciones, en el momento más propicio del día. Ahora debo pensar cómo hacerlo lo mejor posible”.
+
+El viejo monje permaneció en silencio durante un largo rato. Finalmente, sonó la campana de la cena.
+
+“¿Cuánto tiempo durará esto?”, preguntó uno de los aprendices.
+
+“No más de cien años”, respondió el viejo monje.
