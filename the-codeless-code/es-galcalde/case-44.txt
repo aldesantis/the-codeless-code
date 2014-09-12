@@ -1,0 +1,21 @@
+Number: 44
+Title: El Monje Retrasado
+Lang: es
+Translator: galcalde
+Illus.0.title: La garantía de la cámara de aire no cubre perforaciones de rocas puntiagudas. Tampoco el plan de salud del templo.
+
+Cierto monje tenía un método raro de escribir código. Cuando se le presentaba un problema, primero escribiría varias pruebas automatizadas para verificar que el código aún no escrito estuviera correcto. Estas fallarían obviamente, porque no había nada que probar. Sólo cuando las pruebas fueran hechas el monje trabajaría en el código en sí, procediendo diligentemente hasta que todas las pruebas fueran exitosas.
+
+Sus hermanos ridiculizaron este proceso, el cual causaba que el monje produciera como mucho sólo la mitad del código de aplicación que sus pares -- e incluso eso sólo después de una larga demora. Lo llamaron <em>Luohou</em>, El Monje Retrasado.
+
+El maestro Java [[Banzen]] oyó de esto. "Investigaré," declaró.
+
+A su regreso, el maestro decretó que todos los miembros del clan que acabaron con sus tareas semanales podían acompañarlo a la piscina como recompensa por su eficiencia. El Monje Retrasado se quedó atrás, sólo.
+
+En la cima de la plataforma de clavado, el más viejo de los monjes miró sobre el borde y retrocedió.
+
+"¡Maestro!" gritó. "¡Alguien dispersó las piedras del dique! ¡La piscina no tiene agua. Sólo las hierbas y las rocas puntiagudas nos esperan abajo!"
+
+Con su bastón Banzen empujó a los jóvenes hacia el precipicio.
+
+"Seguro," dijo el maestro, "puedes resolver el problema cuando llegues al fondo."
