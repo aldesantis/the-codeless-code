@@ -1,0 +1,78 @@
+Title: Moineau s'échappe
+Number: 35
+Lang: fr
+Translator: cdlm
+Illus.2.title: Il tenta d'épeler HELP, mais se fit une mauvaise entorse en faisant la petite barre du E. On devrait vraiment enseigner l'écriture cursive à l'école des vers.
+
+Un messager informa l'Abbesse [[Jinyu]] que plusieurs de ses moines avaient conçu une nouvelle méthode astucieuse pour stocker des données dans le Nuage.
+Les moines étaient enthousiasmés par les possibilités et souhaitaient développer la technologie plus avant.
+L'abbesse répondit par ce message :
+
+	Un œuf éclôt, et //
+	le Clan du Moineau émerge.
+
+Le nouveau clan travailla nuit et jour pour produire un prototype fonctionnel.
+Tous assistèrent à la démonstration, et bientôt on célébrait le Clan du Moineau à travers le Temple.
+Le moine en chef du clan reçut un autre message de la part de l'abbesse :
+
+	Moineau s'échappe de la forêt sombre. //
+	Tous les yeux contemplent son ascension.
+
+À cette période, un potentiel client faisait un appel d'offre pour un nouveau réseau social.
+Le moine en chef rencontra le client autour d'un thé, et avança que le nouveau logiciel de son clan serait une fondation idéale pour le système proposé.
+Le client fut convaincu, et le contrat signé avec le Clan du Moineau.
+La vénérable Jinyu envoya ses félicitations :
+
+	Prenant son essor seul au dessus de champs lointains, //
+	Moineau capture le ver //
+	alors que son clan sommeille encore.
+
+Le système fut livré, et fut un grand succès.
+
+Des mois passèrent.
+Nombreux sont ceux qui adoptèrent l'application, y compris des développeurs intrigués et inspirés par son utilisation originale du Nuage.
+Bien qu'ils ne possèdent pas le code du Clan du Moineau, les fondamentaux de l'approche étaient faciles à cerner.
+
+Le bruit parvint à l'abbesse qu'un groupe d'intérêt s'était réuni lors d'une récente conférence, et les participants avaient commencé à travailler à une API standard pour ce nouveau type d'interface vers le Nuage.
+Le lendemain le moine en chef ouvrit son courrier pour y trouver cet avertissement :
+
+	Les feuilles jaunes s'envolent à travers les airs. //
+	La volée s'agite.
+
+Le Clan du Moineau d'avait que faire de la nouvelle API, qu'il considérait trop compliquée.
+Ils continuèrent à employer et développer leur propre approche pour chaque nouveau contrat remporté.
+Pourtant les notes cryptiques arrivaient toujours :
+
+	Cent moineaux peuvent picorer un aigle jusqu'à le rendre aveugle.
+
+	Tout rossignol préfère son propre chant.
+
+	Un oiseau seul ne peut couver d'œuf.
+
+Le logiciel du Clan du Moineau continua a évoluer, accumulant quelques impressionnantes nouvelles fonctionnalités, mais qui le rendaient ultérieurement incompatible avec la nouvelle spécification d'API.
+Le moine en chef ne s'en souciait pas <i>(laissons les autres temples jouir de leurs implémentations primitives !)</i> mais pourtant il redoutait ouvrir son courrier chaque matin.
+Le ton de Jinyu se faisait de plus en plus sombre :
+
+	Le faucon adulte ne se nourrit pas de moucherons.
+
+Les temples qui avaient adopté la nouvelle API poursuivirent leur collaboration, produisant diverses extensions et améliorations.
+Des projets commerciaux virent le jour, la compétition s'accrût, et bientôt un blizzard de brochures fut imprimé sur papier glacé et expédié par pigeon voyageur à tous les coins de l'Empire.
+Même l'abbesse en reçut quelques-unes, qu'elle fit suivre avec cette note :
+
+	Un petit poussin m'a chanté ceci : //
+	il a neigé.
+
+À travers l'Empire, gouverneurs et généraux réclamaient des systèmes conçus sur la nouvelle technologie.
+Tous les temples en compétition vantaient que leur solution respectait le standard -- ou, plutôt, tous les temples sauf un.
+
+Dans un cloître reculé du Temple du Gong d'Airain du Matin, une réunion fut tenue pour décider du sort du Clan du Moineau.
+Leurs bibliothèques s'étaient transformées en handicaps, puisque (au contraire de leurs concurrentes) elles ne pouvaient interagir avec les extensions commerciales immensément populaires.
+Les clients qui avaient adopté la technologie Moineau dès les premiers jours réclamaient des mises à jour pour les solutions commerciales -- mais les interfaces étant si dissemblables, le coût en était prohibitif.
+Des contrats étaient en cours d'annulation.
+Pire, la réputation du temple avait souffert.
+
+Ce soir, Jinyu envoya un ultime message au moine chef du clam, écrit sur un carré de papier de riz qui enveloppait la lame d'un couteau à seppuku :
+
+	La volée est partie vers le sud. //
+	Moineau a son champ blanc. //
+	Maintenant le faucon descend. //

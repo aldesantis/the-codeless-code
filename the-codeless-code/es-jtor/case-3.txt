@@ -2,6 +2,7 @@ Number: 3
 Lang: es
 Translator: jtor
 Title: Encapsulamiento
+Illus.0.title: Hagas lo que hagas, no le digas que tienes que ir al baño.
 
 Un joven monje, nuevo en el templo, no sólo declaraba públicos todos sus métodos sino también todas sus variables de estancia. El abad mayor se cansó de regañar al monje, y pidió consejo al maestro Java. 
 

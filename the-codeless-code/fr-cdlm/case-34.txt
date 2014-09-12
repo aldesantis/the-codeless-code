@@ -1,0 +1,20 @@
+Title: Le nommage des noms
+Number: 34
+Lang: fr
+Translator: cdlm
+Illus.0.title: MONSIEUR DISCIPLINE est fourni avec son support et assez d'huile de teck pour un an. MONSIEUR DISCIPLINE n'est pas disponible en magasin. Commandez vite !
+
+La prêtresse [[Suku]] passait en revue le code de ses novices quand elle trouva un module où le nommage des variables lui déplut immensément.
+Les objets-valeurs étaient appelés /vo/ ou simplement /obj/, quel qu'en soit le type.
+Les Listes étaient nommées /list1/, /list2/, etc.
+Les Itérateurs correspondants étaient /i/, /j/, et (sans aucune compréhensible raison) /x/.
+
+La prêtresse débarqua aux cuisines du temple où les novices préparaient le repas du soir.
+Elle décrocha une immense spatule à riz de sa patère, trouva le développeur contrevenant, et exprima son mécontentement sur le dos du garçon.
+
+/« Qu'ai-je fait ?! » glapit le novice alors que la spatule claquait d'un son charnu une dixième fois.
+
+« Invective ! » répondit la prêtresse.
+« Verbe tes explétifs de noms ! »
+
+Cette scène se répéta chaque nuit jusqu'à ce que le novice fût éclairé.
