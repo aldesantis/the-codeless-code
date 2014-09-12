@@ -7,13 +7,13 @@ La abadesa [[Jinyu]] inspeccionaba el estado del [[Laughing Monkey Clan|Clan del
 
 "Explíquese," dijo la Abadesa.
 
-"El m-m-maestro me ordenó llevar s-s-su  his coracle hacia el r-r-río," dijo el monje rechinando los dientes. "C-c-cuando estaba lejos de la orilla descubrí que tenía v-v-varios agujeros en los costados. La m-m-mayoría estaban tapados con corchos p-p-p-pero dos fueron ignorados. Si no los hubiera parado con mis d-d-dedos hubiera muerto."
+"El m-m-maestro me ordenó llevar s-s-su coracle hacia el r-r-río," dijo el monje rechinando los dientes. "C-c-cuando estaba lejos de la orilla descubrí que tenía v-v-varios agujeros en los costados. La m-m-mayoría estaban tapados con corchos p-p-p-pero dos fueron ignorados. Si no los hubiera parado con mis d-d-dedos hubiera muerto."
 
 La abadesa se inclinó y fue a ver al maestro Java.
 
 "Explíquese," dijo la Abadesa, indicando al monje.
 
-"A ese monje se le dio la tarea de implementar el carrito para nuestro sitio," dijo el maestro. "Él descubrió que si una entrada particular de la base de datos no estaba inicializada, los intentos de morstrar el carrito fallarían. Así que el monje encontró todas las páginas que ofrecían un <em>link</em> al carrito e intentó inicializar la entrada de la base de datos <em>allí.</em> Había una docena de esas páginas. Lamentablemente, dos fueron ignoradas."
+"A ese monje se le dio la tarea de implementar el carrito para nuestro sitio," dijo el maestro. "Él descubrió que si una entrada particular de la base de datos no estaba inicializada, los intentos de mostrar el carrito fallarían. Así que el monje encontró todas las páginas que ofrecían un <em>link</em> al carrito e intentó inicializar la entrada de la base de datos <em>allí.</em> Había una docena de esas páginas. Lamentablemente, dos fueron ignoradas."
 
 La Abadesa golpeó al maestro con su bastón.
 
