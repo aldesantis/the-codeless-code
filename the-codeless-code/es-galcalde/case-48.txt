@@ -1,0 +1,34 @@
+Number: 48
+Title: Silencio
+Lang: es
+Translator: galcalde
+Illus.0.title: También hay un Dios del Silencio Repentino Que Ocurre En Las Fiestas Cuando Dices Algo Embarazoso. No recibe muchas ofrendas.
+
+El [[Temple of the Morning Brass Gong|Templo del Gong de Latón Mañanero]] estaba enclavado en los pliegues de un bosque sombrío y exhuberante en las altas montañas.  Oculto entre sus cuidadas y espesas arboledas habían cuatro santuarios, dedicados a cuatro dioses del silencio diferentes.
+
+El monje [[Huisheng]] pagaba sus respetos al último de ellos cuando una sandalia cayó del cielo hacia el suelo ante él. El monje miró hacia arriba y descubrió a un hermano aprendido -- atado, amordazado, y subido por cuerdas para que quede colgado de la rama superior de un ciprés. El prisionero estaba luchando frenéticamente contra sus ataduras para llamar la atención de Huisheng.
+
+Era el hábito de Huisheng [[#28|no hablar a menos de que se le hable]]; y como el prisionero estaba indispuesto a hablar en absoluto, Huisheng simplemente se dio vuelta y se arrodilló ante el santuario, para contemplar mejor la escena.
+
+<i>-- He oído mucho hoy,</i> pensó Huisheng, <i>sobre el estado de un trabajo batch nocturno crítico.</i>
+
+<i>-- Muchos alabaron el diseño del trabajo; porque si se decía que si algún registro no podía ser procesado, un email apropiado era enviado automáticamente al Administrador y a todas las Partes Afectadas.</i>
+
+<i>-- Michos admiraron la fiabilidad del trabajo, y como era común que pasaran días sin que se envíe tal mensaje.</i>
+
+<i>-- Muchos remarcaron la reticencia del trabajo, y de como mandaba mensajes sólo cuando se juzgaba que había un error que necesitaba corrección. Este rasgo lo encuentro particularmente virtuoso, sin embargo el abad que toma té a mi lado habló de eso en tono de lamento...</i>
+
+Los pensamientos de Huisheng fueron interrumpidos por el sonido de gritos ahogados de arriba. Irritado, ahuecó sus manos sobre sus orejas.
+
+<i>-- Los Protocolos nos cuentan que no hay menos que Cuatro Silencios: el Silencio Antes de las Palabras, el Silencio Entre Palabras, el Silencio de la Tubería Rota{{*}}, y el Silencio de los Paquetes Caídos. Para el iniciado son tan diferentes como los caracteres para "fin" y "aún no," aunque el forastero no puede distinguir a uno del otro.</i>{{**}}
+
+Los gritos incomprensibles fueron más ruidosos. Huisheng miró hacia arriba y vió una serpiente culebreando por las cuerdas hacia el aterrorizado prisionero.
+
+<i>-- Es curioso,</i> reflexionó Huisheng. <i>El hermano arriba no pidió ser liberado; ni me rogó que le tirara piedras a la serpiente. Pronto va a morir. Luego él continuará no-preguntándome esas cosas, aunque de una manera diferente. Si abandono este lugar, seguirá no-preguntándome de una manera otra vez diferente.</i>
+
+<i>-- Aquí hay una lección en la corrección de este monje, aunque aún no adiviné cual es.</i>
+
+Por lo tanto, silbando una melodía, Huisheng se apartó del monasterio.
+
+{{*}} Traducción de "Broken Pipe". Es un error en Unix cuando un proceso pide una salida a Socket, el cual fue cerrado por el par.
+{{**}} 末 y 未.
