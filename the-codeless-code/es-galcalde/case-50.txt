@@ -1,0 +1,24 @@
+Number: 50
+Title: Adaptador
+Lang: es
+Translator: galcalde
+
+<div class="about">Este caso estuvo perdido por meses. Afortunadamente, una copia fue descubierta recientemente en los márgenes de una demostración del Último Teorema de Fermat.</div>
+
+Un aprendiz del Lejano Occidente vino recientemente al templo. Después de ser evaluado por el abad se le dio un nuevo nombre fue enviado al escriba [[Qi]] para registrarlo.
+
+El aprendiz preguntó al escriba, "¿Por qué a cada monje y monja se le da un nuevo nombre después de que llegan al templo?"
+
+El escriba respondió, "¿Cómo podríamos llamarte <em>antes</em> de que llegaras?"
+
+El aprendiz se inclinó y sonrió, pero no hizo movimiento para dejar la compañía del escriba. Viendo que una explicación era requerida si deseaba volver a la soledad, el escriba continuó:
+
+"Antess de qque llegaras, eras tan amorfo en nuestras mentes como bytes sobre la pila. Ahora fuiste alojado en memoria viviente, se te asignó una forma y un propósito. Te nombramos de acuerdo a ese propósito, tal como uno nombra una variable o un método o una interfaz. Esas cosas no existen hasta que se las nombran."
+
+El aprendiz pensó por un momento, luego se señaló a si mismo con una sonrisa de satisfacción:
+
+"¡Código de terceros!" declaró el aprendiz.
+
+Qi agarró la muñeca del aprendiz y rápidamente escribió su nuevo nombre del templo en el dorso de su mano.
+
+"Clase Contenedor," dijo el escriba.
