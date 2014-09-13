@@ -1,0 +1,41 @@
+Number: 49
+Title: La Investigación de Banzen
+Lang: es
+Translator: galcalde
+Illus.0.title: Básicamente, este es mi sistema de archivos.
+
+El abad del [[Laughing Monkey Clan|Clan del Mono que Ríe]] observó que el software producido por el salon norte de la abadía tenía más defectos que el software producido por cualquier otro grupo de monjes. El maestro java [[Banzen]] fue llamado a investigar.
+
+El maestro seleccionó un cuarto de conferencias adecuado en el salón norte. Sentándose dentro, hizo señas al abad para que se uniera. Cuando el abad se sentó el maestro desempacó su almuerzo de una bolsa de papel y empezó a comer. El abad esperó silenciosamente, con paciencia menguante.
+
+Finalmente el maestro acabó el último mordisco de su comida. Arrugó la bolsa de papel y laa tiró a la papelera en la esquina del cuarto. La bola erró el borde por un metro, rebotó en la pared, y rodó hasta parar cerca de la papelera. Banzen salió.
+
+El abad lo siguió, pensando: La devoción de Banzen a la perfección es demasiado alabada en el templo. Sin embargo, la luna saliente hace un círculo excelente pero un pobre cuadrado.
+
+Banzen luego ofreció al abad invocar a los monjes del salón norte uno por uno. A cada monje se le dijo que se encuentre con el maestro y el abad afuera del cuarto de conferencias seleccionada. A cada uno se le instruyó que trajera impresiones de todo el código que él autorizó durante los últimos treinta días.
+
+Cuando un monje aparecía, Banzen decía: "Dame tu listado de código y espera en aquel cuarto, porque se me ha pedido investigarse." Cada monje entraba en el cuarto de conferencias como se le ha dicho, con lo cual Banzen cerraba la puerta, dejando al monje sólo en el cuarto. Banzen luego colocaba los papeles del monje boca abajo en una pila creciente afuera del cuarto. Cuando pasaban precisamente cinco minutos Banzen abriría la puerta y entraría, diciendo, "Has sido investigado." El monje luego sería descartado.
+
+El abad pensó: La luna de Banzen está perdida tras una nube. Sin embargo, aún no acabó la noche.
+
+Banzen repitió este ritual para todos los doce monjes del salón norte. Cuando se fue el último monje, Banzen dejó la abadía sin ninguna palabra. De los listados no ha examinado ni una sola página.
+
+El abad se dijo a sí mismo: un viento ha fregado el cielo, y la luna de Banzen ni siquiera está medio llena. Debo invocar a la abadesa principal.
+
+Por lo tanto la vieja [[Jinyu]] fue llamada al cuarto de conferencias. Ella en cambio invocó a Banzen.
+
+"¿Cual es la falla del salón norte?" preguntó Jinyu.
+
+Banzen señaló. "Aquella bola de papel sigue tirada en la esquina."
+
+== Comentario de Qi
+
+Lo que se hizo se esperaba; pero lo que no se hizo era lo que importaba.
+Si no puedes ver la falla, el salón norte te espera.
+
+== Poema de Qi
+
+Una montaña de código fuente destaca en el salón: //
+la labor de doce monjes de luna a luna. //
+Una balanza de mercader puede equilibrar pescado contra monedas, //
+pero una bolsa de papel lo vence.
