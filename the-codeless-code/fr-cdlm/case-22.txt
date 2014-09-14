@@ -6,7 +6,7 @@ Translator: cdlm
 Un moine du [[Laughing Monkey Clan|Clan du Singe Rieur]] connaissait bien le logiciel produit par le Charitable Temple du Yack Hérissé, et il souhaitait utiliser l'un de leurs modules dans son dernier projet.
 Cependant, le référentiel de code du clan était l'objet d'une garde constante, et le moine devait obtenir permission auprès de la hiérarchie du monastère pour intégrer tout logiciel tiers.
 
-Le prêtre en chef de son clan était prêt à autoriser le module, mais à une unique condition :
+Le prêtre supérieur de son clan était prêt à autoriser le module, mais à une unique condition :
 une classe d'adaptation devrait d'abord être produite par le clergé séculier.
 Tout accès au module devrait passer par l'adaptateur.
 
