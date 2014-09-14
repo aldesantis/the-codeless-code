@@ -1,0 +1,28 @@
+Title: Déchets
+Number: 41
+Lang: fr
+Translator: cdlm
+Illus.0.title: C'est certainement pour le mieux que le bas de l'image est estompé.
+
+Maître Java [[Suku]] inspectait le logiciel d'un temple lointain.
+Sur son moniteur, de grands blocs de texte s'affichaient non pas en noir mais en vert, indiquant que des masses de code avaient été mises en commentaire.
+
+« Curieux, » dit Suku.
+« J'ai ouvert une horloge de précision, et découvert des peaux d'orange et des arêtes de poisson. »
+
+Le moine supérieur expliqua que le code inactif n'était plus nécessaire, mais il avait pourtant ordonné à son clan de le laisser en place :
+ainsi, si il devenait un jour désirable de remettre la logique en place, le code pouvait être simplement décommenté, plutôt que laborieusement réécrit de zéro.
+
+« Compréhensible, » acquiesça Suku.
+
+Le jour suivant les moines se rassemblèrent de nouveau pour l'inspection du maître Java.
+Avec préoccupation, ils révélèrent que le moine supérieur était introuvable.
+Suku fit un geste vers les chevrons, où le moine disparu était suspendu à une solide corde, par le cou.
+Une odeur infâme en descendait.
+
+« Les services de votre supérieur ne sont plus nécessaires, » dit Suku.
+« Mais laissez son cadavre moisir au dessus de vos têtes à compter de ce jour.
+Après tout, ses méthodes pourraient redevenir souhaitables un jour, et il serait peu économique de former un autre moine de zéro. »
+
+Dans son rapport final, Suku nota une prompte évolution des pratiques de développement du clan, et attribua le mérite au bon exemple donné par le supérieur décédé.
+<i>Nous devrions prendre sa réintégration en considération,</i> écrivit-elle.

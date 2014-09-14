@@ -1,0 +1,38 @@
+Title: La rivière de thé
+Number: 39
+Lang: fr
+Translator: cdlm
+
+Maître Java [[Suku]] visitait les provinces de son enfance.
+Elle venait de s'asseoir dans une de ses maisons de thé préférées quand un novice l'approcha et demanda son opinion sur du code qu'il avait écrit.
+
+Suku examina la liasse et trouva chaque méthode méticuleusement documentée.
+La méthode /setName/ de Person déclarait changer le nom de la personne ; la méthode /getName/ affirmait renvoyer le nom donné par /getName/, et la méthode /toString/ jurait qu'en effet elle renverrait bien une chaîne.
+
+Suku repoussa la liasse et resta assise un moment, silencieuse.
+Finalement le novice s'éclaircit la gorge et demanda si elle était mécontente.
+
+« C'est une question intéressante, » dit Suku.
+Elle montra le code.
+« Ceci est du papier, posé sur un tatami.
+Sur le papier se trouve de l'encre.
+L'encre forme de nombreux mots.
+Il y a un oiseau sur le cyprès du Japon dehors.
+Il a deux ailes plumées et deux yeux… »
+
+Elle continua de cette façon jusqu'à ce que les joues du novice soient écarlates.
+Il ramassa sa liasse de code et prit congé, honteux mais éclairé.
+Suku ne se tut pas tant qu'il était à portée d'oreille.
+
+
+== Commentaire de Qi
+
+On avait servi à Suku une généreuse portion de riz cru.
+La fortune du novice fut qu'elle n'avait pas de [[#34|spatule pour le cuire.]]
+
+== Poème de Qi
+
+Le novice verse une rivière de thé vert. //
+Pourtant, Suku a soif. //
+D'aplomb, un bol reçoit ce qu'il peut, //
+mais tout bol se renverse sous un déluge. //
