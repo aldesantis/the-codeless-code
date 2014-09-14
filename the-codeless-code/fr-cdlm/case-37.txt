@@ -1,0 +1,32 @@
+Title: Simulation
+Number: 37
+Lang: fr
+Translator: cdlm
+Illus.0.title: En fait, quand il y a des coupures de courant, le scribe utilise une lanterne de camping LED à manivelle, et rédige sur un netbook Asus avec douze heures d'autonomie. Mais vous avez saisi l'idée.
+
+Le site de gestion de commandes du [[Spider Clan|Clan de l'Araignée]] se comportait bien en production, mais l'environnement de développement était si instable que le clan ne pouvait tester ses changements qu'au mieux deux heures chaque jour.
+Maintenant une échéance s'approchait rapidement.
+Les moines se seraient arrachés les cheveux s'ils n'avaient pas déjà été tondus en prévention d'un tel spectacle.
+
+« C'est parce que le [[Laughing Monket Clan|Clan du Singe Rieur]] n'arrête pas de couper /leurs/ serveurs de développement » se plaint le moine supérieur du Clan de l'Araignée à l'un des prêtres.
+« Sans ces services, notre code ne peut faire aucune requête sur les préférences des utilisateurs ou sur le contenu du panier ! »
+
+« Nos redémarrages sont nécessaires, » dit le supérieur du Singe Rieur.
+« Nous aussi devons déployer du code durant la journée.
+Le Clan de l'Araignée pourrait peut-être simuler les services dont ils ont besoin.
+Les données seraient factices, mais les interruptions ne causeraient plus autant de troubles. »
+
+« Inacceptable ! » dit le supérieur du Clan de l'Araignée.
+« Vous nous demandez de consacrer des efforts à produire un piètre substitut juste pour circonvenir à vos manquements ! »
+Il se tourna vers le prêtre.
+« Quand le soleil se couche ou se cache derrière un nuage, notre scribe ne reste pas assis à rien faire comme ses antiques prédécesseurs, parce que sa lampe halogène éclaire autant le jour que la nuit.
+Les services du Singe Rieur devraient en suivre l'exemple et être aussi fiables que l'électricité qui alimente cette lumière constante ! »
+
+Le supérieur du Singe Rieur considéra cela.
+
+Tard dans la nuit, le supérieur du Clan de l'Araignée fut réveillé par un bruit à sa porte.
+Il se couvrit et invita le visiteur à entrer.
+
+« À la demande du Singe Rieur, j'apporte un petit cadeau de mes quartiers, » chuchota la voix d'un vieil homme.
+Ce n'était autre que le scribe du temple, qui plaça une bougie allumée sur la table.
+« Cela s'avère quelquefois nécessaire par mauvais temps. »
