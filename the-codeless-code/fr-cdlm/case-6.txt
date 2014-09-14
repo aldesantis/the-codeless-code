@@ -3,7 +3,7 @@ Number: 6
 Lang: fr
 Translator: cdlm
 
-En revenant de vacances, l'abbé en chef du [[Laughing Monkey Clan|Clan du Singe Rieur]] trouva son temple dans la panique et le désarroi.
+En revenant de vacances, l'abbé supérieur du [[Laughing Monkey Clan|Clan du Singe Rieur]] trouva son temple dans la panique et le désarroi.
 Le système financier qu'ils avaient tout juste modifié levait des NullPointerExceptions pour tous les nouveaux clients.
 Ces utilisateurs, extrêmement préoccupés, résiliaient leurs comptes après à peine une journée.
 
