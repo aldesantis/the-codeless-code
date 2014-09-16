@@ -1,0 +1,30 @@
+Title: Le Moine à Rebours
+Number: 44
+Lang: fr
+Translator: cdlm
+Illus.0.title: La garantie de la bouée ne couvre pas les crevaisons dûes à des rochers pointus. La couverture santé du temple non plus.
+
+Un certain moine avait une bizarre méthode d'écrire du code.
+Quand on lui présentait un problème, il écrivait tout d'abord nombre de tests automatiques vérifiant que le code à écrire serait correct.
+Bien sûr, ceux-ci échouaient, puisqu'il n'y avait encore rien à tester.
+Une fois seulement les tests achevés, le moine se mettait à travailler sur le code désiré proprement dit, progressant assidûment jusqu'à ce que tous les tests passent.
+
+Ses frères se moquaient de ce procédé, qui faisait que le moine ne produisait que moitié moins de code applicatif que ses pairs -- qui plus est seulement après un long délai.
+Ils l'appelaient /Luohou/, le Moine à Rebours.
+
+Le maître Java [[Banzen]] eût vent de ceci.
+« Je vais enquêter, » déclara-t-il.
+
+À son retour, le maître décréta que tous les membres du clan ayant terminé leurs tâches hebdomadaires pouvaient venir nager avec lui à la cascade, comme récompense pour leur efficacité.
+Le Moine à Rebours resta à son poste, seul.
+
+Du haut de la falaise, l'aîné des moines regarda par dessus le bord du plongeoir et eut un mouvement de recul.
+
+« Maître ! » s'écria-t-il.
+« Quelqu'un a écarté les pierres du barrage !
+Le trou d'eau est vide.
+Seules des algues et des pierres pointues nous attendent en contrebas !
+
+De son bâton, Banzen poussa l'adolescent vers le précipice.
+
+« Assurément, » dit le maître, « vous pourrez résoudre ce problème une fois arrivé en bas. »
