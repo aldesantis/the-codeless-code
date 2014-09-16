@@ -1,0 +1,39 @@
+Date: 2014-09-15
+Number: 162
+Title: All According to Plan
+Names: Banzen
+Topics: refactoring, requirements
+Geekiness: 1
+
+Master [[Banzen]] was in a neighboring province, visiting an
+abbot whose brethren had recently won a development contract
+away from a incumbent.
+
+"It has proven to be a hollow victory," lamented the abbot
+as he poured the tea.  "The code we inherited is a towering
+mountain of dung, where even the slightest prod buries us up
+to our eyeballs in a landslide of manure festering with
+null-pointer exceptions."
+
+"I /am/ eating," the master said.
+
+"Little wonder that our predecessors were unable to make
+even the slightest modification without weeks of effort!"
+continued the abbot.  "Little wonder the governor's patience
+was at an end!  We should refactor, but I do not know
+even where to begin, or how to verify that we have not
+broken anything in the process."
+
+"Where are the requirements?" asked the master.
+
+"There are none," said the abbot.  "The governor's habit is
+to dictate each change as the mood strikes him.  He says that, by
+definition, whatever the code is doing right now is
+correct."
+
+Banzen sipped his tea.  "It is?  Then all my sympathies go
+to the governor, and none to you!  That poor man!  Twice now -- and at no
+small expense -- he has contracted an entire abbey to build
+software for the express purpose of making him miserable.
+You should /thank/ your predecessors for their admirable
+foundation."
