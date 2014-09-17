@@ -1,0 +1,28 @@
+Title: Trous
+Number: 43
+Lang: fr
+Translator: cdlm
+
+L'Abbesse [[Jinyu]] inspectait l'état du [[Laughing Monkey Clan|Clan du Singe Rieur]].
+Dans le hall elle tomba sur un moine à demi-saoûl, trempé et grelottant.
+
+« Expliquez, » dit l'Abbesse.
+
+« Le m-m-maître m'a ordonné de s-sortir son coracle sur la r-r-rivière, » dit le moine en claquant des dents.
+« Une fois éloigné de la rive j'ai découvert qu'il était plein de trous sur les flancs.
+La p-plupart étaient rebouchés avec des bouchons de liège, mais d-d-d-deux avaient étés négligés.
+Si je ne les avais pas bouchés avec mes d-d-doigts j'aurais péri. »
+
+L'Abbesse salua et entra voir le maître Java.
+
+« Expliquez, » dit l'Abbesse, indiquant le moine.
+
+« Ce moine avait la tâche d'implémenter le Panier d'Acahts pour notre nouveau site, » dit le maître.
+« Il découvrit que si une entrée spécifique de la base de données n'était pas initialisée, les tentatives d'afficher le Panier d'Achats échoueraient.
+Alors le moine trouva chaque page qui proposait un /lien/ vers le Panier d'Achats et tenta d'initialiser l'entrée de base de données /là./
+Il y avait une douzaine de ces pages.
+Déplorablement, deux furent négligés. »
+
+L'Abbesse frappa le maître de sa canne.
+
+« La prochaine fois, » dit-elle, « percez plus de trous. »
