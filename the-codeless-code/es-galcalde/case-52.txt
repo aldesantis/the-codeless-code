@@ -1,0 +1,44 @@
+Number: 52
+Title: Baldes
+Lang: es
+Translator: galcalde
+
+Después del desayuno, un aprendiz del [[Spider Clan|Clan de la Araña]] notó una linea de seis monjes abandonando el templo con yugos para baldes sobre sus espaldas y expresiones de tristeza en sus caras. Un abad junior los seguía detrás. Los monjes caminaban fatigosamente por un descuidado camino pedregoso que serpenteaba por la ladera, desapareciendo en un matorral de pinos. Ese mismo aprendiz observó a los monjes trepando de vuelta al templo después del almuerzo. Sus baldes estaban llenos de tierra húmeda y piedras, sin embargo a pesar de la carga fuerte cada hermano reía y caminaba con mucha alegría.
+
+Y así pasó el día siguiente, y el día después, y el día después de ese día, picando la curiosidad del aprendiz. Los seis monjes llevaban las ropas de cintura roja del [[Laughing Monkey Clan|Clan del Monje que Ríe]], así que el aprendiz fue al hall del clan. El abad estaba sentado en el piso de la sala común, preocupado con balancear un huevo en su punto.
+
+"¿Qué hay de los seis monjes, y los baldes de tierra?" preguntó el aprendiz.
+
+"Están siendo corregidos," dijo el abad, "por su peligrosa mala gestión de un módulo crítico de software." Él metió la mano en una pequeña bolsa de sal, colocó un pellizco en el suelo, colocó el huevo encima, y gentilmente sopló la sal lejos del huevo. El huevo se cayó. El abad suspiró, tomó otro pellizco de sal y empezó de nuevo.
+
+"¿Qué falla han introducido?" preguntó el aprendiz.
+
+<i>"Mu,"</i> dijo el abad. "No introdujeron ninguna falla. Ni una linea de código se ha tocado en meses."
+
+"¿Entonces qué falla fallaon en corregir?"
+
+<i>"Mu,"</i> repitió el abad mientras el huevo se caía de nuevo. "El módulo funciona perfectamente, y sin duda continuará así por varios meses más."
+
+El aprendiz frunció el ceño. "No veo como algo que es perfecto e incambiable pueda ser objetable, o su manejo llamado peligroso."
+
+"¡Tú, monje!" gritó una voz detrás suyo. El aprendiz se dio vuelta y halló al maestro Java [[Banzen]] mirándolo con furia.
+
+"Mañana, te unes a la linea," dijo Banzen.
+
+- - -
+
+"El castigo es simple," dijo el abad junior mientras el aprendiz cogía el yugo. "Te lo explicaré cuando lleguemos al hueco."
+
+El aprendiz figuió a los seis hermanos por el camino pedregoso, con el abad junior yendo a la retaguardia tras de él. Continuaron a través del bosque profundo en silencio.
+
+Finalmente llegaron a un amplio claro soleado. En el centro un pináculo gigante y rocoso encajado hacia arriba apuntando al cielo: tenía cuatro pisos de altura, y era tan amplio que si veinte hombres se pararan de las puntas de los pies apenas podrían rodearlo.
+
+"¿No es grande?" dijo el abad. "Estuvo aquí desde el inicio del tiempo."
+
+Acercándose, el aprendiz pudo ver que el claro fue cavado alrededor del pináculo, así que estaba rodeado en todas partes por una fosa grande y vacía. Mirando sobre el borde de la fosa estaba el escalón de más arriba de una escalera de bambú. Cada monje desapareció por la escalera en turnos, reapareciendo un largo tiempo después empapado de sudor, con un yugo lleno y una amplia sonrisa.
+
+Finalmente vino el turno del aprendiz.
+
+La fosa era varios pisos profunda. Mientras el aprendiz trepaba escalón por escalón hacia las sombras abajo pudo ver que la tierra había sido quitada no sólo de alrededor del pináculo, sino también debajo de su base. El peñasco entero estaba ahora balanceado precariamente en unos pocos metros de tierra empacada.
+
+"Arrástrate bajo el pináculo," gritó el abad, "hasta que llegues al montículo de tierra bajo el centro. Llena los baldes de ahí. Y si yo fuera tú, trabajaría lentamente y no intentaría estornudar."
