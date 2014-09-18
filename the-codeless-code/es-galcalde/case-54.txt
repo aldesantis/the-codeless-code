@@ -1,0 +1,52 @@
+Number: 54
+Title: Nudos
+Lang: es
+Translator: galcalde
+Illus.0.title: Un nudo espiga floral quíntuple reverso del revés con un nudo llano de veintitres grados y una cuerda estabilizadora. Este es el único nudo que aprendí. No me até los cordones hasta los treinta y cinco.
+Illus.1.title: Dectecto una falta de urgencia aquí.
+
+Dos monjas iban caminando por un camino arbolado no muy lejos del templo, cuando descubrieron para su inconveniencia mutua que el camino acababa en una caída repentina por un barranco empinado. El fondo del barranco yacía doscientos pies más abajo; el precipicio en el lado opuesto estaba a esa misma distancia.
+
+"Pido tu paciencia, Hwídah," dijo la primera monja, "porque mi mente estuvo sobrecargada de memorizar demasiadas APIs. ¿Pero no había un puente de cuerda a través del abismo en este punto?"
+
+"Creo que no te has equivocado, Yíwen," dijo la segunda monja. "Según recuerdo era un puente robusto, antiguo y servicial, y sin duda esperaba que lo utilizáramos en nuestro andar."
+
+- - -
+
+El viento silbó.
+
+"De nuevo, téngame lástima, Hwídah, porque mis ojos están débiles de escribir código en las horas bajas. ¿Pero eso no parecen ser los restos del puente de cuerda en el otro extremo del abismo, colgando por el precipicio?" 
+
+"Creo que lo son, Yíwen, y si miras hacia los dos árboles grandes en ambos lados de nuestro camino verás que una porción del puente cuelga inútilmente por nuestro lado del abismo también. Preste atención de como ambas mitades, cercana y lejana, se tuercen en el viento con escasos tablones aún atrapados aquí y allá en las trenzas, golpeandose irregularmente contra las rocas. El sonido me recuerda a unas campanillas de viento que una vez colgué fuera de mi ventana..."
+
+- - -
+
+Ambas monjas pausaron para contemplar los golpes y raspadas de los tablones contra el acantilado.
+
+"Cien perdones, Hwídah, porque mis oídos están acostumbrados a poco más que al repiqueteo de mi teclado. ¿Pero no puedes también distinguir una voz en el viento?"
+
+"Creo que puedo, Yíwen. Si observas las cuerdas en el otro extremo te darás cuenta que [[Zjing]], una monja muy famosa de nuestra orden, está aferrándose al final y gritando en nuestra dirección. Mi impresión es de que ella estaría moviendo las manos para atraer nuestra atención si sus manos no estuvieran ocupadas en detener su caída. No olvidemos nuestros modales."
+
+- - -
+
+Hwídah saludó a la monja en peligro.  Yíwen lo hizo también.
+
+"Espero que no pienses que no soy amable, Hwídah, ¿Pero no has encontrado a Zjing demasiado preocupada con la estética del código? Los miembros de nuestro clan se quejan de que frecuentemente rfactoriza sus módulos sólo porque ella cree que la implementación no es lo suficientemente elegante."
+
+"Creo que eres justa en tu juicio, Yíwen. Aunque sus objetivos son laudables, siempre están en desacuerdo con las complejidades de nuestro problema dominio. Sin duda, sus esfuerzos, ocasionalmente han hecho más daño que bien. Sin embargo, eso no debería afectar nuestra decisión de ir a ayudarla."
+
+- - -
+
+Ambas monjas permanecieron en el precipicio y reflexionaron sobre como ayudar mejor a su camarada.
+
+"¿No es un infortunio, Hwídah, que la rotura del puente nos dejó sin medios para atravesar el abismo y hacer un rescate?"
+
+"Creo que es lo más terrible, Yíwen, pero si el puente se hubiera <em>roto</em> verdaderamente entonces las cuerdas se deshilacharían, sin embargo puedo ver los extremos acabados claramente. Según recuerdo había una puerta deliciosamente pintada de rojo y dorado en el punto medio exacto del puente, y cada mitad estaba asegurada a la puerta con nudos que de alguna manera se deshicieron."
+
+- - -
+
+Hwídah señaló al río muy abajo, donde los restos de la puerta podían verse flotando en un remolino. Yíwen asintió.
+
+"¿No es de tu remembranza, Hwídah, que los nudos que aseguraban las cuerdas a la puerta eran lamentablemente grandes y feos, y restaban valor a su belleza?"
+
+"Creo que sí, Yíwen. Espero que su fealdad hubiese sido lo más seductor para alguien que se preocupaba de esas cosas -- aunque parece improbable que alguien fuese lo suficientemente imprudente para intentar re-atar los nudos mientras está parado en el centro del puente. Hablando por mi misma, Nunca hallé la fealdad tan perturbadora. Yo estuve agradecida simplemente de ser capaz de cruzar el puente. Cada mes, satisfacía su propósito lo más excelentemente."
