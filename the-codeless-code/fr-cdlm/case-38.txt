@@ -1,0 +1,27 @@
+Title: Langage
+Number: 38
+Lang: fr
+Translator: cdlm
+
+Un novice demanda au maître Java [[Banzen]] :
+« Quel est le langage de programmatino le plus parfait ? »
+
+Le maître répondit,
+« Celui qui accomplit la tâche désirée en dépendant le moins d'efforts de l'utilisateur. »
+
+Le novice demanda,
+« Y a-t-il un langage qui surpasse tous les autres à cet égard ? »
+
+Le maître répondit,
+« Fais-moi un jardin de dix mille pierres ! »
+
+== Commentaire de Qi
+
+Le management, également, a ses langages de programmation, bien que ce qu'ils produisent soit fréquemment défectueux.
+
+== Poème de Qi
+
+Que le jardin soit construit ou non, //
+Benzen eut satisfaction. //
+Le novice ne vint plus chercher conseil -- //
+Les mots cachent l'intention.

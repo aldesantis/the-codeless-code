@@ -1,0 +1,38 @@
+Number: 5
+Lang: es
+Translator: jtor
+Title: Void
+
+Un frío día de otoño, el maestro Java se despertó inquieto. Partió en soledad para despejar su mente.
+
+Pronto, el maestro se encontró a las puertas del Templo de las Tres Piedras, donde todavía se practicaba el arte del ANSI C. Un hermano iniciado montaba guardia.
+
+“¿Cuál es la naturaleza de /void/?”, preguntó el maestro.
+
+“No tiene naturaleza”, contestó el hermano. “Es el palo que atrapa el perro que no atrapa palos. Es lo que señala la mano que podría señalar cualquier cosa. Es la perfecta ausencia de valor”.
+
+El maestro pensó: “El Templo de las Tres Piedras no necesita un guardia. No puede haber nada de valor en su interior”.
+
+Más adelante llegó al [[Temple of the White Iron Sky|Templo del Cielo Blanco de Hierro]], un lugar de teóricos donde sólo se permitía ML. En el marchito jardín una monja escribía expresiones lambda en la tierra.
+
+“¿Cuál es la naturaleza de /void/?”, preguntó el maestro.
+
+“Tiene el color del aire, y el peso de la niebla al levantarse”, contestó la hermana. “Cuando es golpeado, emite el sonido de la luna nueva al deslizarse tras una nube. Cada cuenco vacío contiene tantos como desees”.
+
+El maestro pensó: “La hermana no ha dicho nada que sea falso, pero tampoco nada que sea verdad”.
+
+Siguiendo el camino, el maestro llegó a una gran casa señorial, donde una anciana podaba los setos.
+
+“¿Cuál es la naturaleza de /void/?”, preguntó el maestro.
+
+La anciana hizo una reverencia y continuó con la poda.
+
+El maestro pensó: “He aquí la pura sabiduría, aunque sólo hay su ausencia”.
+
+Finalmente, el maestro llegó a un cementerio abandonado.
+
+“¿Cuál es la naturaleza de /void/?”, preguntó el maestro.
+
+Del vacío jardín no vino respuesta.
+
+El maestro Java quedó satisfecho.

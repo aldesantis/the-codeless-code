@@ -1,0 +1,43 @@
+Title: Division
+Number: 36
+Lang: fr
+Translator: cdlm
+Illus.0.title: On n'a pas encore réussi à passer 14.
+
+Le [[Sparrow Clan|Clan du Moineau]] était disgracié et en déroute.
+Son chef avait choisi une fin honorable par seppuku, mais la crainte d'autres coupes dans le personnel avait poussé les moines restants les uns à la gorge des autres.
+Un prêtre avait été nommé à la direction du clan pour restaurer l'ordre, mais ses efforts demeuraient vains.
+
+« La soustraction d'un seul a mené à la division de tous, »
+dit le prêtre à l'abbé supérieur.
+« Nous devons corriger le reste du clan avant qu'ils ne deviennent un mauvais exemple pour le temple. »
+
+« Je ne vois aucun besoin de discipline, » soupira l'abbé, qui était connu pour son excessive clémence.
+« Cela sera plus simple de dissoudre le Clan du Moineau.
+Combien y reste-t-il de moines ? »
+
+« Six, » répondit le prêtre.
+
+« Bien. Qu'on en envoie la moitié dans un clan de votre choix, et l'autre moitié dans un autre. »
+
+Le prêtre commença à protester, mais, se ravisant, il salua raidement et s'en fut.
+Le soir il conviqua les moines querelleurs.
+D'un unique tourbillon de sa lame il sectionna les six en deux à la taille.
+
+« Envoyez les têtes au Clan du Singe Rieur, et les queues à l'Emprunte d'Éléphant, » dit-il à l'un de ses novices.
+« Et suggérez-leur de considérer le prix de la discorde. »
+
+Le prêtre fit ensuite rapport à l'abbé :
+« J'ai fait comme vous aviez ordonné, et en effet toutes les querelles ont cessé. »
+
+
+
+== Note de l'éditeur
+
+<div class="editorial-note">
+<p>Quelques lecteurs en ayant exprimé l'intérêt, une grande version du poster est disponible au téléchargement au format <a href='/pages/case-36/poster.svg'>SVG</a>
+ou <a href='/pages/case-36/poster.png'>PNG</a>.
+</p>
+</div>
+
+

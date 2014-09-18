@@ -1,0 +1,27 @@
+Number: 9
+Lang: es
+Translator: jtor
+Title: Infinitos
+Illus.0.title: ¿Y TÚ te crees pobre por tener que compartir tu ROPA? Nosotros tenemos que compartir nuestras PIERNAS.
+
+Dos monjes del [[Spider Clan|Clan de la Araña]] estaban debatiendo si la nueva rutina de validación de entrada se había atascado en un bucle infinito.
+
+“¿Cuánto tiempo ha estado ejecutándose?”, preguntó el abad.
+
+“No más de treinta minutos”, dijo el monje delgado y pálido.
+
+“Aunque tampoco menos”, dijo el monje gordo y moreno.
+
+“¿Y no habéis hecho nada en todo este tiempo sino esperar a que se complete?”, preguntó el abad.
+
+Los monjes agacharon la cabeza, avergonzados.
+
+El abad informó al maestro Java, quien asintió. “¿Cuál de ellos cree que el bucle /no/ es infinito?”.
+
+“El delgado y pálido”, dijo el abad.
+
+“Entonces dale un cuero de vino, pues es sabio. Ningún bucle puede ser verdaderamente infinito. Algún día la luz se irá, el servidor se oxidará, el templo se derrumbará, y el Sol engullirá a la Tierra”.
+
+El abad preguntó: “¿Y el gordo y moreno, que cree que el bucle es infinito?”.
+
+“Dale dos cueros de vino, pues es más sabio. Para el usuario que espera en su navegador, diez segundos son una agonía, un minuto es un eón, y cualquier tiempo mayor es efectivamente una eternidad. Cuando el tigre hiere al antílope, el antílope no se pregunta si usó ocho garras, o un millón".

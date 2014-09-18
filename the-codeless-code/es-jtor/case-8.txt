@@ -1,0 +1,20 @@
+Number: 8
+Lang: es
+Translator: jtor
+Title: Reducir, Reusar, Reciclar
+
+Un aprendiz le preguntó al gran maestro: “¿Cuál es el Camino?”.
+
+El maestro respondió: “Escribir código es el Camino”.
+
+Entonces, el aprendiz preguntó: “¿Cuál no es el Camino?”.
+
+El maestro respondió: “Escribir código no es el Camino”.
+
+El aprendiz dijo: “Entonces escribir código lo es todo”.
+
+El maestro contestó: “Y también lo es no escribir código”.
+
+El aprendiz preguntó: “En el momento presente, ¿estamos escribiendo código, o no estamos escribiendo código?”.
+
+El maestro respondió: “Somos el código”.
