@@ -17,7 +17,7 @@ Ante esto, los otros monjes lo agarraron rápidamente y lo patearon hasta que es
 
 El maestro Java escuchó de esto, y pidió al abad del clan que investigue. "Aquí hay cuarenta y ocho preguntas para el joven monje." dijo el maestro. "Infórmeme de sus respuestas."
 
-Elabad hizo eso. Para la mayoría de las preguntas el monje dio una respuesta lisa. Para varias, respondió con el enigmático <em>null.</em> Para el resto, estuvo callado.
+El abad hizo eso. Para la mayoría de las preguntas el monje dio una respuesta lisa. Para varias, respondió con el enigmático <em>null.</em> Para el resto, estuvo callado.
 
 El maestro Java acarició su barba mientras examinaba el papel dado por el abad.
 
