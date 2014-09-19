@@ -3,7 +3,7 @@ Title: La Sandalia Elocuente
 Lang: es
 Translator: galcalde
 
-Dos monjes llevaron su discusion ante el maestro Java [[Kaimu]]. Le preguntaron, "¿Null es un valor, o la ausencia de un valor?"
+Dos monjes llevaron su discusión ante el maestro Java [[Kaimu]]. Le preguntaron, "¿Null es un valor, o la ausencia de un valor?"
 
 "Null," dijo el maestro, y se alejó.
 
