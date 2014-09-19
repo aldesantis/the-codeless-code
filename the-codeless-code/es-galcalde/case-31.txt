@@ -7,7 +7,7 @@ Dos monjes llevaron su discusion ante el maestro Java [[Kaimu]]. Le preguntaron,
 
 "Null," dijo el maestro, y se alejó.
 
-Los monjes luego procedieron a discutir el significado de la repsuesta del maestro, incluso después de que el clan se retirase al dormitorio y todas las lámparas se apagaran:
+Los monjes luego procedieron a discutir el significado de la respuesta del maestro, incluso después de que el clan se retirase al dormitorio y todas las lámparas se apagaran:
 
 El primer monje insistió que null <em>debe</em> ser un valor, porque el maestro lo utilizó para responder una pregunta.
 
