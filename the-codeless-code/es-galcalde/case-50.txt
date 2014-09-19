@@ -21,4 +21,4 @@ El aprendiz pensó por un momento, luego se señaló a si mismo con una sonrisa 
 
 Qi agarró la muñeca del aprendiz y rápidamente escribió su nuevo nombre del templo en el dorso de su mano.
 
-"Clase Contenedor," dijo el escriba.
+"Clase Wrapper," dijo el escriba.
