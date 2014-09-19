@@ -27,8 +27,8 @@ Una joven monja -- una aprendiz -- se dio cuenta de que varios maestros Java est
 
 Los maestros la ignoraron. Pero la monja [[Zjing]] la escuchó, y le susurró:
 
-"Si yo fuera el monje que prefiere el Camino de los Patrones de Diseño Empresariales, te diría que cometiste el mismo error que el cavador de zanjas. Hay una pregunta que sellar, pero equivocaste los propósitos de aquellos presentes."
+"Si yo fuera el monje que prefiere el Camino de los Patrones de Diseño Empresariales, le diría que usted cometió el mismo error que el cavador de zanjas. Hay una pregunta que sellar, pero equivocó los propósitos de aquellos presentes."
 
-"¿Estás diciendo que los maestros tienen la intención de ocultarnos la respuesta?" preguntó la aprendiz.
+"¿Está diciendo que los maestros tienen la intención de ocultarnos la respuesta?" preguntó la aprendiz.
 
-<em>"Wu,"</em> dijo Zjing. "Si yo fuera el monje que prefiere el Camino de la Orientación a Objetos, llamaría tu atención sobre la Jerarquía No Escrita, en la cual <em>Maestro</em> es una subclase de <em>Estudiante</em>."
+<em>"Wu,"</em> dijo Zjing. "Si yo fuera el monje que prefiere el Camino de la Orientación a Objetos, llamaría su atención sobre la Jerarquía No Escrita, en la cual <em>Maestro</em> es una subclase de <em>Estudiante</em>."
