@@ -13,7 +13,7 @@ Resultaba que dos monjes del [[Laughing Monkey Clan|Clan del Mono que Ríe]] est
 
 "¡Pero hemos perdido el Camino de la Orientación a Objetos!" gritó el primero. "¿Hemos vuelto al principio a los días de C? ¡Nuestros Value Objects son poco más que <em>structs</em>, nuestros DAOs y Servicios sin estado son simplemente colecciones de funciones relacionadas, y nos pasamos IDs enteros en vez de los objetos que representan! ¿Debemos luego correr en cuatro patas y aullar a la luna?"
 
-"¡El Camino de los Patrones de Diseño Empresariales es un avance hacia la simplicidad ideal, no una regresión a lo primitivo!" said the second. "¡Un objeto de dominio no tiene la intención de trabajar como su homónimo, tanto como la imagen de una pala tenga la intención de cavar una zanja! ¡Debes dejar de lado las apariencias y enfocarte en el <em>propósito</em>!"
+"¡El Camino de los Patrones de Diseño Empresariales es un avance hacia la simplicidad ideal, no una regresión a lo primitivo!" dijo el segundo. "¡Un objeto de dominio no tiene la intención de trabajar como su homónimo, tanto como la imagen de una pala tenga la intención de cavar una zanja! ¡Debes dejar de lado las apariencias y enfocarte en el <em>propósito</em>!"
 
 "¡El propósito es <em>inherente</em> en el nombre elegido!" dijo el primero. "¡Los objetos de dominio deberían modelar el mundo real!"
 
