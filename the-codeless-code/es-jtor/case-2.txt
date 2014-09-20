@@ -2,7 +2,6 @@ Number: 2
 Lang: es
 Title: Ignorancias ignoradas
 Translator: jtor
-Illus.0.title: Pensándolo de nuevo, pediré la ensalada.
 
 El Emperador estaba enfadado por los fallos en el nuevo
 sistema de procesamiento que había encargado, por lo que
