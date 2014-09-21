@@ -39,7 +39,7 @@ El Clan del Gorrión no tenía interés en la nueva API, la cual consideró sobr
 
 El software del Clan del Gorrión siguió evolucionando, acumulando algunas nuevas características impresionantes, pero como consecuencia ya era irremediablemente incompatible con la nueva especificación API. El monje principal no tenía preocupaciones <i>(¡Qué los otros templos disfruten sus implementaciones primitivas!)</i> pero aún temía abrir su correo cada mañana. El tono de Jinyu se volvió más oscuro:
 
-   El halcon crecido no cena moscas.
+   El halcón crecido no cena moscas.
 
 Los templos que adoptaron la nueva API siguieron colaborando, produciendo varias extensiones y mejoras. Las aventuras comerciales se escindieron, la competencia escaló, y pronto una ventisca de volantes brillantes fueron impresos y enviados por palomas mensajeras a todas los rincones del Imperio. Hasta la abadesa recibió unos pocos, los cuales reenvió con esta nota:
 
@@ -48,7 +48,7 @@ Los templos que adoptaron la nueva API siguieron colaborando, produciendo varias
 
 A través del imperio, gobernadores y generales clamaron sistemas contruidos con la tecnología más nueva. Cada templo en la puja cacareó que su solución era compatible con los estandares -- o más bien, todos los templos excepto uno.
 
-En un patio apartado del Templo del Gong de Latón Mañanero, se hizo una reunión para discutir el destino del Clan del Gorrión. Sus librerías se volvieron cargas, puesto que (a diferencia de sus competidores) no podían interoperar con las extensiones comerciales inmensamente populares. Los clientes que adoptaron la teconología del Gorrión en sus primeros días ahora demandaban actualizaciones a las soluciones comerciales -- pero como las interfaces eran tán diferentes, el costo era prohibitivamente alto. Los contratos fueron cancelados. Para peor, la reputación del templo ha sufrido.
+En un patio apartado del Templo del Gong de Latón Mañanero, se hizo una reunión para discutir el destino del Clan del Gorrión. Sus librerías se volvieron cargas, puesto que (a diferencia de sus competidores) no podían interoperar con las extensiones comerciales inmensamente populares. Los clientes que adoptaron la teconología del Gorrión en sus primeros días ahora demandaban actualizaciones a las soluciones comerciales -- pero como las interfaces eran tan diferentes, el costo era prohibitivamente alto. Los contratos fueron cancelados. Para peor, la reputación del templo ha sufrido.
 
 Aquella tarde Jinyu mandó un mensaje final al monje principal del clan, escrito en un cuadrado de papel de arroz que fue doblado alrededor de la hoja de un cuchillo seppuku:
 
