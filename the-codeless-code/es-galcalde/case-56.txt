@@ -1,0 +1,36 @@
+Number: 56
+Title: Necesidades del Oso
+Lang: es
+Translator: galcalde
+
+De todas las monjas del templo, [[Yíwen]] y [[Hwídah]] eran mejor conocidas por ser inseparables; a donde iba una, la otra también iba. Así que cuando una de su orden fue descubierta [[#54|colgando precariamente de las cuerdas a mitad de un acantilado]], Yíwen y Hwídah fueron juntas a buscar consejo del abad del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]].
+
+El abad escuchó el reporte de las monjas con sus pies apoyados sobre su escritorio, puliendo sus lentes con el borde de su bata. Cuando las monjas acabaron el abad sacó una tableta electrónica a baterías debajo de un manojo de papeles y lanzó un programa ábaco. Con los dedos equilibrados sobre el vidrio, preguntó:
+
+"¿Horas requeridas?"
+
+Hubo una pausa incómoda.
+
+"Cien perdones, señor," dijo Yíwen. "¿Pero nos está pidiendo estimar el <em>esfuerzo</em> del rescate primero?"
+
+"Creo que esa es su función," dijo Hwídah, "porque lo escuché hacer la misma pregunta a cualquiera que proponga cambios a nuestro software." Ella fijó sus ojos en el abad. "Una docena de monjes y monjas, trabajando por dos días, deberían ser suficientes para reatravesar el abismo, tirar de los restos del puente, y rescatar a la infortunada monja colgada del extremo."
+
+"No puedo liberar a tantos de sus deberes," dijo el abad. "Las proposiciones con un alto nivel de esfuerzo requieren aprobación del comité de planeamiento. Vuelvan en tres semanas."
+
+Las monjas intercambiaron miradas.
+
+"Cien perdones más por mi insolencia, señorr," dijo Yíwen. "Pero en el interino, ¿Qué debemos hacer con la monja en peligro?"
+
+"Lancen pescado cocido y odres con agua por el barranco," dijo el abad. "Algunos caerán dentro de su alcance."
+
+"Creo," dijo Hwídah cuidadosamente y con evidente irritación, "que hacer esta actividad tres veces al día desperdiciaría mucho pescado y muchos odres, como también aumentaría la carga de trabajo para el equipo de cocineros, los portadores de agua, los pescadores, los curtidores, y -- por supuesto -- a cualquiera que se le de la tarea de pararse al borde del abismo y tire los comestibles hasta que lleguen a su destino. El costo acumulativo sólo en salmón se espera que exceda al costo de un rescate puntual."
+
+El abad sonrió tristemente. "Cuando busca miel, el oso soportará felizmente una picadura de abeja cada mañana de su larga vida. Pero no puede sobrevivir mil picaduras si vienen todas al mismo tiempo."
+
+Cuando las monjas abandonaron la oficina del abad, Yíwen preguntó:
+
+"¿No sabe el abad que la función principal de los osos es <em>comer</em> abejas, y no huir de ellas?
+
+A lo cual Hwídah replicó:
+
+"Aunque fuera así, el oso que no pueda distinguir entre doce abejas y mil morirá de miedo en un bosque goteando azucar."
