@@ -1,0 +1,27 @@
+Number: 57
+Title: Precisión
+Lang: es
+Translator: galcalde
+Illus.0.title: El cerebro estaba en un jarrón etiquetado como AB-cualquiercosa.
+
+Cierto monje se acercó al maestro Java [[Bawan]] al terminar su merienda y demandó:
+
+"¿No es cierto que la memoria de una computadora es, esencialmente, una secuencia finita de bits?"
+
+"Es cierto," dijo el maestro.
+
+"Y si todas las computadoras en eel mundo fuesen traidas juntas para trabajar en una tarea, el número de bits seguiría siendo finito?"
+
+"Seguiría," dijo el maestro.
+
+"¡Entonces no podemos esperar calcular perfectamente con números irracionales comunes como pi o la raíz cuadrada de dos, porque poseen un número <em>infinito</em> de dígitos! Nuestras aproximaciones cosechan error tras error con cada operación matemática. ¡La profesión exquisita de la computación de punto flotante es sólo una fortaleza construida sobre arenas movedizas!"
+
+El maestro Bawan se levantó, miró pensativo la cintura del monje por un momento{{*}}, luego arrojó su bowl de arroz de madera hacia el estómago del monje. El monje se dobló.
+
+"Radia, cinco centimetros," dijo Bawan, indicando el bowl. "¿Cual es su circunferencia?"
+
+"10&pi;," jadeó el monje.
+
+"Sorprendente," dijo Bawan. "Qué increiblemente vasto debe ser tu cerebro, para hacer malabarismos con un número de dígitos infinito y llegar a una respuesta exacta."
+
+{{*}} Bawan era notoriamente corto, lo cual puede explicar su debilidad por los detalles de bajo nivel.
