@@ -18,7 +18,7 @@ Cierto monje se acercó al maestro Java [[Bawan]] al terminar su merienda y dema
 
 El maestro Bawan se levantó, miró pensativo la cintura del monje por un momento{{*}}, luego arrojó su bowl de arroz de madera hacia el estómago del monje. El monje se dobló.
 
-"Radia, cinco centimetros," dijo Bawan, indicando el bowl. "¿Cual es su circunferencia?"
+"Radio, cinco centimetros," dijo Bawan, indicando el bowl. "¿Cual es su circunferencia?"
 
 "10&pi;," jadeó el monje.
 
