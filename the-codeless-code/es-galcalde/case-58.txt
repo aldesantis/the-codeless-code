@@ -1,0 +1,43 @@
+Number: 58
+Title: Suficiente para Colgarse
+Lang: es
+Translator: galcalde
+Illus.0.title: Eres un maestro bueno y amable y te quiero. ¡ARDILLA!
+
+No se dice mucho del Clan del Aliento Amargo del Lobo de bata negra, excepto esto: ningún software podía ser enviado más allá de las fronteras del templo a menos que contara con su aprobación primero. En los días siguientes a un lanzamiento el sonido de sus pasos apresuró a tantos monjes que el clan fue forzado a ir descalzo, entregando sus tickets de defectos con cautela en las horas más oscuras de la noche.
+
+Así fue que algo irritado el maestro Java [[Banzen]] -- quien premiaba la correctitud sobre todo -- fue forzado a explicar las repetidas fallas de [[Djishin]], el monje más serio.
+
+- - -
+
+El maestro Banzen mandó llamar a Djishin, quien encontró al maestro mirando el atardecer desde el acantilado.
+
+Dijo Banzen: "Los monjes del Aliento Amargo del Lobo desean saber si la próxima iteración del sistema es digna de su atención. Ellos ansían nuestra garantía de que no evidenciará fallas críticas inmediatamente después de la implantación, como muchos de sus predecesores."
+
+Dijo Djishin: "Yo declaro que el nuevo sistema es de lo más digno. En teoría he probado cualquier lugar en donde los componentes de bajo nivel puedan fallar, y todos funcionan como deberían."
+
+Dijo Banzen: "Debe ser tedioso esforzarse de este modo por días, clickeando a través de diálogos de usuarios y examinando archivos log."
+
+Dijo Djishin: "Mi testing no se hace manualmente; usted mismo ha observado que semejante método es lento y propenso a errores. En su lugar he trabajado de acueerdo al método de [[Luohou]]: todos los cambios a DAOs y Servicios fueron verificados durante la implementación por un batallón comprensivo de tests automatizados de bajo nivel. Porque si las piedras son sólidas, el muro estará en pie."
+
+Dijo Banzen: "Infórmale a los monjes, entonces. Le esperan al otro lado del desfiladero."
+
+Banzen señaló el gran abismo que separaba el acantilado en donde estaban del acantilado opuesto.
+
+Dijo Djishin: "¿Como podré cruzar? El puente fue [[#54|destruido por una monja estúpida]] y aún cuelga destrozado."
+
+Banzen indicó una cuerda delgada estirada sobre el abismo entre dos pimpollos.
+
+Dijo Djishin: "Pero maestro, nadie excepto los propios acróbatas del Emperador pueden balancearse en una cuerda tan angosta."
+
+Banzen hizo un gesto a un bucle de la misma cuerda tirado cerca en el suelo, entrollado en una espiral sólida de un metro de largo. El maestro colocó un pie en el centro y levantó su otro pie, quedándose así durante un minuto.
+
+Djishin sabía que era mejor no acusar al maestro de injusticia, y en vez dijo: "Pero la fina trenza está seca y quebradiza. No creo que soporte mi peso."
+
+Banzen se arrodilló, pasando palmo tras palmo de la cuerda entre sus manos, demostrando que su largo entero aun estaba intacto después de que le pisara encima.
+
+De nuevo Djishin no se animó a disputar el argumento del maestro, y en vez dijo: "Pero su puente está sostenido por dos pimpollos verdes. Las plantas se se arrancarán seguramente por mi peso."
+
+Banzen mostró una ocarina de su bata y sopló un trino vibrante y agudo. Del bosque al otro lado del precipicio saltaron docenas y docenas de ardillas. Una por una saltaron en la cuerda contoneante y corrieron a través de la brecha. Cuando una ardilla llegaba Banzen le tiraba una nuez lichi, con lo cual la ardilla se inclinaba y desaparecía en los bosques, y la siguiente empezaba a cruzar. Djishin miró sorprendido hasta que la última ardilla se fue.
+
+Dijo Banzen: "Viendo que su pie no es más grande que el mío, su cuerpo no es más pesado que el mío, y que ninguno de los dos excede el peso de cien ardillas, yo declaro que mi puente es el mas digno para que lo cruzes. En <i>teoría.</i> Ahora <i>vayase."</i>
