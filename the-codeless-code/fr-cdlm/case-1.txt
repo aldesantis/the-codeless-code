@@ -1,4 +1,4 @@
-Title: Les Petites Choses
+Title: Les petites choses
 Number: 1
 Lang: fr
 Translator: cdlm
