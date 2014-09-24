@@ -31,7 +31,7 @@ Ambas monjas pausaron para contemplar los golpes y raspadas de los tablones cont
 
 Hwídah saludó a la monja en peligro.  Yíwen lo hizo también.
 
-"Espero que no pienses que no soy amable, Hwídah, ¿Pero no has encontrado a Zjing demasiado preocupada con la estética del código? Los miembros de nuestro clan se quejan de que frecuentemente rfactoriza sus módulos sólo porque ella cree que la implementación no es lo suficientemente elegante."
+"Espero que no pienses que no soy amable, Hwídah, ¿Pero no has encontrado a Zjing demasiado preocupada con la estética del código? Los miembros de nuestro clan se quejan de que frecuentemente refactoriza sus módulos sólo porque ella cree que la implementación no es lo suficientemente elegante."
 
 "Creo que eres justa en tu juicio, Yíwen. Aunque sus objetivos son laudables, siempre están en desacuerdo con las complejidades de nuestro problema dominio. Sin duda, sus esfuerzos, ocasionalmente han hecho más daño que bien. Sin embargo, eso no debería afectar nuestra decisión de ir a ayudarla."
 
