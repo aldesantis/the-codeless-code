@@ -1,0 +1,52 @@
+Date: 2010-11-09
+Title: De vijand van het goede
+Number: 7
+Geekiness: 1
+Lang: nl
+Translator: tsluyter
+Topics: testing, automated testing, perfection
+Names: Laughing Monkey Clan
+Credits: Some textures in illustrations courtesy of <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.par: 0
+Illus.0.src: waiting-teaser.jpg
+Illus.1.par: last
+Illus.1.src: waiting.jpg
+Illus.1.align: center
+Illus.1.title: Na de eerste honderd jaar wordt je een stuk beter in geduldig wachten.
+
+De monniken van de [[Laughing Monkey Clan|Lachende Aap Klan]] kwamen bij de Java meester
+met een lijst van klachten. 
+
+"Onze grootste frustratie is het testproces," zei de jongste 
+monnik stellig. "Handmatig testen is slaapverwekkend, en 
+geautomatiseerde tests zijn moeilijk om op te stellen. Beiden
+zijn afleidingen van het schrijven van code."
+
+De meester nam dit in beschouwing en zei: "Het staat vast dat 
+we het testen volledig zouden kunnen overslaan, als we er 
+zeker van waren dat onze code perfect is. Hoe zouden wij dan
+dergelijke perfectie kunnen behalen?"
+
+"Door oefening," zei ŽŽn monnik.
+
+"Door toegewijde studie," zei een ander.
+
+"Door het aanbidden van de juiste goden," zei een derde.
+
+Een oude, wit-bebaarde monnik, die stil in de hoek had gezeten,
+hief zijn hoofd:
+
+"Ik weet hoe perfectie behaald kan worden," zei hij. "Maar ik 
+vrees dat allen die mijn antwoord horen voor immer onovertuigd
+zullen zijn van deze waarheid, tenzij ik exact de juiste 
+woorden spreek, met de prettigste intonaties en op het meest
+fortuinlijke moment van de dag. Ik moet nu bedenken hoe ik dit
+het beste kan doen."
+
+De oude monnik herviel in stilte, voor een zeer lange tijd. 
+Na verloop van tijd klonk de bel voor het avondmaal.
+
+"Hoe lang zal dit duren?" vroeg een van de novicen.
+
+"Niet meer dan honderd jaar," klonk het antwoord van de oude
+monnik.

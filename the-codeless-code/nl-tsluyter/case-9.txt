@@ -1,0 +1,47 @@
+Date: 2010-11-10
+Title: Oneindigheden
+Number: 9
+Geekiness: 1
+Lang: nl
+Translator: tsluyter
+Topics: philosophy, infinity, loops
+Names: Spider Clan
+Illus.0.src: Lotus-050.jpg
+Illus.0.par: 0
+Illus.0.title: Je denkt dat JIJ arm bent omdat je KLEDING moest delen? Wij moesten onze BENEN delen.
+
+
+Twee monniken van de [[Spider Clan|Spinnen Klan]] maakten ruzie, of de
+nieuwe input validatie routine vast was geraakt in een 
+oneindige lus. 
+
+"Hoe lang loopt ze al?" vroeg de abt.
+
+"Niet langer dan dertig minuten," zei de bleke, dunne monnik.
+
+"Maar ook niet minder dan dat," zei de donkere, dikke monnik. 
+
+"En hebben jullie die hele tijd niets anders gedaan dan wachten
+tot zij klaar is?" vroeg de abt.
+
+De monniken bogen het hoofd in schaamte. 
+
+De abt vervoegde zich bij de Java mister, die knikte. "Wie
+van hen gelooft dat de lus /niet/ oneindig is?"
+
+"De bleke, magere," zei de abt. 
+
+"Geef hem een wijnzak, want hij is wijs. Geen enkele lus is
+werkelijk oneindig. Op een dag zal de stroom uitvallen, de 
+server zal verroesten, de tempel zal in stukken liggen en de
+zon zal de aarde verzwelgen." 
+
+Waarop de abt vroeg: "Wat met de donkere, dikke, die gelooft
+dat de lub oneindig is?"
+
+"Geef hem twee wijnzakken, want hij is wijzer. Voor de gebruiker
+die wacht op zijn browser, zijn tien seconde een kwelling, is
+een minuut een eeuw en alles dat langer is, is effectief een
+eeuwigheid. Wanneer de tijger de antilope verscheurt, zal de 
+antilope zich ook niet afvragen of er acht of een miljoen 
+klauwen zijn gebruikt."

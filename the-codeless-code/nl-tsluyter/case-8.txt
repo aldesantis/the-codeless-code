@@ -1,0 +1,23 @@
+Date: 2010-11-10
+Title: Verminder, herbruik, recycle
+Number: 8
+Lang: nl
+Translator: tsluyter
+Topics: philosophy
+Geekiness: 0
+
+Een novice vroeg de grootmeester: "Wat is de Weg?"
+
+De meester antwoordde: "Code schrijven is de Weg."
+
+De novice vroeg daarop, "Wat is niet de Weg?"
+
+De meester antwoordde: "Code schrijven is niet de Weg."
+
+De novice zei, "Dan is het schrijven van code alle dingen."
+
+De meester antwoordde, "En het niet-schrijven van code ook."
+
+De novice vroeg, "Op dit moment, schrijven wij nu code, of schrijven wij niet?"
+
+De meester antwoordde, "Wij zijn de code."

@@ -2,6 +2,7 @@ Date: 2010-11-03
 Title: De kleine dingen
 Number: 1
 Geekiness: 0
+Lang: nl
 Translator: tsluyter
 Topics: perfection (perfectie)
 Illus.0.src: foot.jpg

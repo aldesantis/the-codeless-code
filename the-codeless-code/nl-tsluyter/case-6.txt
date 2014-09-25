@@ -1,0 +1,59 @@
+Date: 2010-11-09
+Title: Leeg
+Alt-Title: Leeghandig
+Number: 6
+Geekiness: 3
+Lang: nl
+Translator: tsluyter
+Names: Laughing Monkey Clan (Lachende Aap Klan)
+Topics: error handling, null, exceptions
+Illus.0.src: Urn.jpg
+
+Terugkerend van zijn vakantie, trof de hoofdabt van de
+[[Laughing Monkey Clan|Lachende Aap Klan]] zijn tempel in een staat van paniek
+en onthutsing. Het financi‘le systeem dat zij zojuist 
+hadden aangepast wierp NullPointerExceptions voor alle 
+nieuwe klanten. Deze gebruikers, tot het uiterste getergd,
+sloten na nauwelijks een dag hun accounts. 
+
+Met enige moeilijkheid traceerde de abt het probleem naar
+een /method/ wiens gestelde doel het ophalen van een lijst 
+van de gebruiker zijn transacties was. Waren er geen 
+transacties, dan gaf zij /null/ als antwoord, in plaats
+van een lege lijst. 
+
+"Breng mij de monnik die deze /method/ schreef," zei hij
+de tempelwachters. "En ook de monnik wiens code ter 
+grondslag ligt."
+
+De eerste monnik, de oudere van de twee, stelde dat alle
+blaam duidelijk de tweede monnik trof. "Mijn Javadoc was
+uitermate duidelijk. Het is niet mijn fout dat hij /nulls/
+niet afvangt." De tweede monnik boog zijn hoofd in schaamte
+en zei niets. 
+
+De abt klapte in zijn handen en twee hoge, jade urnen werden
+op de vloer geplaatst, ŽŽn voor elke monnik. "Jullie straffen
+staan geschreven op de papieren strookjes daar in. Elke dag
+dienen jullie de eerste strook te pakken die je hand raakt
+en diens opdracht tot op de letter te vervullen, totdat de 
+urn leeg is."
+
+De jonge monnik werd gezegd als eerste te gaan. Zijn hand 
+was nog niet tot de helft van de urn gekomen voordat het
+geritsel van papier werd gehoord. De strook lezende, boog
+hij en verliet de kamer. 
+
+De oudere monnik reikte diep in zijn eigen urn tot zijn
+vingers de koude bodem raakten. "Er zitten geen stroken
+papier in deze urn," zei de monnik, met een lichte glimlach
+op zijn gezicht. 
+
+"Noch zitten er vissen in, noch tien bergen," zei de abt.
+
+De oudere monnik riep het uit van de pijn. De urn viel 
+omver en viel in stukken. Een schorpioen schoot weg over
+de tegelvloer.
+
+De abt aanschouwde de stervende monnik. "Alle leegtes 
+zijn niet gelijk."

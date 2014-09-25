@@ -1,0 +1,32 @@
+Date: 2010-11-08
+Title: Wilgen
+Number: 4
+Geekiness: 0
+Lang: nl
+Translator: tsluyter
+Topics: potential (potentieel)
+Names: Spider Clan (Spinnen Klan)
+
+Een nieuwe priester van de [[Spider Clan|Spinnen Klan]] betreurde de lage
+kwaliteit van de Javascript code die door zijn novicen werd
+geproduceerd. 
+
+"Ik zal het onderzoeken," zei de Java meester.
+
+Na een bezoek aan de novicen deed de meester een decreet 
+uitgaan dat de eerste vier elke ochtend, nog voor hun vingers
+het toetsenbord zouden raken, scherp op de knokkels zouden 
+worden geslagen. Voor de vijfde novice schreef hij echter geen
+acties voor. De priester vroeg de meester waarom dit zo was.
+
+"De loot zal, indien goed verzorgd, mogelijk een wilg worden;
+dit geldt niet voor de halm gras," sprak de meester.
+
+Dit gehoord hebbende beval de priester het ontslag van de
+vijfde novice. 
+
+Tot zijn verbazing ontlokte dit de toorn van de Java meester
+en de priester werd zelf uitgestoten. Op zijn laatste loonstrook
+schreef de meester het volgende:
+
+/Men kan niet op duizend wilgen liggen om de zonsopkomst te overpeinzen./
