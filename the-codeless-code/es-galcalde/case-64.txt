@@ -1,0 +1,41 @@
+Number: 64
+Title: Tres Mendigos
+Lang: es
+Translator: galcalde
+Illus.2.title: Estuve *así* de cerca de dibujarlos como Los Tres Chiflados.
+
+El maestro Java [[Kaimu]] llevó a tres monjes superiores al Salón de los Cubículos Infinitos. Allí juntó a tres aprendices a su cargo.
+
+"Se necesita un método de utilidad que toma el ID de un empleado y a partir de él construye una URL particular," dijo Kaimu. "La lógica no es trivial, pero básicamente se reduce a sustitución de texto."
+
+Kaimu hizo un gesto al primer monje viejo. "Este trabaja en la capa de persistencia, donde todas las claves de la base de datos son enteros grandes. Entendiblemente, desea que el método tome un Long."
+
+Kaimu hizo un gesto al segundo monje viejo. "Este trabaja en la capa de negocio, la cual emplea tipado fuerte. Él desea que el método tome un objeto EmployeeID."
+
+Kaimu hizo un gesto al tercer monje viejo. "Este trabaja en la capa de presentación, donde todos los datos son manipulados como texto. Él desea que el método tome un String."
+
+El maestro luego se inclinó ante los tres monjes, y oferó a los aprendices que ofrecieran sus soluciones.
+
+- - -
+
+El primer aprendiz se paró. "El método debería tomar un String, porque esa representación será la más util dentro del método en sí. En cuanto a los monjes que prefieren Long o EmployeeID, pueden fácilmente invocar <em>toString</em> en esos objetos y alimentar el resultado en el método."
+
+Kaimu dijo: "Cuando el mendigo sentado en cuclillas en la tierra pide monedas, puedes pedirle que levante su bowl para cumplir contigo. ¿Pero que hay del hombre sin codos?"
+
+Antes que el primer aprendiz pudiera responder, El segundo se paró. "La simplicidad aparente de invocar <em>toString</em> es dificultada por la necesidad del usuario de chequear primero si es null. Así que el método debería tomar un Object, el cual puede contener a cualquiera de los tres tipos. El método en sí puede chequear si es null, e invocar <em>toString</em> sólo si es seguro hacerlo. De este modo, del usuario no se requiere nada."
+
+Kaimu dijo: "Sabiendo que el mendigo sin brazos sólo puede aceptar lo que se le coloque en su lengua, tu caritatividad va a cualquier lado con arroz en los bolsillos. Sin embargo tiras tus granos hacia la boca de <em>cualquiera</em>. ¡Qué feliz haces a las ratas y las urracas!"
+
+El tercer aprendiz se paró.  "Tres monjes, tres aprendices. ¿Por qué no tres métodos, cada uno tomando un tipo diferente? EmployeeID, Long, y String. El primero y el segundo pueden delegar al tercero, y cada uno puede chequear por null."
+
+Kaimu dijo: "Nada de sobras para las ratas de tu villa, pero que gordos deben ser los mendigos! Sin embargo si un método recibe cuatro parámetros, ¿lo escribirías de ochenta y un maneras diferentes? Podrías desperdiciar tanto tiempo complaciendo a todos que no complacerías a nadie."
+
+Kaimu luego oferto a los monjes superiores que se marcharan, para dejar que los aprendices determinen por sí solos la mejor manera de satisfacer todas las preocupaciones.
+
+- - -
+
+El primer monje viejo susurró mientras marchaban: "¿Cual creen que será el enfoque decidido?"
+
+El segundo monje viejo respondió: "Si son como nosotros aunque sea un poco, será el enfoque favorecido por el aprendiz que grite más fuerte."
+
+El tercer monje viejo asintió. "Sin dudas, algunos de nosotros hallaremos fallas con la solución, sin embargo envidiosamente la toleraremos, y el mundo seguirá girando. Pero es así: todos somos mendigos ante los pies de los demás."
