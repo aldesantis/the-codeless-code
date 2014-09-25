@@ -1,0 +1,46 @@
+Date: 2014-09-23
+Number: 163
+Title: Vacation
+Names: Qi
+Topics: vacation, joy-hacking
+Geekiness: 0
+Illus.0.src: fishing.jpg
+Illus.0.title: I really hope that's a typo.
+
+On first cool day of autumn, a messenger had come to the
+Temple bearing urgent news.  To her puzzlement she found
+every courtyard vacant, every hallway and
+common-room empty.  Not a soul was to be found.
+
+Passing an open doorway, she heard the clattering of keys
+from within.  Inside she found an old scribe staring
+hard at a monitor.
+
+"Where--" began the messenger.
+
+"Vacation," said the scribe without turning around,
+waving absently in the direction of the rest of the temple.
+
+"Not you?" asked the messenger.
+
+"I, too," said the scribe.
+
+"But on your screen--" said the messenger.
+
+"Yes," said the scribe.  "The ugliest, buggiest, most
+obstreperous PHP code you will find in the Seventeen
+Provinces."
+
+"Then why do you labor on it?" asked the messenger.
+
+"Because," smiled the scribe.  "It is not the Temple's code.
+It is /mine/."
+
+
+== Editor's note
+
+<i>"The Codeless Code" will be taking a brief hiatus for
+the next couple of weeks.  I hope to see some of you at
+<a href="http://devday.pl">Dev&nbsp;Day&nbsp;2014</a>
+in Krakow!
+</i>

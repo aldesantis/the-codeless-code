@@ -1,0 +1,59 @@
+Title: Tourner en rond
+Number: 45
+Lang: fr
+Translator: cdlm
+Illus.0.alt: Deux nonnes observant la bagarre
+Illus.0.title: Ça doit faire mal.
+Illus.0.caption: Ouille... un coup de pied circulaire en plein dans le constructeur par recopie.
+
+Il advint que deux moines du [[Laughing Monkey Clan|Clan du Singe Rieur]] se querellèrent si fort qu'ils attirèrent tout un public dans le Grand Hall.
+
+« Si j'ai besoin de connaître l'adresse de facturation d'un client, »
+dit le premier moine,
+« alors /Customer/ devrait avoir une méthode /getBillingAddress/, de la même manière qu'elle a /getName/ !
+Comment peux-tu nier l'élégance de ma conception ? »
+
+« Parce que ta méthode charge directement l'adresse depuis la base de données ! » objecta le second.
+« Ça ne correspond pas au Patron des Objets-Valeurs !
+Ils n'existent que pour contenir les données obtenues via un Objet d'Accès aux Données.
+Tu devrais avoir un /AddressDAO/ pour interroger la table Address, flanquée d'une méthode Service.
+L'adresse de facturation ne devrait être obtenue directement que par là. »
+
+« Mais on a perdu la Voie de l'Orienté-Objet ! » cria le premier.
+« A-t-on tellement tourné en rond que nous sommes revenus aux beaux jours de C ?
+Nos Objets-Valeurs sont à peine plus que des /structs/, nos DAOs et Services sans état sont juste des collections de fonctions apparentées, et nous transmettons des IDs entiers au lieu des objets qu'ils représentent !
+Faut-il qu'ensuite nous courions à quatre pattes et hurlions à la lune ? »
+
+« La Voie des Patrons de Conception d'Entreprise est un progrès vers l'idéal de simplicité, pas une régression vers le primitif ! » dit le second.
+« Un objet métier n'est pas plus destiné à fonctionner comme son homonyme que l'image d'une pelle est censée creuser un fossé !
+Tu dois mettre de côté les apparences et te concentrer sur la /finalité/ ! »
+
+« La finalité est /inhérente/ au nom choisi ! » dit le premier.
+« Les objets métiers doivent modéliser le monde réel ! »
+
+Le second moine répondit d'un poing dans l'estomac du premier, le pliant en deux.
+« Dis-moi, » dit le second moine,
+« dans quelle variable d'instance t'ai-je frappé ? »
+
+Le premier moine bondit en avant et lui rebattit les oreilles.
+« Et dire que je pensais que ces appendices servaient à écouter ! »
+dit le premier, alors que le second chancelait de douleur.
+« Heureusement que j'ai mis de côté les apparences et découvert leur vraie finalité ! »
+Un coup de poing au menton coupa court à son sarcasme.
+
+Une jeune nonne -- novice -- remarqua que plusieurs des maîtres Java étaient au bord de l'assemblée, observant silencieusement l'événement.
+Elle courut vers eux.
+
+« Les deux moines vont bientôt s'entretuer ! » dit la novice.
+« Pourquoi ne mettez-vous pas fin à leur dispute pour nous dire quelle philosophie est meilleure ? »
+
+Les maîtres l'ignorèrent.
+Mais la nonne [[Zjing]] avait entendu, et chuchota à la novice :
+
+« Si j'étais le moine qui préfère la Voie des Patrons de Conception d'Entreprise, je dirais que tu as commis la même erreur que le creuseur de fossés.
+Il y a une question à régler, mais tu confonds les intentions de ceux ici-présents. »
+
+« Êtes-vous en train de dire que les maîtres veulent nous cacher la réponse ? » demanda la novice.
+
+/"Wu,"/ dit Zjing.
+« Si j'étais le moine qui préfère la Voie de l'Orienté-Objet, j'attirerais ton attention sur la Hiérarchie Non Écrite, selon laquelle /Maître/ n'est qu'une sous-classe de /Étudiant/. »
