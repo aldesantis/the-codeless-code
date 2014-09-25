@@ -5,7 +5,7 @@ Version: $Revision: 1.22 $
 Lang: nl
 Translator: tsluyter
 Geekiness: 2
-Topics: encapsulation (encapsulatie)
+Topics: encapsulation
 Illus.0.src: encapsulation.jpg
 Illus.0.title: Wat je ook doet, zeg hem niet dat je naar de wc moet.
 

@@ -4,8 +4,8 @@ Number: 4
 Geekiness: 0
 Lang: nl
 Translator: tsluyter
-Topics: potential (potentieel)
-Names: Spider Clan (Spinnen Klan)
+Topics: potential
+Names: Spider Clan
 
 Een nieuwe priester van de [[Spider Clan|Spinnen Klan]] betreurde de lage
 kwaliteit van de Javascript code die door zijn novicen werd

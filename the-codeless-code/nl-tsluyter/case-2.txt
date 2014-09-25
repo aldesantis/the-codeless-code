@@ -2,7 +2,7 @@ Date: 2010-11-04
 Title: Onbekende onbekendheden
 Number: 2
 Geekiness: 0
-Topics: requirements (vereisten)
+Topics: requirements
 Lang: nl
 Translator: tsluyter
 Illus.0.par: 2

@@ -4,7 +4,7 @@ Number: 1
 Geekiness: 0
 Lang: nl
 Translator: tsluyter
-Topics: perfection (perfectie)
+Topics: perfection
 Illus.0.src: foot.jpg
 Illus.0.title: Vraag de Java meester waarom blote voeten niet zijn toegestaan in de tempel en je krijgt het zelfde antwoord.
 
