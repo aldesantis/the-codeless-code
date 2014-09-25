@@ -1,0 +1,44 @@
+Title: Kooien
+Number: 11
+Date: 2010-11-11
+Geekiness: 2
+Lang: nl
+Translator: tsluyter
+Topics: reuse, process
+Names: Elephant's Footprint Clan
+
+Om verdere verspreiding van onnodige code te voorkomen, besloot
+de abt van de [[Elephant's Footprint Clan|Olifanten Voetafdruk Klan]] dat zijn monniken
+voortaan alleen code zouden schrijven die applicatie-specifiek
+was. Alles van een meer algemene aard zou moest worden voorgesteld 
+aan een Software Hergebruik Subcommittee, die onderzoek zou
+doen naar /open source/ oplossingen, die de voordelen van 
+het voorstel zou wegen tegen de behoeften van de verschillende
+applicaties, die de ontwerpen zou aanpassen naar eigen inzicht, 
+en (als alle tekenen gunstig waren) die het project op het 
+de uiteindelijke planning zou plaatsen. Het hele proces, van
+idee tot uitvoer, duurde vele weken. 
+
+Toen het nieuws van dit nieuwe beleid de Java meester bereikte,
+ontbood hij de abt's twee meest geliefde zangvogels. Zijn 
+brief beloofde dat de vogels de volgende week zouden terugkeren.
+En dat deden zij, in twee afzonderlijke bamboe kooien naar
+ontwerp van de Java meester.
+
+De tralies van de eerste kooi waren een handbreedte van elkaar
+verwijderd; de vogel was met gemak ontsnapt tijdens de reis.
+
+De tralies van de tweede kooi waren zo dicht opeen geplaatst,
+dat noch licht noch lucht de kooi doordrongen. De vogel was
+dood bij aankomst.
+
+Aan elke kooi was een gedicht in het handschrift van de
+meester gebonden:
+
+   Langs de weg //
+   van /lucht/ naar /doodskist/ //
+   liggen de vele huizen van /kooi/. //
+
+   Het huis van de lijster //
+   wordt niet gedeeld //
+   met de worm en de stier.
