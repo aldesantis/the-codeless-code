@@ -1,0 +1,26 @@
+Number: 65
+Title: Dos Opciones
+Lang: es
+Translator: galcalde
+Illus.0.title: HOLA MUÑECA, HOLA MI CIELO, HOLA MI GRAN AMOOOOOR.....
+
+El maestro Java [[Kaimu]] dejó a [[#64|tres aprendices]] debatir la firma de un método de utilidad que era necesitado. Una hora después halló a los tres en su oficina, magullados y muy desarreglados.
+
+"¿Han llegado a un acuerdo?" preguntó Kaimu.
+
+El primer aprendiz, llevando una bata rota y un labio cortado, dijo: "Estamos aún más lejos de una conclusión pacífica que antes. Cada uno de nosotros sigue prefiriendo su propia solución antes que las otras dos. Te pedimos que hagas la mejor elección en nuestro nombre."
+
+"Muy bien," suspiró Kaimu. "Entre las tres opciones ofrecidas, uno fue lo suficientemente audaz para rechazar nuestra tradición de tipado fuerte y declarar que el metodo tome un Object, para así satisfacer a todos los usuarios potenciales. ¿Quién de ustedes lo propuso?"
+
+El segundo aprendiz dio orgullosamente un paso adelante. Con una ligera patada en el estómago, el maestro lo sacó disparado por la puerta.
+
+== Comentario de Qi
+
+El método que toma Object felizmente aceptará PieIzquierdo.
+
+== Poema de Qi
+
+Una rana perfecta se agacha en la mesa, //
+rodeada de esquirlas de jade. //
+Con cada soplo, el escultor tiene dos opciones: //
+a favor, en contra. //
