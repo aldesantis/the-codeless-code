@@ -1,13 +1,8 @@
-Date: 2010-11-09
 Title: Leeg
 Alt-Title: Leeghandig
 Number: 6
-Geekiness: 3
 Lang: nl
 Translator: tsluyter
-Names: Laughing Monkey Clan
-Topics: error handling, null, exceptions
-Illus.0.src: Urn.jpg
 
 Terugkerend van zijn vakantie, trof de hoofdabt van de
 [[Laughing Monkey Clan|Lachende Aap Klan]] zijn tempel in een staat van paniek

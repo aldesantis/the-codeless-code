@@ -1,10 +1,7 @@
-Date: 2010-11-10
 Title: Verminder, herbruik, recycle
 Number: 8
 Lang: nl
 Translator: tsluyter
-Topics: philosophy
-Geekiness: 0
 
 Een novice vroeg de grootmeester: "Wat is de Weg?"
 

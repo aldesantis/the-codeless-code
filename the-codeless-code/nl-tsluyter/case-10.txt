@@ -1,11 +1,7 @@
 Title: Trots
-Date: 2010-11-11
 Number: 10
-Geekiness: 1
 Lang: nl
 Translator: tsluyter
-Topics: reuse, pride
-Names: Elephant's Footprint Clan
 
 Na een vluchtige inspectie besloot de Java meester dat elke
 monnik uit de [[Elephant's Footprint Clan|Olifanten Voetafdruk Klan]] vanaf heden zijn eigen

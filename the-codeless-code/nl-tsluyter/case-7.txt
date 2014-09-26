@@ -1,17 +1,7 @@
-Date: 2010-11-09
 Title: De vijand van het goede
 Number: 7
-Geekiness: 1
 Lang: nl
 Translator: tsluyter
-Topics: testing, automated testing, perfection
-Names: Laughing Monkey Clan
-Credits: Some textures in illustrations courtesy of <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
-Illus.0.par: 0
-Illus.0.src: waiting-teaser.jpg
-Illus.1.par: last
-Illus.1.src: waiting.jpg
-Illus.1.align: center
 Illus.1.title: Na de eerste honderd jaar wordt je een stuk beter in geduldig wachten.
 
 De monniken van de [[Laughing Monkey Clan|Lachende Aap Klan]] kwamen bij de Java meester

@@ -1,13 +1,7 @@
-Date: 2010-11-09
 Title: Void (Leegte)
 Number: 5
-Geekiness: 2
 Lang: nl
 Translator: tsluyter
-Names: Temple of Three Stones, Temple of the White Iron Sky
-Topics: void, philosophy
-Illus.0.src: master.jpg
-Illus.0.par: 2
 
 Op een koude herfstdag ontwaakte de Java meester in een ontstelde
 stemming. Hij trok er op uit om zijn geest te legen.

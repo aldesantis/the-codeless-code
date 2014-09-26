@@ -1,13 +1,7 @@
-Date: 2010-11-10
 Title: Oneindigheden
 Number: 9
-Geekiness: 1
 Lang: nl
 Translator: tsluyter
-Topics: philosophy, infinity, loops
-Names: Spider Clan
-Illus.0.src: Lotus-050.jpg
-Illus.0.par: 0
 Illus.0.title: Je denkt dat JIJ arm bent omdat je KLEDING moest delen? Wij moesten onze BENEN delen.
 
 

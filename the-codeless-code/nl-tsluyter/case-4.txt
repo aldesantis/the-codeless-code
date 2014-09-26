@@ -1,11 +1,7 @@
-Date: 2010-11-08
 Title: Wilgen
 Number: 4
-Geekiness: 0
 Lang: nl
 Translator: tsluyter
-Topics: potential
-Names: Spider Clan
 
 Een nieuwe priester van de [[Spider Clan|Spinnen Klan]] betreurde de lage
 kwaliteit van de Javascript code die door zijn novicen werd

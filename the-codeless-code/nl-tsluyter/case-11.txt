@@ -1,11 +1,7 @@
 Title: Kooien
 Number: 11
-Date: 2010-11-11
-Geekiness: 2
 Lang: nl
 Translator: tsluyter
-Topics: reuse, process
-Names: Elephant's Footprint Clan
 
 Om verdere verspreiding van onnodige code te voorkomen, besloot
 de abt van de [[Elephant's Footprint Clan|Olifanten Voetafdruk Klan]] dat zijn monniken

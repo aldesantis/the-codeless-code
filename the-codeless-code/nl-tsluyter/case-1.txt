@@ -1,11 +1,7 @@
-Date: 2010-11-03
 Title: De kleine dingen
 Number: 1
-Geekiness: 0
 Lang: nl
 Translator: tsluyter
-Topics: perfection
-Illus.0.src: foot.jpg
 Illus.0.title: Vraag de Java meester waarom blote voeten niet zijn toegestaan in de tempel en je krijgt het zelfde antwoord.
 
 Drie dagen en drie nachten was de Java meester gekluisterd aan 
