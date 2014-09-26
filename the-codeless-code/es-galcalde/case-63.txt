@@ -12,6 +12,6 @@ El monje se sentó, porque Zjing ahora prefería trabajar recostada en el suelo.
 
 "Enntiendo," dijo Zjing, aferrándose al piso mientras se sentaba erguida para examinar el código en la laptop del monje. "Tienes miedo al día inevitable de que tu sucesor haga un cambio descuidado y el sistema se destroce."
 
-"¡Si -- porque yo debo ser culpado, y con razón!" gritó el monje. "¿Como puedo asegurarme mejor de que un desastre así no ocurrirá? ¿Con comentarios excesivos <em>en</em> el código? ¿Con documentación extensiva <em>fuera</em> del código? ¿Proveyendo cien pruebas unitarias que fallarán si se hacen cambios incorrectos? ¿Calándo el código con cien chequeos de consistencia -- y por lo tanto aumentar su complejidad? ¿O quedándome en este proyecto hasta que mi cerebro se vuelvva gelatina?"
+"¡Si -- porque yo debo ser culpado, y con razón!" se lamentó el monje. "¿Como puedo asegurarme mejor de que un desastre así no ocurrirá? ¿Con comentarios excesivos <em>en</em> el código? ¿Con documentación extensiva <em>fuera</em> del código? ¿Proveyendo cien pruebas unitarias que fallarán si se hacen cambios incorrectos? ¿Calándo el código con cien chequeos de consistencia -- y por lo tanto aumentar su complejidad? ¿O quedándome en este proyecto hasta que mi cerebro se vuelvva gelatina?"
 
 <i>"Wú,"</i> dijo la monja. Ella seleccionó el directorio donde estaba el código fuente del subsistema, apretó el botón suprimir, y se escurrió por la puerta.
