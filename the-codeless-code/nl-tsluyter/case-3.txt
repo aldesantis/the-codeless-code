@@ -11,11 +11,11 @@ Illus.0.title: Wat je ook doet, zeg hem niet dat je naar de wc moet.
 
 Een jonge monnik, nog nieuw in de tempel, maakte niet alleen
 al zijn methods als public aan, maar deed het zelfde voor zijn
-geïnstantieerde variabelen. De hoofdabt werd het moe om de 
+ge√Ønstantieerde variabelen. De hoofdabt werd het moe om de 
 monnik terecht te wijzen en vroeg de Java meester om advies.
 
 De volgende dag ontbood de meester de monnik, om samen met hem
-de lunch te gebruiken in zijn privé kantoor.
+de lunch te gebruiken in zijn priv√© kantoor.
 
 De monnik trad binnen en trof een uitgebreide maaltijd op de
 vergadertafel. De meester bad de monnik te gaan liggen op de 
@@ -30,6 +30,6 @@ meester wat zijn bedoeling was.
 "Om je buik open te rijten," legde de meester uit, "zodat ik
 de rijst naar binnen kan lepelen en de thee er bij kan gieten.
 Mijn agenda is zeer druk bezet en ik vind deze methode om 
-gasten te voeden zeer efficiënt."
+gasten te voeden zeer effici√´nt."
 
 Nadien behoefde de monnik geen correcties meer.

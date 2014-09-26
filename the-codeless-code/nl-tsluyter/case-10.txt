@@ -1,0 +1,70 @@
+Title: Trots
+Date: 2010-11-11
+Number: 10
+Geekiness: 1
+Lang: nl
+Translator: tsluyter
+Topics: reuse, pride
+Names: Elephant's Footprint Clan
+
+Na een vluchtige inspectie besloot de Java meester dat elke
+monnik uit de [[Elephant's Footprint Clan|Olifanten Voetafdruk Klan]] vanaf heden zijn eigen
+vis zou vangen, zijn eigen rijst zou oogsten, zijn eigen 
+gewaden zou naaien en zijn eigen schoenen zou lappen.
+
+Binnen een maand waren de monniken half-naakt en ernstig
+ondervoed. Deadlines werden niet gehaald. De abt smeekte de
+Java meester om zijn besluit te heroverwegen. 
+
+"Uitstekend," zei de Java meester. "Elke donderdag zullen
+zij voortaan hun gewaden en schoenen verbranden en gooien
+zij hun rijst en vis in de rivier."
+
+De abt vroeg welke misstap zijn klan had begaan om een 
+dergelijke straf te verdienen.
+
+"Straf?" zei de Java meester. "Het was louter mijn bedoeling
+om jullie te belonen. Zijn de monniken van de Olifanten 
+Voetafdruk niet trots op hun onafhankelijkheid en hun
+zelfvoorziening?  Dat is wat hun code mij vertelt."
+
+"Elke monnik heeft in wezen de zelfde Data Access Objects
+en Value Objects geschreven als zijn buren. Elk heeft zijn
+eigen String gereedschappen en configuratie parsers gebouwd.
+Geen enkele heeft zich kosten noch moeite bespaard om zijn
+eigen werk te ontwerpen, bouwen, integreren, testen, 
+debuggen, repareren en uit te breiden, terwijl hij simpelweg
+het werk van zijn broeders had kunnen benutten."
+
+"Moet ik daaruit incompetentie afleiden? Dan zal de Olifanten
+Voetafdruk tot op de laatste monnik uit het klooster worden
+verbannen."
+
+"Moet ik daar opzettelijke onwetendheid uit afleiden? Dan 
+vereisen de tradities dat zij zichzelf verblinden met netels,
+om /daarna/ verbannen te worden."
+
+"Zal ik een verachting afleiden, voor de waarde van tijd?
+Dan wacht hen de kerkers..."
+
+"Maar nee," zo besloot de Java meester. "In plaats daarvan
+zal ik concluderen dat zij trots zijn -- trots van elke
+monnik, dat zijn code superieur is aan die van zijn broeders.
+Trots is één van de Vier Zaden van Grootsheid en moet worden
+aangemoedigd. Laat de Olifanten Voetafdruk zijn kunde met 
+de schaar en de speer verscherpen, met naald en sikkel, 
+opdat elke monnik net zo trots kan zijn op zijn gewaden
+en op de weldadige maaltijd op zijn bord!"
+
+"Dan blijft er erg weinig tijd over voor het schrijven van
+code," merkte de abt op. "En de Keizer interpreteert het
+woord /deadline/ zeer letterlijk."
+
+De meester knikte. "De koopman die pas net is geruïneerd
+kent alleen de pijn van het verlies. Terwijl de oude kluizenaar
+de deugd van soberheid verheerlijkt en daar niet van af
+wijkt. Maar zijn zij niet de zelfde man, louter gescheiden
+door een zee van jaren?"
+
+Aldus werd de Olifanten Voetafdruk tweemaal gespaard en 
+gecorrigeerd.

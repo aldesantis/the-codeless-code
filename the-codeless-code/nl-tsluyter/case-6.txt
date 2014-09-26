@@ -11,7 +11,7 @@ Illus.0.src: Urn.jpg
 
 Terugkerend van zijn vakantie, trof de hoofdabt van de
 [[Laughing Monkey Clan|Lachende Aap Klan]] zijn tempel in een staat van paniek
-en onthutsing. Het financi‘le systeem dat zij zojuist 
+en onthutsing. Het financiÃ«le systeem dat zij zojuist 
 hadden aangepast wierp NullPointerExceptions voor alle 
 nieuwe klanten. Deze gebruikers, tot het uiterste getergd,
 sloten na nauwelijks een dag hun accounts. 
@@ -33,7 +33,7 @@ niet afvangt." De tweede monnik boog zijn hoofd in schaamte
 en zei niets. 
 
 De abt klapte in zijn handen en twee hoge, jade urnen werden
-op de vloer geplaatst, ŽŽn voor elke monnik. "Jullie straffen
+op de vloer geplaatst, Ã©Ã©n voor elke monnik. "Jullie straffen
 staan geschreven op de papieren strookjes daar in. Elke dag
 dienen jullie de eerste strook te pakken die je hand raakt
 en diens opdracht tot op de letter te vervullen, totdat de 
