@@ -1,0 +1,53 @@
+Title: Void (Leegte)
+Number: 5
+Lang: nl
+Translator: tsluyter
+
+Op een koude herfstdag ontwaakte de Java meester in een ontstelde
+stemming. Hij trok er op uit om zijn geest te legen.
+
+De meester vond zich al gauw aan de poorten van de [[Temple of Three Stones|Tempel van Drie 
+Stenen]], waar de kunst van ANSI C nog steeds werd beoefend. 
+Een geleerde broeder stond op wacht. 
+
+"Wat is de aard van /leegte/?" vroeg de meester.
+
+"Het heeft geen aard," antwoordde de broeder. "Het is de stok 
+gehaald door de hond die niet apporteert. Het is het ding waar de
+hand naar wijst die alles aan kan wijzen. Het is het perfecte gebrek
+aan waarde."
+
+De meester dacht: "De Tempel van Drie Stenen behoeft geen wacht. 
+Zij kan niets van waarde bevatten."
+
+Verderop kwam hij bij de [[Temple of the White Iron Sky|Tempel van de Witte IJzeren Lucht]],
+een plaats van theoretici waar louter ML was toegestaan. In de 
+verwelkte tuin schreef een non lambda expressies in het stof.
+
+"Wat is de aard van /leegte/?" vroeg de meester.
+
+"Het heeft de kleur van lucht, en het gewicht van de rijzende
+mist," antwoordde de zuster. "Indien geslagen maakt zij het 
+geluid van een nieuwe maan die achter een wolk verdwijnt. Elke 
+lege kom bevat zo veel je maar wilt." 
+
+De meester dacht: "De zuster heeft niets gezegd dat niet waar 
+is, maar ook niets dat waar is." 
+
+Verder langs de weg kwam de meester bij een groot landhuis,
+waar een oude vrouw de heggen knipte. 
+
+"Wat is de aard van /leegte/?" vroeg de meester.
+
+De oude vrouw boog en hervatte haar werk.
+
+De meester dacht: "Dit is de puurste wijsheid, tenzij er louter
+een gebrek daaraan is."
+
+Uiteindelijk kwam de meester bij een verlaten begraafplaats.
+
+"Wat is de aard van /leegte/?" vroeg de meester.
+
+Uit de lege hof kwam geen antwoord.
+
+De Java meester was tevreden gesteld.

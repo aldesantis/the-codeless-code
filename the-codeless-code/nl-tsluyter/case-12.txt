@@ -1,0 +1,31 @@
+Title: Effect
+Number: 12
+Lang: nl
+Translator: tsluyter
+
+Drie jonge monniken -- één van de [[Spider Clan|Spinnen Klan]], één van de
+[[Laughing Monkey Clan|Lachende Aap]] en één van de [[Elephant's Footprint Clan|Olifanten Voetafdruk]] -- hadden
+ruzie over wat er belangrijker was: code voor het web, 
+code voor de /business/ of persistentie. Uiteindelijk waren
+zij het eens om de vraag aan de Java meester te stellen. 
+
+De meester riep één van de grofgebouwde tuiniers, die de 
+tempeltuinen onderhielden, bij zich en zei hem aldus:
+"Sla en schop deze drie monniken één minuut lang. Daarna
+mag je naar eigen inzicht en wens doorgaan met slaan en
+schoppen." 
+
+De tuinier ranselde de monniken voor wel zeven minuten,
+boog toen en vertrok.
+
+"Welnu," zei de meester. "Wie treft het meeste blaam voor 
+jullie blauwe plekken? Mijzelf, omdat ik de tuinier ontbood;
+de tuinier, voor de zes minuten die hij zelf toevoegde; of
+de handen en de voeten van de tuinier? Overweeg je antwoord
+goed, anders roep ik hem terug."
+
+Na verloop van tijd sprak de monnik van de Spinnen Klan en
+zei, "De timmerman die de eerste paal van deze tempel sloeg
+draagt nog meer schuld."
+
+De meester was tevreden. 
