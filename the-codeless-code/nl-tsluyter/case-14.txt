@@ -1,0 +1,32 @@
+Title: Hallo, Wereld
+Number: 14
+Lang: nl
+Translator: tsluyter
+
+Op hun eerste dag in de tempel stelde de Java meester een drietal
+vragen aan de novicen:
+
+"Doorgaans, wanneer we een nieuwe taal of library leren, is het 
+eerste programma dat wij schrijven /Hallo, Wereld/. Haar doel is
+om deze woorden te produceren, op een wijze die de verwachte 
+werking van de technologie bevestigt. Wanneer dit is volbracht, 
+wordt het programma nimmermeer gedraaid."
+
+"Nu: waarom zegt het /hallo/, en niet ook /vaarwel/?"
+
+"En: waarom hallo zeggen tegen de /wereld/, wanneer het publiek
+bestaat uit een enkele ziel, die het programma zal wegwerpen
+zodra haar eerste kreet is geuit?"
+
+"En: waarom uit zij een groet, die op generlei wijze zal worden
+beantwoord?"
+
+- - -
+
+//
+Zeg mij een woord dat /hallo/ en /vaarwel/ betekent -- //
+is het niet de eerste kreet van een pasgeboren kind? //
+//
+Vind voor mij de piek vanwaar de hele wereld kan worden overzien -- //
+in wiens oog is dan gereflecteerd, elke tijger //
+en de woestijne van eindeloos zand?

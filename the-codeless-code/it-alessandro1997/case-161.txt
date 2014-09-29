@@ -1,0 +1,92 @@
+Number: 161
+Title: Triangolo
+Lang: it
+Translator: alessandro1997
+Illus.0.title: I linguaggi che ti obbligano a credere a delle assurdità ti spingeranno a implementare delle atrocità.
+
+Un nuovo monaco del [[Spider Clan|Clan del Ragno]] si era perso nel Tempio di
+notte. Dopo molte svolte e dietro-front ebbe la sfortuna di oltrepassare una
+porta pesante che si chiuse dietro di lui con un orrendo /clack/.
+
+Il monaco si trovò nel mezzo di una scala che saliva a spirale su per le mura di
+una torre cava. Timidamente si sporse oltre il corrimano. Molto al di sotto
+stava un cortile avvolto nell'oscurità, mentre al di sopra stava un cielo nero
+identico in tutto al cortile. Il monaco procedette a salire la scala, sperando
+di trovare un'uscita o un punto di osservazione migliore.
+
+Ciascuna porta che superava alla sua destra era chiusa. Il monaco stanco aveva
+quasi deciso di tornare giù quando vide un raggio di luce fuggire dall'apertura
+di una porta davanti a sé.
+
+- - -
+
+Sulla porta c'era scritto "123".
+
+Il monaco esitò, quindi bussò. Ci fu un suono di passi, quindi la porta si aprì,
+rivelando una vecchia donna che teneva alta una lanterna.
+
+"Sì? Sì? Sì?" disse la monaca impazientemente.
+
+"Mi scuso molto per avervi disturbato a quest'ora tarda" disse il monaco,
+sentendo la testa improvvisamente leggera per via della lunga salita. "Ma...
+dove sono?"
+
+"L'[Abbey of Hidden Absurdities|Abbazia delle Assurdità Nascoste]]," disse la
+monaca "nella torre dove si scrive PHP."
+
+"Cosa c'è di così assurdo in PHP?" chiese il monaco.
+
+La vecchia monaca rise. "Mi pare di capire che tu non abbia lavorato molto in
+quel linguaggio. Fai la stessa domanda alla mia sorella più anziana, al piano
+superiore; ti aiuterà senz'altro." La monaca quindi sbatté la porta, chiudendola
+con uno spaventoso /clack/.
+
+Il monaco sospirò e continuò su per le scale, girando e girando, giungendo
+infine a un'altra porta dietro cui stava la luce.
+
+- - -
+
+Sulla porta c'era scritto "456A".
+
+Il monaco bussò e un'altra vecchia donna gli rispose.
+
+"Mi scuso molto per avervi dato noia a quest'ora tarda," disse il monaco, "ma
+cosa c'è di così assurdo in PHP?"
+
+La vecchia monaca ridacchiò. "Mi pare di capire che tu non abbia lavorato molto
+con la gestione delle stringhe in quel linguaggio. Fai la stessa domanda alla
+mia sorella più anziana, al piano superiore; ti aiuterà senz'altro." La monaca
+quindi sbatté la porta, chiudendola con un terribile /clack/.
+
+Il monaco brontolò e continuò su per le scale, girando e girando, giungendo
+infine a un'altra porta dietro cui stava la luce.
+
+- - -
+
+Sulla porta c'era scritto "78".
+
+Il monaco bussò e un'altra vecchia donna gli rispose.
+
+"Mi scuso molto per essermi introdotto a quest'ora tarda," disse il monaco, "ma
+cosa c'è di così assurdo in PHP?"
+
+La vecchia monaca fece una grassa risata. "Mi pare di capire che tu non abbia
+lavorato molto con gli operatori di confronto numerico in quel linguaggio.
+Fai la stessa domanda alla mia sorella più anziana, al piano superiore; ti
+aiuterà senz'altro." La monaca quindi sbatté la porta, chiudendola con un
+orribile /clack/.
+
+Il monaco gemette e continuò su per le scale, girando e girando, giungendo
+infine a un'altra porta dietro cui stava la luce.
+
+- - -
+
+Sulla porta c'era scritto "123".
+
+Il monaco esitò, quindi bussò. Ci fu un sono di passi, quindi la porta si aprì,
+rivelando una vecchia donna che teneva alta una lanterna.
+
+"Sì? Sì? Sì?" disse la monaca impazientemente.
+
+"Mi scuso molto per avervi disturbato a quest'ora tarda" disse il monaca,
+sentendo la testa improvvisamente leggera. "Ma... dove sono?"

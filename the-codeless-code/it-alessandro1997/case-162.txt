@@ -1,0 +1,33 @@
+Number: 162
+Title: Tutto secondo i piani
+Lang: it
+Translator: alessandro1997
+
+Il maestro [[Banzen]] si trovava in una provincia confinante per visitare un
+abate i cui fratelli avevano recentemente vinto un contratto di sviluppo presso
+un uomo politico.
+
+"Si è rivelata essere una vittoria vuota" si lamentava l'abate mentre versava il
+tè. "Il codice che abbiamo ereditato è una torreggiante montagna di letame, dove
+anche il più piccolo tocco ci seppellisce fino agli occhi sotto una valanga di
+sterco pieno di eccezioni riferimento nullo."
+
+"Sto /mangiando/" disse il maestro.
+
+"Non mi sorprende che i nostri predecessori fossero incapaci di fare anche la
+più piccola modifica senza settimane di sforzo!" continuò l'abate. "Non mi
+sorprende che la pazienza del governatore si sia esaurita! Dovremmo
+rifattorizzare, ma non so neanche da dove cominciare, o come verificare che non
+abbiamo rotto nulla nel processo."
+
+"Quali sono i requisiti?" chiese il maestro.
+
+"Non ce ne sono" disse l'abate. "L'abitudine del governatore è dettare ogni
+cambiamento a seconda dell'umore. Dice che, per definizione, qualunque codice
+ci sia attualmente è corretto."
+
+Banzen sorseggiò il suo tè. "Davvero? Allora tutte le mie simpatie vanno al
+governatore, e nessuna a voi! Il pover'uomo! Due volte ormai -- e a grande costo
+-- ha ingaggiato un'intera abbazia perché costruisse software con l'esplicito
+obiettivo di renderlo miserabile. Dovresti /ringraziare/ i tuoi predecessori per
+l'ammirabile lavoro."
