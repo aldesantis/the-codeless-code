@@ -1,0 +1,23 @@
+Number: 69
+Title: Actualizado
+Lang: es
+Translator: galcalde
+Illus.0.title: 'Camina hacia el norte hasta que la triste canción de un gorrión moribundo te recuerde la futilidad de tu propia existencia. Luego a la izquierda en el Texaco.'
+
+Al viejo escriba [[Qi]] se le asignó ensamblar y mantener el documento de diseño de alto nivel para un nuevo sistema. Cada desarrollador proveía al escriba con sus contribuciones, pero las contribuciones del monje principal eran devueltas con el asunto <em>Insatisfactorio.</em>
+
+"¿Cual es su objeción?" demandó el monje principal, quien era conocido por su impaciencia.
+
+"Mucho de lo que me has dado era código fuente," dijo el escriba. "Declaraciones de clase, cuerpos de métodos, largas consultas SQL.  Esa no es nuestra manera."
+
+"¿Que tal documentar los algoritmos?" preguntó el monje enfáticamente. "Mi manera no tergiversa nada."
+
+El escriba lo consideró.
+
+"Muy bien," dijo finalmente. "Si puede convencer al sacerdote principal de mi orden, lo permitiré."
+
+"Dígame donde se puede encontrar al sacerdote," dijo el monje principal, hurgando entre su bata buscando tinta y papel.
+
+"Sólo puedo decirle donde lo encontré por última vez, hace tres años," dijo el escriba, hojeando en su diario. "¡Ah! Aquí está: He seguido el Camino de Ortigas Blancas hacia el Este por dos días, hasta que llegué a una corriente cuyas orillas fueron hinchadas por una lluvia reciente. Allí giré hasta que el viento soplara detrás mío, caminé hasta que dos salmones saltaron del agua. Cruzando el siguiente puente tomé la bifurcación que señalaba diréctamente a la luna, giré a la derecha cuando encontré a un niño descalzo juntando palos y luego a la izquierda cuando las nubes bloquearon la estrella polar. Era la cabaña con la puerta medio abierta; no la puedes perder."
+
+El monje principal no necesitó mayor corrección.
