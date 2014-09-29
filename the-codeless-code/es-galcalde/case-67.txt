@@ -1,0 +1,53 @@
+Number: 67
+Title: Grasa
+Lang: es
+Translator: galcalde
+Illus.0.title: Al menos no morirá de sed.
+
+El lunes, el [[#62|último abad que quedaba]] del [[Spider Clan|Clan de la Araña]] llamó a la maestra Java [[Suku]] a su oficina.
+
+"Estás muy por detrás del programa," dijo el abad, abriendo un abanico colorido. "Debo ayudarte a priorizar. El analista me dice que el propósito primario de tu aplicación es graficar datos históricos. Por lo tanto, dirige a todos los desarrolladores a cesar sus actividades actuales y completar el módulo de generación de gráficos."
+
+"Como ordene el abad," dijo Suku. Se inclinó y se fue.
+
+- - -
+
+El martes, el abad llamó a Suku a su oficina.
+
+"He hablado con el cliente," dijo el abad, limando sus largas uñas. "Ellos pueden prescindir de los gráficos en el primer lanzamiento, siempre y cuando podamos exportar los datos en formato tabular. Dirige a todos los desarrolladores a cesar sus actividades actuales y completar el módulo de exportación de datos."
+
+"Como ordene el abad," dijo Suku. Se inclinó y se fue.
+
+- - -
+
+El miércoles, el abad llamó a Suku a su oficina.
+
+"He hablado con el departamento de ventas," dijo el abad, halando una aguja cuidadosamente a través de un bastidor de bordado. "Ellos tienen varios posibles clientes que serían persuadidos si ofreciéramos visualización geográfica en el primer lanzamiento. Dirige a todos los desarrolladores a cesar sus actividades actuales y completar el módulo de generación de mapas."
+
+"Como ordene el abad," dijo Suku. Se inclinó y se fue.
+
+- - -
+
+El jueves y el viernes, el abad llamó a Suku a su oficina.
+
+Todo anduvo tal como anduvieron los días anteriores.
+
+- - -
+
+El sábado, el abad llamó a Suku a su oficina.
+
+"Has hecho muy poco progreso esta semana," dijo el abad, arrastrando un pequeño rastrillo por un jardin de arena miniatura en su escritorio. "Explicate."
+
+"Como ordene el abad," dijo Suku. Con una vuelta de su bastón golpeó al abad detrás de su cabeza, tumbándolo inconsciente en su escritorio en la arena blanca.
+
+- - -
+
+El domingo, la Abadesa de Todos los Clanes y asuntos de Interés llamó a Suku a su oficina.
+
+"El abad de su clan me deseo cancelar vuestra reunión matutina en su nombre," dijo the Abbess, "ya que parece que ha caído en nuestro pozo más profundo y no puede salir."
+
+"¿No hay escalones de hierro robustos en las paredes?" preguntó Suku.
+
+"Parece que hann sido engrasados," frunció la abadesa.  "como también la cuerda del balde. Y las propias paredes de piedra. El abad ha trepado varios kilómetros esta mañana, sin embargo tristemente está en los mismos tres metros una y otra vez. Dirige a todos los desarrolladores a cesar sus actividades actuales y observar su progreso. Creo que lo encontrarán muy edificante."
+
+"Como ordene la abadesa," dijo Suku. Se inclinó y se fue.
