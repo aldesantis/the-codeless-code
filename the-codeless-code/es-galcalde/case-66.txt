@@ -1,0 +1,16 @@
+Number: 66
+Title: Marsopa
+Lang: es
+Translator: galcalde
+
+Al escriba [[Qi]] se le pidió proveer los diagramas para un documento de diseño de un sistema grande, con el propósito de aumentar su legibilidad. El trabajo terminado fue entregado al maestro Java [[Banzen]] para revisión.
+
+Banzen halló algunos de los diagramas directos, pero muchos eran extremandamente confusos.  La sección <em>Flujo de Datos</em> fue ilustrada con el tramo digeestivo de un pez, representado en intricado detalle con todos los órganos mayores etiquetados. <em>Tareas Programadas</em> mostraba las fases de la luna juxtapuestas con varias hierbas. El <em>Resumen Funcional</em> concluía con una gloriosa representación del ciclo reproductivo del delfín blanco.
+
+Al principio Banzen asumió un error, sin embargo una inspección más cercana revelaba notas de pie en las figuras que hacían referencias a secciones pariculares del documento de diseño. En todos los casos la conexión entre figura y texto era bastante difícil de explicar.
+
+"He leído el documento entero dos veces, muy cuidadosamente," dijo el maestro al escriba. "Y en ningún lugar pude hallar la significancia del pez bisecado, el calendario lunar de cosecha, o la mayoría de sus otras contribuciones."
+
+"Dos veces," repitió Qi con satisfacción, y abandonó el cuarto.
+
+El maestro fue iluminado.
