@@ -1,0 +1,20 @@
+Title: L'origine du monde
+Number: 47
+Lang: fr
+Translator: cdlm
+Illus.0.alt: Le texte "D'où proviennent réellement les nombres", au dessus du dessin pixellisé de plein de petits 1 frétillant vers un gros 0 pour le fertiliser.
+Illus.0.title: "Un" est vraiment le nombre le plus seul au monde.
+
+
+Peint sur les carreaux des toilettes,<sup>*</sup> pas loin du bureau du maître Java [[Bawan]] :
+
+<div class="footnotes" style="margin-top:8ex">
+<div class="footnote"><sup>*</sup> Quelques observations de l'Éditeur&nbsp;:</div>
+<ul>
+<li>Cela signifie que chaque nombre binaire a les deux chromosomes sexuels, sauf les nombres de la forme (2^n)-1 où n&nbsp;&gt;=&nbsp;0.</li>
+<li>Cela signifie également que le complément bit-à-bit (~) est l'Opération de Changement de Sexe.</li>
+<li>Il semble naturel de définir comme suit le sexe des entiers binaires&nbsp;:
+  les nombres pairs (terminant en 0) sont femelles, et les nombres impairs (terminant en 1) sont mâles.
+  Cela dit, personnellement, je trouverais déconcertant que quelqu'un se réfère à la partie de mon anatomie qui définit ma sexualité comme étant mon <em>bit de plus petite signification</em>.</li>
+</ul>
+</div>
