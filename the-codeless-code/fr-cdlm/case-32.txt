@@ -4,12 +4,12 @@ Lang: fr
 Translator: cdlm
 
 Le temple avait besoin d'un développeur de plus, et deux candidats à l'initiation avaient postulé pour le poste.
-Le maître Java [[Banzen]] dépécha un moine pour les recevoir en entretien.
+Le maître Java [[Banzen]] dépêcha un moine pour les recevoir en entretien.
 
 « Ils étaient identiquement capables en tous points, » rapporta le moine le soir.
 « De même âge, poids, taille, présentation, compétence à l'épée, et préférence en termes de breuvages cafféinés.
 J'ai donc posé le même problème de logique aux deux candidats.
-L'un échoua à le résoudre, l'autre réusit. »
+L'un échoua à le résoudre, l'autre réussit. »
 
 Le maître Java Banzen dit :
 « Montrez-moi les salles où les entretiens ont eu lieu. »
