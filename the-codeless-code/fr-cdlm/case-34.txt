@@ -12,7 +12,7 @@ Les Itérateurs correspondants étaient /i/, /j/, et (sans aucune compréhensibl
 La prêtresse débarqua aux cuisines du temple où les novices préparaient le repas du soir.
 Elle décrocha une immense spatule à riz de sa patère, trouva le développeur contrevenant, et exprima son mécontentement sur le dos du garçon.
 
-/« Qu'ai-je fait ?! » glapit le novice alors que la spatule claquait d'un son charnu une dixième fois.
+« Qu'ai-je fait ?! » glapit le novice alors que la spatule claquait d'un son charnu une dixième fois.
 
 « Invective ! » répondit la prêtresse.
 « Verbe tes explétifs de noms ! »
