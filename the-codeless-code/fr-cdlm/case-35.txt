@@ -5,7 +5,7 @@ Translator: cdlm
 Illus.2.title: Il tenta d'épeler HELP, mais se fit une mauvaise entorse en faisant la petite barre du E. On devrait vraiment enseigner l'écriture cursive à l'école des vers.
 
 Un messager informa l'Abbesse [[Jinyu]] que plusieurs de ses moines avaient conçu une nouvelle méthode astucieuse pour stocker des données dans le Nuage.
-Les moines étaient enthousiasmés par les possibilités et souhaitaient développer la technologie plus avant.
+Les moines étaient enthousiasmés par les possibilités et souhaitaient amener cette technologie encore plus loin.
 L'abbesse répondit par ce message :
 
 	Un œuf éclôt, et //
@@ -39,7 +39,7 @@ Le lendemain le moine supérieur ouvrit son courrier pour y trouver cet avertiss
 	Les feuilles jaunes s'envolent à travers les airs. //
 	La volée s'agite.
 
-Le Clan du Moineau d'avait que faire de la nouvelle API, qu'il considérait trop compliquée.
+Le Clan du Moineau n'avait que faire de la nouvelle API, qu'il considérait trop compliquée.
 Ils continuèrent à employer et développer leur propre approche pour chaque nouveau contrat remporté.
 Pourtant les notes cryptiques arrivaient toujours :
 
@@ -50,7 +50,7 @@ Pourtant les notes cryptiques arrivaient toujours :
 	Un oiseau seul ne peut couver d'œuf.
 
 Le logiciel du Clan du Moineau continua a évoluer, accumulant quelques impressionnantes nouvelles fonctionnalités, mais qui le rendaient ultérieurement incompatible avec la nouvelle spécification d'API.
-Le moine supérieur ne s'en souciait pas <i>(laissons les autres temples jouir de leurs implémentations primitives !)</i> mais pourtant il redoutait ouvrir son courrier chaque matin.
+Le moine supérieur ne s'en souciait pas <i>(laissons les autres temples jouir de leurs implémentations primitives !)</i> mais pourtant il redoutait d'ouvrir son courrier chaque matin.
 Le ton de Jinyu se faisait de plus en plus sombre :
 
 	Le faucon adulte ne se nourrit pas de moucherons.
