@@ -1,0 +1,38 @@
+Title: Onbekende onbekendheden
+Number: 2
+Lang: nl
+Translator: tsluyter
+Illus.0.title: Bij nader inzien neem ik liever de salade.
+
+De Keizer was ontstemd door de defecten in het nieuwe orderverwerksysteem
+dat hij had laten bouwen. Hij zond een boodschapper naar de tempel, om 
+de monniken aldaar te ondervragen.
+
+"Zijne Keizerlijke Majesteit zond u zijn beste Business Analysten om 
+te verzekeren dat alle features zouden werken zoals bedoeld," fronste
+de boodschapper. "Heeft u geen van hun talrijke PowerPoint presentatie
+begrepen?"
+
+"Wij hebben ze allen bijgewoond," sprak de Java meester. "En al dat werd
+gehoord, werd begrepen."
+
+De meester plaatste een kleine kom rijst voor de boodschapper, die deze
+prompt verorberde. De boodschapper veegde zijn mond af aan zijn mouw
+en vervolgde:
+
+"Deze zelfde Analysten boden jullie tienduizenden pagina's van vereisten,
+minutieus geïllustreerd tot op de laatste Use Case. Hebben jullie je niet
+gemoeid deze door te nemen?"
+
+"Wij hebben elke pagina aandachtig gelezen," zei de Java meester. "En
+alles dat gelezen werd, werd begrepen." De meester plaatste een dampende
+kop thee voor de boodschapper, die haar in één teug leegde.
+
+De boodschapper viel toen voorover op tafel, dood.
+
+De meester vroeg zijn leerlingen: "Wist de boodschapper niet dat het ons
+gebruik is ons te omringen met vergiftigd voedsel, opdat wij onze 
+vleselijke lusten beter kunnen weerstaan?"
+
+Waarop de meest wijze monnik sprak: "Al dat door de boodschapper werd
+geobserveerd, werd begrepen." 

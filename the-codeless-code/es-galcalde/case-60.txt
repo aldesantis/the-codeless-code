@@ -1,0 +1,18 @@
+Number: 60
+Title: El Perro Guardián
+Lang: es
+Translator: galcalde
+
+Los servidores de producción para un sistema clave estuvieron funcionando pobremente por varias semanas. Después de cada reinicio el software se portaba bien, pero mientras pasaban los días la performance bajaba gradualmente a paso de tortuga hasta que el sistema se volvía inutilizable. Para peor, era común que se le acabara la memoria a la aplicación y de estrellara durante la parte más ocupada del tercer día, llevándose consigo todos los datos de sesión no guardados de los usuarios logueados. Docenas de enojados suscriptores empezaron a telefonear al Templo para registrar su insatisfacción; ellos tenían sugerencias muy <em>específicas</em> sobre que se les debería hacer a los desarrolladores. Un equipo de perros guardianes entrenados fue adquirido para salvaguardar las abadías.
+
+Incapaces de reproducir el problema en el entorno de desarrollo, los maestros Java pidieron un reinicio nocturno del sistema. Este fue concedido por un concenso casi unánime. Yishi-Shing, un maestro host del [[Clan of Iron Bones|Clan de los Huesos de Hierro]], fue el único disidente.
+
+Los reinicios fueron un éxito: la performance se mantuvo bien durante el día, todos los usuarios excepto los más violentos fueron aplacados, y los maestros Java fueron capaces de poner su atención en cuestiones más importantes.
+
+Una noche los maestros Java y los desarrolladores fueron despertados por frenéticos aullidos fuera de sus salones. A la luz de la luna un perro guardián del templo podía verse, con el pelo erizado, las patas abiertas mientras enfrentaba a un grupo de figuras amenazantes vestidas de negro. El perro estuvo a punto de saltar cuando un silbido perforó el aire. El animal gimió y cayó, sus piernas quedaron atrapadas por las cuerdas de un dai-chui arrojado. Las figuras negras se dispersaron en la oscuridad.
+
+Desde las sombras salió el maestro host. Se arrodilló ante el perro sin ayuda para quitarle el dai-chui que claramente era suyo.
+
+Los maestros Java demandaron: "Esos hombres pueden volver antes de la mañana. ¿Por qué ha sometido al perro guardián?"
+
+Yishi-Shing respondió: "Sus ladridos molestaron mi siesta."

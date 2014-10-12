@@ -1,0 +1,36 @@
+Number: 163
+Title: Vacation
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Mi auguro davvero che sia un errore di battitura.
+
+Nel primo giorno freddo dell'autunno, un messaggero era giunto al Tempio
+portando notizie urgenti. Con grande sorpresa trovò ogni cortile vacante, ogni
+corridoio e sala comune vuoti. Non c'era un'anima in giro.
+
+Passando vicino una porta aperta, udì all'interno dello sferragliare di chiavi.
+Dentro trovò un vecchio scriba che fissava attentamente uno schermo.
+
+"Dove--" iniziò il messaggero.
+
+"Vacanza" disse lo scriba senza neanche girarsi, gesticolando assente verso il
+resto del Tempio.
+
+"Tu no?" chiese il messaggero.
+
+"Anch'io" disse lo scriba.
+
+"Ma sul tuo schermo--" disse il messaggero.
+
+"Sì" disse lo scriba. "Il più brutto, fallace e ribelle codice PHP che mai
+troverai nelle Diciassette Provincie."
+
+"Allora perché ci lavori?" chiese il messaggero.
+
+"Perché" sorrise lo scriba. "Non è codice del Tempio. È il /mio/."
+
+== Nota dell'editore
+
+<i>"The Codeless Code" si prenderà una breve vacanza per el prossime due
+settimane. Spero di vedere alcuni di voi al
+<a href="http://devday.pl">Dev&nbsp;Day&nbsp;2014</a> a Cracovia!</i>

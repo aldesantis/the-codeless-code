@@ -1,0 +1,20 @@
+Number: 62
+Title: Confusión
+Lang: es
+Translator: galcalde
+Illus.0.title: Les pregunté como podríamos mejor lograr la fecha límite, pero todo lo que hacen es aconsejarme de viajar por una autopista pavimentada de ladrillos de tono azafrán...
+
+La Maestra Java [[Suku]] entró al cuarto del nuevo abad superior del [[Spider Clan|Clan de la araña]], quien fue asignado a esa posición después de que su predecesor [[#61|desapareciera misteriosamente.]]
+
+Suku le dijo al abad: "El mes pasado se me ordenó reimplementar completamente el módulo de visualización de datos. Pedí siete desarrolladores con varias especialidades para que la reparación pudiera ser lograda en una sola iteración. Hoy salí de mi alojamiento y me encontré veintiun monjes pequeños esperándome en el hall."
+
+Con gran entusiasmo, el abad respondió: "¿No son maravillosos? Los encontramos en una provincia distante la cual fue recientemente azotada por el hambre o los terremotos o escarabajos rojos gigantes; me olvidé los detalles. Comen moderadamente, duermen sólo dos horas por noche, y están dispuestos a prescindir de cubículos y escriben código desde las vigas, así causarán pocos gastos generales. Con un equipo así deberías ser capaz de recobrar el tiempo perdido, y completar el trabajo de siete semanas en siete días."
+
+Suku suspiró, puso dos dedos en su boca, y silbó agudamente. Al sonido una docena de figuras pequeñas con bata saltaron de las vigas hacia el sorprendido abad, dejándolo inconsciente.
+
+El abad se despertó en una cantera oscura con sólo una vela encendida a su lado.  Mientras sus ojos se ajustaban a la penumbra descubrió un esqueleto roído por las ratas y con una bata de abad, en la cual había una nota:
+
+    Sobre tí hay un escotillón cuadrado: //
+    robusto, pero ligero y desbloqueado. //
+    Para ayudarte a sali añadí las mejores bisagras -- //
+    Siete por cada eje.

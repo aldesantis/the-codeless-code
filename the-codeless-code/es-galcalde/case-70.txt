@@ -1,0 +1,64 @@
+Number: 70
+Title: Sistema
+Lang: es
+Translator: galcalde
+
+Un aprendiz le hizo esta pregunta al maestro [[Bawan]]: //
+//
+A la mañana mi maestro me da direcciones. //
+De las direcciones, formo una idea. //
+De la idea, dibujo diagramas en un papel. //
+De los diagramas, creo un modelo en el diseñador. //
+Del modelo, genero un proyecto esqueleto. //
+del esqueleto, entro código fuente como texto. //
+Del texto, el compilador genera bytecode en archivos class. //
+De los archivos class, el sistema de compilación ensambla archivos war. //
+De los archivos war, el publicador crea una aplicación web. //
+//
+Pero aún no hemos acabado: //
+Dada una aplicación, la máquina virtual extrae el bytecode. //
+Dado el bytecode, el compilador JIT produce lenguaje de máquina. //
+Dado el lenguaje de máquina, el sistema operativo instruye una CPU. //
+Dadas las instrucciones, las puestas lógicas de la CPU se abren o cierran, //
+haciendo que los electrones fluyan de tal manera u otra. //
+//
+A cada paso, el proyecto se refina, destila, transforma. //
+Cada paso depende de los siguientes --//
+sino el programa no funciona. //
+//
+Así que mi pregunta es esta: //
+¿Cuál de estos productos es el verdadero software, //
+y cual es la verdadera fuente? //
+//
+//
+El maestro respondió: //
+//
+Pero <em>aún</em> no hemos acabado: //
+los electrones fluyen de tal manera u otra, //
+viajando por otras puertas lógicas, //
+que alteran los bytes en la memoria, //
+que son interpretados como información, //
+que se visualizan en una pantalla, //
+que crean un patrón en tu retina, //
+que envía señales a tu cortex, //
+que se propagan hacia tu cerebro, //
+que forman una idea. //
+//
+Así que mi respuesta es: //
+Ve al patio del templo; parate ante el roble allí. //
+De sus ramas arriba, arranca una bellota. //
+De la tierra abajo, junta hojas húmedas. //
+Deja que tu aliento se mezcle con el rocío. //
+Deja que tu sudor humedezca la tierra. //
+Quédate allí, hasta que se vaya el roble. //
+
+== Comentario de Qi
+
+¿Cuándo quieres decir, cuando hablas de fuente? ¿Dónde quieres decir, cuando hablas de código? Los muros de tu cubículo no son el horizonte. Debes miram más allá de las necesidades diarias; si no tu implementación es un trozo de corteza seca y no eres mejor que comida para gusanos.
+
+== Poema de Qi
+
+Cuando el roble se va, el monje se va, y luego todo se va: //
+Sin embargo eso ocurre en un abrir y cerrar de ojos. //
+No donde, sino en todas partes. //
+No cuando, sino en todo momento.

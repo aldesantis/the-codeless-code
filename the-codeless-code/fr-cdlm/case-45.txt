@@ -13,9 +13,9 @@ dit le premier moine,
 « alors /Customer/ devrait avoir une méthode /getBillingAddress/, de la même manière qu'elle a /getName/ !
 Comment peux-tu nier l'élégance de ma conception ? »
 
-« Parce que ta méthode charge directement l'adresse depuis la base de données ! »
-« Ça ne correspond pas au Patron des Objets-Valeurs !
-Ils n'existent que pour contenir les données obtenues par un DAO.
+« Parce que ta méthode charge directement l'adresse depuis la base de données ! » objecta le second.
+« Ça ne correspond pas au Patron des Objets-Valeurs !
+Ils n'existent que pour contenir les données obtenues via un Objet d'Accès aux Données.
 Tu devrais avoir un /AddressDAO/ pour interroger la table Address, flanquée d'une méthode Service.
 L'adresse de facturation ne devrait être obtenue directement que par là. »
 
@@ -55,5 +55,7 @@ Il y a une question à régler, mais tu confonds les intentions de ceux ici-pré
 
 « Êtes-vous en train de dire que les maîtres veulent nous cacher la réponse ? » demanda la novice.
 
-<i>« Wu, »</i> dit Zjing.
-« Si j'étais le moine qui préfère la Voie de l'Orienté-Objet, j'attirerais ton attention sur la Hiérarchie Non Écrite, selon laquelle /Maître/ n'est qu'une sous-classe d’/Étudiant/. »
+/"Wu,"/ dit Zjing.
+« Si j'étais le moine qui préfère la Voie de l'Orienté-Objet, j'attirerais ton attention sur la Hiérarchie Non Écrite, selon laquelle /Maître/ n'est qu'une sous-classe de /Étudiant/. »
+
+
