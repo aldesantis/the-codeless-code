@@ -4,40 +4,35 @@ Title: Jaulas
 Translator: jtor
 
 Para prevenir cualquier futura proliferación de código
-redundante, el Abad del Clan de la Huella de Elefante
-decretó que sus monjes únicamente produjeran código que
-fuera específico para cada aplicación. Cualquier otra cosa
-que tuviera una naturaleza más general debería ser propuesta
-a un Comité de Reutilización de Software, el cual
-investigaría distintas soluciones open source, valoraría los
-méritos de la propuesta según las necesidades de distintas
-aplicaciones, modificaría el diseño a gusto de sus miembros
-y (si todos los resultados eran favorables) añadiría el
-proyecto al calendario de implementación. Todo el proceso,
-desde la concepción del proyecto hasta su ejecución, llevaba
-varias semanas.
+redundante, el Abad del
+[[Elephant's Footprint Clan|Clan de la Huella de Elefante]]
+decretó que sus monjes únicamente
+producirían código que fuera específico para cada
+aplicación. Cualquier otra cosa que tuviera una naturaleza
+más general debería ser propuesta a un Comité de
+Reutilización de Software, el cual investigaría distintas
+soluciones open source, valoraría los méritos de la
+propuesta según las necesidades de distintas aplicaciones,
+modificaría el diseño a gusto de sus miembros y (si todos
+los resultados eran favorables) añadiría el proyecto al
+calendario de implementación. Todo el proceso, desde la
+concepción del proyecto hasta su ejecución, llevaba varias
+semanas.
 
-Cuando al Maestro Java le llegaron noticias acerca de estas
-medidas, envió al Abad dos preciados pájaros cantores. En su
-carta pedía que las aves le fueran devueltas a la semana
-siguiente. Las envió en dos jaulas de bambú de su propia
-creación.
+Cuando al Maestro Java le llegaron noticias acerca de estas medidas, envió al Abad dos preciados pájaros cantores. En su carta pedía que las aves le fueran devueltas a la semana siguiente. Las envió en dos jaulas de bambú de su propia creación.
 
-Las barras de la primera jaula estaban a un palmo las unas
-de las otras. El pájaro escapó fácilmente durante el viaje.
+Las barras de la primera jaula estaban a un palmo las unas de las otras. El pájaro escapó fácilmente durante el viaje.
 
-Las barras de la segunda jaula estaban tan juntas que ni el
-aire ni la luz podían atravesarlas. El pájaro en su interior
-no llegó a su destino con vida.
+Las barras de la segunda jaula estaban tan juntas que ni el aire ni la luz podían atravesarlas. El pájaro en su interior no llegó a su destino con vida.
 
-Atado a cada jaula había un poema del puño y letra del
-Maestro:
+Atado a cada jaula había un poema del puño y letra del Maestro:
 
 	A lo largo de la senda //
-	entre aire y cadáver //
-	aguardan las numerosas jaulas. //
-    //
+	entre /aire/ y /ataúd/ //
+	aguardan las numerosas /jaulas/. //
+
 	La casa del zorzal //
 	no la comparten //
-	el toro y el gusano. //
+	el toro y el gusano.
+
 
