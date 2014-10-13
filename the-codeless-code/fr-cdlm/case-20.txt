@@ -3,7 +3,7 @@ Number: 20
 Lang: fr
 Translator: cdlm
 
-Une nonne du [[Elephant's Footprint Clan|Clan de l'Emprunte d'Éléphant]] était assise en tailleur sur son bureau, et contemplait silencieusement un diagramme Entité-Association sur son tableau blanc.
+Une nonne du [[Elephant's Footprint Clan|Clan de l'Empreinte d'Éléphant]] était assise en tailleur sur son bureau, et contemplait silencieusement un diagramme Entité-Association sur son tableau blanc.
 
 Le maître Java{{1}} vit ceci et s'approcha.
 

@@ -3,7 +3,7 @@ Number: 18
 Lang: fr
 Translator: cdlm
 
-Ce même moine de [[Elephant's Footprint Clan|l'Emprunte d'Éléphant]] scrutait le code créé par son clan.
+Ce même moine de [[Elephant's Footprint Clan|l'Empreinte d'Éléphant]] scrutait le code créé par son clan.
 Il y avait plusieurs implémentations rivales d'un Objet d'Accès aux Données particulier ;
 il essayait de décider laquelle serait finalement adoptée par son clan.
 
