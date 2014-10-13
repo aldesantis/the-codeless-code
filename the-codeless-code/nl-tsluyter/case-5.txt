@@ -6,8 +6,7 @@ Translator: tsluyter
 Op een koude herfstdag ontwaakte de Java meester in een ontstelde
 stemming. Hij trok er op uit om zijn geest te legen.
 
-De meester vond zich al gauw aan de poorten van de [[Temple of Three Stones|Tempel van Drie 
-Stenen]], waar de kunst van ANSI C nog steeds werd beoefend. 
+De meester vond zich al gauw aan de poorten van de [[Temple of Three Stones|Tempel van Drie Stenen]], waar de kunst van ANSI C nog steeds werd beoefend. 
 Een geleerde broeder stond op wacht. 
 
 "Wat is de aard van /leegte/?" vroeg de meester.

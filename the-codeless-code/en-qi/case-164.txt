@@ -1,0 +1,59 @@
+Date: 2014-09-30
+Number: 164
+Title: Paradox
+Names: Banzen
+Topics: teaching
+Geekiness: 0
+Illus.0.src: abbess.jpg
+
+One day, the Temple awoke to discover that its databases had
+been hacked.  The intrusion was traced to a web application
+that had recently been updated by a certain monk.  The monk
+was fetched by two Temple guards to explain himself to the
+Abbess.
+
+As the guards marched the miserable monk up the tower
+stairs, they passed old master [[Banzen]] on the landing.
+Taking pity on the boy, the master whispered into the monk’s
+ear: “If you speak in your own defense, the Abbess will
+think you a coward and cut off your head.  But if you do not
+speak in your own defense, she will think you were
+responsible for the incident, and cut off your head.”
+
+With those words, Banzen departed down the stairs.
+
+- - -
+
+The monk was called into the office of the Abbess, who unsheathed a sword and demanded: “Explain how you brought disgrace to our Temple.”
+
+The monk began to profess his innocence, but remembering the advice of master Banzen, he quickly shut his mouth lest the Abbess behead him for cowardice.  Yet the silence that followed only made the Abbess resolute in her anger.  She raised her sword and approached the terrified boy, determined to behead him for his undisputed incompetence.
+
+In desperation the monk's eyes searched the room for another exit, but they found only a screen of rice paper and bamboo, beyond which lay a narrow balcony and a hundred-foot plummet to the rocks below.  As the whistling blade fell toward his neck, the monk was enlightened.
+
+- - -
+
+The monk dove under the Abbess’ blade, rolled across the room, and stood before the rice paper screen.  Taking a red marker from his robe, he hastily drew a stick figure in one panel.  The Abbess paused, intrigued.
+
+In the next panel, and each one following, the monk drew shaky cartoons depicting the events that had occurred over the past few weeks, and how his clan had reacted to each.  When taken individually, no step was in error.  Yet when taken collectively, it was clear that a confluence of unrelated actions had resulted in the critical vulnerability.
+
+The Abbess sheathed her sword, and with a wave of her hand dismissed the monk.
+
+But when the monk reached her doorway, the Abbess gave him a swift kick in the behind, sending him tumbling down the long tower stairs.
+
+“That,” said the Abbess, “is for writing on my walls.”
+
+
+
+== Editor's note
+
+This case was written specifically for my recent talk
+<a href="/talks/hacking-the-mind"
+>"Hacking the mind: /How Art can help us to talk (and teach) technology/"</a>.
+I had a great time presenting the talk at
+<a href="http://devday.pl">ABB DevDay 2014</a> in Krakow, Poland.
+
+The case is an homage to Kyogen's
+<a href="http://www.thegatelessgate.com/case-5">"Man-Up-a-Tree",</a>
+which is Case 5 of "The Gateless Gate".
+
+I promise to return to the much geekier stuff next week.  :-)
