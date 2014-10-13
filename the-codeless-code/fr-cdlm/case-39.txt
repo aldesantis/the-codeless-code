@@ -7,7 +7,7 @@ Maître Java [[Suku]] visitait les provinces de son enfance.
 Elle venait de s'asseoir dans une de ses maisons de thé préférées quand un novice l'approcha et demanda son opinion sur du code qu'il avait écrit.
 
 Suku examina la liasse et trouva chaque méthode méticuleusement documentée.
-La méthode /setName/ de Person déclarait changer le nom de la personne ; la méthode /getName/ affirmait renvoyer le nom donné par /getName/, et la méthode /toString/ jurait qu'en effet elle renverrait bien une chaîne.
+La méthode /setName/ de Person déclarait changer le nom de la personne ; la méthode /getName/ affirmait renvoyer le nom donné par /setName/, et la méthode /toString/ jurait qu'en effet elle renverrait bien une chaîne.
 
 Suku repoussa la liasse et resta assise un moment, silencieuse.
 Finalement le novice s'éclaircit la gorge et demanda si elle était mécontente.
