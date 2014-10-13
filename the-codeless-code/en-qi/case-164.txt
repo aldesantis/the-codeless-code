@@ -5,6 +5,7 @@ Names: Banzen
 Topics: teaching
 Geekiness: 0
 Illus.0.src: abbess.jpg
+Illus.0.title: You'll also get a kick in the rear end if you DON'T write on her walls.  Really, I'd just stay out of her office.
 
 One day, the Temple awoke to discover that its databases had
 been hacked.  The intrusion was traced to a web application
@@ -34,7 +35,7 @@ In desperation the monk's eyes searched the room for another exit, but they foun
 
 The monk dove under the Abbess’ blade, rolled across the room, and stood before the rice paper screen.  Taking a red marker from his robe, he hastily drew a stick figure in one panel.  The Abbess paused, intrigued.
 
-In the next panel, and each one following, the monk drew shaky cartoons depicting the events that had occurred over the past few weeks, and how his clan had reacted to each.  When taken individually, no step was in error.  Yet when taken collectively, it was clear that a confluence of unrelated actions had resulted in the critical vulnerability.
+In the next panel, and in the ones following, the monk drew shaky cartoons depicting the events that had occurred over the past few weeks, and how his clan had reacted to each.  When taken individually, no step was in error.  Yet when taken collectively, it was clear that a confluence of unrelated actions had resulted in the critical vulnerability.
 
 The Abbess sheathed her sword, and with a wave of her hand dismissed the monk.
 
