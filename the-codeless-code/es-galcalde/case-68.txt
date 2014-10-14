@@ -2,19 +2,19 @@ Number: 68
 Title: Deterioro
 Lang: es
 Translator: galcalde
-Illus.1.title: Bueno, el apartamento tiene una *gran* vista al oceano, pero el edificio no está en condiciones de escribir código exactamente...
+Illus.1.title: Bueno, el apartamento tiene una *gran* vista al océano, pero el edificio no está en condiciones de escribir código exactamente...
 
 Cuando [[Banzen]] era un monje joven, el creció desalentado:
 
-"¿De qué sirve perfeccionar el código?" se lamentó. "Un módulo que escribimos bajo las flores de cerezos de Abril requerirá una docena de casos urgentes en el sofocante Julio. ¡Para Setiembre seá un enredo de escombros, destinado a ser descartado y reescrito por alguien antes de que se derritan las nieves de Diciembre!"
+"¿De qué sirve perfeccionar el código?" se lamentó. "Un módulo que escribimos bajo las flores de cerezos de Abril requerirá una docena de casos urgentes en el sofocante Julio. ¡Para Setiembre será un enredo de escombros, destinado a ser descartado y reescrito por alguien antes de que se derritan las nieves de Diciembre!"
 
 Al oírlo, El maestro de Banzen lo invocó:
 
-"Tu forma de hablar es inquietante; abandona el monasterio de una vez. Afuera hay una corriente que fluye desde la cima de la montaña. Siguela hasta que llegues al oceano, y allí camina por la arena para aclarar tu mente. No vuelvas hasta que tus ojos puedan ver."
+"Tu forma de hablar es inquietante; abandona el monasterio de una vez. Afuera hay una corriente que fluye desde la cima de la montaña. Síguela hasta que llegues al océano, y allí camina por la arena para aclarar tu mente. No vuelvas hasta que tus ojos puedan ver."
 
 El joven Banzen obedeció. Se quedó en las orillas durante días, caminando muchos <i>ri</i> para adelante y atrás. Allí espió a mujeres pescando en las marismas con cañas de bambú, hombres tejiendo redes, y niños jugando en la arena.
 
-Fueron los niños los que le llamaron más la atención a Banzen. Mientras la marea matutina era baja se juntaban al margen de las aguas que se alejaban, amontonaban baldes llenos de arena mojada en enormes montículos mientras ponían en orden las conchas y los guijarros. A cada hora el agua crecía más distante, sin embargo los chicos arrastraban baldes llenos de agua salada hacia la playa para humedecer la arena mientras las chicas trabajaban en la cima de las pilas. Mientras el sol se movía después de su cénit una fortaleza poderosa tomó forma, de arriba a abajo, algunas partes esculpidas o palmeadas con la mano pero la matoría esculpida con la ayuda de cuchillos viejos y paletas de arroz rotas. Los niños alinearon los techos con conchas blancas pequeñas, usaron palillos para asomar ventanas sombrías, presionaron miles de guijarros en las bases, y gotearon arena mojada de las puntas de sus dedos para hacer coníferas pequeñas en los jardines miniatura, una por una. Para ese moemnto la marea volvería a la orilla.
+Fueron los niños los que le llamaron más la atención a Banzen. Mientras la marea matutina era baja se juntaban al margen de las aguas que se alejaban, amontonaban baldes llenos de arena mojada en enormes montículos mientras ponían en orden las conchas y los guijarros. A cada hora el agua crecía más distante, sin embargo los chicos arrastraban baldes llenos de agua salada hacia la playa para humedecer la arena mientras las chicas trabajaban en la cima de las pilas. Mientras el sol se movía después de su cénit una fortaleza poderosa tomó forma, de arriba a abajo, algunas partes esculpidas o palmeadas con la mano pero la mayoría esculpida con la ayuda de cuchillos viejos y paletas de arroz rotas. Los niños alinearon los techos con conchas blancas pequeñas, usaron palillos para asomar ventanas sombrías, presionaron miles de guijarros en las bases, y gotearon arena mojada de las puntas de sus dedos para hacer coníferas pequeñas en los jardines miniatura, una por una. Para ese momento la marea volvería a la orilla.
 
 Cuando Banzen veía a la primera ola chocar contra las almenas siempre se doblaba de dolor; cuando la primera terraza delicada se desmoronaba su estómago siempre se hundía de pena. Sin embargo los niños vitoreaban. Durante el resto de la tarde miraban tomados de la mano mientras el mar reclamaba lo que se le había quitado, hasta que lo único que quedaba de la labor de ese día era un bulto ondulado de arena salpicado de conchas. Luego los niños se marcharían.
 
