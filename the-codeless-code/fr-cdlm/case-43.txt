@@ -17,7 +17,7 @@ L'Abbesse salua et entra voir le maître Java.
 
 « Expliquez, » dit l'Abbesse, indiquant le moine.
 
-« Ce moine avait la tâche d'implémenter le Panier d'Acahts pour notre nouveau site, » dit le maître.
+« Ce moine avait la tâche d'implémenter le Panier d'Achats pour notre nouveau site, » dit le maître.
 « Il découvrit que si une entrée spécifique de la base de données n'était pas initialisée, les tentatives d'afficher le Panier d'Achats échoueraient.
 Alors le moine trouva chaque page qui proposait un /lien/ vers le Panier d'Achats et tenta d'initialiser l'entrée de base de données /là./
 Il y avait une douzaine de ces pages.
