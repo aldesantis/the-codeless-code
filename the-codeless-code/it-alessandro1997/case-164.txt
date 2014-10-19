@@ -36,33 +36,34 @@ la spada sibilante si abbatteva sul suo collo, il monaco fu illuminato.
 
 - - -
 
-The monk dove under the Abbess’ blade, rolled across the room, and stood before
-the rice paper screen.  Taking a red marker from his robe, he hastily drew a
-stick figure in one panel.  The Abbess paused, intrigued.
+Il monaco scansò la spada della Badessa, rotolò per la stanza e si trovò davanti
+il muro di carta di riso. Prendendo un pennarello rosso dal proprio abito,
+disegnò frettolosamente un omino stilizzato in un pannello. La Badessa si fermò,
+intrigata.
 
-In the next panel, and in the ones following, the monk drew shaky cartoons
-depicting the events that had occurred over the past few weeks, and how his clan
-had reacted to each.  When taken individually, no step was in error.  Yet when
-taken collectively, it was clear that a confluence of unrelated actions had
-resulted in the critical vulnerability.
+Nel pannello successivo, e in quelli dopo ancora, il monaco disegnò fumetti
+tremolanti che illustravano gli eventi accaduti nelle settimane precedenti, e
+come il suo clan aveva reagito a ciascuno di essi. Quando preso individualmente,
+nessun passo era sbagliato. Eppure quando fatte collettivamente, era chiaro che
+una confluenza di azioni scollegate avevano portato a una vulnerabilità critica.
 
-The Abbess sheathed her sword, and with a wave of her hand dismissed the monk.
+La Badessa rimise la spada nel fodero, e con un gesto della mano congedò il
+monaco.
 
-But when the monk reached her doorway, the Abbess gave him a swift kick in the
-behind, sending him tumbling down the long tower stairs.
+Ma quando il monaco giunse alla porta, la Badessa gli assestò un veloce calcio
+nel didietro, facendolo ruzzolare giù per le lunghe scale della torre.
 
-“That,” said the Abbess, is for writing on my walls.”
+"Questo" disse la Badessa, "è per aver scritto sui miei muri."
 
-== Editor's note
+== Nota dell'Editore
 
-This case was written specifically for my recent talk
-<a href="/talks/hacking-the-mind"
->"Hacking the mind: /How Art can help us to talk (and teach) technology/"</a>.
-I had a great time presenting the talk at
-<a href="http://devday.pl">ABB DevDay 2014</a> in Krakow, Poland.
+Questo caso è stato scritto specificamente per il mio recente talk
+<a href="/talks/hacking-the-mind">"Hacking the mind: /How Art can help us to talk (and teach) technology/"</a>.
+Mi sono divertito molto a presentare il talk al <a href="http://devday.pl">ABB DevDay 2014</a>
+a Cracovia, Polonia.
 
-The case is an homage to Kyogen's
-<a href="http://www.thegatelessgate.com/case-5">"Man-Up-a-Tree",</a>
-which is Case 5 of "The Gateless Gate".
+Questo caso è un omaggio a
+<a href="http://www.thegatelessgate.com/case-5">"Man-Up-a-Tree"</a> di Kyogen,
+che è il Caso 5 di "The Gateless Gate".
 
-I promise to return to the much geekier stuff next week.  :-)
+Prometto di tornare a scrivere di cose più tecniche la prossima settimana. :-)
