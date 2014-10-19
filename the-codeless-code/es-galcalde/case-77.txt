@@ -1,0 +1,23 @@
+Number: 77
+Title: La Abadía Al Revés
+Lang: es
+Translator: galcalde
+Illus.0.title: Las sandalias patines son de hecho algo divertidas cuando corres por largos pasillos. Caer por un tramo de escaleras, no tanto.
+
+En una mañana de invierno, cuando los logins de los usuarios se han reducido a un goteo helado y la montaña estaba tranquila bajo su manto de nieve, el maestro host [[Yishi-Shing]] dejó sus servidores al cuidado de diez monjes capaces y se fue a inspeccionar el estado de una abadía distante.
+
+Al llegar, halló un remolino inesperado de actividad. Serios defectos plagaron el software de la abadía. La actividad de los usuarios causaba errores menores en la base de datos; aquellos errores se mezclaban con acciones subsecuentes de los usuarios, extendiendo finalmente la corrupción a tablas altamente sensibles. Los monjes leían cuidadosamente los archivos log, corrían scripts de reparación de datos de emergencia, se peleaban con los pizarrones, martillaban sus estaciones de trabajo. Parches desesperados se lanzaban a un paso frenético, resultando en mayores desastres.
+
+"¿Qué hay del testing?" preguntó Yishi-Shing.
+
+"¡No hay tiempo! ¡No hay gente! ¡No hay dinero!" dijo el abad, quien ató las correas de sus patines y salió por la sala en respuesta al repique de otra campana de alarma.
+
+Yishi-Shing volvió a su templo, ensimismado.
+
+"¿Como le fue en la abadía?" preguntaron los monjes del [[Clan of Iron Bones|Clan de los Huesos de Hierro]].
+
+"No he visto una abadía," dijo Yishi-Shing. "Sólo un campo de tierra fría y dura donde los monjes cavan surcos con las uñas de sus dedos, mientras los bueyes marchan detrás y los provocan con cuchillas de arado."
+
+"¿Los servidores están en orden, al menos?" preguntó uno de los monjes.
+
+Dijo Yishi-Shing: "No servidores; maestros."
