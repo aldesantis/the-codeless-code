@@ -31,7 +31,7 @@ rivelando una vecchia donna che teneva alta una lanterna.
 sentendo la testa improvvisamente leggera per via della lunga salita. "Ma...
 dove sono?"
 
-"L'[Abbey of Hidden Absurdities|Abbazia delle Assurdità Nascoste]]," disse la
+"[[Abbey of Hidden Absurdities|L'Abbazia delle Assurdità Nascoste]]," disse la
 monaca "nella torre dove si scrive PHP."
 
 "Cosa c'è di così assurdo in PHP?" chiese il monaco.

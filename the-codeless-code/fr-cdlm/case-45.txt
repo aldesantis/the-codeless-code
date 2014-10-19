@@ -57,3 +57,5 @@ Il y a une question à régler, mais tu confonds les intentions de ceux ici-pré
 
 /"Wu,"/ dit Zjing.
 « Si j'étais le moine qui préfère la Voie de l'Orienté-Objet, j'attirerais ton attention sur la Hiérarchie Non Écrite, selon laquelle /Maître/ n'est qu'une sous-classe de /Étudiant/. »
+
+
