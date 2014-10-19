@@ -1,5 +1,5 @@
 Number: 163
-Title: Vacation
+Title: Vacanza
 Lang: it
 Translator: alessandro1997
 Illus.0.title: Mi auguro davvero che sia un errore di battitura.
@@ -31,6 +31,6 @@ troverai nelle Diciassette Provincie."
 
 == Nota dell'editore
 
-<i>"The Codeless Code" si prenderà una breve vacanza per el prossime due
+<i>"The Codeless Code" si prenderà una breve vacanza per le prossime due
 settimane. Spero di vedere alcuni di voi al
 <a href="http://devday.pl">Dev&nbsp;Day&nbsp;2014</a> a Cracovia!</i>
