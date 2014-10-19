@@ -1,0 +1,68 @@
+Number: 164
+Title: Paradosso
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Ti prenderebbe a calci nel didietro anche se non scrivessi sui suoi muri. Davvero, se fossi in te mi terrei semplicemente alla larga dal suo ufficio.
+
+Un giorno, il Tempio si svegliò e scoprì che i suoi database erano stati
+compromessi. L'intrusione venne ricondotta a un'applicazione web che era stata
+recentemente aggiornata da un certo monaco. Il monaco venne prelevato da due
+guardie del Tempio in modo che si spiegasse di fronte alla Badessa.
+
+Mentre le guardie conducevano il monaco miserabile su per le scale della torre,
+passarono accanto al vecchio maestro [[Banzen]] sul pianerottolo. Poiché il
+ragazzo gli fece pena, il maestro sussurrò nell'orecchio del monaco: “Se
+parlerai in tua difesa, la Badessa penserà che sei un codardo e ti taglierà la
+testa. Ma se non parlerai in tua difesa, penserà che sei responsabile
+dell'incidente e ti taglierà la testa.”
+
+Con queste parole, Banzen si avviò giù per le scale.
+
+- - -
+
+Il monaco venne convocato nell'ufficio della Badessa, che estrasse una spada e
+pretese: "Spiega come hai portato la disgrazia nel nostro Tempio."
+
+Il monaco iniziò a professare la propria innocenza, ma ricordando il consiglio
+del maestro Banzen, presto chiuse la bocca perché la Badessa non lo decapitasse
+per codardia. Eppure il silenzio che seguì rese la Badessa solo più risoluta
+nella sua ira. Ella alzò la spada e si avvicinò al ragazzo terrorizzato,
+determinata a decapitarlo per indiscussa incompetenza.
+
+Gli occhi del monaco disperato cercarono un'altra uscita nela stanza, ma
+trovarono solo una parete di carta di riso e bambù dietro cui stava uno stretto
+balcone e un precipizio profondo cento piedi che terminava sulle rocce. Mentre
+la spada sibilante si abbatteva sul suo collo, il monaco fu illuminato.
+
+- - -
+
+The monk dove under the Abbess’ blade, rolled across the room, and stood before
+the rice paper screen.  Taking a red marker from his robe, he hastily drew a
+stick figure in one panel.  The Abbess paused, intrigued.
+
+In the next panel, and in the ones following, the monk drew shaky cartoons
+depicting the events that had occurred over the past few weeks, and how his clan
+had reacted to each.  When taken individually, no step was in error.  Yet when
+taken collectively, it was clear that a confluence of unrelated actions had
+resulted in the critical vulnerability.
+
+The Abbess sheathed her sword, and with a wave of her hand dismissed the monk.
+
+But when the monk reached her doorway, the Abbess gave him a swift kick in the
+behind, sending him tumbling down the long tower stairs.
+
+“That,” said the Abbess, is for writing on my walls.”
+
+== Editor's note
+
+This case was written specifically for my recent talk
+<a href="/talks/hacking-the-mind"
+>"Hacking the mind: /How Art can help us to talk (and teach) technology/"</a>.
+I had a great time presenting the talk at
+<a href="http://devday.pl">ABB DevDay 2014</a> in Krakow, Poland.
+
+The case is an homage to Kyogen's
+<a href="http://www.thegatelessgate.com/case-5">"Man-Up-a-Tree",</a>
+which is Case 5 of "The Gateless Gate".
+
+I promise to return to the much geekier stuff next week.  :-)
