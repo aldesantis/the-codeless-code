@@ -1,0 +1,19 @@
+Number: 80
+Title: Una Raza Aparte
+Lang: es
+Translator: galcalde
+Illus.1.title: El también comió botanas crocantes a cada hora del día. Se lo buscó.
+
+El maestro Java [[Bawan]] y un joven monje a su cargo iban caminando, cuando hallaron a un emisario del Emperador.
+
+Después de intercambiar los saludos usuales, el emisario se dirigió a Bawan y preguntó con desdén, "¿Por qué su monje no se arregla según los edictos imperiales de vestimenta profesional? Su cara está sin afeitar, su calzado es imperdonablemente ordinario, y sus batas están hechas de algodón barato con un slogan gracioso adornando su espalda. ¡Eso es extremadamente irrespetuoso para ti! ¿Por qué lo toleras"
+
+Con voz altiva, Bawan respondió, "¡Esta no es una palanca de cambios de piedra humilde usado por una tesorería, ni un escriba de décimo rango en la Gran Burocracia! <em>Este</em> es un monje del [[Temple of the Morning Brass Gong|Templo del Gong de Latón Mañanero]], que practica las artes gloriosas de Java, C, y PHP; de Python y Perl; de Bourne shell y Korn shell; SQL, JPL, XML, CSS3 y también Javascript. El puede -- con el menor movimiento de sus dedos en un teclado -- invocar la existencia de sitios web enteros, en donde caballos y armaduras que convengan con los regimientos más prestigiosos del Emperador pueden ser comprados con un envío de dos días garantizado. Ha demostrado dominio tanto en debuggear y rebuggear: ¡el yin y el yang en torno al cual gira todo negocio bendecido! El y sus compañeros <em>no pueden</em> y <em>no serán</em> limitados por los ideales triviales de higiene personal de nuestra generación. ¡Los monjes de su templo son una raza aparte!"
+
+Humillado, el emisario se inclinó fríamente y siguió su camino.
+
+Cuando el compañero estaba lejos del alcance del oído, el joven monje le sonrió con superioridad a Bawan, diciendo, "Ese emisario era casi seguramente un idiota, para necesitar que le expliquen esas cosas hoy en esta era."
+
+Bawan echo una ojeada a la barba de varios días del monje y sus ropas irreverentes. Sin aviso el maestro agitó su bastón golpeándolo duramente detrás del craneo del monje, matándolo instantaneamente.
+
+"Yo, también, soy una raza aparte," dijo Bawan pensativamente.
