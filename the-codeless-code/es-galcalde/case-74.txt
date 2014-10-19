@@ -1,0 +1,21 @@
+Number: 74
+Title: Agua Del Baño
+Lang: es
+Translator: galcalde
+Illus.0.title: Él dice que el ojo negro valió la pena.
+
+Después de pasar varios días [[#73|cavando nieve,]] las monjas [[Yíwen]] y [[Hwídah]] sucumbieron ante el amargo frío y se les mandó irse a recuperar en las saunas. Un joven monje vendado de ojos fue enviado allí para encontrarlas.
+
+"El maestro [[Yishi-Shing]] dice que ha nadado a través de su océano de archivos log y descubrió una perla," dijo el monje. Ondeó una impresión en la dirección general de la salpicadura hasta que fue arrebatada de su mano.
+
+"Son stack traces para NullPointerExceptions," sorbió Yíwen. "Todos fueron tirados durante nuestro largo trabajo de procesamiento de datos."
+
+"Lo más probable es que sean malos datos," dijo Hwídah, con su voz disfónica por la toalla caliente que había cubierto su cara para limpiar sus senos nasales.
+
+"Varios perdones," dijo Yíwen al monje. "Pero no puedo distinguir qué registros fueron procesados. ¿Donde están los mensajes de información que logueamos para proveer contexto?"
+
+"Ya no son más salida," dijo el monje. "La inundación de avisos y errores era lo que causaba que los archivos log crecieran rápidamente. Algo tenía que hacerse para prevenir que llenaran el disco. Así que Yishi-Shing decretó que los mensajes de información y debug, no críticos, deben ser suprimidos."
+
+Yíwen suspiró, metió la impresión en los brazos del monje sin vista, y volvió al agua del baño. "Yishi-Shing rastrilla el fondo del mar sólo por perlas. Él tira todas las ostras sin abrir porque sus conchas son feas y su balsa es pequeña."
+
+"Él ha olvidado el propósito mismo de los pescadores," dijo Hwídah debajo de su toalla. 'Ahora, adornados de perlas huerfanas, moriremos de hambre de ostras."

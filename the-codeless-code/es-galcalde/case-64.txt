@@ -14,7 +14,7 @@ Kaimu hizo un gesto al segundo monje viejo. "Este trabaja en la capa de negocio,
 
 Kaimu hizo un gesto al tercer monje viejo. "Este trabaja en la capa de presentación, donde todos los datos son manipulados como texto. Él desea que el método tome un String."
 
-El maestro luego se inclinó ante los tres monjes, y oferó a los aprendices que ofrecieran sus soluciones.
+El maestro luego se inclinó ante los tres monjes, y ofertó a los aprendices que ofrecieran sus soluciones.
 
 - - -
 
@@ -30,7 +30,7 @@ El tercer aprendiz se paró.  "Tres monjes, tres aprendices. ¿Por qué no tres 
 
 Kaimu dijo: "Nada de sobras para las ratas de tu villa, pero que gordos deben ser los mendigos! Sin embargo si un método recibe cuatro parámetros, ¿lo escribirías de ochenta y un maneras diferentes? Podrías desperdiciar tanto tiempo complaciendo a todos que no complacerías a nadie."
 
-Kaimu luego oferto a los monjes superiores que se marcharan, para dejar que los aprendices determinen por sí solos la mejor manera de satisfacer todas las preocupaciones.
+Kaimu luego ofertó a los monjes superiores que se marcharan, para dejar que los aprendices determinen por sí solos la mejor manera de satisfacer todas las preocupaciones.
 
 - - -
 

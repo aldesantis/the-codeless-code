@@ -1,0 +1,26 @@
+Number: 75
+Title: Miedo Al Compromiso
+Lang: es
+Translator: galcalde
+Illus.0.title: Otro monje le preguntó al maestro sobre 'drop table' y fue aplastado por un conjunto de mueblería de cena que había sido suspendida de las vigas.
+Title-footnote: *
+
+El monje [[Djishin]] se acercó al maestro del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]] y dijo: "Enséñeme algo sobre commits y rollbacks."
+
+El maestro respondió: "Sólo puedo enseñarte sobre commits."
+
+Djishin dijo: "Entonces diga algo sobre commits."
+
+El Maestro respondió: "Ya lo he hecho."
+
+Djishin dijo: "Vine pidiendo una naranja. Sólo me ha dado la cáscara."
+
+La mano del maestro se disparó de su bata; su palma abierta aterrizó derecha sobre la frente del monje. El soplo mandó a Djishin hacia atrás contra un pilar, de cabeza. El monje colapsó en el suelo inconsciente.
+
+Cuando el monje volvió en sí, el maestro preguntó: "¿Qué he dicho sobre los commits?"
+
+Djishin se agarró su cabeza palpitante y respondió: "No puedo recordar".
+
+El maestro declaró: "¡Rollback!"
+
+{{*}} "Fear of Commitment" en su título original.

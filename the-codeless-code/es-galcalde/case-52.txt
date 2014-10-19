@@ -15,7 +15,7 @@ Y así pasó el día siguiente, y el día después, y el día después de ese d�
 
 <i>"Mu,"</i> dijo el abad. "No introdujeron ninguna falla. Ni una linea de código se ha tocado en meses."
 
-"¿Entonces qué falla fallaon en corregir?"
+"¿Entonces qué falla fallaron en corregir?"
 
 <i>"Mu,"</i> repitió el abad mientras el huevo se caía de nuevo. "El módulo funciona perfectamente, y sin duda continuará así por varios meses más."
 

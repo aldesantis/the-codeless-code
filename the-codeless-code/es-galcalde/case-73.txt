@@ -1,0 +1,31 @@
+Number: 73
+Title: La Perla Blanca
+Lang: es
+Translator: galcalde
+Illus.0.title: No, no se trata de Perl.
+
+Dos monjas, [[Yíwen]] y [[Hwídah]], fueron invocadas de su almuerzo por el abad del [[Elephant’s Footprint Clan|Clan de la Huella del Elefante]]:
+
+"El maestro [[Yishi-Shing]] cree que había perdido una perla blanca en la nieve mientras caminaba por el area del templo," dijo el abad, dándole a ambas monjas una pala. "Es su opinión que ustedes dos deberían buscarla."
+
+Las dos monjas trabajaron en silencio por varias horas -- cavando, colando, tirando, y cavando otra vez -- cuando la más alta de las dos limpió su garganta.
+
+"Estuve preguntándome," dijo Yíwen cuidadosamente, "por qué fuimos seleccionadas para este castigo. Yo, personalmente, nunca conocí al maestro Yishi-Shing."
+
+"Entonces tienes suerte," respondió Hwídah mientras hundía su pala en un amontonamiento. "Es un hombre desagradable, que se preocupa demasiado por los contenidos de nuestros archivos log."
+
+Yíwen se apoyó en su pala, su mirada distante. "Ayer te oí por casualidad discutiendo con alguien sobre este tema: los contenidos de nuestros archivos log. Había una objeción que él había levantado..."
+
+"Mensajes de aviso," gruñió Hwídah, tirando una generosa paletada de nieve en un colador que había sido montado sobre una carretilla.
+
+"Sí, era eso," asintió Yíwen. <i>"Avisos y errores sin sentido, docenas por minuto, llenando el disco con basura. Excepciones benignas.  Opciones de configuración no inicializadas. Información de debug logueada en el nivel de severidad equivocado.</i> En respuesta, creo que argumentaste que limpiar todo el código relevante sería un esfuerzo grande y arriesgado."
+
+Hwídah jadeo para respirar y giró la manija del colador. "También... mencioné... tu propia observación, sobre como el espacio en el disco... es barato..."
+
+"Ah," dijo Yíwen. "Que sumamente considerado de tu parte."
+
+Hwídah miró de cerca al colador. "Aún es nada."
+
+Yíwen pisó fuertemente la hoja de su pala. "Por cierto, entiendo que el crash de ayer de nuestros servidores de producción aún está sin diagnosticar. ¿No es curioso, dado que nuestros logs son tan detallados y voluminosos?"
+
+"Sigue cavando," dijo Hwídah miserablemente.
