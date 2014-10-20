@@ -1,0 +1,53 @@
+Date: 2014-10-19
+Number: 165
+Title: Failsafe
+Names: Spider Clan, Landhwa, Wangohan
+Topics: laziness, error handling, failsafes, testing, perfection
+Geekiness: 2
+Illus.0.title: I keep hitting the 'Escape' button, but I'm still here.
+
+When the monk [[Landhwa]] was tasked with implementing a new
+security layer for the [[Spider Clan]]'s applications, his
+longtime enemy -- the monk [[Wangohan]] --
+suspected that Landhwa's doom was finally at hand.  For
+security demanded attention to fine detail, and Landhwa was
+notoriously impatient and lazy.
+
+Sure enough, when several applications were deployed into
+production with Landhwa's code, complaints began flooding
+the help desk immediately.  Users could not edit their
+personal information or view their outstanding orders, and
+ironically the "Contact Us" link returned a /403 Forbidden/
+page.  Chaos ruled the morning.
+
+Landhwa was summoned to an emergency conference of the
+temple abbots.  Wangohan idly wondered whether he would see
+his rival again -- and if so, in how many pieces.
+
+It was therefore to Wangohan's great surprise that Landhwa
+reappeared within the hour, wearing the same irritating
+smile as always.
+
+Dismayed, Wangohan went to see the head abbot.
+"What correction for Landhwa?" asked the monk.
+
+"No correction," said the abbot.  "For when the error was
+brought to his attention, he revealed a failsafe that he had
+put in place.  If a particular flag is set in the database,
+Landhwa's API will bypass the new security layer and use the
+old layer instead.  Now all is well, and we may investigate
+the problem at our leisure without rolling back the entire
+release."
+
+"Surely, this does not /absolve/ the monk of negligence!"
+protested Wangohan.  "If he had coded more carefully or
+tested more thoroughly, such a failsafe would not have been
+needed!"
+
+"That may be true," said the head abbot.  "But if there is
+negligence here, there is also humility.  When Wangohan
+declares /today I will be perfect/, we praise his
+determination but know that his cause is doomed.  Landhwa
+not only acknowledges his imperfection, he protects us from
+it.  But take heart!  I am certain that, with a little
+effort, you could someday learn to be as lazy as he."
