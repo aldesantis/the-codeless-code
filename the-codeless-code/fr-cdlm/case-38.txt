@@ -4,7 +4,7 @@ Lang: fr
 Translator: cdlm
 
 Un novice demanda au maître Java [[Banzen]] :
-« Quel est le langage de programmatino le plus parfait ? »
+« Quel est le langage de programmation le plus parfait ? »
 
 Le maître répondit,
 « Celui qui accomplit la tâche désirée en dépendant le moins d'efforts de l'utilisateur. »
