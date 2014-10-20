@@ -1,0 +1,69 @@
+Number: 164
+Title: Paradosso
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Ti prenderebbe a calci nel didietro anche se non scrivessi sui suoi muri. Davvero, se fossi in te mi terrei semplicemente alla larga dal suo ufficio.
+
+Un giorno, il Tempio si svegliò e scoprì che i suoi database erano stati
+compromessi. L'intrusione venne ricondotta a un'applicazione web che era stata
+recentemente aggiornata da un certo monaco. Il monaco venne prelevato da due
+guardie del Tempio in modo che si spiegasse di fronte alla Badessa.
+
+Mentre le guardie conducevano il monaco miserabile su per le scale della torre,
+passarono accanto al vecchio maestro [[Banzen]] sul pianerottolo. Poiché il
+ragazzo gli fece pena, il maestro sussurrò nell'orecchio del monaco: “Se
+parlerai in tua difesa, la Badessa penserà che sei un codardo e ti taglierà la
+testa. Ma se non parlerai in tua difesa, penserà che sei responsabile
+dell'incidente e ti taglierà la testa.”
+
+Con queste parole, Banzen si avviò giù per le scale.
+
+- - -
+
+Il monaco venne convocato nell'ufficio della Badessa, che estrasse una spada e
+pretese: "Spiega come hai portato la disgrazia nel nostro Tempio."
+
+Il monaco iniziò a professare la propria innocenza, ma ricordando il consiglio
+del maestro Banzen, presto chiuse la bocca perché la Badessa non lo decapitasse
+per codardia. Eppure il silenzio che seguì rese la Badessa solo più risoluta
+nella sua ira. Ella alzò la spada e si avvicinò al ragazzo terrorizzato,
+determinata a decapitarlo per indiscussa incompetenza.
+
+Gli occhi del monaco disperato cercarono un'altra uscita nela stanza, ma
+trovarono solo una parete di carta di riso e bambù dietro cui stava uno stretto
+balcone e un precipizio profondo cento piedi che terminava sulle rocce. Mentre
+la spada sibilante si abbatteva sul suo collo, il monaco fu illuminato.
+
+- - -
+
+Il monaco scansò la spada della Badessa, rotolò per la stanza e si trovò davanti
+il muro di carta di riso. Prendendo un pennarello rosso dal proprio abito,
+disegnò frettolosamente un omino stilizzato in un pannello. La Badessa si fermò,
+intrigata.
+
+Nel pannello successivo, e in quelli dopo ancora, il monaco disegnò fumetti
+tremolanti che illustravano gli eventi accaduti nelle settimane precedenti, e
+come il suo clan aveva reagito a ciascuno di essi. Quando preso individualmente,
+nessun passo era sbagliato. Eppure quando fatte collettivamente, era chiaro che
+una confluenza di azioni scollegate avevano portato a una vulnerabilità critica.
+
+La Badessa rimise la spada nel fodero, e con un gesto della mano congedò il
+monaco.
+
+Ma quando il monaco giunse alla porta, la Badessa gli assestò un veloce calcio
+nel didietro, facendolo ruzzolare giù per le lunghe scale della torre.
+
+"Questo" disse la Badessa, "è per aver scritto sui miei muri."
+
+== Nota dell'Editore
+
+Questo caso è stato scritto specificamente per il mio recente talk
+<a href="/talks/hacking-the-mind">"Hacking the mind: /How Art can help us to talk (and teach) technology/"</a>.
+Mi sono divertito molto a presentare il talk al <a href="http://devday.pl">ABB DevDay 2014</a>
+a Cracovia, Polonia.
+
+Questo caso è un omaggio a
+<a href="http://www.thegatelessgate.com/case-5">"Man-Up-a-Tree"</a> di Kyogen,
+che è il Caso 5 di "The Gateless Gate".
+
+Prometto di tornare a scrivere di cose più tecniche la prossima settimana. :-)
