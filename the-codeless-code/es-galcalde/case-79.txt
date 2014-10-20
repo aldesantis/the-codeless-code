@@ -1,0 +1,37 @@
+Number: 79
+Title: Cave Canem
+Lang: es
+Translator: galcalde
+Illus.0.title: La mayoría de mis libros están un poco manoseados.
+
+Cierta monja del [[One Shoe Clan|Clan de Un Zapato]] se había enedado con un ccódigo de muestra en un tutorial de PHP. La muestra contenía código de manejo de errores que no estaba previsto para su uso en producción, sin embargo no estaba claro en el texto. La monja copió obedientemente el código, y resultó en desastre.
+
+Cuando pasó la crisis, la monja halló al viejo escriba [[Qi]] escribiendo en el gran diario del templo. Ella se inclinó. "Di algo sobre los libros de instrucción que enseñan malas prácticas."
+
+Dijo el escriba, "Haré un pedido a los maestros sobre este tema."
+
+- - -
+
+El escriba llevó el pedido de la monja a la maestra [[Suku]], quien demandaba código legible de todo a su cargo.
+
+Suku dijo: "Los libros son sabuesos fieles, hacen sólo lo que los autores le enseñaron. Algunos fueron consentidos, y algunos extremadamente descuidados. Si el templo fue mordido, la culpa es de quien educó al animal. Sus escritos deben ser arrojados al basurero."
+
+- - -
+
+El escriba llevó el pedido de la monja a maestro [[Bawan]], quien acariciaba tiernamente la carpeta de su manual de ANSI C.
+
+Bawan dijo: "Los libros son perros durmientes, incapaces de hacer travesuras por su cuenta. Algunos son domesticados y otros son rabiosos, así todos son despertados con precaución. Si el templo fue mordido, la culpa es de quien molestó al animal. La monja debe ser castigada."
+
+- - -
+
+El escriba llevó el pedido de la monja al infeliz maestro [[Banzen]], quien buscaba la perfección enn todas las cosas y raramente la hallaba.
+
+Banzen dijo: "Los libros son chuchos salvajes, toman parte de su naturaleza del escritor y parte del lector. Si el templo fue mordido, la culpa es principalmente de los dientes del animal. La única corrección requerida es aquella que se hace con tinta."
+
+- - -
+
+El viejo escriba volvió con la monja, y colocó su gran diario en sus manos. "He investigado la cuestión de los libros de instrucción."
+
+La monja halló ell caso más reciente, el cual aparecía sin finalizar. "Veo los testimonios de tres maestros," dijo ella, "sin embargo todos están en contradicción. ¿Qué escribirás en conclusión?"
+
+El escriba ladró tres veces y se fue.

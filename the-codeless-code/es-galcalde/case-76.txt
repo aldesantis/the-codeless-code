@@ -1,0 +1,27 @@
+Number: 76
+Title: El Gato De Myong
+Lang: es
+Translator: galcalde
+Illus.0.title: Los teclados están bien, pero no podemos encontrar a ningún ratón.
+
+Al maestro Unix [[Myong]] le han contado acerca de un gato perdido que había tomado residencia en la sala de operaciones, durmiendo en los gabinetes de los servidores y tomando siestas encima de los antiguos CRTs por calor. La situación se había vuelto inaceptable cuando la criatura empezó a usar un cajón de cables de respuesto como caja de arena.
+
+Myong atrapó al gato y lo colocó en una mesa ante seis monjes del [[Clan of Iron Bones|Clan de los Huesos de Hierro]], diciendo, "Si cada uno de ustedes puede decir una linea de comandos que haga la misma función que <tt>cat</tt>, le perdonaré la vida al animal. Si no, lo mataré."
+
+El primer monje dijo rápidamente, “<tt>cat</tt>”.
+
+El segundo monje dijo, “<tt>grep ^</tt>”.
+
+El tercer monje dijo, “<tt>sed s/^&#47;/</tt>”.
+
+El cuarto monje dijo, “<tt>tr x x &lt;</tt>”.
+
+El quinto monje dijo, “<tt>perl -pe 0</tt>”.
+
+El sexto se devanó los sesos por un minuto, y bajó de verguenza su cabeza.
+
+Myong sostuvo el gato cuidadosamente por el cuello y levantó su cuchillo, con lo cual el sexto monje ladró como un perro lo más fuerte que pudo. El gato se disparó aterrorizado del alcance del maestro y desapareció por el pasillo.
+
+Myong miró con furia al sexto monje.
+
+"Misma función," dijo el sexto monje calmadamente.
