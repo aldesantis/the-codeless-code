@@ -16,9 +16,9 @@ Cierto monje se acercó al maestro Java [[Bawan]] al terminar su merienda y dema
 
 "¡Entonces no podemos esperar calcular perfectamente con números irracionales comunes como pi o la raíz cuadrada de dos, porque poseen un número <em>infinito</em> de dígitos! Nuestras aproximaciones cosechan error tras error con cada operación matemática. ¡La profesión exquisita de la computación de punto flotante es sólo una fortaleza construida sobre arenas movedizas!"
 
-El maestro Bawan se levantó, miró pensativo la cintura del monje por un momento{{*}}, luego arrojó su bowl de arroz de madera hacia el estómago del monje. El monje se dobló.
+El maestro Bawan se levantó, miró pensativo la cintura del monje por un momento{{*}}, luego arrojó su tazón de arroz de madera hacia el estómago del monje. El monje se dobló.
 
-"Radio, cinco centimetros," dijo Bawan, indicando el bowl. "¿Cual es su circunferencia?"
+"Radio, cinco centimetros," dijo Bawan, indicando el tazón. "¿Cual es su circunferencia?"
 
 "10&pi;," jadeó el monje.
 
