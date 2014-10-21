@@ -8,7 +8,7 @@ Le site de gestion de commandes du [[Spider Clan|Clan de l'Araignée]] se compor
 Maintenant une échéance s'approchait rapidement.
 Les moines se seraient arrachés les cheveux s'ils n'avaient pas déjà été tondus en prévention d'un tel spectacle.
 
-« C'est parce que le [[Laughing Monket Clan|Clan du Singe Rieur]] n'arrête pas de couper /leurs/ serveurs de développement » se plaint le moine supérieur du Clan de l'Araignée à l'un des prêtres.
+« C'est parce que le [[Laughing Monkey Clan|Clan du Singe Rieur]] n'arrête pas de couper /leurs/ serveurs de développement » se plaint le moine supérieur du Clan de l'Araignée à l'un des prêtres.
 « Sans ces services, notre code ne peut faire aucune requête sur les préférences des utilisateurs ou sur le contenu du panier ! »
 
 « Nos redémarrages sont nécessaires, » dit le supérieur du Singe Rieur.

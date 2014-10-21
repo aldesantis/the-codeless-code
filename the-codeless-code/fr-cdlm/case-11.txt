@@ -3,7 +3,7 @@ Number: 11
 Lang: fr
 Translator: cdlm
 
-Pour prévenir toute prolifération supplémentaire de code redondant, l'abbé du [[Elephant's Footprint Clan|Clan de l'Emprunte d'Éléphant]] décréta que ses moines ne devaient produire que du code qui soit spécifique à l'application.
+Pour prévenir toute prolifération supplémentaire de code redondant, l'abbé du [[Elephant's Footprint Clan|Clan de l'Empreinte d'Éléphant]] décréta que ses moines ne devaient produire que du code qui soit spécifique à l'application.
 Quoi que ce soit d'une nature plus générale devait être soumis à un Sous-Comité à la Réutilisation Logicielle, qui cherchait des solutions open-source, évaluait les mérites de la proposition par rapport aux besoins des diverses applications, modifiait la conception selon ce que les membres jugeaient opportun, et (si tous les signes étaient favorables) ajoutaient le projet au calendrier d'implémentation.
 Le processus complet, du lancement à l'exécution, prenait de nombreuses semaines.
 

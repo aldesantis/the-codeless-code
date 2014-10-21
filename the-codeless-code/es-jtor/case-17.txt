@@ -1,0 +1,15 @@
+Number: 17
+Lang: es
+Translator: jtor
+Title: No De Mi Invención
+
+A un monje del [[Elephant's Footprint Clan|Clan de la Huella de Elefante]] se le había encargado eliminar los montones de código redundante creados por ese clan. Se dirigió al sacerdote mayor en busca de consejo.
+
+“Aquí, por ejemplo, hay cinco sistemas para controlar las preferencias de usuario”, dijo el monje, extendiendo las hojas sobre la mesa. “Debo elegir el mejor o implementar un compromiso. En cualquier caso, al menos cuatro módulos serán arrojados al fuego y sus autores obligados a consumir el código de un rival”.
+
+“Entonces estás condenado”, dijo el sacerdote. “Una vez que la gata se moja la pata para cazar una carpa del estanque, no la cambiará por diez mil ratones”.
+
+El monje se llevó la mano a la frente. “¡Y éste es sólo uno de la docena de subsistemas redundantes que tengo que consolidar! Hoy he visto cómo uno de los hermanos mayores afilaba sus cuchillos arrojadizos. ¿No habrá ninguna manera de apaciguar a los monjes de nuestro clan?”.
+
+El sacerdote levantó su mano izquierda, a la que le faltaba el dedo meñique. “Si la gata no puede tener la carpa, un trozo del ladrón de carpas le será suficiente”.
+

@@ -3,7 +3,7 @@ Number: 10
 Lang: fr
 Translator: cdlm
 
-Suite à une inspection rapide, le maître Java décréta que chaque moine du [[Elephant's Footprint Clan|Clan de l'Emprunte d'Éléphant]] devrait désormais pêcher ses propres poissons, cultiver son propre riz, coudre ses propres vêtements, et raccommoder ses propres souliers.
+Suite à une inspection rapide, le maître Java décréta que chaque moine du [[Elephant's Footprint Clan|Clan de l'Empreinte d'Éléphant]] devrait désormais pêcher ses propres poissons, cultiver son propre riz, coudre ses propres vêtements, et raccommoder ses propres souliers.
 
 En l'espace d'un mois, les moines se retrouvèrent en guenilles et souffrants de malnutrition sévère.
 De plus en plus de délais furent dépassés.
@@ -16,7 +16,7 @@ L'abbé demanda quelle transgression son clan avait pu commettre pour mériter u
 
 « Châtiment ? » dit le maître Java.
 « Ma seule intention était de les récompenser.
-Les moines de l'Emprunte d'Éléphant ne sont-ils pas fiers de leur indépendance et de leur autonomie ?
+Les moines de l'Empreinte d'Éléphant ne sont-ils pas fiers de leur indépendance et de leur autonomie ?
 Leur code me l'indique pourtant :
 
 « Chacun d'entre eux a essentiellement écrit les mêmes Objets d'Accès aux Données et les mêmes Objets-Valeurs que ses voisins.
@@ -24,7 +24,7 @@ Chacun d'entre eux a élaboré ses propres utilitaires sur les chaînes et autre
 Chacun d'entre eux s'est évertué à concevoir, implémenter, intégrer, tester, déboguer, réparer, et étendre ce qu'il aurait pu simplement reprendre de l'un de ses confrères.
 
 « Dois-je en déduire l'incompétence ?
-Alors il faut mettre au ban du monastère jusqu'au dernier des moines de l'Emprunte d'Éléphant.
+Alors il faut mettre au ban du monastère jusqu'au dernier des moines de l'Empreinte d'Éléphant.
 
 « Dois-je en déduire l'ignorance délibérée ?
 Alors la tradition exige qu'ils se fouettent aux orties, et qu'<i>ensuite</i> on les mette au ban.
@@ -35,7 +35,7 @@ Si oui, les oubliettes attendent...
 « Mais non, » conclut le maître Java.
 « Je dois plutôt en déduire l'orgueil -- l'orgueil puisé dans la prétendue supériorité de son code sur celui de ses confrères.
 L'orgueil est l'une des Quatre Graines de la Grandeur, et doit être encouragé.
-Que l'Emprunte d'Éléphant aiguise son talent aux ciseaux et au harpon, à l'aiguille et à la faux, jusqu'à ce que chaque moine puisse être aussi fier de ses beaux habits que de la prise dans son assiette ! »
+Que l'Empreinte d'Éléphant aiguise son talent aux ciseaux et au harpon, à l'aiguille et à la faux, jusqu'à ce que chaque moine puisse être aussi fier de ses beaux habits que de la prise dans son assiette ! »
 
 « Il ne restera plus beaucoup de temps pour coder, » observa l'abbé.
 « Et l'Empereur est très littéral dans son interprétation du mot /deadline/. »
@@ -45,5 +45,5 @@ Le maître hocha la tête.
 Alors que le vieil hermite loue les vertus de l'austérité, et ne changera pas sa situation.
 Pourtant, ne sont-ils pas un seul et même homme, à quelques années d'intervalle ? »
 
-Ainsi l'Emprunte d'Éléphant fut épargnée par deux fois puis corrigée.
+Ainsi l'Empreinte d'Éléphant fut épargnée par deux fois puis corrigée.
 

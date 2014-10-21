@@ -3,7 +3,7 @@ Number: 17
 Lang: fr
 Translator: cdlm
 
-Un moine de [[Elephant's Footprint Clan|l'Emprunte d'Éléphant]] était chargé d'éliminer les montagnes de code redondant créé par son clan.
+Un moine de [[Elephant's Footprint Clan|l'Empreinte d'Éléphant]] était chargé d'éliminer les montagnes de code redondant créé par son clan.
 Il approcha le prêtre supérieur du clan pour savoir quelle voie suivre.
 
 « Par exemple, voici cinq manières de gérer les préférences utilisateur, »

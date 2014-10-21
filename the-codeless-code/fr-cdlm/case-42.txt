@@ -5,7 +5,7 @@ Translator: cdlm
 Illus.0.title: Comptez les orteils. Et non, c'est pas du ketchup.
 
 Un moine du [[Elephant's Footprint Clan|Clan de l'Emprunte d'Éléphant]] demanda,
-« Qu'advient-il des déclencheurs de la base de donnée ? »
+« Qu'advient-il des déclencheurs de la base de données ? »
 
 Le maître répondit, « Quand vous aurez faim à minuit, vous saurez. »
 
