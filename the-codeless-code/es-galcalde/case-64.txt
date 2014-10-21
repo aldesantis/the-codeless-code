@@ -20,7 +20,7 @@ El maestro luego se inclinó ante los tres monjes, y ofertó a los aprendices qu
 
 El primer aprendiz se paró. "El método debería tomar un String, porque esa representación será la más util dentro del método en sí. En cuanto a los monjes que prefieren Long o EmployeeID, pueden fácilmente invocar <em>toString</em> en esos objetos y alimentar el resultado en el método."
 
-Kaimu dijo: "Cuando el mendigo sentado en cuclillas en la tierra pide monedas, puedes pedirle que levante su bowl para cumplir contigo. ¿Pero que hay del hombre sin codos?"
+Kaimu dijo: "Cuando el mendigo sentado en cuclillas en la tierra pide monedas, puedes pedirle que levante su tazón para cumplir contigo. ¿Pero que hay del hombre sin codos?"
 
 Antes que el primer aprendiz pudiera responder, El segundo se paró. "La simplicidad aparente de invocar <em>toString</em> es dificultada por la necesidad del usuario de chequear primero si es null. Así que el método debería tomar un Object, el cual puede contener a cualquiera de los tres tipos. El método en sí puede chequear si es null, e invocar <em>toString</em> sólo si es seguro hacerlo. De este modo, del usuario no se requiere nada."
 
