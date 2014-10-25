@@ -1,0 +1,44 @@
+Number: 165
+Title: Uscita d'emergenza
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Continuo a premere il tasto 'Esci', ma sono ancora qui.
+
+Quando il monaco [[Landhwa]] venne incaricato di implementare un nuovo livello
+di sicurezza per le applicazioni del [[Spider Clan|Clan del Ragno]], il suo
+acerrimo nemico -- il monaco [[Wangohan]] -- sospettò che la fine di Landhwa
+fosse finalmente giunta, giacché la sicurezza richiedeva attenzione per il più
+piccolo dettaglio, e Landhwa era notoriamente impaziente e pigro.
+
+Infatti, quando diverse applicazioni vennero rilasciate in produzione con il
+codice di Landhwa, il servizio clienti venne inondato di lamentele. Gli utenti
+non potevano modificare le proprie informazioni personali o vedere gli ordini in
+sospeso, e ironicamente il collegamento "Contattaci" restituiva una pagina
+/403 Forbidden/. Il caos dominò la mattinata.
+
+Landhwa venne convocata a una conferenza d'emergenza con gli abati del Tempio.
+Wangohan si chiese placidamente se avrebbe mai più visto il proprio rivale -- e
+se sì, in quanti pezzi.
+
+Fu dunque con grande sorpresa di Wangohan che Landhwa ricomparve non più di
+un'ora dopo, col suo solito sorriso irritante.
+
+Sgomento, Wangohan andò a vedere l'abate capo. "Quale correzione per Landhwa?"
+chiese il monaco.
+
+"Nessuna correzione" disse l'abate. "Perché quando gli venne fatto notare
+l'errore, rivelò un meccanismo di sicurezza che aveva creato. Se un particolare
+valore viene impostato nel database, la API di Landhwa scavalca il nuovo livello
+di sicurezza e usa il vecchio livello al suo posto. Ora tutto funziona, e
+possiamo investigare il problema con tranquillità senza scartare l'intero
+rilascio."
+
+"Ma senza dubbio questo non /assolve/ il monaco dalla sua negligenza!" protestò
+Wangohan. "Se avesse programmato con più attenzione o testato con più
+scrupolosità, tale meccanismo non sarebbe stato necessario!"
+
+"Può darsi" disse l'abate capo. "Ma se c'è negligenza, c'è anche umiltà. Quando
+Wangohan dichiara /oggi sarò perfetto/, lodiamo la sua determinazione ma
+sappiamo che la sua causa è maledetta. Landhwa non solo riconosce la propria
+imperfezione, ci protegge da essa. Ma non temere! Sono certo che, con un po' di
+sforzo, potrai un giorno imparare a essere pigro come lui."
