@@ -4,6 +4,7 @@ Title: Failsafe
 Names: Spider Clan, Landhwa, Wangohan
 Topics: laziness, error handling, failsafes, testing, perfection
 Geekiness: 2
+Illus.0.src: keys.jpg
 Illus.0.title: I keep hitting the 'Escape' button, but I'm still here.
 
 When the monk [[Landhwa]] was tasked with implementing a new

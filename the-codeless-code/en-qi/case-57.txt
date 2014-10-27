@@ -3,7 +3,7 @@ Number: 57
 Title: Precision
 Geekiness: 2
 Names: Bawan
-Topics: memory, infinity
+Topics: memory, infinity, numbers, precision
 Illus.0.src: brain.jpg
 Illus.0.par: 3
 Illus.0.title: The brain was in a jar marked 'Abby'-someone.
