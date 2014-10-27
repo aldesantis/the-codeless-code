@@ -34,10 +34,11 @@ even the makers of our operating system taunt us with this fact!"
 
 The monk considered a moment and said: "Not long ago
 <tt>time_t</tt> was only thirty-two bits, incapable of
-tallying even two centuries past its inception.  The type
-was expanded with only decades remaining before its
+tallying as little as two centuries.  The type was expanded
+with only decades remaining before the universe's
 expiration.  I surmise that, sometime in the next
-several billion years, we will receive another patch."
+two-hundred-and-ninety-two billion years, we will receive
+another patch."
 
 The master was comforted.
 
