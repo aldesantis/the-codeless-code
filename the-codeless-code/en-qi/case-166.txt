@@ -11,7 +11,7 @@ upgrades to the Temple's servers.  After examining some files in
 <tt>/usr/include</tt>, host master [[Yishi-Shing]] shook
 his head.
 
-A monk noticed and asked, "Master, do you spy some cause for concern?"
+A monk noticed and asked, "Master, do you see some cause for concern?"
 
 Yishi-Shing said, "The type <tt>time_t</tt>,
 by which the current system time is obtained, has been
