@@ -1,0 +1,14 @@
+Number: 86
+Title: Liberación
+Lang: es
+Translator: galcalde
+
+El Maestro [[Banzen]] investigaba a los aprendices de una abadía distante. Sus diseños e implementaciones le causaban mucha inquietud.
+
+"¿Quién revisa su código?" preguntó Banzen.
+
+"Nuestros maestros nos tienen revisando el código entre nosotros," explicó uno de los aprendices. "Esto les deja libres para deberes más importantes."
+
+"Sin duda," dijo Banzen. El arrojó su bastón con fuerza a través del cuarto hacia la caja de fusibles del templo, la cual estalló en una lluvia de chispas. Todas las pantallas se apagaron.
+
+Banzen recuperó su bastón, diciendo: "Ahora sus electrones también están libres."
