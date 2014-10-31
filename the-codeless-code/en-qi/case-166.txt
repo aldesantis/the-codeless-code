@@ -1,0 +1,39 @@
+Date: 2014-10-26
+Number: 166
+Title: Tempus Fugit
+Names: Clan of Iron Bones, Yishi-Shing
+Topics: time, precision, numbers, integers, bits, philosophy
+Geekiness: 3
+Illus.0.title: I recently realized that since I was born before January 1st 1970, I'm older than time() itself.
+
+The [[Clan of Iron Bones]] had just applied the most recent
+upgrades to the Temple's servers.  After examining some files in
+<tt>/usr/include</tt>, host master [[Yishi-Shing]] shook
+his head.
+
+A monk noticed and asked, "Master, do you see some cause for concern?"
+
+Yishi-Shing said, "The type <tt>time_t</tt>,
+by which the current system time is obtained, has been
+declared as a <tt>signed long</tt> -- a mere sixty-four bits."
+
+Puzzled, the monk started the abacus app on his tablet and
+rapidly flicked the beads.  "Such a number is capable of
+representing roughly two-hundred-and-ninety-two billion
+years, forward or backward," said the monk.
+
+"And this does not trouble you?" asked Yishi-Shing.
+"Existence itself will cease in a countable number of seconds, and
+even the makers of our operating system taunt us with this fact!"
+
+The monk considered a moment and said: "Not long ago
+<tt>time_t</tt> was only thirty-two bits -- incapable of
+tallying as little as two centuries.  The type was expanded
+with only decades remaining before the Universe's
+expiration.  I surmise that, sometime near the end of the next
+two-hundred-and-ninety-two billion years, we will receive another patch."
+
+The master was comforted.
+
+
+

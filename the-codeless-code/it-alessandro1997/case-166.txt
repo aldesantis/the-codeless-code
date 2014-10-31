@@ -1,0 +1,32 @@
+Number: 166
+Title: Tempus fugit
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Ho appena realizzato che siccome sono nato prima dell'1 gennaio 1970, sono più vecchio del time() stesso.
+
+Il [[Clan of Iron Bones|Clan delle Ossa di Ferro]] aveva appena applicato
+l'ultimo aggiornamento ai server del Tempio. Dopo aver esaminato alcuni file in
+<tt>/usr/include</tt>, il maestro [[Yishi-Shing]] scosse la testa.
+
+Un monaco se ne accorse e chiese: "Maestro, vedete forse ragione per
+preoccuparvi?"
+
+Yishi-Shing disse: "Il tipo <tt>time_t</tt>, tramite cui si ottiene l'attuale
+ora del sistema, è stato dichiarato come un <tt>signed long</tt> -- di meri
+sessantaquattro bit."
+
+Perplesso, il monaco avviò l'applicazione abaco sul suo tablet e spostò
+rapidamente le perle. "Un numero del genere può rappresentare all'incirca
+duecentonovantadue miliardi di anni, nel futuro o nel passato" disse il monaco.
+
+"E questo non ti preoccupa?" chiese Yishi-Shing. "L'esistenza stessa terminerà
+in un numero finito di secondi, e persino gli architetti del nostro sistema
+operativo ci deridono per ciò!"
+
+Il monaco pensò per un istante e disse: "Non molto tempo fa <tt>time_t</tt> era
+di soli trentadue bit -- incapace di contare per soli due secoli. Il tipo è
+stato espanso fino ad avvicinarsi a pochi decenni dalla fine dell'Universo. Ne
+deduco che, entro la fine dei prossimi duecentonovantadue miliardi di anni,
+riceveremo un altro aggiornamento."
+
+Il maestro fu confortato.
