@@ -1,0 +1,19 @@
+Number: 82
+Title: La Tachuela De Jinyu
+Lang: es
+Translator: galcalde
+
+Cuando un nuevo aspirante llegaba al templo esperando llenar alguna posición recientemente vacante, {{1}} La vieja madam [[Jinyu]] -- la Abadesa de Todos los Clanes y asuntos de Interés -- era respetuosamente invitada para atender al invitado.
+
+Los maestros y los monjes superiores comenzarían con las preguntas usuales, como "¿Qué plataformas has usado?" y "¿Cuantos años de experiencia has tenido con cada una?" {{2}} Las preguntas se volcerían cada vez más técnicas, y la vieja Jinyu aparecía para cabecear en la esquina. Finalmente, sus pequeños ojos se abrirían, claros y agudos como los de un cuervo; luego señalaría al pizarrón con su bastón y diría:
+
+"La Armada Imperial desea catalogar sus armas. Reconoce cuatro tipos: el bastón, la lanza, la espada, y el cuchillo. Cada una tiene un largo, el cual varía de arma en arma. Cada una tiene un peso, el cual es calculado según el largo de acuerdo al tipo del arma. En todas las cuestiones, un cuchillo es simplemente una espada cuyo largo es exactamente dos <em>chi</em>. Ahora: ¡Muéstrame las clases que crearías!"
+
+Luego, cruzada de brazos, se sentaría a observar. A veces abandonaría el cuarto después de que el diagrama de clases ha sido dibujado; a veces se quedaría y alteraría el problema, observando los cambios hechos en respuesta.
+
+Esto confundía a los monjes jóvenes, quienes le preguntarían tímidamente: "¿Por qué no lees las varias páginas de resumen suministradas, o preguntas sobre la proficiencia del candidato en nuestras tecnologías elegidas?"
+
+Jinyu los aporrearía luego con su bastón y les respondería: "Muchos martillos buenos pueden ser hallados en los estantes del mercado, como también muchos martillos malos. Cuando el otoño sopla las tejas del techo del templo, no me importa si una herramienta haya pertenecido al constructor más respetado del Emperador, si no puede enderezar mi tachuela."
+
+{{1}} Puede sorprenderte aprender que las posiciones eran usualmente dejadas vacantes <i>pacífica y voluntariamente</i> por sus ocupantes -- siempre y cuando consideres un suicidio honorable como un método extremadamente formal de renuncia.
+{{2}} Preguntas como "¿Cual es tu tipo de sangre?" y "¿Como evaluarías tu tolerancia al dolor físico?" eran manejadas usualmente por Recursos Humanos.
