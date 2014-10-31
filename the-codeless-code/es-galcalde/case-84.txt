@@ -1,0 +1,22 @@
+Number: 84
+Title: Lo Que Dice En La Lata
+Lang: es
+Translator: galcalde
+
+[[Wangohan]], un monje bajo la responsabilidad de [[Suku]], había luchado durante dos miserables días para adivinar la causa de un bug.  Al tercer día, mientras observaba su propio código fuente, Wangohan fue iluminado.
+
+Con furia en el pecho y una impresión del código en la mano, Wangohan entró en el cubículo de un monje llamado [[Landhwa]]. Wangohan estrelló los papeles contra el escritorio de Landhwa y clavó su dedo contra una variable marcada en rojo.
+
+"Hay una variable en este método llamada <tt>completedOrders</tt>," bufó Wangohan. "Se supone que contiene las órdenes cuyo status es <tt>COMPLETED</tt>: esto debería ser evidente sólo por el nombre. ¿Por qué, entonces, añadiste órdenes con estado <tt>FAILED</tt> en esta linea? No había manera de saber que el propósito de esa variable había cambiado. ¡Mis últimas mejoras estaban todas en error!
+
+Landhwa bostezó y roció algo de canela en su <em>hotteok.</em> "Crear una variable separada hubiera complicado mi tarea. Y cambiar el nombre de la variable existente no era necesario puesto que aún contiene las órdenes completadas -- mayormente."
+
+Wangohan se inclinó fríamente y salió.
+
+- - -
+
+Luego aquella semana, la maestra Suku invocó a Wangohan a su cuarto.
+
+"El monje Landhwa se ha enfermado," ella explicó con una ceja levantada. "Calambres estomacales de naturaleza muy desagradable. La causa es desconocida, pero Landhwa susurró tu nombre debilmente antes de su última corrida hacia el baño."
+
+Wangohan extendió sus palmas. "No tengo idea de lo que aqueja al monje. Pero en su despensa hay un jarrón etiquetado 'canela' el cual estuve usando recientemente para guardar mi propia mezcla de esa especia. si la ha probado, por favor asegúrale que es sólo canela -- mayormente."

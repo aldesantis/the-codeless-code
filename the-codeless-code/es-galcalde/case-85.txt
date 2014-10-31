@@ -1,0 +1,30 @@
+Number: 85
+Title: La Razón Áurea De Suku
+Lang: es
+Translator: galcalde
+Illus.0.title: Suku solía juntarse en los bares de la universidad y apostarle a los matemáticos que podía añadir un cero a un uno y tener un resultado estríctamente entre uno y dos. Peor luego encontró que era más fácil esperar a que se emborracharan y robarles las billeteras.
+
+Dos monjes se acercaron a la maestra [[Suku]] para resolver una disputa.
+
+El primer monje dijo, "He propuesto un diseño verdaderamente elegante, pero este monje dice que es muy complejo y no puede ser mantenido."
+
+El segundo monje dijo, "He propuesto un diseño verdaderamente simple, pero este monje dice que es muy limitado y no será útil."
+
+Suku giró hacia su pizarrón y dibujó una gran <em>phi</em>, de ese modo:
+
+El primer monje dijo, "No entiendo."
+
+El segundo monje dijo, "Yo tampoco."
+
+Suku respondió, "Ustedes discuten en booleanos; en ceros y unos. Vuelvan cuando hayan aprendido punto flotante."
+
+== Comentario de Qi
+
+[[Kaimu]] atiende a aprendices y maestros, pero mandan a los idiotas a Suku. [[#24|El <i>null</i> de Kaimu]] puede cancelar una pregunta mala, pero el <em>phi</em> de Suku cancelará dos respuestas malas.
+
+== Qi's poem
+
+Kaimu tiene su <em>null</em>. //
+Suku prefiere su razón áurea. //
+El primero ordena reconsideración -- //
+el segundo, compromiso.

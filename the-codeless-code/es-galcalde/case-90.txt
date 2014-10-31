@@ -1,0 +1,38 @@
+Number: 90
+Title: No es un Número
+Lang: es
+Translator: galcalde
+Illus.0.title: Aparentemente están hechas con mucha manteca con naan porciento de grasa.
+
+Al maestro [[Kaimu]] se le acercó un monje del [[Spider Clan|Clan de la Araña]], quien dijo: "En Javascript, cero se divide por cero, el resultado es <tt>NaN</tt>: not-a-number.  Sin embargo <tt>typeof(NaN)</tt> es <tt>number</tt>. ¿Qué sentido puede hallarse en un lenguaje, donde el valor es algo y no-algo?"
+
+Kaimu le dio al monje una moneda, diciendo, "En el Camino de Ortigas Blancas vive un panadero que vende panes de pita tan redondos como el cero más perfecto. Compra todos los que puedas y tráemelos."
+
+El monje hizo lo que se le dijo. Cuando el panadero recibió su pago tiró físicamente al monje fuera de la tienda y y le lanzó la moneda.
+
+"Dinero falso," dijo el panadero.
+
+- - -
+
+<div style="color:#666">
+Al voolver al templo, el monje halló a uno de los jardineros, intercambió sus ropas con él, y ordenó al jardinero ver al maestro Kaimu a solas.
+
+Kaimu se divirtió con el obvio engaño. "¡Monje!" dijo. "¿Donde está mi pan?"
+
+Instruido por el monje, el no-monje respondió, "Dividido igualitariamente entre todos los que me ayudaron a cargarlo."
+
+Kaimu estaba satisfecho.
+</div>
+
+== Comentario de Qi
+
+Dinero sin valor, monje de imitación, pan ficticio,
+<span style="color:#666">final falso</span>.
+
+
+== Poema de Qi
+
+Kaimu conoció a un antiguo soldado: un hombre perdido y desesperado, //
+porque el no podía recordar su propio nombre. //
+El maestro le dio una moneda, diciendo, "Esto es para tí de Kaimu." //
+El soldado gritó de alegría, "¡Entonces yo debo ser No Kaimu!"

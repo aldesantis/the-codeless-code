@@ -1,0 +1,20 @@
+Number: 87
+Title: La Niebla Del Concubino
+Lang: es
+Translator: galcalde
+
+El Maestro [[Banzen]] estaba investigando a los monjes del [[Spider Clan|Clan de la Araña]] en una abadía distante. Después de examinar el código fuente de su aplicación web más crítica, Banzen invocó al abad superior.
+
+"Explíquese," dijo Banzen, señalando una pantalla donde la aplicación estaba corriendo.
+
+El dedo del maestro descansaba sobre un form pequeño donde todo estaba deshabilitado. Sus campos de texto no podían escribirse; sus botones no se podían presionar.
+
+"Ese form entrega información de una naturaleza más sensible," dijo el abad. "Si el usuario carece de autorización suficiente, el form está deshabilitado y aparece por lo tento: páliido y flojo."
+
+Banzen acarició su escasa barba. "Por decreto del gobernador, la casa de Concubinos está envuelta en niebla."
+
+Banzen luego invocó la fuente de la página HTML. Estudiándola brevemente, compuso una URL en la barra de dirección y apretó Enter. La información prohibida apareció en pantalla.
+
+La cara del abad superior tomó un tono ceniciento.
+
+Dijo Banzen, "La nieble hace una excelente cortina, pero un muro pobre."

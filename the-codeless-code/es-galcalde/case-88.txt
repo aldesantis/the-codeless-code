@@ -1,0 +1,20 @@
+Number: 88
+Title: El Consejero De Suku
+Lang: es
+Translator: galcalde
+
+El abad superior del [[Spider Clan|Clan de la Araña]] había confiado su más nueva aplicación al monje [[Wangohan]], permitiéndole desarrollarla como deseara. Al fin del primer mes, el maestro [[Suku]] fue llamado para revisar el progreso del monje.
+
+"Has elegido un web framework que nunca había sido usado en el templo," observó Suku. "No puedo decir si lo estás empleando bien o mal, pero tu código se tuerce y retuerce alrededor de la API como una serpiente entre el zarzal."
+
+"He leído muchas críticas alentadoreas de este framework," explicó el monje. "Todas fueron promesas escritas en el viento matutino. Ahora esta serpiente ha perdido su camino."
+
+"Las fosas nasales en la maleza fría; la cola aún caliente al sol," dijo Suku.
+
+Wangohan sacudió su cabeza. "He llegado demasiado lejos para volver atrás. ¿Qué consejo puedes darme para el viaje hacia adelante?"
+
+"Ninguno en este momento," dijo Suku.  "Pero esta medianoche, lleva una linterna y sigue el camino que atravieza el puente de [[Zjing]]. Mandaré a un consejero para que te espere en el otro lado."
+
+Cuando llegó la hora señalada, Wangohan se escabullió de la abadía y empezó a atravesar el largo y oscilante puente que abarcaba el abismo. Había llegado a su punto medio cuando las tablas del extremo opuesto estallaron en llamas. El fuego derrumbó las cuerdas hacia el monje aterrorizado; medio puente ahora estaba en llamas. En la terrible luz, se podía ver a la maestra Suku en el extremo opuesto, apagando su linterna y alejándose.
+
+Retrocediendo del infierno, Wangohan fue iluminado.
