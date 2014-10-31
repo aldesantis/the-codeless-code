@@ -1,0 +1,41 @@
+Number: 89
+Title: Control de Versiones
+Lang: es
+Translator: galcalde
+Illus.0.title: Una katana es básicamente el 'kill -9' para procesos biológicos.
+
+A las 7:07 exactas de la primera mañana clara de la primera semana de primavera, el viejo escriba [[Qi]] se despertó a un llamado de su puerta. Una abadesa esperaba afuera, al lado de dos guardias armados hasta los dientes en batas blancas y negras.
+
+Dijo la abadesa: "Hemos leído su informe sobre [[#88|el incendio del puente de Zjing]], y juzgamos que es una mentira deliberada de principio a fin. Los anales son sacrosantos: por falsificarlos, usted ha renunciado a su propia cabeza."
+
+El escriba respondió: "Lo que fue escrito, era, y es."
+
+Dijo la abadesa: "Sin embargo el puente sigue sin daños, y todas las partes refutan su informe. Como prueba de su obstinado engaño ofrezco estas impresiones de las varias versiones de la página en cuestión, obtenidas de su repositorio."
+
+El escriba no dijo nada.
+
+Dijo la abadesa: "La primera versión contiene sólo el texto de un email. El emisor sugiere que usted escriba un caso en el que un monje terco sea corregido hallándose en medio de un puente impasible."
+
+El escriba asintió y respondió: "Uno punto cero."
+
+Dijo la abadesa: "La siguiente versión ofrece un informe elaborado de la maestra [[Suku]] y el monje Landhwa. Allí, Suku corrige al monje desatando los tablones en su lado del puente, como el email sugiere."
+
+El escriba asintió de nuevo y respondió: "Uno punto uno."
+
+Dijo la abadesa: "Una versión posterior cambia al monje a Wangohan. Aquí, Suku suelta una canasta de cobras entrenadas en el puente culebreando hacia el desafortunado monje. Esta es mi favorita, por su elegante uso de serpientes de punta a cabo."
+
+El escriba asintió y respondió: "Uno punto cuatro."
+
+Dijo la abadesa: "La versión final tiene a la maestra Suku reducienddo el puente a cenizas. Una falsedad de lo más obvia."
+
+El escriba respondió: "Uno punto seis."
+
+Dijo la abadesa: "¿Puedes decir una palabra que me convenza de dejarle conservar su cabeza?"
+
+El escriba no dijo nada, pero tranquilamente se sentó en su escritorio y tomó su teclado. Tras de él, los guardias desenvainaron sus espadas.
+
+- - -
+
+A las 7:07 exactas de la primera mañana clara de la primera semana de primavera, el viejo escriba Qi se despertó al cotorreo de una urraca en el árbol fuera de su ventana. A través de las ramas, los restos fríos y carbonizados del puente de Zjing podían ser vistos.
+
+Dijo el escriba a la urraca: "Uno punto seis punto uno."
