@@ -1,0 +1,32 @@
+Number: 83
+Title: Consecuencias
+Lang: es
+Translator: galcalde
+
+Un monje superior pidió ser admitido en el templo. La abadesa [[Jinyu]] fue llamada para investigar al hombre.
+
+"Yo dictaré un dominio," dijo ella, haciendo un gesto al pizarrón con su bastón. "Tu modelarás una implementación en Java."
+
+El monje se inclin´o y destapó un marcador verde.
+
+"Todos los soldados de la Armada Imperial deben conocer su rango," empez´o la abadesa. "El Emperador puede ordenar a un soldado que pelee hasta morir, y a nadie excepto a un soldado se le puede pedir que haga eso..."
+
+El monje se inclinó y dibujó un rectángulo, inscrito con variables de instancias y métodos como era de costumbre.
+
+"Algunos soldados son arqueros," continuó la abadesa, "cada uno de ellos debe conocer el número de flechas en su posesión. El Emperador puede ordenar a un arquero que dispare a un enemigo distante, y a nadie excepto a un arquero se le puede pedir que haga eso..."
+
+El monje se inclinó y dibujó un segundo rectángulo, unido al primero.
+
+"Algunos soldados son jinetes," continuó la abadesa, "cada uno de ellos debe conocer el caballo al cual fue asignado. El Emperador puede ordenar a un jinete que pisotee a los enemigos en su camino, y a nadie excepto a un jinete se le puede pedir que haga eso...
+
+El monje se inclinó y dibujó un tercer rectángulo, similar al segundo.
+
+"Finalmente," concluyó la abadesa, "Algunos soldados pertenecen a la Lluvia de Fuego Voladora, un cuadro cuyos miembros son tanto arqueros y jinetes en todos los aspectos. El Emperador puede ordenar a su Lluvia Voladora que lidere la carga, y nadie excepto la Lluvia Voladora tiene ese privilegio."
+
+El monje vaciló. Durante un minuto no hizo nada excepto fruncir el ceño ante el pizarrón; todos los presentes podían sentir los feroces cálculos tomando lugar tras de la tranquila cara del monje.
+
+Una monja del templo le susurró a Jinyu: "Este problema tiene varias soluciones, pero me desagradan todas."
+
+"En ello está su valor," susurró la abadesa en respuesta. "Porque todos estamos condenados en esta profesión: nuestros diseños pueden aspirar a la pureza celestial, sin embargo todos los requerimientos nacen en el barro de un chiquero. {{*}} Confío en que este monje pueda tener éxito cuando las estrellas se alineen a su favor, pero cuando no se alinean, ¿Cómo eligirá fracasar? ¿Rindiéndose cobardemente? ¿Victoria costosa? ¿Compromiso erróneo? Porque no es él sólo sino el templo el que debe soportar las consecuencias."
+
+{{*}} En el habla de Jinyu, el "chiquero" suele significar "el mundo fuera de las paredes del templo," o a veces, "el dormitorio de mi hijo más joven."
