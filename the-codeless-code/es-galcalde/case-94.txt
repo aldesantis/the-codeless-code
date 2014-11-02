@@ -1,0 +1,17 @@
+Number: 94
+Title: Convenciones
+Lang: es
+Translator: galcalde
+Illus.0.title: Empieza cada mañana con un pez muerto en tu cabeza. Después de eso, el día sólo puede mejorar.
+
+Cierto monje fue reclutado en el [[Spider Clan|Clan de la Araña]] y asignado para mantener un sistema legado enorme. Después de configurar su ambiente de desarrollo, el monje se horrorizó al descubrir las convenciones de código no estándar usadas a lo largo de la aplicación. Las constantes no estaban en mayúsculas, sino combinadas con una 'k' al principio. Las variables de instancia eran nombradas con un '_fld' al final. La lista seguía.
+
+Sabiendo que era deber de cada monje seguir las mejores prácticas del día -- y sorprendido de que sus compañeros eligieron no hacerlo -- el monje codificó cada uno de los pequeños cambios asignados de acuerdo a los estándares que usaba desde hace tiempo. Todos podían distinguir con una mirada donde introdujo una nueva constante o unas pocas lineas en medio de un método antiguo.
+
+Después de una semana se le acercó el monje principal, quien dijo: la maestra [[Suku]] está muy impresionada por tu trabajo. Ella te ha invitado a una cena con ella y los otros maestros esta noche.
+
+El monje llegó a la habitación de Suku a la hora señalada y nerviosamente se sentó en la larga mesa entre las grandes personas que había allí. Ante cada uno había un plato de arroz con un bacalao crudo sobre atravesándolo. Nadie habló o comió; todos se sentaron en contemplación callada.
+
+Cuando el último invitado se sentó, la maestra Suku dio a la asamblea una sutil inclinación de cabeza. Sin una palabra cada maestro se paró en su pie izquierdo, levantó su pescado, y lo colocó sobre su cabeza.
+
+Todos los ojos estaban ahora sobre el monje, quien se sentó desconcertado ante esta demostración. Dándose cuenta de su ignorancia en los modales en la mesa del templo, rápidamente se paró en su pie izquierdo, levantó su pescado, y lo colocó sobre su cabeza. En aquel instante el monje fue iluminado.
