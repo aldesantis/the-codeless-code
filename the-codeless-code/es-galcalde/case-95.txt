@@ -1,0 +1,39 @@
+Number: 95
+Title: Las Rosas son Rojas
+Lang: es
+Translator: galcalde
+Illus.0.title: Las violetas son #00f, las rosas son #f00.
+
+La Maestra [[Suku]] estaba inspeccionando la base de código del [[Spider Clan|Clan de la Araña]] cuando llamó a un cierto monje a su habitación.
+
+Dijo Suku: "Mostramos avisos con un texto rojo en negritas a través de nuestras varias aplicaciones. ¿Cómo se hace?"
+
+El monje respondió: "En nuestra planilla de estilos compartida he creado una clase CSS para ese propósito específico, llamado <em>textoRojoEnNegritas</em>."
+
+Dijo Suku: "Un nombre muy recordable. Tristemente, el gobernador provincial desea que sus aplicaciones promuevan un estado de tranquilidad. Asegúrese de que los textos de aviso sean renderizados en un violeta pálido en cursiva."
+
+El monje se inclinó y salió.
+
+- - -
+
+Suku luego inspeccionó el trabajo del monje y descubrió que él renombró el estilo a <em>textoVioletaPalidoEnCursivas</em>, cambiando las referencias a el en cientos de JSPs. Ella llamó de nuevo al monje.
+
+Dijo Suku: "El gobernador provincial es un hombre muy particular, y decidió que la visualización de avisos en texto normal de color azul profundo sobre un fondo gris sería infinitamente más relajante. Asegúrese que los cambios sean hechos."
+
+El monje se inclinó y salió.
+
+- - -
+
+Suku luego inspeccionó el trabajo del monje y descubrió que él renombró el estilo a <em>textoNormalAzulProfundoSobreGris</em>, de nuevo haciendo los cambios necesarios por toda la base del código. Ella llamó de nuevo al monje.
+
+Dijo Suku: "El gobernador provincial es un hombre muy caprichoso, y decidió que la visualización de avisos en texto rojo-rosado en cursivas y subrayado sobre un fondo crema incitaría al usuario a la acción correctiva. Asegúrese que los cambios sean hechos."
+
+El monje se inclinó y salió.
+
+- - -
+
+Suku luego inspeccionó el trabajo del monje y descubrió que, esta vez, <em>no</em> cambió el nombre del estilo en sus varios JSPs.  En su lugar sólo la definición solitaria del <em>textoNormalAzulProfundoSobreGris</em> fue cambiada, para que ahora produjera texto rojo-rosado en cursivas y subrayado sobre un fondo crema. Suku suspiró y llamó de nuevo al monje.
+
+Cuando el monje entró a su cuarto Suku dejó volar varios shuriken que sujetaron la bata del sorprendido monje a la puerta de madera. Un cuchillo estuvo peligrosamente cerca de alterarle permanentemente su vida privada.
+
+Suku volvió a su teclado, diciendo: "Considéralo tu <em>textoRojoEnNegritas</em> final."
