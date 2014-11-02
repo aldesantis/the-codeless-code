@@ -1,0 +1,29 @@
+Number: 91
+Title: El alma de la sabiduría
+Lang: es
+Translator: galcalde
+Illus.0.title: Ella está mirando cien lineas de una configuración XML contorsionada, o un script de Perl de una linea.
+
+El orgullo del monje [[Wangohan]] no le dejaría admitir la derrota fácilmente. Por eso, el monje eligió seguir adelante con un [[#88|web framework no familiar]] a pesar de las advertencias de la maestra Suku de lo contrario.
+
+"Ahora tu vergüenza será el doble de grande," se burló el monje [[Landhwa]]. "Una por la ruina que caerá sobre tí, y de nuevo porque la propia maestra te ha avisado de lo contrario."
+
+Wangohan por lo tanto volvió a su cubículo profundamente desalentado. Allí halló pegada a su monitor una pequeña nota amarilla, sin firmar y con una mano no familiar, avisándole de que su código sea revisado por la monja [[Zjing]] antes de resumir sus esfuerzos.
+
+"Un pobre consejo es ese," pensó Wangohan, "porque requiero coraje, y Zjing no puede pararse sobre un taburete por temor a que su miedo a las alturas la domine." Sin embargo la nota no parecía hecha por Landhwa, y como Wangohan no conocía a otro que le tuviera malicia, le envió su dilema a la monja trabajando a distancia.
+
+"No conozco nada de este framework," respondió la monja. "Sin embargo mándame tu código."
+
+Wangohan hizo lo que se le pidió. En menos de un minuto sonó su teléfono.
+
+"Tu framework no está bién," dijo Zjing. "O sino, tu código no está bien."
+
+Esto avergonzó y enfureció al monje. "¿Cómo puedes estar tan segura?" demandó.
+
+"Te lo contaré," dijo la monja.
+
+Zjing empezó la historia de como nació en una provincia distante, la segunda más joven de seis hijas responsables. Su padre, dijo ella, era un modesto creador de ábacos, pobre pero listo y calculador; su madre tenía un puesto en el mercado donde vendía números al azar.  Con vívido detalle Zjing describió sus primeros días de escuela, continuando con la suave textura de los pisos de teca bien vestidos y la punzante pero no desagradable esencia del perro negro callejero que la siguió a casa bajo la lluvia un día.
+
+"¡Basta!" gritó el exasperado Wangohan cuando pasó una hora, porque la narración de la monja no mostraba señal de acercarse a un fin. "¡Esa no es una manera de responder una simple pregunta!"
+
+"¿Cómo puedes estar tan seguro?" preguntó Zjing.
