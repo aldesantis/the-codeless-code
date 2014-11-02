@@ -1,0 +1,26 @@
+Number: 93
+Title: Toma El Camino Fácil
+Lang: es
+Translator: galcalde
+Title-footnote: *
+Illus.0.title: ASPs. Muy peligrosas. Tú primero.
+
+Cierta monja era propensa a molestar al maestro [[Bawan]] por su sabiduría. Un día ella dijo: Di algo sobre los lenguajes de alto nivel y los de bajo nivel.
+
+Bawan respondió: Primero tráeme la mejor botella de huangjiu que se encuentre en la Provincia de los Dos Ríos Turbulentos.
+
+La monja viajó a la provincia y volvió una semana después con una botella de líquido oscuro.
+
+Bawan tomó un sorbo y señaló: este huangjiu es demasiado dulce. Una botella mejor puede ser encontrada en nuestros sótanos, aunque el camino hacia ellos está lleno de trampas. Presta atención a lo que digo...
+
+El maestro luego le dio a la monja un conjunto de instrucciones muy detallado, empezando por que dirección tomar, qué pie poner primero y qué pie segundo; cuantos pasos dar antes de girar a la derecha y cuantos pasos antes de girar a la izquierda; qué manos usar para bajar por la cuerda del pozo, y que tan duro tirar el aro en la segunda estatua de piedra en el tercer nicho antes de atravesar el Cuarto de las Lanzas Venenosas Ingeniosamente Ocultas.
+
+La monja siguió las instrucciones y volvió dentro de una hora, empapada de sudor frío pero portando la botella deseada.
+
+Bawan tomó un sorbo y asintió su aprobación. La monja se inclinó y salió, iluminada.
+
+Aquella tarde, un monje del mismo clan se acercó al maestro Bawan y preguntó: Qué puedes decir sobre los lenguajes de alto nivel y los de bajo nivel?
+
+En voz baja y borrosa, el maestro respondió: No tengo sabiduría para dar ne esta cuestión. Pero tráeme el mejor arroz en la Provincia de los Dos Ríos Turbulentos, y te diré como conseguir una semana de paz y dos botellas de huangjiu gratis.
+
+{{*}} "You Take the High Road" es el título original
