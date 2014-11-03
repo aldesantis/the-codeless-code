@@ -5,6 +5,7 @@ Names: Clan of Iron Bones, Yishi-Shing
 Topics: time, precision, numbers, integers, bits, philosophy
 Geekiness: 3
 Illus.0.title: I recently realized that since I was born before January 1st 1970, I'm older than time() itself.
+Credits: Thanks to Stephen Loftus-Mercer for inspiring the footnote in this case. :-)
 
 The [[Clan of Iron Bones]] had just applied the most recent
 upgrades to the Temple's servers.  After examining some files in
@@ -35,5 +36,8 @@ two-hundred-and-ninety-two billion years, we will receive another patch."
 
 The master was comforted.
 
+
+
+{{*}} It is interesting to note that current physics predicts the <a href="http://en.wikipedia.org/wiki/Heat_death_of_the_universe">heat death of the Universe</a> in no less than 10^100 years, with a subsequent Big Bang arising perhaps in another 10^(10^56) years.  This means that in order to display our uptime in seconds right before rebooting the Universe, we would need time_t to have (3.32e56 + 30) bits.  Since planet Earth only has about 1.33e50 atoms to play with, we'd need about 2.5 million Earths (or roughly one G-type main-sequence star) to build a simple register alone.  Now, where can we get a G-type star?  Hmmmmm...
 
 
