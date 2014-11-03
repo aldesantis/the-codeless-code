@@ -2,7 +2,6 @@ Number: 81
 Title: Bubble Sort
 Lang: es
 Translator: galcalde
-
 Illus.0.title: Los ingredientes primarios de AutoIncrement son cafeína y electricidad. Cuando necesitas calmarte, prueba AutoDecrement: Es básicamente margaritas y metacualona.
 
 Caminando por los pasillos de su abadía de noche, el maestro [[Bawan]] halló a un monje angustiado. Se acercaba una fecha límite de mañana, y después de tres noches en vela el exhausto monje soltó las monedas que le quedaban en la máquina de refrescos sin darse cuenta primero de la señal de papel puesta en ella. La señal decía <span style="white-space:nowrap"><tt>FUERA</tt> <tt>DE</tt> <tt>SERVICIO</tt></span> en mayúsculas rojas y grandes.
