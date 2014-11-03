@@ -9,7 +9,7 @@ El Maestro [[Banzen]] estaba investigando a los monjes del [[Spider Clan|Clan de
 
 El dedo del maestro descansaba sobre un form pequeño donde todo estaba deshabilitado. Sus campos de texto no podían escribirse; sus botones no se podían presionar.
 
-"Ese form entrega información de una naturaleza más sensible," dijo el abad. "Si el usuario carece de autorización suficiente, el form está deshabilitado y aparece por lo tento: páliido y flojo."
+"Ese form entrega información de una naturaleza más sensible," dijo el abad. "Si el usuario carece de autorización suficiente, el form está deshabilitado y aparece por lo tento: pálido y flojo."
 
 Banzen acarició su escasa barba. "Por decreto del gobernador, la casa de Concubinos está envuelta en niebla."
 
@@ -17,4 +17,4 @@ Banzen luego invocó la fuente de la página HTML. Estudiándola brevemente, com
 
 La cara del abad superior tomó un tono ceniciento.
 
-Dijo Banzen, "La nieble hace una excelente cortina, pero un muro pobre."
+Dijo Banzen, "La niebla hace una excelente cortina, pero un muro pobre."
