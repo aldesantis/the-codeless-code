@@ -7,9 +7,9 @@ Un monje superior pidió ser admitido en el templo. La abadesa [[Jinyu]] fue lla
 
 "Yo dictaré un dominio," dijo ella, haciendo un gesto al pizarrón con su bastón. "Tu modelarás una implementación en Java."
 
-El monje se inclin´o y destapó un marcador verde.
+El monje se inclinó y destapó un marcador verde.
 
-"Todos los soldados de la Armada Imperial deben conocer su rango," empez´o la abadesa. "El Emperador puede ordenar a un soldado que pelee hasta morir, y a nadie excepto a un soldado se le puede pedir que haga eso..."
+"Todos los soldados de la Armada Imperial deben conocer su rango," empezó la abadesa. "El Emperador puede ordenar a un soldado que pelee hasta morir, y a nadie excepto a un soldado se le puede pedir que haga eso..."
 
 El monje se inclinó y dibujó un rectángulo, inscrito con variables de instancias y métodos como era de costumbre.
 
