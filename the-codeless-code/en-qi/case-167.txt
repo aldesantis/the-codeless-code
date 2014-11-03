@@ -5,6 +5,7 @@ Names: Banzen, Djishin, Spider Clan
 Topics: abstraction, object-oriented programming, type safety, utilities, servlets, Java
 Geekiness: 3
 Illus.0.src: banzen.jpg
+Illus.0.title: "Master, you'll notice that one of the session keys is called 'buckets', and the value is an array of linked lists.  Now, this part is really going to make you laugh..."
 
 Old master [[Banzen]] had volunteered to mentor the [[Spider Clan]]
 during master Suku's [[#33|travels]], but as the months dragged on
