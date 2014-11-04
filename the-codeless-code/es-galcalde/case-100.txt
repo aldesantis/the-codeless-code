@@ -1,0 +1,17 @@
+Number: 100
+Title: Diez Mil Errores
+Lang: es
+Translator: galcalde
+Illus.0.title: Ahora hay aplicaciónes de ábacos para tablets, en caso de que quieras usar tu procesador de tecnología de punta para hacer cálculos manuales. Yo lo encuentro extrañamente hermoso.
+
+Un aprendiz le preguntó al maestro [[Banzen]]: "¿Qué separa al monje del maestro?"
+
+Banzen respondió: "¡Diez mil errores!"
+
+El aprendiz, sin entender, buscó evitar cualquier error. Un abad observó y llevó al aprendiz a Banzen para corregirlo.
+
+Banzen explicó: "Yo he hecho diez mil errores; [[Suku]] hizo diez mil errores; los patriarcas del código abierto hicieron diez mil errores cada uno."
+
+El aprendiz preguntó: "¿Qué hay del viejo monje que trabaja en el cubículo que está a mi lado? Seguramente ha hecho diez mil errores."
+
+Banzen sacudió su cabeza tristemente. "Diez errores, repetidos mil veces."

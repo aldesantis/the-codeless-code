@@ -1,0 +1,17 @@
+Number: 97
+Title: Inflamable
+Lang: es
+Translator: galcalde
+Illus.0.title: Y esa es la razón de por qué los monjes no tienen pelo.
+
+En el proyecto Java actual del monje [[Landhwa]], los objetos de dominio en la capa de negocios eran bastante similares a sus objetos form de entrada correspondientes en la capa web. Como los nombres de las propiedades a menudo eran los mismos también, el monje se aprovechó del reflejo como una manera fácil de copiar la mayoría de los datos de una capa a otra. El maestro [[Kaimu]] oyó y eligió investigar.
+
+Después de estudiar el código del monje, Kaimu sacó un frasco de bronce de su bata, tomó un sorbo largo, luego llevó una vela de té junto a sus labios y sopló fuerte. Una racha de llama azul salió de su boca por encima del hombro del monje.
+
+"¿Qué está haciendo?" gritó Landhwa, apagando las llamas de su bata con la palma.
+
+"Encendiendo las siete velas en la pared opuesta," dijo Kaimu.
+
+Ambos hombres miraron a través del cuarto las persianas de papel chamuscadas. Kaimu frunció el ceño, levantó su vela de té y caminó cansinamente por el cuarto.
+
+"Le erré a una," explicó.

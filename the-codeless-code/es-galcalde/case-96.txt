@@ -1,0 +1,13 @@
+Number: 96
+Title: Sin Estado
+Lang: es
+Translator: galcalde
+Illus.0.title: Intenta no llamarlo antes de las seis de la mañana.
+
+Es el deber de cada monje llamar al maestro [[Kaimu]] al menos una vez durante su estadía en el templo. Cuando el maestro abre la puerta el monje debe inclinarse y preguntar: "¿Cual es la gran alegría de los servicios sin estado?"
+
+Sin fallar el maestro Kaimu responderá: "Diez mil invitados alimentados por un solo grano de arroz."
+
+El monje debe luego preguntar: "¿Y cual es la gran pena?"
+
+Kaimu responderá: "¿La gran pena de qué?"

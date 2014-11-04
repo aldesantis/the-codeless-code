@@ -1,0 +1,21 @@
+Number: 102
+Title: Paleta
+Lang: es
+Translator: galcalde
+Illus.0.title: Hace un increible arroz... confía en mí.
+
+Aunque rarramente es visto por los aprendices, en ocasiones los maestros se corrigen a si mismos:
+
+Los maestros [[Banzen]] y [[Suku]] estaban planeando el siguiente lanzamiento de un sistema grande y crítico. Juntos habían iterado por la lista de requerimientos, alojando trabajo a varios monjes a su cargo.
+
+"Asigname esta tarea," dijo Banzen en un punto, "porque yo escribí el código original, y es algo complejo y sensible."
+
+Él repitió la frase para un número de otros items. Ese era su habito desde que Suku podía recordar; porque Banzen se esforzaba tan duro como los monjes de la mitad de su edad, y era muy orgulloso de su trabajo.
+
+Suku posteo la lista de asignaciones a la mañana siguiente. Banzen lo miró por casualidad durante el desayuno, y descubrió que las tareas que él eligió para sí mismo fueron asignadas a un puñado de monjes aprendices.
+
+Banzen entrentó a Suku en su mesa.
+
+"Estuviste en este templo por veinte años," se enojó. "¿Cuando dejarás de dar nuestro precioso arroz a cocineros que apenas aprendieron a manejar una paleta?"
+
+Suku colocó tranquilamente sus palillos sobre su tazón. "Lo único que puedo decir es que," respondió. "¿Cuando dejarás de alborotarte por tu pequeña olla de arroz y haces paletas más simples para esos cocineros?"

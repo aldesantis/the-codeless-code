@@ -1,0 +1,27 @@
+Number: 105
+Title: Navegación
+Lang: es
+Translator: galcalde
+Illus.0.title: De hecho, quemó los mapas porque el templo le dio un teléfono con GPS. Pero ya lo entiendes.
+
+Una joven monja se acercó al maestro [[Banzen]] y dijo:
+
+"Cuando se nos presentaron primero los requierimientos he creado un borrador de documento de diseño, como es nuestra manera.
+
+"Cuando el borrador del diseño fue aprobado empecé un documento de diseño detallado, como es nuestra manera. Al hacerlo me di cuenta que mi borrador de diseño estaba mal considerado, y por lo tanto lo descarté.
+
+"Cuando el diseño detallado fue aprobado empecé a escribir código, como es nuestea manera. Al hacerlo me di cuenta que mi diseño detallado estaba mal considerado, y por lo tanto lo descarté.
+
+"Mi pregunta es esta:
+
+"Como debemos refactorizar de acuerdo a la necesidad, y como las necesidades son sólo conocidas cuando la implementación está en progreso, ¿No podemos simplemente escribir código y nada más? ¿Por qué debemos desperdiciar tiempo creando documentos de diseño?"
+
+Banzen lo consideró.  Finalmente asintió, diciendo:
+
+"No hay más virtud en los documentos que un puñado de hojas: puedes seguramente abstenerte de producir alguno de los dos. Antes de que el maestro Mugen atravesara el Páramo sin Compilar hizo ocho mapas buenos de la ruta que planeaba tomar. Sin embargo cuando llegó a las puertas del templo los quemó allí."
+
+La monja tomó su hoja exultante, pero mientras llegaba al umbral Banzen ladró: "¡Monja!"
+
+Cuando la monja se dio vuelta, Banzen dijo:
+
+"Mugen sólo fue capaz de quemar los mapas porque había llegado."

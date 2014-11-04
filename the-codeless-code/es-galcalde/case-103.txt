@@ -1,0 +1,26 @@
+Number: 103
+Title: La Caja De Esmalte Negro
+Lang: es
+Translator: galcalde
+
+El Maestro [[Bawan]] propuso este dilema a los desarrolladores a su cargo:
+
+"Cuando se investigan comportamientos extraños en el ambiente de producción, nuestra arma más poderosa siempre fueron los mensajes de debug: cuanto más numerosos y detallados, mejor. Sin embargo cuando se usan copiosamente, el formateo de dichos mensajes se vuelve caro -- <em>innecesariamente</em> caro, porque excluimos los mensajes de debug de nuestros logs cuando no estamos investigando problemas. ¿Así que cual camino es el mejor? ¿Seguro pero lento, o descuidado pero rápido?"
+
+<i>"Wú,"</i> dijo una de sus monjas. "Todo puede ser logueado, con costo mínimo. Envuelve cada llamada de <em>debug</em> dentro de una declaración <em>if</em> que verifique si el debuggeo está encendido antes de molestarse en formatear el mensaje. Sólo estaremos lentos cuando necesitemos estar seguros."
+
+Bawan lo consideró, y pareció satisfecho. Le ofertó a la monja implementar su enfoque en una aplicación que actualmente se estaba diseñando. Como recompensa extra por su inteligencia le regaló dos cajas de esmalte.
+
+"Abre inmediatamente la caja roja," dijo Bawan, "pero deja la caja negra cerrada. Con el tiempo te servirá."
+
+Dentro de la caja roja la monja descubrió un pequeño tazón lleno de suculentos kiwis, lichis, y peras blancas, descansando sobre una cama de cerezas goji. Estas fueron disfrutadas aquella tarde. Después colocó ambas cajas en un estante alto, y finalmente se olvidó de ellas.
+
+- - -
+
+Dos años después, después de que el sistema pasara por varias mejoras, ocurrió un problema menor de producción -- el primero en muchos lanzamientos. La monja pidió que el sistema se reiniciara en modo debug.
+
+De repente, stack traces de NullPointerExceptions aparecieron en las pantallas de todos los usuarios. El sistema se había vuelto completamente inusable. Mientras la monja se quedó espantada en medio del caos, el maestro Bawan avanzó furtivamente hacia ella y le susurró, "Ahora abre la caja negra."
+
+Cuando la tapa se abrió salió un olor fétido. Dentro había un pequeño tazón lleno de restos enmohecidos y deshidratados de lo que parecía haber sido kiwi, lichi, peras y cerezas goji.
+
+La monja pidió que el modo debug se apagara y cerró la caja, iluminada.
