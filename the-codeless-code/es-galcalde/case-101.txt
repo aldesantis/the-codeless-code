@@ -1,0 +1,21 @@
+Number: 101
+Title: Responsabilidad
+Lang: es
+Translator: galcalde
+Illus.0.title: Cinco pisos bajo piedra sólida, hechos de vigas de roble reforzado de diez centímetros de espesor revestidas de hierro.  Y aún no evita el spam.
+
+Una mañana el templo se halló inundado de llamadas de usuarios en pánico, declarando que habían recibido emails erroneos de un sistema de facturación particular. Los emails alegaban que los pagos estaban un año atrasados, y lamentablemente los usuarios habían perdido la cabeza.
+
+Los abades del templo se juntaron en el patio, debatiendo como hallar mejor la fuente del problema antes de que la base entera de clientes del templo desapareciera en las montañas escapando del hacha del verdugo.
+
+"No hay necesidad," dijo la monja [[Hwídah]] desde el borde del patio. "La verguenza es mía. En nuestro último build de mantenimiento descuidadamente modifique una expresión booleana en el módulo de contabilidad, haciendo que devuelva false cuando la respuesta apropiada era true. Ya he corregido el defecto, y los emails falsos han parado."
+
+Hwídah fue desterrada por dos meses a los calabozos bajo los archivos más profundos del templo, donde a solas inspeccionaría impresiones podridas de viejos scripts en COBOL por defectos posibles.
+
+Después de una semana la monja [[Yíwen]] vino a rellenar la parcela de arroz frío de la prisionera.
+
+"Disculpa mi perplejidad, Hwídah," preguntó Yíwen mientras empujaba una bandeja bajo la puerta de la celda, "pero ¿Por qué admitiste tu culpa después de corregir el error?  Si te hubieras quedado callada la causa hubiera escapado la detección por varios días, para ese entonces el templo habría puesto su atención en cuestiones más urgentes. Tu involucramiento podría quedar desconocido por siempre."
+
+"Dime, Yíwen," dijo la prisionera, "¿Qué caos resutaría si <em>todos</em> los módulos en nuestro sistema ocasionalmente retornaran false cuando la respuesta apropiada era true? Y cuando digo <i>[[#70|sistema]],</i> que imágen se te viene a la mente?"
+
+Hwídah deslizó la bandeja vacía bajo la puerta. "Aquella mañana, cuando el horror de mi error me fue revelado, también se me reveló este conocimiento: todos somos parte del sistema. Es una extensión de nuestros deseos, nuestros esfuerzos, y -- lamentablemente -- nuestros defectos. Si yo dejara que mis compañeros gastaran horas preciosas buscando un defecto que yo corregí secretamente, sólo le habría fallado al sistema por segunda vez."
