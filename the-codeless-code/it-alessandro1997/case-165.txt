@@ -16,7 +16,7 @@ non potevano modificare le proprie informazioni personali o vedere gli ordini in
 sospeso, e ironicamente il collegamento "Contattaci" restituiva una pagina
 /403 Forbidden/. Il caos dominò la mattinata.
 
-Landhwa venne convocata a una conferenza d'emergenza con gli abati del Tempio.
+Landhwa venne convocato a una conferenza d'emergenza con gli abati del Tempio.
 Wangohan si chiese placidamente se avrebbe mai più visto il proprio rivale -- e
 se sì, in quanti pezzi.
 

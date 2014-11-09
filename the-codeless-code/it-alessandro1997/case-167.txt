@@ -1,0 +1,51 @@
+Number: 167
+Title: Ritorno alle basi
+Lang: it
+Translator: alessandro1997
+Illus.0.title: "Maestro, vi sarete accorti che una delle chiavi di sessione si chiama `bucket` e che il valore è un array di liste collegate. Ora, questa è la parte divertente..."
+
+Il vecchio maestro [[Banzen]] si era offerto volontario per fare da mentore al
+[[Spider Clan|Clan del Ragno]] durante i [[#33|viaggi]] della maestra Suku, ma
+col passare dei mesi l'esperienza lo aveva portato sull'orlo di una crisi di
+nervi. In un'applicazione critica, i componenti scritti dai diversi sviluppatori
+in qualche modo andavano in conflitto l'uno con l'altro, portando a strani
+errori in runtime.
+
+Disperato, Banzen si procurò una bottiglia di huangjiu
+[[#93|dal maestro Bawan]], ne ingurgitò metà, e convocò il suo apprendista
+[[Djishin]].
+
+- - -
+
+Una settimana più tardi, Djishin riportò il proprio progresso:
+
+"Il nostro problema è nei contesti /session/ e /request/ della servlet Java,
+dove memorizziamo i dati sullo stato e sul rendering. Questi contesti sono
+HashMap i cui valori sono oggetti Object e le cui chiavi sono oggetti String
+scelti dallo sviluppatore. Poiché ogni sviluppatore ha scelto le proprie chiavi
+senza consultare gli altri, capita talvolta che un componente sovrascriva i
+valori contestuali usati da un altro -- spesso con un oggetto di tipo
+completamente diverso."
+
+"Quale soluzione, dunque?" chiese Banzen, stappando la sua bottiglia.
+
+"Ho creato una classe condivisa ContextUtil con sessanta costanti String, una
+per ogni chiave contestuale usata nell'applicazione" disse Djishin fieramente.
+"E per ogni chiave ho fornito una coppia di metodi di utilità statici fortemente
+tipizzati per /recuperare/ o /impostare/ il valore di quella chiave in un
+determinato contesto."
+
+"Proprio come i metodi di proprietà" osservò Banzen.
+
+"Esattamente!" disse Djishin. "Sto attualmente escogitando una convenzione dei
+namespace per le chiavi in modo che ogni sottosistema possa avere la /propria/
+classe ContextUtil, fornendo costanti e metodi statici addizionali a seconda
+delle necessità."
+
+"Proprio come le sottoclassi" osservò Banzen.
+
+"Esattamente!" disse nuovamente Djishin.
+
+"Eccellente" disse Banzen, svuotando il bicchiere. "Quindi in sette giorni,
+usando solo le semplici costanti e funzioni operanti su una hashtable Java
+generica, avremo inventato... l'Oggetto."

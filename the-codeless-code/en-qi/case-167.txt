@@ -1,0 +1,54 @@
+Date: 2014-11-02
+Number: 167
+Title: Back to Basics
+Names: Banzen, Djishin, Spider Clan
+Topics: abstraction, object-oriented programming, type safety, utilities, servlets, Java
+Geekiness: 3
+Illus.0.src: banzen.jpg
+Illus.0.title: "Master, you'll notice that one of the session keys is called 'buckets', and the value is an array of linked lists.  Now, this part is really going to make you laugh..."
+
+Old master [[Banzen]] had volunteered to mentor the [[Spider Clan]]
+during master Suku's [[#33|travels]], but as the months dragged on
+the experience had worn his nerves quite thin.  In one critical
+application, the components written by different developers were
+somehow stepping on each other, leading to strange runtime errors.
+
+In desperation, Banzen procured a bottle of huangjiu
+[[#93|from master Bawan]],
+downed half of it, and summoned his apprentice [[Djishin]].
+
+- - -
+
+A week later, Djishin reported on his progress:
+
+"Our problem lies with the Java servlet's /session/ and
+/request/ contexts, where we store data for state and
+rendering.  These contexts are HashMaps whose values are
+Objects and whose keys are Strings of the developer's
+choosing.  Since each developer has chosen their keys
+without consulting their peers, one component will sometimes
+overwrite the context values used by another -- often with
+an object of an entirely different type."
+
+"What solution, then?" asked Banzen, uncorking his bottle.
+
+"I have created a shared ContextUtil class with sixty String
+constants, one for every context key used across the
+application," said Djishin proudly.  "And for each key I
+have provided a pair of strongly-typed static utility methods
+to /get/ or /set/ that key's value in a given context."
+
+"Much like property methods," observed Banzen.
+
+"Exactly!" said Djishin.  "I am currently devising a
+namespace convention for keys so that each subsystem may
+have its /own/ ContextUtil class, providing additional
+constants and static methods as needed."
+
+"Much like subclasses," observed Banzen.
+
+"Exactly!" said Djishin again.
+
+"Excellent," said Banzen, draining his cup.  "So in seven
+days, by using only simple constants and functions operating
+on a generic Java hashtable, we have invented... the Object."
