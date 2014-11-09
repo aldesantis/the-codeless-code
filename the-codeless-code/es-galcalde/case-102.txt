@@ -4,11 +4,11 @@ Lang: es
 Translator: galcalde
 Illus.0.title: Hace un increible arroz... confía en mí.
 
-Aunque rarramente es visto por los aprendices, en ocasiones los maestros se corrigen a si mismos:
+Aunque raramente es visto por los aprendices, en ocasiones los maestros se corrigen a si mismos:
 
 Los maestros [[Banzen]] y [[Suku]] estaban planeando el siguiente lanzamiento de un sistema grande y crítico. Juntos habían iterado por la lista de requerimientos, alojando trabajo a varios monjes a su cargo.
 
-"Asigname esta tarea," dijo Banzen en un punto, "porque yo escribí el código original, y es algo complejo y sensible."
+"Asígname esta tarea," dijo Banzen en un punto, "porque yo escribí el código original, y es algo complejo y sensible."
 
 Él repitió la frase para un número de otros items. Ese era su habito desde que Suku podía recordar; porque Banzen se esforzaba tan duro como los monjes de la mitad de su edad, y era muy orgulloso de su trabajo.
 
