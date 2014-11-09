@@ -7,7 +7,7 @@ Cierto monje del [[Spider Clan|Clan de la Araña]] estaba intentando usar una li
 
 El monje arregló un encuentro con el autor, donde amablemente le expresó su frustración.
 
-"Lamentablemente, la faya era suya," respondió el autor con una reverencia. "Si hubiera leído la copiosa documentación que yo proveí, usted hubiera sabido que los adjuntos sólo deberían añadirse <em>después</em> de crear el cuerpo del mensaje. Y aunque el método <em>setMessageText</em> acepta un Object sin tipo, el Object que provea debe ser o un array de Strings, un DomNode, o un BufferedInputReader. También, ha fallado en notar que ciertas direcciones de destino son ignoradas silenciosamente..."
+"Lamentablemente, la falla era suya," respondió el autor con una reverencia. "Si hubiera leído la copiosa documentación que yo proveí, usted hubiera sabido que los adjuntos sólo deberían añadirse <em>después</em> de crear el cuerpo del mensaje. Y aunque el método <em>setMessageText</em> acepta un Object sin tipo, el Object que provea debe ser o un array de Strings, un DomNode, o un BufferedInputReader. También, ha fallado en notar que ciertas direcciones de destino son ignoradas silenciosamente..."
 
 El autor continuó en este modo, mostrando como el monje pudo haber evitado cada obstáculo. Por lo tanto el monje volvió a la abadía del Clan de la Araña, apropiadamente corregido.
 
@@ -15,6 +15,6 @@ La maestra [[Suku]] oyó de esto e invocó al autor.
 
 "He leído su documentación," dijo Suku. "Sin duda es el mismo modelo de meticulosidad, merecedor de emulación. Por favor lleve esta copia impresa al abad, para que los otros aprendan de el."
 
-El autor siguió a Suku por la habitación del abad y empujó la puerta pesada con tododo lo que podía. Cuando la puerta finalmente se abrió el monje saltó aterrorizado hacia atrás, porque más allá había una caida en picada hacia la oscuridad. Su grito sorprendido hizo eco contra los muros de piedra; muy por debajo se podía oír el chapoteo del agua.
+El autor siguió a Suku por la habitación del abad y empujó la puerta pesada con todo lo que podía. Cuando la puerta finalmente se abrió el monje saltó aterrorizado hacia atrás, porque más allá había una caida en picada hacia la oscuridad. Su grito sorprendido hizo eco contra los muros de piedra; muy por debajo se podía oír el chapoteo del agua.
 
 "Hay una escalera a tu izquierda, tan ancha como tu pié," explicó Suku. "Acérquese lentamente alrededor hasta que llegue al lado opuesto del pozo. Allí hallará peldaños de hierro colocados en la pared, que llevan abajo hacia las aguas donde [[#67|los huesos del abad]] lo esperan. Tome nota: la escalera está resbaladiza por la humedad, cada tercer piedra está colocada unos pocos centímetros más alta, cada quinta está colocada unos centímetros más baja, y cada séptima está faltante. Pero si lo tiene todo en cuenta, el camino es bastante derecho."

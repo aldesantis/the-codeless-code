@@ -1,0 +1,25 @@
+Number: 106
+Title: El "Yo" En El Equipo
+Lang: es
+Translator: galcalde
+Illus.0.title: Todos en el templo viven con temor del día en que necesite una silla de ruedas en vez de un bastón. Ser golpeado por una silla de ruedas duele MUCHO.
+
+Cierto monje era conocido en todo el templo por su humildad. Cuando discutía fallas en el software de su clan siempre tomaba responsabilidad personal, sin embargo cuando recibía alabanzas por características maravillosas hechas por él sólo, siempre le daba crédito al equipo entero. Finalmente la palabra del monje llegó a la vieja [[Jinyu]], Abadesa de Todos los Clanes y asuntos de Interés.
+
+"Así que," ella le dijo a su abad superior, "¿Este monje dice <i>he fallado</i> tras la derrota de los otros, y <i>hemos vencido</i> tras sus propias victorias?"
+
+"Así dicen en todo el templo," dijo el abad.
+
+"Tráiganmelo," ordenó Jinyu.
+
+Cuando eso fue hecho, Jinyu sorprendió a todos los presentes golpeando al monje con su bastón y sentenciarlo a treinta días de trabajo duro en las minas de datos. Después de que el monje pasmado fuese llevado el abad nerviosamente se acercó a Jinyu para preguntarle la razón.
+
+Jinyu golpeó al abad. "¡Idiota! Considera el algoritmo del monje. Cuando dice <i>he fallado</i>, ¿cual es la verdad más probable?"
+
+"Que los otros fallaron," dijo el abad, encogiéndose.
+
+Jinyu lo golpeó de nuevo. "Y cuando el monje dice <i>hemos vencido</i>, cual es el significado más verosímil?"
+
+"Que la victoria fue sólo suya," dijo el abad, doblándose de dolor.
+
+La vieja sacerdotisa giró su bastón encima suyo, tan rápido que el propio aire gimoteaba de angustia, hasta que con un trueno lo golpeó fuerte contra el piso en frente del aterrorizado abad. "Lo único loable de este monje fanfarrón es que ha amaestrado el arte de el mapeo uno a uno.  Mientras, ¿Qué haré con el resto de ustedes idiotas? Fueron engañados por una simple cifra de sustitución <i>que sus cerebros ya habían decodificado</i>."

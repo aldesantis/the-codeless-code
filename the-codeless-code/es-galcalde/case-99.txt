@@ -8,7 +8,7 @@ Hallando todas las demás formas de comunicación insuficientes, el monje [[Wang
 
 Zjing dejó que el monje corriera por las distintas pantallas que implementó, amablemente sorbiendo su té en silencio. Cuando surgió un momento apropiado, ella pidió el teclado y rápidamente ingresó caracteres al azar en un campo de form donde se esperaba una fecha. Los caracteres fueron aceptados sin quejas.
 
-Zjing envió el form. La fecha ilegal fue ignorada y no apareción ningún mensaje de validación.
+Zjing envió el form. La fecha ilegal fue ignorada y no apareció ningún mensaje de validación.
 
 Zjing luego editó los parámetros de la URL para que referenciara a un registro perteneciente a otro usuario, uno que debía ser prohibido para ella. El registro fue mostrado.
 

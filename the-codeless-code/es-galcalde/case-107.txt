@@ -1,0 +1,36 @@
+Number: 107
+Title: Babel
+Lang: es
+Translator: galcalde
+
+Un extranjero delgado y embarrado llegó al templo una noche y preguntó por el maestro [[Kaimu]]. El maestro fue despertado y traído a la puerta, donde el extranjero dijo:
+
+"Durante años he deambulado por esta tierra despiadada, buscando el lenguaje de programación perfecto. Nómbrame cualquiera y lo he probado, sea rápido o lento, de alto o bajo nivel, de Ada a Zeno. Pero cuales sean las ventajas hay también desventajas, así que empaqué mis cosas y me puse en marcha otra vez -- y en este caso me llevó a su puerta."
+
+Kaimu le pidió al extranjero que describa el lenguaje del deseo de su corazón.
+
+"Debe ser apropiado a nivel empresarial," respondió el extranjero, "del lado del cliente y del servidor, en el scripting, los shells y las celdas de hojas de cálculo. Lo necesito en tiempo real, multi-hilo y opcionalmente orientado a objetos; con garbage collection, detección de deadlocks, excepciones personalizadas, arreglos auto-redimensionables de cosas y expresiones regulares para comparar strings. Quiero la simplicidad de BASIC, la pureza de Smalltalk, la brevedad de Haskell, la velocidad de C, la consistencia de Lisp, la legibilidad de Python, la flexibilidad de Perl, y la portabilidad de... Java, creo, pero con bindings de código nativo que no sean un desastre."
+
+"Entonces mañana de mañana le asistiremos lo mejor que podamos," dijo Kaimu. "Pero esta noche debe pasarla en la caseta del carpintero bajo el muro sur."
+
+El extranjero se inclinó y se fue a hacer su cama entre aserrín y virutas. Mientras Kaimu se volvía a su propio cuarto un monje le preguntó, "¿Cual es su diseño para él?"
+
+"Cuando amanezca," respondió el maestro, "nuestro invitado verá que en las paredes de la caseta hay diez mil herramientas ordenadas, cada una creada para servir un único propósito. Nadie confundiría un martillo con un cincel, y ningún carpintero de verdad renunciaría a uno por el otro."
+
+- - -
+
+Con la primera luz del sol el extranjero volvió a la puerta del templo, para ser saludado de nuevo por Kaimu y el monje. "¿Sigue buscando el deseo de su corazón?" preguntó Kaimu.
+
+"¡No!" respondió el extranjero. "Porque en la caseta hallé una daga de lo más maravillosa, no más grande que mi mano, cuyo mango se abrió para revelarme las cosas más asombrosas: ¡Pinzitas y escarbadientes, alicates y taladros, llaves inglesas y barrenas y reglas y cuchillas pequeñas tan numerosas para contar! Al tenerla entendí que mi destino es fabricar lo que deseaba -- ¡Un lenguaje hecho de otros lenguajes, una herramienta para acabar la necesidad de otras herramientas!"
+
+Y con eso el extranjero se inclinó y se fue.
+
+El monje miró a Kaimu, cuya mandíbula se había quedado algo blanda. "¿Que dicen los anales sobre la cuestión de la Lección Mal Entendida?"
+
+"Que también trae sabiduría," dijo el maestro, "pero sólo al maestro desafortunado. Sin duda hubiera sido el doble de efectivo si hubiese sido la mitad de inteligente."
+
+"¿Y qué hay del extranjero?" preguntó el monje. "Seguro fracasará en su intento, porque ese cuchillo que aprecia no contiene ni un martillo ni un cincel. Y si fuera un éxito parcial sería aún peor, porque habrá añadido otro lenguaje a un mundo que ya se ahoga en confusión."
+
+"¡Déjalo intentar, y que tenga buena suerte!" dijo Kaimu. "Si no fuese por los tontos de su creación, no tendríamos Perl o Python, Bourne shell o Tcl, y el mundo sería un lugar más pobre. Sólo me apena que tu y yo no somos esos tontos, porque nunca intentaremos lo imposible, jamás podremos alcanzarlo."
+
+Así maestro y monje abandonaron la puerta, y volvieron al templo juntos a saludar a la mañana.

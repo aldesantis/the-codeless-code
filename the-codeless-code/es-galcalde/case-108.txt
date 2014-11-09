@@ -1,0 +1,35 @@
+Number: 108
+Title: Goloso
+Lang: es
+Translator: galcalde
+Illus.0.title: Necesito una forma de insertar íconos grandes y fluorescentes de 'Mr. Yuk' en el código fuente.
+
+Al monje [[Djishin]] se le asignó crear una página web para consultar la tabla de bolsas de arroz del inventario del sistema. Tristemente contemplando la aburrida tarea del día ante él, el monje tuvo una inspiración repentina:
+
+<i>Debo producir un objeto de capa de presentación que contenga los parámetros del form de búsqueda,</i> pensó, <i>y también un objeto de capa de servicio para representar cada fila devuelta por la búsqueda. Sin embargo ambos tendrían los mismos atributos que el objeto BolsaDeArroz que usamos actualmente para crear nuevas filas en la tabla. ¿No puedo simplemente reutilizar ese objeto de capa de datos para esos dos propósitos?</i>
+
+Con ánimo creciente, pensó: <i>Si un objeto de base de datos fuese apropiadamente anotado, podría desarrollar una plataforma que obtendría la entrada del form, la valide, la convierta en SQL, consulte la tabla, y presente los resultados de la búsqueda al usuario en formato tabular... ¡Todo requiriendo el esfuerzo más mínimo de parte del consumidor de la plataforma!</i>
+
+El monje por lo tanto pasó los siguientes días codificando felizmente la plataforma, con la página de búsqueda <em>BolsaDeArroz</em> como su prueba de concepto.
+
+- - -
+
+Al final de la semana Djishin enseñó orgullosamente los frutos de su labor al maestro [[Banzen]]. El maestro estudió la nueva plataforma, asintió, y ordenó a Djishin que convierta siete páginas de búsqueda existentes en la aplicación para que la use, empezando por la página de Guerreros.
+
+Después de que el monje se fue corriendo, una monja que estaba cerca se acercó a Banzen.
+
+"Maestro," preguntó la monja, "El objeto Guerrero sólo tiene un valor Estado. Si la consulta del usuario es representada por un único Guerrero, ¿Cómo podríamos consultar los guerreros cuyo estado es Perdido, Retirado, o Muerto?"
+
+"No podríamos," dijo Banzen.
+
+"Aún más," continuó la monja, "El objeto Guerrero sólo contiene información almacenada en la tabla Guerrero. ¿Cómo podríamos hallar guerreros por los tipos de armas que usan, o por los regimientos en que sirvieron, porque esto requiere unir tablas hijas?"
+
+"No podríamos," dijo Banzen.
+
+El maestro tomó una pepita negra del jarrón que tenía en su escritorio, dándoselo a la monja confundida. "Hubo una vez un monje que se cansó del arroz. Un día se topó con el arte de hacer <i>kuro sato</i> -- caramelos de azucar negro. Durante años mordisqueo pieza tras pieza todo el día, volviéndose gradualmente gordo, pálido y sin dientes. ¿Cual fue el error de su maestro?"
+
+"No prohibirle el dulce," dijo la monja.
+
+Banzen agitó su cabeza y empujó el pesado jarrón a través del escritorio.
+
+"Acábalo para mañana de tarde," ordenó Banzen. "Entonces entenderás la corrección de Djishin."
