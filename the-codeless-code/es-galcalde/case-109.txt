@@ -1,0 +1,29 @@
+Number: 109
+Title: Los Lazos Que Atan 
+Lang: es
+Translator: galcalde
+Illus.0.title: No debió haberse tomado esas tres latas de Coca Cola Light hace una hora.
+
+El monje [[Djishin]] se acercó al maestro [[Banzen]], preocupado.
+
+"[[#108|La plataforma de búsqueda que escribí]] es actualmente incapaz de manejar las tareas asignadas a mí," dijo el monje. "Pero aún creo que tiene una gran virtud. ¿Me permitirías desarrollarlo más para que esos obstáculos puedan ser superados?"
+
+"¿Cual es la gran virtud de tu plataforma?" preguntó Banzen distraidamente mientras miraba por la ventana.
+
+El monje respondió, "¡Si el Value Object de una tabla de la base de datos es anotada apropiadamente, un form de búsqueda entero para esa tabla puede ser creado con poco o nada de código!"
+
+"Es cierto que la autoría del código es una carga del templo," dijo Banzen, sus ojos siguieron a un pinzón de cabeza negra mientras volaba adelante y atrás. "Si no estuviésemos tan ocupados escribiendo código, tendríamos mucho más tiempo... para escribir código."
+
+"El código que eliminaría es sólo del tipo tedioso," dijo Djishin. "Considera ese pinzón: ¡Qué tan alto volaría si no tuviera que cazar insectos en el barro!"
+
+El maestro se dio vuelta y miró al monje.
+
+"Tu plataforma es apta sólo para problemas simples. Falla cuando se le presenta la menor de las complejidades -- aquellas en las que una implementación tradicional podría superar fácilmente. ¿Cómo remediarás esto?"
+
+"Dándole a mi plataforma muchas opciones de configuración y la posibilidad de personalización," dijo al monje.
+
+"Ve entonces," dijo Banzen bruscamente, despidiendo al monje con un saludo.
+
+Después que el monje se fuera, Banzen invocó a la monja [[Satou]]. Se acercó nerviosamente al escritorio del maestro, alejándose del [[#108|jarrón]] encima.
+
+"Cuando el monje vuelva a su cubículo," dijo Banzen, "Encadénele sus pies al escritorio y déjelo allí por un día. Si mañana se queja, libere sus pies y encadénele sus manos al escritorio, diciéndole que ahora puede correr tan rápido como pueda."
