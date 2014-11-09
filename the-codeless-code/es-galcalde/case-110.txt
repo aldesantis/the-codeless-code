@@ -1,0 +1,62 @@
+Number: 110
+Title: El baul
+Lang: es
+Translator: galcalde
+
+Cierto monje fue invocado ante la presencia del maestro [[Bawan]]:
+
+"Este baul contiene algo que debe ser traído al [[Spider Clan|Clan de la Araña]]," dijo Bawan, señalando una caja grande de madera atada con correas de hierro. "Llévaselo al abad sin ayuda y te recompensará por tus dolores. Una carta de explicación está metida bajo el pestillo."
+
+Con mucha dificultad el monje subió el baul sobre su espalda y atravesó los terrenos del templo hacia el domicilio de los desarrolladores web del templo. Allí fue recibido por el abad, quien leyó detenidamente la carta mientras el monje exhausto esperaba su recompensa.
+
+"Este baul no es de mi preocupación," dijo el abad, metiendo la carta en su lugar. "Debe ser traído a la abadesa del [[Laughing Monkey Clan|Clan del Mono que Ríe]]. Llévalo allí sin ayuda y tu compensación será muy envidiable."
+
+El monje hizo lo que se le pidió, jadeando a cada paso mientras atravesaba los terrenos del templo hacia el domicilio de los de la lógica de negocios. La abadesa residía en el piso más alto.
+
+"Este baul no tiene nada que ver conmigo," dijo la abadesa, quien rechazó que el monje bajara su carga. "Debe ser traída al [[Elephant's Footprint Clan|Clan de la Huella del Elefante]] de una vez."
+
+"Creo que veo por donde va la cosa," gesticuló el monje. "¿Quizás uno de sus monjes puede llevarla?"
+
+"¡No hay tiempo, no hay tiempo!" dijo la abadesa, metiendo la carta bajo el pestillo de nuevo mientras echaba al monje por la puerta.  "¡Llévalo allí sin ayuda y grandes riquezas te esperarán!"
+
+Una hora después el monje se tambaleó ante el domicilio de los codificadores de la capa de persistencia del templo, colapsando en el pasillo principal con el baul aún sobre su espalda. El abad de pelo blanco fue invocado.
+
+"¡Maravilloso!" dijo el viejo abad después de leer la carta. El monje semi-consciente lo oyó abrir la tapa y cerrarla de nuevo. "¡Monje, despierta! Como recompensa por tu servicio puedes quedarte con todo lo que hay en el baul. ¡Ahora sal!"
+
+Este monje se arrastró lentamente por la puerta, como una tortuga trabajando bajo un cascarón grande de madera. Era de noche cuando llegó a su cuarto y volcó el baul de su espalda. Se abrió la tapa y se desparramaron cien cajas de hierro.
+
+Las abrió una a una. Todas estaban vacías.
+
+Nada quedaba en el baul excepto la carta de Bawan, que el viejo abad había puesto adentro. El monje la desplegó y la leyo:
+
+       Para los abades de los Tres Clanes --
+
+       Al examinar los problemas de performance en nuestro
+       sistema de carrito de compras, descubrí que cientos
+       de acciones en la capa web estaban cargando el grande
+       y complejo arbol de objetos InformacionCatalogo de 
+       la base de datos.
+
+       Al examinar la capa web, descubrí que esas
+       acciones simplemente pasaban el InformacionCatalogo
+       sin examinar en los dieciseis métodos de capa de servicio 
+       que por casualidad lo requieren.
+
+       Al examinar la capa de servicios, descubrí que
+       esos métodos simplemente pasaban el InformacionCatalogo
+       sin examinar en cuatro métodos de capa de persistencia 
+       que por casualidad lo requieren.
+
+       Al examinar la capa de persistencia, descubrí que
+       esos métodos simplemente pasaban el InformacionCatalogo
+       sin examinar en el único método de capa de utilidad 
+       que por casualidad lo requiere.
+
+       Al examinar ese método solo, descubrí que
+       no hace nada excepto chequear la propiedad entera 
+       Tipo del InformacionCatalogo para asegurarse
+       de que no sea negativa. También descubrí que este
+       método fue escrito por el joven que carga mi baul.
+
+       Por favor asegúrense que el reciba mi explicación
+       de manera apropiada.
