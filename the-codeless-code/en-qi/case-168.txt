@@ -1,0 +1,98 @@
+Number: 168
+Title: Horizonal, Vertical
+Geekiness: 2
+Names: Suku, Yaqqana
+Topics: encapsulation, coupling, cohesion, process, architecture, layered architecture, compromise, APIs, craftsmanship, dependencies, components, consistency, maintainability, full-stack developers
+
+
+<i>When their respective apprentices had retired for the night, //
+masters [[Suku]] and Yaqqana spoke beside the fire-pit //
+in Yaqqana's little monastery.</i>
+
+- - -
+
+/Yaqqana said:/ Let us compare the ways of our temples, //
+to see what we may learn from one another.
+
+/Suku replied:/ That is agreeable.
+
+//
+
+/Yaqqana said:/ Our systems are built of many components, //
+each layered like the earth itself: //
+persistence is the stony foundation, //
+business logic the fertile soil, //
+presentation the fragrant blossoms //
+delighting the world-wide sky.
+
+/Suku replied:/ We do likewise.
+
+//
+
+/Yaqqana said:/ Our designs are guided by three principles: //
+loose coupling between components, //
+strong cohesion within them, //
+and encapsulation always where developer meets developer.
+
+/Suku replied:/ We think likewise.
+
+//
+
+/Yaqqana said:/ Our means to this end is self-evident: //
+each monk is assigned one component at a time, //
+coding its layers as he sees fit.
+
+/Suku replied:/ Here you and I part ways -- for in our temple, //
+each monk is assigned one layer at a time, //
+yet codes across many different components.
+
+//
+
+/Yaqqana said:/ Our way's virtues are readily seen: //
+Each component is consistent throughout, //
+yet a black box to its neighbors left and right.
+
+/Suku replied:/ Our way's virtues are likewise apparent: //
+Each layer is consistent throughout, //
+yet a black box to its neighbors above and below.
+
+//
+
+/Yaqqana said:/ Your way would kill us by stagnation -- //
+for so many must speak before code is written.
+
+/Suku replied:/ Your way would doom us by chaos -- //
+for so much may be coded before anyone speaks.
+
+//
+
+/Yaqqana said:/ When our temple was built, //
+it was on foundations of respect, //
+and mutual reliance, //
+and creativity, //
+and independence. //
+We trust even our middling monks to deliver code of quality, //
+and this I would not change for anything.
+
+/Suku replied:/ Nor would I ask you to. //
+Your temple is not our temple; your needs are not our needs. //
+Therefore let us agree upon one thing more, //
+which is to part amicably.
+
+//
+
+<i>Thus did the two embrace in friendship, //
+and wish each other pleasant dreams.</i>
+
+- - -
+
+<i>But when Yaqqana had retired, and Suku was alone, //
+she whispered to the dying fire:</i>
+
+When your temple was built, //
+did masons cut the foundation stones? //
+and did carpenters hew the beams? //
+and did plumbers lay the pipes? //
+and did roofers set the tiles? //
+Or did a hundred middling laborers choose one room each, //
+and build it entire from earth to sky?
