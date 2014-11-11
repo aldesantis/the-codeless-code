@@ -3,6 +3,8 @@ Title: Horizonal, Vertical
 Geekiness: 2
 Names: Suku, Yaqqana
 Topics: encapsulation, coupling, cohesion, process, architecture, layered architecture, compromise, APIs, craftsmanship, dependencies, components, consistency, maintainability, full-stack developers
+Illus.0.src: Suku.jpg
+Illus.0.title: The more I try to be a full-stack developer in a rapidly changing enterprise setting, the more terrified I am of my own ignorance.  I'd rather do five things well than ten things poorly.
 
 
 <i>When their respective apprentices had retired for the night, //
