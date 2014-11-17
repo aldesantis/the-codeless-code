@@ -1,0 +1,45 @@
+Date: 2014-11-16
+Number: 169
+Title: Best Practices
+Names: Qi
+Topics: standards, best practices, documentation
+Geekiness: 1
+Illus.0.src: books.jpg
+Illus.0.title: I'll just stick that "Standards and Practices" book right here, between "The Plumber's Encyclopedia of Pipe Fittings" and "1001 Gum Diseases (Color Illustrated)".
+
+The old scribe [[Qi]] was summoned to a meeting with two senior
+abbots.
+
+The first abbot said, "Developers are ignoring our many
+Standards and Practices documents.  We have checked the
+files in to a project in the source repository; no one
+downloads it.  We have made PDF links available on a special
+web page; no one visits it.  We have painstakingly copied
+the content into a wiki; no one browses it."
+
+The second abbot said, "We are now considering /printing out/
+the entire set, and binding it as a book.  We would
+place one copy on each developer's desk.  What is your
+opinion?"
+
+"Bind them in white paper," said the scribe.  "When a year
+has passed, the thick dust will not show as readily."
+
+"We wish developers to /use/ them," said the first abbot.
+
+"Ah!" said the scribe.  "Then bind them in red paper, for
+when the nights grow cold they will burn more cheerily."
+
+"We wish developers to /read/ them," said the second abbot.
+
+"Then let me know how you achieve this!" said the scribe.
+"For I have never found a way to make anyone read anything
+against their will."
+
+"Why do you play the fool instead of helping?!" shouted
+the first abbot.
+
+/"Wú,"/, said the scribe.  "You brought in wild dogs who
+have ruined three sofas, and now you're asking me what color
+the fourth should be.  I keep telling you: it is not the
+furniture that needs to be changed."

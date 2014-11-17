@@ -1,3 +1,4 @@
+Date: 2014-11-09
 Number: 168
 Title: Horizonal, Vertical
 Geekiness: 2
