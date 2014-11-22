@@ -1,0 +1,36 @@
+Number: 169
+Title: Migliori pratiche
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Infilerò questo libro "Standard e pratiche" proprio qui, tra "L'enciclopedia idraulica dell'installazione di tubi" e "1001 malattie delle gengive (illustrato a colori)".
+
+Il vecchio scriba [[Qi]] fu convocato a un incontro con due abati anziani.
+
+Il primo abate disse: "Gli sviluppatori stanno ignorando i nostri molti
+documenti di Standard e Pratiche. Abbiamo caricato i file in un progetto nel
+repository dei sorgenti; nessuno lo scarica. Abbiamo reso i link PDF disponibili
+in un'apposita pagina web; nessuno la visita. Abbiamo faticosamente copiato il
+contenuto in una wiki; nessuno la consulta."
+
+Il secondo abate disse: "Stiamo ora considerando l'idea di /stampare/ l'intera
+collezione e rilegarla come un libro. Ne metteremmo una copia sulla scrivania di
+ciascuno sviluppatore. Qual è la tua opinione?"
+
+"Rilegatele in carta bianca" disse lo scriba. "Quando sarà passato un anno, la
+spessa polvere non sarà così visibile."
+
+"Vogliamo che gli sviluppatori le /usino/" disse il primo abate.
+
+"Ah!" disse lo scriba. "Allora rilegatele in carta rossa: così, quando le notti
+si faranno fredde, bruceranno più allegramente."
+
+"Vogliamo che gli sviluppatori le /leggano/" disse il secondo abate.
+
+"Allora fatemi sapere come farete!" disse lo scriba. "Perché non ho mai trovato
+un modo per far leggere qualcosa a qualcuno contro la sua volontà."
+
+"Perché scherzi invece di aiutarci?!" urlò il primo abate.
+
+/"Wù,"/, disse lo scriba. "Avete lasciato entrare dei cani selvatici che hanno
+rovinato tre divani, e ora mi state chiedendo di che colore dovrebbe essere il
+quarto. Io continuo a dirvi: non è l'arredamento che dev'essere cambiato."
