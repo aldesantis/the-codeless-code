@@ -1,0 +1,25 @@
+Number: 112
+Title: Háblame
+Lang: es
+Translator: galcalde
+Illus.0.title: Lo bueno, es que rinde tres madejas por kilómetro y siempre puede hallar el camino de vuelta a casa.
+
+La tímida monja [[Yíwen]] abrió varios archivos de fuentes que había escrito hace apenas un año, sólo para encontrar código irreconocible. Después de inspeccionar su historial de revisión se acercó al cubículo de su compañera de largo tiempo.
+
+"Mil perdones, [[Hwídah]]," ella comenzó, "pero parece que has reescrito completamente mi servicio de administración de direcciones. ¿Por qué lo encontró necesario?"
+
+"El código era inusualmente complejo y nada intuitivo," respondió amablemente Hwídah. "Creaste más interfaces de las necesarias, anidaste value objects dentro de otros value objects, definiste clases abstractas que sólo contienen una implementación concreta, e hiciste actualizaciones de la base de datos en dos transacciones separadas donde en una hubiera sido suficiente. He simplificado la estructura."
+
+Yíwen se inclinó humildemente, dio las gracias, y se alejó.
+
+- - -
+
+A la mañana siguiente Hwídah se acercó al cubículo de su compañera de largo tiempo, llevando un hermoso artilugio de metal. Lo soltó fuertemente sobre el escritorio de Yíwen.
+
+"Encontré esto esperándome cuando me levanté esta mañana," dijo Hwídah. "Explícate."
+
+"Tu vieja bicicleta era inusualmente compleja y nada intuitiva -- ¿no estás de acuerdo?" preguntó Yíwen. "Utilizabas más engranajes que los necesarios, colocabas la canasta de fibre en una ubicación pobre, acolchabas los pedales pero no los manubrios, y utilizabas dos volantes donde uno hubiera bastado. He simplificado la mecánica."
+
+Hwídah se inclinó humildemente, dio las gracias, y se alejó.
+
+Ella luego se fue hacia el maestro [[Yishi-Shing]], diciendo, "Lamentablemente, no estaré dispuesta a participar en sus bicicleteadas semanales por un largo tiempo."
