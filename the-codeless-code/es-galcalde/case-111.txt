@@ -1,0 +1,25 @@
+Number: 111
+Title: Laberinto
+Lang: es
+Translator: galcalde
+Illus.0.title: Si rompes el build, hay tabla. Si te tragas excepciones, hay tabla. Si te robas mi tabla, hay paliza.
+
+Sobre como la maestra [[Suku]] recibió su nombre, esto puede contarse:
+
+Hace muchos años, cuando Suku aún era una aprendiz en el Templo, fue asignada para revisar el código de un monje en su clan. Deseando impresionar a los maestros en audiencia, la aprendiz no tuvo misericordia en sus críticas al monje. La principal entre sus quejas fue la inelegancia de su solución y su estructura enormemente compleja.
+
+Después de que la reunión acabara, el maestro [[Banzen]] -- que era dos décadas mayor que ella -- la siguió fuera del cuarto de reuniones y por las escaleras de piedra. Al fondo dijo, “¡Monja! ¿Conoces el camino hacia la Abadía de los Huesos de Hierro?”
+
+Suku señaló. “Derecho atrevesando el patio.”
+
+Banzen dijo, “Camínalo, entonces.”
+
+Apenas Suku dio tres pasos cuando el maestro le golpeó en su costado izquierdo con una paleta grande de arroz, <em>thwock!</em> mandándola tambaleante hacia un ciruelo. Aunque sorprendida, la aprendiz sabía que era mejor no preguntar o quejarse. En vez se limpió el polvo y continuó hacia la abadía, sólo para encontrar a dos jardineros bloqueando el camino. Ella pasó a sus costados y <em>thwock!</em> la paleta vino sobre su cabeza. Ahora mareada, se salpicó en un estanque de kois, se tropezó con un santuario, y luego con la raíz de un árbol, y <em>thwock!</em> ahora su costado derecho conoce la paleta de Banzen y se encontró tumbada entre las peonías.
+
+Finalmente la monja lastimada y jadeante llegó a las escaleras de la Abadía de los Huesos de Hierro, con Banzen en sus talones.
+
+<i>“Derecho atrevesando el patio,”</i> repitió Banzen. “Diseño.”
+
+El maestro tomó a Suku amablemente de los hombros y la dio vuelta para ver el camino retorcido que caminó en el polvo. “Implementación,” dijo Banzen.
+
+Mientras la aprendiz lo consideraba, Banzen le dio la paleta y dijo, “El Mundo.”
