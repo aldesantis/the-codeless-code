@@ -1,0 +1,25 @@
+Number: 113
+Title: Oveja Negra
+Lang: es
+Translator: galcalde
+Illus.0.title: Oveja: No puede generar hijo: RAM insuficiente.
+
+Un monje superior del [[Laughing Monkey Clan|Clan del Mono que Ríe]], exasperado por la pobre calidad del código de su equipo, se le aconsejó buscar el consejo de la monja [[Zjing]] quien vivía en el valle abajo. El la halló cuidando de las ovejas del templo en las altas pasturas.
+
+"¿Qué has intentado?" preguntó la monja.
+
+"He dejado copias de nuestros Estándares y Prácticas en cada cubículo," dijo el monje. "Cada mañana envío enlaces a artículos de ingeniería de software pertinentes, y cada tarde reviso el código del día. Aún no cambia nada. Cada monje comete los mismos errores que hizo el día anterior, y la base del código crece cada vez más fea."
+
+Zjing se apoyó en su bastón y miró distraídamente hacia la distancia.
+
+Finalmente ella dijo: "El pastor no puede mover al rebaño; sólo la oveja puede hacerlo."
+
+El monje superior frunció el ceño. "No entiendo."
+
+Zjing levantó una piedra pequeña y se la arrojó al carnero de cara negra que estaba al límite del rebaño. La piedra golpeo la oreja del carnero, con lo cual el animal baló y trotó lejos. Sus vecinos lo siguieron inmediatamente, luego otros vecinos, y así, hasta que toda la manada lanuda fluyó como espuma por la ladera. Zjing caminó con ellos.
+
+El monje superior cruzó sus brazos y se quedó en la cumbre, sin convencerse. "Aunque pueda corregir a un monje, ¿Por qué el clan debe seguirlo a él si no me siguen a mí?"
+
+<em>"Wú,"</em> dijo Zjing, tirándole una piedra a su compañero. "No son a los monjes a quienes debes arrear, sino al código. Una parte camina a paso largo con un propósito, pero la mayoría sigue lo que vino antes. El IDE de un monje genera un pobre esqueleto de métodos, un segundo monje copia el método terminado a través de la clase, un tercero guarda la clase bajo un nombre diferente para sus propios propósitos..."
+
+La monja llegó hacia el carnero de cara negra y acarició su oreja sangrienta. "Tu base de código es la oveja errante," dijo al monje superior. "Corrígela, y la pereza de tus monjes será una gran virtud."
