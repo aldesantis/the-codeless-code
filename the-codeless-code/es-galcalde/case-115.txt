@@ -1,0 +1,23 @@
+Number: 115
+Title: Dolor
+Lang: es
+Translator: galcalde
+Illus.0.title: No sé por qué alguien querría elegir voluntariamente ser un pedazo de amor ardiente.
+
+Reportes de datos corruptos llegaron a los oídos del maestro Java [[Banzen]]. Después de revisar la base del código invocó a cierto monje a su oficina.
+
+"Tomas grandes esfuerzos para evitar objetos de valor nulo," dijo el maestro. "Inicializas todos los strings como vacíos, y conviertes los nulos en vacíos cuando configuras propiedades de tipo String. Aún más, almacenas las propiedades de tus Data Transfer Objects en primitivas, causando que las columnas nulas de enteros sean leídas como ceros y los booleanos nulos como falsos. Explícate."
+
+El chico respondió: "En mi experiencia, nuestro error de producción más común es el NullPointerException. Busco minimizar las ocurrencias de esto."
+
+Banzen pensó por un momento, luego tiró una moneda de bronce hacia su chimenea y la cubrió profundamente con carbones brillantes.  "Agarra la moneda con tus dedos," dijo.
+
+El monje lo intentó tres veces, pero en cada vez quitó sus dedos vacíos y quemados de dolor.
+
+Banzen luego agarró el antebrrazo del chico, buscó un nervio en particular, y lo pellizcó profundamente. El dolor se detuvo.
+
+"De nuevo," ordenó Banzen, aún presionando el nervio.
+
+El monje repitió sus esfuerzos. Estuvo feliz de descubrir que podía sacar los carbones con facilidad, pero su placer se volvió horror cuando olió y oyó su propia piel chisporroteando. Rápidamente sacó su mano quemada y ampollada y soltó la moneda en el piso.
+
+Banzen soltó el brazo del monje y se fue del cuarto. El monje no necesitó máas correcciones, excepto aprender a escribir con la mano izquierda.
