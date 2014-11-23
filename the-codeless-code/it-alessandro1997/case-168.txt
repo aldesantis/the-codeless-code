@@ -1,0 +1,97 @@
+Number: 168
+Title: Horizonal, Vertical
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Più provo a essere uno sviluppatore a tutto tondo in un ambiente aziendale in rapida evoluzione, più sono terrorizzato dalla mia stessa ignoranza. Preferisco fare cinque cose bene che dieci cose male.
+
+<i>Quando i loro rispettivi apprendisti si furono ritirati per la notte, //
+i maestri [[Suku]] e Yaqqana parlarono vicino al fuoco //
+nel piccolo monastero di Yaqqana.</i>
+
+- - -
+
+/Yaqqana disse:/ Compariamo le vie dei nostri templi, //
+per vedere cosa possiamo imparare l'uno dall'altra.
+
+/Suku rispose:/ È conveniente.
+
+//
+
+/Yaqqana disse:/ I nostri sistemi sono fatti di molti componenti, //
+ciascuno modellato come la terra stessa: //
+la persistenza sono le fondamenta rocciose, //
+la logica di business il suolo fertile, //
+la presentazione i boccioli fragranti //
+che deliziano il cielo infinito.
+
+/Suku rispose:/ Facciamo allo stesso modo.
+
+//
+
+/Yaqqana adisse:/ I nostri design sono guidati da tre principi: //
+accoppiamento debole tra i componenti, //
+forte coesione al loro interno, //
+e incapsulamento ovunque gli sviluppatori si incontrino.
+
+/Suku rispose:/ Pensiamo allo stesso modo.
+
+//
+
+/Yaqqana disse:/ Il mezzo che impieghiamo a questo scopo è ovvio: //
+a ciascun monaco è assegnato un componente per volta, //
+e crea i suoi livelli come meglio crede.
+
+/Suku rispose:/ Qui io e te prendiamo strade separate -- giacché nel nostro tempio, //
+a ciascun monaco è assegnato un livello per volta, //
+ma lavora su molti componenti differenti.
+
+//
+
+/Yaqqana disse:/ Le virtù della nostra via sono prontamente discernibili: //
+ciascun componente è consistente con se stesso, //
+ma è una scatola nera per i vicini a destra e sinistra.
+
+/Suku rispose:/ Le virtù della nostra via sono egualmente evidenti: //
+ciascun livello è consistente con se stesso, //
+ma è una scatole nera per i vicini sopra e sotto.
+
+//
+
+/Yaqqana disse:/ La vostra via ci ucciderebbe per stagnazione -- //
+giacché così tanti devono parlare prima che il codice venga scritto.
+
+/Suku rispose:/ La vostra via ci condannerebbe al caos -- //
+giacché così tanto potrebbe essere scritto prima che chiunque parli.
+
+//
+
+/Yaqqana disse:/ Quando il nostro tempo fu costruito, //
+fu su fondamenta di rispetto, //
+e fiducia reciproca, //
+e creatività, //
+e indipendenza. //
+Confidiamo che anche i nostri monaci inferiori consegnino codice di qualità, //
+e questo non lo cambierei con nulla al mondo.
+
+/Suku rispose:/ Né ti chiederei di farlo. //
+Il vostro tempio non è il nostro tempio; i vostri bisogni non sono i nostri bisogni. //
+Dunque accordiamoci su un'ultima cosa, //
+che è di separarci amichevolmente.
+
+//
+
+<i>Così i due si abbracciarono in amicizia, //
+e si augurarono sogni piacevoli.</i>
+
+- - -
+
+<i>Ma quando Yaqqana si fu ritirato, e Suku fu da sola, //
+sussurrò al fuoco morente:</i>
+
+Quando il tuo tempio fu costruito, //
+furono i muratori a modellare le pietre delle fondamenta? //
+e furono i falegnami a tagliare le travi? //
+e furono gli idraulici a posare i tubi? //
+e furono i conciatetti a mettere le tegole? //
+O forse avete lasciato che cento inservienti scegliessero una stanza ciascuno, //
+e la costruissero dalla terra al cielo?
