@@ -1,0 +1,27 @@
+Number: 114
+Title: Asesinato de Caracteres
+Lang: es
+Translator: galcalde
+Illus.0.title: Y esas rocas allá abajo no parecen suaves EN LO ABSOLUTO.
+
+Los sistemas del templo estaban sufriendo fallas esporádicas cuando interactuaban con un servicio de registro de documentos en el Lejano Oeste. El maestro Java [[Bawan]] eligió investigar.
+
+Para ayudarlo, un intermediario del Templo Occidental fue mandado a la provincia vecina. El intermediario era un hombre desordenado con una motocicleta ruidosa; su capacidad para traducir lenguaje técnico era su única cualidad positiva.
+
+"He hallado el problema," dijo Bawan al intermediario. "Si el título del documento contiene un apóstrofe a la derecha, ese caracter no aparece cuando devolvemos el registro. Por favor cuéntales a los Monjes Occidentales de este defecto."
+
+El intermediario volvió a su provincia y telefoneó a Bawan al día siguiente.
+
+"Los monjes aseveran que no es un defecto," dijo el intermediario. "Dicen ellos: no soportamos caracteres especiales."
+
+Bawan asintió. "Vuelve a mi templo mañana. Juntos podremos hacerles entender."
+
+Al día siguiente el intermediario montó su motocicleta ruidosa por el Camino de la Luna Moribunda. Después de pasar por una señal que decía <em>PUENTE DE ZJING</em> en letras rojas grandes, se halló atravesando un vasto desfiladero en una arcada de cuerdas y tablones.  Adelante habían robles magníficos, y más allá, las torres del templo. Estaba tan extasiado por la vista que no pudo darse cuenta de que faltaban tablones en los diez metros del medio del puente. Por lo tanto el intermediario se halló inesperadamente cayendo en picada hacia el desfiladero, con motocicleta y todo.
+
+Observando desde el balcón más alto en la Torre Este, el maestro Bawan asintió y se fue adentro. Luego invocó a un monje novato de los cubículos de abajo.
+
+"Llévalas hacia el otro extremo del [[puente de Zjing]]," dijo, dandole siete piezas de madera al monje. Estaban pintadas de rojo y talladas en la forma de letras grandes: una <em>C,</em> una <em>E,</em> una <em>R,</em> otra <em>R,</em> una <em>A,</em> una <em>D,</em> y una <em>O.</em>
+
+"¿Qué son?" preguntó el monje.
+
+"Caracteres especiales," respondió el maestro.
