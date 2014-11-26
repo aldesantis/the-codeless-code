@@ -1,0 +1,16 @@
+Number: 118
+Title: Barro
+Lang: es
+Translator: galcalde
+
+Un general de la Armada Imperial comisionó al templo la tarea de construir un sistema de requerimientos de provisiones. Consciente del costo, mandó a un oficial de la 3ª División de Interos sin Signo que reporte del progreso del templo.
+
+El oficial notó con satisfacción que la mayoría de los desarrolladores trabajaban calmada y metódicamente: dibujaban diseños detallados, enviában los documentos para aprobación o enmienda, y consultaban los borradores finales mientras escribían código.
+
+Sin embargo una monja no.
+
+Mientras observaba el oficial, la monja creaba una docena de clases en el repositorio, las miraba a cada una por un momento, renombraba la mitad, las miraba de nuevo, rompía algunas en pedazos, las miraba, añadía algunos métodos y quitaba otros, y así sucesivamente. Ella repitió esto durante todo el día.
+
+El oficial no pudo contener más su impaciencia, diciendo, "¡Basta! ¡Si los escultores imperiales fueran tan impulsivos como tu, ya no habría más jade en el mundo!"
+
+La monja respondió, "Si los escultores imperiales fuesen lo suficientemente tontos para tallar tejas de jade, el palacio del emperador deberá estar mitad a cielo abierto. Yo, elijo trabajar con barro."
