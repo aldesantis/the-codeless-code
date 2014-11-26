@@ -1,0 +1,33 @@
+Number: 120
+Title: Plug and Play
+Lang: es
+Translator: galcalde
+Illus.0.title: Se especializa en muestras de taburetes.
+
+Al monje [[Wangohan]] se le dio una aplicación web para desarrollar por sí mismo. Para esa tarea eligió un framework nuevo y prometedor, pero porque no era familiar su implementación inicial era [[#91|rara]] y [[#99|frágil]]. Durante semanas Wangohan trabajó para corregir los problemas, reestructurando su código mientras crecía su entendimiento del framework. Para la hora del lanzamiento su aplicación era incomparablemente elegante, y los abades del [[Clan de la Araña]] coincidieron en permitir la nueva herramienta para proyectos futuros.
+
+"Pero primero," dijo el abad junior, "debemos implementar los componentes fundamentales que el templo necesitará, y proveerlos a todos los que consuman este framework."
+
+Para el desmayo de Wangohan, el monje [[Landhwa]] fue elegido para esa tarea. Para peor, Landhwa no tenía interés en estudiar el código de Wangohan, ni aprender de Wangohan las muchas particularidades del framework. En su lugar Landhwa consultaba a Wangohan sólo cuando no podía ser molestado para hallar la respuesta a una pregunta simple suya.
+
+Finalmente Wangohan le preguntó al abad junior del Clan de la Araña por qué Landhwa fue elegido para liderar la adopción del framework.
+
+"Es habilidoso con el código, su carga de trabajo era ligera, y no hizo objeción a la oportunidad," dijo el abad junior indiferente.
+
+Wangohan se inclinó y se fue.
+
+- - -
+
+Al día siguiente, la maestra [[Suku]] invocó a Wangohan a su cuarto.
+
+"El abad junior se ha enfermado con calambres estomacales de naturaleza muy desagradable," dijo ella. "La causa es desconocida, pero sospecho que es [[#84|canela mala]]."
+
+"Es una enfermedad común," coincidió Wangohan.
+
+"Iba a sugerir lo mismo al abad junior, pero supe que ya lo habías llevado a la sala de operaciones," dijo Suku. "No estaba enterada de que el templo tenía una sala de operaciones."
+
+"Sirve principalmente como la caseta del carpintero," dijo Wangohan.
+
+"¿Y presumo que el cirujano sirve principalmente como carpintero?"
+
+"Si," dijo Wangohan. "Pero como le dije al abad junior: es habilidoso con los cuchillos, su carga de trabajo era ligera, y no hizo objeción a la oportunidad."

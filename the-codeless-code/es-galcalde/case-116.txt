@@ -1,0 +1,17 @@
+Number: 116
+Title: No Confíes En Nadie
+Lang: es
+Translator: galcalde
+Illus.0.title: &quot;Al menos mi código no es tan malo como ese vijeo pedazo de basura AQUÍ, escrito por... uh... maldita sea.&quot;
+
+Varios monjes del [[Laughing Monkey Clan|Clan del Mono que Ríe]] hallaron a su hermano en estado de gran angustia, escribiéndo frenéticamente en su cubículo.
+
+"¿Qué te molesta?" preguntaron.
+
+Dijo el monje: "Cuando las nuevas reglas de negocios sean entregadas el año que viene, mi código necesitará ser actualizado. Hoy el abad me dijo quién será asignado para esa tarea, y mi corazón se hundió. Él es un tonto impaciente que desprecia la documentación y pasa de los comentarios, eligiendo en su lugar adivinar el proósito de todo sólo por el nombre. Por lo tanto debo volver cada clase y método a prueba de idiotas."
+
+El monje señaló a su pantalla. "Aquí estará tentado a modificar las propiedades de este objeto, así que debo volverlo inmutable para evitar el desastre. Aquí seguró confundirá el propósito de este parámetro, así que ahora debo chequear si hay un argumento ilegal cuando se usa." El monje colapsó sobre su teclado. <i>"¡Diez mil maldiciones sobre ese imbécil, Taw-Jieh!"</i> gimió. "¡Él entre todos debería ser elegido para mantener mi código!"
+
+Los otros monjes se miraron incómodamente.
+
+"Pero <em>tú</em> eres Taw-Jieh," dijo uno.

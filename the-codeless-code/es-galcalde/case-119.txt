@@ -1,0 +1,25 @@
+Number: 119
+Title: Sushi
+Lang: es
+Translator: galcalde
+Illus.0.title: Lo bueno es que, quemas todas esas calorías sólo lavando los platos.
+
+El Maestro [[Banzen]] invitó a la maestra [[Suku]] a almorzar en su domicilio. En la mesa habían dos pilas grandes de tazones, cada una de varios metros de alto.
+
+Banzen se subió y tomó el tazón de más arriba de su pila. Estaba vacío salvo por tres granos de arroz. Habilmente sacó cada grano con sus palillos y se los comió.
+
+Suku tomó el tazón de más arriba de su propia pila. En él sólo había una semilla de sésamo tostada. Con dificultad la agarró entre los bordes de los palillos.
+
+Banzen tomó otro tazón. En el fondo había un trozo de pulpa de naranja. "Recientemente," dijo, "has [[#117|aconsejado a cierto monje]] de que era sabio estructurar hasta la más pequeña aplicación."
+
+Suku también tomó otro tazón, descubriendo la tajada más fina de pepino. "Hallé que con la estructura vienen la claridad y la extensibilidad."
+
+"Te encantará escuchar que está haciédole caso a tu consejo ansiosamente," dijo Banzen. "Él ahora divide una aplicación descartable de cien lineas en muchas clases."
+
+"Ah," dijo Suku, llegando al siguiente tazón. Tenía dos granos de arroz. "Crees que los aconsejé pobremente."
+
+"Imprudentemente, quizás," dijo Banzen, luchando por sacar uno puntos de tobiko. "Cualquier virtud, llevada a los extremos, se vuelve un vicio. A propósito, ¿cómo está el sushi?"
+
+"¿Es <em>eso</em> lo que estamos comiendo?" dijo Suku, considerando la larga pila de tazones que quedaban.
+
+"No estoy completamente seguro," dijo Banzen, estudiando una franja de nori en el borde de sus palillos. "Supongo que debemos atravesar todos los platos antes de asegurarnos."
