@@ -1,0 +1,19 @@
+Number: 117
+Title: A pelo
+Lang: es
+Translator: galcalde
+Illus.0.title: Conocí a una chica en el colegio que solía guardar su montura y sus bridas en un estante en medio de su dormitorio. No estuve muy interesado en ella hasta que me enteré que no tenía un caballo.
+
+Cierto monje le dijo a la maestra [[Suku]]: "He estudiado tu código para aprender de tu ejemplo, pero en una cuestión mis ojos aún no se han abierto."
+
+El monje desplegó una impresión de código fuente. "Considera esta pequeña aplicación, donde buscas en los archivos log por errores. Hubiera hecho todo el procesamiento en la clase aplicación. Sin embargo llamas a una multitud de clases adicionales: una interfaz <em>LogFileReader</em> que sólo tiene el método <em>readEntry</em>, un <em>LogFileEntry</em> que es devuelto por el método, y un <em>SimpleLogFileReader</em> ¡el cual es la única implementación de esa interfaz! ¿Por qué tanta formalidad para un proyecto pequeño?"
+
+Suku respondió: "Ve a los establos, desata a mi caballo, y cabálgalo por el Camino de la Serpiente Borracha hasta la punta de esta montaña. Luego cabálgalo de vuelta y dime qué has aprendido."
+
+El monje reapareció aquella tarde, sucio y lastimado. "Aprendí que a tu caballo no le gusta ser montado a pelo. También, de que uno puede tener una larga caída por el acantilado si se lo tira."
+
+Suku produjo una montura, una coraza, unas bridas, un bocado y unas riendas, diciendo: "No importa que tan corto sea el viaje, el jinete debe estar absolutamente seguro de donde sentarse y como conducir."
+
+El monje frotó un chichón enorme en su cabeza.  "¿Pero de qué estará seguro el caballo de mal temperamento?"
+
+"De que él es el cabalgado," dijo Suku.
