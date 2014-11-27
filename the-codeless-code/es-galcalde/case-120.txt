@@ -4,7 +4,7 @@ Lang: es
 Translator: galcalde
 Illus.0.title: Se especializa en muestras de taburetes.
 
-Al monje [[Wangohan]] se le dio una aplicación web para desarrollar por sí mismo. Para esa tarea eligió un framework nuevo y prometedor, pero porque no era familiar su implementación inicial era [[#91|rara]] y [[#99|frágil]]. Durante semanas Wangohan trabajó para corregir los problemas, reestructurando su código mientras crecía su entendimiento del framework. Para la hora del lanzamiento su aplicación era incomparablemente elegante, y los abades del [[Clan de la Araña]] coincidieron en permitir la nueva herramienta para proyectos futuros.
+Al monje [[Wangohan]] se le dio una aplicación web para desarrollar por sí mismo. Para esa tarea eligió un framework nuevo y prometedor, pero porque no era familiar su implementación inicial era [[#91|rara]] y [[#99|frágil]]. Durante semanas Wangohan trabajó para corregir los problemas, reestructurando su código mientras crecía su entendimiento del framework. Para la hora del lanzamiento su aplicación era incomparablemente elegante, y los abades del [[Spider Clan|Clan de la Araña]] coincidieron en permitir la nueva herramienta para proyectos futuros.
 
 "Pero primero," dijo el abad junior, "debemos implementar los componentes fundamentales que el templo necesitará, y proveerlos a todos los que consuman este framework."
 
