@@ -1,0 +1,31 @@
+Title: Adapteur
+Number: 50
+Lang: fr
+Translator: cdlm
+
+<div class="about">Ce cas avait été perdu depuis des mois.
+Heureusement, une copie a récemment été découverte dans les marges d'une preuve du Dernier Théorème de Fermat.</div>
+
+Un novice d'Extrême-Occident était récemment arrivé au Temple.
+Après avoir été évalué par l'abbé, on lui donna un nouveau nom et il fut envoyé voir le scribe [[Qi]] pour qu'il soit inscrit au registre.
+
+Le novice demanda au scribe,
+« Pourquoi est-ce qu'on donne un nouveau nom à chaque moine et nonne après leur arrivée au Temple ? »
+
+Le scribe répondit, « Comment pourrait-on vous nommer /avant/ que vous ne soyez arrivés ? »
+
+Le novice s'inclina et sourit, mais ne fit pas un mouvement pour prendre congé du scribe.
+Voyant qu'une explication serait nécessaire si il souhaitait retrouver sa solitude, le scribe continua :
+
+« Avant que vous ne veniez à nous, vous étiez aussi informes que des octets dans le tas.
+Maintenant vous avez été alloués en mémoire vivante, et on vous a attribué une forme et un objectif.
+Nous vous nommons selon cet objectif, comme on nomme une variable ou une méthode ou une interface.
+De telles choses n'existent pas tant qu'elles ne sont pas nommées. »
+
+Le novice réfléchit un moment, puis se désigna d'un air narquois :
+
+« Code de tierce partie ! » déclara le novice.
+
+Qi attrappa le novice par le poignet et encra promptement le nouveau nom attribué par le Temple au dos de la main du jeune homme.
+
+« Classe d'encapsulation », dit le scribe.
