@@ -6,7 +6,7 @@ Names: Qi
 Topics: naming, philosophy
 Skip: 0
 
-<div class="about">This case had been lost for months.  Fortuntately, a copy was recently discovered in the margins of a proof of Fermat's Last Theorem.</div>
+<div class="about">This case had been lost for months.  Fortunately, a copy was recently discovered in the margins of a proof of Fermat's Last Theorem.</div>
 
 A novice from the Far West had recently come to the Temple.
 After being assessed by the abbot he was given a new name
