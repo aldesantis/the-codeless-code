@@ -4,6 +4,8 @@ Geekiness: 2
 Names: Bawan
 Topics: production support, logging, code rot
 Date: 2013-07-21
+Lang: fr
+Translator: abelards
 Skip: 0
 
 Le maître [[Bawan]] posait ce dilemme aux développeurs dont il avait la charge :
