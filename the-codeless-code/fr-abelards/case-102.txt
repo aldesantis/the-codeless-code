@@ -4,6 +4,8 @@ Geekiness: 1
 Names: Suku, Banzen
 Topics: maintenance
 Date: 2013-07-12
+Lang: fr
+Translator: abelards
 Illus.0.src: Paddle.jpg
 Illus.0.title: Et cela fait un riz merveilleux pourtant... crois moi.
 
