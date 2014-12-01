@@ -1,0 +1,79 @@
+Date: 2014-11-30
+Number: 171
+Title: Initial Conditions
+Names: Banzen, Hwidah, Djishin
+Topics: production support, clues, SQL, dynamically-generated SQL
+Geekiness: 3
+Illus.0.src: detective.jpg
+Illus.0.title: Does anyone else think it's weird that the universal search icon is a magnifying glass?  When was the last time you searched for *anything* with a magnifiying glass in real life?  My ideal search icon would be a little picture of me, screaming "HAS ANYONE SEEN MY CAR KEYS?!"
+
+
+The nun [[Hwídah]] was summoned to the offices of master
+[[Banzen]].  She found the master waiting with his
+apprentice [[Djishin]] in attendance.
+
+Banzen said, "A happy day for you, little nun!  Since you
+take such pleasure in learning hidden truths and seeing
+guilty parties corrected, I have an entertaining task for you."
+
+"I serve at the pleasure of the Temple, not my own," Hwídah
+replied with a dutiful bow.  But her stomach was already
+clenched; for no doubt this was the start of her
+punishment for [[#152|trespassing on forbidden Temple ground.]]
+
+"An infrequent but stubborn error has plagued the
+[[Elephant's Footprint Clan]] for some time now," said the
+master as he handed the nun a printout.  "Our database logs
+show this malformed SQL query, yet a thorough
+search of our code base reveals no such query anywhere.
+Find the source.  I give you one week."
+
+Hwídah studied the paper.  "A few minutes should suffice.
+May I borrow the master's terminal?"
+
+Banzen's eyebrows shot up.  He exchanged glances with his
+apprentice, then slid his laptop toward the nun.
+
+Hwídah consulted the printout, typed something, scrutinized
+the screen, consulted the printout again, and so on several
+times over.  "There," she said finally, turning the screen
+around.  The cursor was indeed hovering over a SQL fragment
+with a missing right parenthesis.  "If I return to my
+workstation, I can trace this code to its consumers and
+reproduce the error seen in the logs.  Then we may repair
+the defect with confidence."
+
+"Go," said Banzen to Hwídah.
+To his apprentice he said: "Observe."
+
+- - -
+
+As the pair walked to Hwídah's cubicle, Djishin whispered,
+"The speed of your diagnosis was surprising."
+
+"A simple matter," said Hwídah, handing the printout to the
+monk.  "The malformed query begins with <tt>WHERE 1=1</tt>.
+That has the stink of dynamically-generated SQL -- for
+although the initial condition is trivial, its <tt>TRUE</tt>
+value allows a developer to append any number of
+/real/ conditions as simple <tt>AND</tt> clauses.  I have
+used this technique myself when implementing search forms
+with optional fields.  Once I recognized it, I merely
+searched our code for the individual <tt>AND</tt> clauses."
+
+"You misunderstand me," said Djishin.  "I was not surprised
+that you were /able/ to solve it immediately; I was
+surprised that you did so despite being given a full week.
+That has the stink of ambition -- for although this initial
+problem was trivial, your ready truthfulness
+now allows my master to entrust you with any number of /real/
+problems."
+
+Hwídah sighed.  "It is just as well.  If I had pretended
+that this problem was difficult enough to merit days of
+effort, Banzen would have thought me either deceitful or
+incompetent.  Neither would sit well with me.  That is what
+he truly wished to discover."
+
+Djishin nodded.  "Sometimes a test serves a purpose
+/because/ the answer is so obvious."
