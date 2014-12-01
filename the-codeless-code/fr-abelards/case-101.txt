@@ -4,6 +4,7 @@ Geekiness: 1
 Names: Yíwen, Hwídah
 Topics: accountability, production support, teamwork
 Date: 2013-07-05
+Lang: fr
 Translator: abelards
 Illus.0.par: 2
 Illus.0.src: Door.jpg
