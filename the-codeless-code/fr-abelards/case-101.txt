@@ -4,6 +4,7 @@ Geekiness: 1
 Names: Yíwen, Hwídah
 Topics: accountability, production support, teamwork
 Date: 2013-07-05
+Lang: fr
 Translator: abelards
 Illus.0.par: 2
 Illus.0.src: Door.jpg
@@ -38,7 +39,7 @@ tourné son attention sur de plus urgentes tâches. Ton implication aurait pu re
 
 "Dis-moi, Yíwen", dit la prisonnière, "quel genre de chaos s'ensuivrait
 si /tous/ les modules de notre système renvoyaient occasionnellement
-des valeurs erronées ? Et quand je dis <i>[[#70|system]],</i>
+des valeurs erronées ? Et quand je dis <i>[[#70|système]],</i>
 quelle image ce mot évoque-t-il dans ton esprit ?"
 
 Hwídah repoussa le plateau vide sous la porte.
