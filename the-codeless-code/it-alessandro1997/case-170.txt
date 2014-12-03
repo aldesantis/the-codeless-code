@@ -1,0 +1,45 @@
+Number: 170
+Title: Il mendicante viola
+Lang: it
+Translator: alessandro1997
+
+Un certo monaco del [[Clan of Iron Bones|Clan delle Ossa di Ferro]] si avvicinò
+al maestro [[Yishi-Shing]], dicendo: "Mille scuse, maestro, ma
+dall'aggiornamento del sistema operativo della scorsa settimana non sono stato
+in grado di ripristinare il nostro array di dischi."
+
+Yishi-Shing chiese: "Cos'hai provato, a parte assillarmi?"
+
+Il monaco disse: "Ho contattato il venditore del disco -- dicono che il nostro
+nuovo sistema non è supportato. Ho esaminato la loro documentazione -- è
+pressoché inutile. Ho cercato cercato altre persone nella mia situazione sul web
+-- non ce n'è nessuna. Ho implorato aiuto su forum online -- non ho ricevuto una
+sola risposta."
+
+Yishi-Shing disse: "Mostrami queste 'implorazioni di aiuto'."
+
+Il monaco aprì il suo laptop e indicò le sue molte educate richieste di
+assistenza. Ovviamente, erano tutte senza risposta.
+
+Yishi-Shing scosse la testa. "Allora abbiamo la nostra risposta."
+
+Il maestro prese il laptop dalle mani del monaco e pubblicò il seguente
+messaggio su una dozzina di forum di discussione:
+
+      <b>**ATTENZIONE**</b> Gli array di dischi da 24 terabyte di Elefante
+      Tonante non possono essere montati sotto Pinguino Petulante con il kernel
+      89! Non c'è nessuna soluzione! EVITATE QUESTA CONFIGURAZIONE!!!
+
+Allora Yishi-Shing chiuse il laptop e se ne andò canticchiando.
+
+- - -
+
+Quella sera il maestro convocò il monaco e gli chiese se ci fossero novità.
+
+Il monaco aprì il suo laptop. "Cinque differenti commentatori mi hanno definito
+un ciarlatano idiota e hanno offerto una semplice soluzione che dicono di aver
+testato sui propri sistemi."
+
+Yishi-Shing annuì. "Una volta ho incontrato un mendicante il cui cartello
+diceva, /Non vi AZZARDATE a LANCIARMI addosso monete!/ Il suo corpo era viola
+per via dei lividi, ma la sua ciotola era sempre piena."

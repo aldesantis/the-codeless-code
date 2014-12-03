@@ -1,0 +1,64 @@
+Number: 171
+Title: Condizioni iniziali
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Nessun altro trova strano che l'icona universale per le ricerche sia una lente d'ingrandimento? Quand'è stata l'ultima volta che avete cercato *qualunque cosa* con la lente d'ingrandimento nella vita reale? La mia icona di ricerca ideale sarebbe una piccola immagine di me che urlo "QUALCUNO HA VISTO LE CHIAVI DELLA MACCHINA?!".
+
+La monaca [[Hwídah]] venne convocata negli uffici del maestro [[Banzen]]. Trovò
+il maestro che aspettava insieme al suo apprendista [[Djishin]].
+
+Banzen disse: "Un giorno felice per te, piccola monaca! Giacché trovi così tanto
+piacere nello scoprire verità nascoste e vedere le parti colpevoli corrette, ho
+un compito divertente per te."
+
+"Servo per il piacere del Tempio, non il mio" rispose Hwídah con un inchino
+rispettoso. Ma il suo stomaco già si era stretto, poiché senza dubbio questo era
+l'inizio della sua punizione per aver [[#152|sconfinato nelle terre proibite del Tempio]].
+
+"Un errore infrequente ma testardo tormenta il [[Elephant's Footprint Clan|Clan dell'Orma di Elefante]]
+da diverso tempo, ormai" disse il maestro mentre passava alla monaca un listato.
+"I log del nostro database mostrano questa query SQL malformata, eppure una
+ricerca meticolosa nel codice non rivela alcuna query simile. Trova la fonte. Ti
+do una settimana."
+
+Hwídah studiò il foglio. "Alcuni minuti dovrebbero essere sufficienti. Posso
+prendere in prestito il terminale del maestro?"
+
+Lo sopracciglia di Banzen si inarcarono. Scambiò uno sguardo col suo
+apprendista, quindi passò il proprio laptop alla monaca.
+
+Hwídah consultò il listato, scrisse qualcosa, scrutò lo schermo, consultò di
+nuovo il listato e così via per molte volte. "Lì" disse finalmente, girando lo
+schermo. Il cursore si trovava su un frammento SQL con una parentesi destra
+mancante. "Se torno alla mia postazione, posso ricondurre questo codice ai suoi
+utilizzatori e riprodurre l'errore che vediamo nei log. A quel punto potremo
+riparare il difetto in tutta sicurezza."
+
+"Vai" disse Banzen a Hwídah.
+
+Al suo apprendista disse: "Osserva."
+
+- - -
+
+Mentre la coppia camminava verso il cubicolo di Hwídah, Djishin sussurrò: "La
+velocità della tua diagnosi è stata sorprendente."
+
+"Una questione semplice" disse Hwídah, passando il listato al monaco. "La
+query malformata inizia con <tt>WHERE 1=1</tt>. Questo mi puzza di SQL generato
+dinamicamente -- perché nonostante la condizione iniziale sia semplice, il suo
+valore <tt>TRUE</tt> permette allo sviluppatore di aggiungere qualunque numero
+di condizioni /reali/ come semplici clausole <tt>AND</tt>."
+
+"Mi hai frainteso" disse Djishin. "Non sono sorpreso che tu sia stata /capace/
+di risolverlo immediatamente; sono sorpreso che tu lo abbia fatto nonostante ti
+sia stata data un'intera settimana. Questo mi puzza di ambizione -- perché
+nonostante il problema iniziale fosse semplice, la tua pronta veracità permette
+ora al mio maestro di affidarti qualunque numero di problemi /reali/."
+
+Hwídah sospirò. "È uguale. Se avessi finto che questo problema fosse abbastanza
+difficile da meritare giorni di lavoro, Banzen avrebbe pensato che sono
+ingannevole o incompetente. Nessuna delle due mi va bene. Ecco cosa voleva
+scoprire veramente."
+
+Djishin annuì. "A volte una prova serve un fine /perché/ la risposta è così
+ovvia."

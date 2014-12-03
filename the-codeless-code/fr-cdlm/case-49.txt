@@ -1,0 +1,69 @@
+Title: L'enquête de Banzen
+Number: 49
+Lang: fr
+Translator: cdlm
+Illus.0.title: En gros, c'est mon système de classement.
+
+L'abbé du [[Laughing Monkey Clan|Clan du Singe Rieur]] observa que le logiciel produit par le hall nord de l'abbaye avait plus de défauts que celui produit par quelconque autre groupe de moines.
+Maître Java [[Banzen]] fut invité à enquêter.
+
+Le maître sélectionna une salle de réunion adaptée dans le hall nord.
+S'asseyant à l'intérieur, il fit signe à l'abbé de le rejoindre.
+Quand l'abbé se fût également assis, le maître déballa son déjeuner d'un sac en papier et commença à manger.
+L'abbé attendit en silence, avec une patience strictement décroissante.
+
+Enfin le maître finit la dernière bouchée de son repas.
+Il chifonna le sac en papier et le lança vers la corbeille au coin de la salle.
+La boule manqua le rebord d'un bon mètre, rebondit sur le mur, et s'arrêta de rouler à côté de la corbeille.
+Banzen sortit.
+
+L'abbé suivit, pensant :
+la dévotion de Banzen pour la perfection est trop louée dans le temple.
+Pourtant, la lune qui se lève fait un excellent cercle, mais un bien mauvais carré.
+
+Banzen ordonna ensuite à l'abbé de convoquer les moines du hall nord tour à tour.
+On dit à chaque moine de rencontrer le maître et l'abbé à l'entrée de la salle de réunion choisie.
+Chacun devait apporter une copie sur papier de l'intégralité du code qu'il avait écrit durant les trente derniers jours.
+
+Quand un moine se présentait, Banzen disait :
+« Donnez-moi votre liasse de code, et attendez dans cette salle.
+J'ai été chargé de faire des recherches sur vous. »
+Chaque moine entrait la salle de réunion ainsi qu'on lui avait dit, ce sur quoi Banzen fermait la porte, laissant le moine seul dans la pièce.
+Banzen plaçait ensuite la liasse du moine à l'envers sur une pile croissante à l'extérieur de la salle.
+Quand cinq minutes précises s'étaient écoulées, Banzen ouvrait la porte puis entrait, annonçant « L'enquête est close. »
+Le moine pouvait s'en aller.
+
+L'abbé pensa : La lune de Banzen est perdue derrière un nuage.
+Pourtant, la nuit n'est pas encore passée.
+
+Banzen répéta ce rituel pour chacun des douze moines du hall nord.
+Quand le dernier moine eût prit congé, Banzen quitta l'abbaye sans un mot de plus.
+Des liasses de code il n'avait pas examiné une seule page.
+
+L'abbé se dit à lui-même : un coup de vent a nettoyé le ciel, et la lune de Banzen n'est pas même à demi-pleine.
+Je dois convoquer l'abbesse en chef.
+
+C'est ainsi que l'ancienne [[Jinyu]] fut appelée à la salle de réunion.
+À son tour elle convoqua Banzen.
+
+« Quelle est la faute du hall nord ? » demanda Jinyu.
+
+Banzen pointa du doigt.
+« Cette boule de papier restée par terre dans le coin. »
+
+
+
+== Commentaire de Qi
+
+Ce qui avait été fait était attendu : mais ce qui n'avait pas été fait était ce qui importait.
+Si vous n'y voyez pas faute, le hall nord vous attend.
+
+
+
+== Poème de Qi
+
+Une montagne de code source domine le hall : //
+le travail de douze moines de lune à lune.
+La balance d'un marchand peut peser poissons et monnaie, //
+mais un sac en papier la met en échec.
+

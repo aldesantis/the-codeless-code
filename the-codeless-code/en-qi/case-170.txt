@@ -1,0 +1,51 @@
+Date: 2014-11-23
+Number: 170
+Title: The Purple Beggar
+Names: Yishi-Shing, Clan of Iron Bones
+Topics: community, help, challenges
+Geekiness: 1
+
+A certain monk of the [[Clan of Iron Bones]] approached host
+master [[Yishi-Shing]], saying: "A thousand pardons, master,
+but ever since last week's operating system upgrade I have
+not been able to bring up our backup disk array."
+
+Yishi-Shing asked, "What have you tried, other than
+pestering me?"
+
+The monk said: "I have contacted the disk vendor -- they say
+our new system is not supported.  I have pored through their
+documentation -- it is next to useless.  I have scoured the
+web for others in my situation -- none can be found.  I have
+begged for help in online forums -- not a single reply have
+I received."
+
+Yishi-Shing said: "Show me this 'begging for help'."
+
+The monk opened his laptop and indicated his many polite
+pleas for assistance.  Indeed, all were unanswered.
+
+Yishi-Shing shook his head.  "Then we have our answer."
+
+The master took the laptop from the monk's hands and
+cross-posted the following to a dozen message boards:
+
+     <b>**WARNING**</b> Thundering Elephant's 24-terabyte disk arrays
+     CANNOT be mounted under Petulant Penguin kernel 89!
+     No workaround is possible!  AVOID THIS SETUP!!!
+
+Yishi-Shing then closed the laptop and walked away, humming.
+
+- - -
+
+That evening the master summoned the monk and asked him
+what news.
+
+The monk opened his laptop.  "Five separate posters have
+each called me a blithering idiot and offered a simple
+solution to my problem, which they claim to have tested on
+their own systems."
+
+Yishi-Shing nodded.  "My walk once took me past a beggar
+whose sign read, /You do not DARE throw coins at ME!/
+His body was purple with bruises but his bowl was always full."

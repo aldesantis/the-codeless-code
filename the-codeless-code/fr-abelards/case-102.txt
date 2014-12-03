@@ -1,0 +1,34 @@
+Number: 102
+Lang: fr
+Translator: abelards
+Title: Spatule
+Illus.0.title: Et cela fait un riz merveilleux pourtant... crois moi.
+
+Alors que les novices le voient rarement, les maîtres se corrigent parfois les uns les autres :
+
+Maître [[Banzen]] et maître [[Suku]] planifiaient la prochaine livraison d'un gros système critique.
+Ensemble, ils parcoururent la liste des besoins, allouant le travail aux moines qu'ils avaient en charge.
+
+"Assigne-moi cette tâche," dit Banzen à un moment, "car j'en ai écrit le code à l'origine,
+et c'est une partie complexe et sensible".
+
+Il répéta cette phrase pour plusieurs autres éléments.
+Aussi loin que Suku puisse fouiller dans sa mémoire, c'était son habitude ;
+car Banzen fournissait autant d'efforts que des moines ayant la moitié
+de son âge, et puisait une grande fierté dans son travail.
+
+Suku publia la liste des affectations le lendemain matin.
+Banzen se prit à y jeter un oeil durant le repas matinal,
+et découvra que toutes les tâches qu'il s'était réservées
+avaient à la place été assignées à une poignée de jeunes moines.
+
+Banzen confronta Suku à sa table.
+
+"Cela fait vingt ans que vous êtes dans ce temple," reprocha-t-il, fumant.
+"Quand allez-vous arrêter de donner notre précieux riz à des cuisiniers
+qui savent à peine comment tenir une spatule ?"
+
+Suku plaça calmement ses baguettes sur son bol.
+"Je ne saurais dire," répondit-elle. "Quand allez-vous arrêter
+de pinailler sur votre petit cuiseur, et faire des spatules plus
+simples pour ces cuisiniers ?"
