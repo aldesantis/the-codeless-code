@@ -1,0 +1,62 @@
+Series: 1
+Number: 4
+Lang: es
+Translator: galcalde
+Title: El Aspirante
+Subtitle: El Bulto
+
+El hombre viejo se llamaba Bhupendra; su nieto se llamaba Tarun.
+
+No tenían a otros parientes en la aldea. El padre del niño vivía en una ciudad distante, trabajando largas horas en un trabajo doméstico y enviando a casa poco dinero cada semana -- aunque Bhupendra sospecha que una buena parte del salario de su yerno se gastaba en vino de Palmira y en apuestas online. Además de una pequeña choza su posesión principal parecía ser la burra gris polvo que el abuelo ahora cargó con arroz, pan, vegetales secos, jarrones de agua, cuchillos, sartenes (de varios tamaños), cuerda, leña, un rollo de tela pesada, y una vieja laptop tan lenta para correr hasta el administrador de ventanas más ligero.
+
+"¿Por qué empacas mucho?" preguntó Aaradhya, irritada porque el día se acababa. "Estarás en Reechee y de vuelta antes de que la mitad de la comida se coma."
+
+"Quizás," dijo el viejo, atando otra sartén al inmenso bulto sobre el lomo de la burra. "En mi larga vida, a menudo encontré que es mejor rediseñar que lo opuesto."
+
+"¿Y la laptop? Las baterías solas son más pesadas que la leña."
+
+"Estarás enseñando al niño. Necesitas una computadora."
+
+"Dudo que pueda correr unas pocas horas sin carga, y menos unos pocos días."
+
+"Quizás."
+
+Aaradhya quedó muda. ¿Cómo <em>iba</em> ella a enseñar a Tarun mientras caminaban? En su ciudad, cuando el polvo trababa los motores de las plantas eléctricas (lo cual ocurría frecuentemente en el verano, cortando la energía por horas cada vez) su viejo maestro alegremente distribuía bultos de papel y frascos de tinta, dándole clases a sus aprendices con una lámpara en frente de una pizarra la cual escribía en ella con una tiza. La monja sólo tenía su voz, la cual se quebraría en minutos en el aire seco y sucio. Sólo un idiota viajaba con la boca abierta en los caminos rurales.
+
+Sin embargo eso palidecía frente a un mayor problema. Aaradhya era la más joven de cuatro niños y la más nueva de siete aprendices. Ella nunca instruyó nada a nadie. No tenía idea por donde empezar. Más allá de la Fuente de Anantha sus propias lecciones eran un borrón vago.
+
+Mientras, abuelo y nieto continuaban atando aún más al lomo de la burra que no se quejaba. Era casi el atardecer antes que estaban en progreso.
+
+- - -
+
+"Enseña," dijo el hombre viejo.
+
+Aaradhya empezó con los pequeños fragmentos que recordaba en el regazo de su abuela. Historias de las primeras computadoras: altísimos artilugios mecánicos de barras plegables de sándalo rotando en ejes gruesos y atados con kilómetros de cáñamo. Ganchos con incrustaciones de marfil llevaban las chirriantes compuertas AND y NOT que eran tan grandes como un hombre crecido y el doble de pesadas, con las compuertas una por una apiladas en niveles de cuatro pisos de alto sólo para implementar un sumador multi-bit simple. Templos enteros fueron construidos para alojar los preciosos mecanismos, con una doocena de monjes perpetuamente trepando escaleras, aceitando, reforzando, mejorando, reparando, y por supuesto operando la gigantesca plataforma.
+
+Luego ella contó de la maravillosa Edad de Bronce, en los albores del Imperio Babaj, donde la programación se hacía con grupos de engranajes que se volvían más pequeños en cada generación. Hombres pálidos extranjeros venían del Oeste para aprender ese arte, aumentándolo con sus propias prácticas arcanas -- como el uso de rubíes en el mecanismo para superar el desgaste inducido por la fricción, y resortes en espiral para manejar los cigueñales, y la práctica ritual de beber bebidas estimulantes antes de comenzar el día de trabajo.
+
+El abuelo de Tarun notó la expresión ausente en la cara del niño. Frunciendo el ceño, se acercó a Aaradhya.
+
+"Enseña," repitió. "Programación, no historia."
+
+Aaradhya hizo una mueca. Su BASIC estaba desactualizado; Tarun probablemente sabía más de la forma moderna que ella. ¿Logo? Se había olvidado completamente. Igual el lenguaje no podía ser enseñado sin el uso de una tortuga especialmente entrenada. Su aprendizaje fue en C con un poco de C++, pero el niño no estaba listo para ser tirado a un pantando con Errores de Bus y Violaciones de Segmentos y sintaxis especiales para trabajar con L-valores. Java estaba principalmente en su mente aquellos días: era, después de todo, el camino elegido por el Templo del Gong de Latón Mañanero. Reiterando las bases del lenguaje ayudaría a juntar sus conocimientos, calmar sus nervios, prepararla para sus entrevistas. Ella debería enseñar Java al niño.
+
+¿Mientras caminaba en la oscuridad?  Ridículo.
+
+Sin mencionar que el estruendo incesante de las sartenes en el lomo de la burra no ayudaban a que Aaradhya organice sus pensamientos.
+
+"El animal necesita agua," dijo Aaradhya rápidamente. "Mientras podamos ver la corriente. Comenzaré cuando volvamos a la carretera."
+
+Eso los forzó a abandonar el camino iluminado por la luna y andar por una zanja traicionera ahogada de hierbas hacia el escaso hilo de agua fluyendo al fondo. En la subida la burra pisó un madriguera inesperada, desequilibrándola. El gran bulto se meció mucho hacia un lado. La bestia rebuznó, el arnés rodó, luego el bulto se estrelló contra una maleza, sujetando al animal. Para cuando calamron a la burra se había puesto la luna. No había opción sensible excepto acampar por la noche.
+
+Bhupendra suspiró y posó sus viejos huesos contra el bulto caído mientras Aaradhya y Tarun juntaron las carias cosas que rodaron lejos.  Hasta en la luz de las estrellas Aaradhya podía ver el duro brillo en los ojos del viejo.
+
+"Enseña," ordenó. "No más retrasos."
+
+Aaradhya dio un paso hacia el viejo, dispuesta a razonar un nuevo comienzo de día, cuando se resbaló con algo suave y aterrizó sobre un arbusto espinoso. La siguiente palabra que salió de su boca fue afortunadamente cubierta por sus batas retorcidas. Sintiendose rodeada de negrura los dedos de Aaradya se cerraron agarrando el objeto transgresor: una sartén de hierro que se había soltado del bulto. Era pesada. Ahí fue cuando le llegó una idea.
+
+La joven monja se sacudió. Sonriendo, avanzó hacia el viejo y el niño. Ellos estaban en el piso junto al bulto; ella se avecinó sobre ellos. Con un amplio braceo Aaradhya levantó alto la sarten de hierro, y la golpeo fuerte contra su objetivo.
+
+La roca estaba ilesa, pero la sartén sonó como un gong. Sus compañeros viajeros saltaron a pesar de si mismos. La burra se quejó pero estaba atada a un árbol y no podía echarse a correr.
+
+"La escuela entra en sesión," dijo Aaradhya. "Comenzaremos con los Objetos..."
