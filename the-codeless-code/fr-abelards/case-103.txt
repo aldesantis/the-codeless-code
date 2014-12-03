@@ -1,10 +1,8 @@
 Number: 103
 Title: La boîte de laque noire
-Geekiness: 2
-Names: Bawan
-Topics: production support, logging, code rot
+Translator: abelards
+Lang: fr
 Date: 2013-07-21
-Skip: 0
 
 Le maître [[Bawan]] posait ce dilemme aux développeurs dont il avait la charge :
 

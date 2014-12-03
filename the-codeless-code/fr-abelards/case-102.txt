@@ -1,10 +1,8 @@
 Number: 102
 Title: Spatule
-Geekiness: 1
-Names: Suku, Banzen
-Topics: maintenance
 Date: 2013-07-12
-Illus.0.src: Paddle.jpg
+Translator: abelards
+Lang: fr
 Illus.0.title: Et cela fait un riz merveilleux pourtant... crois moi.
 
 Alors que les novices le voient rarement, les maîtres se corrigent parfois les uns les autres :

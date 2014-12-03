@@ -1,12 +1,8 @@
 Number: 101
 Title: Responsabilité
-Geekiness: 1
-Names: Yíwen, Hwídah
-Topics: accountability, production support, teamwork
 Date: 2013-07-05
 Translator: abelards
-Illus.0.par: 2
-Illus.0.src: Door.jpg
+Lang: fr
 Illus.0.title: Cinq niveaux sous la pierre, faite de lattes renforcées de chêne de dix centimètres d'épaisseur et ceinte de fer. Mais elle ne protège toujours pas du spam.
 
 Un matin le Temple se trouva inondé d'appels d'utilisateurs paniqués,

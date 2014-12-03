@@ -1,8 +1,7 @@
 Date: 2014-11-28
 Title: Dix milles erreurs
 Number: 100
-Geekiness: 0
-Lang:fr
+Lang: fr
 Translator: abelards
 Illus.0.title: Il existe maintenant des applications de boulier pour tablettes, si l'envie vous prend d'utiliser votre processeur dernier cri pour faire vos calculs manuellement. Je trouve cela étrangement beau.
 
