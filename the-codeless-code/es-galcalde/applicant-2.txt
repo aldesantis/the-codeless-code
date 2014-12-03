@@ -1,0 +1,70 @@
+Series: 1
+Number: 2
+Lang: es
+Translator: galcalde
+Title: El Aspirante
+Subtitle: La Fuente de Anantha
+
+[[Aaradhya]] viajó al norte durante varios días cuando encontró un solemne circo de niños juntados al costadod el camino fuera de una escuela en ruinas. Sus pieles castañas claras eran algo más claras que la suya. Cada niño tenía una vieja laptop a baterías con un simple texto en pantalla, con letras blancas sobre fondo gris. En cada pantalla aparecía el mismo breve listado de código.
+
+"¿Qué lenguaje es?" preguntó Aaradhya, observando sobre el hombro de un niño a una de las pantallas.
+
+"Es BASIC, Señora," respondió el niño. "La señorita empezó a enseñarlo la semana pasada."
+
+"El lenguaje ha cambiado mucho desde que tenía tu edad," observó Aaradhya. "¿Donde están los números de lineas?"
+
+"No se necesitan, Señora."
+
+"¿Y entonces como usan el GOTO?"
+
+"El GOTO está prohibido, Señora. Sólo hacemos álgebra."
+
+"¿Entonces como escribieron la Fuente de Anantha?"
+
+Los niños se miraron confundidos.
+
+"Ah," dijo Aaradhya. "No me extraña que tengan las caras de un buey enyuntado a un arado. Cuando era niña era una costumbre finalizar el primer día con la Fuente de Anantha. Aquí..." La monja gentilmente tomó la laptop de una de las niñas. "¿Cual es tu nombre?"
+
+"Simbala, Señora."
+
+Aaradhya escribió:
+
+<pre>
+  10 PRINT "Hola, Simbala!! ";
+  20 GOTO 10
+  RUN
+</pre>
+
+La pantalla se llenó de olas infinitas de:
+
+<pre>
+  Hola, Simbala!! Hola, Simbala!! Hola, Simbala!! Ho
+  la, Simbala!! Hola, Simbala!! Hola, Simbala!! Hola
+  , Simbala!! Hola, Simbala!! Hola, Simbala!! Hola, 
+  Simbala!! Hola, Simbala!! Hola, Simbala!! Hola, Si
+  mbala!! Hola, Simbala!! Hola, Simbala!! Hola, Simb
+  ala!! Hola, Simbala!! Hola, Simbala!! Hola, Simbal
+  a!! Hola, Simbala!! Hola, Simbala!! Hola, Simbala!
+  ! Hola, Simbala!! Hola, Simbala!! Hola, Simbala!! 
+  Hola, Simbala!! Hola, Simbala!! Hola, Simbala!! Ho
+  la, Simbala!! Hola, Simbala!! Hola, Simbala!! Hola
+  , Simbala!! Hola, Simbala!! Hola, Simbala!! Hola, 
+  Simbala!! Hola, Simbala!! Hola, Simbala!! Hola, Si
+  mbala!! Hola, Simbala!! Hola, Simbala!! Hola, Simb
+  ala!! Hola, Simbala!! Hola, Simbala!! Hola, Simbal
+  a!! Hola, Simbala!! Hola, Simbala!! Hola, Simbala!
+  ! Hola, Simbala!! Hola, Simbala!! Hola, Simbala!! 
+  Hola, Simbala!! Hola, Simbala!! Hola, Simbala!! Ho
+  la, Simbala!! Hola, Simbala!! Hola, Simbala!! Hola
+</pre>
+
+Mientras cada linea aparecía al fondo, las lineas fluían hacia arriba.
+
+"Ahora cada uno prueben con sus propios nombres," dijo Aaradhya a los niños que se juntaron, aunque no necesitaba pedirlo; algunos ya habían hecho la mitad del código. Las laptops pasaban de mano en mano y comparaban las salidas. Para algunos nombres las franjas diagonales iban a la izquierda, para otros iban a la derecha, y para algunos eran tan empinadas que eran casi invisibles. Para un niño con un nombre particularmente largo el saludo simplemente se repetía en una columna vertical. Aaradhya le aconsejó añadir otro signo de interrogación -- u otros caracteres que eligiera -- y seguramente emergía el patron diseñado. Los otros lo imitaron, y pronto los nombres eran reemplazados por olas ondulantes de puntos, guiones, signos de porcentajes y barras.
+
+La vieja señorita salió de laa escuaela al son de tanto charloteo. Cuando vio lo que Aaradhya les enseñó a los niños ella agarró una escoba y persiguió a la aprendiz por los terrenos.
+
+"¡Chica Idiota!" dijo la señorita. "¿No puede ver que nuestra aldea es pobre? La única esperanza que tienen estos niños es aprender su profesión rápido y bien, y no gastar tiempo en tonterías improductivas." La señorita levantó su escoba otra vez, pero Aaradhya rodó y blandió su bastón alto a cambio. La vieja mujer retrocedió.
+
+"Al contrario, Señora Profesora," gruñó Aaradhya. "Le he hecho un buen servicio, y algún día volveré con una escoba mía para extraerle el pago de su piel arrugada. ¿Nunca ha visto gatos retozando con una madeja de hilo? Usted tomó una manada de tigres cachorros y meramente les ordenó que atacaran a un oso. Yo los volví hambrientos por la cacería."
+
