@@ -1,0 +1,9 @@
+Name: Le Clan de l'Araignée
+Lang: fr
+Translator: abelards
+Les développeurs de Web Services et de la couche d'interface utilisateur.
+Oui, les "vrais" développeurs rient lorsque les moines du Clan de l'Araignée
+parlent de "programmer" en HTML, JSTL, CSS ou Javascript.
+Jusqu'à ce que le client décide que la page d'accueil doit
+/absolument/ avoir des cochons translucides qui dansent,
+suivant le curseur de la souris, sous IE 5.5.
