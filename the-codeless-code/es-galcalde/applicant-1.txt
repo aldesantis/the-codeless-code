@@ -1,0 +1,50 @@
+Series: 1
+Number: 1
+Lang: es
+Translator: galcalde
+Title: El Aspirante
+Subtitle: El Ermitaño
+
+El [[Temple of the Morning Brass Gong|Templo del Gong de Latón Mañanero]] hizo correr la voz de varias camas vacantes en su cluster de pequeñas abadías. Un rumor popular fue de que allí hubo [[#49|un incidente insatisfactorio que involucraba papel,]] cuyo resultado fue que un número de monjes fueran "sacados." El término no era jerga: en el templo, se usaban sacos. Una vez atados en estopa los desgraciados rodaban como troncos por la ladera, donde los afortunados se estrellarían con mucha fuerza contra los pinos. Los desafortunados evitaban los pinos y caían por el borde del precipicio al final de la pendiente.
+
+(Esto no era de ninguna manera el peor destino que a un monje le podía esperar. Los iniciados estaban más preocupados por ser "despedidos," un ritual que involucra nitrato de potasio, azufre, carbón vegetal, y un cañon grande. Más doloroso aún era la medida de ahorro conocida como “recorte,” en donde a los monjes se los hacía caber en catres más pequeños cortándoles varios centímetros de altura innecesaria, procediendo si desde los pies para arriba o (en el caso de la administración) del cuello para abajo. Y nadie que trabajara en las cocinas deseaba contemplar el proceso de cinco días involucrados en ser “enlatado.”)
+
+- - -
+
+La noticias de las vacantes llegaron a una aprendiz llamad Aaradhya. Su casa estaba en un país cálido muy lejos del templo, un lugar de colinas calvas sometidas a un sol implacable. Siempre había polvo en el aire. Cubría piel, dientes y circuitos. A diferencia de su familia Aaradhya creció menos acostumbrada cada día, y después de veinte años de respirarlo tuvo bastante.
+
+El sitio web del templo decretó que las entrevistas se estaban haciendo, pero no ofrecían ni información de contacto ni un formulario para expresar interés. Curiosamente, hasta el lugar del templo era confidencial.
+
+Aaradhya leyó cuidadosamente cada página y finalmente encontró un número telefónico escrito con letra blanca sobre un fondo blanco. Pero la voz que respondió dijo que simplemente llegó a la ermita que alojaba el sitio público del templo.
+
+"Estaría bastante agradecida si me dijera el número del templo," dijo Aaradhya, monjando su pincel en un frasco de tinta negra. Ella lo revolvió para mezclar la delgada capa de mota.
+
+"Cuatro, cero tres," respondió el ermitaño. Aaradhya copió los dígitos y esperó a que el ermitaño continuara, pero el otro extremo de la linea estaba en silencio.
+
+"¿Y puede ser contado el resto del número?" preguntó Aaradhya.
+
+"Cuatro, cero tres," respondió el ermitaño. De nuevo hubo una larga pausa, y de nuevo la cantidad de dígitos aún era insuficiente.  Aaradhya puso el pincel abajo, golpeteando el dedo índice en la mesa en contemplación.
+
+"Tráigame una esmeralda del tamaño de un huevo de chorlito," ella ordenó.
+
+"Cuatro cero cuatro," respondió el ermitaño, y Aaradhya sonrió con satisfacción, porque sabía que había adivinado su algoritmo.
+
+"Seguramente usted no es un ermitaño desarraigado sino un hermano del [[Spider Clan|Clan de la Araña]]," dijo ella, "por su respuesta acorde a su costumbre legendaria. ¿Hay algún medio por el cual el templo pueda ser contactado por esta humilde peticionaria?"
+
+"Doscientas veces debo responder que sí."
+
+"¿Y podría su estimada persona impartir esos medios?"
+
+"Doscientas cuatro veces debo responder que no."
+
+"Hermano ermitaño, sin dudas es usted un maestro de las redes, porque yo estoy completamente atrapada en una. ¿No puede ofrecer a esta pobre aprendiz apenas una redirección?"
+
+"Trescientas una veces la enviaría devuelta hacia donde vino; sin embargo seguramente aquí es donde deberías desear estar," dijo el ermitaño. Hubo un beep corto, y luego un perfecto silencio electrónico.
+
+Aaradhya colgó el teléfono. La página con el número de la ermita aún brillaba en su pantalla. Era poca su importancia, o quizás eso parecía; porque fue escrita enteramente en hipérbole entusiasta atada con polisílabos de moda -- un dialecto exclusivo del tres veces despreciado Clan de la Serpiente Libidinosa. Aaradhya intentó descifrar algún significado útil de los pasajes hasta que sus ojos se secaron y su cabeza se cayó. Finalmente se sentó en derrota, contemplando su siguiente movimiento. El fondo tranquilo de la página representaba los terrenos del templo en una mañana con niebla: la niebla creciente se desvanecía elegantemente en el área de contenido blanco. El sol era pálido y frío.
+
+Sin duda, pensó: si aquí es donde debería desear estar, entonces aquí es donde <em>debo</em> estar. Porque es como me enseñó mi viejo maestro de C: el puntero char puede ser puesto en null, pero el array de char jamás. La telepresencia es como mucho un proxy frágil de la <em>presencia.</em>
+
+Así Aaradhya se despidió de su familia, echó su tazón a sus espaldas y su taza a los hombros, y se fue a la provincia distante donde el templo se rumoreaba que estaba.
+
+<p style="font-size:88%; background-color:#fff;color:#fff;">(Sí, sí, eres muy listo. Pero obviamente no te daré mi número telefónico aquí.)</p>
