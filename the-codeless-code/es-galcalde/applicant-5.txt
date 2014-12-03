@@ -7,9 +7,9 @@ Subtitle: La Olla de Hierro
 
 El día siguiente amaneció brillante y caluroso. se compartió el pan, la burra fue dada de beber y recargada, y el trío partió hacia un zumbido matutino con insectos.
 
-"Imagina," dijo Aaradhya, "que has viajado lejos desde tu hogar y te encuentras en una extraña aldea de tenderos. Es de tarde, y tienes hambre. Aprendes que la cocina te servirá guiso pero requiere lentejas rojas, hojas de curry, y agua a cambio; eel granjero te dará las lentejas pero requiere semillas y el préstamo de un buey..."
+"Imagina," dijo Aaradhya, "que has viajado lejos desde tu hogar y te encuentras en una extraña aldea de tenderos. Es de tarde, y tienes hambre. Aprendes que la cocina te servirá guiso pero requiere lentejas rojas, hojas de curry, y agua a cambio; el granjero te dará las lentejas pero requiere semillas y el préstamo de un buey..."
 
-En la algea hipotética de Aaradhya también habían mercaderes que controlaban los almacenes rebosantes de todo tipo de cosas útiles, items producidos por algunos tenderos y necesitados por otros -- especias preciosas, tablas de madera robusta, sierras finas, barriles de aceite para lámparas. Los mercaderes pertenecían a un gremio respetado llamado <em>DAO</em>.
+En la aldea hipotética de Aaradhya también habían mercaderes que controlaban los almacenes rebosantes de todo tipo de cosas útiles, items producidos por algunos tenderos y necesitados por otros -- especias preciosas, tablas de madera robusta, sierras finas, barriles de aceite para lámparas. Los mercaderes pertenecían a un gremio respetado llamado <em>DAO</em>.
 
 "Dirección Administradora Oficial," explicó Aaradhya. "Su única función es almacenar, administrar, y devolver Objetos de Valor..."
 
@@ -31,4 +31,4 @@ Aaradhya saludó al niño, quien alimentaba a la burra. <em>"Tarun,"</em> llamó
 
 "Porque nadie buscando una olla de hierro pensará en pedirle al carpintero."
 
-Aaradhya miró al abuelo, con una soonrisa satisfecha en la esquina de su boca. "Mucho de lo que necesita saber está dentro suyo. El resto es sólo sintaxis."
+Aaradhya miró al abuelo, con una sonrisa satisfecha en la esquina de su boca. "Mucho de lo que necesita saber está dentro suyo. El resto es sólo sintaxis."
