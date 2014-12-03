@@ -1,0 +1,44 @@
+Series: 1
+Number: 3
+Lang: es
+Translator: galcalde
+Title: El Aspirante
+Subtitle: Haciendo las Cuentas
+
+[[Aaradhya]] apenas había pasado las fronteras de la aldea cuando ella oyó una voz aguda gritando <em>¡Señora! ¡Señora!</em> detras suyo en el camino. Un niño la estaba persiguiendo, saludando frenéticamente. Mientras derrapaba en una parada en el polvo a su lado Aaradhya lo reconoció como uno de los estudiantes de BASIC de la escuela. Tenía siete años, estaba descalzo y sin camisa, vestía sólo un par de pantalones beige cuyo patrón se había desvanecido hace tiempo. Su pelo era lacio y tan negro como el de Aaradhya, y su piel era marrón, pero sus ojos eran de un tono verde asombroso.
+
+"¡Señora!" jadeo el niño. "¡Mi abuelo desea hablar contigo!" Él la tomó de la mano y la llevó por el camino.
+
+El abuelo caminaba sin prisa hacia ellos, manteniendo a raya el sol abrasador del mediodía con una sombrilla harapienta. Su pelo era blanco, y al igual que el niño vestía ropas andrajosas y pálidas cuyos colores hace mucho se perdieron a la intemperie. Cuando los dos se acercaron él cerró la sombrilla y saludó a Aaradhya con una ligera inclinación, con las palmas tocándose ante su pecho. Aaradhya devolvió el gesto.
+
+"Esa profesora no es buena," dijo el abuelo, "y al niño hay que enseñarle apropiadamente. Si no acabará como su padre, un hombre roto al que sólo se le puede confiar el crear macros de hojas de cálculo y el archivo .BAT de ocasión."
+
+"Es un destino común," reconoció Aaradhya.
+
+"Entiendo que eres una profesora de habilidad no pequeña," continuó el hombre viejo. "Versado no sólo en BASIC, sino en las envidiables artes de Java y C."
+
+Aaradhya levantó una ceja. "Mi BASIC está lamentablemente desactualizado. Y aunque es cierto que he completado mi aprendizaje en Java, estoy lejos de ser llamada maestra."
+
+"Aún, excedes a todos los demás en esta aldea. ¿No puedes quedarte por un rato, para educar a aquellos que lo deseen?"
+
+"Mi propio maestro tenía un dicho," dijo Aaradhya. <i>"El MAX_VALUE del Byte puede ser envidiado por el cero, pero está lejos del MAX_VALUE del Integer."</i> Se pasó una mano distraídamente a lo largo del borde de su manto. "De hecho, es para una promoción de ese estilo por la que viajo al norte. El Templo del Gong de Latón Mañanero está haciendo concursos para aprendices nuevos este més. Por eso no me atrevo a quedarme ni por un día, a menos que las pocas posiciones hayan sido llenadas."
+
+"¡Ah!" lamentó el abuelo. "He oído del templo. ¡Muy lejos, y atravesando las montañas! ¿No te serviría mejor viajar en alguna clase de vehículo con motor de combustión interna?"
+
+Aaradhya se rió. "También preguntarías si me serviría mejor que me broten alas y vuele! ¡Aunque pudiera encontrar un aparato así en estas provincias, no podría pagarlo, ni tampoco el combustible para alimentarlo."
+
+"Quizás, quizás," dijo el viejo, sonriendo casi sin dientes. "En Reechee hay un conductor que atraviesa las montañas diariamente en un vehículo, un transporte maravilloso que diseñó de un vagón abandonado. Lo llama <em>autobús</em>, porque transporta a varios pasajeros en paralelo. El y yo somos primos lejanos, y puedo ser capaz de convencerle de llevarte gratis." El abuelo abrió su sombrilla de nuevo y caminó hacia la aldea. "Todo lo que pido es que eduque a mi niño por el camino."
+
+"Reechee está a tres días de aquí," dijo Aaradhya, conmocionada. "Yendo al doble de velocidad de tus viejas piernas. ¡Y está en la dirección contraria!"
+
+"Seis días caminando más dos días en autobús, contra tres semanas a pie," respondió el abuelo. El llevó al niño a su lado. "En cualquier lenguaje, la cuenta es simple. Hasta puede ser hecha en Bytes."
+
+Aaradhya detuvo su andar; el viejo la ignoró y continuó. El niño miró atrás unas pocas veces, pero cada vez el abuelo giraba la cabeza del niño con mano firme.
+
+"¿Cómo puedo estar segura de que tu primo me dará el pasaje?" gritó Aaradhya.
+
+"¡No puedes!" gritó el abuelo sin darse vuelta. Él levantó su dedo índice. "La vida es un algoritmo probabilístico, donde la entrada óptima puede aún producir malos resultados. Pero cada minuto que discutimos es un un minuto desperdiciado, y los minutos son preciosos para ambos."
+
+Las dos figuras se desvanecieron en una curva, y Aaradhya estaba sola.
+
+Se quedó debatiendo consigo misma por otro minuto, luego se maldijo privadamente y corrió por el camino tras de ellos.
