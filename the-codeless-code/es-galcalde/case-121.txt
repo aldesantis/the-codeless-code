@@ -1,0 +1,16 @@
+Number: 121
+Title: Donde los Ángeles Temen Enhebrar
+Lang: es
+Translator: galcalde
+
+La monja [[Satou]] se acercó al maestro Java [[Banzen]] y dijo: "Hay un cuello de botella en el procesamiento que yo creo que puedo eliminar usando varios hilos de trabajo. Sin embargo he oído este proverbio: <i>Si te enfrentas a un problema y dices, 'Debo usar hilos', ahora tienes dos problemas."</i>
+
+Banzen respondió: "El dicho es viejo, pero no es un proverbio verdadero. En lugar de <em>hilos</em> oí <i>XML, expresiones regulares, singletons, y AWK.</i> Es meramente una fórmula de un parámetro el cual puede estar atado a cualquier cosa desagradable. Hay más sabiduría en el ladrido de los perros."
+
+La monja lo consideró, y dijo: "Así que si te enfrentas a un problema y dices, 'Debo usar el Proverbio de los Dos Problemas', ahora tienes dos problemas."
+
+Banzen levemente asintió a la monja, lo cual la satisfizo. Sin embargo levantó su dedo índice. "Que las palabras sean huecas no las hace falsas. Los hilos son como el legendario Tsurugi Infinitamente Filoso, cuya hoja puede cortar a un enemigo en dos mientras esté a un pie de su cuerpo, y que sin embargo le corta un dedo al que lo maneja cada vez que lo desenvaina."
+
+La monja preguntó: "¿Como sabré cuando haya aprendido lo suficiente para usar los hilos sabiamente?"
+
+Banzen respondió: "Cuando ya no desees usarlos."
