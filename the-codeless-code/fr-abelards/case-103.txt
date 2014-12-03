@@ -1,8 +1,7 @@
 Number: 103
-Title: La boîte de laque noire
-Translator: abelards
 Lang: fr
-Date: 2013-07-21
+Translator: abelards
+Title: La boîte de laque noire
 
 Le maître [[Bawan]] posait ce dilemme aux développeurs dont il avait la charge :
 
@@ -10,12 +9,12 @@ Le maître [[Bawan]] posait ce dilemme aux développeurs dont il avait la charge
  notre arme la plus puissante a toujour été les messages de debug:
  plus on en a, plus ils sont détaillés, mieux nous nous en sortons.
 
- Mais quand on en utilise trop, le formatage de ces messages devient
+Mais quand on en utilise trop, le formatage de ces messages devient
  de plus en plus coûteux -- /inutilement/ coûteux, car nous retirons
  ces messages de nos fichiers journalisés quand nous ne sommes pas
  en cours d'enquête sur un de ces problèmes.
 
- Quel chemin est le meilleur ? Sûr mais lent, ou téméraire mais rapide ?"
+Quel chemin est le meilleur ? Sûr mais lent, ou téméraire mais rapide ?"
 
 <i>"Wú,"</i> dit une nonne. "Tout peut être ajouté, pour un coût minime.
 Enveloppons chacun de ces appels de /debug/ dans un /if/ qui vérifie si

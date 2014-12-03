@@ -1,0 +1,55 @@
+Number: 104
+Lang: fr
+Translator: abelards
+Title: Garde-fou
+
+Un certain moine du [[Spider Clan|Clan de l'Araignée]] essayait
+d'utiliser une bibliothèque de client email écrite par le
+[[Laughing Monkey Clan|Singe Rieur]].
+Le message qu'il tentait d'envoyer était simple, mais de quelque
+manière qu'il retouche son code, la bibliothèque lançait des exceptions
+des plus curieuses, ou échouait en silence.
+
+Le moine proposa de rencontrer l'auteur, et lui exprima poliment
+sa frustration.
+
+"Lamentablement, la faute est vôtre," répondit l'auteur en s'inclinant.
+"Auriez-vous pris la peine de lire la très exhaustive documentation que
+je vous avais fournie, vous auriez vu qu'un ajout de pièces jointes
+devrait se faire uniquement /après/ avoir rempli le corps de message.
+Et bien que la méthode /setMessageText/ accepte un Object sans contrainte
+de type, cet Object doit être un tableau de Strings, un DomNode,
+ou bien un BufferedInputReader.
+De plus, vous oubliez de noter que certaines adresses d'envoi sont
+ignorées sans pour autant lever de message d'erreur..."
+
+L'auteur continua ainsi longuement, montrant comment le moine aurait
+pu éviter chacun de ces problèmes. Ainsi, le moine revint à l'abbaye
+du Clan de l'Araignée, échaudé comme il se doit.
+
+Maître [[Suku]] eut vent de cette histoire et convoqua l'auteur.
+
+"J'ai lu votre documentation," dit Suku.
+"Elle est en effet la rigueur incarnée, et mériterait
+que davantage s'en inspirent. Veuillez je vous prie prendre cet
+exemplaire imprimé à l'abbé, pour que d'autres puissent
+apprendre de cet exemple."
+
+L'auteur suivit Suku jusqu'à la chambre de l'abbé et poussa
+la lourde porte de toutes ses forces. Quand la porte finit par
+souvrir d'un coup, le moine bondit en arrière, empli d'une sainte
+terreur, car au-delà on ne voyait que l'obscurité d'un précipice.
+Ses cris de surprise firent de nombreux échos sur les murs de pierre ;
+on pouvait entendre de l'eau clapoter bien plus profond.
+
+"Il y a une corniche à votre gauche, à peu près aussi large que votre
+pied," expliqua Suku. "Avancez de côté avec soin, jusqu'à ce que
+vous vous trouviez de l'autre côté du puits.
+Là, vous trouverez des échelons de fer dans le mur, qui mènent
+jusqu'aux eaux où [[#67|les os de l'abbé]] vous attendent.
+Et prenez note : l'humidité a rendu la corniche glissante,
+une pierre sur trois est située quelques centimètres plus haut,
+une pierre sur cinque est un peu plus bas, et une fois sur sept
+il n'y a plus de pierre du tout.
+Mais si vous gardez tout cela à l'esprit, le chemin est plutôt
+simple."

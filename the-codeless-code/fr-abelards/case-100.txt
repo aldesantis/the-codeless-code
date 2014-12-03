@@ -1,8 +1,7 @@
-Date: 2014-11-28
-Title: Dix milles erreurs
 Number: 100
 Lang: fr
 Translator: abelards
+Title: Dix mille erreurs
 Illus.0.title: Il existe maintenant des applications de boulier pour tablettes, si l'envie vous prend d'utiliser votre processeur dernier cri pour faire vos calculs manuellement. Je trouve cela étrangement beau.
 
 Un novice demanda au maître [[Banzen]] : « Qu'est-ce qui sépare le moine du maître ? »

@@ -1,8 +1,7 @@
 Number: 102
-Title: Spatule
-Date: 2013-07-12
-Translator: abelards
 Lang: fr
+Translator: abelards
+Title: Spatule
 Illus.0.title: Et cela fait un riz merveilleux pourtant... crois moi.
 
 Alors que les novices le voient rarement, les maîtres se corrigent parfois les uns les autres :
