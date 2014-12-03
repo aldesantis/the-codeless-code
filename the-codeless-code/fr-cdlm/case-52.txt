@@ -1,0 +1,69 @@
+Title: Seaux
+Number: 52
+Lang: fr
+Translator: cdlm
+
+Après le petit-déjeuner, un novice du Clan de l'Araignée remarqua une file de six moines quittant le temple, palanche à seaux à l'épaule et expression sinistre au visage.
+Un jeune abbé les suivait de près.
+Les moines descendirent péniblement par un chemin rocailleux et envahi par les herbes qui serpentait le long de la colline, disparaissant dans une broussaille de pins.
+
+Ce même novice vit les moines remontant au temple après le déjeuner.
+Leurs seaux étaient maintenant bourrés de terre humide et de pierres, mais malgré la lourde charge, chaque frère riait et avait la jambe alerte.
+
+Il en fût de même le lendemain, et le jour suivant, et le jour d'après, piquant la curiosité du novice.
+Comme les six moines portaient la ceinture d'étoffe rouge du [[Laughing Monkey Clan|Clan du Singe Rieur]], le novice se rendit à l'aile de ce clan.
+L'abbé était assis par terre dans la salle principale, occupé à faire tenir un œuf en équilibre sur le bout.
+
+« Qu'en est-il des six moines, et des seaux de terre ? » s'enquit le novice.
+
+« Ils sont punis, » dit l'abbé, « pour leur gestion périlleuse d'un module logiciel critique. »
+Il plongea la main dans un petit sac de sel, en mit une pincée sur le sol, plaça l'œuf dessus, et souffla soigneusement pour disperser le sel.
+L'œuf bascula.
+L'abbé soupira, prit une autre pincée de sel, et recommença.
+
+« Quel défaut ont-ils introduit ? » s'enquit le novice.
+
+<i>« Mu, »</i> dit l'abbé.
+« Ils n'ont introduit aucun défaut.
+Pas une seule ligne de code n'a été touchée depuis plusieurs mois. »
+
+« Alors quel défaut ont-ils omis de corriger ? »
+
+<i>« Mu, »</i> répéta l'abbé alors que l'œuf basculait de nouveau.
+« Le module fonctionne à la perfection, et continuera sans nul doute pendant de nombreux mois. »
+
+Le novice fronça les sourcils.
+« Je ne vois pas comment on peut faire objection à une chose exempte de tout défaut et de tout changement, ou qualifier sa gestion de périlleuse. »
+
+« Toi, le moine ! » tonna une voix derrière lui.
+Le novice se retourna pour trouver le maître Java [[Banzen]] le fusillant du regard.
+
+« Demain, tu rejoins la file, » dit Banzen.
+
+- - -
+
+« La punition est simple, » dit le jeune abbé alors que le novice attrapait sa palanque.
+« j'expliquerai quand nous arriverons au trou. »
+
+Le novice suivit les six frères le long du chemin rocailleux, le jeune abbé fermant la marche derrière lui.
+Ils s'enfoncèrent dans la forêt en silence.
+
+Finalement ils arrivèrent à une large clairière baignée de soleil.
+Au centre, une immense flèche de pierre s'élançait vers les cieux :
+elle faisait au moins quatre étages de haut, et était si large que vingt hommes se tenant à bout de bras pourraient à peine l'encercler.
+
+« N'est-elle pas grandiose ? » dit l'abbé.
+« Elle se tient là depuis l'aube des temps. »
+
+S'approchant, le novice put voir que la clairière avait été creusée tout autour du rocher, qui était maintenant encerclé d'un vaste fossé.
+Le dernier échelon d'une échelle de bambou dépassait du rebord.
+Les moines disparurent tour à tour par l'échelle, n'émergeant qu'un long moment plus tard trempés de sueur, avec une palanque chargée et un large sourire.
+
+Finalement, ce fut le tour du novice.
+
+Le fossé était profond de plusieurs étages.
+Alors que le novice s'enfonçait échelon après échelon dans l'abysse, il put voir que la terre avait été creusée non seulement autour du rocher, mais en dessous également.
+L'entière masse du rocher s'équilibrait dangereusement sur quelques mètres de terre compacte.
+
+« Rampe sous le rocher, » cria l'abbé vers le fossé, « jusqu'à la butte sous le centre.
+Remplis tes seaux de cette terre. Et si j'étais toi, je travaillerais doucement et j'essaierais de ne pas éternuer. »
