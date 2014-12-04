@@ -1,0 +1,60 @@
+Number: 106
+Title: L'individu dans l'équipe
+Date: 2013-08-15
+Geekiness: 0
+Names: Jinyu
+Topics: responsabilité, fierté, encodage
+Lang: fr
+Translator: abelards
+Illus.0.src: Jinyu.jpg
+Illus.0.title: Chacun au Temple vit dans la peur du jour où elle aura plutôt besoin d'une fauteuil roulant que d'une canne. Se faire frapper avec un fauteil roulant fait VRAIMENT mal.
+
+Un certain moine était connu à travers le Temple pour son humilité.
+Quand on parlait de failles dans les logiciels de son clan,
+il prenait toujours la responsabilité personnellement, mais quand
+il recevait des louanges pour les merveilleuses fonctionnalités
+qu'il avait lui-même développées, il donnait toujours le crédit
+à l'équipe entière.
+Avec le temps, ces mots vinrent aux oreilles de la vieille [[Jinyu]],
+Abbesse de tous les Clans et Préoccupations.
+
+"Alors," dit-elle à son abbé en chef, "ce moine dit <i>j'ai échoué</i>
+des erreurs des autres, et <i>nous avons triomphé</i> de ses propres victoires ?"
+
+"C'est ce qui se dit dans tout le Temple," dit le moine.
+
+"Amenez-le moi," commanda Jinyu.
+
+Quand ce fut fait, Jinyu surprit tout le public en frappant
+le moine avec sa canne, et le punissant de trente jours de
+dur labeur dans les mines de données. Après que le moine
+a été emmené, l'abbé approcha Jinyu nerveusement pour
+s'enquérir de la raison de ces actes.
+
+Jinyu frappa l'abbé. "Imbécile ! Réfléchis à l'algorithme de ce moine.
+Quand il dit <i>j'ai échoué</i>, qu'est-ce qui est le plus probable en vérité ?"
+
+"Que d'autres ont échoué", dit l'abbé, craintif.
+
+Jinyu le frappa à nouveau. "Et quand le moine dit <i>nous avons triomphé</i>,
+que veut-il très certainement dire ?"
+
+"Que la victoire est à lui seul," dit le moine, grimaçant de douleur.
+
+La vieille prêtresse fit tournoyer sa canne au dessus de sa tête,
+si vite que l'air lui-même geignit d'angoisse, jusqu'à ce qu'elle
+abaisse la canne, dans le bruit déchirant de la foudre,
+sur le sol devant l'abbé terrifié.
+
+"La seule chose louable que l'on puisse attribuer à ce moine
+prétentieux est qu'il ait maîtrisé l'art de la correspondance
+un-à-un. Et pendant ce temps, que puis-je donc faire du
+reste des idiots que vous êtes ? Vous avez été bernés par un
+simple chiffrement de substitution <i>que vos cerveaux avaient
+déjà décodé</i>."
+
+
+== Note du Traducteur
+Le titre original est une expression anglaise bien connue "there's no I in team" :
+- il n'y a pas de lettre "I" (de mot "je") dans le mot "équipe"
+- il n'y a pas de place pour un égo trop fort dans une équipe
