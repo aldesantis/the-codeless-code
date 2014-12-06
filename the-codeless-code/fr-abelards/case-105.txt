@@ -1,12 +1,7 @@
 Number: 105
 Title: Navigation
-Date: 2013-08-03
-Geekiness: 1
-Names: Banzen
-Topics: design, documentation, planning
 Lang: fr
 Translator: abelards
-Illus.0.src: Map.jpg
 Illus.0.title: En fait, s'il a brûlé les cartes, c'est que le Temple lui a donné un téléphone avec GPS. Mais vous avez compris.
 
 Une jeune nonne approcha le maître [[Banzen]] et dit :
