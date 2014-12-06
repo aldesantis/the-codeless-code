@@ -1,13 +1,7 @@
-Date: 2013-09-01
 Number: 108
-Title: Le bec sucré
-Geekiness: 3
-Names: Djishin, Banzen, Satou
-Topics: refactoring, architecture, frameworks, solutions partielles, YAGNI, reflection
+Title: Bec sucré
 Lang: fr
 Translator: abelards
-Illus.0.par: 1
-Illus.0.src: MrYuk.jpg
 Illus.0.title: Il faudrait que je puisse ajouter de gros icônes 'M. Berk' fluorescents dans le code source.
 
 Le moine [[Djishin]] avait reçu la charge de faire une page Web pour 
