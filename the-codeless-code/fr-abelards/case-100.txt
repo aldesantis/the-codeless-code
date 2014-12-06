@@ -1,7 +1,5 @@
-Date: 2014-11-28
-Title: Dix mille erreurs
 Number: 100
-Geekiness: 0
+Title: Dix mille erreurs
 Lang: fr
 Translator: abelards
 Illus.0.title: Il existe maintenant des applications de boulier pour tablettes, si l'envie vous prend d'utiliser votre processeur dernier cri pour faire vos calculs manuellement. Je trouve cela étrangement beau.
@@ -13,8 +11,10 @@ Banzen répondit : « Dix mille erreurs ! »
 Le novice, qui ne comprenait pas, cherchait à éviter toutes les erreurs.
 Un abbé vit cela et amena le novice à Banzen pour qu'il le corrige.
 
-Banzen expliqua : « J'ai fait dix mille erreurs ; [[Suku]] a fait dix mille erreurs ; les patriarches de l'Open Source ont chacun fait dix mille erreurs. »
+Banzen expliqua : « J'ai fait dix mille erreurs ; [[Suku]] a fait dix mille erreurs ;
+les patriarches de l'Open Source ont chacun fait dix mille erreurs. »
 
-Le novice demanda : « Et le vieux moine qui travaille sur le bureau à côté du mien ? Il a très certainement fait dix mille erreurs aussi. »
+Le novice demanda : « Et le vieux moine qui travaille sur le bureau à côté du mien ?
+Il a très certainement fait dix mille erreurs aussi. »
 
 Banzen secoua la tête tristement. « Dix erreurs, mille fois chacune. »
