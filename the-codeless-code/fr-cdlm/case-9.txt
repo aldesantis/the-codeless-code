@@ -25,7 +25,7 @@ L'abbé fit rapport de l'incident au maître Java, qui acquiesca.
 Aucune boucle ne peut être réellement infinie.
 Le jour ou l'autre l'électricié sera coupée, le serveur rouillera, le temple tombera en ruines, et le soleil engloutira la terre. »
 
-L'abbé s'enquérit, « Et au gros bronzé, qui pense que la boucle est infinie ? »
+L'abbé s'enquit, « Et au gros bronzé, qui pense que la boucle est infinie ? »
 
 « Donnez-lui deux outres de vin, car il est plus sage encore.
 Pour l'utilisateur attendant devant son navigateur, dix secondes sont une agonie, une minute est une vie, et tout délai au delà est pour ainsi dire une éternité.
