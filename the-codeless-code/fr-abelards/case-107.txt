@@ -1,0 +1,104 @@
+Date: 2013-08-23
+Title: Babel
+Number: 107
+Geekiness: 2
+Names: Kaimu
+Topics: langages, langages de haut niveau, Perl, Python
+Credits: Ce sujet a été suggéré par Xunie.
+Lang: fr
+Translator: abelards
+Illus.0.par: 0
+Illus.0.src: Stranger-detail.jpg
+Illus.1.par: last
+Illus.1.src: Stranger.jpg
+Illus.1.align: centered
+
+
+Un étranger maigre et débraillé arriva au Temple une nuit,
+et demanda maître [[Kaimu]].  Le maître fut réveillé et
+amené à la porte, d'où l'étranger lui dit :
+
+"Des années durant, j'ai erré dans cet pays sans merci,
+cherchant le langage de programmation parfait. Nommez
+m'en un, n'importe lequel : je l'ai testé, fut-il rapide ou lent,
+haut ou bas niveau, de l'Ada au Zeno. Mais quelque furent les
+avantages, il y a aussi des inconvénients, alors je
+rassemble mes affaires et je repars sur la route --
+ce qui dans le dernier cas m'amène à votre porte."
+
+Kaimu demanda à l'étranger de décrire ce langage que son coeur désirait.
+
+"Il doit convenir à toute l'entreprise," repondit l'étranger,
+"côté client ou serveur, dans les scripts, dans les terminaux
+et dans les formules de tableur. Je le veux temps réel,
+multi-thread, et dans lequel on puisse utiliser l'orientation
+objet sans y être obligé ;
+j'y souhaite un mécanisme de ramasse-miettes, détection des interblocages,
+pouvoir y définir des exceptions sur mesure, redimensionner les tableaux
+de n'importe quel type automatiquement, et des expressions régulières
+pour faire la correspondance sur les chaînes de caractères.
+Je veux la simplicité du BASIC, la pureté du Smalltalk, la concision
+du Haskell, la rapidité du C, la cohérence du Lisp, la lisibilité
+de Python, la flexibilité de Perl, et la portabilité de...
+Java, j'imagine, mais avec des interfaces avec le code native
+qui ne soient pas un sac de noeuds."
+
+"Et bien, demain matin nous vous aiderons au mieux de nos compétences,"
+dit Kaimu. "Mais vous devrez passer la nuit dans l'appentis du
+charpentier, sous le mur Sud."
+
+L'étranger s'inclina et partit pour faire son lit au milieu
+de la sciure et des copeaux de bois. Tandis que Kaimu partit
+vers ses appartements, un moine demanda, "qu'avez-vous
+l'intention de faire de lui ?"
+
+"Quand l'aube poindra," dit le maître, "notre invité verra que
+sur les murs de l'appentis sont disposés des milliers d'outils,
+chacun fabriqué pour un besoin unique. Personne ne confond
+le marteau et le burin, mais aucun vrai charpentier ne
+renoncerait à l'un pour ne travailler qu'avec l'autre."
+
+- - -
+
+Aux premières lueurs du soleil, l'étranger revint aux portes du Temple,
+où de nouveau Kaimu et le moine le saluèrent.
+
+"Cherches-tu toujours cette vision de ton coeur ?" demanda Kaimu.
+
+"Non !" répliqua l'étranger. "Car dans l'appentis j'ai trouvé
+une dague des plus formidables, pas plus grande que ma main,
+et dont la poignée s'ouvrait pour révéler les choses les plus
+merveilleuses : pinces à épiler, cure-dents, pinces coupantes,
+forets, clés à molette et alésoir et règles et davantage de
+petites lames que vous ne pouvez en compter !
+En le prenant en main, j'ai cimpris que ma destinée est de
+fabriquer cette chose que je recherchais -- un langage fait
+d'autres langages, un outil qui supprimerait le besoin
+de tous les autres outils !"
+
+Et sur ces paroles, l'étranger s'inclina et prit congé.
+
+Le moine se tourna vers Kaimu, dont la mâchoire était quelque
+peu lâche. "Que disent nos annales au sujet de la Leçon Incomprise ?"
+
+"Que même elle apporte la sagesse," dit le maître, "ne fût-ce
+qu'au malheureux professeur. Sans aucun doute, j'aurais été
+deux fois plus efficaces si j'avais été deux fois moins malin."
+
+"Et cet étranger ?" demanda le moine. "Il va très certainement
+échouer dans son entreprise, car ce couteau qu'il estime tant
+ne contient ni marteau ni burin. Et s'il ne devait réussir
+qu'en partie, ce serait pire encore, car il irait alors ajouter
+encore un autre langage dans un monde qui se noie déjà
+dans la confusion."
+
+"Laissons-le essayer, et souhaitons-lui bonne chance !"
+dit Kaimu. "S'il n'y avait pas eu d'autres fous de sa manière,
+nous n'aurions ni Perl ni Python, ni Bourne shell ni Tcl,
+et le monde n'en serait que plus pauvre.
+Je regrette juste que vous et moi ne soyons pas de tels fous,
+car en ne tentant jamais l'impossible, nous ne pourrons
+jamais espérer l'atteindre."
+
+Et maître et moine quittèrent les portes, et rentrèrent
+dans le Temple ensemble pour saluer le jour qui venait.
