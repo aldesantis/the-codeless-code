@@ -1,18 +1,7 @@
-Date: 2013-08-23
 Title: Babel
 Number: 107
-Geekiness: 2
-Names: Kaimu
-Topics: langages, langages de haut niveau, Perl, Python
-Credits: Ce sujet a été suggéré par Xunie.
 Lang: fr
 Translator: abelards
-Illus.0.par: 0
-Illus.0.src: Stranger-detail.jpg
-Illus.1.par: last
-Illus.1.src: Stranger.jpg
-Illus.1.align: centered
-
 
 Un étranger maigre et débraillé arriva au Temple une nuit,
 et demanda maître [[Kaimu]].  Le maître fut réveillé et
