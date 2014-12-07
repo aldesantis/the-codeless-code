@@ -1,5 +1,7 @@
 Number: 109
 Title: Actions et obligations
+Lang: fr
+Translator: abelards
 Illus.0.title: Il n'aurait vraiment pas dû boire ces trois canettes de Coca Light il y a une heure.
 
 
