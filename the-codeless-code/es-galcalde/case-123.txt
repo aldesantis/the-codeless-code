@@ -1,0 +1,38 @@
+Number: 123
+Title: Orden y Caos
+Lang: es
+Translator: galcalde
+
+Cierto monje, conocido por la elegancia de us código, tenía el hábito de refactorizar el código de sus compañeros de forma que correspondies. "Porque la inconsistencia miltiplicada se vuelve caos," explicaría, "y el caos cría complejidad, y la complejidad trae confusión, y la confusión es la madre de diez mil defectos."
+
+La maestra [[Suku]] -- quien por encima de todo valoraba la limpieza del código -- oyó de esto. Ella se acercó al monje, diciendo, “Requiero tu asistencia para corregir un problema.”
+
+Suku le reveló al monje un gran repositorio, hogar del código fuente de la aplicación más antigua del templo. Durante décadas una procesión incalculable de monjes y monjas pasaron por sus directorios sagrados: añadiendo, quitando, refactorizando, refinando, probando una nueva plataforma por allí, un nuevo enfoque por allá. Varias veces la base de código entera fue migrada de un lenguaje a otro, marcando las capas más profundas con patrones de diseño inconmesurablemente bizarros. Dentro de una clase de utilidad las convenciones de los nommbres eran tan salvajemente inconsistentes que el monje quedó mareado y tuvo que tirarse en el suelo.
+
+"Trae el orden al caos," dijo Suku, y salió.
+
+El monje procedió en serio a reescribir la aplicación en el estilo que había perfeccionado por tantos años. Eligió una nueva plataforma brillante para reemplazar las varias oxidadas, luego eligió un rincon polvoriento del repositorio y trabajó lentamente hacia afuera: añadiendo, quitando, refactorizando, refinando.
+
+- - -
+
+El monje había convertido la fracción más mínima de archivos cuando golpearon la puerta.
+
+"¡Emergencia!" dijo el abad sin aliento afuera, agarrando al monje por la bata y sacándolo por la puerta. "¡Desastre! ¡Desorden! ¡Caducidad! ¡Ruina! No hay gente ni tiempo suficientes; ¡Te necesitamos de una vez, vamos, vamos!"
+
+El monje protestó, pidiendo que alguien traiga a la maestra Suku que ella podría intervenir, pero el abad simplemente montó al monje en sus espaldas y lo arrastó por el pasillo como si fuese un saco ruidoso de arroz.
+
+Aquella tarde Suku halló al monje, atado a su nuevo cubículo por muchas espirales de cuerda fuerte.
+
+"He visto tus commits en el gran repositorio," dijo la maestra, sacando un largo cuchillo que colocó en su garganta. "Donde una vez hubieron cien estilos, ahora hay ciento uno."
+
+Ella hizo un movimiento rápido. El monje se encogió, esperando sentir su sangre derramándose dentro de su bata. En su lugar el cuchillo sólo cortó una hebra de sus ataduras de cáñamo.
+
+"No es perfecto, pero mejor," dijo Suku, y salió.
+
+Ella siguió así durante ciento una tardes hasta que el monje fue liberado.
+
+- - -
+
+Después el monje se entrometió menos con el código de sus compañeros, y en vez empezó a enorgullecerse de su capacidad de imitar los patrones de diseño de los otros cuando modificaba sus aplicaciones.
+
+"Sigue siendo una verdad de la refaactorización," decía ahora, "que a veces uno debe introducir el caos para traer orden, así como el camino hacia el mar a veces debe escalar una montaña antes de que vuelva a bajar. Sin embargo el orden no es un destino: simplemente una dirección de <em>complejo</em> a <em>simple</em>, de <em>más</em> a <em>menos</em>. La maestra pedía <em>menos</em> pero yo sólo pensaba en <em>uno</em>, y elegí un camino digno de <a href="https://es.wikipedia.org/wiki/Conjetura_de_Collatz">Collatz</a> cuando una simple sustracción hubiera bastado."
