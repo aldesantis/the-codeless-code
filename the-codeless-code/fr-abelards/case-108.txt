@@ -1,0 +1,73 @@
+Number: 108
+Title: Bec sucré
+Lang: fr
+Translator: abelards
+Illus.0.title: Il faudrait que je puisse ajouter de gros icônes 'M. Berk' fluorescents dans le code source.
+
+Le moine [[Djishin]] avait reçu la charge de faire une page Web pour 
+requêter la table d'inventaire des sacs de riz du système.
+En envisageant morose la journée de travail fade qui l'attendait,
+le moine eut une inspiration soudaine :
+
+<i>Je dois faire un objet de couche de présentation pour contenir
+les paramètres du formulaire de recherche,</i> pensa-t-il,
+<i>ainsi qu'un objet de couche de services pour représenter chaque
+ligne renvoyée par la recherche. Mais chacun de ces objets aurait
+les mêmes attributs que l'objet SacDeRiz que nous utilisons
+déjà pour créer de nouveaux enregistrements.
+Ne puis-je pas simplement réutiliser cet objet de la couche
+de base de données pour ces deux autres objectifs ?</i>
+
+Avec une excitation grandissante, il pensa : <i>si un objet
+de base de données était annoté correctement, je pourrais
+développer un framework qui pourrait recevoir les entrées
+du formulaires, les valider, les convertir en SQL, faire la
+requête sur la table, et présenter les résultats à l'utilisateur
+sous firme de tableau... le tout avec un effort minimal de
+la part de l'utilisateur du framework !</i>
+
+Ainsi le moine passe les quelques jours suivants, tout heureux
+de développer son framework, avec la page de recherche /SacDeRiz/
+pour démontrer la validité du concept.
+
+- - -
+
+À la fin de la semaine, Djishin présenta fièrement les fruits
+de son travail à maître [[Banzen]]. Le maître étudia le nouveau
+framework, hocha la tête, et ordonna à Djishin de l'utiliser
+pour convertir sept pages de recherches existant dans l'application,
+en commençant par la page Combattant.
+
+Après le prompt départ du moine vers sa nouvelle tâche, une nonne
+qui s'était tenue proche approcha Banzen.
+
+"Maître," demanda la nonne, "l'objet Combattant n'a qu'une simple
+valeur de Statut. Si la recherche de l'utilisateur est représentée
+par un seul Combattant, comment pourra-t-on demander à voir les
+Combattants dont le Statut est soit Disparu, Retraité, ou Décédé ?"
+
+"Nous ne le pourrons pas", dit Banzen.
+
+"De plus," continua la nonne, "l'objet Combattant ne
+contient que des informations contenues dans la table
+Combattant. Comment pourrons-nous trouver les Combattants
+par le type d'Arme qu'ils utilisent, ou les Régiments auxquels
+ils ont appartenu, puisqu'il faudrait alors faire une jointure
+avec les tables associées ?"
+
+"Nous ne le pourrons pas", dit Banzen.
+
+Le maître prit une pépite sombre du bocal qui était sur son
+bureau, le donnant à la nonne intriguée. "Il était une fois
+un moine qui s'était lassé du riz. Un jour il tomba sur l'art
+de faire du <i>kuro sato</i> -- des bonbons de sucre noir.
+Pendant des années il en mordilla tout au long de ses journées,
+morceau après morceau, devenant flasque, pâle, et perdant ses dants.
+Quelle avait été l'erreur de son maître ?"
+
+"Il n'avait pas interdit les bonbons," dit la nonne.
+
+Banzen secoua la tête et poussa le lourd bocal le long du bureau.
+
+"Mange tout cela d'ici demain soir," ordonna Banzen.
+"Alors tu comprendras la punition de Djishin."

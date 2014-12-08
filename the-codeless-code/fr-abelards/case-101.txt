@@ -1,7 +1,7 @@
 Number: 101
+Title: Responsabilité
 Lang: fr
 Translator: abelards
-Title: Responsabilité
 Illus.0.title: Cinq niveaux sous la pierre, faite de lattes renforcées de chêne de dix centimètres d'épaisseur et ceinte de fer. Mais elle ne protège toujours pas du spam.
 
 Un matin le Temple se trouva inondé d'appels d'utilisateurs paniqués,
@@ -14,7 +14,7 @@ de localiser la source du problème avant que toute la base des clients du Templ
 dans les montages pour échapper à la hache du bourreau.
 
 "Il n'y a nul besoin", dit la nonne [[Hwídah]] depuis le côté de la cour.
-"Cette honte est mienne. Dans notre dernière maintenance, j'ai 
+"Cette honte est mienne. Dans notre dernière maintenance, j'ai
 par mégarde modifié une expression booléenne dans le module de
 comptabilité, causant un retour de la valeur 'faux' alors qu'elle
 devrait être 'vrai'. J'ai maintenant corrigé le défaut, et les
