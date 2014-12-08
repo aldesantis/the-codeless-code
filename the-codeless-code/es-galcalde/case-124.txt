@@ -1,0 +1,30 @@
+Number: 124
+Title: La Variable Oculta
+Lang: es
+Translator: galcalde
+Illus.0.title: La gente que le hubiera gustado que el mundo dejara de cambiar no ha considerado seriamente los prerequisitos para eso.
+
+Un monje se acercó al maestro [[Kaimu]], y dijo:
+
+El maestro [[Banzen]] dice que su filosofía es fallida, porque ofrece distintas respuestas a la misma pregunta. ¿Estaba usted consciente de este insulto?
+
+No, respondió Kaimu.
+
+Luego aquel día otro monje se acercó a Kaimu, y dijo:
+
+El maestro Banzen dice que su filosofía es fallida, porque ofrece distintas respuestas a la misma pregunta. ¿Estaba usted consciente de este insulto?
+
+Sí, respondió Kaimu.
+
+
+== Comentario de Qi
+
+Kaimu no sufre de idempotencia.
+
+
+== Poema de Qi
+
+El diezmilésimo año vino y se fue, //
+sin embargo nadie comenta su paso. //
+Un mundo muerto cuelga en la nada estrellada -- //
+sin desacuerdo, sin error, finalmente perfecto.
