@@ -1,7 +1,7 @@
 Number: 104
+Title: Garde-fou
 Lang: fr
 Translator: abelards
-Title: Garde-fou
 
 Un certain moine du [[Spider Clan|Clan de l'Araignée]] essayait
 d'utiliser une bibliothèque de client email écrite par le

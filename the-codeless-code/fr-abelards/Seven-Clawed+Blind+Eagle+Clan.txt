@@ -1,0 +1,6 @@
+Name: Le Clan de l'Aigle Aveugle aux Sept Serres
+Translator: abelards
+Lang: fr
+
+Le Management : ils sont peut-être paralysés et à la vue basse,
+mais ils sont encore les dirigeants du nid.
