@@ -1,0 +1,48 @@
+Date: 2014-12-07
+Number: 172
+Title: Lesson One
+Names: Jinyu, Kaimu
+Topics: teaching, mentoring, communication, failure, improvement
+Geekiness: 0
+Illus.0.src: apple.jpg
+Illus.0.title: Nature will often use a dumped core to start a child process.
+
+[[Jinyu]], the ancient Abbess over all Clans and Concerns,
+summoned young master [[Kaimu]] to her presence.
+
+"A dozen students from the Western Heap are staying in the
+village below," said Jinyu.  "They have yet to choose a
+vocation and they are curious about programming.  Go, spend
+the week with them, teach them something."
+
+Kaimu did this gladly, for he had long wished to foster in
+others his own love of the Art of Unseen Engines.
+
+After the week's end he was summoned again to Jinyu's
+presence.  She held in her wrinkled hands a sheaf of letters
+with familiar purple postal-marks.  "What word from the
+students of the Western Heap?" asked Kaimu.
+
+Jinyu whacked the master on the head with her umbrella.
+"All have reported unfavorably.  Your speech was too rapid,
+your slides were too terse, your gestures distracting, your
+examples inane, and you gave no bathroom breaks.  In the
+rare moments when you were not tedious or garrulous, you
+were utterly incomprehensible.  None thought the class worth
+their while."
+
+Kaimu was aghast.  "Did no one learn anything?"
+
+In answer, Jinyu whacked him on the head again.  "What now
+may be said of Kaimu?"
+
+"That he cannot teach," said Kaimu miserably.
+
+Jinyu nodded in satisfaction.  "Then one thing has been learned."
+
+When Kaimu bowed and turned to go, Jinyu stopped him and
+said: "From one apple seed a fool makes only a bitter meal,
+but the gardener may grow a sweet harvest.  Go, find your
+shovel."
+
+Kaimu was comforted.
