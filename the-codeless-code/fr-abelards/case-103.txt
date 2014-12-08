@@ -1,7 +1,7 @@
 Number: 103
+Title: La boîte de laque noire
 Lang: fr
 Translator: abelards
-Title: La boîte de laque noire
 
 Le maître [[Bawan]] posait ce dilemme aux développeurs dont il avait la charge :
 

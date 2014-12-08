@@ -1,12 +1,7 @@
 Number: 106
 Title: L'individu dans l'équipe
-Date: 2013-08-15
-Geekiness: 0
-Names: Jinyu
-Topics: responsabilité, fierté, encodage
 Lang: fr
 Translator: abelards
-Illus.0.src: Jinyu.jpg
 Illus.0.title: Chacun au Temple vit dans la peur du jour où elle aura plutôt besoin d'une fauteuil roulant que d'une canne. Se faire frapper avec un fauteil roulant fait VRAIMENT mal.
 
 Un certain moine était connu à travers le Temple pour son humilité.
