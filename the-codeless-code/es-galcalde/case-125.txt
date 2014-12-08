@@ -1,0 +1,53 @@
+Number: 125
+Title: Poder
+Lang: es
+Translator: galcalde
+Illus.0.title: Hasta un jardín necesita un poco de debuggeo de vez en cuando.
+
+Es la función de los abades del templo el dirigir las actividades de sus respectivos clanes: elegir proyectos, establecer fechas límites, asignar tareas, y emplear los medios necesarios para asegurar que las fechas se cumplan. Son por esos poderes que los abades son envidiados y despreciados. Sin duda, es raro que un abad y un monje crucen caminos sin que el último se sienta más miserable por la experiencia.
+
+Por eso fue sin una gran alegría que el viejo monje [[Shinpuru]] se halló visitado por el nuevo abad superior del [[Spider Clan|Clan de la Araña]].
+
+- - -
+
+Shinpuru estaba en el invernadero del templo, cuidando de las plantas de un equeño jardín invernal que mantenía como hobby, cuando el abad superior se le acercó y se inclinó, diciendo: "¿Tengo yo la buena fortuna de estar ante la presencia del monje Shinpuru, cuyo código es admirado por todo el templo?"
+
+"Esta alma miserable es él," dijo Shinpuru, devolviendo la reverencia.
+
+"He venido a preguntarle si ha pensado en el futuro," dijo el abad.
+
+"Mañana espero que el sol salga," respondió Shinpuru. "A menos que me equivoque, que en ese caso no lo hará."
+
+"Estaba pensando en su futuro, especificamente," respondió el abad.
+
+"Si el sol no sale, mi futuro será la menor de mis preocupaciones," dijo Shinpuru.  "Si sale, espero recibirlo mientras disfruto de un tazón pequeño de arroz y anguila. A menos que me equivoque, que en ese caso no lo haré."
+
+El abad sonrió. "Es cierto entonces, que el monje Shinpuru planea para todas las contingencias. Y es por eso que he venido. Últimamente hubo una escasez de abades en el Clan de la Araña.{{*}} El templo desea concederle el honor de promoverlo a nuestros rangos."
+
+"Me siento muy honrado," dijo Shinpuru, inclinándose de nuevo.
+
+"El trabajo es difícil," continuó el abad. "Nuestro día comienza antes del amanecer, el cual raramente sería capaz de recibirlo a su antojo, porque hay muchas reuniones que atender y corremos con nuestros tazones de una a otra. Asimismo usted no verá el atardecer a menudo, excepto quizás en una cámara web. A cambio de esto reccibirá una compensación mucho mayor de las arcas del templo, y el poder de dirigir las actividades del templo mismo."
+
+"¿Y qué será de 'Shinpuru, cuyo código es admirado por todo el templo,' cuando no escriba más código?" preguntó el monje.
+
+"¡No tema!" dijo el abad. "Usted podrá hacer aquello en lo que ha sobresalido, sólo que a un nivel superior: Meta-Codificación, por decirlo así. En vez de documentos de diseño producimos planes a largo plazo; en vez de software producimos planes de trabajo; en vez de defectos y características hablamos de costos y beneficios. El templo en sí es la máquina en la que practicamos nuestras artes, refactorizándola como creemos mejor."
+
+"Una causa muy digna," dijo Shinpuru, volviendo su atención a sus viñas. "Yo, también, he notado la escasez de abades. Ese es el precio del poder. Como la matriarca marinera [[Subashikoi]] observó una vez, los monjes pueden ordenar la jarcía y los maestros pueden ordenar a los monjes, pero son los abades quienes trazan el curso y mantienen el timón; también son los abades quienes son enviados a lo profundo cuando el barco se hunde -- a menudo por su propio equipo."
+
+"Sólo los tontos conocen ese destino," dijo el abad.  "Y el monje Shinpuru no es tonto. A menos que <em>yo</em> esté equivocado, pero rara vez estoy equivocado en esas cosas."
+
+"Entonces no pensará que soy un tonto por declinar la generosa oferta del templo," dijo Shinpuru, podando unas pocas hojas amarillas.
+
+El abad superior frunció el ceño. "¿Que pensaría Shinpuru de una semilla que se rehusa a brotar, o un árbol que se rehuusara a dejar frutos? ¿Qué debería pensar de un monje que rápidamente declina una oportunidad por el crecimiento, por el mando, por el poder?"
+
+Shinpuru apartó sus tijeras de podar para atar la viña. "Define poder," dijo.
+
+"La capacidad de hacer lo que uno desee," dijo el abad.
+
+"Bueno, entonces," dijo Shinpuru. "Mañana deseo recibir el alba con mi pequeño tazón. Luego deseo tomar algo de té caliente en mi cubículo mientras leo los sitios técnicos que halle más iluminadores, después de lo cual anhelo un fuctífero día de codificación sólo interumpido por algunos intercambios placenteros con mis compañeros y un almuerzo en este mismo lugar, cuidando de mi jardín. Cuando caiga la noche deseo hallarme en mi cómoda habitación con una panza llena de arroz, una taza llena de sake caliente, una cartera llena de monedas suficientes para comprar más semillas, y una mente limpia de otras preocupaciones."
+
+El abad se inclinó. "Espero que Shinpuru tenga todo el poder que el desee, entonces. A menos que él esté equivocado."
+
+"Rara vez estoy equivocado en esas cosas," dijo Shinpuru, agarrando sus tijeras para podar otra vez cuando otra hoja amarilla llamó su atención. "En un mundo donde hasta el alba es incierta, a un hombre se le puede perdonar no saber unas cuantas cosas grandes. ¿Pero no conocer mi propio corazón? Espero no ser desesperanzadamente tonto."
+
+{{*}} Tal como fue documentado en los casos [[#61|61]], [[#62|62]], [[#67|67]], [[#120|120]], y probablemente otros además. Los abades en el Clan de la Araña tienen la esperanza de vida promedio de un delfín en el desierto de Gobi.

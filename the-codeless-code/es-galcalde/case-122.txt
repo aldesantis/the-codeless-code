@@ -1,0 +1,35 @@
+Number: 122
+Title: Artesanía
+Lang: es
+Translator: galcalde
+Illus.0.title: Aprendimos sobre culturas de hace miles de años de las escullturas que dejaron en robles y piedra. Mientras tanto, tongo terabytes de datos en medios digitales que serán ilegibles en unas pocas décadas. El Proyecto Roseta tiene la idea correcta -- si es importante, tállalo en algo que durará 10,000 años.
+
+El Maestro [[Bawan]] iba conduciendo a un monje iniciado por los terrenos del templo. Finalmente llegaron al Salón de las Horas Perdidas, donde los abades tenían sus reuniones matinales. Bawan señaló los cuatro pilares masivos de roble que aguantaban la parte más vieja del salón. Escenas de la vida del templo fuerno talladas en cada una, en los cuatro costados y estirándose desde el piso hasta el distante techo. Las figuras intrincadas poseían una asombrosa verisimilitud que el monje podía apenas oir el ruido de los ábacos.
+
+"Estos fueron diseñados hace doscientos años por un monje de nuestra orden," dijo Bawan. "Le tomó seis años, trabajando cada noche con un martillo y un cincel, sólo iluminado por el brillo de un solo tubo catódico parpadeante."
+
+Más abajo llegaron a otra cuadrado de cuatro pilares, idéntica a la primera cuadrado en todos los sentidos.
+
+"Estos fueron hechos hace cien años por monjes del [[Harmful Go-To Clan|Clan del GOTO Dañino]], el cual fue expulsado desde entonces," dijo Bawan. "Ellos replicaron los originales con un pantógrafo de bambú asegurado a un router eléctrico. Les tomó seis meses, trabajando con la luz de un tubo de rayos catódicos desechado corriendo [[#applicant-2|La Fuente de Anantha]]."
+
+Más abajo llegaron a otra cuadrado de cuatro pilares, todavía igual a las originales.
+
+"Estos fueron creados hace cincuenta años por tres monjas del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]], la cual cuida de nuestras bases de datos y asegura nuestra historia," dijo Bawan. "Las monjas trazaron los contornos de los originales y alimentaron las coordenadas a una fresadora programable. La medición tomó seis semanas; el tallado unos pocos días."
+
+Finalmente llegaron al nuevo pórtico del sur, soportado por un último cuadrado de pilares tan idénticos al primero que hasta el error más pequeño del cincel fue reproducido fielmente.
+
+"Estos fueron instalados hace diez años por uno de nuestros internos de verano," dijo Bawan. "El fotografió los originales con cámaras digitales de alta resolución, combinó los datos en una red topográfica tridimensional con resolución submilimétrica, y encargó la manufacturación a un escultor en la provincia vecina. Seis días, de principio a fin."
+
+Bawan encaró al monje iniciado. "¿Qué conjunto de pilares es el de mayor valor para el templo?"
+
+El monje lo consideró y dijo, "Aquellos que existen puramente como datos obtenidos por el interno. Porque aunque no tengan ni la altura ni la anchura ni el peso, de estos podrían rehacerse todos los pilares."
+
+Bawan se inclinó y llevó afuera al monje.
+
+- - -
+
+Aquella noche Bawan caminó sólo con una linterna a través de los archivos de hardware del [[Clan of Iron Bones|Clan de los Huesos de Hierro]], en los sótanos más profundos bajo su abadía. Hallando por fin el mainframe VAX particular que el buscaba, Bawan conectó una terminal VT100 polvorienta, encendió el interruptor, y abrió un archivo fuente en C que no se había compilado durante un cuarto de siglo.
+
+Bawan notó con satisfacción con que perfección las instrucciones estaban indentadas, que tan descriptivos eran los nombres de las funciones y las variables, con que meticulosidad cada parámetro fue comentado. Sonrió ante unos pocos comentarios TODO y FIXME: un reclamo a un futuro que nunca respondería. Luego desplazó el documento hacia arriba donde su nombre y su direccción de correo electrónico aparecían orgullosamente.
+
+"El iniciado tenía razón en parte," dijo Bawan hacia el vacío. "Es cierto, el valor no recae en el roble tallado, pero tampoco recae en la forma de la talla; porque tanto el pilar real como el virtual pueden perderse, y el templo no será más pobre. Pero cuando por primera vez la madera le cede el paso al metal, se crea una cosa más: y es el escultor."
