@@ -1,0 +1,53 @@
+Number: 111
+Title: Labyrinthe
+Lang: fr
+Translator: abelards
+Illus.0.title: Casser l'application ? Un bon coup de bâton. Ignorer les exceptions ? Un bon coup de bâton. Voler mon bâton ? Une bonne correction.
+
+
+Voici l'histoire de la manière dont maître [[Suku]] reçut son nom.
+
+Voilà de nombreuses années, quand Suku était encore un novice du Temple,
+elle avait reçu la tâche de passer en revue le code d'un moine de son clan.
+
+Désireuse d'impressionner les maîtres dans l'assistance, la novice
+était sans merci dans ses critiques du moine. L'une de ses plaintes
+les plus répétées était le manque d'élégance de sa solution, et sa
+structure bien trop complexe.
+
+Après la conclusion de cette réunion, maître [[Banzen]] -- de vingt printemps son aîné --
+la suivit hors de la salle et jusqu'au bas des marches de pierre.
+"Petite nonne ! Connais-tu le chemin vers l'abbaye des Os de Fer ?"
+
+Suku pointa son doigt. "Tout droit, de l'autre côté de la cour."
+
+Banzen dit, "Et bien, vas-y."
+
+Suku n'avait pas fait trois pas que le maître la frappa au côté gauche
+avec une grande spatule à riz, //
+
+No sooner had Suku gone three paces when the master struck
+her left side with a large rice paddle, /paf !/ l'envoyant
+valdinguer dans un prunier. Malgré la surprise, la novice
+savait qu'il ne valait mieux pas poser de question ou se plaindre.
+
+À la place, elle s'épousseta et continua droit vers l'abbaye,
+mais  trouva deux jardiniers bloquant son chemin. Elle fit quelques
+pas sur le côté et /paf !/ la spatule s'abattit sur sa tête.
+Étourdie, elle tomba dans un bassin de carpes koï, trébucha vers un autel,
+se prit le pied dans une racine et, /paf !/ maintenant son côté droit
+avait reçu le coup de spatule de maître Banzen, et elle se retrouva
+affalée dans un carré de pivoines.
+
+La nonne, meurtrie et essouflée, finit par arriver aux marches de
+l'Abbaye des Os de Fer, Banzen sur ses talons.
+
+<i>"Tout droit, de l'autre côté de la cour."</i> reprit Banzen.  "Conception."
+
+Le maître prit ensuite doucement Suku par les épaules, la fit
+tourner sur elle-même afin qu'elle voie le chemin tortueux que
+ses pas avaient tracé dans la poussière.
+"Implémentation," dit Banzen.
+
+Et tandis que la novice considérait cela, Banzen lui donna la spatule
+et dit : "Le Monde".
