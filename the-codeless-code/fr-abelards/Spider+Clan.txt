@@ -1,6 +1,8 @@
-Name: Le Clan de l'Araignée
+Name: Spider Clan
 Lang: fr
 Translator: abelards
+Title: Le Clan de l'Araignée
+
 Les développeurs de Web Services et de la couche d'interface utilisateur.
 Oui, les "vrais" développeurs rient lorsque les moines du Clan de l'Araignée
 parlent de "programmer" en HTML, JSTL, CSS ou Javascript.

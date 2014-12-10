@@ -1,0 +1,45 @@
+Number: 112
+Title: Parle-moi
+Illus.0.title: D'un côté, elle gagne trois pelotes au kilomètre et elle peut toujours retrouver le chemin de la maison.
+
+La timide nonne [[Yíwen]] ouvrit plusieurs fichiers qu'elle
+avait écrit à peine une année avant cela, et n'y retrouva
+que du code qu'elle ne reconnaissait plus. Après avoir inspecté
+l'historique des versions, elle approcha le bureau de sa
+collègue de longue date.
+
+"Mille excuses, [[Hwídah]]," commença-t-elle, "mais il semble que
+tu aies intégralement réécrit mon service de gestion d'adresses.
+Pourquoi as-tu eu besoin de faire cela ?"
+
+"Le code était anormalement complexe et peu intuitif,"
+répondit Hwídah poliment. "Tu as créé bien plus d'interfaces
+que nécessaire, encapsulé des Value Objects dans
+d'autres Value Objects, défini des classes abstraites qui
+n'avaient qu'une seule implémentation concrète, et fait
+des mises à jour de la base de données dans deux transactions
+séparées là où une seule suffisait. J'ai simplifié la structure."
+
+Yíwen s'inclina humblement, la remercia, et partit.
+
+- - -
+
+Le matin suivant, Hwídah approcha du bureau de sa collègue de
+longue date, portant une belle machinerie de métal.
+Elle le laissa tomber avec bruit sur le bureau de Yíwen.
+
+"J'ai trouvé ceci qui m'attendait quand je me suis levée ce matin,"
+dit Hwídah. "Explique."
+
+"Ton vieux vélo était anormalement complexe et peu intuitif,
+-- n'es-tu as d'accord ?" demanda Yíwen. "Il y avait bien plus
+d'engrenages que nécessaire, l'emplacement du panier était mal choisi,
+les béquilles ont des patins mais pas les manettes, et il y a deux
+plateaux là où un seul suffisait. J'ai simplifié la structure."
+
+Hwídah s'inclina humblement, la remercia, et partit.
+
+Elle alla directement voir le maître [[Yishi-Shing]], disant,
+"Je suis au regret de vous informer que je ne serai pas en
+mesure de participer aux courses de vélo hebdomadaires de votre clan,
+pour une durée indéterminée."

@@ -1,0 +1,99 @@
+Number: 110
+Title: Le Coffre
+Lang: fr
+Translator: abelards
+
+Un certain moine fut convoqué en présence de maître [[Bawan]] :
+
+"Ce coffre contient quelque chose qui doit être amené au 
+[[Spider Clan|Clan de l'Araignée]]," dit Bawan, en montrant
+une grande boîte de bois, ceinte de fer. "Porte-la à l'abbé,
+seul et sans aide, et il te récompensera pour ta peine.
+J'ai glissé une lettre d'explications sous le loquet."
+
+Avec beaucoup d'efforts, le moine hissa le coffre sur son dos,
+et se mit en chemin pour traverser les terres du temple jusqu'au
+domicile des développeurs Web. Il y fut reçu par l'abbé, qui
+parcourut la lettre pendant que le moine épuisé attendait sa
+récompense.
+
+
+"Ce coffre n'est pas de mon ressort," dit l'abbé,
+remettant la lettre en place. "Il doit être amené à l'abbesse
+du [[Laughing Monkey Clan|Clan du Singe Rieur]]. Porte-le
+seul et sans aide, et tu aura une très belle indemnisation."
+
+Le moine fit ce qu'on lui demandait, haletant à chaque pas
+tandis qu'il traversait les terres du temple jusqu'au bâtiment
+des experts métier. L'abbesse résidait au dernier étage.
+
+
+"Je n'ai rien à voir avec ce coffre," dit l'abbesse,
+qui refusa que le moine pose son fardeau à terre durant sa lecture.
+"Il doit être porté immédiatement au
+[[Elephant's Footprint Clan|Clan des Empreintes de l'Éléphant]]."
+
+"Je pense que je vois où tout cela nous mène," grimaça le moine.
+"Peut-être qu'un de vos moines peut l'y porter ?"
+
+"Pas le temps, pas le temps !" dit l'abbesse, remettant la lettre
+sous le loquet en poussant le moine dehors à coups de pieds.
+"Porte le là-bas, seul et sans aide, et de grandes richesses t'attendent !"
+
+
+Une heure plus tard le moine titubait dans le bâtiment des gardiens
+de la couche persistence du Temple, s'écroulant dans le hall principal,
+écrasé par le coffre sur son dos. Quelqu'un appela l'abbé aux cheveux blancs.
+
+"Merveilleux !" dit le vieil abbé après avoir lu la lettre.
+Le moine à demi conscient l'entendit ouvrir le couvercle et
+le refermer. "Moine, éveille-toi ! Pour te remercier de ce
+service rendu, tu peux garder tout ce qu'il reste dans le coffre.
+Et maintenant, va-t-en !"
+
+
+Le moine rampa lentement jusqu'à la porte, comme une tortue
+peinant sous sa carapace de bois. La nuit était tombée quand
+il parvint à ses propres quartiers et fit glisser le coffre
+de son dos. Le couvercle tomba et une centaine de boîtes de fer
+se répandirent par terre.
+
+Il les ouvra une à une. Toutes étaient vides.
+
+Il n'y avait plus rien dans le coffre que la lettre de Bawan,
+que le vieil abbé avait jeté à l'intérieur. Le moine la déplia et lut :
+
+
+       Aux abbés des Trois Clans --
+
+       En examinant les problèmes de performance de notre
+       système de panier, j'ai découvert que des centaines
+       d'actions de la couche Web chargent de très gros
+       et complexes arbres d'objets CatalogInfo depuis
+       la base de données.
+
+       En examinant la couche Web, j'ai découvert que ces actions
+       ne font que passer les CatalogInfo sans les regarder,
+       dans les seize méthodes de la couche service qui se
+       trouvent en avoir besoin.
+
+       En examinant la couche service, j'ai découvert que
+       ces méthodes ne font que passer les CatalogInfo
+       sans les regarder, dans quatre méthodes de la couche
+       persistance qui se trouvent en avoir besoin.
+
+       En examinant la couche persistance, j'ai découvert que
+       ces méthodes ne font que passer les CatalogInfo sans
+       les regarder, dans une seule méthode de la bibliothèque
+       de fonctions utilitaires qui se trouve en avoir besoin.
+
+       En examinant cette méthode unique, j'ai découvert qu'elle
+       ne fait rien d'autre que vérifier la propriété Type
+       de l'objet CatalogInfo, un nombre entier, et cela
+       dans le seul but de s'assurer qu'elle n'est pas négative.
+       
+       J'ai également découvert que l'auteur de cette méthode
+       est ce jeune homme, qui porte mon coffre.
+       
+       Je vous prie de bien vouloir vous assurer qu'il
+       puisse recevoir cette explication de manière adéquate.

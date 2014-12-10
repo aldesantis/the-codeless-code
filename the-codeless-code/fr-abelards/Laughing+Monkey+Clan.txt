@@ -1,6 +1,7 @@
-Name: Le Clan du Singe Rieur
+Name: Laughing Monkey Clan
 Lang: fr
 Translator: abelards
+Title: Le Clan du Singe Rieur
 
 Spécialistes de la couche métier, où le métier fait ses manigances.
 Les membres de ce clan ont un style de combat traditionnel à base

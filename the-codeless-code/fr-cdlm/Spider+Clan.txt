@@ -4,4 +4,5 @@ Lang: fr
 Translator: cdlm
 
 Les développeurs d'interfaces utilisateur sur le web.
-Certes, tout le monde rigole quand vous dites « programmer » en HTML, JSTL, CSS, or Javascript — jusqu'à ce que le client décide que la page d'accueil de l'application doit absolument avoir des cochons translucents danser autour du pointeur de la souris.
+
+Certes, tout le monde rigole quand les moines de l'Araignée disent « programmer » en HTML, JSTL, CSS, ou Javascript — jusqu'à ce que le client décide que la page d'accueil de l'application doit /absolument/ avoir des cochons translucides qui dansent autour du pointeur de la souris sous IE 5.5.
