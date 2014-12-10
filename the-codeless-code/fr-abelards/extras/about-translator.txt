@@ -1,0 +1,4 @@
+Translator: abelards
+Name: Sylvain Abélard
+Nom: Sylvain Abélard
+URL: http://maitre-du-monde.fr
