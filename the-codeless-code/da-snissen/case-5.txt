@@ -1,0 +1,40 @@
+Number: 5
+Lang: da
+Translator: snissen
+Title: Tomrummet
+
+På en kold efterårsdag vågnede Java-mesteren uroligt. Han begav sig ud alene for at blive klar i hovedet.
+
+Snart befandt mesteren sig ved porten til de Tre Stens Tempel, hvor kunsten ANSI C stadig blev udøvet. En lært broder stod vagt.
+
+"Hvad er tomrummets natur?" spurgte mesteren.
+
+"Det har ingen natur," svarede broderen. "Det er pinden der bliver hentet af hunden der ikke henter pinde. Det er, hvad hånden som peger på hvadsomhelst peger på. Det er den perfekte mangel på værdi."
+
+Mesteren tænkte: "De Tre Stens Tempel behøver ingen vagt. Der kan ikke være noget af værdi derinde."
+
+Senere hen kom han til den Hvide Jern-Himmels Tempel, et sted for teoretikere hvor kun ML var tilladt. I den visnede have sad en nonne og skrev lambda-udtryk i støvet.
+
+"Hvad er tomrummets natur?" spurgte mesteren.
+
+"Det har luftens farve, og den stigende tåges vægt," svarede søsteren. "Påslået giver den lyd som nymånen der forsvinder bag en sky. Hver tømt skål indeholder så meget som du ønsker."
+
+Mesteren tænkte: "Søsteren sagde intet der var falskt, ej heller noget sandt."
+
+Senere hen kom han til en stor herregård, hvor en gammel kvinde klippede hækken.
+
+"Hvad er tomrummets natur?" spurgte mesteren.
+
+Den gamle kvinde bukkede, og fortsatte sin gerning.
+
+Mesteren tænkte: "Her er den pureste visdom, med mindre der blot er dens fravær."
+
+Til sidst kom mesteren til en forladt kirkegård.
+
+"Hvad er tomrummets natur?" spurgte mesteren.
+
+Fra den tomme gård kom intent svar.
+
+Java-mesteren var tilfreds.
+
+

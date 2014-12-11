@@ -1,6 +1,7 @@
-Name: Le Clan des Os de Fer
+Name: Clan of Iron Bones
 Lang: fr
 Translator: abelards
+Title: Le Clan des Os de Fer
 
 Les opérations : la colonne vertébrale de l'entreprise.
 Parce que sans matériel, le logiciel ne serait qu'une masse de mots étranges sur papier

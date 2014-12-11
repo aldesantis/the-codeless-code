@@ -1,6 +1,7 @@
-Name: Le Clan N'a Qu'Une Chaussure
+Name: One Shoe Clan
 Lang: fr
 Translator: abelards
+Title: Le Clan N'a Qu'Une Chaussure
 
 L'endroit où tout le Temple passe demander des hacks d'une minute et des solutions temporaires.
 Nommés ainsi car un homme avec une seule chaussure peut toujours traverser un lit de charbons

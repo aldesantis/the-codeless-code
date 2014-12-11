@@ -51,5 +51,6 @@ déjà décodé</i>."
 
 == Note du Traducteur
 Le titre original est une expression anglaise bien connue "there's no I in team" :
-- il n'y a pas de lettre "I" (de mot "je") dans le mot "équipe"
-- il n'y a pas de place pour un égo trop fort dans une équipe
+- il n’y a pas de lettre "I" (de mot “je”) dans le mot "équipe"
+- il n’y a pas de place pour un égo trop fort dans une équipe
+

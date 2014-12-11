@@ -1,0 +1,22 @@
+Number: 3
+Lang: da
+Translator: snissen
+Title: Omkapsling
+
+En ung munk, ny i templet, erklærede ikke blot alle sine metoder som Public, men også alle sine instansvariable. Overabbeden blev træt af at irrettesætte munken, og spurge Javamesteren om råd.
+
+Næste dag indkaldte mesteren munken til frokost i sit private kontor.
+
+Munken trådte indenfor, og fandt et overdådigt måltid sat frem på konferencebordet. Mesteren bød da munken at ligge på gulvet.
+
+Munken gjorde som budt, hvorpå mesteren åbnede munkens kjortel og trak en stor kniv. Han pressede den blanke spids solidt mod munkens bryst indtil skarlagenrøde dråber piblede op om bladet. Munken gispede af angst og spurgte mesteren hvad formålet var."
+
+"Blot at skære din bug op," forklarede mesteren, "så jeg kan skrabe ris og hælde te indenbords. Min kalender er fyldt op, og jeg finder at denne metode er ekstremt effektiv når gæster skal fodres."
+
+Derefter havde munken ikke længere brug for irrettesættelser.
+
+
+
+
+
+

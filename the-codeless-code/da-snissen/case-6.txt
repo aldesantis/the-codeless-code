@@ -1,0 +1,25 @@
+Number: 6
+Lang: da
+Translator: snissen
+Title: Tom
+
+Tilbagevendende fra sin ferie fandt Overabbeden af de Grinenden Abers Klan sit tempel fuld af panik og uorden. Det økonomisystem de netop havde modificeret kastede NullPointerExceptions ved alle nye kunder. Disse brugere, ekstremt urolige, lukkede deres kontoer inden dagen dårligt var omme.
+
+Med noget besvær sporede abbeden problemet til en metode hvis udtrykte formål var at returnere en Liste af brugerens transaktioner. Hvis der ingen transaktioner var, returnerede den null, i stedet for den tomme liste.
+
+"Skaf mig den munk der skrev denne metode," sagde han til templets vagter. "Og også den munk hvis kode påkalder den."
+
+Den første munk, som var den ældre af de to, erklærede at skyld skulle placeres direkte ved den andens fødder. "Mit Javadoc var ekstremt klart. Det er ikke min skyld at han ikke checkede for null." Den anden munk hang med mulen i skam og sagde intet.
+
+Abbedden klappede i sine hænder, og to høje jadeurner blev sat på gulvet, en foran hver munk. "Jeres straffe er blevet skrevet på papirlapper heri. Hver dag skal i fjerne den første lap papir jeres hånd rører, og følge dens dekret nøje, indtil jeres urne er tom."
+
+Den yngre munk blev budt at trække først. Hans hånd var end ikke halv nede i urnen da raslende papir kunne høres. Han læste sedlen, bukkede, og forlod rummet.
+
+Den ældre munk rækte dybt ned i sin urne til hans fingre rørte den kolde bund. "Der er ingen lapper papir i denne urne," sagde munken, med et svagt træk til smil om hans læber.
+
+"Ejheller er der fisk, eller ti bjerge" sagde abbedden.
+
+Den ældre munk skreg så i smerte. Urnen faldt om og knustes. En skorpion trippede over fliserne.
+
+Abbedden observerede den døende munk. "Ikke al ingenting er identisk."
+
