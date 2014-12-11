@@ -1,0 +1,58 @@
+Number: 114
+Title: Caractères spéciaux
+Lang: fr
+Translator: abelards
+Illus.0.title: Et ces rochers n'ont pas l'air d'amortir la chute DU TOUT.
+
+Les systèmes du Temple recevaient des erreurs sporadiquement,
+lorsqu'ils interagissaient avec un service d'enregistrement des
+documents dans l'Extrême Occident.
+Le maître Java [[Bawan]] décida de mener l'enquête.
+
+Pour l'assister, une liaison vers le temple de l'Ouest fut
+envoyée de la province d'à-côté. Le messager était un homme
+débraillé avec une mobylette bruyante ; sa capacité à traduire
+le langage technique était la seule qualité pour le pardonner.
+
+"J'ai trouvé le problème," dit Bawan au messager.
+"Si le titre du document contient une apostrophe typographique,
+ce caractère n'apparaît plus quand on recherche l'enregistrement.
+Veuillez s'il vous plaît informer les Moines de l'Ouest de ce défaut."
+
+Le messager repartit dans sa province et téléphona à Bawan le lendemain.
+
+"Les moines m'assurent que ce n'est pas un défaut," dit-il.
+"Ils disent : nous ne gérons pas les caractères spéciaux."
+
+Bawan hocha la tête. "Revenez à mon temple demain.
+Nous trouverons ensemble un moyen de leur faire entendre raison."
+
+Le lendemain, le messager passait la Route de la Lune Mourante
+sur sa mobylette pétaradante. Après avoir passé un panneau
+annonçant /LE PONT DE ZJING/ en grandes lettres rouges,
+il se trouva en train de traverser une vaste gorge sur un
+pont de cordes et de planches.
+Tout droit face à lui, il voyait une magnifique chênaie et,
+derrière eux, les tours du Temple.
+Saisi par la beauté de la scène, il ne remarqua pas que des
+planchez manquaient au milieu du pont, sur dix mètres.
+
+Messager et mobylette se trouvèrent soudainement en train de dégringoler dans la gorge.
+
+Du balcon supérieur de la Tour Est, maître Bawan hocha la tête et rentra.
+Il fit appeler un jeune moine de son bureau quelques étages en dessous.
+
+"Emmenez ceci de l'autre côté du[[Zjing's Bridge|Pont de Zjing]]," dit-il,
+en lui donnant une planche de bois. Elle était peinte en rouge et on
+pouvait y lire /FERMÉ/.
+
+"Qu'est-ce que c'est ?" demanda le moine.
+
+"Des caractères spéciaux," répondit le maître.
+
+== Note du Traducteur
+
+Le titre original, "Character assassination", fait bien entendu référence aux caractères et à l'assassinat.
+Mais l'expression entière signifie en anglais une opération de discréditation d'une personne
+(rumeurs etc) pour ruiner sa réputation.
+Nous francophones, nous contenterons de l'allusion au caractère, pour le moins spécial, de Bawan.
