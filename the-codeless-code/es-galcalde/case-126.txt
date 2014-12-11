@@ -1,0 +1,24 @@
+Number: 126
+Title: Té para dos
+Lang: es
+Translator: galcalde
+Illus.0.title: Deja de mirarle el vestido. Sí, te hablo a TI.
+
+Como muchas de su edad, la joven monja [[Satou]] tenía una curiosidad irreprensible: cuanto menos sabía de algo, más quería probarlo. Por lo tanto eligió usar multihilos para mejorar la performance en su utilidad de procesamientos de logs, a pesar de [[#121|las precauciones del maestro Banzen]].
+
+Banzen revisó su código, luego invitó a la monja a discutir los hallazgos durante el descanso matutino.
+
+Cuando Satou se sentó en el cuarto de té del maestro, Banzen tomó un tazón vacío con su mano izquierda mientras que con la derecha agarró un cucharón de agua hirviendo del frasco y lo virtió directamente en el tatami de Satou. Satou aulló sorprendida, saltando del piso para evitar ser escaldada. El maestro calmadamente colocó el tazón en el centro del charco mientras su mano derecha batía el charco con un batidor. Luego su mano izquierda agarró una cuchara de bambú y empezó a echar polvo de té verde en el tazón seco.
+
+"Ahora," dijo Banzen. "Discutamos las condiciones de carrera."
+
+== Comentario de Qi
+
+Pero primero, siéntate.
+
+== Poema de Qi
+
+Fluyendo de mi pincel //
+Brillando en mi pantalla //
+Cuatro lineas legibles en cualquier orden //
+La esencia de la seguridad de hilos //
