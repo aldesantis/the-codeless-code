@@ -1,0 +1,50 @@
+Number: 128
+Title: La Prisión de los Placeres Infinitos
+Lang: es
+Translator: galcalde
+Illus.0.title: Las escaleras usualmente son indeseables en imágenes raster, así que cuando nadie nos ve traemos nuestras patinetas y aplicamos antialiasing.
+
+El invierno había llegado al templo con toda su fuerza, así que un aprendiz del [[Clan of Iron Bones|Clan de los Huesos de Hierro]] decidió pasar sus vacaciones visitando a sus hermanos en la Provincia de Phong al sur. Los monjes de aquel lugar trabajaban en los llanos de una gran render farm {{1}}, donde la luz direccional era gloriosamente cálida sin importar la estación.
+
+Todas las mañanas el aprendiz miraba mientras los hermanos aprendidos corrían hacia adelante y hacia atrás, plantando semillas de números aleatorios, construyendo bounding-boxes {{2}}, o envolviendo wire frames {{3}} alrededor de hasta el modelo más pequeño para que sus pixeles florecieran en los lugares correctos. Por lo tanto producían escenas suculentas de cada sombra y tono, para complacer los gustos de la Corte Imperial.
+
+Al acercarse el mediodía, el estómago del aprendiz empezó a retumbar. Como él necesitaba un acompañante para aventurarse en el templo apropiado, el aprendiz se aproximó a un chico de su edad que parecía simpático, que estaba equipando fuentes de luz artificial sobre una arboleda de quadtrees {{4}} pequeños. Las ropas del chico eran de lino robusto, sin embargo como testamento del rigor de sus deberes los tonos una vez sólidos se habían desgastado en bits titubeantes, sus rodillas estaban cubiertas por parches bicuadráticos, y el puño derecho mostraba signos de aliasing.
+
+"Diez mil perdones," dijo el aprendiz (sintiéndose culpable por su propia ociosidad) "pero este cuerpo miserable me carcomerá hasta que lo alimente con un tazón de arroz. ¿Donde está su maestro, para que pueda rogarle o hacer un trueque?"
+
+"En su cuarto, donde muy pronto debo ir para traerle su tazón," dijo el chico. "Camine conmigo mientras lo voy a buscar y llenaré el suyo, porque en esta época del año nuestros buffers siempre están llenos."
+
+El aprendiz aceptó una muestra generosa de arroz, luego siguió al chico en su recado subiendo la tenue escalera en espiral la cual era el único pasillo del templo. Fue construida de ese modo, explicó el chico, para confundir a los fotones perdidos.
+
+"Porque el resplandor es siempre nuestro enemigo," dijo el chico, empujando la puerta hacia el cuarto del maestro. "Aunque hay peligros más grandes, que mi maestro podría contarle, si estuviese aquí."
+
+El aprendiz siguió al chico dentro, confundido. El alto cuarto sin ventanas sólo era iluminado por el brillo difuso de un monitor en un escritorio solitario. La superficie del amplio monitor no podía ser visto desde este ángulo, pero la mirada cristalina del hombre viejo quieto y baboso que estaba ante ella hizo que el pelo del aprendiz se parara de punta como si su cuero cabelludo ordenara a todos sus folículos que indicaran su vector normal.
+
+El chico lentamente colocó el tazón en frente de su maestro, luego se alejó, cuidándose de apartar sus ojos de la pantalla.
+
+"Está perdido," explicó amargamente el chico. "Verá usted, hace mucho tiempo él concibió un ingenioso algoritmo para renderizar cualquier parte del <em>mandelblob</em> en un parpadeo..."
+
+"He oído de esa forma," interrumpió el aprendiz, incapaz de arrancar su mirada de la cara del maestro. "Sólo rumores... una temible ecuación tan pequeña que puede ser escrita en mi dedo meñique, y que sin embargo describe una esfera fractal de complejidad infinita."
+
+"No sólo una esfera," continuó el chico. "Un mundo; un mundo comido por los gusanos, implícito en las leyes de la teoría de números. Penetrado por cuevas dentro de cuevas dentro de cuevas, sus paredes marcadas por abismos enormes, grietas anchas y fisuras eruptantes. Elige cualquier tunel retorcido, el más regular que pueda imaginar, y si se acerca lo suficiente encontrará que la superficie se retuerce y se ampolla e hierve como carne podrida en la cúspide de la licuescencia, brotando estalagmitas flácidas llenas de hongos, hongos en hongos en hongos tan pequeños para ser imaginados, hasta que se desvanecen en sus propias asíntotas, erosionando en el otro lado como esporas sobre esporas sobre esporas; y cada espora es su propio mundo comido por los gusano yan infinitamente complejo como su progenitor, sin embargo perversamente diferente a él...
+
+"Mi maestro había apenas empezado a explorar esta forma cuando por accidente se acercó tan profundo a un nódulo nanoscópico particular, una espora al azar entre miles de millones, y halló -- o así decía -- que era una imágen tan verosimil a <i>nuestro propio mundo.</i> ¡Sí! Montañas matemáticaas exactamente donde estan <em>nuestras</em> montañas, explotando con protuberancias como helechos o abetos -- todos con el mismo tono ámbar pálido, como los cúmulos virtuales que se ciernen sobre ellos, y las orillas arenosas simuladas con picopartículas de arena ambar, donde granulares olas de ambar estan prontas para romperse pero sin hacerlo; porque este es un mundo <i>tri</i>dimensional, y porque no hay cuarta nada se mueve, ni siquiera la gente. ¡Sí, gente! Estatuas grotescas monocromáticas en cara y forma, sin embargo humanas desde los pelos de las pestañas, hasta los poros en sus fosas nasales, como cuevas dentro de cuevas...
+
+"Pero en su tembloroso apuro en sondar las profundidades de este mundo tan pequeño como una cagada de mosca, mi maestro cliqueo a la izquierda en vez de a la derecha. Su cursor saltó a un costado y las coordenadas cruciales se perdieron para siempre. Me cuentan que sus aullidos de angustia pudieron ser oídos en las colinas alrededor. Cada monje del templo corrió a su cuarto, frenéticos por aprender que gran desastre había ocurrido. Y así relató el cuento de su descubrimiento.
+
+"Los otros maestros se rieron de él, lo llamaron mentiroso o loco. Hasta los monjes de menor rol rehuían de él. Así que fue a limpiar su nombre buscando otra vez aquellas coordenadas.
+
+"Los días se volvieron semanas, luego meses, luego años, y ahora mire a lo que se ha reducido: un prisionero de la Esfera Unitaria, deambulando por siempre mientras va hacia ningun lado, cautivo de su propia obsesión. Durante un tiempo, quizás, creía que había encontrado alguna Gran Verdad del Universo, una correspondencia calculable entre el mundo de carne y el de las figuras. Ahora no puedo adivinar por cuales paisajes deambula, ni por qué -- ni lo desearía, a menos que sucumba ante alguna fascinación irresistible y comparta su destino. Se dice que el que avisa no es traidor, pero por mí al menos... tempo por mi mente. Cuando lo real se encuentra con lo imaginario, su producto siempre es complejo."
+
+El aprendiz se acercó lentamente para mirar el borde de la pantalla, pero el chico lo detuvo.
+
+"Tome su arroz y abandone este lugar maldito," dijo el chico. "Y trae esta verdad hacia su templo: la Render Farm de la Provincia de Phong no es mejor que un campo de amapolas, donde diariamente sembramos la perdición de nuestra gente."
+
+"No entiendo," dijo el aprendiz.
+
+"El Emperador sólo debe nombrar un placer -- la emoción de batallar entre las estrellas, la vista de personas exageradas involucradas en actividades lujuriosas -- y se lo serviremos a sus recámaras privadas en seis millones de pixeles de dieciseis millones de colores a sesenta fotogramas por segundo. Pero no le envidie esto. En vez tenga miedo del día en que usted y yo disfrutemos de esa misma libertad. Porque aunque hayamos creado una eternidad de maravillas aquí, a nadie se le da la eternidad de explorarlas. Qué precioso es el tiempo; y qué vacío, al final, es cualquier mundo excepto el nuestro."
+
+{{1}} Granja de Render. Es un conjunto de computadoras que trabajan renderizando las imágenes generadas por las computadoras.
+{{2}} Rectángulos envolventes. Dado un conjunto de puntos, es el recángulo más chico que los contiene a todos.
+{{3}} Malla de Alambres. Es un algoritmo de renderizado del cual resulta una imágen sólo con las aristas de la malla que constituye al objeto.
+{{4}} Árbol cuaternario. Una estructura de datos tipo árbol donde cada nodo interno tiene cuatro hijos.
