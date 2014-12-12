@@ -1,0 +1,20 @@
+Number: 129
+Title: Como un Canto Rodado
+Lang: es
+Translator: galcalde
+
+Hasta en sus mejores días el humor del monje [[Wangohan]] rivalizaría con el vinagre viejo, pero el largo y deprimente invierno lo había amargado aún más. Muchos eran objeto de su desdén, pero nadie con mayor razón que el monje [[Landhwa]]:
+
+"Su pereza no es secreto," se quejó Wangohan a un pobre aprendiz en la hora de comida (quien entendió demasiado tarde por qué los asientos junto a Wangohan siempre estaban vacíos), "sin embargo no recibe ninguna corrección de sus maestros. Él presenta la <em>ilusión</em> de ser laborioso pero en verdad sólo escribe código de sus propios proyectos personales. Le pedí implementar una docena de DAOs simples; él rozó lo aburrido de la tarea, ¡y luego gastó una semana desarrollando un generador de código de DAO para escupirlos!"
+
+Cuando el gong invitó a los hermanos a que volvieran a sus cubículos, un monje superior apartó al aprendiz.
+
+"¿Qué impresión tienes de nuestro hermano Wangohan?" sonrió el monje superior. "Seguramente tienes algo que decir en este asunto, a menos que te haya aturdido."
+
+El aprendiz pensó por un momento.
+
+"Wangohan tiene el espíritu de la mula: dedicado y laborioso," dijo el aprendiz. "Yo le confiaría para que lleve diez mil piedras del valle al templo."
+
+"Una alto elogio," dijo el monje superior.
+
+"¿Lo es?" preguntó el aprendiz. "Su rival Landhwa construiría primero una carreta."
