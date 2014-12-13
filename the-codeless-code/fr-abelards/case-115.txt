@@ -1,5 +1,7 @@
 Number: 115
 Title: Douleur
+Lang: fr
+Translator: abelards
 Illus.0.title: Je ne vois pas en quoi un amour brûlant comme la braise est quelque chose d'agréable.
 
 Des rapports de données corrompues avaient atteint les oreilles
