@@ -1,5 +1,7 @@
 Number: 117
 Title: À cru
+Lang: fr
+Translator: abelards
 Illus.0.title: Je connaissais une fille à l'université qui avait une selle et une bride sur un présentoir au milieu de sa chambre de dortoir. Je ne m'intéressais pas vraiment à elle jusqu'à ce que j'apprenne qu'elle n'avait pas de cheval.
 
 Un moine dit au maître [[Suku]] : "J'ai étudié votre code
