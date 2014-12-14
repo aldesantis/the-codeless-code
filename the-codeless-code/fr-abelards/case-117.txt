@@ -1,0 +1,34 @@
+Number: 117
+Title: À cru
+Illus.0.title: Je connaissais une fille à l'université qui avait une selle et une bride sur un présentoir au milieu de sa chambre de dortoir. Je ne m'intéressais pas vraiment à elle jusqu'à ce que j'apprenne qu'elle n'avait pas de cheval.
+
+Un moine dit au maître [[Suku]] : "J'ai étudié votre code
+pour apprendre de votre exemple, mais sur un point mes
+yeux ne sont toujours pas ouverts."
+
+Le moine déplia un listing de code source. "Regardons cette
+minuscule application, où l'on cherche des erreurs dans des
+fichiers de journalisation. J'aurais fait tout le traitement
+dans la classe de l'application. Mais vous en définissez
+bien d'autres : une interface /LogFileReader/ qui n'a que
+la méthode /readEntry/, une classe /LogFileEntry/ que cette
+méthode doit retourner, et une classe /SimpleLogFileReader/
+qui est la seule implémentation de l'interface !
+Pourquoi tant de formalités pour un projet si petit ?"
+
+Suku répondit : "Va aux écuries, détache mon cheval, et
+chevauche-le jusqu'à la Route du Serpent Ivre en haut de
+la montagne. Puis redescends et dis-moi ce que tu as appris."
+
+Le moine revint le soir même, sale et blessé.
+"J'ai appris que votre cheval n'aime pas être monté à cru.
+Et que si l'on est jeté du haut de la falaise, on peut tomber d'assez haut."
+
+Suku lui montra une selle, un plastron, une bride, un mors, et des rênes,
+tout en disant : "Qu'importe si le trajet est court, le cavalier doit
+être absolument sûr d'où il doit s'asseoir, et comment se diriger."
+
+Le moine avait la main sur une énorme bosse qu'il avait sur le crâne.
+"Mais de quoi le cheval indomptable pourra-t-il être certain ?"
+
+"Que c'est à lui d'obéir," dit Suku.
