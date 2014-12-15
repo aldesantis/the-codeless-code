@@ -1,0 +1,55 @@
+Number: 131
+Title: No Pienses
+Lang: es
+Translator: galcalde
+Illus.0.title: Para la mayoría, es una segunda naturaleza.
+
+Un nuevo monje del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]] se dió cuenta que todos los hermanos bajo el tutelaje del maestro [[Bawan]] respondían las preguntas inmediatamente, sin hacer una mínima pausa. A aquellos que titubeaban se les daba un rápido golpe en la cabeza con el bastón del maestro, después del cual quedaban callados por el resto del día -- asumiendo, por supuesto, que no habían quedado inconscientes por el golpe.
+
+El joven monje le preguntó a uno de sus hermanos, "¿Por qué Bawan castiga a aquellos que se demoran en responder?"
+
+"Porque él cree que están pensando," dijo el monje viejo. Él indicó una fila de craneos colocados en un estante sobre la puerta del maestro. Algunas estaban descoloridas y polvorientas mientras que otras parecían apenas separadas de sus dueños previos, pero talladas en la frente de cada una estaban las palabras <em>NO PIENSES</em> en la inconfundible letra del maestro.
+
+El monje viejo se fué, dejando al joven considerando el algoritmo de Bawan.
+
+- - -
+
+Tiempo después los mismos dos monjes trabajaban furiosamente de noche para actualizar una de las vereables bases de datos de documentos del clan. Los sistemas críticos quedaron fuera de linea mientras los viejos documentos eran migrados a los nuevos servidores.
+
+El script de conversión corrió durante horas, sin embargo falló cerca del final debido a un problema menor. Se inició una segunda pasada, pero como el amanecer se estaba acercando los monjes especificaron que los documentos que hayan sido escritos por la primera pasada deban ser omitidos.
+
+Mientras la segunda pasada salteaba la porción de la base de datos que ya había sido procesada por la primera, Bawan encontró algo curioso. Miles de mensajes de status se veían así:
+
+<pre>
+   documento 2677091: salteado (ya existe)
+   documento 2677092: salteado (ya existe)
+   documento 2677093: salteado (ya existe)
+</pre>
+
+Sin embargo de vez en cuando aparecería uno que se parecía así:
+
+<pre>
+   documento 2677094: salteado (ya existe) (** fuente más nueva)
+</pre>
+
+"¿Por qué la diferencia?" demandó Bawan.
+
+"No sé decir," dijo el monje viejo rápidamente. Bawan resopló y golpeó la mejilla del monje con el dorso de su mano. Luego se dirigió al monje joven.
+
+"¿Por qué la diferencia?" repitió.
+
+En ese instante -- su mente corriendo entre pensamientos de la mano y del bastón del maestro -- el monje joven recibió un destello de conocimiento.
+
+"Diferencia de tiempo," declaró el joven monje. "Cuando tomamos un documento origen del servidor viejo preservamos su tiempo de modificación, y luego creamos el documento destino. Sin embargo si los relojes del sistema no concuerdan, el script a veces creerá que el origen es más nuevo que el destino."
+
+El maestro sin duda halló una pequeña discrepancia entre los dos servidores. Asintió con aprobación y se marchó, dejando al monje joven disfrutando la satisfacción de haber entendido el algoritmo de Bawan.
+
+- - -
+
+Un día después Bawan ordenó al clan a que se reuna fuera de su oficina. Mientras esperaban a que el maestro apareciera, el monje viejo susurró que Bawan pasó todo el día juntando evidencia definitiva de que la diferencia de tiempo era responsable de los mensajes raros.
+
+"¿Qué halló?" preguntó una monja.
+
+"Nada de ese tipo," dijo el monje viejo. "En verdad, un servidor accidentalmente fue dejado corriendo durante la migración, así que los usuarios siguieron haciendo ediciones en la base de datos vieja. La segunda conversión salteó esos documentos con el aviso observado. Cuando el tráfico fue desviado a la nueva base de datos, las ediciones subsecuentes de los usuarios hicieron imposible la restauración de las ediciones perdidas. Será una gran verguenza para el clan."
+
+La discusión se detuvo abruptamente mientras Bawan salía de su oficina con una escalera, a la cual subió para colocar una nuevo craneo brillante en el estante sobre su puerta. Las características del craneo recordaban aquellas del monje joven, quien no había sido visto todo el día. Como antes, las palabras <em>NO PIENSES</em> fueron inscritas en la frente. Y en la mandíbula -- invisible a cualquiera parado bajo el estante pero legible mientras el maestro lo subía -- estaba la palabra, <i>SEPA.</i>
