@@ -1,0 +1,35 @@
+Number: 116
+Title: Ne faites confiance à personne
+Lang: fr
+Translator: abelards
+Illus.0.title: &quot;Au moins, mon code n'est pas aussi mauvais que cette vieille horreur là-bas, écrite par... euh... ah, merde.&quot;
+
+Plusieurs moines du [[Laughing Monkey Clan|Clan du Singe Rieur]] 
+trouvèrent un de leurs frères dans une grande détresse, tapant
+frénétiquement sur sa station de travail.
+
+"Qu'est-ce qui te frustre autant ?" demandèrent-ils.
+
+Le moine dit : "Quand les nouvelles règles métier seront livrées
+l'an prochain, mon code devra être mis à jour. Aujourd'hui l'abbé
+m'a dit qui sera en charge de cette tâche, et mon coeur s'est glacé.
+C'est un fou sans aucune patience, qui méprise la documentation
+et ne fait que survoler les commentaires, choisissant plutôt de
+deviner l'objectif de chaque chose rien qu'en lisant son nom.
+Alors je dois nettoyer, re-tester et m'assurer sur chaque classe
+et chaque méthode, que même un idiot n'arriverait pas à y faire
+trop de dégâts."
+
+Le moine pointa le doigt sur son écran. "Ici, il serait tenté
+de modifier les propriétés de l'objet, alors je dois le mettre
+en lecteur seule pour éviter les désastres. Là, il va sûrement
+mal comprendre le but de cet argument, alors je dois vérifier
+les paramètres partout où on les utilise."
+Le moine s'écroula sur son clavier.
+<i>"Dix-mille malédictions sur cet imbécile de Taw-Jieh!"</i>
+gémit-il.
+"Et dire qu'il fut choisi parmi tous ces gens pour maintenir mon code !"
+
+Les autres moines échangèrent un regard, mal à l'aise.
+
+"Mais... /c'est toi,/ Taw-Jieh."

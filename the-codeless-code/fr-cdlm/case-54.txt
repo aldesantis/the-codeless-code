@@ -1,0 +1,74 @@
+Title: Nœuds
+Number: 54
+Lang: fr
+Translator: cdlm
+Credits: Quelques textures des illustrations mises à disposition par <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.title: Une quintuple queue de vire florale inversée, avec une boucle dessus-dessous à vingt degrés et un bout stabilisateur. C'est le seul nœud que j'aie jamais appris. Je n'ai jamais fait mes lacets avant d'avoir trente-cinq ans.
+Illus.1.title: Je détecte un manque d'urgence, par ici.
+
+Deux nonnes marchaient le long d'une piste boisée non loin du temple, lorsqu'elles découvrirent à leur grand désarroi que le chemin s'interrompait en une chute abrupte dans un profond ravin aux flancs escarpés.
+Le fond du ravin se trouvait deux cent pieds plus bas ; la falaise du flanc opposé se trouvait à peu près à la même distance.
+
+« J'implore votre patience, Hwídah, » dit la première nonne, « car mon esprit est surchargé par la mémoire de trop nombreuses APIs.
+Mais n'y avait-il pas à cet endroit un pont de cordes traversant le gouffre ? »
+
+« Je crois que votre souvenir est correct, Yíwen, » dit la seconde nonne.
+« Tel que je m'en souviens, c'était un pont robuste, ancien et en bon état, et en effet j'espérais que nous l'emprunterions durant notre marche. »
+
+- - -
+
+Le vent siffla.
+
+« De nouveau, Hwídah, ayez pitié de mes yeux souffrant d'avoir trop souvent codé aux petites heures.
+Mais ne serait-ce pas ce qu'il me semble être les restes du pont de cordes, de l'autre côté du gouffre, pendant le long de la falaise ? »
+
+« Je crois bien que c'est le cas, Yíwen, et si vous regardez les deux grands arbres de part et d'autre de notre chemin, vous verrez qu'une partie du pont pend également de notre côté du ravin.
+Voyez comme les deux moitiés, proximale et distale, oscillent dans le vent avec les quelques planches encore attachées ça et là aux brins qui battent sporadiquement contre la face rocheuse.
+Leur son me rappelle à l'esprit un carillon autrefois pendu à ma fenêtre…»
+
+- - -
+
+Les deux nonnes prirent un moment en considération les coups et raclements des planches contre la falaise.
+
+« Cent pardons, Hwídah, car mes oreilles ne sont accoutumées qu'au cliquetis de mon clavier.
+Mais ne discernez-vous pas comme une voix à travers le souffle du vent ? »
+
+« Je crois bien, Yíwen.
+Si vous observez les cordes de l'autre côté, vous pourrez constater que [[Zjing]], une nonne des plus renommées parmi notre ordre, s'accroche au bout et crie dans notre direction.
+Mon impression est qu'elle ferait de grands signes pour attirer notre attention, si ses mains n'étaient pas mobilisées pour arrêter sa chute.
+N'oublions pas nos manières. »
+
+- - -
+
+Hwídah fit signe à la nonne en péril.
+Yíwen fit de même.
+
+« J'espère que vous ne me trouverez pas indélicate, Hwídah, mais ne trouvez-vous pas Zjing excessivement préoccupée par l'esthétique du code ?
+Des membres de notre clan se plaignent qu'elle remanie fréquemment leurs modules, sous prétexte qu'elle estime l'implémentation insuffisamment élégante. »
+
+« Votre jugement me semble équitable, Yíwen.
+Bien que ses intentions soient louables, elles sont toujours en désaccord avec les complexités de notre problématique.
+De fait, ses efforts furent quelquefois plus nocifs que bénéfiques.
+Pour autant, que cela n'affecte pas notre décision de venir à son aide. »
+
+- - -
+
+Les deux nonnes s'attardèrent au bord de la falaise et réfléchirent au meilleur moyen d'aider leur camarade.
+
+« N'est-ce pas funeste fortune, Hwídah, que la rupture du pont ne nous ait laissé aucun moyen de traverser le gouffre et effectuer un sauvetage ? »
+
+« Cela me semble effroyable, Yíwen, mais si le pont s'était réellement /rompu/, alors les cordes seraient effilochées, or j'en vois tout à fait clairement les extrémités surliées.
+De mémoire, il y avait un joli portillon peint de rouge et d'or juste au milieu de ce pont, les moitiés duquel étant arrimées au portillon par des nœuds qui se sont défaits de quelque façon. »
+
+- - -
+
+Hwídah désigna la rivière loin en contrebas, où l'on pouvait apercevoir les restes du portillon à la dérive dans le courant.
+Yíwen hocha de la tête.
+
+« N'est-ce pas votre souvenir, Hwídah, que les nœuds qui reliaient les cordes à ce portillon étaient lamentablement gros et maladroits, et portaient atteinte à sa beauté ? »
+
+« Il me semble qu'ils l'étaient, Yíwen.
+Je présume que leur laideur aurait été des plus obsédantes pour qui accorde importance à ces aspects -- bien qu'il semble improbable que quiconque soit assez téméraire pour tenter de renouer ces nœuds en plein milieu du pont.
+En ce qui me concerne, je n'ai jamais trouvé cette laideur si problématique.
+J'étais reconnaissante de simplement pouvoir traverser le pont.
+Mois après mois, il remplissait son rôle avec excellence. »

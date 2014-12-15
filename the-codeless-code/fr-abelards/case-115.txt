@@ -1,0 +1,42 @@
+Number: 115
+Title: Douleur
+Lang: fr
+Translator: abelards
+Illus.0.title: Je ne vois pas en quoi un amour brûlant comme la braise est quelque chose d'agréable.
+
+Des rapports de données corrompues avaient atteint les oreilles
+du maître Java[[Banzen]]. Après révision du code, il fit mander
+un moine en son bureau.
+
+"Tu fais beaucoup d'efforts pour éviter les valeurs nulles,"
+dit le maître. "Initialiser toutes les chaînes avec une valeur
+vide, traduire tous les /null/ en vide quand tu affectes les
+valeurs. De plus tu stockes toutes les propriétés de tes
+Data Transfer Objects dans des primitives, ce qui fait que
+les colonnes /null/ sont traduites en zéros et les booléens faux.
+Explique-moi."
+
+Le garçon répondit : "Dans mon expérience, le plus gros des
+erreurs en production est la /NullPointerException/.
+Je ne cherche qu'à en minimiser le nombre."
+
+Banzen réfléchit un moment, jeta une pièce de cuivre dans sa cheminée,
+et la couvrit de charbons ardents.
+"Prends la pièce de tes doigts nus," dit-il.
+
+Le moine essaya trois fois, mais retira toujours ses doigts, brûlés mais vides, saisi par la douleur.
+
+Banzen attrapa l'épaule du garçon, trouva le nerf qu'il cherchait,
+et pinça avec force. La douleur s'interrompit.
+
+"Encore," ordonna Banzen, continuant son point de pression.
+
+Le moine réessaya. Il fut ravi de découvrir qu'il put repousser
+les braises sans douleur, mais découvrit avec horreur l'odeur de
+sa chair brûlée et le bruit de sa propre chair crépitante.
+Il retira immédiatement sa main brûlée et couverte de cloques,
+pour jeter la pièce au sol.
+
+Banzen relâcha le bras du moine et sortit de la pièce.
+Le moine n'avait pas besoin d'une autre correction,
+à part d'apprendre à utiliser son clavier de la main gauche.
