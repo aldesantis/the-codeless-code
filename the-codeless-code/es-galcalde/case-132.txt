@@ -1,0 +1,30 @@
+Number: 132
+Title: Intérprete
+Lang: es
+Translator: galcalde
+Illus.0.title: Ayer ella bailó el intérprete del regex de Perl, y necesitó de dos paramédicos para desenredar sus brazos y piernas.
+
+Estar encerrados juntos durante los meses de invierno tensará hasta las amistades más cercanas; [[Yíwen]] y [[Hwídah]] no fueron la excepción.
+
+Hwídah estaba lo suficientemente irritada cuando su desgarbada compañera empezó a bailar silenciosamente por su cuarto, moviendo sus brazos y piernas a pocos centímetros de la nariz de Hwídah. Pero la paciencia de Hwídah llegó al límite un día cuando Yíwen colocó un guzheng eléctrico{{*}} en el centro del cuarto y empezó a tocarlo -- o más bien, empezó a puntear torpemente sus cuerdas para producir una serie de sonidos disonantes, sin melodía ni ritmo. El interludio duró un minuto, después del cual Yíwen se sentó y garabateó en algunos papeles. Pero luego se levantó y repitió la performance.
+
+Después de la décima iteración, Hwídah arrojó una sandalia al trasero de Yíwen, haciendo que la chica aullara y se de vuelta.
+
+<i>"¿Qué,"</i> gruñó Hwídah, <i>"estás haciendo?"</i>
+
+Algunos de los papeles de Yíwen aletearon hacia el suelo. Hwídah se los arrebató. Eran impresiones del quicksort implementados en diferentes lenguajes: C, Lisp, Perl, hasta Prolog. Cada una estaba cubierta con notaciones musicales en tinta roja.
+
+"Mil perdones por mi rudeza," dijo Yíwen. "Estuve intentando codificar ciertos algoritmos como movimientos en el espacio, o notas en el aire. Si el resultado no es placentero cambiaré mi codificación e intentaré de nuevo."
+
+"¿Por qué?" preguntó Hwídah.
+
+"Para ver qué descubriré haciéndolo," respondió Yíwen. "Hablamos a menudo de la belleza o elegancia del código. Quizás, sin saberlo, estuvimos componiendo coreografías sobre las cuales la información baila, y hallamos algunas placenteras porque apelan a un sentido estético más profundo y común a otras formas del arte humano. Si es así, entonces esas artes estarían conectadas. Yo busco esa conexión."
+
+Hwídah lo consideró.
+
+"Hasta ahora, la música del quicksort me elude," continuó Yíwen con un suspiro. "Quizás mi experimento es tan tonto como traducir canciones al código e intentar compilarlas. Quizás la música del quicksort se toca mejor con máquinas para su propia apreciación, y no la nuestra. ¿Debo abandonar este esfuerzo, y perdonar tus nervios?"
+
+En respuesta, Hwídah sacó dos pedazos de algodón de su mesa de luz y se los puso en sus orejas. Yíwen se inclinó y volvió a su instrumento. Así fue restaurada la paz.
+
+
+{{*}} Imagino que suena mas o menos <a href="http://www.youtube.com/watch?v=cJjlohZxn3w">así</a>.
