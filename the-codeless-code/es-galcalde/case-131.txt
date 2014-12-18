@@ -14,7 +14,7 @@ El monje viejo se fué, dejando al joven considerando el algoritmo de Bawan.
 
 - - -
 
-Tiempo después los mismos dos monjes trabajaban furiosamente de noche para actualizar una de las vereables bases de datos de documentos del clan. Los sistemas críticos quedaron fuera de linea mientras los viejos documentos eran migrados a los nuevos servidores.
+Tiempo después los mismos dos monjes trabajaban furiosamente de noche para actualizar una de las venerables bases de datos de documentos del clan. Los sistemas críticos quedaron fuera de linea mientras los viejos documentos eran migrados a los nuevos servidores.
 
 El script de conversión corrió durante horas, sin embargo falló cerca del final debido a un problema menor. Se inició una segunda pasada, pero como el amanecer se estaba acercando los monjes especificaron que los documentos que hayan sido escritos por la primera pasada deban ser omitidos.
 
