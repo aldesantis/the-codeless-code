@@ -1,0 +1,40 @@
+Number: 121
+Lang: fr
+Translator: abelards
+Title: Sur le fil
+
+La nonne [[Satou]] approcha le maître Java [[Banzen]] et dit :
+"Il y a un goulot d'étranglement dans nos processus,
+et je pense pouvoir l'éliminer en utilisant plusieurs threads.
+Mais j'ai entendu ce proverbe : <i>Si vous avez un problème et dites,
+'Je vais utiliser des threads', vous avez maintenant deux problèmes."</i>
+
+Banzen répondit : "L'adage est ancien, mais ça n'est pas un vrai proverbe.
+En lieu et place de /threads/ j'ai entendu <i>XML,
+expressions régulières, singletons, et AWK.</i>
+Ça n'est qu'une formule à un paramètre dans laquel on attache tout
+ce qui nous déplaît. Il y a plus de sagesse dans les aboiements des chiens."
+
+La nonne considéra cela, et dit : "Alors si vous avez un problème
+et dites, 'je vais utiliser le Proverbe des Deux Problèmes',
+vous avez maintenant deux problèmes."
+
+Banzen fit un léger signe d'approbation de la tête,
+ce qui fit plaisir à la nonne. Mais il leva aussi son index.
+"Que ces mots soient vides de sens ne les rend pas faux pour autant.
+Les threads sont comme le Tsurugi Infiniment Effilé, dont la lame
+peut couper un ennemi en deux à un pied de son corps, mais
+qui tranche un doigt de son porteur chaque fois qu'il est
+tiré de son fourreau."
+
+La nonne demanda : "Comment saurai-je que j'en ai appris assez
+pour pouvoir utiliser les threads avec sagesse ?"
+
+Banzen répliqua : "Quand tu ne voudras plus les utiliser."
+
+
+== Note du Traducteur
+
+Le titre original, "Where Angels Fear to Thread" (là où les anges ont peur de marcher)
+joue sur le mot tread (marcher sur, à travers, piétiner) et thread.
+J'ai choisi de jouer sur le mot fil (thread).

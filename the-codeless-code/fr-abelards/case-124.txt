@@ -1,0 +1,34 @@
+Number: 124
+Lang: fr
+Translator: abelards
+Title: La variable cachée
+Illus.0.title: Ceux qui voudraient que le monde arrête de changer n'ont pas sérieusement envisagé les prérequis que ça exigerait.
+
+
+Un moine approcha le maître [[Kaimu]], et demanda :
+
+Maître [[Banzen]] dit que votre philosophie est erronée,
+car vous donnez des réponses différentes à la même question.
+Saviez-vous qu'il vous insultait de la sorte ?
+
+Non, répondit Kaimu.
+
+Plus tard dans la journée, un autre moine approcha Kaimu et demanda :
+
+Maître [[Banzen]] dit que votre philosophie est erronée,
+car vous donnez des réponses différentes à la même question.
+Saviez-vous qu'il vous insultait de la sorte ?
+
+Oui, répondit Kaimu.
+
+
+== Le commentaire de Qi
+
+Kaimu ne souffre pas d'idempotence.
+
+== Le poème de Qi
+
+Une dix millième année est venue et passée, //
+mais personne ne l'a remarquée. //
+Dans le vide des étoiles, un monde se tait -- //
+Pas de discorde, pas d'erreur, enfin parfait.

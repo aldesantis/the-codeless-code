@@ -1,48 +1,45 @@
 Number: 113
-Title: Mouton noir
-Illus.0.title: ewe: Can't spawn child: insufficient RAM. [NdT : super blague, mais vraiment intraduisible]
+Title: Mouton Noir
+Lang: fr
+Translator: abelards
+Illus.0.title: [ewe: Can't spawn child: insufficient RAM.] Translation Error: too much puns.
 
-On avait proposé à un moine expérimenté du [[Laughing Monkey Clan|Clan du Singe Rieur]],
-exaspéré par la médiocre qualité du code de son équipe, de chercher conseil
-auprès de la nonne [[Zjing]] qui vivait en bas, dans la vallée.
-Il la trouva en train de s'occuper des moutons du Temple dans le pâturage en altitude.
+Un moine expérimenté du [[Laughing Monkey Clan|Clan du Singe Rieur]],
+exaspéré par la piètre qualité du code de son équipe, fut dirigé vers la nonne
+[[Zjing]], qui vivait dans la vallée en contrebas.
+Il la trouva en train de surveiller les moutons du Temple dans un haut patûrage.
+"Qu'avez-vous essayé ?" demanda la nonne ?
+"J'ai laissé des exemplaires de nos Standards et Pratiques sur chaque
+bureau," dit le moine. "Chaque matin j'envoie des liens vers des articles
+pertinents de génie logiciel, et chaque soir je fais une revue du code du jour.
+Et rien ne change.
+Chaque moine commet les mêmes erreurs que le jour d'avant,
+et la base de code devient toujours plus horrible."
 
-"Qu'as-tu essayé ?" demanda la nonne.
+Zjing s'appuya sur son bâton, le regard perdu dans le lointain.
 
-"J'ai imprimé et déposé sur chaque bureau notre guide
-de Normes et Pratiques," dit le moine. "Chaque matin
-je leur envoie des liens vers des articles pertinents
-d'ingénierie logicielle, et chaque soir je fais une
-révision du code de la journée. Et rien ne change !
-Chaque moine renvoie les mêmes erreurs qu'il avait faites la veille,
-et notre codebase devient de pire en pire."
+Elle finit par dire : "Le berger ne peut pas déplacer le troupeau ;
+seul les moutons le peuvent."
+Le moine fronça les sourcils. "Je ne vois pas."
 
-Zjing s'appuya sur son bâton, le regard perdu dans le lointain, absente.
+Zjing prit une petite pierre et la jeta vers un bélier à la tête noire
+qui se tenait à la limite du troupeau. La pierre le toucha à l'oreille,
+sur quoi l'animal bêla et s'enfuit en trottant. Ses voisins le suivirent
+promptement, puis leurs voisins, et ainsi de suite jusqu'à ce que
+la horde laineuse coula telle l'écume vers le bas de la vallée.
+Zjing leur emboita le pas.
+Le moine expérimenté croisa les bras et resta en amont, peu convaincu.
+"Même si je convainc un moine, pourquoi le clan le suivrait-il,
+alors qu'ils ne me suivent pas ?"
 
-Elle finit par dire : "le berger ne peut pas déplacer le trouppeau ; seuls les moutons le font."
-
-Le moine fronça des sourcils. "Je ne vois pas."
-
-Zjing ramassa une petite pierre et la jeta sur un bélier à tête noire
-qui se tenait sur le côté du troupeau. La pierre toucha l'oreille du
-bélier, sur quoi l'animal bêla et s'en fut un peu plus loin en trottant.
-Ses voisins suivirent rapidement le mouvement, puis leurs voisins,
-et ainsi de suite, jusqu'à ce que la troupe à poils laineux
-dévala la pente telle l'écume. Zjing marcha avec eux.
-
-Le moine croisa les bras et restait en amont, toujours pas convaincu.
-"Même si je peux corriger un moine, pourquoi le clan le suivrait-il
-s'ils ne me suivent pas moi ?"
-
-/"Wú,"/ dit Zjing, en lui jetant une pierre. "Ce n'est pas les moines
-que tu gardes, mais le code. Une partie progresse dans la bonne direction,
-mais la plus grande partie ne fait que suivre ce qui précédait.
-L'IDE d'un moine génère un squelette de méthode de piètre qualité,
-un autre moine copie la méthode finie à travers la classe,
-un troisième copie le fichier pour repartir de cette classe
-sous un nom différent, pour ses propres besoins..."
-
-La nonne retrouva le bélier à tête noire et toucha son
-oreille ensanglantée. "Ta codebase est un mouton perdu,"
-fit-elle au moine. "Corrige la, et la paresse de tes moines
-se révèlera être d'une grande utilité."
+/"Wú,"/ dit Zjing, en lui jetant une pierre.
+"Ce n'est pas les moines que vous encadrez, mais le code.
+Une petite partie avance vers l'objectif, mais la plupart ne fait
+que suivre ce qui vient avant. L'IDE d'un moine génère le
+squelette d'une méthode de piètre qualité, un autre moine copie
+la méthode finie tout au long de la classe, un troisième enregistre
+une copie de la classe sous un autre nom pour ses propres besoins..."
+La nonne retrouva le bélier à la tête noire et caressa son oreille
+ensanglantée. "Votre base de code est un mouton errant,"
+cria-t-elle au vieux moine. "Corrigez-la, et la paresse de vos moines
+deviendra une grande vertu."
