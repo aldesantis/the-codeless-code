@@ -1,0 +1,64 @@
+Number: 143
+Title: Monolito
+Lang: es
+Translator: galcalde
+
+El joven monje [[Djishin]] se acercó al maestro [[Kaimu]] y dijo, "Cuéntame sobre el [[Temple of the White Iron Sky|Templo del Cielo de Hierro Blanco]], donde fuiste aprendido por primera vez."
+
+Kaimu dijo, "Es un lugar extraño y peligroso. El conocimiento cuelga en el aire tan espeso como la neblina, sin embargo si te quedas allí por una hora acabarás sabiendo menos de lo que sabías cuando fuistes."
+
+Djishin pensó, <em>Debo ver como algo así puede ser cierto.</em> Así se fue.
+
+Por sus mapas, el templo estaba enclavado en los pliegues de una colina forestada bajo las altas montañas; una señal en el camino principal señalaba un camino descuidado. Djishin siguió el camino a través de una gran Puerta <em>AND</em> y halló que la tierra trepadora de más allá sin duda estaba cubierta por la neblina, hinchada en grandes nubes de vapor de una arboleda de cipreces llorones más arriba de la ladera. La neblina se enrollaba alrededor de la base de una torre pálida en el centro de los terrenos del templo. El camino -- ahora marcado con piedras húmedas -- llevaron a Djishin a sus escalones.
+
+"¿Qué es este lugar, compañero?" le preguntó a un monje vestido de blanco sentando en los escalones.
+
+El monje miró arriba del código Haskell que estaba estudiando. "Los forasteros lo llaman la Torre del Colmillo del Elefante, aunque la conocemos por otro nombre. Pero responde esta pregunta: ¿Eres un ingeniero de software?"
+
+"De corazón y obra, lo soy," respondió Djishin.
+
+"Si fueses uno de mente también, sigue el camino a la arboleda de cipreces, y conversa con la smonjas que meditan allí," dijo el monje vestido de blanco. "La torre aún no está hecha para tí."
+
+- - -
+
+Dentro de la arboleda la neblina se espesó y se volvió una niebla cálida y de sabor amargo; de algún lugar allá arriba vino el sonido de agua burbujeante. Los árboles se partieron, y Djishin se halló en un claro donde cuatro monjas de bata blanca se sentaban contemplando un monolito de basalto negro brillante. En su cara habían inscripciones que el monje nunca vio:
+
+<pre>
+  (>>=) :: m a -> (a -> m b) -> m b
+          return :: a -> m a
+</pre>
+
+"¿Qué es esta piedra, grandes damas?" preguntó Djishin.
+
+"La llamamos la Monada," dijo la primera monja.
+
+"¿Por qué la veneran tanto?" preguntó Djishin.
+
+"A través de ella, podemos tocar lo impuro sin ser corrompidos," dijo la segunda monja. "Podemos hacer caer un Maybe-árbol con una Maybe-hacha y siempre oir un Maybe-sonido cuando se estrella -- incluso si el sonido es Nada en absoluto, cuando el hacha no es real o no hay un árbol que caiga."{{*}}
+
+"¿Pueden... explicar la explicación?" preguntó Djishin.
+
+"Nos da el poder de escribir código sin error," dijo la tercera monja. "Porque sólo consideramos una función como segura si su sola entrada determina su salida. Pero cuando una función sangra efectos secundarios, entonces de cada gota una viña puede florecer para perforar nuestra aplicación con sus espinas. La Monada nos dice como tejer vendajes para contener el flujo. Envolvemos la función, atamos el Mundo Real; lo pasamos, lo sacudimos, y lo sacamos, y de eso se trata todo."
+
+"Y esta inscripción, ¿es código?" preguntó Djishin, sorprendido ante el monolito.
+
+Las monjas se miraron entre sí. "Algún día todos lo conoceremos como tal, tan facilmente como <em>20 GOTO 10</em>. Pero responde esta pregunta: ¿Eres un ingeniero de software?"
+
+"Ya no estoy seguro," respondió Djishin, cuya confusión era completa.
+
+En aquel momento el joven monje fue iluminado.
+
+
+== Comentario de Qi
+
+Irónicamente, la Monada siempre tiene al menos un efecto secundario: me hace sentir idiota.
+
+
+== Poema de Qi
+
+La pantalla se oscurece. //
+Los puntos y comas se dispersan a las cuatro esquinas de la pantalla. //
+Una tormenta puede golpear la alta colina -- //
+Sin embarco cuando el mundo cambia, las tormentas ceden el paso a un enigma más grande.
+
+{{*}} En Haskell, el tipo Maybe A tiene dos valores: Nothing y Just A, donde A es otro tipo. Sirve para especificar algo que puede no estar ahí.
