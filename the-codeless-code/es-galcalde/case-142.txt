@@ -1,0 +1,63 @@
+Number: 142
+Title: El ciego guiando al ciego
+Lang: es
+Translator: galcalde
+Illus.0.title: Con suficientes globos oculares, todos los bichos dirán que están llenos y no pueden comer otro globo ocular.
+
+<i>[[Banzen]] juntó al [[Spider Clan|Clan de la Araña]] y dijo:</i> //
+La Maestra [[Suku]] está [[#139|muy lejos]] para supervisar su siguiente lanzamiento, //
+y no quedan abades para guiarlos. //
+¿Cómo buscarán los errores en su código?
+
+<i>El primer monje dijo:</i> //
+¿Quién mejor para conocer las fallas de un cerdo que otro cerdo? //
+Yo revisaré el código de mi hermano, y él el mío. //
+Seremos los ojos del otro.
+
+<i>El segundo monje dijo:</i> //
+El cerdo podrá conocerse por dentro y por fuera, //
+pero sólo el cocinero puede decir si está bien asado. //
+Confiaré en los ojos de nuestros testers, cuyo deber sagrado es hallar fallas.
+
+<i>El tercero monje dijo:</i> //
+El cerdo suculento puede estar asado a la perfección, //
+pero la vida del cocinero está perdida si la Emperatriz quería bife. //
+Haré una demo de la aplicación para nuestros clientes, y sólo confiaré en sus ojos.
+
+<i>El cuarto monje dijo:</i> //
+¡El cocinero merece perder la cabeza si envía a un idiota a tomar la orden! //
+Confiar en los demás es evitar la responsabilidad. //
+Usaré la aplicación día y noche, y confiaré en mis propios ojos.
+
+<i>El quinto monje dijo:</i> //
+¡Antes de sentarte en la misma mesa, pregúntale a un médico si tu oído es bueno! //
+Confiar en uno mismo es abrazar la arrogancia. //
+Mis pruebas unitarias automatizadas serán mis ojos.
+
+<i>El sexto monje dijo:</i> //
+Es un pobre médico el que juzga el cuerpo sólo examinando sus pies. //
+¡Haz que el paciente corra una docena de <em>li!</em> //
+Mi web-crawler automatizado será mis ojos.
+
+<i>El séptimo monje dijo:</i> //
+Es el médico de un cerdo el que juzga el cuerpo sólo por lo que puede ser visto. //
+¡Que se junten la sangre y la bilis! //
+Mi analizador de código estático será mis ojos.
+
+<i>El octavo monje cubrió su cabeza con su bata, y dijo:</i> //
+Siete caminos comienzan aquí; este hombre ciego debe quedarse atrás. //
+Sin embargo si siete van y dicen lo que han visto, Veré más allá que cualquiera. //
+Todos esos monjes serán mis ojos.
+
+<i>Banzen lo remarcó a su aprendiz [[Satou]]:</i> //
+El segundo monje no hace nada. //
+El octavo monje no hace nada. //
+¿Qué te dice tu tercer ojo?
+
+<i>Satou respondió al maestro:</i> //
+La nada del segundo monje tiene virtud, //
+Pero la nada del octavo monje tiene ocho veces como mucho. //
+El octabo debería ser el nuevo abad, y el segundo su sirviente.
+
+Así el octavo monje fue elevado, //
+y el segundo monje corregido.
