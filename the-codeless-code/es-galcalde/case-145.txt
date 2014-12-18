@@ -1,0 +1,20 @@
+Number: 145
+Title: Cinco Años
+Lang: es
+Translator: galcalde
+
+El [[#142|nuevo abad]] del [[Spider Clan|Clan de la Araña]] se encontró con el viejo monje [[Shinpuru]] desherbando su jardín.
+
+Dijo el abad, "Has estado contento de seguir siendo un humilde desarrollador toda tu vida. Muchas veces se te ofreció el puesto de abad, sin embargo cada oportunidad la has rechazado. Ahora los pocos pelos que cuelgan de tu cabeza son pálidos y delgados. ¿No tienes ambiciones? Como le preguntamos a los aplicantes: ¿Donde te ves en cinco años?"
+
+Shinpuru arrancó un diente de león que se había vuelto semilla y lo sopló fuerte. Plantones de plata se dispersaron, flotando en la briza. Shinpuru le dió el tallo roto y pelado al abad, y sin otra palabra resumió su jardinería.
+
+Más tarde aquel día el abad contó su historia al maestro [[Banzen]]. Sacando el tallo muerto de su bata, el abad dijo, "El monje sin dirección Shinpuru mira hacia nada más que su muerte."
+
+Banzen sólo rió. "Le hice la misma pregunta al <em>aplicante</em> Shinpuru cuando su cara estaba decorada con una melena de leon, y recibí la misma respuesta. No había Java en aquellos días, ni XML, ni HTTP. Escribíamos en C y shell scripts, y hablábamos maravillados de los cambios que habíamos visto: los días de tarjetas perforadas y motores de ábacos aún estaban frescos en nuestras memorias. ¿Y ahora? Ahora el venerable Shinpuru descarga paquetes fuentes raros de tierras distantes, juguetea con Ruby y Dojo tal como un jardinero podría experimentar con semillas exóticas. ¿Quién sabe que lenguajes extraños habrá amaestrado desde aquí a cinco años? Mientras yo habré conducido dos mil revisiones de código miserables, y tu habrás presentado dos mil reportes diarios no leídos."
+
+El maestro señaló al cielo. "Dime: ¿Donde están ahora esos plantones sin ambición que Shinpuru sopló al aire?"
+
+"No puedo decir," dijo el abad. "Al este u oeste de donde estamos; yendo a la deriva o rodeando aquel árbol."
+
+"De aquí a cinco años podrían iluminar la luna, con una vista espléndida del mundo debajo," dijo el maestror. "¡Recuerda el regaño de Shinpuru mientras saboreas tu nueva estación, joven abad! El tallo  puede crecer alto, pero sus raíces son tenaces y su destino es fácilmente adivinado."
