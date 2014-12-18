@@ -3,7 +3,7 @@ Lang: fr
 Translator: abelards
 Title: Sur le fil
 
-La nonne [[Satou]] approcha le maître Java [Banzen]] et dit :
+La nonne [[Satou]] approcha le maître Java [[Banzen]] et dit :
 "Il y a un goulot d'étranglement dans nos processus,
 et je pense pouvoir l'éliminer en utilisant plusieurs threads.
 Mais j'ai entendu ce proverbe : <i>Si vous avez un problème et dites,
