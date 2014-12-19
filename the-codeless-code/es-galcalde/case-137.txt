@@ -11,9 +11,9 @@ Una monja halló al escriba [[Qi]] en su estudio.
 
 "Me esfuerzo por ser exhaustiva," dijo la monja.
 
-"Es un gran alivio," dijo el escriba. "Si estabas esforzandote por ser concisa, me daría escalofríos imaginar que haría tu exhaustividad a la población local de árboles."
+"Es un gran alivio," dijo el escriba. "Si estabas esforzándote por ser concisa, me daría escalofríos imaginar que haría tu exhaustividad a la población local de árboles."
 
-La monja puso su dedo en el garabateo rojo al pié de una página. "Sinembargo bajo cada diagrama has escrito, <i>esta imágen dice 1000 palabras</i>."
+La monja puso su dedo en el garabateo rojo al pié de una página. "Sin embargo bajo cada diagrama has escrito, <i>esta imagen dice 1000 palabras</i>."
 
 "Ese número es en base dos," dijo el escriba.
 
