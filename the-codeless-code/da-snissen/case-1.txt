@@ -1,0 +1,15 @@
+Number: 1
+Lang: da
+Translator: snissen
+Title: Småting
+
+I tre dage og nætter forblev Java-mesteren i sit aflukke. På fjerdedagen sendte templets munke en novice ind for at spørge efter ham
+
+Novicen fandt mesteren ved sit whiteboard, hvor han overvejede ét enkelt dataflow diagram. Novicen genkedte det som en mindre komponent i det vældige system munkene var hyrede til at veligeholde. Høfligt spurge novicen hvad mesteren arbejdede på
+
+Mesteren svarede: "Der er en defekt, og jeg overvejer hvordan den bedste repareres."
+
+Novicen sagde: "Du prædiker ofte om vigtigheden ved at prioritere. Hvorledes kan du så være besat af noget så småt og uvigtigt?"
+
+Ordløst løftede mesteren sin stav, og satte den hårdt ned på novicens bare venstre fod så lilletåen brækkede. Novicen skreg i smerte og vaklede ud af aflukket. I det øjeblik fandt novicen oplysning.
+

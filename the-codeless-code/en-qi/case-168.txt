@@ -1,6 +1,6 @@
 Date: 2014-11-09
 Number: 168
-Title: Horizonal, Vertical
+Title: Horizontal, Vertical
 Geekiness: 2
 Names: Suku, Yaqqana
 Topics: encapsulation, coupling, cohesion, process, architecture, layered architecture, compromise, APIs, craftsmanship, dependencies, components, consistency, maintainability, full-stack developers

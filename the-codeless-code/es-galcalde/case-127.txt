@@ -1,0 +1,73 @@
+Number: 127
+Title: Cambio de Estado
+Lang: es
+Translator: galcalde
+
+El joven maestro [[Kaimu]] estaba repasando su bandeja de entrada cuando encontró un mensaje de un emisor desconocido:
+
+    Mi cuerpo es feo, mis extremidades extrañas, mi cara indecorosa -- //
+    por lo tanto nadie me considera y desea mi compañía. //
+    He vivido muchos años sólo.
+
+    Mi corazón está pesado porque no tengo a nadie que lo aligere -- //
+    por lo tanto paso cada noche codificando en la soledad de mi cuarto. //
+    La bebida y el olvido del sueño son mis únicas escapatorias.
+
+    Mi alma siempre está en pena -- //
+    por lo tanto la miseria me sigue por donde quiera que pise. //
+    Cada día no puede ser mejor que el anterior.
+
+    Mi mente está aturdida de un empleo inútil -- //
+    por lo tanto no he logrado nada de valor o renombre. //
+    Cuando muera, sólo quedará el polvo.
+
+    Mi vida es sin amigos, sin alegría, sin esperanza, sin propósito. //
+    ¿Qué sabiduría puedes ofrecer?
+
+- - -
+
+Kaimu llevó la carta a [[Suku]], diciendo: "Soy sólo un teórico, y no se nada de ser un prisionero de la fealdad. Tú has dominado el logro de la belleza sublime a través del cambio incremental. ¿Qué sabiduría puedes ofrecer?"
+
+Suku respondió: "Yo, también, sufro de imperfecciones del cuerpo, aunque están ocultas a la vista. Si el cuerpo es una aplicación, entonces su código fuente es ineditable y debemos tolerar la desgarbada interfaz de usuario como con cualquier sistema legado.  Desafortunadamente, no puedo refactorizarlo."
+
+Kaimu se inclinó y se fue.
+
+- - -
+
+Kaimu llevó la carta a [[Bawan]], diciendo: "Soy sólo un teórico, y no se nada de la carga de la soledad. Tú has dominado todas las representaciones físicas del Número más Solitario. ¿Qué sabiduría puedes ofrecer?"
+
+Bawan respondió: "Yo me preocupo por los ceros y unos porque cuando miro desde mi pantalla la oscuridad se acerca. Si el corazón es la mitad de una ecuación que debe ser balanceada contra un signo de igual, entonces yo también miro a través de la división hacia la nada.  Desafortunadamente, no puedo resolver tu <em>x</em> cuando hay un <em>y</em> desconocido."
+
+Kaimu se inclinó y se fue.
+
+- - -
+
+Kaimu llevó la carta a [[Yishi-Shing]], diciendo: "Soy sólo un teórico, y no se nada de almas en pena. Tú has dominado los trabajos internos de las máquinas. ¿Qué sabiduría puedes ofrecer?"
+
+Yishi-Shing respondió: "¿Qué es una máquina, sino un artefacto pensado para darnos la ilusión de control, cuando en verdad no podemos controlar ni siquiera nuestra necesidad de hacer el siguiente respiro? Si el alma es una máquina, entonces su caja es la más negra y su teclado está siempre oculto a la vista de la humanidad. Desafortunadamente, no puedo administrarla."
+
+Kaimu se inclinó y se fue.
+
+- - -
+
+Kaimu llevó la carta a [[Banzen]], diciendo: "Soy sólo un teórico, y no se nada de una vida de inutilidad. Tú has dominado las maneras de alcanzar la perfección en el código. ¿Qué sabiduría puedes ofrecer?"
+
+Banzen respondió: "¡No confundas obsesión con ambición, o reputación con logros! La perfección es mi propósito sólo porque la falta de esta es mi dolor. Sin embargo ¿Qué puede ser perfecto cuando hasta la teoría de números está incompleta? ¿Qué puede durar cuando el Universo en sí está destinado a desenredarse? Y aquí estoy: ¡Un desgraciado miserable que no estará contento hasta que su pincel descanse sobre el último dígito del <em>pi</em>! Si la mente es un fractal del cual pueden florecer infinitos futuros, seguiríamos siendo polvo de Cantor al final. Desafortunadamente, no puedo decir cómo hacer algo de lo que eventualmente debe volverse en nada."
+
+Kaimu se inclinó y se fue.
+
+- - -
+
+Kaimu se topó con el monje [[Shinpuru]], podando sus viñas en el invernadero. Como el monje era más viejo que él, Kaimu le contó a Shinpuru de la carta. "Ningún maestro piensa igual en esta cuestión. ¿Qué sabiduría puedes ofrecer?"
+
+Shinpuru pensó un momento, y dijo mitad para si mismo:
+
+"Si el cuerpo no puede ser modificado, entonces su forma debe bastar. Si el corazón no puede ser balanceado, entonces debe pararse sólo. Si el alma no puede dirigirse, entonces debemos cederle el paso. Y si la mente está destinada a estar perdida, entonces todo lo que importa es el presente."
+
+Luego el monje pensó un poco más, y le dijo a Kaimu:
+
+"Comienza tu respuesta de este modo: Cuando el gran lobo Deseo tira tu trineo sobre el hielo, su cachorro Decepción seguramente te mordisqueará los talones. Debes por lo tanto enyugarte a tí mismo...
+
+"Luego aconseja a tu correspondiente: Encuentra dentro de tu corazón cualquier cosa que te de una medida de alegría, sin importar que tán ridículas sean. Llena cada momento posible con esas pequeñas alegrías. Si pueden ser compartidas, mejor que mejor: ve a lugares distantes, conoce gente desconocida, pero cuídate de no buscar compañías entre ellas. No busques nada excepto compartir tus destrezas con aquellos que te lo pidan. Cada momento pasado así será tu legado."
+
+Shinpuru resumió su poda. "Si buscamos cambiar el estado interno de una aplicación pero no podemos cambiar su código, entonces debemos cambiar sus entradas y esperar lo mejor. ¡No es por capricho que me he vuelto jardinero!  Desafortunadamente, no puedo saber lo que dará frutos a los otros."

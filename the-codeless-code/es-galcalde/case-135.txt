@@ -1,0 +1,39 @@
+Number: 135
+Title: Compatibilidad al Revés
+Lang: es
+Translator: galcalde
+Illus.0.title: Para un almuerzo para llevar, es muy alto en fibra.
+
+[[Wangohan]], un monje del [[Spider Clan|Clan de la Araña]], se encontró un bug en una clase de utilidad provista por el [[Laughing Monkey Clan|Clan del Mono que Ríe]]. Él invocó al monje junior del cual era su autor.
+
+"Tu última refactorización de <tt>esNumeroHex</tt> fue incorrecta," dijo Wangohan. "Aunque no hay documentación, el nombre implica que sólo será true para strings de uno o más dígitos hexadecimales. Sin embargo tu expresión regular no usa anclas y usa el cuantificador equivocado. Devolverás true para cualquier string en el cual <em>cero</em> o más dígitos hexadecimales estén presentes <em>en cualquier lugar</em> -- es como decir, cualquier string en absoluto."
+
+"Me aseguré que las pruebas unitarias existentes pasaran," protestó el monje junior. "El Null es rechazado, y los números hexadecimales son aceptados."
+
+Wangohan frunció el ceño. "Te digo que una caja de cartón no es un alimento apto para la hija del Emperador, y tú respondes, <em>una cabra no se ahogó con ella</em>."
+
+- - -
+
+Wangohan llamó al monje superior quien se ocupaba de la librería compartida y le explicó el problema.
+
+"No podemos cambiar la implementación," dijo el monje superior. "Este método es usado ahora a lo largo del templo. Si de repente rechazara strings una vez aceptados, surgiría el desastre."
+
+Wangohan golpeó su puño contra el escritorio del monje.  "Te digo que una caja de cartón no es un alimento apto para la hija del Emperador, y tú respondes, <em>a ella no le podría gustar el sabor del cordero y los higos</em>."
+
+- - -
+
+Wangohan llamó al abad principal del Clan del Mono y le explicó el problema.
+
+"Me ocuparé de la cuestión," suspiró el abad. "Debe haber una solución que satisfaga a todas las partes."
+
+Aquella tarde Wangohan recibió un mail del abad, diciendo que el método ahora debería comportarse como lo previsto. Wangohan abrió el código y lo encontró completamente incambiado, salvo por un nuevo comentario arriba:
+
+<pre>
+  /**
+   * esNumeroHex devuelve true para cualquier string
+   * en el cual cero o más dígitos hexadecimales 
+   * estén presentes en cualquier lugar.
+   */
+</pre>
+
+La cabeza de Wangohan cayó en su escritorio. "Claramente una caja de cartón debe ser un alimento apto para la hija del Emperador, porque está en el menú Imperial."

@@ -1,0 +1,31 @@
+Number: 118
+Title: Argile
+Lang: fr
+Translator: abelards
+
+Un général de l'Armée Impériale avait missionné le Temple pour
+la construction d'un système de réquisition pour leur logistique.
+Soucieux du coût, il envoya un officier de la 3ème Division des
+Entiers Non Signés pour faire un rapport sur la progression du Temple.
+
+L'officier nota avec satisfaction que la plupart des développeurs
+travaillaient méthodiquement et dans le calme : ils dessinaient
+des conceptions détaillées, soumettaient les documents pour validation
+ou modification, et consultaient la version finale en tapant le code.
+
+Mais une des nonnes ne faisait pas cela.
+
+Tandis que l'officier regardait, la nonne créa une douzaine de classes
+dans le dépôt, les regardant chacune un moment, renomma la moitié d'entre
+elles, les regarda de nouveau, les découpa en plusieurs parties, les regarda,
+ajouta des méthodes et en retira d'autres, et ainsi de suite.
+Tout le jour, elle répéta ce cycle.
+
+L'officient ne put retenir son impatience davantage, et dit :
+"Assez ! Si les scultpeurs Impériaux étaient aussi impulsifs que vous,
+il n'y aurait plus aucune once de jade utilisable au monde !"
+
+La nonne répondit, "Si les sculpteurs impériaux sont assez fous pour
+faire les tuiles des toits dans le jade, le palais de l'Emprereur
+doit être encore à moitié ouvert aux quatre vents.
+Quant à moi, je choisis de travailler l'argile."

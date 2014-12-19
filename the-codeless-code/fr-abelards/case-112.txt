@@ -1,4 +1,6 @@
 Number: 112
+Lang: fr
+Translator: abelards
 Title: Parle-moi
 Illus.0.title: D'un côté, elle gagne trois pelotes au kilomètre et elle peut toujours retrouver le chemin de la maison.
 
