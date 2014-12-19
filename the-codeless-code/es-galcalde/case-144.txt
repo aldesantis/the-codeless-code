@@ -3,11 +3,11 @@ Title: Mnemónica
 Lang: es
 Translator: galcalde
 
-Mientras [[#143|Djishin abandonaba el Templo del Cielo de Hierro Blanco]] para volver a casa, una mano cayó sobre su hombro. "Hermano," dijo un monje de bata blanca, "Veo que por tu hábito eres del [[Temple of the Morning Brass Gong|Templo del Gong de Laton Mañanero]]."
+Mientras [[#143|Djishin abandonaba el Templo del Cielo de Hierro Blanco]] para volver a casa, una mano cayó sobre su hombro. "Hermano," dijo un monje de bata blanca, "Veo que por tu hábito eres del [[Temple of the Morning Brass Gong|Templo del Gong de Latón Mañanero]]."
 
 "Negarlo sería decir una falsedad," dijo Djishin.
 
-"He oído que es un cruel lugar, donde a los tontos se los corrige con humillación e injurias, si no es con la ejecucíon," dijo el monje.
+"He oído que es un cruel lugar, donde a los tontos se los corrige con humillación e injurias, si no es con la ejecución," dijo el monje.
 
 "Negarlo sería decir una falsedad," dijo Djishin, "pero afirmarlo también lo sería."
 
@@ -36,4 +36,4 @@ Aterrorizado, el monje corrió lejos de Djishin, apenas tumbando a una vieja mon
 
 "Pero no utilizamos Perl aquí," dijo la monja.
 
-"Por eso la elegí," dijo Djishin. "Desde ahora, cuando él cuente la historia del visitante loco que respondió su pregunta con un miembro de un árbol, él citará las extrañas palabras que grité. Y cuando él entienda <em>por qué</em> las sigue sabiendo, captará el añgoritmo del escriba del Gong de Laton Mañanero."
+"Por eso la elegí," dijo Djishin. "Desde ahora, cuando él cuente la historia del visitante loco que respondió su pregunta con un miembro de un árbol, él citará las extrañas palabras que grité. Y cuando él entienda <em>por qué</em> las sigue sabiendo, captará el algoritmo del escriba del Gong de Latón Mañanero."
