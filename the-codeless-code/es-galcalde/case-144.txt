@@ -1,0 +1,39 @@
+Number: 144
+Title: Mnemónica
+Lang: es
+Translator: galcalde
+
+Mientras [[#143|Djishin abandonaba el Templo del Cielo de Hierro Blanco]] para volver a casa, una mano cayó sobre su hombro. "Hermano," dijo un monje de bata blanca, "Veo que por tu hábito eres del [[Temple of the Morning Brass Gong|Templo del Gong de Latón Mañanero]]."
+
+"Negarlo sería decir una falsedad," dijo Djishin.
+
+"He oído que es un cruel lugar, donde a los tontos se los corrige con humillación e injurias, si no es con la ejecución," dijo el monje.
+
+"Negarlo sería decir una falsedad," dijo Djishin, "pero afirmarlo también lo sería."
+
+"No lo entiendo," dijo el monje.
+
+"La grandeza de un templo recae en las historias que se cuentan de él," dijo Djishin, "Por lo tanto nuestro escriba a veces [[#89|revisará nuestros anales]] para que los cuentos allí sean más... memorables."
+
+"¿Entonces su Log de Eventos más sagrado no es de confianza?" preguntó el monje sorprendido.
+
+<em>"Null,"</em> respondió Djishin calmadamente, tal como el maestro Kaimu [[#24|le enseñó]]. "Puedes confiar en que los anales son fieles al <em>espíritu</em> de los eventos ocurridos, en vez de las cosas concretas de aquellos eventos."
+
+El monje escupió al suelo a los pies de Djishin. "Tus palabras tienen toda la lógica complicada de alguien que aún escribe código en procedimientos. ¿Cómo puedes venir esperando captar los fundamentos de los algoritmos probados y correctos, cuando no puedes ni siquiera distinguir lo verdadero de lo falso?"
+
+Rápido como un parpadeo, Djishin rompió una rama de un árbol y golpeó al monje de bata blanca en el estómago. Djishin continuó golpeando al monje sin habla, gritando cada vez que daba un golpe:
+
+<div align="center"><i>
+"¡En Perl, el guión bajo se entiende!<br/>
+¡En Perl, el guión bajo se entiende!"
+</i></div>
+
+Aterrorizado, el monje corrió lejos de Djishin, apenas tumbando a una vieja monja mientras corría por los escalones de la torre y se desvanecía por sus puertas.
+
+"¿Qué propósito tiene esta violencia?" demandó la monja a Djishin.
+
+"Deseaba que su monje aprendiera la mnemónica de Perl <tt>$_</tt>, y que nunca la olvidara," dijo Djishin.
+
+"Pero no utilizamos Perl aquí," dijo la monja.
+
+"Por eso la elegí," dijo Djishin. "Desde ahora, cuando él cuente la historia del visitante loco que respondió su pregunta con un miembro de un árbol, él citará las extrañas palabras que grité. Y cuando él entienda <em>por qué</em> las sigue sabiendo, captará el algoritmo del escriba del Gong de Latón Mañanero."
