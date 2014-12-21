@@ -1,0 +1,32 @@
+Title: Entraves
+Number: 63
+Lang: fr
+Translator: cdlm
+Illus.0.title: Peut-être qu'elle reconsidèrera son déménagement une fois la saison des avalanches venue.
+
+Sœur [[Zjing]] avait développé une aversion des heuteurs.
+Un jeune moine la trouva dans ses nouveaux quartiers :
+une petite hutte nichée au plus bas d'une vallée sept cent pieds en contrebas du temple.
+
+Le moine s'assit, car Zjing avait pris l'habitude de travailler allongée sur le sol.
+
+« J'ai écrit un sous-système des plus élégants pour notre chaîne de rendu graphique, » dit le moine.
+« Cela a radicalement amélioré la capacité de traitement, mais c'est très fragile.
+Tout changement doit être effectué avec la plus grande prudence, faute de quoi le chaos en résulterait.
+Pendant toute une année j'ai maintenu le code, ne faisant confiance à personne d'autre.
+Maintenant mes nerfs sont à vif.
+Il me faut passer à d'autres projets, ou je risque la perte des quelques facultés intellectuelles qui me restent. »
+
+« Je comprends, » dit Zjing, s'aggrippant au sol alors qu'elle se redressait pour examiner le code sur le portable du moine.
+« Tu crains l'inévitable jour où ton successeur fera une modification négligemment, et où le système tombera en miettes. »
+
+« Oui -- car je serai incriminé, et à juste titre ! » pleura le moine.
+« Comment puis-je m'assurer au mieux que tel désastre ne se produise jamais ?
+Par d'exhaustifs commentaires /dans/ le code ?
+Par une vaste documentation /hors/ du code ?
+En fournissant cent tests unitaires qui échoueront si des modifications incorrects sont faites ?
+En infusant le code d'innombrables vérifications de cohérence -- augmentant d'autant plus sa complexité ?
+Ou en continuant sur ce projet jusqu'à ce que mon cerveau tourne en gelée ? »
+
+« /Wú,/ » dit la nonne.
+Elle sélectionna le répertoire contenant le code source du sous-système, pressa la touche de suppression, et s'en fut en rampant par la porte.
