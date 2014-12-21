@@ -1,0 +1,35 @@
+Title: Le chien de garde
+Number: 60
+Lang: fr
+Translator: cdlm
+
+Les serveurs de production d'un système clé fonctionnaient mal depuis de nombreuses semaines.
+Après chaque redémarrage le logiciel se comportait bien, mais les jours passant, les performances se dégradaient peu à peu jusqu'à ce que le système devienne inutilisable.
+Pire, il était commun que l'application arrive à court de mémoire et plante pendant la période la plus chargée du troisième jour, emportant avec elle toutes les données de session non persistées des utilisateurs connectés.
+Des douzaines d'abonnés mécontents commencèrent à téléphoner au Temple pour faire part de leur insatisfaction ; ils avaient des suggestions très /spécifiques/ au regard du traitement à réserver aux développeurs.
+Une meute de chiens de garde dressés fut acquise pour sécuriser les abbayes.
+
+Incapables de reproduire le problème dans l'environnement de développement, les maîtres Java implorèrent qu'on redémarre le système chaque nuit.
+Ce qui fut accordé par un consensus quasi unanime.
+Yishi-Shing, un maître hébergeur du [[Clan of Iron Bones|Clan des Os de Fer]], resta l'unique dissident.
+
+On considéra les redémarrages comme un succès :
+les performances restaient bonnes toute la journée, tous les utilisateurs à part les plus violents furent apaisés, et les maîtres Java purent enfin porter attention à des choses plus intéressantes.
+
+Une nuit les maîtres et développeurs Java s'éveillèrent au son d'aboiements frénétiques au dehors de leurs bâtiments.
+À la lumière de la lune on aperçut l'un des chiens de garde du Temple, fourrure hérissée et pattes écartés pour faire front à un groupe de silhouettes menaçantes vêtues de noir.
+Le chien allait attaquer lorsqu'un sifflement perça l'air.
+L'animal gémit et tomba, les pattes prises dans les cordes d'un dai-chui.
+Les sombres silhouettes se dispersèrent dans le noir.
+
+Des ombres le maître hébergeur émergea.
+Il s'agenouilla auprès du chien impuissant pour reprendre le dai-chui qui était clairement le sien.
+
+Les maîtres Java questionnèrent :
+« Ces hommes pourraient revenir avant l'aube.
+Pourquoi as-tu neutralisé le chien ? »
+
+Yishi-Shing répondit :
+« Ses aboiements dérangeaient mon sommeil. »
+
+
