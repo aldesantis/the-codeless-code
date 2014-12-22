@@ -1,0 +1,98 @@
+Number: 122
+Lang: fr
+Translator: abelards
+Title: Artisanat
+Illus.0.title: Nous avons découvert des choses sur des cultures millénaires grâce aux inscriptions gravées dans le bois et la pierre. En attendant, j'ai des térabits de données numériques qui ne seront plus lisibles dans quelques décennies. Le projet Rosetta a la bonne idée -- si c'est important, grave-le dans un support qui dure dix mille ans.
+
+Maître [[Bawan]] menait un initié sur les terres du temple.
+Ils finirent par arriver dans le Hall des Heures Perdues, où les
+abbés tenaient leurs réunions du matin.
+Bawan montra les quatre piliers de chêne massif qui soutenaient
+la plus ancienne partie du hall. Sur chacun étaient gravées des
+scènes de la vie du temple, du sol aux hauts plafonds, sur chacun
+des quatre côtés.
+Les formes complexes étaient d'un réalisme si saisissant que
+le moine pouvait presque entendre claquer les abaques.
+
+"Ceux-ci ont été façonnées voici deux cent ans par un
+moine de notre ordre," dit Bawan. "Cela lui a pris six ans,
+en travaillant chaque nuit au marteau et burin, son travail
+illuminé seulement par la lumière clignotante d'un tube cathodique."
+
+Plus bas, ils rencontrèrent un autre carré de quatre piliers,
+en tous points semblables au premier carré.
+
+"Ceux-ci sont été faits voici une centaine d'années par les moines
+du [[Harmful Go-To Clan|Néfaste Clan du Go-To]], qui fut banni depuis,"
+dit Bawan. "Ils ont utilisé un pantographe de bambou fixé à un routeur
+électrique pour répliquer les originaux. Cela leur a pris six mois,
+travaillant à la lumière d'un CRT mis au rebut, sur lequel tournait
+[[#applicant-2|la Fontaine d'Anantha]]."
+
+Plus bas ils arrivèrent à un autre carré de quatre piliers,
+encore plus fidèle aux originaux.
+
+"Ceux-ci ont été créés voici cinquante ans par trois nonnes
+du [[Elephant's Footprint Clan|Clan des Empreintes de l'Éléphant]],
+qui se chargent de nos bases de données et garantissent notre histoire,"
+dit Bawan. "Les nonnes ont tracé les contours des originaux et
+ont alimenté ces coordonnées dans une machine à usinage programmable.
+Les mesures ont pris six semaines ; la gravure, quelques jours."
+
+Ils atteignirent enfin le nouveau portique sud, soutenu par un
+dernier carré de piliers, qui ressemblaient tant à l'original que
+la moindre marque d'un coup de burin légèrement décalé avait
+été fidèlement reproduite.
+
+"Ceux-ci ont été installés voici dix ans par un de nos
+stagiaires d'été," dit Bawan. "Il a photographié les originaux
+avec des appareils de photographie numériques haute résolution,
+combiné les données dans un maillage topographique en trois
+dimensions avec une résolution en dessous du millimètre, et
+a confié la réalisation à une usine de la province voisine.
+Six jours, du début à la fin."
+
+Bawan s'arrêta devant l'initié. "Lequel de ces ensembles
+de piliers porte la plus grande valeur pour le Temple ?"
+
+Le moine réfléchit et dit, "Ceux qui n'existent que sous
+forme de données pures, que le stagiaire a rassemblées.
+Car bien qu'ils ne possèdent ni hauteur, profondeur ou poids,
+c'est à partir d'eux que l'on pourrait refaire tous les autres piliers."
+
+Bawan s'inclina et guida le moine vers la sortie.
+
+- - -
+
+La même nuit, Bawan marchait seul à la lanterne à travers
+les archives hardware du [[Clan of Iron Bones|Clan des Os de Fer]],
+dans les caves les plus profondes sous leur abbaye.
+
+Trouvant enfin le mainframe VAX qu'il cherchait, Bawan connecta
+un terminal VT100 poussiéreux, appuya sur le bouton pour l'allumer,
+et ouvrit un fichier de code source en C qui n'avait pas été
+compilé depuis un quart de siècle.
+
+Bawan nota avec satisfaction la parfaite indentation des
+instructions, la clarté évocatrice des noms de variables
+et de fonctions, l'exhaustivité dans les commentaires qui
+documentaient chacun des paramètres.
+Il sourit devant quelques commentaires TODO et FIXME :
+l'appel vers un futur qui ne répondrait jamais.
+Puis il fit défiler vers le haut du fichier, où apparaissaient
+fièrement son propre nom et son adresse email.
+
+"Cet initié n'avait qu'à moitié raison," dit Bawan à l'espace vide.
+"C'est vrai, la valeur n'est pas dans la gravure du chêne,
+mais elle n'est pas non plus dans la forme qui est sculptée ;
+car même si l'on perdait les piliers tant réels que virtuels,
+le Temple n'en serait pas plus pauvre.
+Mais quand le bois cède devant le métal, il est une autre
+chose qui se forme et se construit, et cela est : l'artisan."
+
+
+== Note du Traducteur
+
+Craftsmanship, traduit artisanat, se comprend ici avec l'idée
+du sérieux et de la maîtrise de l'artisan, avec l'expérience,
+la compétence et la fierté qu'il met dans son ouvrage.

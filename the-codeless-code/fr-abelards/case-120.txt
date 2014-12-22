@@ -1,4 +1,6 @@
 Number: 120
+Lang: fr
+Translator: abelards
 Title: Plug and Play
 Illus.0.title: Il s'est spécialisé en échantillons de tabourets.
 

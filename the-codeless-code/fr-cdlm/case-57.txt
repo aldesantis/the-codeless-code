@@ -2,9 +2,9 @@ Title: Précision
 Number: 57
 Lang: fr
 Translator: cdlm
-Illus.0.title: The brain was in a jar marked 'Abby'-someone.
+Illus.0.title: Le cerveau était dans un bocal marqué « Abby »-quelqu'un.
 
-Un certain moine approcha maître Java [[Bawan]] à la fin du soûper et demanda :
+Un certain moine approcha maître Java [[Bawan]] à la fin du souper et demanda :
 
 « N'est-ce pas véridique que la mémoire d'un ordinateur est, essentiellement, une séquence finie de bits ? »
 

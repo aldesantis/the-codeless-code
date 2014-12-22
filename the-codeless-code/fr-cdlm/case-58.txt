@@ -1,0 +1,71 @@
+Title: Suffisamment pour vous y pendre
+Number: 58
+Lang: fr
+Translator: cdlm
+Illus.0.title: Tu es un bon et gentil maître, et je t'aime. ÉCUREUIL!
+
+Peu est dit des robes noires du Clan de l'Amère Haleine du Loup, hormis ceci :
+aucun logiciel ne peut sortir des limites du temple sans d'abord obtenir leur aval.
+Les jours suivant une livraison, le son de leurs pas faisait tellement fuir les moines que le Clan en était réduit à marcher pieds nus, déposant leurs tickets de défauts furtivement, aux heures les plus sombres de la nuit.
+
+C'est ainsi que, non sans quelque irritation, maître Java [[Banzen]] -- qui plaçait la correction par dessus tout -- eût à rendre comptes pour les échecs récurrents du fervent moine [[Djishin]].
+
+- - -
+
+Maître Banzen convoqua Djishin, qui trouva le maître admirant le coucher de soleil au flanc de la falaise.
+
+Banzen :
+« Les moines de l'Amère Haleine du Loup souhaitent savoir si la prochaine itération du système est digne de leur attention.
+Ils demandent notre garantie qu'elle ne révélera pas de défaut critique immédiatement après son déploiement, comme tant des précédentes. »
+
+Djishin :
+« J'estime le nouveau système des plus dignes.
+En théorie j'ai testé chaque endroit où les composants de bas niveau pourraient faire défaut, et tout fonctionne comme prévu. »
+
+Banzen :
+« Cela doit être fastidieux de peiner des jours ainsi, cliquant à travers des dialogues utilisateur et examinant des fichiers journaux. »
+
+Djishin :
+« Mes tests ne sont pas manuels ; vous-mêmes avez fait l'observation qu'une telle méthode est lente et propice à 'erreur.
+À la place, je travaille selon la Méthode de [[Luohou]] :
+toutes les modifications des DAOs et des Services ont été vérifiées durant l'implémentation par un bataillon compréhensif de tests de bas niveau automatisés.
+Car si les pierres sont solides, alors le mur tiendra. »
+
+Banzen :
+« Allez en informer les moines, alors.
+Ils vous attendent de l'autre côté de la gorge. »
+
+Banzen pointa de l'autre côté du grand ravin qui séparait la falaise où ils se trouvaient de celle d'en face.
+
+Djishin :
+« Comment puis-je traverser ?
+Le pont a été <a href="/case/54">détruit par une sœur imprudente</a> et pend toujours en loques. »
+
+Banzen indiqua une fine corde tendue au dessus du vide entre deux arbrisseaux.
+
+Djishin :
+« Mais maître, personne à part les acrobates de l'Empereur lui-même n'est capable de garder l'équilibre sur une corde si étroite. »
+
+Banzen montra une longueur du même cordage, lové non loin au sol en une spirale serrée d'un bon mètre de diamètre.
+Le maître posa un pied en son centre et leva l'autre, restant ainsi une bonne minute.
+
+Djishin, trop avisé pour accuser le maître de tricherie :
+« Mais ce toron est fin, sec et cassant.
+Je doute qu'il supporte mon poids. »
+
+Banzen s'agenouilla, déroulant la corde longueur après longueur entre ses mains, démontrant qu'elle était toujours d'une seule longueur après qu'il ait marché dessus.
+
+Encore, Djishin n'osa pas contredire l'argument du maître :
+« Mais votre pont ne tient qu'à deux jeunes arbrisseaux verts.
+Mon poids déracinera certainement ces plantes. »
+
+Banzen sortit un ocarina de sa robe et en tira une trille aiguë.
+De l'autre côté du ravin apparurent des douzaines et des douzaines d'écureuils.
+Un par un ils bondirent sur la corde oscillante, et traversèrent le précipice.
+Quand chaque écureuil arrivait, Banzen lui jetait une noix de litchi, ce sur quoi l'écureuil saluait bassement, disparaissait dans les arbres, et le suivant commençait sa traversée.
+Djishin observa avec stupeur jusqu'à ce que le dernier écureuil fût parti.
+
+Banzen :
+« Constatant que votre pied n'est pas plus grand que le mien, que votre corps n'est pas plus lourd que le mien, et qu'aucun de nous n'excède le poids de cent écureuils, je déclare mon pont tout à fait digne de votre traversée.
+En /théorie./
+Maintenant /allez-y./ »

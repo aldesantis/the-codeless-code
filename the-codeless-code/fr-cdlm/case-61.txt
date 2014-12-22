@@ -1,0 +1,30 @@
+Title: Poids
+Number: 61
+Lang: fr
+Translator: cdlm
+Illus.0.title: C'est un chouette endroit pour s'asseoir et se relaxer, si les hurlements étouffés ne vous dérangent pas.
+
+Maître Java [[Suku]] entra dans les bureaux de l'abbé supérieur du [[Spider Clan|Clan de l'Araignée]] ; un moine sous ses ordres entra également.
+Ils s'inclinèrent.
+
+Suku dit à l'abbé :
+« La semaine dernière, on m'a ordonné de complètement ré-implémenter le module de visualisation de données, dont les longs tentacules s'insinuent dans chaque crevasse de notre système.
+J'ai requis sept développeurs de diverses spécialités pour que ce remaniement puisse être accompli en une itération.
+Pourtant vous ne m'avez assigné que ce moine solitaire. »
+
+L'abbé répondit :
+« Nous ne pouvons allouer sept développeurs tous en même temps.
+À la place, ce moine sera autorisé à faire le travail en sept itérations.
+En échange de cette indulgence, il devra garder le système stable, car nombreuses sont les fonctionnalités que nous souhaitons mettre en œuvre pour nos utilisateurs durant ce temps. »
+
+Suku fit un signe de la tête au moine, qui ouvrit sa paume et souffla une bouffée de poudre rouge droit au visage de l'abbé.
+Reculant de surprise, l'abbé en inhala une bouffée.
+Il s'affala promptement sur son bureau.
+
+L'abbé reprit ses sens dans un sombre trou de pierre, une unique chandelle vacillant à son côté.
+Comme ses yeux s'accoutumaient aux ténèbres, il contempla une note apposée à la trappe au dessus de lui :
+
+    Un rocher sept fois ton poids //
+    repose sur la trappe, la tenant fermée. //
+    Mais console-toi -- //
+    tu peux le soulever lentement si tu veux.
