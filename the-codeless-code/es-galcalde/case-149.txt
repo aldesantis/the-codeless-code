@@ -1,0 +1,20 @@
+Number: 149
+Title: El Primer Dedo
+Lang: es
+Translator: galcalde
+
+La monja [[Satou]] halló al maestro [[Kaimu]] y dijo, "Del irónico maestro Bawan [[#148|aprendí que]] el caching es un cañón de hierro: atractivo de tocar, fácil de cargar, difícil de apuntar, y mortal para manejar mal."
+
+Kaimu respondió, "Nuestros diez dedos son pedernal y acero, y el teclado es nuestro detonador."
+
+La monja continuó, "Del infeliz maestro Banzen [[#121|aprendí que]] dichas armas sólo deberían ser usadas de mala gana: después de un largo estudio si es posible, despues de la derrota vergonzosa si no."
+
+Kaimu respondió, "El soldado que perdió dos dedos no colocará mal los ocho restantes tan rápidamente. Es su camarada con un conjunto completo de dígitos el que más pronto perderá un miembro."
+
+La joven monja tuvo escalofríos y dijo, "De ese modo tengo miedo del caching. Y al no tener tiempo para estudiarlo cuidadosamente, deseo evitarlo con todas las herramientas que lo usan. ¿Cómo se puede hacer mejor?"
+
+Kaimu respondió, "No guardes datos: ni en un archivo, ni en una base de datos, ni en la variable más pasajera. Porque ¿Qué es cada dato sino un eco congelado del Coro Incesante del Mundo Exterior? Cuando picamos una nota en el hielo, ¿Qué prueba tenemos de que aún se cante más allá de nuestros muros de silicio? Hasta la Preferencia de Usuario más intrascendente debería ser obtenida directamente del Usuario cuando se requiera, para estar seguros que adivinamos su voluntad."
+
+La monja arqueó una ceja. "Busqué la ayuda de Kaimu porque deseaba evitar el error. ¿Por qué el maestro se burla de mí?"
+
+Kaimu agarró el pulgar de Satou y dijo, "Buscabas la ayuda de Kaimu porque deseabas evitar perder un brazo. ¡Pero toma coraje, soldada! Uno de tus dos dedos ya se ha ido."
