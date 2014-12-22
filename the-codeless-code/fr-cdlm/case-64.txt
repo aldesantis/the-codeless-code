@@ -1,0 +1,74 @@
+Title: Trois mendiants
+Number: 64
+Lang: fr
+Translator: cdlm
+Credits: Quelques textures des illustrations mises à disposition par <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.2.title: Je suis passé à *ça* près de les dessiner comme les Trois Stooges.
+
+
+Maître Java [[Kaimu]] mena trois moines anciens au Hall des Bureaux Sans Fin.
+Là il regroupa trois novices dont il avait la charge.
+
+« On a besoin d'une méthode utilitaire qui prenne un ID d'employé et à partir de celui-ci construise une URL particulière, » dit Kaimu.
+« La logique n'est pas triviale, mais à la fin ça se réduit à de la substitution de texte. »
+
+Kaimu fit un signe vers le premier vieux moine.
+« Lui, il travaille sur la couche de persistance, où toutes les clés de la base de données sont des grands entiers.
+Vous comprenez pourquoi il souhaite que la méthode accepte un Long. »
+
+Kaimu désigna le second vieux moine.
+« Celui-là travaille sur la couche métier, qui applique du typage fort.
+Il souhaite que la méthode accepte une instance d'EmployeeID. »
+
+Kaimu désigna le troisième vieux moine.
+« Celui-ci travaille sur la couche web, où toutes les données sont manipulées sous forme de texte.
+Il souhaite que la méthode accepte une String. »
+
+Le maître s'inclina alors devant les trois moines, et demanda aux novices de proposer leurs solutions.
+
+- - -
+
+Le premier novice se leva.
+« La méthode devrait accepter une String, car cette représentation sera la plus utile à l'intérieur de la méthode elle-même.
+En ce qui concerne les moines qui préfèrent Long ou EmployeeID, il peuvent facilement invoquer /toString/ sur ces objets et passer le résultat à la méthode. »
+
+Kaimu :
+« Quand le mendiant accroupi dans la poussière vous demande une pièce, vous pouvez exiger qu'il lève son bol vers vous.
+Mais quid de l'homme sans bras ? »
+
+Avant que le premier novice ne puisse répondre, le second se leva.
+« L'apparente simplicité à invoquer /toString/ est entravée par la nécessité pour l'a l'appelant de vérifier d'abord que le receveur n'est pas null.
+Donc la méthode devrait accepter un Object, qui pourra se trouver être d'un quelconque des trois types.
+La méthode elle-même peut se prémunir contre null, et n'invoquer /toString/ que s'il n'y a pas de danger.
+Ainsi, rien n'est requis de l'appelant. »
+
+Kaimu :
+« Sachant que le mendiant sans bras n'accepte que ce qui est placé sur sa langue, charitablement, vous ne vous déplacez jamais sans riz dans vos poches.
+Pourtant vous jetez vos grains dans la bouche de /n'importe qui./
+Que les rats et les pies seront heureux ! »
+
+Le troisième novice se leva.
+« Trois moines, trois novices.
+Pourquoi pas trois méthodes, chacune acceptant un type différent ?
+EmployeeID, Long, et String.
+La première et la seconde peuvent déléguer à la troisième, et chacune peut se prémunir de null. »
+
+Kaimu :
+« Pas une miette pour les rats du village, mais comme les mendiants doivent être dodus !
+Pourtant, si une méthode prend quatre paramètres, l'écrirez-vous de quatre-vingt-et-une différentes manières ? »
+Vous gaspillerez tant de temps à satisfaire toute le monde que vous ne satisferez personne. »
+
+Kaimu demanda ensuite aux vieux moines de repartir, pour laisser les novices déterminer par eux-mêmes la meilleure manière de satisfaire toutes les contraintes.
+
+- - -
+
+Le premier moine aîné murmura en partant :
+« Sur quelle approche statueront-ils, selon vous ? »
+
+Le second aîné répondit :
+« Si ils sont un tant soit peu comme nous, ce sera celle soutenur par le novice qui crie le plus fort. »
+
+Le troisième aîné approuva.
+« Sans nul doute, quelques-uns d'entre nous trouveront à redire de la solution, mais l'endureront à contrecœur, et le monde ne s'arrêtera pas de tourner.
+Mais il va sans dire :
+nous sommes tous des mendiants les uns aux pieds des autres. »
