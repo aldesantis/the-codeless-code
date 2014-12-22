@@ -1,0 +1,71 @@
+Title: Graisse
+Number: 67
+Credits: Texture du mur de pierre via <a href="http://seamless-pixels.blogspot.com/2011/12/added-seamless-stone-wall-under.html">seamless-pixels.blogspot.com</a>
+Illus.0.title: Au moins il ne mourra pas de soif.
+
+Le lundi, le <a href="/case/62">dernier abbé restant</a>
+du [[Spider Clan|Clan de l'Araignée]] appela maître Java [[Suku]] à son bureau.
+
+« Vous êtes fort en retard sur le calendrier, » dit l'abbé, ouvrant un éventail peint.
+« Je vais vous aider à choisir vos priorités.
+L'analyste me dit que le but premier de votre application est de produire des graphes de données historiques.
+Par conséquent, ordonnez à tous les développeurs de cesser leurs activités en cours et de terminer le module de génération de graphiques. »
+
+« Comme l'abbé le commande, » dit Suku.
+Elle salua très bas et s'en fut.
+
+- - -
+
+Le mardi, l'abbé appela Suku à son bureau.
+
+« J'ai parlé avec le client, » dit l'abbé, limant ses ongles longs.
+« Ils peuvent se passer des graphiques pour la première livraison, pourvu qu'on puisse exporter les données sous forme d'une table.
+Ordonnez à tous les développeurs de cesser leurs activités en cours et de terminer le module d'export de données. »
+
+« Comme l'abbé le commande, » dit Suku.
+Elle salua très bas et s'en fut.
+
+- - -
+
+Le mercredi, l'abbé appela Suku à son bureau.
+
+« J'ai parlé avec les commerciaux, » dit l'abbé, tirant méticuleusement une aiguille à travers un cadre à broder.
+« Ils ont plusieurs clients potentiels qui seraient conquis si nous offrions la visualisation géographique dans la première livraison.
+Ordonnez à tous les développeurs de cesser leurs activités en cours et de terminer le module de génération de cartes. »
+
+« Comme l'abbé le commande, » dit Suku.
+Elle salua très bas et s'en fut.
+
+- - -
+
+Le jeudi comme le vendredi, l'abbé appela Suku à son bureau.
+
+L'entrevue se déroula tout comme les jours précédents.
+
+- - -
+
+Le samedi, l'abbé appela Suku à son bureau.
+
+« Vous avez bien peu progressé cette semaine, » dit l'abbé, tirant un minuscule rateau à traveurs un jardin de sable miniature sur son bureau.
+« Expliquez-vous. »
+
+« Comme l'abbé le commande, » dit Suku.
+D'un moulinet de son bâton elle frappa l'abbé à la nuque, l'étalant sur son bureau, inconscient dans une nappe de sable blanc.
+
+- - -
+
+Le dimanche, l'Abbesse de Tous les Clans et Préoccupations appela Suku à son bureau.
+
+« L'abbé de votre clan a fait le souhait que j'annule votre entretien matinal de sa part, » dit l'Abbesse, « car il semble qu'il soit tombé dans notre plus profond puits et ne puisse en ressortir. »
+
+« N'y a-t-il pas de robustes échelons de fer scellés dans les murs ? » demanda Suku.
+
+« Il semble qu'ils aient été minutieusement graissés, » dit l'Abbesse d'un ton contrarié.
+« Ainsi que la corde à seaux.
+Et que les murs de pierres eux-mêmes.
+L'abbé a grimpé quelques kilomètres ce matin, mais malheureusement ce sont toujours les mêmes dix pieds.
+Ordonnez à tous les développeurs de cesser leurs activités en cours et d'observer ses progrès.
+Je pense qu'ils les trouveront des plus édifiants. »
+
+« Comme l'abbesse le commande, » dit Suku.
+Elle salua très bas et s'en fut.
