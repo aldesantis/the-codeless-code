@@ -1,0 +1,36 @@
+Title: Deux choix
+Number: 65
+Lang: fr
+Translator: cdlm
+Illus.0.title: BONJOUR MA CHÉRIE, BONJOUR MA JOLIE, BONJOUR MA BELLE RAGTIIIIIME...
+
+Maître Java [[Kaimu]] laissa <a href="/case/64">trois novices</a>
+débattre de la signature d'une méthode utilitaire dont on avait besoin.
+Une heure plus tard il les trouva tous toirs dans son bureau, meurtris et fort échevelés.
+
+« Vous êtes-vous mis d'accord ? » demanda Kaimu.
+
+Le premier novice, arborant une robe déchirée et une lèvre ouverte, dit :
+« Nous sommes encore plus éloignés d'une conclusion pacifique qu'avant.
+Chacun de nous préfère toujours sa propre solution à celle des deux autres.
+Nous vous prions de faire le meilleur choix à notre nom. »
+
+« Très bien, » soupira Kaimu.
+« Parmi les trois options proposées, une était assez audacieuse pour rejeter notre tradition de typage fort et déclarer que la méthode accepte un Object, afin de satisfaire tout utilisateur potentiel.
+Lequel d'entre vous a proposé cela ? »
+
+Le second novice s'avança fièrement.
+D'un rapide coup de pied à l'estomac, le maître l'envoya valdinguer à travers la porte.
+
+
+== Commentaire de Qi
+
+La méthode qui prend un Object accepte aussi bien un PiedGauche.
+
+
+== Poème de Qi
+
+Une parfaite grenouille sise sur la table, //
+encerclée d'éclats de jade. //
+À chaque coup, le sculpteur a deux choix : //
+pour, contre.
