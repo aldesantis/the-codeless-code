@@ -10,7 +10,7 @@ Title: Lost Peer
 
 There was a time, as ancient logs recall, //
 when you and I would Handshake every morn //
-through packets on the ether-network borne //
+through packets on an Ether-network borne //
 our love conveyed by formal Protocol.
 
 So high was your availability, //
@@ -62,7 +62,7 @@ is meant to convey an algorithm like this:
 
 <pre>
     SocketAddress sockAddr = new InetSocketAddress(host, port);
-    for (int i = 0; i < N_TRIES; i++) {
+    for (int i = 1; i <= N_TRIES; i++) {
         try {
             client.connect(sockAddr, TIMEOUT_MILLIS);
             return client;
@@ -75,10 +75,10 @@ is meant to convey an algorithm like this:
     throw new IOException("give up");
 </pre>
 
-It is theorized that his thousand-stanza epic, /The Dromedary/,
+It is theorized that his ten-thousand-stanza epic, /The Dromedary/,
 describes a Perl-to-OCaml converter written in C++.
 No scholar can stay sane long enough to be certain.
 
 
 {{1}} Dedicated to Stanislaw Lem, with profuse apologies{{2}} to my translators.
-{{2}} Please don't kill me for this.
+{{2}} Guys, please don't kill me for this.  Really, you can skip this one.
