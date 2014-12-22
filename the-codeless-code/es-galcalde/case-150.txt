@@ -1,0 +1,38 @@
+Number: 150
+Title: Deshacer
+Lang: es
+Translator: galcalde
+
+Un monje le preguntó al maestro [[Kaimu]], "¿Cual es el comportamiento ideal del 'deshacer'?"
+
+Kaimu respondió, "La de deshacer la acción menos significante del usuario, luego la acción antes de eso, y así sucesivamente hasta el principio del tiempo."
+
+El monje preguntó, "¿Que hay de la redimensión de una ventana?"
+
+Kaimu respondió, "Idealmente, también sería deshecha."
+
+El monje preguntó, "¿El guardado de un archivo?"
+
+Kaimu respondió, "También deshecho."
+
+El monje preguntó, "¿El envío de un email?"
+
+Kaimu respondió, "También deshecho."
+
+El monje se rió y dijo, "¡Absurdo! ¿Como podría alguien implementar semejante comportamiento?"
+
+El maestro lanzó una aplicación en su escritorio. "Aquí hay un editor de mi propio diseño, el cual implementa el Deshacer Ideal."
+
+El monje escribió una linea de texto. Luego eliminó una palabra, redimensionó la ventana, guardó el archivo, y lo envió como un email. Cuando el email apareció en su teléfono, apretó la tecla Deshacer cuatro veces.
+
+El monje dijo, "Sin efecto."
+
+Kaimu respondió, <i>"Null.</i> El tiempo en sí se reseteó tal como estaba inmediatamente después de que escribiste tu linea de texto. En ese punto -- sin ningún recuerdo de la iteración anterior -- borraste la palabra otra vez, redimensionaste la ventana, guardaste el archivo, y enviaste el mail."
+
+El monje señaló triunfante al maestro. <i>"¡Null</i> a tu <em>Null!</em> Porque en la segunda iteración alegada habría subsecuentemente apretado el Deshacer cuatro veces, tal como lo hice en la primera iteración...¡creando así un bucle inescapable!"
+
+Kaimu cruzó sus brazos y con satisfacción respondió, "Las acciones de la segunda iteración no eran significantes, puesto que estaban destinadas a ocurrir como consecuencia del reseteo del reloj; por lo tanto no son candidatas para el Deshacer Ideal. Sólo tus cuatro pulsaciones de la tecla deshacer en la <em>primera</em> iteración -- aquellas que <em>iniciaron</em> la segunda iteración -- eran significantes."
+
+El monje preguntó, "¿Entonces que ha pasado con esos cuatro Deshaceres?"
+
+Kaimu respondió, "Gracias a los cuatro Deshaceres en la <em>segunda</em> iteración... también fueron deshechos."
