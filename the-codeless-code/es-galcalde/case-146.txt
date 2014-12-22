@@ -1,0 +1,70 @@
+Number: 146
+Title: Modelo de Cajas
+Lang: es
+Translator: galcalde
+Illus.0.title: Eso no es una "mancha de grasa"... es un "indicador de sabor".
+
+La monja [[Zjing]] volvió a su domicilio en el solitario valle bajo los riscos del Templo. Sin embargo el teletrabajo no la aislaba de los dramas ocurrentes de la vida del Templo, y no pasó mucho hasta que el monje senior [[Wangohan]] empezó a bombardearla con quejas sobre su adversario de mucho tiempo, el monje [[Landhwa]].
+
+Wangohan envió este mensaje:
+
+      Se nos dio a cada uno una nueva aplicación para desarrollar, //
+      usando el [[#120|framework]] que introduje al templo... //
+
+      He escrito muchas pruebas unitarias y funcionales; //
+      Landhwa no escribió ninguna, y se traga excepciones //
+      para evitar tragarlas en la pantalla...
+
+      Yo valido todas las entradas del lado del servidor; //
+      Landhwa depende de Javascript para sanear sus datos, //
+      aunque ese truco puede ser deshabilitado en cualquier cliente... //
+
+      Yo genero HTML simple, compatible con los estándares; //
+      Landhwa cose plugins resbaladizos de JQuery, //
+      confiando en que el navegador renderize su desastre...
+
+      Hicimos una demo de nuestros sistemas esta mañana. //
+      Todas las alabanzas del cliente fueron injustamente para Landhwa. //
+      Ninguna para mí.
+
+
+Zjing reflexionó en la tendencia de Wangohan de envenenar a quienes lo irritaban.{{*}} Para ahorrarle a Landhwa una noche desagradable en el piso del baño, ella contestó:
+
+      Envíame las URLs de ambos sistemas.  //
+      Lo investigaré.
+
+- - -
+
+Al día siguiente, Wangohan recibió un paquete de la monja con dos cajas. La primera, una caja de laca negra, contenía un almuerzo que era la imagen de la armonía estética suprema: ocho pequeños compartimientos en los cuales habían salsas, carne chisporroteante, y verduras cortadas equitativamente, ordenadas alrededor de un tazón cuadrado de arroz humeante adornado con flores de tonos apetitosos. La segunda, una caja blanca de cartón aceitoso, parecía tener los mismos ingredientes -- sin embargo las porciones estaban cortadas desordenadamente y mezcladas con arroz tibio de manera muy poco atractiva.
+
+En el paquete había una nota escrita por Zjing:
+
+     Elige y come. //
+     Al fondo está tu respuesta.
+
+Wangohan devoró los contenidos de la caja de laca negra, pero estaba confundido al no haber encontrado una nota abajo. Estaba debatiendo sobre si estaba lo suficientemente hambriento para comer los contenidos de la segunda caja cuando un agudo dolor en su barriga quitó este pensamiento (y todos los demás) fuera de su mente.
+
+- - -
+
+A la noche siguiente, Wangohan -- aún postrado en la cama -- recibió otro paquete de la monja. Lo abrió con algo de trepidación.
+
+Adentro habían cuatro pequeñas cajas de te de menta (sus sellos de cera originales estaban intactos), tres artículos sobre principios de diseño de interfaces de usuario, dos discos extraíbles con las últimas distribuciones de AngularJS y Bootstrap, y la siguiente nota:
+
+         Esta era la comida que Landhwa preparó: //
+         traicionera para el estómago, sí, //
+         pero placentera para los sentidos de antemano. //
+
+         Mientras Wangohan sirve comida honesta //
+         que nos hubiera mantenido en una marcha de un día, //
+         si la hubiésemos deseado.
+
+         La presentación no es parte de la comida, //
+         pero sí es parte del alimento; //
+         nuestra introducción, nuestra interfaz.
+
+         Abraza su propósito, y recuerda: //
+         el cocinero no talla las zanahorias en dragones, //
+         para mejorar su sabor.
+
+
+{{*}} Vean los casos [[#84]] y [[#120]]. O sólo eviten su estante de especias.
