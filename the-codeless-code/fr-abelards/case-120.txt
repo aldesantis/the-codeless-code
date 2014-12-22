@@ -1,0 +1,56 @@
+Number: 120
+Title: Plug and Play
+Illus.0.title: Il s'est spécialisé en échantillons de tabourets.
+
+On avait confié au moine [[Wangohan]] le soin de développer une application Web par lui-même.
+Pour cette tâche il avait choisi un nouveau framework prometteur,
+mais comme il ne lui était pas familier, sa première implémentation
+était [[#91|étrange]] et [[#99|fragile]].
+Pendant des semaines Wangohan travailla dur pour corriger les problèmes,
+restructurant son code tandis que sa compréhension du framework grandissait.
+Au moment de la livraison, son application était élégante au-delà de
+toute comparaison, et les abbés du [[Spider Clan|Clan de l'Araignée]]
+donnèrent leur accord pour que ce nouvel outil soit utilisé dans les projets futurs.
+
+"Mais d'abord," dit le plus jeune abbé, "nous devons implémenter
+les composants dont le Temple aura besoin, et les fournir à tous
+ceux qui voudront utiliser ce framework."
+
+À la grande consternation de Wangohan, c'est le moine [[Landhwa]]
+qui fut choisi pour ce travail. Pire encore, Landhwa n'avait
+aucune envie d'étudier le code de Wangohan, ni d'apprendre de
+la bouche de ce dernier les nombreuses particularités de ce
+framework. À la place, Landhwa ne venait consulter Wangohan
+que lorsqu'il ne voulait pas chercher tout seul la réponse
+à des questions simples.
+
+Wangohan finit par aller demander au jeune abbé du Clan
+de l'Araignée pourquoi Landhwa avait été choisi pour mener
+l'effort d'adoption du framework.
+
+"Il se débrouille avec le code, n'était pas surchargé, et n'a pas dit
+non quand on lui a proposé," dit le jeune abbé avec indifférence.
+
+Wangohan s'inclina et sortit.
+
+- - -
+
+Le jour suivant, maître [[Suku]] fit appeler Wangohan dans ses appartements.
+
+"Le jeune abbé est souffrant, avec des crampes d'estomac
+des plus douloureuses," dit-elle. "La cause est inconnue,
+mais je soupçonne [[#84|une mauvaise cannelle]]."
+
+"C'est un mal très commun," accorda Wangohan.
+
+"J'allais le suggérer à ce jeune abbé, mais j'ai appris
+que vous l'aviez déjà emmené au bloc opératoire," dit Suku.
+"Je ne savais pas que le Temple avait un bloc opératoire."
+
+"C'est qu'il sert principalement d'atelier au charpentier," dit Wangohan.
+
+"Et j'imagine que le chirurgien est, le plus clair de son temps, charpentier ?"
+
+"Oui," dit Wangohan. "Mais comme j'ai dit à ce jeune abbé :
+il se débrouille avec les lames, n'était pas surchargé, et n'a pas dit
+non quand on lui a proposé."

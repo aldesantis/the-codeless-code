@@ -1,0 +1,40 @@
+Number: 126
+Title: Cérémonie du thé
+Lang: fr
+Translator: abelards
+Illus.0.title: Arrête de regarder sous ses robes. Oui lecteur, je te parle à TOI.
+
+Comme beaucoup de son âge, la jeune nonne [[Satou]] était d'une irrepressible curiosité :
+moins elle en savait au sujet de quelque chose, plus elle voulait l'essayer.
+Elle avait ainsi choisi d'utiliser plusieurs threads pour améliorer la performance
+dans un utilitaire de traitement des fichiers journaux, en dépit
+[[#121|des avertissements de maître Banzen]].
+
+Banzen fit une revue de son code, puis invita la nonne à discuter
+de ses trouvailles durant la pause thé du matin.
+
+Quand Satou s'assit dans le salon de thé du maître,
+Banzen prit un bol vide avec sa main gauche tandis
+que la droite prenait une louche d'eau bouillante
+et la versa directement sur le tatami de Satou.
+Satou poussa un cri de surprise, bondissant pour éviter
+de se faire ébouillanter.
+Le maître posa calmement le bol au centre de la flaque
+grandissante tandis que sa main droite battait la flaque
+avec un fouet.
+Puis sa main gauche prit une cuiller de bambou et commença
+à verser la poudre de thé vert dans le bol sec.
+
+"Maintenant," dit Banzen. "Parlons des séquencements critiques."
+
+
+== Le commentaire de Qi
+
+Mais d'abord, assieds-toi, et rentre.
+
+== Le poème de Qi
+
+Glissant avec patience ou effervescence //
+Brillant sur mon écran, doucement, en silence //
+L'ordre de ces quatre lignes était sans importance //
+De la programmation parallèle est l'essence //
