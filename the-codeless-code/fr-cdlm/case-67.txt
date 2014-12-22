@@ -1,5 +1,7 @@
 Title: Graisse
 Number: 67
+Lang: fr
+Translator: cdlm
 Credits: Texture du mur de pierre via <a href="http://seamless-pixels.blogspot.com/2011/12/added-seamless-stone-wall-under.html">seamless-pixels.blogspot.com</a>
 Illus.0.title: Au moins il ne mourra pas de soif.
 

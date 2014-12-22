@@ -1,0 +1,84 @@
+Date: 2014-12-21
+Number: 173
+Names: Eku, Mugen
+Topics: poetry, TCP, IP, HTTP, network, sockets, protocols, clients, servers
+Geekiness: 3
+Title: Lost Peer
+
+
+<i>From "The Courtship of Eku and Mugen":</i> {{1}}
+
+There was a time, as ancient logs recall, //
+when you and I would Handshake every morn //
+through packets on the ether-network borne //
+our love conveyed by formal Protocol.
+
+So high was your availability, //
+a timeout span in minutes would I set -- //
+secure that neither POST nor PUT nor GET //
+would e’er a 504 return to me.
+
+And when your subnet’s firewall arose, //
+you bade its router map a secret port //
+through which we could clandestinely consort -- //
+a backdoor assignation, undisclosed.
+
+Discreetly you’d a server-socket bind //
+to listen at your gate for my connect //
+But if this host address be still correct, //
+Then why resounding silence do I find?
+
+My every last connection is refused, //
+my buffered input streams have all run dry, //
+the root nodes of our JSON trees I spy //
+now withered on the heap; they die unused.
+
+Oh! Where can you have gone, beloved peer? //
+A segmentation fault?  A kill-dash-9? //
+No, say you live!  And if the fault be mine, //
+I'll every line rewrite 'til you appear.
+
+'Til then /i/ iterate from one to /n/ //
+Yet never take exception when I fail //
+but catch myself, and log, and weep, and wail, //
+then sleep an interval, and try again.
+
+Thus furtively alone at night I'll SYN //
+and dream that you will send some answer back -- //
+Oh, SYN with me!  And promise we shall ACK //
+until we both lie sated, kiss... and FIN.
+
+I'll seek thee there with netcat minus-z! //
+I'll seek thee here with netstat minus-t! //
+Let others mock my hopeless loyalty -- //
+They only serve who serve HTTP.
+
+
+
+== Qi's Commentary
+
+Mugen liked to code in poetry.  Presumably, the seventh stanza
+is meant to convey an algorithm like this:
+
+<pre>
+    SocketAddress sockAddr = new InetSocketAddress(host, port);
+    for (int i = 0; i < N_TRIES; i++) {
+        try {
+            client.connect(sockAddr, TIMEOUT_MILLIS);
+            return client;
+        }
+        catch (Exception e) {
+            log.warning("weep, wail");
+            Thread.sleep(INTERVAL_MILLIS);
+        }
+    }
+    throw new IOException("give up");
+</pre>
+
+It is theorized that his thousand-stanza epic, /The Dromedary/,
+describes a Perl-to-OCaml converter written in C++.
+No scholar can stay sane long enough to be certain.
+
+
+{{1}} Dedicated to Stanislaw Lem, with profuse apologies{{2}} to my translators.
+{{2}} Please don't kill me for this.
