@@ -1,0 +1,30 @@
+Title: Confusion
+Number: 62
+Lang: fr
+Translator: cdlm
+Credits: Quelques textures des illustrations mises à disposition par <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.title: Je leur ai demandé comment respecter au mieux notre échéance, mais tout ce qu'ils savent faire est me conseiller de suivre une autoroute pavée de briques couleur safran...
+
+Maître Java [[Suku]] entra dans les bureaux du nouvel abbé supérieur du [[Spider Clan|Clan de l'Araignée]], qui avait pris ses fonctions à ce poste après que son prédécesseur eût mystérieusement <a href="/case/61">disparu.</a>
+
+Suku dit à l'abbé :
+« Le mois dernier on m'a ordonné de complètement réimplémenter le module de visualisation de données.
+J'ai requis sept développeurs de diverses spécialités pour que ce remaniement puisse être accompli en une itération.
+Aujourd'hui j'émerge de mes quartiers pour trouver vingt-et-uns bizarres petits moines m'attendant dans le hall. »
+
+Avec un grand enthousiasme, l'abbé répondit :
+« Ne sont-ils pas merveilleux ?
+Nous les avons recueillis dans une distante province qui a récemment été assaillie par la famine, ou des tremblements de terre, ou des scarabées rouges géants ; j'ai oublié les détails.
+Ils mangent peu, ne dorment que deux heures par nuit, et sont d'accord pour se passer de poste de travail et coder suspendus aux chevrons, donc ils n'engageront que peu de frais.
+Avec une telle équipe vois devriez être en mesure de rattraper le temps perdu, et d'achever les sept semaines de travail en seulement sept jours. »
+
+Suku soupira, porta deux doigts à sa bouche, et émit un sifflement strident.
+À ce son, une douzaine de minuscules personnages en robe sautèrent des chevrons sur l'abbé abasourdi, l'assommant.
+
+L'abbé reprit ses sens dans un sombre trou de pierre, une unique chandelle vacillant à son côté.
+Comme ses yeux s'accoutumaient aux ténèbres, il découvrit un squelette en robe d'abbé, rongé par les rats, sur lequel était épinglée une note :
+
+    Au dessus de toi se trouve une trappe : //
+    robuste, mais légère et déverrouillée. //
+    Pour faciliter ton évasion j'ai utilisé les meilleures charnières -- //
+    Sept sur chaque bord.
