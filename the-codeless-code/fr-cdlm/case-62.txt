@@ -8,9 +8,9 @@ Illus.0.title: Je leur ai demandé comment respecter au mieux notre échéance, 
 Maître Java [[Suku]] entra dans les bureaux du nouvel abbé supérieur du [[Spider Clan|Clan de l'Araignée]], qui avait pris ses fonctions à ce poste après que son prédécesseur eût mystérieusement <a href="/case/61">disparu.</a>
 
 Suku dit à l'abbé :
-« Le mois dernier on m'a ordonné de complètement réimplémenter le module de visualisation de données.
+« Le mois dernier on m'a ordonné de complètement ré-implémenter le module de visualisation de données.
 J'ai requis sept développeurs de diverses spécialités pour que ce remaniement puisse être accompli en une itération.
-Aujourd'hui j'émerge de mes quartiers pour trouver vingt-et-uns bizarres petits moines m'attendant dans le hall. »
+Aujourd'hui j'émerge de mes quartiers pour trouver vingt-et-un bizarres petits moines m'attendant dans le hall. »
 
 Avec un grand enthousiasme, l'abbé répondit :
 « Ne sont-ils pas merveilleux ?
