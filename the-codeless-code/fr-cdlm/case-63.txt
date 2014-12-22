@@ -2,9 +2,9 @@ Title: Entraves
 Number: 63
 Lang: fr
 Translator: cdlm
-Illus.0.title: Peut-être qu'elle reconsidèrera son déménagement une fois la saison des avalanches venue.
+Illus.0.title: Peut-être qu'elle reconsidérera son déménagement une fois la saison des avalanches venue.
 
-Sœur [[Zjing]] avait développé une aversion des heuteurs.
+Sœur [[Zjing]] avait développé une aversion des hauteurs.
 Un jeune moine la trouva dans ses nouveaux quartiers :
 une petite hutte nichée au plus bas d'une vallée sept cent pieds en contrebas du temple.
 
@@ -17,7 +17,7 @@ Pendant toute une année j'ai maintenu le code, ne faisant confiance à personne
 Maintenant mes nerfs sont à vif.
 Il me faut passer à d'autres projets, ou je risque la perte des quelques facultés intellectuelles qui me restent. »
 
-« Je comprends, » dit Zjing, s'aggrippant au sol alors qu'elle se redressait pour examiner le code sur le portable du moine.
+« Je comprends, » dit Zjing, s'agrippant au sol alors qu'elle se redressait pour examiner le code sur le portable du moine.
 « Tu crains l'inévitable jour où ton successeur fera une modification négligemment, et où le système tombera en miettes. »
 
 « Oui -- car je serai incriminé, et à juste titre ! » pleura le moine.

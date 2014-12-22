@@ -8,7 +8,7 @@ Maître Java [[Suku]] entra dans les bureaux de l'abbé supérieur du [[Spider C
 Ils s'inclinèrent.
 
 Suku dit à l'abbé :
-« La semaine dernière, on m'a ordonné de complètement réimplémenter le module de visualisation de données, dont les longs tentacules s'insinuent dans chaque crevasse de notre système.
+« La semaine dernière, on m'a ordonné de complètement ré-implémenter le module de visualisation de données, dont les longs tentacules s'insinuent dans chaque crevasse de notre système.
 J'ai requis sept développeurs de diverses spécialités pour que ce remaniement puisse être accompli en une itération.
 Pourtant vous ne m'avez assigné que ce moine solitaire. »
 
