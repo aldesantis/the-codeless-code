@@ -1,0 +1,135 @@
+Title: Changement d'état
+Number: 127
+Lang: fr
+Translator: abelards
+
+Le jeune maître [[Kaimu]] parcourait sa boîte de réception quand
+il tomba sur un message d'un expéditeur inconnu :
+
+    Mon corps est laid, mes membres étranges, mon visage n'est pas joli -- //
+    ainsi personne ne me regarde et désire ma compagnie. //
+    J'ai vécu dans la solitude tant d'années.
+
+    Mon coeur est lourd car je n'ai personne pour l'alléger -- //
+    ainsi je passe chaque nuit à coder dans la solitude de mes quartiers. //
+    La boisson et l'oubli du sommeil sont mes seules portes de sortie.
+
+    Mon âme est souffrante à jamais -- //
+    ainsi la misère me suit partout où je vais. //
+    Aucun jour ne peut être mieux que la veille, pas d'illusion.
+
+    Mon esprit est lassé de son labeur sans signification -- //
+    ainsi je n'ai rien achevé de valeur, de bon ou de renom. //
+    Il ne restera de moi que poussière quand je mourrai.
+
+    Ma vie est vide de sens, d'espoir, de joie et d'amitié. //
+    Quelle sagesse pouvez-vous m'apporter ?
+
+- - -
+
+Kaimu mena la lettre à [[Suku]], disant : "Je ne suis qu'un
+théoricien, et ne sais rien de ce qu'est être prisonnier de tant
+de laideur. Vous avez atteint la sublime beauté par des changements
+incrémentaux.
+Quelle sagesse pouvez-vous m'apporter ?"
+
+Suku répondit : "Je souffre également des imperfections de la chair,
+même si elles sont cachées à la vue des autres. Si le corps est une
+application, alors son code source n'est pas modifiable et nous devons
+supporter son interface utilisateur malgré ses défauts, comme nous
+le ferions de tout système historique.
+Hélas, je ne peux pas faire de refactoring là-dessus."
+
+Kaimu s'inclina et prit congé.
+
+- - -
+
+Kaimu mena la lettre à [[Bawan]], disant : "Je ne suis qu'un
+théoricien, et ne sais rien du fardeau de la solitude.
+Vous avez maîtrisé toutes les représentations physiques du
+Nombre Solitaire.
+Quelle sagesse pouvez-vous m'apporter ?"
+
+Bawan répondit : "Je triture les zéros et les uns car la noirceur s'approche
+dès que je lève mon regard de mon écran. Si le coeur est la moitié
+d'une équation qu'il faut équilibrer, moi aussi je regarde perplexe
+le vide au-delà du signe égal.
+Hélas, je ne peux pas résoudre ton /x/ si le /y/ aussi est inconnu."
+
+Kaimu s'inclina et prit congé.
+
+- - -
+
+Kaimu mena la lettre à [[Yishi-Shing]], disant : "Je ne suis qu'un
+théoricien, et ne sais rien des âmes en souffrance.
+Vous avez maîtrisé les fonctionnements internes des machines.
+Quelle sagesse pouvez-vous m'apporter ?"
+
+Yishi-Shing répondit : "Qu'est-ce qu'une machine, mais un artefact
+dont le but est de nous donner l'illusion de contrôle, alors qu'en vérité
+nous ne contrôlons même pas notre besoin de prendre la prochaine inspiration ?
+Si l'âme est une machine, elle s'enveloppe dans la boîte la plus noire,
+et son clavier est pour toujours caché à la vue de l'humanité.
+Hélas, je ne peux pas l'administrer."
+
+Kaimu s'inclina et prit congé.
+
+- - -
+
+Kaimu mena la lettre à [[Banzen]], disant : "Je ne suis qu'un
+théoricien, et ne sais rien d'une vie de futilité.
+Vous avez maîtrisé les moyens d'atteindre la perfection dans le code.
+Quelle sagesse pouvez-vous m'apporter ?"
+
+Banzen répondit : "Ne prenez pas l'obsession pour l'ambition,
+ou la réputation pour la réussite ! Si je recherche la perfection,
+ce n'est que parce que je souffre de ne pas l'atteindre.
+Mais qu'est-ce qui peut être parfait si même la théorie des nombres
+est incomplète ? Qu'est-ce qui reste quand l'Univers lui-même
+est destiné à se dégrader ?
+Et me voici : misérable créature qui ne sera jamais satisfait jusqu'à ce que
+son pinceau se reposera après avoir écrit la dernière décimale de /pi/ !
+Si l'esprit est une fractale de laquelle d'infinis futurs peuvent fleurir, alors
+nous ne sommes que de la poussière de Cantor jusqu'à la fin.
+Hélas, je ne peux pas dire comment sortir du néant quelque chose qui devra y retourner."
+
+Kaimu s'inclina et prit congé.
+
+- - -
+
+Kaimu tomba par hasard sur le moine [[Shinpuru]], taillant ses vignes dans la serre.
+Comme le moine était plus vieux que lui, Kaimu lui parla de la lettre.
+"Aucun maître ne m'a dit la même chose sur ce sujet.
+Quelle sagesse pouvez-vous m'apporter ?"
+
+Shinpuru réfléchit un moment, puis dit, à moitié pour lui-même :
+
+"Si le corps ne peut être changé, sa forme doit suffire.
+Si le coeur ne peut pas être équilibré, il doit se tenir par lui-même.
+Si l'âme ne peut être dirigée, nous devons y céder.
+Et si l'esprit doit être perdu, tout ce qui compte est le présent".
+
+Puis le moine réfléchit encore un petit peu, et dit à Kaimu :
+
+"Commencez ainsi votre réponse : quand le grand loup du Désir
+tire votre traîneau à travers la glace, son louveteau Déception va
+sûrement venir vous mordiller les talons.
+Vous devrez alors vous arrimer à vous-mêmes...
+
+"Puis conseillez à votre correspondant : trouvez dans votre coeur
+toute chose qui vous donne un peu de joie, peu importe si elle
+semble ridicule.
+Remplissez autant de moments que possible de ces petites joies.
+Si elles peuvent être partagées, faites-le au maximum :
+visitez des lieux éloignés, rencontrez de nouvelles personnes,
+mais prenez garde à ne pas vouloir en faire des compagnons.
+Ne recherchez rien sinon partager votre spécialité avec ceux
+qui vous le demandent.
+Chaque moment qui passe sera alors votre héritage."
+
+Shinpuru reprit la taille de sa vigne.
+"Si nous cherchons à changer l'état interne d'une application
+sans pouvoir en changer le code, on doit changer les entrées
+et espérer que tout aille mieux.
+Ce n'est pas par caprice que je suis devenu jardinier !
+Hélas, je ne peux pas savoir ce qui portera des fruits pour les autres."
