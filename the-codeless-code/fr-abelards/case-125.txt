@@ -1,0 +1,118 @@
+Number: 125
+Title: Pouvoir
+Lang: fr
+Translator: abelards
+Illus.0.title: Même un jardin a besoin d'une petite désinsectisation de temps à autres.
+
+Il est du ressort des abbés du Temple de diriger les activités
+de leurs clans respectifs : choisir les projets, mettre
+en place les deadlines, répartir les tâches, et utiliser
+tous les moyens à leur disposition pour s'assurer que
+ce qui a été planifié soit livré à l'heure.
+C'est pour ces pouvoirs que les abbés sont à la fois enviés et méprisés.
+En effet, il est rare qu'un abbé croise le chemin d'un moine sans que
+ce dernier ressorte plus malheureux de cette expérience.
+
+C'est ainsi sans grande joie que le vieux moine [[Shinpuru]]
+reçut la visite du nouvel abbé en chef du [[Spider Clan|Clan de l'Araignée]].
+
+- - -
+
+Shinpuru était dans la serre du temple, s'occupant des plantes
+d'un petit jardin d'hiver qu'il se réservait comme passe-temps,
+quant l'abbé en chef approcha et s'inclina très bas, disant :
+"Ai-je la bonne fortune d'être en présence du moine Shinpuru,
+dont le code est admiré à travers le Temple ?"
+
+"C'est bien cette pauvre âme que voici," dit Shinpuru, s'inclinant de même.
+
+"Je suis venu vous demander si vous aviez consacré quelques pensées
+à l'avenir," dit l'abbé.
+
+"Demain, je m'attends à voir le soleil se lever," dit Shinpuru.
+"À moins que je ne me trompe, auquel cas il ne se lèvera pas."
+
+"Je pensais à votre avenir en particulier", répondit l'abbé.
+
+"Si le soleil ne se lève pas, mon futur sera le cadet de mes soucis,"
+dit Shinpuru. "S'il se lève, je me propose de le saluer en appréciant
+un bol de riz et d'anguille.
+À moins que je ne me trompe, auquel cas je ne le ferai pas."
+
+L'abbé sourit. "Il est bien vrai que le moine Shinpuru prévoit toutes
+les contingences extérieures. C'est aussi la raison de ma venue.
+Récemment nous manquons d'abbés au Clan de l'Araignée.{{*}}
+Le Temple souhaite vous conférer l'honneur de vous promouvoir
+dans nos rangs."
+
+"Je suis honoré," dit Shinpuru, s'inclinant encore.
+
+"Le travail est difficile," continua l'abbé, "Notre jour commence
+bien avant le lever du soleil, que vous serez rarement capable
+de saluer à loisir, car nous avons de nombreuses réunions à
+tenir, et nous courons de l'une à l'autre avec nos bols.
+De même, vous ne verrez pas souvent le coucher du soleil,
+à part peut-être sur une webcam. En échange de cela, vous
+recevrez une meilleure rémunération des coffres du Temple,
+et le pouvoir de diriger les activités du Temple lui-même."
+
+"Et que deviendra 'Shinpuru, dont le code est admiré à travers
+le Temple', quand il ne produira plus de code ?" demanda le moine.
+
+"N'ayez crainte !" dit l'abbé. "Vous ferez ce à quoi vous avez
+toujours excellé, mais un niveau plus haut : du méta-code, si vous voulez."
+Au lieu de documents de conception, nous faisons des plans à long terme ;
+au lieu de logiciels, nous faisons des plannings ;
+au lieu de défauts et fonctionnalités, nous parlons de coûts et bénéfices.
+Le temple lui-même est la machine sur laquelle nous pratiquons notre art,
+pratiquant les étapes de refactoring que nous jugeons bonnes."
+
+"Une cause des plus nécessaires," dit Shinpuru, revenant à ses vignes.
+"J'ai moi aussi remarqué le manque d'abbés. Tel est le prix du pouvoir.
+Car comme l'observa jadis la matriarche navigatrice [[Subashikoi]],
+les moines commandent aux grééments et les maîtres commendent
+les moines, mais ce sont les abbés qui tracent la voie et tiennent
+la barre ; ainsi ce sont les abbés qui sont condamnés aux profondeurs
+quand le navire coule -- et souvent par leur propre équipage."
+
+"Seuls les idiots subissent un tel destin," dit l'abbé.
+"Et le moine Shinpuru n'en est pas un. À moins que /je/ ne me trompe,
+mais je me trompe rarement sur de tels sujets."
+
+"Alors vous ne penserez pas que je suis un idiot de décliner la
+généreuse offre du Temple," dit Shinpuru, coupant quelques feuilles jaunes.
+
+L'abbé en chef fronça des sourcils. "Que penserait Shinpuru d'une
+graine qui refuse de germer, ou d'un arbre qui refuse de porter des fruits ?
+Que devrais-je penser d'un moine qui décline si vite l'opportunité
+offerte de grandir, de commander, de pouvoir ?"
+
+Shinpuru poussa son sécateur pour attacher la vigne à un tuteur.
+"Définissez pouvoir," dit-il.
+
+"La capacité de faire ce que l'on désire," dit l'abbé.
+
+"Et bien dans ce cas," dit Shinpuru. "Demain je désire
+accueillir le soleil avec mon petit bol. Puis je désire prendre
+un peu de thé chaud à mon poste, en lisant les sites techniques
+que le trouve les plus éclairants, après quoi j'ai hâte de me lancer
+et voir les fruits d'une journée de code, interrompue seulement par
+des échanges agréables avec mes pairs, et un repas de midi à
+cet endroit précis, à m'occuper de mon jardin.
+Quand la nuit tombe je désire me trouver dans ma chambre confortable,
+le ventre plein de riz, une coupe pleine de saké chaud, une bourse pleine
+d'assez de pièces pour m'acheter davantage de graines, et un esprit
+vide de tout autre souci."
+
+L'abbé s'inclina. "Je suppose que Shinpuru a tout le pouvoir
+qu'il peut désirer, alors. À moins qu'il ne se trompe."
+
+"Je me trompe rarement sur de tels sujets," dit Shinpuru,
+ramassant son sécateur sitôt que son oeil avait aperçu une autre feuille jaune.
+"Dans un monde où même le coucher du soleil est incertain,
+un homme peut être pardonné de ne pas connaître beaucoup de choses.
+Mais ne pas connaître mon propre coeur ?
+J'espère n'être jamais un idiot aussi insauvable."
+
+
+{{*}} tel que documenté dans les cas [[#61|61]], [[#62|62]], [[#67|67]], [[#120|120]], et probablement quelques autres. Les abbés du Clan de l'Araignée ont l'espérance de vie moyenne d'un dauphin dans le désert de Gobi.

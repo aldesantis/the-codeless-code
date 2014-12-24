@@ -1,0 +1,35 @@
+Title: À jour
+Number: 69
+Lang: fr
+Translator: cdlm
+Credits: Quelques textures des illustrations mises à disposition par <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.title: « Marchez au nord jusqu'à ce que la triste chanson d'un moineau mourant vous rappelle la futilité de votre propre existence. Pis à gauche à la station essence.
+
+
+Le vieux scribe [[Qi]] avait reçu la tâche d'assembler et de maintenir le document de conception à haut niveau d'un nouveau système.
+Les développeurs fournirent au scribe chacune de leurs contributions, mais les contributions du moine supérieur lui furent renvoyées avec comme sujet /Insatisfaisant/.
+
+« Quelle est votre objection ? » demanda le moine supérieur, dont l'impatience était notoire.
+
+« La plupart de ce que vous m'avez donné était en fait du code source, » dit le scribe.
+« Des déclarations de classes, des corps de méthodes, de longues requêtes SQL.
+Ce n'est pas notre façon de faire. »
+
+« Quoi de mieux pour documenter les algorithmes ? » rétorqua le moine supérieur.
+« Ma façon de faire ne fausse rien. »
+
+Le scribe considéra cela.
+
+« Très bien, » dit-il finalement.
+« Si vous pouvez convaincre le prêtre supérieur de mon ordre, je l'accepterai. »
+
+« Dites-moi où je puis trouver ce prêtre, » dit le moine supérieur, fouillant ses robes à la recherche de papier et d'encre.
+
+« Je ne peux que vous indiquer où je l'ai croisé dernièrement, il y a à peu près trois ans, » dit le scribe, feuilletant son journal.
+« Ah ! Voici :
+J'ai suivi la Route des Orties Blanches vers l'est pendant deux jours, jusqu'à ce que j'arrive à un ruisseau dont les flots étaient enflés par une pluie récente.
+Là, j'ai tourné pour avoir le vent dans le dos, puis marché jusqu'à ce que deux saumons bondissent des eaux.
+Ayant traversé au pont suivant, j'ai pris l'embranchement pointant tout droit sous la lune, tourné à droite au niveau d'un garçon qui ramassait du bois pieds nus, puis à gauche quand les nuages ont masqué l'étoile polaire.
+C'était la hutte avec la porte entrouverte, on ne peut pas la louper. »
+
+Le moine supérieur n'argumenta plus.

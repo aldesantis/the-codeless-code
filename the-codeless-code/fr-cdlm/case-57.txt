@@ -1,0 +1,33 @@
+Title: Précision
+Number: 57
+Lang: fr
+Translator: cdlm
+Illus.0.title: Le cerveau était dans un bocal marqué « Abby »-quelqu'un.
+
+Un certain moine approcha maître Java [[Bawan]] à la fin du souper et demanda :
+
+« N'est-ce pas véridique que la mémoire d'un ordinateur est, essentiellement, une séquence finie de bits ? »
+
+« C'est certain, » dit le maître.
+
+« Et si tous les ordinateurs du monde étaient employés ensemble à une tâche, alors le nombre de bits serait toujours fini ? »
+
+« Effectivement, » dit le maître.
+
+« Alors nous ne pouvons espérer calculer parfaitement avec des nombres irrationnels communs tels que pi ou la racine carrée de deux, puisqu'ils possèdent un nombre /infini/ de décimales !
+Nos approximations accumulent erreur après erreur avec chaque opération mathématique.
+L'exquise spécialité du calcul en virgule flottante n'est qu'une forteresse construite sur les sables mouvants ! »
+
+Maître Bawan se leva, regarda pensivement la taille du moine pendant un moment{{*}}, puis encastra son bol de riz en bois dans l'estomac du moine.
+Le moine se plia en deux.
+
+« Rayon, cinq centimètres, » dit Bawan, montrant le bol.
+« Quelle est la circonférence ? »
+
+« 10&pi;, » haleta le moine.
+
+« Stupéfiant, » dit Bawan.
+« Comme votre esprit doit être incommensurablement vaste, pour manipuler un nombre infini de décimales et arriver à une réponse exacte. »
+
+
+{{*}} Bawan était notoirement petit, ce qui peut expliquer son affection pour les détails de bas niveau.

@@ -1,0 +1,22 @@
+Number: 137
+Title: Las 1000 Palabras
+Lang: es
+Translator: galcalde
+
+Una monja halló al escriba [[Qi]] en su estudio.
+
+"Estoy confundido por los comentarios que has escrito en mi documentación," dijo la monja, colocando un manojo grueso de papeles en el escritorio del escriba.
+
+"Ah, si," dijo Qi mientras giraba las páginas, revelando cientos de diagramas de secuencia cuidadosamente renderizados, cada una con una pequeña nota garabateada sobre ella con tinta roja. "Tú eres la monja que ilustra gráficamente cada circunstancia posible en la cual un objeto de dominio es devuelto y mostrado, sin importar qué tan intuitivo parezca el caso."
+
+"Me esfuerzo por ser exhaustiva," dijo la monja.
+
+"Es un gran alivio," dijo el escriba. "Si estabas esforzándote por ser concisa, me daría escalofríos imaginar que haría tu exhaustividad a la población local de árboles."
+
+La monja puso su dedo en el garabateo rojo al pié de una página. "Sin embargo bajo cada diagrama has escrito, <i>esta imagen dice 1000 palabras</i>."
+
+"Ese número es en base dos," dijo el escriba.
+
+La monja reaccionó.  <i>"¿Ocho</i> palabras?"
+
+Qi asintió, hundiendo su pincel en un frasco de tinta roja. "Las mismas ocho, una y otra vez: <i>Esta monja tiene una herramienta para generar UML</i>."

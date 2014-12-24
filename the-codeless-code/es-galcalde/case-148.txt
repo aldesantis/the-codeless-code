@@ -1,0 +1,22 @@
+Number: 148
+Title: Arte Sutil
+Lang: es
+Translator: galcalde
+
+Cuando [[#147|esta historia]] llegó a los oídos de la curiosa monja [[Satou]], buscó al maestro [[Bawan]].
+
+Satou dijo, "Mi maestro me habló del Arte Sutil del Caching, que todos los desarrolladores del templo deberían estudiar. ¿Cual es ese arte sutil?"
+
+Bawan respondió, "Mil naranjas frescas en un mercado distante; tres naranjas rancias en el tazón de mi mesa. ¿Que debería desayunar este mes?"
+
+Satou lo consideró y dijo, "Cuando la amargura de la fruta excede la amargura del viaje, salimos con moneda en mano."
+
+Bawan respondió, "Mi hermano guarda pasas en su tazón; mi hermana guarda pescado crudo. ¿Qué tan a menudo debemos ir los tres de compras? ¿Con cuantos tazones, y en qué hora del día?"
+
+Satou dijo, "Son preguntas simples, pero para responderlas debo preguntar más."
+
+Bawan respondió, "Y puedo responder cada una de tus preguntas con más preguntas mías."
+
+Satou preguntó, "¿Es esta complejidad la que hace del caching un arte sutil?"
+
+Bawan sacudió su cabeza. "La complejidad sólo lo vuelve un arte. Es su aparente simplicidad la que lo hace sutil. ¡Qué simple es declarar una hashtable estática, y sin embargo qué peligroso! El primer desafío de un arte sutil es reconocer que existe en primer lugar."

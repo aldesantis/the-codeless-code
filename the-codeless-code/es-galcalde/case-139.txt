@@ -1,0 +1,39 @@
+Number: 139
+Title: Feedback
+Lang: es
+Translator: galcalde
+Illus.0.title: En su defensa, fueron capaces de comprar tres nuevos servidores el año pasado con todo el dinero que ahorraron en champú.
+
+Habían pasado varias semanas desde que la maestra [[Suku]] y sus tres aprendices salieron del [[Temple of the Morning Brass Gong|Templo del Gong de Latón Mañanero]] atravesando las grandes montañas hacia el oeste. Los primeros vientos cálidos de la primavera saludaron al grupo mientras llegaban al [[Temple of the Thrown Coin|Templo de la Moneda Arrojada]], cuyos monjes construían sitios web con soporte de redes sociales para los mercaderes ricos de su provincia. Aquí, Suku enseñaría su arte de crear código mantenible, mientras que a cambio la Moneda Arrojada compartiría las riquezas secretas de su pila tecnológica.
+
+Uno de los dos monjes aprendices bajo el cargo de Suku observó que los monjes de la Moneda Arrojada atendían de cerca a sus palabras, tratándolo con la consideración que uno podría otorgar a un dignatario visitante. Pero cuando las mismas palabras fueron pronunciadas por Suku, los monjes de la Moneda Arrojada o levantaron sus cejas escépticamente o bajaron su mirada para juguetear con sus celulares y tablets. Hicieron lo mismo cuando habló la monja aprendiz.
+
+Fue en aquel entonces cuando el monje aprendiz se dio cuenta de la casi completa ausencia de mujeres del Templo de la Moneda Arrojada. Sólo unas pocas monjas pudo espiar mientras fijaba sus ojos en la sala de lectura. Todas parecían de rango bajo, y no hicieron preguntas.
+
+- - -
+
+En el desayuno a la mañana siguiente el monje aprendiz se sentó a uno de los abades superiores.
+
+"¿Por qué hay tan pocas mujeres en este templo?" preguntó el aprendiz.
+
+"Porque muy pocas chicas envían solicitudes para ser admitidas," respondió el abad.
+
+"¿Y por qué?" preguntó el monje aprendiz.
+
+"Porque es bien conocido que la mayoría de las chicas no cumplen con nuestros estándares rigurosos," respondió el abad.
+
+"¿Y por qué?" preguntó el monje aprendiz.
+
+"Porque la productividad requiere armonía, y muchas aspirantes femeninas caben pobremente en nuestra cultura," respondió el abad.  "Sin duda, la mayoría malgastó el tiempo que invertimos en ellas abandonando poco después de llegar."
+
+"¿Y por qué?" preguntó el monje aprendiz.
+
+"Porque no eran felices aquí, y no trabajaban bien con los monjes," respondió el abad.
+
+"¿Y por qué?" preguntó el monje aprendiz.
+
+"Porque al igual que muchos templos grandes, la cultura de este templo es una cultura de chicos: dura y ruda, cruel y cruda, en el trabajo y el juego," respondió el abad.
+
+"¿Y por qué?" preguntó el monje aprendiz.
+
+"Porque hay pocas mujeres en este templo," respondió el abad.

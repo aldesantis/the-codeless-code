@@ -1,0 +1,33 @@
+Number: 147
+Title: La Tabla de Bawan
+Lang: es
+Translator: galcalde
+Illus.0.title: La "m" es de metros, ¿verdad? ¿No millas? 
+
+El staff de soporte a usuario del Templo -- conocido como el [[Clan of Infinite Sorrows|Clan de las Penas Infinitas]] -- empezó a recibir quejas sobre una aplicación de carrito en particular. Los cambios hechos a la información de contacto del vendedor eran visibles inmediatamente en la base de datos, sin embargo algunos de los servidores de la aplicación seguirían mostrando los datos viejos del vendedor durante días. Al maestro [[Bawan]] se le ordenó investigar.
+
+"Quiten ese servidor," ordenó Bawan cuando surgió la queja más reciente. "Y que el usuario se loguee de vuelta."
+
+"¿Su primera acción es el Último Recurso del Desesperado?" preguntó el maestro host [[Yishi-Shing]].
+
+"Mi propósito es diagnosticar," respondió Bawan, de brazos cruzados.
+
+Cuando el usuario reportó que la información en pantalla estaba ahora actualizada, Bawan se sumergió en el código de la interfaz de usuario creado por el [[Spider Clan|Clan de la Araña]], en la capa de negocios construida por el [[Laughing Monkey Clan|Clan del Mono que Ríe]], y finalmente la capa de persistencia provista por el [[Elephant's Footprint Clan|Clan de la Huella del Elefante]]. Finalmente invocó a una de las monjas de la Huella del Elefante.
+
+"¿Conoces el camino hacia la Ermita Perdida?" peguntó Bawan.
+
+"Nunca he oído de ella," dijo la monja.
+
+"Está en las altas montañas al norte, pero fue enterrada bajo una avalancha de SNOBOL{{*}} hace muchos años," dijo el maestro. "Algunos hermanos de nuestra orden aún trabajan allí bajo tierra; requiero su ayuda. Este pergamino te llevará a ellos."
+
+Bawan le dio a la monja un viejo mapa mostrando la ubicación de la Ermita. Él lo siguió con raciones de siete días, una bata forrada en piel, un pico para escalar, y una pala de nieve. Luego la urgió a salir por la puerta y con Yishi-Shing la miró desvanecerse lentamente por el Camino de la Serpiente Borracha.
+
+"No estoy seguro," remarcó Yishi-Shing, "pero en <em>mi</em> memoria la Ermita Perdida fue abandonada hace unos pocos inviernos, y sus monjes realojados a una gruta agradable al pie de esta montaña."
+
+"¿Es así?" preguntó Bawan, desconcertado. "Bueno, supongo que ese es el peligro de cachear los datos para siempre en los cajones de mi vieja tabla de búsquedas. Quizás la próxima vez deba imprimir una copia fresca."
+
+Yishi-Shing asintió. "El error era entendible. El papel es caro, y algunas cosas cambian raramente."
+
+"No es por accidente que <em>raramente</em> y <em>nunca</em> sean dos palabras diferentes," dijo Bawan.
+
+{{*}} SNOBOL es un viejo lenguaje de programación. Su pronunciación es similar a "snow ball" (bola de nieve)

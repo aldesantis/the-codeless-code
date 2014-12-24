@@ -1,0 +1,89 @@
+Number: 123
+Title: Ordre et Chaos
+Lang: fr
+Translator: abelards
+
+L'un des moines, qui était connu pour l'élégance de son code,
+avait pour habitude de reprendre le code de ses coreligionnaires
+et de pratiquer le refactoring pour les amener à son niveau d'exigences.
+"Car de la multiplication des incohérence vient le chaos," expliquait-il,
+"le chaos apporte la complexité, la complexité créé la confusion,
+et la confusion est mère de dix mille défauts."
+
+Maître [[Suku]] -- qui par dessus tout chérissait la propreté
+du code -- entendit ceci. Elle approcha le moine et dit,
+"je requiers ton assistance dans la correction d'un problème."
+
+Suku révéla au moine un grand dépôt de code, qui hébergeait
+le code source de la plus antique application du Temple.
+Au cours des décennies, une innombrable procession de
+moines et nonnes étaient passés à travers ses dossiers
+consacrées : ajoutant, retirant, raffinant, appliquant des
+étapes de refactoring, essayant un nouveau framework ici,
+une nouvelle approche là.
+Plusieurs fois, l'intégralité de la base de code avait
+été migrée d'un langage à un autre, et les couches
+les plus profondes en portaient les cicatrices sous forme
+de design patterns insondablement étranges.
+Dans une des classes utilitaires, les conventions de
+nommage étaient si farouchement peu cohérentes que le moine
+sentit la tête lui tourner et dût s'allonger sur le sol.
+
+"Amène l'ordre au chaos," dit Suku, et elle sortit.
+
+Le moine procéda le plus sérieusement à la réécriture de
+cette application, avec le style qu'il avait mis tant d'années
+à perfectionner. Il choisit un nouveau framework chatoyant
+pour remplacer les trop nombreux rouillés, et choisit un
+coin poussiéreux du dépôt pour remonter à partir de là vers
+les couches externes : ajoutant, retirant, raffinant,
+appliquant des étapes de refactoring.
+
+- - -
+
+Le moine n'avait pas converti la plus petite fraction des fichiers
+qu'on vint à tambouriner sur sa porte.
+
+"Urgence !" dit l'abbé essouflé qui se tenait dehors, attrapant le
+moine par sa robe et l'attirant dehors.
+"Désastre ! Désordre ! Deadline ! Apocalypse !
+Pas assez de gens, et pas assez de temps ; nous avons besoin de toi
+immédiatement, allez viens, tout de suite !"
+
+Le moine protesta, criant à qui l'entendrait de bien vouloir
+aller chercher maître Suku pour qu'elle puisse intervenir,
+mais l'abbé se contenta de tourner le moine sur le dos et
+de le traîner tout le long du hall comme un sac de riz bruyant.
+
+Ce soir-là, Suku trouva le moine, attaché à sa nouvelle station
+de travail par de nombreux rouleaux de corde bien solide.
+
+"J'ai vu tes commits dans le grand dépôt," dit la maître,
+tirant un long couteau qu'elle plaça sur la gorge du moine.
+"Là où il y avait cent styles, en voilà maintenant cent un."
+
+Elle fit un bref mouvement. Le moine grinça des dents,
+s'attendant à ressentir son sang se répandre dans sa robe.
+Mais à la place, le couteau ne fit que couper un brin
+de ses liens de chanvre.
+
+"Pas parfait, mais mieux," dit Suku, et elle sortit.
+
+Elle fit de même durant cent soirées, jusqu'à la libération du moine.
+
+- - -
+
+Par la suite, le moine touchait moins au code de ses coreligionnaires,
+et plaça désormais sa fierté dans sa capacité à imiter le style
+et les design pattern des autres quand il modifiait leurs applications.
+
+"C'est toujours une vérité du refactoring," disait-il désormais,
+"que parfois on doive introduire le chaos pour apporter l'ordre,
+tout comme la route vers la mer doit parfois creuser une montagne
+avant de reprendre son lit initial.
+Mais l'ordre n'est pas une destination : tout au plus une direction
+de /complexe/ à /simple/, de /plus/ vers /moins/.
+Le maître demande /moins/ mais je ne voyais que /Un/, et
+choisissais un chemin digne de la
+<a href="http://fr.wikipedia.org/wiki/Conjecture_de_Syracuse">Conjecture de Syracuse</a>,
+alors que de simples soustractions auraient suffi."
