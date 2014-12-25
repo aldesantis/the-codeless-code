@@ -1,0 +1,37 @@
+Title: L'eau du bain
+Number: 74
+Lang: fr
+Translator: cdlm
+Credits: Quelques textures des illustrations mises à disposition par <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.title: Il dit que l'œil au beurre noir en valait carrément la peine.
+
+
+Après quelques jours passés à <a href="/case/73">pelleter de la neige,</a>
+sœur [[Yíwen]] et sœur [[Hwídah]] avaient succombé au froid mordant et étaient en arrêt de travail pour récupérer aux bains chauds.
+Un jeune moine y fut envoyé les yeux bandés pour les trouver.
+
+« Maître [[Yishi-Shing]] dit qu'il a nagé dans les profondeurs de votre océan de fichiers journaux et y a découvert une perle, »
+dit le moine.
+Il brandit une liasse dans la direction approximative des bruits d'eau jusqu'à ce qu'on lui prenne de la main.
+
+« Ce sont des traces de la pile pour des NullPointerExceptions, » renifla Yíwen.
+« Toutes levées pendant l'exécution de notre long tâche de traitement de données. »
+
+« Le problème vient probablement de mauvaises données, » dit Hwídah, la voix étouffée par la serviette chaude qu'elle s'était drapé sur le visage pour se dégager les sinus.
+
+« Mille pardons, » dit Yíwen au moine.
+« Mais je ne puis dire quels enregistrement étaient en cours de traitement.
+Où sont les messages d'information que nous enregistrons pour fournir du contexte ? »
+
+« Ils ne sont plus générés, » dit le moine.
+« Le déluge d'alertes et d'erreurs superflues remplissait les journaux trop vite.
+Il fallait faire quelque chose pour éviter qu'ils ne remplissent le disque.
+Yishi-Shing a donc décrété que les messages de débogage et d'information, n'étant pas critiques, devaient être inhibés. »
+
+Yíwen soupira, fourra la liasse dans les bras du moine aveugle, et se replongea dans le bain.
+« Yishi-Shing ratisse les fonds marins à la recherche de perles exclusivement.
+Il jette les huîtres sans les ouvrir parce que leurs coquilles sont laides et que sa barque est petite. »
+
+« Il a oublié le rôle premier du pêcheur, » dit Hwídah sous sa serviette.
+« Maintenant, garni de perles orphelines, il mourra de faim, faute d'huîtres. »
+
