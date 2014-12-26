@@ -1,0 +1,39 @@
+Number: 151
+Title: La bufanda de verano
+Lang: es
+Translator: galcalde
+Illus.0.title: Apropiadamente, este resultó ser uno de mis hilos más largos.
+
+La primera semana del verano llegó con vientos cálidos placenteros, así que la mayoría del templo llevó sus comidas y meditaciones afuera. Pero Yíwen la Artista, que le encantaban los espacios abiertos, no podía ser hallada en ningún lugar de los terrenos del templo. Su compañera de cuarto, la monja Hwídah, eligió investigar.
+
+Ella finalmente halló a Yíwen tejiendo silenciosa en uno de los cuartos vacíos del templo, una araña diligente trabajaba duro en el centro de una inmensa telaraña de fino hilo gris. Sus cientos de cuerdas eran sacadas de madejas dispersadas por arriba y abajo de la habitación. Yíwen parecía hacer una bufanda con todas ellas.
+
+"El invierno está a seis meses," dijo Hwídah. "Explícate."
+
+Yíwen rasgueó su mano gentilmente a través de las cuerdas. "Cada tono gris corresponde a un número distinto, ordenado por valor. Para el cero elegí un color llamado 'La Negritud Antes de Tiempo'. El treinta y uno es 'Mancha de Carbón', el sesenta y tres es 'Cumulonimbo Inminente', y así sucesivamente, cada vez más claro, hasta el doscientos cincuenta y cinco: 'Blanco Nube Celestial'.
+
+"Una paleta impresionante para un modesto accesorio de temporada," dijo Hwídah.
+
+Yíwen sostuvo la bufanda en su regazo. "No es una mera prenda. El patrón representa los estados evolutivos de un array de números mientras son ordenados. Cada fila representa un paso en el proceso, con sus columnas representando los propios números. Mira: en este extremo las cuerdas grises están en un revoltijo de sal y pimienta, pero con cada fila se vuelven progresivamente más ordenadas mientras el algoritmo me dice que cuerdas intercambiar. Las columnas de la última fila correrán fluidamente del blanco al negro."
+
+"Sin embargo también veo un pequeño hilo dorado brillante, y otro rubí" dijo Hwídah.
+
+Yíwen indicó una porción de la bufanda con la uña. "Su el paso actual compara dos elementos, coloco nudos dorados alrededor de las cuerdas correspondientes. Si selecciona un valor pivote, adorno esa cuerda de rubí. Así la bufanda tendrá exactamente tantas filas como operaciones tiene el algoritmod e ordenamiento, y la estética del algoritmo será revelada al ojo."
+
+"Sigues buscando [[#132|la belleza en el código]]," dijo Hwídah.
+
+"Mil perdones, Hwídah, pero no es mi único propósito," dijo Yíwen. "Me pregunto, ¿Eres familiar con el monje aprendiz recientemente traído a mi equipo? Su primera tarea fue asegurarse de que un conjunto de resultados fuera ordenado para mostrarse. Sin embargo ignoraba la utilidad de ordenamiento ya construida, así que implementó la suya."
+
+"Una pérdida de tiempo muy desafortunada," dijo Hwídah.
+
+"Tus palabras son sorprendentemente oportunas," dijo Yíwen.  "Puesto que él eligió el <a href="https://es.wikipedia.org/wiki/Ordenamiento_de_burbuja">Bubblesort</a>, mientras descubríamos en producción que cuando a la aplicación se le daba un conjunto resultado muy grande, tomaba varios minutos en renderizar la página."
+
+"Parecees usar Bubblesort como la base de tu patrón," dijo Hwídah, mirando de reojo a las filas terminadas.
+
+"¡Sin duda!" dijo Yíwen. "Yo ya completé una bufanda usando el ya construído algoritmo <a href="http://en.wikipedia.org/wiki/Timsort">Timsort</a>. Es de veinticinco centímetros de ancho por dos metros de largo, y disfrutaré vistiéndolo. Esta bufanda Bubblesort es un regalo para el monje. Tendrá el mismo ancho, pero será algo más... chabacana."
+
+"¡Será de sesenta y cuatro metros de largo!" exclamó Hwídah.
+
+"Ahora entiendes por qué debo empezar en junio," dijo Yíwen. "Como has observado, el invierno está a seis meses." "¿Y qué pasará si el monje rechaza vestir tu regalo generoso?" preguntó Hwidah.
+
+"Lo mismo que pasará si él falla en corregir su ignorancia," dijo Yíwen. Ella enrolló la bufanda en un tubo fino y tiró de los extremos para mostrar su fuerza. "Sesenta y cuatro metros hacen una bufanda torpe, pero una horca excelente."
