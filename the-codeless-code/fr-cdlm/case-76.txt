@@ -1,0 +1,32 @@
+Title: Le chat de Myong
+Number: 76
+Lang: fr
+Translator: cdlm
+Illus.0.title: Les claviers sont là, mais on ne retrouve plus aucune des souris.
+
+
+Maître Unix [[Myong]] eut vent d'un chat errant qui s'était installé dans la salle des opérations, dormant dans les armoires de serveurs et faisant la sieste au chaud sur les vieux écrans cathodiques.
+La situation devint plus discutable quand la créature commença à utiliser une caisse de câbles de rechange comme litière.
+
+Myong captura le chat et le plaça sur une table devant six moines du [[Clan of Iron Bones|Clan des Os de Fer]], en annonçant
+« Si chacun d'entre vous est capable de me donner une ligne de commande qui fournit la même fonctionnalité que <tt>cat</tt>, j'épargnerai cet animal.
+Sinon, je le tue.
+
+Le premier moine dit promptement « <tt>cat</tt> ».
+
+Le second dit « <tt>grep ^</tt> ».
+
+Le troisième dit « <tt>sed s/^&#47;/</tt> ».
+
+Le quatrième dit « <tt>tr x x &lt;</tt> ».
+
+Le cinquième dit « <tt>perl -pe 0</tt> ».
+
+Le sixième se creusa la tête une minute entière, puis pris un air déconfit.
+
+Myong tint le chat doucement par la peau du cou et leva son couteau, ce sur quoi le sixième moine se mit à aoboyer comme un chien aussi fort qu'il pouvait.
+De terreur, le chat se libéra de l'emprise du maître et disparut à l'autre bout du couloir.
+
+Myong fusilla le sixième moine du regard.
+
+« Même fonctionnalité, » dit le sixième moine calmement.

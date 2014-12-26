@@ -1,0 +1,62 @@
+Title: Cave Canem
+Number: 79
+Lang: fr
+Translator: cdlm
+Credits: Le thème de ce cas a été sollicité par Shere Chamness, selon les paroles mêmes que prononce la nonne. :-)
+Illus.0.title: La plupart de mes bouqu(et)ins sont un peu cornés.
+
+
+Une certaine nonne du [[One Shoe Clan|Clan de l'Unique Soulier]] s'était laisser piéger par l'un des exemples d'un tutoriel PHP.
+L'exemple contenait du code de gestion d'erreur qui n'était pas destiné à un usage en production, bien que cela de soit pas clair dans le texte.
+La nonne copia le code consciencieusement, et le résultat fut un désastre.
+
+Quand la crise fut passée, la nonne alla trouver le vieux scribe [[Qi]], alors qu'il rédigeait le grand journal du Temple.
+Elle s'inclina.
+« Parlez-moi des livres d'instruction qui enseignent de mauvaises pratiques. »
+
+Le scribe : « Je vais consulter les maîtres sur ce sujet. »
+
+- - -
+
+Le scribe porta la requête de la nonne devant maître [[Suku]], qui exigeait du code lisible de ceux dont elle avait la charge.
+
+Suku dit :
+« Les livres sont de fidèles limiers, ne faisant que comme leurs auteurs les ont élevés.
+Certains ont été choyés, d'autres cruellement négligés.
+Si le Temple a été mordu, la faute en incombe à celui qui a élevé l'animal.
+Ses écrits devraient être jetés à la fosse. »
+
+- - -
+
+Le scribe porta la requête de la nonne devant maître [[Bawan]], qui caressait avec révérence le classeur de son manuel de C ANSI.
+
+Bawan dit :
+« Les livres sont des chiens assoupis, incapables de malice en eux mêmes.
+Certains sont apprivoisés, certains féroces, donc il est mieux de les réveiller avec prudence.
+Si le Temple a été mordu, la faute en incombe à quiconque a dérangé l'animal.
+La nonne devrait être punie.
+
+- - -
+
+Le scribe porta la requête de la nonne devant le malheureux maître [[Banzen]], qui recherchait la perfection en tout chose et ne la trouvait que rarement.
+
+Banzen dit :
+« Les livres sont des bâtards errants, puisant part de leur nature chez l'écrivain et part chez le lecteur.
+Si le Temple a été mordu, la faute en incombe principalement aux crocs de l'animal.
+La seule correction nécessaire se fait à l'encre.
+
+- - -
+
+<div style="font-style:italic">
+
+Le vieux scribe revint vers la nonne, et plaça son grand journal entre ses mains.
+« J'ai examiné la question des livres d'instruction. »
+
+La nonne trouva l'affaire la plus récente, qui n'était apparemment pas conclue.
+« Je vois les témoignages de trois maîtres, » dit-elle,
+« mais ils sont tous contradictoires.
+Qu'allez-vous écrire en conclusion ? »
+
+Le scribe aboya trois fois et s'en fut.
+
+</div>

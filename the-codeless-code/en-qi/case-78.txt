@@ -35,7 +35,7 @@ Banzen began to lecture the monk on the importance of the
 Third Gate.  "Master," protested Djishin, "I do not
 doubt that there are fine blades in the marketplace,
 but many are heavy to wield and hard to master.
-My boning-knife may be small and dull, but it has served me well.
+My boning-knife may be small and dull, but it has served me well."
 
 That evening, Banzen re-assigned Djishin to the
 [[One Shoe Clan]] and gave him a double workload of coding tasks,

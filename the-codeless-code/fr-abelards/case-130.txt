@@ -1,0 +1,35 @@
+Title: Le Premier Mantra
+Number: 130
+Lang: fr
+Translator: abelards
+Illus.0.title: "Si je reste ici et pose des questions toute la journée, qu'est-ce que je créé ?" "Des nuisances."
+
+La nonne [[Satou]] approcha le maître [[Kaimu]] et dit,
+"Mon maître m'a parlé d'un Premier Mantra qui doit guider les
+pensées des développeurs du Temple en tous temps. Quel est ce mantra ?"
+
+Kaimu répondit, <i>"Je créé.</i>
+L'essence de la nature des développeurs est d'être toujours
+dans un processus de création, dès qu'ils sont derrière un clavier.
+
+
+Satou leva un sourcil suspicieusement et demanda,
+"Si je ne fais que corriger des défauts, qu'est-ce que je créé ?"
+
+Kaimu répondit : "De l'harmonie."
+
+
+Satou demanda, "Si je fais du refactoring mais que je conserve le
+comportement précédent, qu'est-ce que je créé ?"
+
+Kaimu répondit : "De l'ordre."
+
+
+Satou demanda, "Si je supprime un projet inutilisé, qu'est-ce que je créé ?"
+
+Kaimu répondit : "De l'espace disque."
+
+
+Satou demanda, "Si je ne fais rien que naviguer sur Internet, qu'est-ce que je créé ?"
+
+Kaimu répondit : "Des deadlines ratées, et une ouverture de poste."
