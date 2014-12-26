@@ -1,0 +1,36 @@
+Title: Peur de l'engagement
+Number: 75
+Lang: fr
+Translator: cdlm
+Credits: Quelques textures des illustrations mises à disposition par <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.title: Un autre moine questionna le maître à propos de 'drop table' et fut aplati comme une crêpe sous un ensemble de pièces de mobilier dînatoire qui était suspendu aux chevrons.
+
+
+Le moine [[Djishin]] approcha le maître du [[Elephant's Footprint Clan|Clan de l'Empreinte d'Éléphant]] et dit :
+« Enseignez-moi quelque chose sur les commits et les rollbacks. »
+
+Le maître répondit :
+« Je ne peux t'instruire que sur les commits. »
+
+Djishin dit :
+« Alors parlez des commits. »
+
+Le maître répondit :
+« Je l'ai déjà fait. »
+
+Djishin dit :
+« Je suis venu en quête d'une orange.
+Vous ne m'en avez donné que l'écorce. »
+
+La main du maître jaillit de sous sa robe ;
+sa paume ouverte frappa le moine en plein sur le front.
+L'impact envoya Djishin tituber en arrière vers un pilier, crâne en premier.
+Le moine s'écroula au sol, inconscient.
+
+Quand le moine revint à lui, le maître demanda :
+« Qu'ai-je dit des commits ? »
+
+Djishin, tenant sa tête palpitante de douleur, répondit :
+« Je ne me souviens pas. »
+
+Le maître déclara : « Rollback ! »

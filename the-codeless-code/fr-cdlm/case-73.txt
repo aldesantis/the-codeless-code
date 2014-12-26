@@ -1,0 +1,46 @@
+Title: La perle blanche
+Number: 73
+Lang: fr
+Translator: cdlm
+Illus.0.title: Non, rien à voir avec Perl.
+
+
+Deux nonnes, [[Yíwen]] et [[Hwídah]], furent convoquées au milieu de leur déjeuner par l'abbé du Clan de l'Empreinte d'Éléphant :
+« Maître [[Yishi-Shing]] pense qu'il a perdu une perle blanche dans la neige en se promenant dans l'enceinte du temple, » dit l'abbé, tendant une pelle à chaque sœur.
+« Selon sa volonté, c'est à vous deux de la chercher. »
+
+Les deux nonnes travaillèrent en silence pendant plusieurs heures -- creusant, tamisant, déblayant, et creusant encore -- quand la plus grande des deux se racla la gorge.
+
+« Je me demande, » dit Yíwen prudemment, « pourquoi nous avons été désignées pour cette punition.
+En ce qui me concerne, je n'ai jamais rencontré maître Yishi-Shing. »
+
+« Alors tu as de la chance, » répondit Hwídah alors qu'elle plantait sa pelle profondément dans une congère.
+« C'est un homme désagréable, qui s'intéresse beaucoup trop au contenu de nos fichiers journaux. »
+
+Yíwen s'appuya sue sa pelle, le regard distant.
+« Hier je t'ai entendue discuter avec quelqu'un de ce sujet précis : le contenu de nos fichiers journaux/
+Il y avait une objection qu'il avait soulevé… »
+
+« Les messages d'avertissement, » maugréa Hwídah, déversant une pleine pelletée de neige dans un tamis monté au dessus d'une brouette.
+
+« Voilà, c'est cela, » approuva Yíwen.
+« /Des avertissements et des erreurs dénués de sens, par douzaine chaque minute, qui remplissent le disque de fatras.
+Exceptions bénignes.
+Options de configurations non initialisées.
+Informations de débogage enregistrées avec le mauvais niveau de sévérité./
+En réponse, il me semble que tu fis valoir que nettoyer tout le code concerné serait une entreprise longue et risquée. »
+
+Hwídah reprit son souffle et tourna la manivelle du tamis.
+« J'ai aussi… mentionné… ta propre remarque, sur combien l'espace disque… est bon marché… »
+
+« Ah, » dit Yíwen.
+« C'est extrêmement prévenant de ta part. »
+
+Hwídah examina le contenu du tamis.
+« Toujours rien. »
+
+Yíwen enfonça sa pelle, s'aidant du pied.
+« Au fait, j'ai entendu dire que le plantage d'hier des serveurs de production n'est toujours pas diagnostiqué.
+Étrange, n'est-ce pas, étant donné que nos journaux sont si détaillés et volumineux ? »
+
+« Contente-toi donc de creuser, » dit Hwídah misérablement.
