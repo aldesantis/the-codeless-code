@@ -1,0 +1,43 @@
+Title: Délabrement
+Number: 68
+Lang: fr
+Translator: cdlm
+Illus.0.title: C shell.
+Illus.1.title: Bon, l'appartement a une *super* vue sur l'océan, mais le bâtiment ne respecte pas exactement le code...
+
+Quand [[Banzen]] était encore un jeune moine, il eut une période de découragement :
+
+« À quoi bon perfectionner le code ? » s'écria-t-il.
+« Un module que nous avons écrit sous les cerisiers en fleurs en avril nécessitera une douzaine de modifications dans l'urgence sous la chaleur de juillet.
+D'ici septembre il n'en restera plus qu'un enchevêtrement de débris, voué au rebut et à la réécriture par quelqu'un d'autre avant que les neiges de décembre aient fondu ! »
+
+Entendant cela, le maître de Banzen le convoqua :
+
+« Tes paroles sont inquiétantes ; quitte le monastère sur le champ.
+Après le portail, un ruisseau provient des cimes.
+Suis-le jusqu'à l'océan, et là fais une petite ballade sur le sable pour te changer les idées.
+Ne reviens pas tant que tes yeux ne voient pas. »
+
+Le jeune Banzen obéit.
+Il demeura sur le littoral pendant des jours, y arpentant de nombreux /ri/.
+Là il aperçut des femmes pêchant à la perche de bambou dans les mares d'eau de mer, et des hommes ramendant leurs filets, et des enfants jouant dans le sable.
+
+Ce fut les enfants qui piquèrent le plus l'intérêt de Banzen.
+Quand la marée du matin se retirait, ils se regroupaient au bord des eaux en recul, amassant des seaux de sable humide en immenses monticules pendant qu'ils en triaient coquillages et galets.
+Chaque heure les eaux se faisaient plus distantes, et pourtant les garçons remontaient des seaux lourds de saumure sur la plage pour mouiller le sable, alors que les filles se mettaient au travail en haut des tas.
+Comme le soleil passait son zénith, une puissante forteresse prit forme, de haut en bas, certaines parties sculptées ou tassées à la main mais la plupart ciselée à l'aide de vieux couteaux et de spatules à riz cassées.
+Les enfants recouvrirent les toits de minuscules coquillages blancs, s'aidèrent de baguettes pour percer des fenêtres ombragées, encastrèrent des milliers de galets dans les fondations, et firent couler du sable mouillé de leurs doigts pour façonner de tout petits conifères dans les jardins miniatures, un par un.
+À ce point, la marée montante était de retour.
+
+À chaque fois que Banzen voyait la première vague frapper les remparts, il grimaçait ;
+à chaque fois que la première terrasse délicate s'effondrait, son estomac se nouait de pitié.
+Pourtant les enfants applaudissaient.
+Toute la fin de l'après-midi ils regardaient la main dans la main la mer reprendre ses droits, jusqu'à ce que tout ce qui reste des efforts de la journée ne soit plus qu'une grande masse de sable ondulante et piquée de coquillages.
+Enfin les enfants s'en allaient.
+
+Mais sans faute ils retournaient le matin suivant avec leurs seaux et leurs pelles, prêts à recommencer de nouveau.
+
+Au bout d'une semaine Banzen retourna à son monastère, illuminé.
+
+
+
