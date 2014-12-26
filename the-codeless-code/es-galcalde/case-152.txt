@@ -1,0 +1,58 @@
+Number: 152
+Title: Lo que está debajo
+Lang: es
+Translator: galcalde
+
+Aunque previamente inseparables, las compañeras [[Yíwen]] y [[Hwídah]] ahora cruzaban caminos ocasionalmente, porque el tiempo libre de Yíwen lo ocupaba creando una [[#151|bufanda particular]]. Así que la incansable Hwídah fue a explorar aquellas pequeñas partes de los terrenos del templo que aún le eran desconocidas.
+
+Sus viajes la llevaron a los salones de la abadía donde moraba el [[Clan of the Wolf's Bitter Breath|Clan del Aliento Amargo del Lobo]], los monjes de bata negra que hacían los testings de integración de todo el templo. A los desarrolladores les estaba prohibido traspasar ese lugar, aunque a Hwídah nunca le contaron el por qué, y al igual que todos los misterios este la carcomió. Ella merodeó entre las sombras fuera de la entrada y bajo las particiones de los cubículos, esperando aprender algún secreto chocante del templo, pero todo lo que oyó de los monjes de bata negra allí dentro fueron bromas fuertes a costa de aquellos desarrolladores cuyo código era defectuoso. La mayoría de esos desarrolladores eran del [[Spider Clan|Clan de la Araña]], el clan de Hwídah.
+
+"Es irritante," ella oyó a un monje del Aliento Amargo quejándose. "Seleccioné un Estado de Orden 'Desconocido', envié el form, y todo aparece bien. Sin embargo cuando vuelvo al form hay un error de validación quejándose de un Estado de Orden ilegal. ¡Y el desarrollador jura que no hizo cambios a la página!"
+
+"Por lo tanto es simpre con las Arañas," suspiró otra voz. "Si algo se acerca demasiado, lo envuelven en ocho capas de javascript, paralizan su sensibilidad, chupan su utilidad, y declaran que el cadaver retorcido es un trabajo bien hecho."
+
+Su risa siguió a Hwídah mientras se escurría hacia la puerta de la abadía. <em>Esto, debo investigarlo,</em> pensó, sus puños se cerraron.
+
+- - -
+
+Luego aquel día Hwídah se acercó al maestro java [[Banzen]], con el fuego de la honesta indignación en sus ojos y una impresión en la mano.
+
+"Este defecto fue creado por un monje del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]], no nosotros. El reescribió el método que convierte cada fila de base de datos en un objeto, y su nuevo código contiene esto..." Allí apuñaló su dedo en una linea que decía:
+
+<pre>
+    order.setStatusCode(rs.getInt(STATUS_CODE));
+</pre>
+
+"Ah," dijo Banzen. "He visto esos errores varias veces antes. La propiedad <em>statusCode</em> es un entero que permite contener un null. Pero wn la API de JDBC, <em>getInt</em> devuelve el tipo <em>int</em> primitivo y silenciosamente fuerza un NULL de base de datos a ser un cero. Este cero es silenciosamente seteado por <em>setStatusCode</em> y devuelto por <em>getStatusCode</em> cuando se le ingresan los datos al form. Y como no hay un estado de orden cero, una fila de base de datos válida aparecerá inválida."
+
+"¿Que corrección habrá para el monje de la Huella del Elefante?" preguntó Hwídah.
+
+"Nada letal," dijo Banzen. "Mi castigo usual involucra un bote que guardo en el desfiladero al sur para la ocasión. El monje saldrá mojado y magullado, y en el futuro examinará sus remos y sus APIs un poco más críticamente antes de usarlos."
+
+La cara de Hwídah se volvió escarlata. "¿Pero que hay del honor del Clan de la Araña? ¡Los monjes del Aliento Amargo del Lobo se burlan de nosotros en su abadía por esto!" Entonces se congeló, dandode cuenta que ella había revelado su traspaso en territorio prohibido, pero Banzen sólo suspiró.
+
+"La falla verdadera cae en los autores de la venerable API de JDBC, y con cada mantenedor desde entonces," dijo el maestro. "Le dieron al monje un bote de remo bien usado, con remos robustos montados en sus escálamos. ¿Deberíamos condenarlo simplemente por no darse cuenta que el remo izquierdo era muy corto? No... la inmersión que recibe cuando el bote gire en los rápidos bastará."
+
+Hwídah se mordió el labio, se inclinó respetuosamente, y dio la vuelta para irse.
+
+"Pequeña monja," dijo Banzen, levantando su dedo índice para detenerla. "El defecto no es mío, y no puedo evitar los errores que engendre. Por lo tanto uso defecto y error para servir un propósito mayor."
+
+- - -
+
+En la merienda Yíwen no se encontraba, pero Hwídah espió a dos jóvenes aprendices de Banzen, [[Djishin]] y [[Satou]], sentándose juntos. La pareja acordó escuchar sus quejas contra su maestro.
+
+"¡Banzen parece determinado a sufrir este mismo error hecho hasta el fin de los tiempos!" concluyó Hwídah en exasperación. "¡Deberíamos darle a la Huella del Elefante un bote mejor!"
+
+"¡Sin duda!" dijo Satou. "Cuando conocí este error, le pedí al maestro cambiarse a un framework popular de Mapeo Objeto Relacional. Sin embargo la refactorización tiene sus costos, y cada herramienta tiene sus peligros, así que queda el código a bajo nivel."
+
+"¡Entonces deberíamos darles un remo izquierdo nuestro!" dijo Hwídah.
+
+"¡Sin duda!" said Djishin. "Cuando conocí este error, escribí un método de utilidad <em>getInteger</em> apropiado. Sin embargo los desarrolladores sólo buscarán lo que creen que necesiten, y lo que saben que buscan, así que la utilidad queda sin usar."
+
+Hwídah se hundió desesperanzada. "Así que el monje de la Huella del Elefante es apenas corregido, y el monje del Aliento Amargo del Lobo no es corregido en absoluto. Al menos la miserable de Hwídah ha sido corregida, porque ahora entiendo por qué se nos prohibe entrar en la cueva del lobo, y es para mantener la armonía entre clanes. Un insulto sólo puede volverse una queja si es escuchada."
+
+Djishin dijo, "Tú percibes las astas de los remos sobre el agua, pero tu verdadero curso ha sido determinado por lo que está debajo."
+
+Satou continuó, "Nuestro maestro sabe que violaste el edicto: es lo mucho que nos contó. Pero el edicto no es suyo, y no puede evitar que sea violado por el irreprimiblemente curioso. Por lo tanto usa el edicto y sus violaciones para un propósito mayor."
+
+Satou puso un brazo sociable al rededor de Hwídah. "¡Disfruta tu alimento, hermana del Clan de la Araña! Porque temo que la corrección de Hwídah está sólo comenzando..."
