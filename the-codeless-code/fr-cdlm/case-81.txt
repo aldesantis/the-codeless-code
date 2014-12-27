@@ -1,0 +1,19 @@
+Title: Tri à bulles
+Number: 81
+Lang: fr
+Translator: cdlm
+Illus.0.title: Les ingrédients principaux d'AutoIncrémentation sont la caféine et l'électricité. Quand vous avez besoin de redescendre, essayez AutoDécrémentation : c'est juste de la camomille et du méthaqualone.
+
+
+Une nuit, en arpentant les salles de son abbaye, maître [[Bawan]] tomba sur un moine en détresse.
+Une échéance matinale approchait rapidement, et après trois nuits blanches le moine épuisé avait glissé ses trois ultimes pièces de monnaie dans le distributeur de boissons sans remarquer l'écriteau scotché dessus.
+Celui-ci avertissait
+<span style="white-space:nowrap"><tt>PLUS EN ORDRE DE MARCHE</tt></span>
+en grandes capitales rouges.
+
+« Pouvez-vous m'aider ? » implora le moine, qui connaissait l'habileté de Bawan avec les mécanismes primitifs.
+
+Bawan étudia la machine un moment, puis raya les lettres de l'écriteau et marqua en dessous <tt>ACDDEEEEHLMNOPRRRSU</tt>.
+Instantanément une canette de soda chut dans la goulotte.
+
+Satisfait, Bawan continua sa ronde.
