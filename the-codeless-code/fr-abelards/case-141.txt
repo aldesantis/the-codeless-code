@@ -1,0 +1,27 @@
+Number: 141
+Lang: fr
+Translator: abelards
+Title: Intelligence Service
+
+À la fin d'une présentation, Jinyu fut approchée par plusieurs de ses abbés.
+L'un dit, "dans votre discours vous mentionnez les
+Quatre Types des Participants à une Réunion.
+Que sont-ils ?"
+
+Jinyu compta sur ses doigts :
+
+      "Ceux qui viennent informer, //
+      ceux qui viennent apprendre, //
+      ceux qui viennent par devoir, //
+      et ceux qui viennent pour se faire remarquer. //
+
+Un second abbé hocha la tête, disant,
+"il est évident que nous avons trop peu des deux premiers types."
+
+Jinyu dit avec impatience, "oui, oui : je vous ai vu."
+
+== Note du Traducteur
+
+Le titre original est "Ill met by moonlight" -- "(mauvaise) rencontre au clair de lune" ?
+C'est le titre d'un film de 1957, sorti en français sous le nom "Intelligence Service".
+J'ai conservé la référence, qui donne peut-être un ton sarcastique, au lieu de tenter une traduction.
