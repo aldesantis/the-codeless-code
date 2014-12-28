@@ -1,0 +1,43 @@
+Number: 149
+Lang: fr
+Translator: abelards
+Title: Le Premier Doigt
+
+La nonne [[Satou]] alla trouver maître [[Kaimu]] et dit,
+"De la rudesse de maître Bawan [[#148|j'ai appris]] que l'utilisation du cache
+est telle un canon de fer : séduisante au toucher, facile à charger,
+difficile à viser, et mortelle en cas d'erreur de manipulation."
+
+Kaimu répondit, "Nos dix doigts sont le silex et l'acier,
+et le clavier notre mèche."
+
+La nonne continua, "de l'insatisfaction de maître Banzen
+[[#121|j'ai appris]] que de telles armes ne devraient être utilisées
+qu'à reculons : après une longue étude si possible, après une infâme
+défaite sinon."
+
+Kaimu répondit, "Le soldat qui a perdu deux doigts n'ira pas perdre
+les huit restants de sitôt. Ce sont ses camarades qui ont encore
+tous leurs doigts qui perdront un membre avant lui."
+
+La jeune nonne frissonna et dit, "C'est pourquoi je crains le cache.
+Et n'ayant pas le temps de l'étudier avec attention, je souhaite
+l'éviter, ainsi que tous les outils qui l'utilisent.
+Comment puis-je parvenir à cela ?"
+
+Kaimu répliqua, "Ne stocke aucune donnée : pas dans un fichier,
+ni dans une base de données, ni dans la plus volatile des variables.
+Car qu'est-ce qu'une donnée qu'un écho solitaire et glacé de
+l'Incessant Choeur du Monde Extérieur ?
+Quand nous détachons une note de la glace, quelle preuve avons-nous
+qu'elle est toujours chantée au-delà de nos murs de silicium ?
+Même le paramètre utilisateur le plus anodin devrait être demandé
+à l'utilisateur à chaque utilisation, pour être certains que
+nous avons deviné son intention."
+
+La nonne fronça un sourcil. "J'ai cherché l'aide du maître car
+je souhaite éviter les erreurs. Pourquoi se moque-t-il de moi ?"
+
+Kaimu attrapa son pouce et dit, "Tu as cherché l'aide du
+maître car tu souhaitais éviter de perdre un bras.
+Mais courage, soldat ! Un de tes deux doigts est déjà perdu."
