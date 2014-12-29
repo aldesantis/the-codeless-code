@@ -1,7 +1,7 @@
 Number: 141
 Lang: fr
 Translator: abelards
-Title: Intelligence Service
+Title: Fâcheuse rencontre au clair de lune
 
 À la fin d'une présentation, Jinyu fut approchée par plusieurs de ses abbés.
 L'un dit, "dans votre discours vous mentionnez les
@@ -22,6 +22,6 @@ Jinyu dit avec impatience, "oui, oui : je vous ai vu."
 
 == Note du Traducteur
 
-Le titre original est "Ill met by moonlight" -- "(mauvaise) rencontre au clair de lune" ?
-C'est le titre d'un film de 1957, sorti en français sous le nom "Intelligence Service".
-J'ai conservé la référence, qui donne peut-être un ton sarcastique, au lieu de tenter une traduction.
+Le titre original est "Ill met by moonlight" -- "Fâcheuse rencontre au clair de lune" (trad. Hugo, 1865).
+C'est une référence à Shakespeare, "un songe d'une nuit d'été", Acte II Scène 1.
+C'est aussi le titre d'un film de 1957, sorti en français sous le nom "Intelligence Service".
