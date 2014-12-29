@@ -1,0 +1,41 @@
+﻿Number: 41
+Lang: it
+Translator: mpas
+Title: Scarti
+Illus.0.title: È probabilmente la cosa migliore che più in basso svanisca in dissolvenza.
+
+La maestra Java Suku stava controllando il software di un
+lontano tempio.  Sul suo monitor, vaste aree di testo
+brillavano, non in nero, ma in verde, ad indicare che intere
+pagine di codice erano state commentate.
+
+"Curioso", disse Suku. "Ho aperto un orologio di pregio, e
+ci trovo bucce d'arancio e lische di pesce."
+
+Il monaco capo spiegò che il codice inattivo non era più
+necessario, ma che, egli stesso, aveva ordinato al suo clan
+di lasciarlo al suo posto: magari un giorno, se si fosse
+desiderato ripristinarne la logica, il codice potrebbe,
+semplicemente, essere decommentato, piuttosto che
+dispendiosamente scritto da capo.
+
+"Comprensibile," annuì Suku.
+
+Il giorno seguente, i monaci si riunirono per l'ispezione
+del maestro Java.  Con preoccupazione riferirono che il
+monaco capo non si trovava.  Suku accennò alle travi in
+alto, dove il monaco mancante penzolava da una robusta
+corda, appeso per il collo.  Un cattivo odore si diffondeva
+verso il basso.
+
+"I suoi servigi non sono più necessari", disse suku.  "In
+ogni modo, da oggi in poi, lascerò che cadavere penzoli
+sopra di voi.  Dopo tutto, un giorno, i suoi metodi
+potrennero essere nuovamente desiderabili e sarebbe uno
+spreco addestrare, da capo, un altro monaco."
+
+Nella sua relazione finale, Suku annotò un rapido
+cambiamento nelle pratiche di codifica del clan, e si
+accreditò il buon esempio dato dal defunto monaco.
+<i>Dovremmo considerare il suo reintegro,</i> scrisse.
+

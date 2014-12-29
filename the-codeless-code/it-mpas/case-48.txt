@@ -1,0 +1,77 @@
+﻿Number: 48
+Lang: it
+Translator: mpas
+Title: Silenzio
+
+Il Tempio del Mattino Del Gon D'Ottone sorgeva immerso nelle
+pieghe di una foresta di alta montagna, ombroso e
+lussureggiante.  Nascosti tra i suoi fitti boschi ben
+curati, vi erano quattro santuari, dedicati a quattro
+diverse divinità del silenzio.
+
+Il monaco Huisheng stava porgendo i suoi omaggi all'ultimo
+di questi, quando, sul terreno davanti a lui, un sandalo
+cadde dal cielo .  Il monaco alzò gli occhi e vide un dotto
+fratello, legato, imbavagliato, e appeso per gli arti
+superiorri, a penzolare da un cipresso.  Il prigioniero
+stava freneticamente lottando con i legacci per attirare
+l'attenzione di Huisheng.
+
+Era abitudine di Huisheng di non parlare se non quando gli
+veniva rivolta parola, e, poiché il prigioniero non era
+disposo a parlare con nessuno, Huisheng, semplicemente, si
+voltò di nuovo e si inginocchiò presso il santuario, per
+meglio contemplare la scena.
+
+<i>-- Ho sentito molto oggi,</i> pensò Huisheng, riferendosi
+allo stato di un lavoro critico lanciato di notte.
+
+<i>-- Molti hanno elogiato la progettazione del processo, del
+quale si era detto che se non fosse riuscito ad elaborare
+tutti i record, avrebbe automaticamente inviato un'apposita
+e-mail all' Amministratore e a tutte le Parti
+Interessate.</i>
+
+<i>-- Molti hanno ammirato l'affidabilità del processo, e come
+fosse normale che nei giorni precedenti non venisse inviato
+nessun messaggio di questo tipo.</i>
+
+<i>-- Molti hanno sottolinato la tendenza del processo a non
+emettere troppi messaggi, e come questi messaggi fossero
+inviati solo quando si riteneva che ci fosse qualche errore
+da correggere.  Io trovo questa caratteristica
+particolarmente virtuosa, sebbene l'abate che prende il tè
+al mio fianco se ne sia lamentato...</i>
+
+I pensieri di Huisheng furono interrotti dal suono di grida
+soffocate provenienti dall'alto.  Irritato, si portò le mani
+sulle orecchie.
+
+<i>-- I Protocolli ci parlano di non meno di quattro silenzi:
+il Silenzio Prima Delle Parole, il Silenzio Tra Le Parole,
+il Silenzio Del Tubo Rotto{{*}}, e il Silenzio Dei Pacchi
+Cadenti.  Per l'iniziato, essi sono diversi, come le lettere
+di "fine" e "non ancora", anche se un estraneo non li
+distingue l'uno dall'altro.</i>{{**}}
+
+Le grida incomprensibili si fecero più forti.  Huisheng alzò
+gli occhi e vide un serpente che strisciava lungo le corde
+verso il prigioniero terrorizzato.
+
+<i>-- È curioso,</i> riflettè Huisheng. <i>Il fratello qui
+sopra non ha implorato di essere liberato, né mi ha
+supplicato di lanciare pietre contro il serpente.  Presto
+sarà morto.  Eppure continua a non-chiedere queste cose,
+sebbene in modo diverso.  Se mi allontanassi, lui
+continuerebbe a non-chiedere in un modo ancor diverso.</i>
+
+<i>C'è una lezione insita nella correzione di questo monaco,
+anche se non ho ancora intuito quale sia.</i>
+
+Così, fischiettando, Huisheng lasciò il santuario.
+
+
+{{*}} "Broken Pipe" nel testo originale - tipico errore unix quando in una concatenazione di più processi, uno di questi smette di inviare o ricevere dati.
+{{**}} &#x672B; e &#x672A;.
+
+

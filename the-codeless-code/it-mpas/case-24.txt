@@ -1,0 +1,54 @@
+﻿Number: 24
+Lang: it
+Translator: mpas
+Title: Il Taccuino Rosso
+
+Questo è registrato negli annali del Tempio del Mattino Del
+Gong D'Ottone, nel capitolo intitolato Test Unitari:
+
+Il maestro Java Kaimu di tanto in tanto usava rispondere
+alle domande con una sola parola: /null./  Quando gli veniva
+chiesto cosa volesse dire, rispondeva, invariabilmente, con
+lo stesso, impenetrabile, /null./
+
+Un giovane monaco, malaticcio e di natura solitaria,
+cominciò a prendere nota di quali domande ricevessero questa
+risposta. Questi le registrò in un piccolo taccuino rosso,
+le cui pagine si riempirono copiosamente nel corso dei mesi.
+A tarda notte, il monaco si vedeva spesso meditare sul
+taccuino.
+
+Un giorno i suoi fratelli si presero gioco di lui.  "Non sei
+ancora riuscito ad accedere alla mente del tuo amato maestro
+Kaimu?"
+
+/"Null"/ disse il monaco.
+
+A quel punto, gli altri monaci lo afferrarono e lo presero a
+calci fino a che non fu tutto contuso.  Il suo prezioso
+libretto rosso fu gettato nel fuoco.
+
+Il maestro Java, udito ciò, ordino all'abate del clan di
+indagare.  "Qui ci sono quarantotto domande per il giovane
+monaco," disse il maestro. "Riportami le sue risposte."
+
+L'abate fece quanto richiesto. Il monaco diede una risposta
+chiara alla maggior parte delle domande.  Molte ebbero come
+risposta l'enigmatico /null./ Per il resto, il monaco tacque.
+
+Il maestro Java esaminò il documento portatogli dall'abate
+accarezzandosi la barba.
+
+"Per la risposta alla domanda dodici, le orecchie del monaco
+siano prese a pugni, per la sua insolenza," disse il
+maestro. "Per la risposta alla domanda trentuno, sia
+frustato sulle natiche con un bacchetta di salice, per
+avermi prevaricato. Poi provvedete perchè gli sia dato un
+altro taccuino rosso."
+
+"E che dire dei fratelli che lo hanno picchiato?" Chiese
+l'abate.
+
+"Siano ricompensati, perché hanno reso un servigio al
+tempio.  Ora so che l'algoritmo del monaco era difettoso".
+

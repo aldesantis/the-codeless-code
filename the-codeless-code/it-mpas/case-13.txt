@@ -1,0 +1,23 @@
+﻿Number: 13
+Lang: it
+Translator: mpas
+Title: Evoluzione
+
+<p>Un novizio studiò il codice Java del maestro e adottò il suo stile con la massima esattezza: i design patterns, 
+le convenzioni per i nomi delle variabili, 
+il numero di spazi utilizzati per il rientro di ciascun blocco nidificato. 
+Anche i commenti erano scritti con un'impressionante somiglianza della "voce del maestro"<sup>*</sup>.</p>
+<p>Nel corso della successiva revisione del codice, il novizio fu sorpreso di trovare il maestro Java tremendamente dispiaciuto.</p>
+<p>"Ma, maestro," protestò lo studente. 
+"Ho seguito il vostro esempio fino al punto e virgola finale. 
+Vedi, qui c'è una classe di utilità che hai scritto solo il mese scorso: 
+non è identica al mio codice proprio come due uova della stessa covata?"</p>
+<p>"E qui sta il problema," si accigliò il maestro. 
+"Ieri ero un pazzo, la settimana prima un idiota, e il mese scorso un imbecille. 
+Non mostrarmi il codice che avrei potuto scrivere ieri. Mostrami il codice come lo scriverò domani."</p>
+
+<div class="footnotes">
+   <div class="footnote"><sup>*</sup> Nel testo orgiginale "the master's own voice" citazione di "his master's voice". In italiano "la voce del padrone", nota casa discografica nata agli albori dell'alta fedeltà.
+   </div>
+</div>
+

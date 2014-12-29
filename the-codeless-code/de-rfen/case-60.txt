@@ -1,0 +1,18 @@
+Number: 60
+Lang: de
+Translator: rfen
+Title: Der Wachhund
+
+<p>Die Produktivserver eines wichtigen Systems arbeiteten schon seit Wochen schlecht. Nach jedem Neustart verhielt sich die Software gut, doch während die Tage verstrichen, verschlechterte sich die Leistung schrittweise zu einem Schneckentempo, bis das System nach einer Woche praktisch unbenutzbar würde. Noch schlimmer war der Umstand, daß die Anwendung des öfteren wegen Speichermangels abstürzte, und zwar just während der betriebssamsten Zeit des dritten Tages, wobei sie die ungespeicherten Sitzungsdaten der angemeldeten Benutzer mit sich riss. Dutzende verärgerter Abonnenten riefen beim Tempel an, um ihr Missfallen auszudrücken; sie hatten sehr <i>konkrete</i> Vorschläge, was mit den Entwicklern passieren solle. Eine Schar ausgebildeter Wachhunde wurde angeschafft, um die Abteien zu schützen.</p>
+
+<p>Da sie das Problem in der Entwicklungsumgebung nicht nachvollziehen konnten, flehten die Java-Meister darum, dass das System in jeder Nacht neugestartet werden möge. Diese Bitte fand beinahe einstimmige Zustimmung. Einzig Yishi-Shing, ein Rechnermeister des Clans der Eisernen Knochen, widersprach.</p>
+
+<p>Die Neustarts schienen erfolgreich zu sein: die Leistung blieb gut über den Tag, bis auf die rabiatesten wurden beinahe alle Nutzer beruhigt und die Java-Meister konnten ihre Aufmerksamkeit interessanteren Dingen zuwenden.</p>
+
+<p>Eines Nachts erwachten die Java-Meister und Entwickler durch das Geräusch aufgeregten Gebells vor ihren Hallen. Das Mondlicht fiel auf einen der Tempel-Wachhunde, sein Fell aufgestellt und die Pfoten breit gespreizt, der eine Gruppe schwarz gekleideter, furchteinflößender Gestalten bedrohte. Der Hund setzte gerade zum Sprung an, als ein pfeifendes Geräusch die Luft zerriss. Das Tier wimmerte und fiel, als das Seil einer geworfenen Liu Xing Chui sich um seine Beine wand. Die schwarzen Gestalten flüchteten in die Dunkelheit.</p>
+
+<p>Aus dem Schatten trat der Rechnermeister hervor. Er kniete vor dem hilflosen Hund und nahm den Meteorhammer an sich, der offensichtlich sein eigener war.</p>
+
+<p>Die Java-Meister waren empört und verlangten Auskunft. „Diese Männer könnten vor dem Morgen zurückkehren. Warum hast du den Wachhund an der Erfüllung seiner Pflicht gehindert?“</p>
+
+<p>Yishi-Shing erwiderte: „Sein Bellen störte meinen Schlaf.“</p>

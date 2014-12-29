@@ -1,0 +1,27 @@
+Number: 65
+Lang: de
+Translator: rfen
+Title: Zwei Möglichkeiten
+
+<p>Der Java-Meister Kaimu hatte <a href="/case/64?lang=de">drei Novizen</a> damit beauftragt, die Signatur einer Dienstfunktion abzusprechen, die benötigt wurde. Eine Stunde später fand er alle drei in seinem Büro, voller blauer Flecke und recht zerzaust.</p>
+
+<p>„Habt ihr eine Übereinkunft erzielt?“ fragte Kaimu.</p>
+
+<p>Der erste Novize, der eine gerissene Robe und eine blutige Lippe hatte, sprach: „Wir sind noch weiter von einer friedvollen Lösung entfernt als zuvor. Jeder von uns zieht weiterhin seine eigene Lösung den beiden anderen vor. Wir flehen euch an, die beste Wahl an unserer statt zu treffen.“</p>
+
+<p>„Nun gut“, seufzte Kaimu. „Unter den drei vorgeschlagenen Möglichkeiten war eine, die kühn genug war, unsere Tradition der starken Typisierung zurückzuweisen und die Methode so zu vereinbaren, daß sie ein Object entgegennimmt, um alle möglichen Benutzer zufriedenzustellen. Welcher von euch hatte dies vorgeschlagen?“</p>
+
+<p>Der zweite Novize trat stolz einen Schritt vor. Mit einem schnellen Tritt in die Magengrube schickte ihn der Meister taumelnd zur Tür hinaus.</p>
+
+== Qis Kommentar
+
+<p>Die Funktion, die ein Object entgegennimmt, wird problemlos eine Instanz von LinkerFuss akzeptieren.</p>
+
+== Qis Gedicht
+
+<p>Ein vollkommener Frosch kauert auf dem Tisch,<br />
+umgeben von Splittern aus Jade.<br />
+Bei jedem Schlag hat der Bildhauer zwei Möglichkeiten:<br />
+dafür, dagegen.</p>
+
+

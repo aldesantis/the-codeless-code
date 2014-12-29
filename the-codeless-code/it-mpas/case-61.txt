@@ -1,0 +1,41 @@
+﻿Number: 61
+Title: Peso
+Lang: it
+Translator: mpas
+
+Il maestro Java Suku entrò nelle stanze dell'Abate a capo
+del Clan Del Ragno, con lei entrò anche un altro monaco.  Si
+inchinarono.
+
+Suku disse all'Abate: "La settimana scorsa mi è stato
+ordinato di re-implementare completamente il modulo di
+visualizzazione dati i cui lunghi tentacoli si sono
+infiltrati in ogni fessura del nostro sistema. Ho richiesto
+sette sviluppatori con varie specializzazioni in modo che la
+revisione possa essere realizzata in una sola
+iterazione. Eppure mi hai assegnato soltanto questo monaco
+solitario."
+
+L'Abate replicò: "Non possiamo impiegare sette sviluppatori
+tutti in una volta.  Invece, a questo monaco è consentito di
+eseguire il lavoro in sette iterazioni.  In cambio di questo
+trattamento favorevole deve mantenere il sistema stabile,
+dato che ci sono molte nuove caratteristiche che vogliamo
+rilasciare ai nostri utenti in quel periodo."
+
+Suku annuì al monaco, che aprì la mano e soffiò una folata
+di polvere rossa direttamente sul viso dell'Abate.  Questi
+rimase a bocca aperta per la sorpresa, inalando la
+polvere. Subito crollò sulla sua scrivania.
+
+L'abate si svegliò in un oscuro pozzo di pietra con una sola
+candela accesa al suo fianco.  Mentre i suoi occhi si
+abituavano alla penombra vide una nota apposta alla botola
+sopra di lui:
+
+  Un masso, sette volte il tuo peso //
+  è poggiato sulla botola, e la tiene chiusa. //
+  Ma conforta- //
+  puoi sollevarlo con la lentezza che preferisci.
+
+

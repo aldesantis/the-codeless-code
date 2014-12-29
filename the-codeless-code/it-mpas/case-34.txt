@@ -1,0 +1,24 @@
+﻿Number: 34
+Lang: it
+Translator: mpas
+Title: Il Nome Dei Nomi
+Illus.0.title: IL DISCIPLINATORE viene fornito con il suo sostegno e la fornitura annuale di olio di teak. IL DISCIPLINATORE non è disponibile nei negozi. Ordina subito!
+
+La sacerdotessa, [[Suku]], stava rivedendo il software dei suoi novizi,
+quando trovò un modulo nel quale i nomi delle variabili la contrariarono immensamente.
+I <i>Value Objects</i> erano chiamati <i>'vo'</i> o semplicemente <i>'obj'</i>,
+indipendentemente dal tipo.
+Le liste erano chiamate <i>'list1'</i>, <i>'list2'</i>, etc.
+I rispettivi iteratori erano chiamati <i>'i'</i>, <i>'j'</i>,
+e, inspiegabilmente (per nessuna apparente ragione) <i>'x'</i>.
+
+La sacerdotessa entrò nelle cucine del tempio in cui i novizi stavano preparando la cena.
+Sganciò dal muro un immenso cucchiaio di legno per il riso, e, trovato lo sviluppatore incriminato,
+sfogò il suo disappunto sul posteriore del ragazzo.
+
+"Che cosa ho fatto?" Strillò il novizio quando, per la decima volta, la paletta atterrò con un sonoro schiaffo sulle sue carni.
+
+"Parla!" rispose la sacerdotessa, "Pronuncia il tuoi nome, significativamente!"
+
+La scena si ripetè ogni notte fino a quando il novizio raggiunse l'illuminazione.
+

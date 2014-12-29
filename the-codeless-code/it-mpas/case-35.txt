@@ -1,0 +1,105 @@
+﻿Number: 35
+Lang: it
+Translator: mpas
+Title: L'uccellino si libera
+Illus.2.title: Cercò di sillabare la parola AIUTO, ma distorse malamente la fine della I. Dovrebbero insegnare la scrittura in corsivo alla scuola per vermi.
+
+Un messaggero informò la badessa Jinyu che molti dei suoi
+monaci avevano messo a punto un nuovo metodo intelligente
+per la memorizzazione delle informazioni nel
+<i>Cloud{{*}}.</i>  I monaci erano entusiasti delle
+possibilità e desideravano sviluppare ulteriormente la
+tecnologia.  La badessa rimandò questo messaggio:
+
+   Un uovo si schiude<br>
+   e il Clan Del Passerotto ne emerge.
+
+Il nuovo clan lavorò giorno e notte e produsse un prototipo funzionante.
+Tutti parteciparono alla dimostrazione, e ben presto il Clan Del Passerotto fu celebrato in tutto il Tempio.
+Il fratello alla testa del clan ricevette un altro messaggio dalla badessa:
+
+   Il Passerotto si libera dalla foresta oscura.<br>
+   Tutti gli occhi contemplano la sua ascesa.
+
+In quel tempo, un potenziale cliente stava facendo offerte per una nuova applicazione di
+<i>social networking</i>.
+Il superiore organizzo un tè con il cliente, sostenendo che il nuovo software del suo clan sarebbe
+stato una ideale base di partenza per il sistema proposto.
+Il cliente fu d'accordo e il contratto fu assegnato al Clan Del Passerotto.
+La Venerabile Jinyu inviò le sue congratulazioni:
+
+   Solo e alto su campi lontani<br>
+   il Passerotto cattura il lombrico<br>
+   mentre il gregge sonnecchia ancora
+
+Il sistema fu consegnato, e riscosse un grande successo.
+
+Passarono i mesi. Molti vennero per usare l'applicazione,
+anche gli sviluppatori che erano incuriositi e ispirati dal nuovo uso del <i>Cloud</i>.
+Anche se essi non avevano il software del Clan Del Passerotto, l'approccio fondamentale fu facile
+da discernere.
+
+Alla badessa giunse voce che il Clan Uccelli Da Una Sola Piuma si erano radunati in un recente convegno,
+e i partecipanti avevano cominciato a lavorare su alcune API standard per questo nuovo tipo di interfaccia al<i>Cloud</i>.
+Il giorno dopo il frate superiore aprì la posta e trovò questo avviso:
+
+   Gialle foglie caduche sono nell'aria<br>
+   il gregge si agita
+
+Il Clan Del Passerotto non aveva alcun interesse nelle nuove API,
+che consideravano eccessivamente ingegnerizzate.
+Continuarono ad assumere e sviluppare il loro approccio con ogni nuovo contratto acquisito.
+Eppure le criptiche note continuavano ad arrivare:
+
+   Un centinaio di passeri possono beccare l'aquila cieca.
+
+   Ogni usignolo ama di più la propria melodia.
+
+   Un uccello non può schiudere un uovo.
+
+Il software del Clan Del Passerotto continuò ad evolversi, accumulando alcune nuove caratteristiche
+impressionanti, ma, di conseguenza, era ormai irrimediabilmente incompatibile con le specifiche delle nuove API.
+Il monaco non aveva testa di preoccupazioni
+(Lasciate che gli altri templi godano dei loro primitive implementazioni!),
+ciononostante, temeva di aprire la posta ogni mattina.
+Il tono di Jinyu si faceva sempre più scuro:
+
+   Il falco, ormai adulto, non si accontenta più delle mosche.
+
+I templi, che avevano adottato le nuove API continuarono a collaborare
+alla produzione di varie estensioni e miglioramenti.
+Si generarono alcune imprese commerciali e la concorrenza si intensificò;
+presto una bufera di opuscoli patinati furono stampati e spediti con piccioni viaggiatori
+in tutti gli angoli dell'Impero.
+Anche la badessa ne ricevette alcuni, che trasmise con questa nota:
+
+   Un uccellino implume mi ha detto: è caduta la neve.
+
+In tutto l'Impero, governatori e generali chiedevano a gran voce sistemi con la più recente tecnologia.
+Ogni tempio partecipò alla gara dicendo che la sua soluzione era conforme agli standard, o meglio,
+ogni tempio, tranne uno.
+
+In un appartato cortile del tempio del Mattino Del Gong D'Ottone,
+si tenne una riunione per discutere il destino del Clan Del Passerotto.
+Le loro librerie erano diventato un costo passivo, dato che (contrariamente ai loro concorrenti)
+non potevano interagire con le estensioni commerciali immensamente popolari.
+I clienti che, inizialmente, avevano adottato la tecnologia del Passerotto
+chiedevano aggiornamenti a soluzioni commerciali,
+ma, dal momento che le interfacce erano così diverse, i costi erano proibitivi.
+I contratti erano stati annullati.
+Peggio ancora, la reputazione del tempio ne aveva sofferto.
+
+Quella sera Jinyu inviò un messaggio finale al superiore del clan,
+scritto su un quadrato di carta di riso, avvolto attorno alla lama di un coltello seppuku:
+
+   Il gregge è andato al sud.<br>
+   Il passero solitario resta nel suo, bianco, campo.<br>
+   Ora scende il falco.
+
+
+
+
+
+
+{{*}}"Cloud" nel testo originale
+

@@ -1,0 +1,39 @@
+﻿Number: 42
+Lang: it
+Translator: mpas
+Title: Inneschi
+Title-footnote: *
+Illus.0.title: Contare le dita dei piedi. E, no, non è ketchup.
+
+Un monaco del Clan Orma D'Elefante chiese: "E riguardo i
+<i>triggers</i> nei database?"
+
+Il maestro rispose: "Quando avrai fame a mezzanotte, allora
+saprai."
+
+Il monaco stette sveglio a riflettere sulla cosa.  Alla fine
+il suo orologio segnava mezzanotte, e, poichè dalla cena
+erano passate molte ore, il monaco si rese conto che, in
+realtà, era affamato.
+
+Evitando di indossare i sandali per non fare rumore, il
+monaco saccheggiò, silenziosamente, le cucine del tempio.
+Attraverso il buio, individuò il percorso, centimetro dopo
+centimetro, guidato dal ronzio del grande frigorifero.  Le
+sue dita si erano appena chiuse attorno alla maniglia,
+quando udì un forte schiocco e la vista gli si annebbiò dal
+dolore.  Il monaco cadde all'indietro, battè la sua testa, e
+si perse nell'oblio.
+
+Si risvegliò all'alba con i monaci Orma D'Elefante chini su
+di lui.  Giaceva ancora sul pavimento della cucina, che, ora
+poteva vederlo, era disseminato di trappole per topi.  Notò
+anche che alcuni del clan Orma D'Elefante avevano le dita
+dei piedi maciullate o mancanti.  In quel momento il monaco
+fu illuminato.
+
+
+{{*}} "Triggers" nel testo originale - nome che si dà a procedure nei database che vengono eseguite (scattano) automaticamente quando si modificano i dati.
+
+
+

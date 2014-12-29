@@ -1,0 +1,42 @@
+﻿Number: 60
+Lang: it
+Translator: mpas
+Title: Il Cane da guardia
+Title-footnote: *
+
+<p>I server di produzione di un sistema chiave stavano funzionando male da molte settimane.
+Dopo ogni riavvio il software si comportava bene,
+ma col passare dei giorni le prestazioni rallentavano progressivamente a passo d'uomo
+fin quando, dopo una settimana, il sistema diventava quasi inutilizzabile.
+Peggio ancora, capitava che, durante l'esecuzione, nei momenti più attivi del terzo giorno,
+l'applicazione esaurisse improvvisamente la memoria e uscisse inaspettatamente,
+portando con sé tutti i dati delle sessioni degli utenti registrati non ancora salvate.
+Dozzine di utenti imbufaliti cominciarono a tempestare il Tempio di telefonate per sottolineare
+la loro insoddisfazione, questi davano specifici suggerimenti per gli sviluppatori
+su cosa dovesse essere fatto.
+Per salvaguardare le abbazie fu ingaggiata una squadra di cani da guardia ben addestrati.
+</p>
+<p>Incapaci di riprodurre il problema nell'ambiente di sviluppo,
+i maestri Java imploravano per un riavvio notturne del sistema.
+Questo fu concesso con consenso quasi unanime.
+Yishi-Shing, un maestro ospite del
+<a href="/tag/Clan of Iron Bones">Clan Ossa di Ferro</a>, fu l'unico a dissentire.</p>Clan delle Ossa di ferro, è rimasta la dissentire.</p>
+<p>I riavvii furono considerati un successo:
+le prestazioni si rivelarono buone per tutto il giorno, tutti gli utenti, tranne i più violenti
+si placarono e i maestri Java furono in grado di rivolgere la loro attenzione a questioni più
+interessanti.</p>
+<p>Una notte i maestri e gli sviluppatori Java si svegliarono al suono di un frenetico abbaiare
+proveniente dall'esterno delle loro sale.
+Alla luce della luna si intravedeva uno dei cani da guardia del Tempio, il pelo irto,
+le zampe divaricate, fronteggiando in basso un gruppo di minacciose figure vestite tutte di nero.
+Il cane era sul punto di balzare, quando un sibilo trafisse l'aria.
+L'animale gemette e cadde, con le zampe intrappolate dalle corde di un Dai-chui lanciatogli contro.
+Le figure nere si sparpagliarono nel buio.</p>
+<p>Dall'ombra emerse il maestro ospite.
+Si inginocchiò davanti al cane inerme per recuperare il Dai-chui, che era indubbiamente suo.</p>
+<p>Gli altri maestri Java chiesero: "Quegli uomini possono tornare prima dell'alba.
+Perché hai neutralizzato il cane da guardia? "</p>
+<p>Yishi-Shing rispose: "Il suo abbaiare disturbava il mio riposo."</p>
+
+{{*}} "Watchdog" nel testo originale.
+

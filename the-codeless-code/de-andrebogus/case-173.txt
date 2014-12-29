@@ -1,0 +1,74 @@
+Number: 173
+Lang: de
+Translator: andrebogus
+Title: Verlorene Verbindung
+
+Uralte Logs künden von einer Zeit,
+zu der an jedem Morgen wir zu zweit
+uns in des Äther's Netze fanden
+nach alter Protokolle Sitte uns verbanden
+
+So hoch verfügbar warst Du mir,
+Dass ich den Timeout setzt auf vier
+Minuten, sicher dass mit 504
+antworten würdest keine Frage mir.
+
+Als Feuers Mauern trennten mich von Dir,
+geheimen Port eröffnetest Du mir,
+so dass wir heimlich konnten sein zusamm'
+ein Hintertürchen durch der Wälle Flamm'.
+
+Diskret am Socket lausch' und warte,
+auf dass ich unsere Verbindung starte,
+Doch wenn dies ist der richt'ge Ort
+wie kommt es dass mein Herz, bist fort?
+
+Mein letzter Zugang bleibt verwehrt,
+die Puffer bis aufs letzte Bit geleert,
+den JSON-Root-Node schau ich sehnend an,
+er stirbt ohn' einen Inhalt je gekannt.
+
+Geliebter Task, was hat gekillt Dich nur?
+Ich suche Dich und finde keine Spur!
+Ein Segmentation Fault? kill -9?
+Sag's wenn der Fehler ist am Ende mein!
+
+Bis dahin i sei 1 bis n und dann
+schlägt die Verbindung fehl, ich fang
+den Fehler, weinend warte lang
+und fange den Versuch von vorne an.
+
+So sende ich ein SYN zu jeder Nacht,
+und halte, hoffend, dass Du kommst die Wacht
+Oh SYN mit mir, versprich ein ACK mir dann
+damit ich bis zum FIN Dir treu sein kann.
+
+Ich suche Dich mit netcat minus-z!
+Ich schau nach Dir mit netstat minus-t!
+lass and're spotten meiner Treue nur
+die Narren dienen nur HTTP.
+
+== Qi’s Kommentar
+
+Mugen programmierte gerne in Versen. Vermutlich beschreibt
+der siebte Vers den folgend skizzierten Algorithmus:
+
+    SocketAddress sockAddr = new InetSocketAddress(host, port);
+    for (int i = 1; i <= N_TRIES; i++) {
+        try {
+            client.connect(sockAddr, TIMEOUT_MILLIS);
+            return client;
+        }
+        catch (Exception e) {
+            log.warning("weep, wail");
+            Thread.sleep(INTERVAL_MILLIS);
+        }
+    }
+    throw new IOException("give up");
+
+Es wird angenomen, dass sein zehntausend-Verse-Epos "Der
+Dromedar" einen Perl-OCaml-Transpiler in C++
+beschreibt. Kein Schüler ist lange genug bei Verstand
+geblieben, um es mit Sicherheit zu sagen.
+
+

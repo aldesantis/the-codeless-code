@@ -1,0 +1,33 @@
+﻿Number: 17
+Lang: it
+Translator: mpas
+Title: Non l'ho inventato io
+
+<p>Un monaco del Clan Orma d'Elefante era stato accusato di
+eliminare pagine e pagine di codice ridondante creato dal
+clan. Si avvicinò al sommo sacerdote del clan per avere la
+sua guida.</p>
+
+<p>"Qui, per esempio, ci sono cinque sistemi per la gestione
+delle preferenze degli utenti", disse il monaco, spargendo
+le stampe sul tavolo.  "Devo scegliere il migliore oppure
+adottare qualche compromesso.  In entrambi i casi almeno
+quattro moduli saranno gettati nel fuoco, e ai loro autori
+sarà ordinato di utilizzare il codice di un loro
+rivale."</p>
+
+<p>"Allora sei condannato", disse il prete.  "Una volta che
+la gatta si bagna la zampa per artigliare una carpa dalla
+vasca, non scambierà il bottino nemmeno per diecimila
+topi."</p>
+
+<p>Il monaco si passò una mano sulla fronte.  "E questo è
+uno, ma devo consolidare una dozzina di sottosistemi
+ridondanti!  Oggi ho visto uno dei fratelli anziani affilare
+i coltelli da lancio.  Non c'è modo per addolcire i monaci
+del nostro clan?"</p>
+
+<p>Il prete alzò la mano sinistra, a cui mancava il dito
+mignolo. "Se la gatta non può avere la carpa, un pezzetto
+del ladro di carpe sarà sufficiente."</p>
+

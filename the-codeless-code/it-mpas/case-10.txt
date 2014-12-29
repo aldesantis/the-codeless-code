@@ -1,0 +1,41 @@
+﻿Number: 10
+Lang: it
+Translator: mpas
+Title: Orgoglio
+
+<p>Dopo un controllo superficiale, il maestro Java decretò che ogni monaco nel clan Orma D'Elefante, 
+da quel momento in poi, dovesse pescarsi il pesce, raccogliere il proprio riso, 
+cucirsi i propri abiti, e aggiustare le proprie scarpe.</p>
+<p>Nel giro di un mese, i monaci erano seminudi e gravemente malnutriti. 
+Le scadenze cominciarono a slittare. 
+L'abate implorò il maestro Java di riconsiderare la sua decisione.</p>
+<p>"Molto bene" disse il maestro Java. 
+"Ogni giovedi, brucino i loro abiti e le scarpe, e gettino il riso e il pesce nel fiume."</p>
+<p>L'abate chiese quale trasgressione avesse commesso il suo clan per meritare una tale punizione.</p>
+<p>"Punizione?" Disse il maestro Java. 
+"Io intendevo premiare. Non vogliono forse, i monaci del clan Orma D'Elefante, gustarsi la loro indipendenza e autosufficienza? 
+Il loro codice mi dice questo:</p>
+<p>"Ognuno ha sostanzialmente codificato gli stessi Data Access Objects e Value Objects come i suoi vicini. 
+Ognuno ha realizzato i suoi programmi di utilità per le stringhe e i parser dei file di configurazione. 
+Ognuno si è preso la briga di progettare, implementare, integrare, verificare, correggere, modificare, ed estendere 
+ciò che egli avrebbe potuto, semplicemente, chiedere a uno dei suoi fratelli."</p>
+<p>"Devo dedurne incompetenza? 
+Se così fosse, ogni monaco del clan Orma D'Elefante deve essere cacciato dal monastero."</p>
+<p>"Devo dedurne ignoranza volontaria? 
+Se così fosse, la tradizione esige che essi siano accecati con le ortiche, per poi essere scacciati."</p>
+<p>"Devo dedurne disprezzo per la preziosità del tempo? 
+Se così fosse, i sotterranei attendono ..."</p>
+<p>"Ma no", concluse il maestro Java. 
+"Ne deduco orgoglio, invece; 
+l'orgoglio che ognuno di loro ha pensando che il proprio codice sia superiore a quello dei suoi fratelli. 
+L'orgoglio è uno dei Quattro Semi Della Grandezza, e deve essere incoraggiato. 
+Lasciate che il clan Orma D'Elefante affini le proprie competenze con cesoie e lance, con aghi e falci, 
+fino a che ogni monaco possa essere ugualmente orgoglioso dei propri abiti raffinati e 
+dell'abbondanza della propria mensa!"</p>
+<p>"Ci sarà poco tempo per la codifica", osservò l'abate. 
+"E l'Imperatore è piuttosto rigoroso nella sua, letterale, interpretazione del significato di scadenza."</p>
+<p>Il maestro annuì. 
+"Il mercante in rovina conosce solo i morsi della perdita. 
+Il vecchio eremita esalta, invece, le virtù dell'austerità, e non cambierà il suo stato. 
+Non sono forse entrambi lo stesso uomo, separati solo da un divario di anni?"</p>
+<p>Così il clan Orma D'Elefante corresse il codice e risparmiò doppiamente.</p>

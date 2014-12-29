@@ -1,0 +1,83 @@
+﻿Number: 45
+Lang: it
+Translator: mpas
+Title: Punto Di Partenza
+Illus.0.caption: Wow, un calcio rotante diretto al costruttore di copia.
+Illus.0.title: Questo fa male.
+
+Accadde che due monaci del Clan Scimmia Ridente stessero
+litigando nella Sala Grande, a volume tale da aver attirato
+un certo pubblico.
+
+"Se voglio sapere l'indirizzo di fatturazione del cliente,"
+diceva il primo monaco "allora l'oggetto <i>Customer</i>
+dovrà disporre di un metodo <i>getBillingAddress</i>, così
+come possiede <i>getName</i>! Come puoi negare l'eleganza
+del mio design?"</i> "Perché il metodo carica implicitamente
+l'indirizzo dal database!" Contrastava il secondo.  "Questo
+non è il modello{{*}} per
+<i>Value Objects</i>!  Essi [Ndt gli oggetti] esistono solo
+per contenere i dati recuperati da un <i>DAO</i>.  Si
+dovrebbe avere un <i>AddressDAO</i> per interrogare la
+tabella degli indirizzi, con davanti un metodo di servizio.
+L'indirizzo di fatturazione deve essere ottenuto
+direttamente da lì."
+
+"Ma abbiamo perso la <i>Via dell'Object-Oriented</i> ?"
+gridò il primo.  "Siamo tornati indietro ai giorni del C?  I
+nostri <i>Value Objects</i> sono appena più che strutture,
+la nostra <i>DAO</i>, senza memoria di stato e i servizi
+sono solo raccolte di funzioni correlate, a cui si passano,
+quà e là, ID interi al posto degli oggetti che
+rappresentano!  Cosa faremo dopo ? Vogliamo correre a
+quattro zampe e arrivare sulla luna?"
+
+"La Via dell' <i>Enterprise Design Patterns</i> è un
+progredire verso la semplicità ideale, non una regressione
+al primordiale!" Disse il secondo.  "Un oggetto di dominio
+non è destinato a lavorare come il suo omonimo, più di
+quanto l'immagine di una pala abbia lo scopo di scavare un
+fosso!  È necessario mettere da parte le apparenze e
+concentrarsi sugli scopi!"
+
+"Lo scopo è insito nel nome scelto," disse il primo.  "Gli
+oggetti del dominio dovrebbero modellare il mondo reale!"
+
+Il secondo monaco rispose con un pugno allo stomaco del
+primo monaco, facendolo piegare in due.  "Dimmi," disse il
+secondo monaco ", in quale variabile di istanza ti ho
+colpito?"
+
+Il primo monaco balzò in avanti e percosse le orecchie del
+suo avversario.  "Ho pensato che quelle appendici fossero
+per l'ascolto!", Disse il primo, mentre il secondo
+barcollava per il dolore.  "Fortunatamente ho messo da parte
+le apparenze e ho scoperto il loro vero scopo!"  La sua
+esultanza fu interrotta da un montante alla mascella.
+
+Una giovane suora, una novizia, notò che molti dei maestri
+Java erano ai margini della folla, in silenzio, intenti ad
+osservare la scena. Corse da loro.
+
+"Quei due monaci si uccidoeranno a vicenda in breve tempo!",
+Disse la novizia.  "Perché non risolvete la loro
+controversia e dite a tutti quale filosofia è superiore ?"
+
+I maestri la ignorarono. Ma la suora Zjing, che aveva
+sentito, sussurrò alla novizia:
+
+"Se fossi il monaco che preferisce la <i>Via dell'Enterprise
+Design Patterns</i>, direi che hai commesso lo stesso
+errore, come lo scavatore di fossati.  C'è una questione da
+risolvere, ma hai frainteso gli obiettivi dei presenti."
+
+"Stai dicendo che i maestri hanno intenzione di nasconderci
+la risposta?" Chiese la novizia.
+
+"Wu", disse Zjing. "Se fossi il monaco che preferisce la
+<i>Via dell'Object-Oriented</i>, richiamarei la tua
+attenzione sulla gerarchia implicita, secondo la quale un
+Maestro non è che una sottoclasse di Studente".
+
+
+{{*}} "Pattern" nel testo originale - rieferendosi all'arci noto "Design Patterns."

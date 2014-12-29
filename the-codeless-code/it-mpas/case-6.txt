@@ -1,0 +1,63 @@
+﻿Number: 6
+Lang: it
+Title: Nulla
+Title-footnote: *
+Translator: mpas
+
+Al ritorno dalle vacanze, l'abate del Clan Della Scimmia
+Ridente trovò il suo tempio in uno stato di panico e
+scompiglio.  Il sistema finanziario che avevano appena
+modificato stava lanciando NullPointerExceptions per ogni
+nuovo cliente.  Questi utenti, esasperati, chiudevano i
+conti dopo appena un giorno.
+
+Con qualche difficoltà l'abate individuò il problema in un
+metodo il cui scopo dichiarato era quello di restituire
+l'elenco delle operazioni dell'utente.  Se non avesse
+trovato transazioni tornava null, invece che una lista
+vuota.
+
+"Portatemi il monaco che ha scritto questo metodo", ordinò
+alle guardie del tempio.  "E anche il monaco autore del
+codice che lo invoca."
+
+Il primo monaco, che era il più anziano dei due, dichiarò
+che la colpa fosse gettata ai piedi del secondo.  "Il mio
+Javadoc era chiaro fino all'estremo. Non è colpa mia se lui
+non ha verificato la presenza di valori null".  Il secondo
+monaco chinò la testa per la vergogna e non disse nulla.
+
+L'abate batté le mani e due alte urne di giada furono
+sistemate a terra davanti ai monaci.  "La vostra punizione è
+scritta nei foglietti di carta contenuti all'interno.  Ogni
+giorno prenderete il primo foglietto che le vostre dita
+toccheranno e obbedirete alla lettera, fino a quando l'urna
+si svuoterà."
+
+Fu ordinato di cominciare al monaco più giovane.  La sua
+mano non era ancora arrivata a metà nell'urna quando si udì
+il fruscio della carta.  Leggendo la strisciolina di carta,
+s'inchinò e uscì dalla stanza.
+
+Il monaco più anziano infilò la mano in profondità nella sua
+urna finché le sue dita sfiorarono il fondo gelido.  "Non ci
+sono strisce di carta in quest'urna," disse il monaco, con
+un sorrisetto appena accennato sulle labbra.
+
+"Né ci sono pesci, né dieci montagne", replicò l'abate.
+
+Poi il monaco anziano gridò di dolore. L'urna cadde e si
+frantumò.  Uno scorpione si infilò tra le pietre del
+pavimento.
+
+L'abate redarguì il monaco morente. “Non tutti i nulla sono
+eguali”
+
+
+{{*}} "Empty" nel testo originale.
+
+
+
+
+
+

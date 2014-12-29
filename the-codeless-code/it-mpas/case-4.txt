@@ -1,0 +1,30 @@
+﻿Number: 4
+Lang: it
+Title: Salici
+Translator: mpas
+
+Un nuovo sacerdote del Clan Del Ragno si lamentava della
+scarsa qualità del codice Javascript prodotto dai suoi
+novizi.
+
+"Indagherò." disse il maestro Java.
+
+Dopo aver visitato i novizi, il maestro decretò che i primi
+quattro fossero colpiti duramente sulle nocche ogni mattina,
+prima che le loro mani toccassero la tastiera. Nessuna
+prescizione per il quinto novizio. Il sacerdote chiese al
+maestro il motivo di questa decisione.
+
+"Il virgulto, se curato, può diventare un salice, ma non il
+filo d'erba." disse il maestro.
+
+Sentendo questo, il sacerdote ordinò che il quinto novizio
+fosse lasciato andare.
+
+Con grande sorpresa del sacerdote, il maestro Java si adirò
+notevolmente, tanto che lo fece cacciare. Sulla cartella di
+fine rapporto il maestro scrisse:
+
+"Non si può mentire a un migliaio di salici e contemplare
+l'alba"
+

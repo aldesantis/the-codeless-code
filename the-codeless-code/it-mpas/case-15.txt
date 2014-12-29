@@ -1,0 +1,28 @@
+﻿Number: 15
+Lang: it
+Translator: mpas
+Title: Immutabile
+Illus.0.title: (singhiozzando) … sì, credo si possa bollire l'uovo…
+
+Un novizio arrivò dal Tempio Delle Tre Pietre, dove si utilizzava solo C.
+Ignaro delle vie di Java, ben presto s'imbattè nell'immutabilità delle stringhe.
+
+"Vorrei solo convertire parte del contenuto di questo campo in maiuscole e minuscole!" Gridò.
+"Ma questo richiede la costruzione di uno StringBuffer e di conseguenza di un nuovo oggetto String,
+con molti caratteri lasciati intatti e copiati due volte tra le due stringhe!
+Per quale scopo la classe String è stata progettata così?"
+
+Una dotta sorella dopo averlo sentito, gli consigliò:
+"La moneta d'ottone passata di mano in mano potrà ancora essere cambiata il giorno dopo,
+non così può fare un'uovo."
+Il novizio fu illuminato.
+
+Presto il novizio definì tutte le sue classi immutabili.
+Nessuna proprietà poteva essere modificata: bisognava creare una nuova istanza con le modifiche necessarie.
+I suoi costruttori erano, talvolta, sorprendentemente lunghi e complessi.
+
+Il maestro Java venne a conoscenza di questo, e disse:
+"Si forgi un uovo d'ottone, e sia dato alla suora per colazione"
+
+In questo modo la suora fu incaricata di correggere il novizio.
+

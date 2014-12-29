@@ -1,0 +1,48 @@
+Number: 62
+Lang: de
+Translator: rfen
+Title: Verwirrung
+Illus.0.title: Ich frage sie, wie wir am besten den Termin halten könnten, doch sie raten mir lediglich, entlang einer Straße aus saffranfarbigen Pflastersteinen zu gehen...
+
+Die Java-Meisterin Suku betrat die Kammer des neuen obersten
+Abts des Spinnen-Clans, der ernannt worden war, nachdem sein
+Vorgänger auf geheimnisvolle Weise verschwand.
+
+Suku sprach zum Abt: „Im letzten Monat wurde ich angewiesen,
+das Datenvisualisierungs-Modul vollständig neu zu
+implementieren. Ich bat um sieben Entwickler aus
+verschiedenen Fachgebieten, so dass die Überarbeitung in
+einem Schritt erfolgen konnte. Heute kam ich aus meinem
+Quartier und fand einundzwanzig seltsame kleine Mönche vor,
+die in der Halle auf mich warteten.“
+
+Voller Begeisterung erwiderte der Abt: „Sind sie nicht
+großartig? Wir fanden sie in einer entfernten Provinz, die
+kürzlich von einer Hungersnot oder einem Erdbeben oder
+riesigen roten Käfern heimgesucht wurde; ich habe die
+Einzelheiten vergessen. Sie essen wenig, schlafen nur zwei
+Stunden in der Nacht und sind willens, auf Schreibtische zu
+verzichten und zu programmieren, während sie von den
+Dachbalken hängen, also werden sie nur sehr wenig
+kosten. Mit einem solchen Team solltest du in der Lage sein,
+die verlorene Zeit aufzuholen und die siebenwöchige Arbeit
+in nur sieben Tagen abzuschließen.“
+
+Suku seufzte, steckte zwei Finger in den Mund und stieß
+einen schrillen Pfiff aus. Auf das Geräusch hin sprangen ein
+Dutzend kleine Gestalten in Roben von den Dachbalken herab
+und auf den verdutzten Abt und er verlor das Bewusstsein.
+
+Der Abt erwachte in einer dunklen, steinernen Grube. Eine
+einzelne Kerze brannte an seiner Seite. Als sich seine Augen
+an das Zwielicht gewöhnt hatten, entdeckte er ein
+rattenzerfressenes Skelett, welches in die Roben eines Abts
+gehüllt war. An dem Skelett hing ein Zettel:
+
+    Über euch befindet sich eine quadratische Falltür:<br />
+    stabil, doch leicht und unverschlossen.<br />
+    Um eurem Entkommen zu helfen, habe ich die besten Scharniere angebracht&nbsp;&mdash;<br />
+    Sieben entlang jeder Kante.
+
+
+

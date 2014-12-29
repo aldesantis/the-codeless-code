@@ -1,0 +1,21 @@
+﻿Number: 12
+Lang: it
+Translator: mpas
+Title: Effetto
+
+<p>Tre giovani monaci - uno del Clan Del Ragno, uno del clan Scimmia Ridente, e uno del clan Orma D'Elefante 
+- discutevano se fosse più importante il codice del livello webtier, quello del livello business, o la persistenza. 
+Alla fine decisero di sottoporre la questione al maestro Java.</p>
+<p>Il maestro chiamò uno dei corpulenti giardinieri che facevano la manutenzione nel giardino del tempio, e lo istruì così: 
+"Percuoti e prendi sonoramente a calci questi tre monaci per un minuto. 
+Dopdichè puoi continuare a picchiarli e prenderli a calci per tutto il tempo che vuoi."</p>
+<p>Il giardiniere percosse i monaci per ben sette minuti, poi si inchinò e uscì.</p>
+<p>"Ora," disse il maestro. 
+"Chi è il maggior responsabile per le vostre contusioni oggi? 
+Io, per aver convocato il giardiniere, 
+il giardiniere, per i sei minuti lasciati alla sua discrezione, 
+o le mani e i piedi del giardiniere? 
+Ponderate la vostra risposta, o lo chiamerò di nuovo."</p>
+<p>Alla fine, il monaco del Clan Del Ragno disse: 
+"Il falegname che eresse il primo pilastro di questo tempio ha la colpa più grande".</p>
+<p>Il maestro si ritenne soddisfatto.</p>

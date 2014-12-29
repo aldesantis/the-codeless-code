@@ -1,0 +1,45 @@
+﻿Number: 61
+Lang: de
+Translator: rfen
+Title: Schwere
+Illus.0.title: Man kann sich dort gut hinsetzen und entspannen, wenn man sich nicht an den gedämpften Schreien stört.
+
+Die Java-Meisterin Suku betrat die Kammer des obersten
+Abts des Spinnen-Clans; ein ihr untergebener Mönch trat
+ebenfalls ein. Sie verneigten sich.
+
+Suku sprach zum Abt: „Letzte Woche wurde ich angewiesen,
+das Datenvisualisierungs-Modul vollständig neu zu
+implementieren, dessen lange Tentakel sich durch jede
+Öffnung in unser System eingeschlichen haben. Ich bat um
+sieben Entwickler aus verschiedenen Fachgebieten, so dass
+die Überarbeitung in einem Schritt erfolgen konnte. Doch
+habt Ihr mir nur diesen einen Mönch zugewiesen.“
+
+Der Abt erwiderte: „Wir können nicht sieben Entwickler
+zur selben Zeit entbehren. Anstelle dessen wird diesem Mönch
+erlaubt, die Arbeit in sieben Durchgängen zu erledigen. Als
+Gegenleistung für diese Nachsicht muss er das System stabil
+halten, da es viele neue Features gibt, die wir während
+dieser Zeit an unsere Nutzer ausliefern wollen.“
+
+Suku nickte dem Mönch zu, der seine Hand öffnete und eine
+Wolke roten Pulvers direkt in das Gesicht des Abtes
+blies. Der Abt keuchte überrascht, wobei er unbeabsichtigt
+tief einatmete. Sofort brach er an seinem Schreibtisch
+zusammen.
+
+Der Abt erwachte in einer dunklen, steinernen Grube. Eine
+einzelne Kerze brannte an seiner Seite. Als sich seine Augen
+an das Zwielicht gewöhnt hatten, wurde er eines Zettels
+gewahr, der an die Falltür über ihm geheftet war:
+
+
+        Ein Felsen, sieben mal so schwer wie Ihr<br />
+        ruht oben auf der Tür, und hält sie zu.<br />
+        Doch tröstet euch&nbsp;&mdash;<br />
+        Ihr dürft ihn so langsam heben wie ihr wollt.
+
+
+
+

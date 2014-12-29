@@ -1,0 +1,28 @@
+﻿Number: 14
+Lang: it
+Translator: mpas
+Title: Salve, Mondo
+Title-suffix: <sup>*</sup>
+
+<p>Il primo giorno nel tempio, il maestro Java pose le seguenti tre domande ai novizi:</p>
+<p>"Generalmente, quando veniamo in possesso di un nuovo linguaggio o libreria, 
+il primo programma che scriviamo è <i>Salve, Mondo</i>. 
+Il suo scopo è quello di scrivere queste parole in qualche modo a dimostrazione del comportamento previsto dalla tecnologia. 
+Una volta fatto questo, il programma non viene mai più eseguito.</p>
+<p>"Ora: perché dire salve, e non dire anche addio?"</p>
+<p>"E: perché dire salve al <i>mondo</i>, quando il pubblico si riduce ad una sola anima che lo scarta, 
+dopo che il programma ha pronunciato il suo primo vagito?</p>
+<p>"E ancora: perché dovrebbe pronunciare un saluto, che non riceverà mai risposta?"</p>
+
+<blockquote>
+Pronuncia una parola che significhi <i>ciao</i> e <i>arrivederci</i> - <br>
+non è forse il primo vagito di un bambino?<br>
+<br>
+Trovami una cima da cui vedere il mondo -<br>
+nel cui occhio, poi, si rifletta ogni tigre,<br>
+e il deserto di sabbia senza fine?<br>
+</blockquote>
+
+<div class="footnotes">
+<div class="footnote"><sup>*</sup>Traduzione di "Hello, World" - il primo vagito di ogni programmatore quando impara un linguaggio.</div>
+</div>

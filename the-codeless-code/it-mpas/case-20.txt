@@ -1,0 +1,83 @@
+﻿Number: 20
+Lang: it
+Translator: mpas
+Title: Né Si Né No
+
+
+Una suora del Clan Orma D'Elefante si sedette a gambe incrociate sulla sua scrivania
+contemplando un diagramma Entità-Relazioni sulla lavagna.
+
+Il maestro Java la vide e si avvicinò.
+
+Il Dio del <i>Silenzio Tra Le Parole</i> aleggiava nella stanza.
+
+- - -
+
+
+La suora indicò il diagramma.
+"Questa colonna, chiamata 'completato', dichiara di accettare valori interi.
+Un esame dei dati mostra che contiene unicamente due valori: zero e uno.
+Suppongo che lo zero indichi la menzogna, e il valore uno, la verità."
+
+Disse il maestro: "Solo un iniziato può dire cosa significhino tali numeri"
+
+Disse il Il Dio del <i>Silenzio Tra Le Parole</i>:
+"La presenza di un singolo zero implica l'esistenza di un uno, e quindi di un due, e, similmente all'infinito.
+Forse l'universo è scaturito, con lo stesso sistema, dal guscio di un uovo di serpente?"
+
+- - -
+
+
+La suora sollevò le prime due dita della mano destra.
+"Consideravo di memorizzare un due in qualche riga a caso, solo per osservare l'effetto sull'applicazione".
+
+Disse il maestro: "Tu cerchi di determinare se la verità consista nella presenza di un uno, o nell'assenza di uno zero."
+
+Disse il Il Dio del <i>Silenzio Tra Le Parole</i>:
+"L'assenza di uno zero implica una presenza.
+La presenza di uno zero implica un'assenza.
+Cosa rimane del serpente che divora la sua coda fino alla punta della sua lingua?"
+
+- - -
+
+
+La suora appoggiò il dito indice sul mento.
+"La colonna permette anche valori nulli.
+Se si interpreta la colonna come una domanda, la convenzione stabilisce che un valore nullo rappresenti una risposta sconosciuta".
+
+Disse il maestro:
+"Questo nulla è sia l'astuta pausa che precede una bugia,
+sia il dolce silenzio prima della rivelazione della verità.
+La sua essenza si basa interamente in quello che diventerà.
+Solo quando esso cessa di esistere possiamo conoscere ciò che era."
+
+Disse il Il Dio del <i>Silenzio Tra Le Parole</i>:
+"Il fantasma prende in prestito la forma dei defunti.
+Ma che forma possiamo dare allo spirito del non-nato?"
+
+- - -
+
+
+La suora unì le dita delle mani:
+"Prima che l'applicazione interroghi il database, il valore di questa colonna è sconosciuto.
+In seguito, qualsiasi valore nullo in questa colonna sarà rappresentato intenzionalmente come un valore booleano null.
+Il valore è quindi allo stesso tempo conosciuto e sconosciuto ".
+
+Disse il maestro:
+"Abbiamo appreso solo di non aver imparato nulla, ma questa è la radice della saggezza."
+
+Disse il Il Dio del <i>Silenzio Tra Le Parole</i>:
+"Il saggio e lo stolto giungono alla tomba nello stesso modo.
+Entrambi credono che il saggio sia uno sciocco. Dove sta la saggezza, dunque?"
+
+- - -
+
+
+La suora ripiegò le mani e le raccolse in grembo.
+"Il valore intero nullo persistente in SQL, diventa il booleano nullo nella memoria transitoria.
+Due <i>nulla</i>, di natura completamente diversa.
+Come può l'assenza essere diversa?"
+
+Il maestro annuì.
+
+Il Il Dio del <i>Silenzio Tra Le Parole</i> sollevò un sopracciglio.
