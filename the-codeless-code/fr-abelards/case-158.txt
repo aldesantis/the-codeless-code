@@ -1,0 +1,27 @@
+Number: 158
+Title: Comme un lundi
+Lang: fr
+Translator: abelards
+
+Lundi un moine fut envoyé à maître [[Kaimu]] demander,
+"Quel est le plus grand péril dans l'utilisation du cache ?"
+
+Kaimu répondit, "Lundi est mon jour le plus chargé.
+Demande-moi demain et je t'apprendrai tout ce que je sais."
+
+Le mardi, le moine revint poser la même question.
+
+Kaimu répondit, "Lundi est mon jour le plus chargé.
+Demande-moi demain et je t'apprendrai tout ce que je sais."
+
+== Le commentaire de Qi
+
+Si le moine avait posé une question différente, il n'aurait rien appris.
+
+== Le poème de Qi
+
+Eku demande à Mugen : "Tu es bien impoli avec le marchand, pourquoi ?" //
+Mugen dit : "Ce marchand m'a un jour vendu une pelle cassée." //
+Eku vida sur la tête de Mugen un grand seau d'eau bien froid -- //
+Elle expliqua : "Ma maison était en feu l'an dernier." //
+
