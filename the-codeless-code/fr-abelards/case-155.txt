@@ -1,0 +1,36 @@
+Number: 155
+Title: Pas besoin d'aide
+Lang: fr
+Translator: abelards
+Illus.0.title: D'après la boîte, l'ingrédient principal est de l'Aide-Aide-Poisson.
+
+Maître [[Suku]] révisait du code dans un temple lointain
+quand elle demanda à un moine expérimenter de souper avec elle.
+
+"J'ai grand espoir que vous pouvez m'aider," dit Suku
+en remuant le pot accroché au dessus du feu.
+"Dans le code de votre clan j'au trouvé des classes
+SoumissionEntite, SoumissionBaseDeDonnees, et SoumissionClient.
+Bien que /Entite/, /BaseDeDonnees/, et /Client/ ne soient
+pas dans les conventions de nommage de mon propre temple,
+vos moines les utilisent avec cohérence, et leur objectif est clair.
+Mais j'ai aussi trouvé des classes (NdT: Helper) comme
+AideSoumissionEntite, AideSoumissionBaseDeDonnees, et AideSoumissionClient.
+Que sont ces /Aides/ ?"
+
+"Parfois des décorateurs, parfois des adapteurs, parfois
+des utilitaires en méthodes statiques," dit le moine.
+"Parfois tout cela, ou aucun de cela."
+
+Suku revint avec deux bols, qu'elle posa devant elle et le moine.
+Dans son bol était un saumon magnifiquement grillé, sur lit de
+riz au safran, nappé de sauce miel-mirin et garni de graines de sésame
+grillé et de lamelles d'échalote.
+Dans le bol du moine on ne trouvait qu'une grosse masse rose,
+d'une texture semblable à du dentifrice. La masse bougeotait.
+
+"Qu'est-ce que c'est ?" demanda le moine, donnant nerveusement
+de petits coups de cuiller sur la masse rose.
+
+"Je l'ai trouvé dans un marché délabré dans les quartiers loqueteux de la ville,"
+dit Suku en se versant du thé. "Ils appellent ça de l'/Aide-Poisson/."
