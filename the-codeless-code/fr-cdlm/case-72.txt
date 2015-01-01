@@ -1,5 +1,7 @@
 Title: Trop hâtif
 Number: 72
+Lang: fr
+Translator: cdlm
 Credits: Quelques textures des illustrations mises à disposition par <a href="http://lostandtaken.com">Lost And Taken</a>.
 Illus.0.title: Au verso de la pancarte : PAS D'HABITS, PAS DE SOULIERS, PAS DE SERVICE.
 

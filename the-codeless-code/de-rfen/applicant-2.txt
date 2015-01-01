@@ -1,0 +1,71 @@
+Series: 1
+Number: 2
+Lang: de
+Translator: rfen
+Title: Die Bewerberin
+Subtitle: Ananthas Brunnen
+
+Aaradhya war viele Tage lang nach Norden gereist, als sie auf eine ernst blickende Gruppe Kinder stieß, die sich am Straßenrand außerhalb eines baufälligen Schulgebäudes versammelt hatte. Ihre nussbraune Haut war eine Winzigkeit heller als ihre eigene. Jedes Kind hielt einen abgenutzten alten Laptop mit einem einfachen Textbildschirm in den Händen, mit weißen Buchstaben auf grauem Hintergrund. Jeder Bildschirm zeigte denselben kurzen Programmtext.
+
+„Welche Sprache ist dies?“, fragte Aaradhya, als sie einem Jungen über die Schulter und auf einen der Bildschirme sah.
+
+„Es ist BASIC, Herrin“, antwortete der Junge. „Die Lehrerin begann erst letzte Woche damit, es zu unterrichten.“
+
+„Die Sprache hat sich stark verändert, seit ich in eurem Alter war“, stellte Aaradhya fest. „Wo sind die Zeilennummern?“
+
+„Sie sind nicht notwendig, Herrin.“
+
+„Doch wie wird dann GOTO benutzt?“
+
+„GOTO ist verboten, Herrin. Wir beschäftigen uns nur mit Algebra.“
+
+„Doch wie habt ihr dann Ananthas Brunnen programmiert?“
+
+Die Kinder sahen sich an, und Verwirrung spiegelte sich in ihren Gesichtern.
+
+„Aha“, sagte Aaradhya. „Jetzt verstehe ich, warum ihr alle ein Gesicht macht wie der Ochse, den man vor den Pflug gespannt hat. Als ich ein Mädchen war, war es Brauch, den allerersten Tag mit Ananthas Brunnen zu beenden. Hier...“ Die Novizin nahm vorsichtig den Laptop eines der Mädchen in die Hand. „Wie ist dein Name?“
+
+„Simbala, Herrin.“
+
+Aaradhya tippte:
+
+<pre>
+  10 PRINT "Hallo, Simbala!! ";
+  20 GOTO 10
+  RUN
+</pre>
+
+Der Bildschirm füllte sich mit einem endlosen, plätschernden Strom von
+
+<pre>
+  Hallo, Simbala!! Hallo, Simbala!! Hallo, Simbala!! Ha
+  llo, Simbala!! Hallo, Simbala!! Hallo, Simbala!! Hall
+  o, Simbala!! Hallo, Simbala!! Hallo, Simbala!! Hallo,
+   Simbala!! Hallo, Simbala!! Hallo, Simbala!! Hallo, S
+  imbala!! Hallo, Simbala!! Hallo, Simbala!! Hallo, Sim
+  bala!! Hallo, Simbala!! Hallo, Simbala!! Hallo, Simba
+  la!! Hallo, Simbala!! Hallo, Simbala!! Hallo, Simbala
+  !! Hallo, Simbala!! Hallo, Simbala!! Hallo, Simbala!!
+   Hallo, Simbala!! Hallo, Simbala!! Hallo, Simbala!! H
+  allo, Simbala!! Hallo, Simbala!! Hallo, Simbala!! Hal
+  lo, Simbala!! Hallo, Simbala!! Hallo, Simbala!! Hallo
+  , Simbala!! Hallo, Simbala!! Hallo, Simbala!! Hallo,
+  Simbala!! Hallo, Simbala!! Hallo, Simbala!! Hallo, Si
+  mbala!! Hallo, Simbala!! Hallo, Simbala!! Hallo, Simb
+  ala!! Hallo, Simbala!! Hallo, Simbala!! Hallo, Simbal
+  a!! Hallo, Simbala!! Hallo, Simbala!! Hallo, Simbala!
+  ! Hallo, Simbala!! Hallo, Simbala!! Hallo, Simbala!!
+  Hallo, Simbala!! Hallo, Simbala!! Hallo, Simbala!! Ha
+</pre>
+
+Wann immer eine neue Zeile am Ende des Bildschirms erschien, flossen die oberen Zeilen nach oben.
+
+„Nun versucht es alle mit euren eigenen Namen“, sagte Aaradhya zu den versammelten Kindern, obwohl sie sie nicht hätte fragen müssen; einige hatten den Quelltext bereits zur Hälfte eingetippt. Laptops wurden von Hand zu Hand gereicht und Ausgaben verglichen. Bei einigen Namen liefen die diagonalen Linien nach links, bei einigen nach rechts, und bei einigen waren sie so steil, dass sie beinahe unsichtbar waren. Bei einem Jungen mit einem besonders langen Namen wiederholte sich die Begrüßung nur in einer langweiligen, senkrechten Spalte. Aaradhya riet ihm, ein weiteres Ausrufezeichen hinzuzufügen&nbsp;&mdash; oder irgendein anderes Zeichen, das ihm gefiel&nbsp;&mdash; und wie erwartet zeigte sich das gewünschte Muster. Die anderen folgten seinem Beispiel, und im Nu wurden die Namen ersetzt durch pulsierende Wellen von Punkten, Strichen, Prozentzeichen und Schrägstrichen.
+
+Die alte Lehrerin trat aus dem Schulgebäude, als sie das aufgeregte Geplapper hörte. Als sie sah, was Aaradhya den Kindern beigebracht hatte, griff sie nach einem Besen und jagte die Novizin vom Gelände.
+
+„Törichtes Mädchen!“ sprach die Lehrerin. „Kannst du nicht sehen, dass wir in einem armen Dorf leben? Die einzige Hoffnung, die diese Kinder haben, ist ihren Beruf schnell und gut zu erlernen, und nicht Zeit zu vertrödeln mit zwecklosem Unsinn.“ Die Lehrerin hob wieder ihren Besen, doch Aaradhya wirbelte herum und schwang ihren Wanderstock über ihrem Kopf. Die alte Frau wich zurück.
+
+„Ganz im Gegenteil, Herrin“, grollte Aaradhya. „Ich habe Euch einen guten Dienst erwiesen, und eines Tages werde ich mit meinem eigenen Besen zurückkehren, um Genugtuung von Eurem faltigen Hinterteil zu verlangen. Habt Ihr niemals Kätzchen gesehen, die mit einem Stück Garn spielen? Ihr habt ein Rudel Tigerjunge genommen und sie nur angewiesen, einen Bären anzugreifen. Ich habe ihnen beigebracht, sich nach der Jagd zu sehnen.“
+
+

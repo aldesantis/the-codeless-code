@@ -1,0 +1,68 @@
+﻿Number: 18
+Lang: it
+Translator: mpas
+Title: Caratteristiche necessarie
+
+Lo stesso monaco del Clan Orma D'Elefante stava studiando
+attentamente il codice creato dal suo clan.  C'erano diverse
+implementazioni concorrenti di un particolare Data Access
+Object, e, al momento stava cercando di decidere quale
+sarebbe diventata quella definitiva, che sarebbe, poi, stata
+adottata dal suo clan.
+
+"Ogni implementazione ha peculiari virtù e difetti" disse il
+monaco al maestro Java.  "E ognuna ha caratteristiche che le
+altre non hanno.  Devo abbandonarle tutte al vento
+dell'oblio, tranne una. Come scegliere?"
+
+"Non posso rispondere quando ho sete", disse il maestro.
+"Nello stipo accanto a te ci sono tre tazze di legno.
+Riempine una dal fiume, la seconda dal pozzo del tempio e la
+terza dal mercante d'acqua nel villaggio.  Portami tutto
+senza versarne una goccia e io ti darò tutto l'aiuto che
+posso."
+
+Il monaco fece come richiesto e dispose i tre recipienti
+davanti al maestro.
+
+"Cosa hai appreso?" chiese il maestro.
+
+Il monaco si inchinò.  "Se si dà una moneta al mercante
+d'acqua nel villaggio, egli suona due volte un gong: una
+volta prima di riempire la tazza, e, di nuovo, quando hai
+bevuto il primo sorso.  Riempiendo la tazza dal pozzo del
+tempio, non suona alcun gong, ma il secchio è pesante.  Se
+si immerge la tazza nel fiume, i pesci si turbano e il dio
+del fiume deve essere placato con un'offerta di dieci pietre
+bianche."
+
+"Posso bere solo da una" disse il maestro. "Da quale
+riceverò più appagamento?"
+
+Il monaco ci pensò con attenzione.  "Il fiume era freddo, ma
+non completamente limpido.  Il pozzo del tempio, da cui ho
+bevuto in passato, ha acque amare di calcare.  Anche se non
+conosco personalmente il mercante d'acqua, oggi ho sentito i
+suoi gong molte volte.  Con questa evidenza, io sceglierei
+la coppa del mercante."
+
+"Una ragionevole conclusione" disse il maestro. "Infatti, ho
+visitato questo stesso mercante d'acqua ogni mattina per
+otto anni, e ho trovato ogni volta l'esperienza
+perfettamente soddisfacente. Qual è il recipiente che ha
+riempito?"
+
+Il maestro bevve dalla coppa indicata, e sul suo volto si
+affacciò la delusione.  "Giovane fratello," disse. "Hai
+completamente frainteso la mia sete. Dov'è il suono del
+gong?"
+
+- - -
+
+<blockquote> La sete del maestro è inappagata<br> ma il
+monaco ha la sua risposta-<br> quale suono aveva la tazza
+che versò?<br> <br> Il monaco avrebbe fatto meglio<br> se
+avesse fissato un incensiere d'ottone sul davanzale della
+finestra<br> e semplicemente atteso la pioggia.
+<blockquote>
+

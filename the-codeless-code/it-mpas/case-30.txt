@@ -1,0 +1,55 @@
+﻿Number: 30
+Lang: it
+Translator: mpas
+Title: Tazze
+
+Il maestro Java Bawan disse: "Al mercato, un mendicante
+non possiede nulla, tranne tazze vuote.  Se gli si riempono
+tutte, tranne una, con del tè, egli ve ne sarà grato, ma
+versando anche una sola goccia nell'ultima, egli morirà di
+sete istantaneamente.  Spiegate questo."
+
+Nessun monaco potè rispondere alla domanda di Bawan. Il
+maestro si ritirò, quindi, nelle sue stanze.
+
+Quella sera, quattro studenti bussarono alla sua porta,
+in cerca di aiuto per un programma maligno.  I suoi file di
+log traboccavano, letteralmente, di eccezioni
+<i>ArrayIndexOutOfBounds</i>, l'esistenza delle quali, gli
+studenti insistevano fosse impossibile: la matrice in
+questione era stata dichiarata per contenere un migliaio di
+elementi, e l'indice, un intero costituito da un singolo
+byte, non avrebbe mai potuto superare il valore 255, per
+definizione.
+
+Il maestro Bawan indicò un oggetto in un angolo. "Che
+cosa è questo?" Chiese ad ogni studente.
+
+"Una scopa", dissero, uno alla volta.
+
+Bawan afferrò la scopa e l'agitò in ampi movimenti sopra
+le teste degli studenti.  Le fotografie appese alle pareti
+vennero spazzate via e caddero a terra volteggiando.  Vasi e
+coppe furono scaraventati giù dagli scaffali. I paraventi di
+carta [di riso, NdT] si strapparono.  La polvere fu
+scrollata giù dalle travi.
+
+"Non una scopa!" Gridava il maestro Bawan, continuando a
+rotearla ancora, come un pazzo. "Non una scopa!"
+
+
+== Commento di Qi
+
+Ciascuna delle coppe del mendicante è simile in tutto e
+per tutto a quella che gli sta accanto, eppure ognuna
+contiene il doppio della capacità della coppa alla sua
+destra.  Ora, dite rapidamente di cosa si tratta.
+
+
+== Poesia di Qi
+
+Nella mano di un mendicante, il bastone suscita pietà. //
+Nella mano del maestro, paura. //
+Queste qualità non sono dentro il bastone: //
+ma nel <i>"dove"</i> in cui si trova.
+

@@ -1,0 +1,30 @@
+﻿Number: 1
+Lang: it
+Title: Le Piccole Cose
+Translator: mpas
+Illus.0.title: Se gli chiedi perch&eacute; i piedi nudi sono vietati nel tempio, si ottiene la stessa risposta.
+
+
+Per tre giorni e tre notti il maestro Java non uscì dalla
+sua cella.  Il quarto giorno i monaci del tempio inviarono
+un novizio per avere sue notizie.
+
+Il novizio trovò il maestro in contemplazione di un digramma
+di flusso sulla sua lavagna.  Il novizio riconobbe in esso
+un componente minore di un vasto sistema di cui i monaci
+avevano l'appalto per la manutenzione.  Educatamente, il
+novizio chiese al maestro su cosa stesse lavorando.
+
+Il maestro rispose: "C'è un difetto e sto valutando il modo
+migliore per eliminarlo."
+
+Il novizio replicò: "Tu hai spesso predicato l'importanza di
+stabilire le priorità. Come puoi essere così ossessionato da
+qualcosa di così piccolo e poco importante?"
+
+Senza dire una parola, il maestro alzò il bastone e lo
+abbatté con forza sul nudo piede sinistro del novizio,
+rompendogli il dito mignolo. Il novizio, gridando di dolore,
+uscì barcollando dalla cella.  In quel momento il novizio
+raggiunse l'illuminazione.
+

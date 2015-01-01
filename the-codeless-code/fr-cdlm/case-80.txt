@@ -1,0 +1,34 @@
+Title: Une classe à part
+Number: 80
+Lang: fr
+Translator: cdlm
+Illus.1.title: Il faut dire aussi qu'il grignotait des trucs croustillants à longueur de journée. Ça lui pendait au nez.
+
+
+Maître Java [[Bawan]] et un jeune moine à sa charge marchaient le long d'une route quand ils croisèrent un émissaire de l'Empereur.
+
+Après que les salutations usuelles aient été échangées, l'émissaire se tourna vers Bawan et, avec dédain, demanda :
+« Pourquoi votre moine ne soigne-t-il pas son apparence selon les édits impériaux sur la tenue professionnelle ?
+Son visage n'est pas rasé, ses chaussures impardonnablement chamarrées, et ses robes faites de coton bon marché avec un slogan humoristique ornant le dos.
+C'est vous manquer de respect à l'extrême !
+Comment pouvez-vous tolérer cela ? »
+
+D'une voix hautaine, Bawan rétorqua :
+« Il ne s'agit pas d'un quelconque pousse-billes employé d'une maison comptable, ni d'un scribe de dixième rang dans la Grande Bureaucratie !
+/Cet homme/ est un moine du  [[Temple of the Morning Brass Gong|Temple du Gong d'Airain du Matin]], qui pratique les arts glorieux de Java, C, et PHP ;
+de Python et Perl ; shell Bourne et shell Korn ; SQL, JPL, XML, CSS3, et Javascript également.
+Il peut -- par le simple mouvement de ses doigts sur un clavier -- invoquer en ce monde des sites web entiers, via lesquels chevaux et armures dignes des plus riches régiments de l'Empereur peuvent être commandés, livraison sous deux jours garantie.
+Il a démontré ses compétences à la fois en débogage et en re-bogage :
+le yin et le yang autour desquels l'entièreté du commerce gravite !
+Ni lui ni ses confrères ne peuvent /respecter/ ou /accepter/ le joug des idéaux triviaux de notre génération en matière d'hygiène corporelle.
+Les moines de son Temple sont une classe à part ! »
+
+Remis en place, l'émissaire salua froidement et reprit son chemin.
+
+Quand celui-ci fut hors de portée de voix, le jeune moine eut un sourire narquois et dit à Bawan :
+« Cet émissaire devait être un bel idiot, pour qu'à notre époque on doive lui expliquer de telles choses. »
+
+Bawan jeta un coup d'œil au moine, à sa barbe de trois jours et à ses vêtements irrévérencieux.
+Sans avertissement, le maître abattit son bâton sur la nuque du moine, le tuant sur le coup.
+
+« Moi aussi, je suis d'une classe à part, » dit Bawan pensivement.

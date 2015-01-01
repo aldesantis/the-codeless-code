@@ -1,0 +1,23 @@
+﻿Number: 25
+Lang: it
+Translator: mpas
+Title: Compromesso
+
+<p>Due monaci si presentarono al maestro Java con strategie
+di implementazione molto diverse per un particolare
+progetto. Ognuno perorò il suo caso con passione e
+convinzione.</p>
+
+<p>Dopo alcune considerazioni, il maestro disse loro di
+dividere i sottosistemi. Ogni monaco ne avrebbe preso metà e
+avrebbe potuto procedere con la strategia preferita.</p>
+
+<p>Il primo monaco protestò: "Ogni problema, non ha forse
+una soluzione che sia superiore a qualsiasi altra?"</p>
+
+<p>Il secondo monaco era altrettanto infelice: "E quando la
+scelta migliore non è chiara, non è generalmente meglio
+procedere in modo coerente, e quindi evitare il caos?"</p>
+
+<p>"Sì", disse il maestro Java. "Possibile che entrambi non
+stavate prestando attenzione?"</p>

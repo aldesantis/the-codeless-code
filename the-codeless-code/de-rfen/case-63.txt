@@ -1,0 +1,17 @@
+Number: 63
+Lang: de
+Title: Fesseln
+Translator: rfen
+Illus.0.title: Vielleicht überdenkt sie den Umzug noch einmal, wenn die Lawinensaison beginnt
+
+<p>Die Nonne Zjing wurde seit einiger Zeit von einer Abneigung gegen Höhen geplagt. Ein junger Mönch fand sie in ihrem neuen Quartier: einer kleinen Hütte, die sich am tiefsten Punkt eines Tales an den Boden schmiegte, 700 Fuß unter dem Tempel.</p>
+
+<p>Der Mönch setzte sich auf den Boden, da Zjing nur auf dem Boden liegend arbeitete.</p>
+
+<p>„Ich habe ein sehr elegantes Teilsystem für unsere Bilderstellungs-Pipeline geschrieben“, sprach der Mönch. „Es hat den Durchsatz enorm erhöht, ist jedoch sehr empfindlich. Jede Änderung muss mit größter Vorsicht erfolgen, oder Chaos wird die Folge sein. Ein volles Jahr lang habe ich den Quelltext gewartet und niemand anderem anvertraut. Nun liegen meine Nerven blank. Ich muss mich anderen Projekten zuwenden oder den Verlust dessen riskieren, was von meinem Verstand noch übrig ist.“</p>
+
+<p>„Ich verstehe“, sprach Zjing und klammerte sich am Boden fest, während sie sich aufrecht hinsetzte, um den Code auf dem Laptop des Mönchs zu untersuchen. „Du fürchtest den unvermeidlichen Tag, an dem dein Nachfolger eine unbedachte Änderung vornimmt und das ganze System zusammenbricht.“</p>
+
+<p>„Ja&nbsp;&mdash; denn ich werde dafür verantwortlich gemacht werden, und das zu Recht!“, rief der Mönch. „Wie kann ich am besten sicherstellen, dass eine solche Katastrophe niemals eintritt? Durch ausführliche Kommentare <em>im</em> Quelltext? Durch ausführliche Dokumentation <em>außerhalb</em> des Quelltextes? Durch hunderte Komponententests, die fehlschlagen, sobald fehlerhafte Änderungen vorgenommen werden? Indem ich den Quelltext mit hunderten Konsistenzprüfungen durchsetze&nbsp;&mdash; und damit seine Komplexität nur noch weiter vergrößere? Oder, indem ich dieses Projekt betreue, bis mein Gehirn zu Brei geworden ist?“</p>
+
+<p><em>„Wú“</em>, sprach die Nonne. Sie wählte das Verzeichnis aus, das den Quelltext des Teilsystems enthielt, drückte die Löschen-Taste und kroch zur Tür hinaus.</p>

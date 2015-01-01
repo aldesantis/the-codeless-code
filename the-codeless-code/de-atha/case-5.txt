@@ -1,0 +1,39 @@
+﻿Number: 5
+Lang: de
+Translator: atha
+Title: Void
+
+An einem kalten Herbstmorgen erwachte der Java-Meister beunruhigt. Er ging alleine los, um sich einen klaren Kopf zu verschaffen.
+
+Bald gelangte er an die Tore des Tempels der Drei Steine, wo die Kunst des ANSI C immer noch ausgeübt wurde. Ein gelehrter Mönch stand Wache.
+
+"Was ist das Wesen von /void/?", fragte der Meister.
+
+"Es hat kein Wesen", antwortete der Mönch. "Es ist der von jenem Hund geholte Stock, der keine Stöcke holt. Es ist das von jener Hand gezeigte Ding, die auf nichts zeigt. Es ist das perfekte Abhandensein von Wert.
+
+Der Meister dachte: "Der Tempel der drei Steine benötigt keine Wache. Es kann sich darin nichts Wertvolles befinden."
+
+Ein Stück weiter kam er zum Tempel des White Iron Sky, ein Ort der Theoretiker, wo nur ML erlaubt war. Im verdorrten Garten schrieb eine Nonne Lambda-Ausdrücke in den Staub.
+
+"Was ist das Wesen von /void/?", fragte der Meister.
+
+"Es hat die Farbe der Luft, und das Gewicht des aufsteigenden Nebels", antwortete die Schwester. "Es macht das Geräusch des Neumonds, der hinter einer Wolke verschwindet. Jede leere Schüssel enthält beliebig viele davon."
+
+Der Meister dachte: "Die Schwester hat nicht gelogen, doch auch nichts Wahres gesagt."
+
+Weiter der Straße entlang kam der Meister zu einer grandiosen Villa, wo eine alte Frau die Hecke stutzte.
+
+"Was ist das Wesen von /void/?", fragte der Meister.
+
+Die alte Frau verneigte sich und setzte ihre Arbeit fort.
+
+Der Meister dachte: "Hier ist die reinste Wahrheit, oder aber nur der Mangel davon."
+
+Schlussendlich kam der Meister an einen verlassenen Friedhof.
+
+"Was ist das Wesen von /void/?", fragte der Meister.
+
+Aus dem leeren Hof kam keine Antwort.
+
+Der Meister war zufrieden.
+

@@ -1,0 +1,32 @@
+﻿Number: 40
+Lang: it
+Translator: mpas
+Title: Autorità
+
+Lo scriba chiese al maestro Java: "Perché mi fai catalogare
+tante storie di studenti che necessitano correzione?"
+
+Il maestro rispose: "Cosichhè uno stolto possa leggerli, e
+rendersi conto che egli è uno stolto."
+
+Lo scriba disse: "Ma è la mera ignoranza o l'errore a fare
+di qualcuno uno stolto?"
+
+Il maestro rispose: "No. Lo stolto è colui che si fa
+chiamare 'maestro' e parla con una parvenza di autorità.  Il
+suo errore inizia quando apre bocca, e si moltiplica quando
+la chiude, lasciando molte cose non dette."
+
+Lo scriba gli disse: "Allora non sarebbe più saggio, sia per
+lo studente che per lo scriba, non dire niente?"
+
+Il maestro disse: "In effetti, la mia stessa esistenza sulle
+tue pagine inizia e termina con un errore.  Se ne avessi
+avuto sentore, avrei gettato il tuo libro in mare. "
+
+Lo scriba gli disse: "Qui non c'è nessun libro qui, e
+nemmeno il mare, e comunque ti mancano mani e un corpo per
+eseguire la cosa."
+
+Il maestro disse: "Allora io sono soddisfatto."
+

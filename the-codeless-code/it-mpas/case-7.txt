@@ -1,0 +1,43 @@
+﻿Number: 7
+Lang: it
+Title: Il Nemico Del Bene
+Translator: mpas
+
+I monaci del Clan Scimmia Ridente si avvicinarono al maestro
+Java con un elenco di rimostranze.
+
+"La nostra più grande frustrazione è il processo di test,"
+insistette il monaco più giovane.  "Il test manuale è
+noioso, e quelli automatici sono problematici da mettere
+assieme.  Entrambi sono distrazioni dalla nobile attività di
+creare codice."
+
+Il maestro, dopo una breve considerazione disse: "Potremmo
+rinunciare ai test del tutto, se fossimo certi della
+perfezione del codice.  Come possiamo, dunque, raggiungere
+la perfezione?"
+
+"Attraverso la pratica", disse un monaco.
+
+"Attraverso lo studio diligente," disse un altro.
+
+"Propiziandoci gli dei", disse un terzo.
+
+Un vecchio moncao dalla barba bianca, che era rimasto seduto
+in un angolo in silenzio, alzò la testa:
+
+"Io so come raggiungere la perfezione", disse.  "Ma temo che
+coloro che ascolteranno la mia risposta si convinceranno
+della sua verità soltanto se pronuncerò esattamente le
+giuste parole, con la più piacevole delle intonazioni, nel
+momento più propizio della giornata.  Ora devo riflettere al
+miglior modo di farlo. "
+
+Il vecchio monaco tacque a lungo. Alla fine si udì il suono
+della campana che annunciava la cena.
+
+"Quanto tempo ci vorrà?" Chiese uno dei novizi.
+
+"Non più di un centinaio di anni", fu la risposta del
+vecchio monaco.
+

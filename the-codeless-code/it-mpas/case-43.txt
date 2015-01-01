@@ -1,0 +1,37 @@
+﻿Number: 43
+Lang: it
+Translator: mpas
+Title: Buchi
+
+La Badessa Jinyu stava ispezionando lo stato del Clan
+Scimmia Ridente.  Nella sala si imbattè in un monaco
+semi-annegato, bagnato e tremante.
+
+"Spiegati", disse la badessa.
+
+"Il m-m-maestro mi ha ordinato di tirare a secco la sua
+b-b-archetta dal f-f-fiume", disse il monaco battendo i
+denti.  "Mentre ero ancora lontano dalla riva ho scoperto
+che aveva m-m-molti fori sulle fiancate.  La m-m-maggior
+parte di essi erano stati turati con tappi di sughero, ma
+d-d-due erano stati trascurati.  Se non li avessi tappati
+con le mie d-d-dita sarei m-m-morto".
+
+La Badessa si inchinò e andò a trovare il maestro Java.
+
+"Spiega", disse la Badessa, indicando il monaco.
+
+"A questo monaco è stato dato il compito di implementare il
+carrello della spesa per il nostro nuovo sito," disse il
+maestro.  "Ha scoperto che se un particolare valore del
+database non fosse inizializzato, i tentativi di
+visualizzare il carrello fallirebbero.  Così il monaco ha
+cercato ogni pagina che offriva un collegamento al carrello
+e ha tentato di inizializzare la voce del database da lì.
+C'erano più di una dozzina di tali pagine. Deplorevolmente,
+due sono state trascurate."
+
+La badessa colpì il maestro con il suo bastone.
+
+"La prossima volta," disse, "fai più buchi."
+

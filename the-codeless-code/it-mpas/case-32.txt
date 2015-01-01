@@ -1,0 +1,45 @@
+﻿Number: 32
+Lang: it
+Translator: mpas
+Title: Erbacce
+
+Al tempio c'era bisogno di uno sviluppatore
+supplementare, e due potenziali iniziati si erano candidati
+per la posizione.  Il maestro Java, [[Banzen]], inviò un monaco
+a intervistarli.
+
+"Sono parimenti qualificati su tutti i fronti", riferì il
+monaco quella sera.  "Di identica età, peso, stato civile,
+adattabili, competenti con la spada, e prediligono bevande
+contenenti caffeina.  Così ho posto lo stesso quesito di
+logica ad entrambi.  Uno non è riuscito a risolverlo,
+l'altro, invece si".
+
+Il maestro Java disse: "Portami nelle stanze dove si è
+svolto il colloquio."
+
+Andarono prima nella stanza del candidato che aveva
+fallito.  Il suo lavoro al problema era ancora scritto a
+pennarello verde giada sulla lavagna.  Su di essa, da parte
+a parte, sfilavano dolorosamente cifre ordinate,
+dolorosamente, in precise righe e colonne.  Il maestro Java
+trovò rapidamente l'errore nel ragionamento del
+candidato.
+
+Il maestro Java disse: "Ecco un cespuglio di piante di
+pisello, che lottano per sopravvivere alla neve
+invernale. Se le coltiviamo, in primavera ceneremo come si
+deve."
+
+Subito dopo entrarono nella stanza del candidato che
+aveva avuto successo.  Anche qui il problema critico era
+stato annotato con un pennarello verde, ma era sparso senza
+alcun ordine sulla lavagna.  Scarabocchi affrettati si
+avvolgevano intorno e sopra, attraversandosi in un denso
+intrico di strani segni.
+
+Il maestro Java scosse la testa. "Qui, mi dicono che, si
+trovano citronella e aneto freschi, ma non li troveremo mai
+tra le erbacce."
+
+

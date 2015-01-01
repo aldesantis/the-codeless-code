@@ -1,0 +1,45 @@
+Series: 1
+Number: 3
+Lang: de
+Translator: rfen
+Title: Die Bewerberin
+Subtitle: Rechnen
+
+Aaradhya war kaum über die Grenzen des Dorfes hinaus, als sie eine hohe Stimme hinter sich auf der Straße <i>„Herrin, Herrin!“</i> rufen hörte. Ein Junge folgte ihr und winkte dabei aufgeregt. Als er auf dem Staub neben ihr rutschend zum Stehen kam, erkannte Aaradhya in ihm einen der BASIC-Schüler vom Schulhof. Er war etwa sieben Jahre alt, barfüßig und ohne Hemd, gekleidet nur in eine zu große, graue Hose, deren Muster schon lange verblasst war. Sein Haar war glatt und so schwarz wie Aaradhyas eigenes, und seine Haut war genauso braun, doch hatten seine Augen einen ungewöhnlichen Grünton.
+
+„Herrin!“ keuchte der Junge. „Mein Großvater wünscht mit euch zu sprechen!“ Er nahm ihre Hand und bedeutete ihr, ihm entlang der Straße zurück ins Dorf zu folgen.
+
+Der Großvater humpelte auf sie zu, während er die sengende Mittagssonne mit einem löchrigen Schirm abhielt. Sein Haar war weiß, und wie der Junge war er in fadenscheinige Kleidung gehüllt, deren Farben schon vor langer Zeit an die Elemente verloren gegangen waren. Als er sich näherte, schloss er den Sonnenschirm und begrüßte Aaradhya mit einer leichten Verbeugung, wobei seine Handflächen einander vor seiner Brust berührten. Aaradhya erwiderte die Geste.
+
+„Die Lehrerin taugt nichts“, sagte der Großvater, „und der Junge muss vernünftig unterrichtet werden. Oder er wird enden wie sein Vater, ein gebrochener Mann, der nur Tabellenmakros und gelegentlich eine .BAT-Datei erstellen darf.“
+
+„Das ist ein weit verbreitetes Schicksal“, räumte Aaradhya ein.
+
+„Wie ich höre, seid Ihr eine Lehrerin von nicht geringen Fähigkeiten“, fuhr der alte Mann fort. „Erfahren nicht nur in BASIC, sondern auch in den wertvollen Künsten von Java und C.“
+
+Aaradhya hob eine Augenbraue. „Mein BASIC ist bedauerlicherweise veraltet. Und während es stimmt, dass ich meine Ausbildung in Java abgeschlossen habe, so bin ich doch weit davon entfernt, als Meister bezeichnet werden zu können.“
+
+„Dennoch übersteigt Euer Wissen das aller anderen in diesem Dorf. Könnt Ihr nicht eine Weile bleiben, um jene zu unterrichten, die es wünschen?“
+
+„Mein eigener Meister kannte ein Sprichwort“, sprach Aaradhya. „Das MAX_VALUE von Byte mag von der Null beneidet werden, doch ist es weit entfernt vom MAX_VALUE von Integer.“ Sie fuhr geistesabwesend mit der Hand über den Saum ihres äußeren Gewands. „Tatsächlich ist eine solche Typumwandlung der Grund dafür, dass ich gen Norden reise. Der Tempel des Bronzenen Gongs des Morgens hält Prüfungen für neue Novizen ab, just in diesem Monat. Deshalb wage ich nicht, auch nur einen Tag zu verweilen, denn sonst sind ihre wenigen offenen Stellen schon besetzt.“
+
+„Ah“, klagte der Großvater. „Ich hörte von diesem Tempel. So weit entfernt, und zudem jenseits der Berge! Würde es Euch nicht besser nützen, wenn Ihr mit Hilfe einer Art Verbrennungsmotor mit Rädern reisen könntet?“
+
+Aaradhya lachte. „Ihr könntet genauso gut fragen, ob es mir nicht besser nützen würde, wenn mir Flügel wüchsen und ich flöge! Selbst wenn eine solche Maschine in dieser Gegend gefunden werden könnte, so hätte ich nicht genug Geld dafür, sie zu kaufen, nicht einmal für den Treibstoff.“
+
+„Vielleicht, vielleicht“, sprach der alte Mann und lächelte ein halb zahnloses Lächeln. „In Reechee gibt es einen Fahrer, der die Berge täglich in einem solchen Gefährt überquert, einem ganz wundersamen Transportmittel, das er aus einem alten Zugwaggon gebaut hat. Er nennt es einen <i>Bus</i>, denn es befördert viele Passagiere zugleich. Er und ich sind entfernte Vetter, und vielleicht kann ich ihn überzeugen, Euch ohne Bezahlung mitzunehmen.“ Der Großvater öffnete seinen Sonnenschirm wieder und ging in Richtung des Dorfes. „Ich bitte nur darum, dass Ihr den Jungen unterrichtet, während wir gehen.“
+
+„Reechee ist gute drei Tage entfernt“, sagte Aaradhya nervös. „Doppelt so lang auf Euren alten Beinen. Und es liegt in der falschen Richtung!“
+
+„Eine sechstägige Wanderung und zwei Tage mit dem Bus gegen drei Wochen zu Fuß“, erwiderte der Großvater. Er zog den Jungen an seine Seite. „Diese Rechnung ist in jeder Sprache einfach. Sie kann sogar in Bytes erfolgen.“
+
+Aaradhya hielt inne; der Großvater ignorierte sie und ging weiter. Der Junge warf ein paar verstohlende Blicke zurück, doch jedes Mal drehte der Großvater den Kopf des Jungen mit fester Hand wieder nach vorn.
+
+„Wie kann ich sicher sein, dass Euer Vetter mich mitnehmen wird?“ rief Aaradhya.
+
+„Das könnt Ihr nicht!“ rief der Alte, ohne sich umzudrehen. Er hob einen Zeigefinger. „Das Leben ist ein probalistischer Algorithmus, wo selbst eine optimale Eingabe ein schlechtes Ergebnis liefern kann. Doch jede Minute, die wir streiten, ist verlorene Zeit, und die Minuten sind wertvoll für uns beide.“
+
+Die beiden Gestalten verschwanden hinter einer Biegung, und Aaradhya war allein.
+
+Sie blieb eine weitere Minute lang stehen und stritt mit sich selbst, dann fluchte sie leise und lief die Straße entlang, hinter ihnen her.
+

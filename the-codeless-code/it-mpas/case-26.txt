@@ -1,0 +1,26 @@
+﻿Number: 26
+Lang: it
+Translator: mpas
+Title: Il Monaco Fallace
+
+<p>Due sacerdoti del Clan dell'Aquila Cieca Dai Sette
+Artigli trovarono il maestro Java Banzen alla sua tastiera,
+in singhiozzi.  Chiesero che cosa lo affliggesse a tal
+punto.</p>
+
+<p>"Il codice di questo monaco è peggiore di un baratro,"
+disse il maestro.  "La struttura del pacchetto è
+controintuitiva, i nomi delle classi non le descrivono, i
+metodi eccessivamente complessi, ed i commenti del tutto
+inutili.  Negli ultimi dieci anni ha partecipato a tutte le
+mie lezioni, e in verità, ha seguito le mie istruzioni alla
+lettera.  Tuttavia, i frutti delle sue fatiche sono
+sgradevoli oltre ogni limite."</p>
+
+<p>Il primo sacerdote guardò il codice. "Certo, la
+correzione è necessaria. Ti suggerirei di iniziare con una
+semplice fustigazione".</p>
+
+<p>Il maestro sospirò e annuì, poi abbassò il drappeggio
+della veste denudando, in tal modo, le spalle.</p>
+

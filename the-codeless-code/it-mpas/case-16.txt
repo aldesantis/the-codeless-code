@@ -1,0 +1,36 @@
+﻿Number: 16
+Lang: it
+Translator: mpas
+Title: Documentazione
+
+<p>L'abate del Clan Aquila Cieca Dai Sette Artigli stava
+verificando il numero degli elementi da consegnare preparati
+dai monaci del tempio, quando notò che un monaco del Clan
+Scimmia Ridente non aveva prodotto nessun documento di
+progettazione.</p>
+
+<p>"E se venisse scoperto un problema nel sistema di
+produzione?" l'abate chiese al monaco. "Chi, a parte te,
+potrebbe capirne la causa?"</p>
+
+<p>"Si esamini il codice stesso", disse il monaco.  "Un
+Documento è una brutta bestia, facilmente preda del Triplice
+Flagello dell'Errore: Omissione, offuscamento, e
+obsolescenza"</p>
+
+<p>L'abate segnalù la cosa al maestro Java, che sentenziò:
+"Che il monaco resti in equilibrio su un piede solo con il
+suo bastone proteso, ogni giorno, dal tramonto a mezzanotte.
+Se sarà in grado di pronunciare una parola che mi
+compiacerà, revocherò la punizione, ma non altrimenti."</p>
+
+<p>"Esiste tale parola?" chiese l'abate.</p>
+
+<p>"È difficile essere certi," riflette il maestro.  "Ieri
+sono stato compiaciuto dal frinire di un grillo frinire dopo
+le prime tre gocce di pioggia.  Il giorno prima, lo
+sciabordio del latte in un secchio mi ha restituito un
+piacevole ricordo della mia giovinezza.  Forse la risposta
+sta nel profumo di un fiore di loto bianco che, una volta,
+passò alla deriva nello stagno sotto la mia finestra".</p>
+

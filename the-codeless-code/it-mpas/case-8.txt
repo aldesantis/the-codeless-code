@@ -1,0 +1,22 @@
+﻿Number: 8
+Lang: it
+Translator: mpas
+Title: Sfoltire, Riusare, Riciclare
+
+Un novizio chiese al grande maestro: "Qual è la Via?"
+
+Il maestro rispose: "La scrittura del codice è la Via."
+
+Il novizio allora chiese: "Cosa non è la Via?"
+
+Il maestro rispose: "Scrivere codice non è la Via."
+
+Il novizio replicò: "Allora la scrittura del codice è
+l'essenza di tutte le cose."
+
+Il maestro rispose: "E anche la non-scrittura lo è."  Il
+novizio chiese: "In questo momento, stiamo scrivendo o
+non-scrivendo del codice?"
+
+Il maestro rispose: "Noi siamo il codice."
+

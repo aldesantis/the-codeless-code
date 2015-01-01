@@ -1,0 +1,50 @@
+﻿Number: 36
+Lang: it
+Translator: mpas
+Title: Divisione
+Illus.0.title: Non abbiamo mai superato 14.
+
+Il Clan Del Passerotto era in disgrazia e regnava il
+disordine.  Il monaco superiore aveva scelto una morte
+onorevole con il rituale seppuku, ma la paura di ulteriori
+tagli al personale aveva messo i restanti monaci gli uni
+contro gli altri.  Ad un sacerdote era stata assegnata
+l'amministrazione del clan per ristabilirne l'ordine, ma i
+suoi sforzi furono vani.
+
+"La sottrazione di uno ha portato alla divisione di
+tutti", disse il sacerdote all'abate.  "Dobbiamo correggere
+il resto del clan, prima di essere un cattivo esempio per il
+tempio."
+
+"Non vedo alcuna necessità di disciplina," sospirò
+l'abate, che era noto per la sua eccessiva clemenza.  "Sarà
+più semplice sciogliere il Clan Del Passerotto. Quanti
+monaci rimangono?"
+
+"Sei", replicò il sacerdote.
+
+"Bene. Inviane la metà ad un clan di tua scelta, e metà
+ad un altro."
+
+Il sacerdote cominciò a protestare, ma, ripensandoci, si
+limitò ad un rigido inchinò e andò.  Quella sera convocò i
+monaci litigiosi.  Con un unico turbinio della sua lama li
+sezionò con un taglio netto all'altezza della vita.
+
+"Invia le parti superiori al Clan Scimmia Ridente, e le
+parti inferiori al clan Orma D'Elefante", disse a uno dei
+suoi novizi.  "E digli di considerare quest'offerta il
+prezzo della discordia."
+
+Il sacerdote, poi, riferì all'abate: "Ho fatto come hai
+ordinato, e in verità tutte le discussioni sono
+cessate".
+
+== Nota dell'editore
+
+Dato l'interesse manifestato da alcuni lettori, una versione
+del poster di dimensioni maggiori può essere scaricata sia
+in formato <a href="/cases/36/poster-it.png">PNG</a>
+che <a href="/cases/36/poster-it.svg">SVG</a>.
+

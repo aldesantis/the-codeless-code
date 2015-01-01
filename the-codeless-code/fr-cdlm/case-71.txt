@@ -1,5 +1,7 @@
 Title: Les six hôtes indésirables
 Number: 71
+Lang: fr
+Translator: cdlm
 Credits: Quelques textures des illustrations mises à disposition par <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
 Illus.0.title: Esquive *ça*.
 

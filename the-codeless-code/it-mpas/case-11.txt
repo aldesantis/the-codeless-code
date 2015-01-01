@@ -1,0 +1,29 @@
+﻿Number: 11
+Lang: it
+Translator: mpas
+Title: Gabbie
+
+<p>Per evitare ulteriori proliferazioni di codice ridondante, 
+l'abate del Clan Orma D'Elefante decretò che i suoi monaci producessero codice prettamente specifico per le applicazioni. 
+Tutto ciò che era di carattere più generale doveva essere proposto a un Sottocomitato Riuso Software, 
+che ricercando soluzioni open source, pesasse i meriti della proposta rispetto alle esigenze delle varie 
+applicazioni, e modificasse il design a piacimento dei membri del comitato, poi (se i segni fossero stati favorevoli) 
+mettesse il progetto nella fase di attuazione. 
+L'intero processo, dalla concezione alla realizzazione, prese molte settimane.</p>
+<p>Quando la notizia di questa decisione raggiunse il maestro Java, questi inviò all'abate due pregiati uccelli 
+canori, in due gabbie di bambù separate, di ideazione del maestro Java stesso. 
+Nella sua lettera chiedeva che gli uccelli venissero restituiti la settimana successiva.</p>
+<p>Le sbarre della prima gabbia erano distanti un palmo: l'uccello sfuggì facilmente durante il viaggio.</p>
+<p>Le sbarre della seconda gabbia erano così vicine che, né luce, né aria, potevano passare. 
+L'uccello fu rinvenuto morto all'arrivo.</p>
+<p>Su entrambe le gabbie c'era una poesia scritta di pugno dal maestro:</p>
+<blockquote>
+	Lungo la strada<br>
+    tra aria e feretro<br>
+    giacciono le numerose gabbie.<br>
+    <br>
+    La casa del mughetto<br>
+    non è condivisa<br>
+    dal verme e dal toro.
+</blockquote>
+

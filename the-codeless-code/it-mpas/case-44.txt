@@ -1,0 +1,50 @@
+﻿Number: 44
+Lang: it
+Translator: mpas
+Title: Il Monaco Tardo
+Title-footnote: *
+Illus.0.title: La garanzia della camera d’aria non copre le forature causate da rocce taglienti. Questi danni non sono riconosciuti nemmeno dalla copertura sanitaria del tempio.
+
+
+Un monaco aveva uno strano metodo di scrivere codice.
+Quando gli veniva presentato un problema, per prima cosa
+scriveva molti test automatici per verificare che il codice
+non ancora scritto fosse corretto.  Questi sarebbero,
+ovviamente, falliti, poichè non c'era ancora nulla da
+testare.  Solo quando i test erano completi il monaco si
+sarebbe messo al lavoro sul codice desiderato, procedendo
+diligentemente fino a quando tutti i test fossero passati.
+
+I suoi fratelli ridicolizzavano questo processo, che faceva
+si che il monaco producesse, per l'applicazione, solo la
+metà di quanto producevano i suoi pari, e, anche allora,
+solo dopo un lungo ritardo.  Lo chiamavano Luohou, il Monaco
+Tardo.
+
+Il maestro Java, Banzen, sentendo parlare di questo,
+dichiarò: "Indagherò".
+
+Al suo ritorno, il maestro decretò che tutti i membri del
+clan che avessero terminato le assegnazioni settimanali
+avrebbero potuto accompagnarlo alla piscina come ricompensa
+per la loro efficienza.  Il Monaco Tardo rimase indietro, da
+solo.
+
+In cima alla piattaforma per i tuffi, il più anziano dei
+monaci guardò oltre il bordo e si ritrasse.
+
+"Maestro!" Gridò. "Qualcuno spostato le pietre della diga!
+La vasca è vuota.  Sotto attendono solo erbacce e rocce
+taglienti!"
+
+Con il suo bastone, Banzen, spronava i giovani in avanti,
+verso il precipizio.
+
+"Sicuramente", disse il maestro, "si può risolvere il
+problema quando si raggiunge il fondo."
+
+
+
+
+{{*}} "Backwards" nel testo originale - significando sia 'all'indietro' che 'tardo', 'ritardato'
+

@@ -2,7 +2,7 @@ Number: 160
 Title: The Eye of the Beholder
 Date: 2014-08-31
 Names: Banzen, Djishin, Laughing Monkey Clan
-Topics: joy-hacking, morale, design, complexity, challenge
+Topics: joy-hacking, morale, design, complexity, challenges
 Geekiness: 1
 
 A monk of the [[Laughing Monkey Clan]] found master [[Banzen]]

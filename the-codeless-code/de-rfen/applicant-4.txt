@@ -1,0 +1,64 @@
+Series: 1
+Number: 4
+Lang: de
+Translator: rfen
+Title: Die Bewerberin
+Subtitle: Das Bündel
+
+Der Name des Alten war Bhupendra; sein Enkel hieß Tarun.
+
+Sie hatten keine weiteren Verwandten im Dorf. Der Vater des Jungen lebte in einer entfernten Stadt, arbeite lange Stunden auf einer schlecht qualifizierten Stelle und schickte jede Woche etwas Geld&nbsp;&mdash; wenngleich Bhupendra den Verdacht hegte, dass ein großer Teil des Gehalts seines Schwiegersohns für Palmyra-Wein und Online-Glücksspiel verschwendet wurde. Abgesehen von einer kleinen Hütte schien ihr wichtigster Besitz die staubgraue Eselin zu sein, welche der Großvater nun mit Reis, Brot, getrocknetem Gemüse, Wasserkrügen, Messern, Kochtöpfen (verschiedener Größe), Seilen, Anmachholz, einem Ballen schweren Stoffs und einem uralten Laptop belud, der selbst für das einfachste grafische Betriebssystem zu langsam war.
+
+„Wieso packt Ihr soviel?“ fragte Aaradhya, denn sie war verärgert darüber, dass der Tag verrann wie Wasser im Boden. „Ihr werdet in Reechee und wieder zurück sein, bevor auch nur die Hälfte des Essens verbraucht ist.“
+
+„Vielleicht“, sagte der alte Mann, während er eine weitere Pfanne an dem riesigen Bündel auf dem Rücken der Eselin festband. „In meinem langen Leben habe ich oft erlebt, dass es besser ist, zu großzügig zu planen, als das Gegenteil.“
+
+„Und der Laptop? Allein die Akkus sind schwerer als das Anmachholz.“
+
+„Ihr werden den Jungen unterrichten. Ihr braucht einen Computer.“
+
+„Ich bezweifle, dass er auch nur ein paar Stunden ohne Ladung durchhält, geschweige denn mehrere Tage.“
+
+„Vielleicht.“
+
+Aaradhya verstummte. Wie <i>sollte</i> sie Tarun unterrichten, während sie gingen? In ihrem Heimatort, wenn der Staub die Antriebe der Stromerzeuger blockierte (was im Sommer oft passierte und den Strom für Stunden ausfielen ließ), hatte ihr alter Meister einfach Papier und Tinte ausgeteilt und seine Schüler bei Lampenlicht vor einer Schiefertafel unterrichtet, auf die er mit Kreide schrieb. Die Nonne hatte nur ihre Stimme, welche in der trockenen, staubigen Luft binnen Minuten brechen würde. Nur ein Narr bereiste Landstraßen mit offenem Mund.
+
+Und doch verblasste dies vor einem größeren Problem. Aaradhya war das jüngste von vier Kindern und der jüngste von sieben Schülern gewesen. Sie hatte niemals irgendjemanden in irgendetwas unterwiesen. Sie hatte keine Ahnung, wo sie beginnen sollte. Jenseits von Ananthas Brunnen verschwammen ihre eigenen Unterrichtsstunden in ihrer Erinnerung.
+
+Währenddessen fuhren Großvater und Enkel fort, dem Rücken der geduldigen Eselin immer mehr aufzubürden. Es war beinahe Abend, als sie endlich aufbrachen.
+
+- - -
+
+„Unterrichtet“, sprach der alte Mann.
+
+Aaradhya begann mit den wenigen Fetzen, die sie auf ihrer Großmutter Knien gelernt hatte und an die sie sich noch erinnern konnte. Geschichten über die ersten Computer: riesige mechanische Konstruktionen von verbundenen Sandelholz-Balken, die sich auf dicken Achsen drehten und durch Meilen von Hanfseil aneinander gehalten wurden. Mit Elfenbein ausgeschlagene Stifte trieben ächzende AND- und NOT-Gatter, so groß wie ein erwachsener Mann und doppelt so schwer. Die Gatter wiederum wurden gestapelt in Lagen, so hoch wie vier Etagen, nur um einen einfachen Multi-Bit-Addierer zu verwirklichen. Ganze Tempel wurden gebaut, um die wertvollen Mechanismen zu beherbergen, mit Dutzenden Mönchen, die ständig auf Leitern hinauf und hinunter kletterten, um sie zu ölen, nachzuziehen, zu justieren, zu reparieren und natürlich, um die gesamte Struktur zu bedienen.
+
+Dann erzählte sie vom wundersamen Zeitalter der Bronze zu Anbeginn des Babaj-Imperiums, als die Programmierung mit Uhrwerkmechanismen voller Zahnräder erfolgte, die mit jeder weiteren Generation kleiner wurden. Seltsame blasse Männer kamen aus dem Westen, diese Kunst zu erlernen und mit ihren eigenen geheimnisvollen Techniken zu kombinieren&nbsp;&mdash;so wie die Benutzung von Rubinen in den Mechanismen, um das Problem des Verschleißes durch Reibung zu überwinden, und gewundene Federn, um die Kurbelwellen anzutreiben, sowie die rituelle Aufnahme von stimulantienhaltigem Gebräu, bevor man mit der Arbeit des Tages begann.
+
+Taruns Großvater fiel der abwesende Gesichtsausdruck auf dem Gesicht des Jungen auf. Mit finsterem Gesicht suchte er die Seite Aaradhyas.
+
+„Unterrichtet“, wiederholte er, „Programmierung, nicht Geschichte.“
+
+Aaradhya verzog das Gesicht. Ihr BASIC war veraltet; Tarun wusste vermutlich mehr über den modernen Dialekt als sie. Logo? Sie hatte so gut wie alles darüber vergessen. Außerdem sollte die Sprache nicht ohne eine speziell ausgebildete Schildkröte unterrichtet werden. Ihre Ausbildung hatte in C mit einer kleinen Dreingabe von C++ stattgefunden, doch war der Junge noch nicht bereit, in einen Sumpf voller Bus-Fehler, Schutzverletzungen und Spezialsyntaxen für die Arbeit mit L-Werten geworfen zu werden. In jüngster Zeit hatte sie sich besonders viel mit Java beschäftigt; schließlich war dies der erwählte Pfad des Tempels des Bronzenen Gongs des Morgens. Wenn sie die Grundlagen der Sprache wiederholte, würde ihr dies dabei helfen, ihre Gedanken zu sammeln, ihre Nerven beruhigen, sie auf ihre Bewerbungsgespräche vorbereiten. Sie sollte den Jungen Java lehren.
+
+Während sie im Dunkeln lief? Lächerlich.
+
+Ganz zu schweigen davon, dass das unablässige Geschepper der Töpfe auf dem Rücken der Eselin Aaradhya nicht dabei half, ihre Gedanken zu ordnen.
+
+„Das Tier benötigt Wasser“, sagte sie schnell, „solange wir den Wasserlauf noch erkennen können. Ich werde beginnen, wenn wir zurück auf der Straße sind.“
+
+Dies zwang sie dazu, die mondbeschienene Straße zu verlassen und ihren Weg durch einen trügerischen, überwucherten Einschnitt hinunter zu dem ärmlichen Rinnsal an seinem Grund zu suchen. Beim Rückweg trat die Eselin in ein verstecktes Kaninchenloch und geriet aus dem Gleichgewicht. Das Tier brüllte, der Harnisch verschob sich und das Bündel fiel krachend ins Unterholz, so dass sich das Tier nicht mehr bewegen konnte. Als sie die Eselin beruhigt hatten, war der Mond untergegangen. Es gab keine andere vernünftige Wahl, als das Lager für die Nacht aufzuschlagen.
+
+Bhupendra seufzte und lehnte seine alten Knochen an das Bündel, während Aaradhya und Tarun die verschiedenen Gegenstände aufsammelten, die fortgerollt waren. Sogar im Sternenlicht konnte Aaradhya den harten Glanz im Auge des alten Mannes sehen.
+
+„Unterrichtet“, verlangte er. „Keine weiteren Verzögerungen.“
+
+Aaradhya tat einen Schritt auf den alten Man zu, um ihn von einem Neuanfang bei Tageslicht zu überzeugen, als sie auf etwas glattem ausrutschte und geradewegs in einem niedrigen, dornigen Busch landete. Das nächste Wort, das aus ihrem Mund kam, wurde glücklicherweise durch ihr verschobenes Gewand gedämpft. Als sie in der Dunkelheit umhertastete, schlossen sich Aaradhyas Finger um den schuldigen Gegenstand: eine eiserne Pfanne, die sich vom Bündel gelöst hatte. Sie war schwer. Dies war der Moment, in dem ihr die Idee kam.
+
+Die junge Nonne klopfte ihre Kleidung ab. Lächelnd trat sie auf den alten Mann und den Jungen zu. Sie befanden sich beide am Boden bei dem Bündel; sie überragte sie deutlich. Mit einer weit ausholenden Bewegung hob Aaradyha die eiserne Pfanne hoch und schlug damit hart auf ihr Ziel.
+
+Der Felsen war unbeschädigt, doch die Pfanne erklang wie ein Gong. Beide ihrer Mitreisenden zuckten unwillkürlich zusammen. Die Eselin wimmerte, doch war sie an einen Baum gebunden und konnte nicht ausbrechen.
+
+„Die Schule hat begonnen“, sagte Aaradhya. „Wir werden mit Objekten beginnen.“
+
+
