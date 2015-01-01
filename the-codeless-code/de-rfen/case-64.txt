@@ -1,0 +1,41 @@
+Number: 64
+Lang: de
+Translator: rfen
+Title: Drei Bettler
+
+<p>Der Java-Meister Kaimu führte drei ältere Mönche in die Halle der Endlosen Schreibtischecken. Dort versammelte er drei Novizen in seiner Obhut.</p>
+
+<p>„Eine Dienstfunktion ist erforderlich, welche die Kennung eines Mitarbeiters entgegen nimmt und aus ihr einen bestimmten URL erzeugt“, sprach Kaimu. „Die Programmlogik ist nicht unkompliziert, aber letztlich lässt sie sich auf Textersetzung zurückführen.“</p>
+
+<p>Kaimu wies auf den ersten alten Mönch. „Dieser Bruder arbeitet an der Persistenz-Schicht, in der alle Datenbankschlüssel große Ganzzahlen sind. Natürlich möchte er, dass die Funktion ein Argument vom Typ Long akzeptiert.“</p>
+
+<p>Kaimu wies auf den zweiten alten Mönch. „Dieser hier arbeitet an der Business-Schicht, in der starke Typisierung zum Einsatz kommt. Er möchte, dass die Funktion auf einem EmployeeID-Objekt arbeitet.“</p>
+
+<p>Kaimu wies auf den dritten alten Mönch. „Dieser arbeitet an der Web-Schicht, in der alle Daten in Textform verarbeitet werden. Er möchte, dass die Funktion einen String entgegennimmt.“</p>
+
+<p>Der Meister verneigte sich vor den drei Mönchen und bat seine Novizen darum, ihre Lösungen vorzustellen.</p>
+
+- - -
+
+<p>Der erste Novize stand auf. „Die Funktion sollte einen String entgegennehmen, denn diese Darstellung wird in der Funktion selbst am dienlichsten sein. Die Mönche, die Long oder EmployeeID bevorzugen, können auf jenen Objekten einfach die <i>toString</i>-Methode aufrufen und das Resultat an die Funktion übergeben.“</p>
+
+<p>Da sprach Kaimu: „Wenn der Bettler, der im Staub hockt, dich nach Münzen fragt, kannst du ihn wohl auffordern, dass er seine Schüssel zu dir hochhebt. Doch was, wenn der Mann keine Ellenbogen besitzt?“</p>
+
+<p>Ehe der erste Novize antworten konnte, stand der zweite auf. „Die augenscheinliche Eleganz, <i>toString</i> aufzurufen, wird dadurch beeinträchtigt, dass der Aufrufer erst auf null prüfen muss. Also sollte die Funktion ein Object entgegen nehmen, das jeden der drei Typen enthalten kann. Die Funktion selbst kann auf null prüfen, und <i>toString</i> aufrufen, sofern dies möglich ist. Auf diese Weise wird vom Aufrufer nichts verlangt.“</p>
+
+<p>Da sprach Kaimu: „Wohl wissend, dass der armlose Bettler nur nehmen kann, was auf seine Zunge gelegt wird, gehst du wohltätigerweise überall hin mit Reis in den Taschen. Doch wirfst du deine Körner in <i>jedermanns</i> Mund. Wie glücklich du die Ratten und Elstern machst!“</p>
+
+<p>Der dritte Novize stand auf. „Drei Mönche, drei Novizen. Wieso nicht drei Funktionen, von der jede einen anderen Datentyp akzeptiert? EmployeeID, Long und String. Die erste und die zweite können die dritte als Implementierung nutzen, und jede kann auf null prüfen.“</p>
+
+<p>Da sprach Kaimu: „Nicht einen Krümel gibt es für die Ratten in deinem Dorf, doch wie fett die Bettler sein müssen! Wenn eine Funktion vier Parameter benötigt, willst du sie dann auf einundachzig verschiedene Arten schreiben? Du verschwendest soviel Zeit damit, alle zufriedenzustellen, dass du niemanden befriedigst.“</p>
+
+<p>Kaimu verabschiedete sich sodann von den drei älteren Mönchen, um die Novizen unter sich ausmachen zu lassen, auf welche Weise allen Ansprüchen am besten genügt werden könne.</p>
+
+- - -
+
+<p>Der erste alte Mönch flüsterte, als sie gingen: „Auf welchen Ansatz wird man sich einigen, glaubt ihr?“</p>
+
+<p>Der zweite alte Mönch erwiderte: „Wenn sie uns auch nur entfernt ähneln, so wird es jener, den der Novize mit der lautesten Stimme verteidigt.“</p>
+
+<p>Der dritte alte Mönch nickte. „Ohne Zweifel werden einige unter uns die Lösung unzureichend finden, obschon wir uns widerwillig fügen werden, und die Welt wird sich weiter drehen. Doch so ist es: wir alle sind nichts als Bettler, den jeweils anderen zu Füßen.“</p>
+

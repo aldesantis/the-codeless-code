@@ -1,0 +1,41 @@
+Number: 148
+Title: Art subtil
+Lang: fr
+Translator: abelards
+
+Quand [[#147|cette histoire]] atteignit les oreilles de la
+nonne [[Satou]] à la curiosité insatiable, elle alla chercher
+maître [[Bawan]].
+
+Satou dit, "Mon maître parle de l'Art Subtil du Cache,
+que tous les développeurs du Temple devraient étudier.
+Quel est cet art subtil ?"
+
+Bawan répondit, "Un millier d'oranges fraîches
+dans un marché à quelque distance d'ici ;
+trois oranges flétries dans mon bol sur ma table.
+De quoi devrais-je déjeûner ce mois-ci ?"
+
+Satou considéra cela et dit, "Quand l'amertume du fruit
+dépasse celle du voyage, nous partons, la pièce à la main."
+
+Bawab répondit, "Mon frère garde des raisins dans son bol ;
+ma soeur garde du poisson cru. À quelle fréquence devons-nous
+partir tous les trois au marché ? Avec combien de bols,
+et à quelle heure de la journée ?"
+
+Satou dit, "Ce sont des questions si simples, mais pourtant
+pour répondre je dois d'abord en demander bien d'autres."
+
+Bawan répondit, "Et je répondrai à chacune des tiennes
+avec davantage des miennes."
+
+Satou demanda, "Est-ce cette complexité qui fait de la
+gestion du cache un Art Subtil ?"
+
+Bawan secoua la tête. "La complexité en fait simplement un art.
+C'est la simplicité apparente qui le rend subtil.
+Comme il est simple de déclarer une table de hash statique,
+mais comme c'est dangereux !
+La première épreuve d'un Art Subtil est de commencer par
+reconnaître qu'il existe, tout simplement."

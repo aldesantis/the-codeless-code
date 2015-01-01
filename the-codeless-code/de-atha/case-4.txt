@@ -1,0 +1,19 @@
+﻿Number: 4
+Lang: de
+Translator: atha
+Title: Weiden
+
+Ein neuer Priester des Spinnenclans beklagte sich über die schlechte Qualität des Javascript-Codes seiner Novizen.
+
+"Ich werde nachforschen," sagte der Java-Meister.
+
+Nachdem er die Novizen besucht hatte, verfügte er, dass den ersten vier Novizen jeden Morgen ein Schlag auf die Finger zu verabreichen war, vor sie ihre Tastaturen berühren durften. 
+Für den fünften Novizen legte er keine Strafe fest. Der Priester fragte den Meister nach dem Grund.
+
+"Der Sprössling kann zu einer Weide heranwachsen, wenn er gepflegt wird; nicht aber der Grashalm," sagte der Meister.
+
+Als er das hörte, befahl der Priester, den fünften Novizen zu entlassen. 
+
+Zu seinem Erstaunen verärgerte das den Java-Meister sehr, und der Priester selbst wurde verbannt. Auf seinen letzten Gehaltszettel schrieb der Meister folgendes:
+
+/Wir können nicht auf tausend Weiden liegend den Sonnenaufgang beobachten./

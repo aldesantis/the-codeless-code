@@ -1,0 +1,35 @@
+Series: 1
+Number: 5
+Lang: de
+Translator: rfen
+Title: Die Bewerberin
+Subtitle: Der eiserne Kochtopf
+
+Der nächste Tag dämmerte hell und feucht-warm. Brot wurde geteilt, die Eselin gewässert und erneut beladen, und das Trio machte sich auf in einen Morgen voller summender Insekten.
+
+„Stelle dir vor,“ sagte Aaradhya, „du bist weit fort von deinem Zuhause und findest dich in einem seltsamen Dorf voller Handwerker wieder. Es ist Abend, und du bist hungrig. Du erfährst, dass der Koch dir Eintopf servieren wird, aber hierfür rote Linsen, Curry-Blätter und Wasser im Gegenzug benötigt; der Bauer wird dir Linsen geben, aber benötigt Samen und als Leihgabe einen Ochsen...“
+
+In Aaradhyas gedachtem Dorf gab es außerdem Händler, die Lagerhäuser kontrollierten, welche randvoll mit allerlei nützlichen Dingen gefüllt waren, Dingen, die von den einen Handwerkern produziert und von anderen benötigt wurden&nbsp;&mdash; wertvolle Gewürze, Bretter aus stabilem Holz, gute Sägen, Fässer voll mit Lampenöl. Die Händler gehörten zu einer geachteten Gilde namens <i>DAO</i>.
+
+„Die Dienstlichen Archiv-Ordnungshüter“, erklärte Aaradhya. „Ihre einzige Aufgabe ist es, Wertvolle Objekte zu verwahren, zu verwalten und heranzuschaffen...“
+
+Während sie sprach, band Aaradhya verschiedene Gegenstände von dem Bündel auf dem Rücken der Eselin los, um sie zur Veranschaulichung zu verwenden. Tarun hörte zu. Der Großvater schritt vor ihnen mit seinem Sonnenschirm und schwieg, wenngleich er von Zeit zu Zeit nickte oder den Kopf schüttelte.
+
+Als sie für eine Mahlzeit anhielten, nahm er Aaradhya beiseite.
+
+„Ihr unterrichtet durch Gleichnisse.“
+
+„Auf dieselbe Art unterwies mich mein C++-Meister. <i>‚Ein Software-System ist eine Gesellschaft von Objekten‘</i>, pflegte er zu sagen.“
+
+„Sehr hübsch. Doch wenn der Junge sich um eine Ausbildungsstelle bewirbt, werden sie ihn nicht nach Sprichwörtern fragen. Er muss wissen, wie er Dinge bauen kann.“
+
+Aaradhya winkte dem Jungen zu, der die Eselin fütterte. <i>„Tarun“</i>, rief sie. „Du bist nun der Bürgermeister deines kleinen Dorfes. Reiche Fremde werden bald in der Stadt eintreffen, um eiserne Kochtöpfe zu erwerben: welcher deiner Handwerker soll sie herstellen? Der Schreiner, der bereits Topf-Griffe herstellt? Der Juwelier, der bereits mit Metall arbeitet? Der Töpfer, der schon Töpfe aus Ton herstellt?“
+
+„Niemand von ihnen, Herrin“, sagte Tarun. „Das Dorf wird einen Eisenwarenhändler benötigen.“
+
+„Bitte erkläre deinem Großvater, wieso.“
+
+„Weil niemand, der einen eisernen Kochtopf sucht, daran denken wird, beim Schreiner danach zu fragen.“
+
+Aaradhya wandte sich dem Großvater zu, und ein befriedigtes Lächeln umspielte ihre Mundwinkel. „Vieles von dem, was er braucht, hat er bereits verinnerlicht. Der Rest ist nur Syntax.“
+

@@ -1,0 +1,48 @@
+﻿Number: 37
+Lang: it
+Translator: mpas
+Title: Simulazione
+Illus.0.title: In realtà quando ci sono interruzioni di corrente, lo scriba usa una lanterna da campeggio a manovella e scrive su un netbook Asus con autonomia di 12 ore. Ma rende l'idea.
+
+Il nuovo sito di elaborazione ordini del Clan Del Ragno si
+comportava bene sul campo, ma l'ambiente di sviluppo era
+così instabile che il clan non era in grado di testare le
+modifiche per più di un paio d'ore al giorno.  Una scadenza
+si avvicinava rapidamente.  I monaci si sarebbero strappati
+i capelli se non fossero già stati tosati per prevenire una
+tale, indecorosa, vista.
+
+"È perché il Clan Scimmia Ridente continua a spegnere i loro
+server di sviluppo!"  denunciò il monaco capo del clan Ragno
+ad uno dei sacerdoti.  "Senza questi servizi il nostro
+codice non può chiedere le preferenze dell'utente o il
+contenuto dei carrello degli acquisti!"
+
+"I nostri riavvii sono necessari", disse il capo del clan
+Scimmia Ridente.  "Dobbiamo distribuire il codice,
+continuamente, anche tutto il giorno.  Forse il Clan Ragno
+potrebbe simulare i servizi di cui ha bisogno.  I dati
+sarebbero falsi, ma le interruzioni non gli darebbero così
+tanti problemi. "
+
+"Inaccettabile!", disse il capo Clan Del Ragno.  "Vorreste
+farci fare degli sforzi per produrre un misero surrogato,
+solo per eludere le vostre colpe!"  Si voltò verso il
+sacerdote.  "Quando il sole tramonta o si nasconde dietro
+una nuvola, il nostro scriba non resta inattivo come i suoi
+antichi predecessori, in quanto la sua lampada alogena
+brucia giorno e notte.  I servizi di Scimmia Ridente
+dovrebbero seguire questo esempio ed essere più affidabili
+come l'elettricità che alimenta quella lampada!"
+
+Il capo del clan Scimmia Ridente meditò su questo.
+
+A tarda notte il capo del Clan Del Ragno venne svegliato da
+un leggero bussare alla sua porta.  Si mise addosso i suoi
+abiti e invitò il visitatore ad entrare.
+
+"Su richiesta di Scimmia Ridente, porto un piccolo regalo
+dalle mie stanze", sussurrò la voce di un vecchio. Altri non
+era che lo scriba del tempio, che mise una candela accesa
+sul tavolo. "A volte penso che sia necessaria quando ci sono
+temporali."

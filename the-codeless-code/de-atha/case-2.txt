@@ -1,0 +1,23 @@
+Number: 2
+Lang: de
+Translator: atha
+Title: Unbekannte Unbekannte
+Illus.0.title: Vielleicht nehme ich doch nur den Salat.
+
+Der Kaiser war von den Defekten im neuen Bestellsystem, welches er in Auftrag gegeben hatte, verärgert, also sandte er einen Kundschafter zum Tempel, um die Mönche auszuforschen. 
+
+„Seine Exzellenz hat euch seine vertrautesten Business-Analytiker geschickt, um sicherzustellen, dass alle Features wie vorgesehen funktionieren. Habt ihr den Inhalt der PowerPoint-Präsentationen nicht begriffen?“
+
+„Wir hörten sie alle an“, sagte der Java-Meister, „und alles Gehörte ward verstanden.“
+
+Der Meister setzte dem Boten eine kleine Schüssel Reis vor, die dieser sofort verschlang. Der Bote wischte seinen Mund am Ärmel ab und fuhr fort:
+
+„Dieselben Analytiker stellten euch zehn tausend Seiten an Anforderungsdokumenten zur Verfügung, akribisch illustriert bis in den letzten Use Case. Habt ihr euch nicht die Mühe gemacht, sie zu verstehen?“
+
+„Wir gingen jede Seite sorgfältig durch“, sagte der Java-Meister, „und alles Gelesene ward verstanden.“ Der Meister setzte dem Boten eine dampfende Tasse Tee vor, die dieser in einem Zug austrank.
+
+Dann fiel der Kundschafter vorwärts auf den Tisch – tot. 
+
+Der Meister fragte seine Schüler: „Wusste der Bote denn nicht, dass es unser Brauch ist, uns mit vergifteter Nahrung und mit vergifteten Getränken zu umgeben, um den Trieben des Fleisches besser zu widerstehen?“
+
+Da sagte der weiseste Mönch: „Alles vom Kundschafter beobachtete ward verstanden“.

@@ -1,0 +1,39 @@
+Title: Resquille à la troisième porte
+Number: 78
+Lang: fr
+Translator: cdlm
+Illus.0.title: Ah, ça explique l'ouverture dans le toit…
+
+Il était dit du jeune moine [[Djishin]] du [[Laughing Monkey Clan|Clan du Singe Rieur]] qu'il préférait coder que manger ou dormir.
+Mais bien que sa production soit prodigieuse, la majeure partie était malvenue :
+il faisait fi des librairies et cadres logiciels de tierce partie, préférant développer ses propres substituts de qualité inférieure.
+Malgré des tentatives de correction répétées, Djishin persistait à implanter des choses qui n'avaient pas besoin d'être implantées, et le faisait souvent piètrement.
+
+Maître [[Banzen]], suspectant connaître la cause du <a href="/case/68">zèle sans fin</a> du garçon, l'envoya chercher.
+
+« Quelles sont les Cinq Portes de l'Implantation ? » interrogea Banzen.
+
+Djishin récita consciencieusement :
+
+        « Quel le Temple ait besoin ; //
+        qu'au besoin on satisfasse de la meilleure façon par du code ; //
+        que le code n'existe pas déjà ; //
+        qu'à l'existence on puisse parvenir par un effort raisonnable ; //
+        que l'effort soit le mieux fourni maintenant et par moi-même. »
+
+Banzen commença à sermonner le moine sur l'importance de la Troisième Porte.
+« Maître, » protesta Djishin,
+« je ne doute aucunement qu'il y ait de fines lames sur le marché, mais beaucoup sont lourdes à manier et difficiles à maîtriser.
+Mon canif est peut-être petit et émoussé, mais il m'est fort utile. »
+
+Le soir, Banzen réaffecta Djishin au [[One Shoe Clan|Clan de l'Unique Soulier]] et lui donna une charge double de tâches de développement, aucune desquelles n'était critique pour les activités du Temple.
+
+Et puisque l'Unique Soulier ne méritait pas sa propre salle, on déménagea Djishin dans un placard à balais sans soleil, éloigné de l'agitation quotidienne de la vie au Temple.
+
+Maître Suku, qui avait une affection pour le moine, demanda clémence à Banzen.
+Banzen l'écarta du revers de la main.
+
+« Je n'ai pas corrigé le moine ; j'ai corrigé le temple, » dit Banzen.
+« Djishin souhaite seulement affûter son couteau.
+Le temple lui a donné des poulets à étriper et découper.
+Je lui ai donné une pierre à aiguiser. »

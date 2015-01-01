@@ -1,0 +1,19 @@
+﻿Number: 47
+Lang: it
+Translator: mpas
+Title: L'Origine Di Tutto
+Illus.0.alt: L’origine dei numeri binari’, in un quadro di molte cifre binarie ‘1’ che nuotano fino a fecondare una grande cifra binaria ‘0’.
+Illus.0.title: 'Uno' è davvero il numero più solo.
+
+<p>Sulle piastrelle di un bagno vicino all'ufficio del maestro Java Bawan c'era dipinto: <sup>*</sup></p>
+
+<p><sup>*</sup> Alcune osservazioni da parte del redattore:</p>
+
+<ul>
+<li>Questo significa che ogni numero binario ha entrambi i cromosomi sessuali, tranne che i numeri della forma (2^n)-1, dove n >= 0.
+<li>Significa anche che complemento bit per bit (~) rappresenta l'operazione di cambiamento di sesso.
+<li>Sarebbe naturale assegnare il genere agli interi binari come segue: i numeri pari (che terminano con 0) di sesso femminile,
+i numeri dispari (che terminano in 1) di sesso maschile.
+Però, parlando a titolo personale, troverei sconcertante se qualcuno si riferisse
+alla mia caratteristica anatomica che definisce la mia sessualità come <i>"Least Significant Bit"</i>.
+</ul>

@@ -1,0 +1,46 @@
+Number: 160
+Title: L'oeil de celui qui regarde
+Lang: fr
+Translator: abelards
+
+Un moine du [[Laughing Monkey Clan|Clan du Singe Rieur]]
+trouva maître [[Banzen]] en train de fredonner devant
+son tableau blanc, avec une expression de bonheur sur le visage
+qu'on ne lui connaissait guère.
+Intrigué, le moine se cacha derrière une plante en pot pour comprendre.
+
+Tandis qu'il regardait, Banzen remplit le tableau d'un diagramme
+de classe d'une ignoble complexité. Puis le maître fit un pas
+en arrière pour évaluer son travail.
+
+"Magnifique !" dit Banzen.
+
+Puis il effaça le tableau.
+
+Le maître fit ceci plusieurs fois encore. Sa conception
+devenait de plus en plus alambiquées, mais à chaque fois
+Banzen proclamait cela magnifique, pour tout effacer
+de nouveau, se fredonnant à lui-même avec bonheur.
+
+Le moine alla chercher [[Djishin]], l'apprenti de Banzen.
+"Que fait ton maître ?" demanda le moine.
+
+"Il implémente les règles métier d'une nouvelle application,"
+dot Djishin.
+
+Le moine hésita, puis murmura, "son architecture est étonnamment laide."
+
+Djishin murmura en retour, "les règles métier sont étonnamment laides."
+
+Le moine leva ses mains au ciel.
+"Et bien pourquoi danse-t-il comme un écolier amoureux,
+et trouve toutes ces choses "Magnifiques"?
+
+Djishin rit. "Pas l'architecture, pas les règles. Le défi."
+
+
+== Note du Traducteur
+
+"Beauty is in the eye of the beholder" - la beauté est dans l'oeil de celui qui regarde.
+Phrase grecque du 3ème siècle avant JC.
+<a href="https://fr.wikipedia.org/wiki/Eye_of_the_Beholder">Et beaucoup d'autres références.</a>

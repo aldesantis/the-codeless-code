@@ -1,0 +1,44 @@
+﻿Number: 9
+Lang: it
+Translator: mpas
+Title: Infiniti
+Illus.0.title: Pensi di essere povero perchè hai dovuto condividere le tue vesti? Dovremmo condividere le nostre gambe.
+
+Due monaci del Clan Del Ragno stavano discutendo se la nuova
+routine di convalida dell'input fosse bloccata in un ciclo
+infinito.
+
+"Da quanto tempo gira?" Chiese l'abate.
+
+"Da non più di trenta minuti", disse un monaco magro e
+pallido.
+
+"Sì, certamente non meno" disse un monaco scuro e grasso.
+
+"E voi non avete fatto nulla per tutto questo tempo, tranne
+che attendere la fine?" Chiese l'abate.
+
+I monaci chinarono la testa per la vergogna.
+
+L'abate segnalò questo al maestro Java, che annuì. "Quale
+dei due è convinto che il ciclo non sia infinito?"
+
+"Quello pallido e magro," rispose l'abate.
+
+"Allora dategli un otre di vino, perché egli è saggio.
+Nessun ciclo può essere davvero infinito.  Un giorno la
+corrente s'interromperà, il server si arrugginirà, il tempio
+crollerà, e il sole inghiottirà la terra. "
+
+L'abate domandò "Che ne facciamo del monaco grasso e scuro,
+il quale è convinto che il ciclo sia infinito?"
+
+"Dategli due otri di vino, perché è più saggio.  Per
+l'utente in attesa di risposta dal suo browser, dieci
+secondi sono un'agonia, un minuto è un eone, e, ogni secondo
+in più, è effettivamente un'eternità.  Quando la tigre
+afferra l'antilope, l'antilope non si chiede se le sue carni
+sono state dilaniate da otto artigli, oppure da un milione."
+
+
+

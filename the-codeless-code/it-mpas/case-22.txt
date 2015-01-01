@@ -1,0 +1,32 @@
+﻿Number: 22
+Lang: it
+Translator: mpas
+Title: Sicurezza
+
+<p>Un monaco del Clan Scimmia Ridente conosceva bene il software prodotto dal Tempio Della Carità Dello Yak Irsuto, 
+e voleva utilizzare uno dei loro moduli per il suo ultimo progetto. 
+Ma il magazzino del codice del clan era sotto stretta sorveglianza, e il monaco doveva ottenere il permesso 
+dalla gerarchia del monastero per utilizzare qualsiasi software di terze parti.</p>
+<p>Il sommo sacerdote del suo clan era disposto ad acconsentire, ma a una sola condizione: 
+una classe wrapper doveva prima essere prodotta dalla casta dei sacerdoti. 
+Tutti gli accessi al modulo potrebbe essere fatto attraverso la classe wrapper.</p>
+<p>Disse il prete, 
+"Questo farà sì che non si faccia uso di funzioni che siano troppo complesse per le vostre abilità. 
+E c'è un ulteriore vantaggio: se mai ritenessimo inadeguata l'implementazione dello Yak Irsuto, 
+i nostri sacerdoti saranno in grado di sostituirla con un altro modulo da mettere nel wrapper, 
+e nessuno che utilizzi il wrapper sarà disturbato dal cambiamento".</p>
+<p>Il monaco si inchinò e mise al corrente il master Java.</p>
+<p>Il maestro Java chiamò il prete, e suggerì di andare insieme fino alle montagne, 
+per meditare sul modo migliore per costruire questo wrapper.</p>
+<p>"Guida tu." Disse il maestro.</p>
+<p>Si sedettero nella macchina del prete, dopo di che il sacerdote aggrottò la fronte.</p>
+<p>"La manopola di sintonia della mia radio sembra sia stata rubata", disse il prete.</p>
+<p>"Questo è bene," disse il maestro Java. "La musica potrebbe essere una distrazione pericolosa sulle strade strette".</p>
+<p>"Anche le manopole per l'aria condizionata", disse il prete.</p>
+<p>"Eccellente!" Disse il maestro Java. "L'aria fredda aggrava i reumatismi, e causa malattie al basso ventre".</p>
+<p>Il prete girò la chiave di accensione, ottenendo solo silenzio. Lasciò il suo posto per indagare.</p>
+<p>"Inoltre," disse il prete, "sembra che il cofano sia stato saldato."</p>
+<p>"La vostra fortuna persiste!" Gridò il maestro Java. 
+"Ora è certo che nessuno potrà danneggiare il motore. 
+E se il colore dei pneumatici dovesse risultare insoddisfacente, 
+mi aspetto che questi possano essere sostituiti senza alcun effetto distinguibile sulla fluidità della marcia."</p>

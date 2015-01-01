@@ -1,0 +1,129 @@
+﻿Number: 33
+Lang: it
+Translator: mpas
+Title: Paura
+Illus.4.title: Si, ma non riceve comunque molta posta.
+
+
+Un monaco anziano, recentemente affiliato al tempio, si
+avvicinò al maestro Java con aria frustrata:
+
+"Ho ricevuto il compito di aggiungere numerose
+funzionalità al sistema di elaborazione ordini del Calzolaio
+Imperiale, ma non riesco ancora a comprendere come funziona.
+La logica è distribuita tra più applicazioni, ognuna
+realizzata con tecnologie completamente diverse.  Invece di
+creare programmi di utilità comuni, gli autori hanno
+semplicemente copiato stralci di codice da un luogo
+all'altro, spesso introducendo sottili differenze.  I
+processi in esecuzione automatica cercano e modificano
+record del database senza alcun, documentato, motivo, e il
+database cospira contro di me: un semplice aggiornamento in
+una tabella può innescare una cascata di inserimenti ed
+eliminazioni in altre".
+
+"Vedo due strade davanti a te," disse il maestro Java.
+"Nella prima, si effettuano solo le integrazioni necessarie
+e, rapidamente proclamerai la vittoria.  Nella seconda, si
+inizia l'arduo compito di riprogettare e riscrivere il
+codice di base.  Come pensi di procedere?"
+
+Il monaco si inchinò per la vergogna.  "Non posso
+dirlo. Al momento ho paura di toccare qualsiasi cosa, perché
+la mia ignoranza sarà la prova della mia rovina."
+
+"La paura forgia una buona armatura, ma una misera lama",
+annuì il maestro Java.  "Per sconfiggere la paura, dobbiamo
+dissipare la tua ignoranza."  Con il suo bastone aprì la
+finestra scorrevole e indicò il bosco al di là.
+
+"Segui la strada delle Bianche Ortiche per tre giorni,
+fin sulla montagna, arriverai ad un eremo arroccato su un
+picco.  Vi abita un dotto fratello, che mantiene copia dei
+documenti dei nostri clienti.  Egli ti consiglierà sulla
+progettazione del sistema."
+
+Il monaco fece come gli era stato ordinato, e al tramonto
+arrivò all'eremo, che si rivelò un edificio ben diverso da
+tutti quelli che avesse mai visto.
+
+La costruzione era chiaramente iniziata come una robusta
+casa di pietra sul bordo del picco, ma tre nuove ali di pino
+grezzo, con ancora la corteccia, si spingevano ben oltre la
+rupe e sporgevano nel vuoto.  Al di là di queste c'erano
+passerelle aperte e scalette, che terminavano in dozzine di
+locali arroccati su oblique palificazioni, appoggiate (a
+malapena) su sporgenze rocciose molto più in basso.
+
+Ancorati a questi locali, se ne aggiungevano altri che
+sporgevano ancora di più nel vuoto, costruiti con bambù
+inclinati all'impazzata in tutte le direzioni.  Rampe e
+scale fuoriuscivano inferiormente, e conducevano ad altri
+locali, sospesi con corde e costituiti, principalmente, da
+canne e paglia.  Tutto era tenuto insieme da funi di canapa,
+legate quà ad un davanzale di una finestra, là ad una
+banderuola, come se una grande ragno ubriaco avesse
+catturato un centinaio di capanne nella sua ragnatela.  La
+struttura oscillava malamente nella brezza leggera,
+scricchiolando.
+
+Il monaco rimase per un po' a bocca aperta, poi si
+riprese e colpì il gong.
+
+L'eremita giunse dalla stanza più lontana, arrampicandosi
+sulle corde e scendendo sui tetti, scomparendo in una botola
+di bambù e, infine, riapparendo sull'uscio della
+capanna.
+
+"Che notizie mi porti dal tempio?" Chiese
+l'eremita. "Sono stato, finalmente, richiamato a casa?"
+
+Il monaco disse che non aveva notizie da riportare a tal
+riguardo.
+
+L'eremita chinò il capo. "Misero me!  Fino a quando non
+sarànno pronunciate parole in tal senso, il mio compito è
+quello di ampliare questo eremo verso l'esterno, oltre il
+bordo delle rocce, per ospitare la, sempre crescente,
+raccolta di file temporanei del tempio.  L'ho fatto per
+anni, fedelmente e senza discutere, sperando, un giorno, di
+guadagnare i favori del maestro e il rientro dall'esilio.
+Ma confesso che il mio lavoro diventa sempre più difficile
+con il trascorrere delle stagioni.  La neve invernale è così
+pesante, sui tetti, che le palafitte di bambù cominciano a
+cedere, e, in estate, devo combattere con le gazze per
+evitare che le mie pareti di paglia diventino parte del nido
+di qualcuno.  A proposito ... non sei (spero) allergico? Al
+polline? All'ambrosia?  Una volta ho visto sette camere
+collassare e cadere giù nel precipizio a causa di un
+vigoroso uno starnuto ... "
+
+"Ma questa è pura follia!" Esclamò il monaco.  "Ora che
+avete un'idea di quante stanze sono necessarie, non riesci a
+demolire questa mostruosità e ricominciare da capo?"
+
+"Che sciocchezza.  Immagina il tempo che potrebbe
+prendere una tale impresa, e come potrebbe scontentare il
+mio padrone nel frattempo!  Come potrei giustificare la
+dimunizione di magazzini invece di aggiungerne altri?  Il
+mio esilio potrebbe durare un altro decennio!  No, è molto
+più sicuro fare esattamente come mi è stato comandato.
+Comunque, conosco questo eremo abbastanza bene, i suoi punti
+forti e quelli deboli, e, dal momento che cammino con passo
+leggero ed evito il pepe, le mie probabilità di morire per
+una lunga caduta sono ragionevolmente basse.
+
+"Ma basta lamentarsi della mia situazione, sapiente
+fratello.  Se non sei stato inviato qui per richiamarmi a
+casa, allora vuol dire che hai bisogno del mio aiuto per
+comprendere il sistema di elaborazione ordini del Calzolaio
+Imperiale.  Molti, come te, sono venuti a tale scopo, perché
+ne sono io l'autore".
+
+Il monaco, non rispose, si inchinò e tornò di nuovo lungo
+la strada per la quale era giunto, avendo già ottenuto
+l'agognata illuminazione dall'eremita.
+
+
+
+

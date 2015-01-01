@@ -1,0 +1,93 @@
+﻿Number: 28
+Lang: it
+Translator: mpas
+Title: Eco
+
+Il Clan Delle Ossa Di Ferro fu incaricato di mantenere i
+server in funzione.  Questo divenne il loro scopo, ed il
+loro orgoglio.
+
+Un monaco del clan stava eseguendo una scansione di
+sicurezza, quando notò che alcuni servizi non essenziali
+erano abilitati.  Fece immediatamente rapporto all'abate.
+
+"Dovremmo arrestare il servizio eco sulla porta sette",
+disse il monaco.  "È una residuo dei tempi che furono, e,
+adesso, non serve assolutamente.  Tutto ciò che fa è
+rigettare indietro ciò che lo alimenta: serviva come aiuto
+per testare la connessione e la latenza della rete. "
+
+Con grande stupore del monaco, l'abate lo bandì
+immediatamente dal tempio, relegandolo per un anno in un
+lontano eremo sulle montagne.  Non fornì alcuna ragione per
+la decisione.
+
+Il viaggio durò molte settimane.  La strada, avvolgendosi su
+se stessa, si inerpicava verso l'alto fino a scomparire
+sotto cumuli di neve.  L'aria si fece più rarefatta.  Nelle
+ultime miglia la montagna diventò crudelmente ripida: il
+percorso, quasi invisibile, costeggiava un precipizio che si
+apriva sull'oblio.  Quando scese la notte, il monaco quasi
+perse la vita, trascinandosi troppo vicino al bordo.
+
+Alla fine raggiunse una capanna arroccata in cima a una rupe
+solitaria.  La capanna era fredda e spoglia ad eccezione di
+un letto, una ciotola, e un'antica postazione con un
+terminale VT220.
+
+Un giorno il monaco stava meditando quando udì un bip emesso
+dal terminale. Sullo schermo lesse:
+
+<pre>
+   <b>Connessione ricevuta. Contenuto del messaggio:</b>
+   Diecimila saluti al nostro lontano cugino!
+   <b>Risposta?</b>
+</pre>
+
+Il monaco rispose eccitato con una raffica di domande, ma
+ogni suo messaggio veniva respinto dal terminale.  In un
+lampo il monaco fu illuminato, e digitò:
+
+<pre>
+   Diecimila saluti al nostro lontano cugino!
+</pre>
+
+Dopodichè il terminale emise un segnale acustico non più di
+una volta ogni pochi giorni.  A volte il messaggio era un
+semplice ciao.  A volte era una piccola poesia sulle
+stravaganze di una <i>"veloce volpe marrone"{{*}}</i>.
+Spesso si trattava di una serie di parole senza senso.  Ma
+il monaco rispondeva sempre prontamente e fedelmente.  Così
+trascorse il suo anno.
+
+Quando tornò al tempio, continuò a comportarsi nello stesso
+modo: parlando solo quando gli si parlava e ripetendo
+esattamente le parole che gli venivano rivolte.  E anche se
+questo gli valse il disprezzo dei suoi compagni, tutti
+convennero che egli non diffuse mai pettegolezzi, non mentì
+mai per guadagni personali, né insultò chi non lo avesse
+insultato prima.
+
+
+== Commento di Qi
+
+La penitenza del monaco fu sin troppo indulgente, ma
+successivamente, dovette considerarsi una <i>"volpe"</i>
+fortunata.  Se avesse, invece, protestato riguardo al
+servizio di scarto{{**}} sulla porta
+nove, avrebbe imparato a tenere la bocca chiusa.
+
+
+== Poesia di Qi
+
+La torre si erge con orgoglio, //
+la statua guarda verso il mare. //
+Quale grande opera non fu creata, //
+sì chè il costruttore possa vedere la sua immagine riflessa nel mondo?
+
+
+
+
+{{*}} "The quick brown fox jumps over the lazy dog" - in italiano "La veloce volpe marrone scavalca con un balzo il cane pigro" è un pangramma in lingua inglese, ovvero una frase di senso compiuto nella quale vengono usate tutte le lettere dell'alfabeto.
+{{**}} Discard service - uno dei servizi di networking tipicamente attivo sulla porta 9
+

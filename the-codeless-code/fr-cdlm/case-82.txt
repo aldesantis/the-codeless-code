@@ -1,0 +1,35 @@
+Title: La punaise de Jinyu
+Number: 82
+Lang: fr
+Translator: cdlm
+
+
+Quand un nouveau candidat arrivait au Temple pour postuler sur un poste récemment libéré, {{1}} la vénérable Madame [[Jinyu]] -- l'Abbesse de Tous les Clans et Préoccupations -- était respectueusement invitée à assister à l'entretien.
+
+Maîtres et moines aînés commençaient par les questions de coutume, telles que « Quels cadres logiciels avez-vous utilisés ? » et « Combien d'années d'expérience avez-vous avec chacun ? » {{2}}
+Les questions devenaient de plus en plus techniques, et l'aïeule Jinyu semblait s'assoupir dans son coin.
+Au bout d'un moment, pourtant, ses petits yeux s'ouvraient soudainement, perçants comme ceux d'un corbeau ; alors, elle pointait le tableau de sa canne et disait :
+
+« L'Armée Impériale souhaite faire l'inventaire de ses nombreuses armes.
+On en dénombre quatre types : le bâton, la lance, l'épée, et le couteau.
+Chacune a une longueur, qui varie d'arme à arme.
+Chacune a un poids, qui est calculé à partir de la longueur en fonction du type de l'arme.
+À tout égard, un couteau n'est qu'une épée dont la longueur est exactement deux /chi/.
+Maintenant montrez-moi les classes que vous créeriez ! »
+
+Puis, bras croisés, elle observait.
+Quelquefois elle quittait la pièce après que le diagramme de classes ait été dessiné ;
+Quelquefois elle restait et altérait le problème, observant les modifications faites en conséquence.
+
+Cela intriguait les plus jeunes moines, qui lui demandaient timidement :
+« Pourquoi ne pas lire les nombreuses pages de curriculum vitae fourni, ou questionner le candidat sur ses compétences dans nos technologies de choix ? »
+
+Jinyu les fouettait alors du bout de sa canne et répondait :
+« On trouve nombre de bons marteaux sur les étals du marché, aussi bien que nombre de mauvais.
+Quand le vent d'automne emporte les bardeaux du toit du temple, peut me chaut qu'un outil ait autrefois appartenu au couvreur le plus apprécié de l'Empereur, si il ne sait pas enfoncer ma petite punaise sans anicroche. »
+
+
+{{1}} Cela vous surprendra peut-être d'apprendre que les postes étaient habituellement libérés /volontairement et en bons termes/ par leurs titulaires -- pourvu que vous considériez le suicide d'honneur comme une méthode de démission extrêmement formelle.
+{{2}} Les questions comme « Quel est votre groupe sanguin ? » et « Comment qualifieriez-vous votre tolérance à la douleur physique ? » étaient généralement déléguées aux Ressources Humaines.
+
+

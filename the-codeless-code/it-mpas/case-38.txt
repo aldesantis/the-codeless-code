@@ -1,0 +1,30 @@
+﻿Number: 38
+Lang: it
+Translator: mpas
+Title: Linguaggio
+
+Un novizio chiese al maestro Java Banzen, "Qual è il
+linguaggio di programmazione più perfetto?"
+
+Il maestro rispose: "Quello che realizza il compito
+desiderato con il minimo sforzo da parte dell'utente."
+
+Il novizio chiese: "C'è un linguaggio che supera tutti gli
+altri in tal senso?"
+
+Il maestro rispose: "Costruiscimi un giardino di diecimila
+pietre!"
+
+== Commento di Qi
+
+Anche i dirigenti hanno il loro linguaggio di
+programmazione, nonostante ciò che producano sia spesso
+difettoso.
+
+== Poesia di Qi
+
+Se il giardino è stato costruito,//
+Banzen ha visto il suo desiderio realizzato.//
+Il novizio è venuto al più per un consiglio&mdash//
+Le parole nascondono intenti.
+

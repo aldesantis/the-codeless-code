@@ -1,0 +1,32 @@
+﻿Number: 3
+Lang: de
+Translator: atha
+Title: Kapselung
+
+Ein junger Mönch, neu im Tempel, deklarierte nicht nur alle
+seine Methoden, sondern auch seine Instanzvariablen als
+/public/. Der oberste Abt, des Tadelns müde, fragte den
+Java-Meister um Rat.
+
+Am nächsten Tag ließ der Meister den Mönch zu einem Essen
+unter vier Augen in sein Büro rufen.
+
+Der Mönch trat ein und sah ein üppiges Mahl, das auf dem
+Konferenztisch zum Verzehr bereitstand. Dann befahl der
+Meister dem Mönch, sich auf den Boden zu legen.
+
+Der Mönch tat, wie ihm geheißen, worauf der Meister das
+Gewand des Mönchs öffnete und ein großes Messer zog. Er
+presste mit der blanken Messerspitze fest auf die Brust des
+Mönchs, bis rundherum ein roter Tropfen hervorquoll.  Da
+entfuhr dem Mönch ein Schrei und er fragte den Meister, was
+seine Absicht sei.
+
+"Deinen Bauch aufzuschlitzen", erklärte der Meister, "damit
+ich den Reis hineinschöpfen und den Tee hineingießen
+kann. Mein Zeitplan ist knapp, und ich finde diese Methode,
+meine Gäste zu verpflegen, extrem effizient."
+
+Danach war keine weitere Zurechtweisung des Mönches notwendig.
+
+

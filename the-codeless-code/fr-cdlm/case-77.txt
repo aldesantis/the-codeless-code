@@ -1,0 +1,32 @@
+Title: L'abbaye sens dessus-dessous
+Number: 77
+Lang: fr
+Translator: cdlm
+Credits: Quelques textures des illustrations mises à disposition par <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.title: Les sandales à roulettes c'est plutôt marrant pour foncer dans les couloirs. Dans les escaliers, pas tellement.
+
+
+En plein hiver, un matin, quand les connexions d'utilisateurs s'étaient réduites à un filet glacé et que la montagne était paisible sous son manteau de neige, maître hébergeur [[Yishi-Shing]] abandonna ses serveurs aux soins de dix moines compétents et s'en fut inspecter l'état d'une lointaine abbaye.
+
+En arrivant, il trouva un inattendu tourbillon d'activité.
+Le logiciel de l'abbaye était affligé de sérieux défauts.
+L'activité des utilisateurs causait des erreurs mineures à travers toute la base de données ;
+ces erreurs s'accumulaient par le fait d'actions subséquentes des utilisateurs, pour finalement étendre la corruption à des tables d'une délicatesse névralgique.
+Des moines passaient les fichiers journaux au peigne fin, lançaient des scripts de réparation d'urgence des données, débattaient sur des tableaux blancs, codaient d'arrache-pied à leurs stations de travail.
+Des rustines désespérées étaient distribuées à une allure forcenée, causant davantage de désastres.
+
+« Et les tests ? » s'enquit Yishi-Shing.
+
+« Pas de temps ! Pas de personnel ! Pas de budget ! »
+dit l'abbé qui resserra les lanières de ses patins à roulettes et partit en trombe en réponse à la sonnerie d'une autre alarme.
+
+Yishi-Shing retourna à son propre temple, perdu dans ses pensées.
+
+« Comment se porte l'abbaye ? » demandèrent les moines du [[Clan of Iron Bones|Clan des Os de Fer]].
+
+« Je n'ai vu aucune abbaye, » dit Yishi-Shing.
+« Seulement un champ de terre glaciale et endurcie où les moines creusent les sillons de leurs ongles, tandis que les bœufs marchent derrière et les harcèlent à coups de soc de charrue. »
+
+« Les serveurs sont ils saufs, au moins ? » demanda l'un des moines.
+
+Yishi-Shing : « Pas les serveurs ; les maîtres. »

@@ -1,0 +1,43 @@
+﻿Number: 62
+Title: Confusione
+Lang: it
+Translator: mpas
+
+Il maestro Java Suku entrò nelle stanze del nuovo Abate a
+capo del Clan Del Ragno, il quale era stato nominato dopo la
+misteriosa scomparsa del suo predecessore.
+
+Suku disse all'Abate: "Il mese scorso mi è stato ordinato di
+re-implementare il modulo di visualizzazione dati. Ho
+richiesto sette sviluppatori con varie specializzazioni in
+modo che la revisione possa essere realizzata in una sola
+iterazione.  Oggi sono uscito dal mio alloggio e ho trovato
+21 strani piccoli monaci che mi aspettavano nel corridoio."
+
+Con grande entusiasmo, l'abate rispose: "Non è
+meraviglioso? Li abbiamo trovati in una lontana provincia
+che è stata recentemente afflitta da carestie o terremoti o
+scarafaggi giganti rossi, non ricordo i dettagli.  Mangiano
+con parsimonia, dormono solo due ore a notte, sono disposti
+a rinunciare alle celle e codificano appesi alle travi del
+soffitto, in modo che da ridurre i costi al minimo.  Con una
+squadra del genere dovresti essere in grado di recuperare il
+tempo perduto, e completare il lavoro di sette settimane in
+soli sette giorni."
+
+Suku sospirò, si mise due dita in bocca, ed emise un fischio
+acuto.  A quel suono una dozzina di piccole figure vestite
+saltarono dalle travi sullo stordito abate, facendolo cadere
+svenuto.
+
+L'abate si svegliò in un oscuro pozzo di pietra con una sola
+candela accesa al suo fianco. Mentre i suoi occhi si
+abituavano alla penombra scoprì uno scheletro rosicchiato
+dai topi con le vesti di Abate, su cui era stata appuntata
+una nota:
+
+  Sopra di te c'è una botola quadrata: //
+  robusta, ma leggera e non bloccata. //
+  Per facilitarti l'uscita ho installato le migliori cerniere- //
+  sette per ogni lato.
+

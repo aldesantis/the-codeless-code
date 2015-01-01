@@ -1,0 +1,26 @@
+Number: 38
+Lang: de
+Translator: rfen
+Title: Sprache
+
+<p>Ein Novize kam zu Java-Meister Banzen und fragte: „Was ist die vollkommenste Programmiersprache?“</p>
+
+<p>Der Meister antwortete: „Diejenige, welche die gewünschte Aufgabe mit dem geringsten Aufwand durch den Benutzer bewältigt.“</p>
+
+<p>Der Novize fragte: „Gibt es eine Sprache, die alle anderen in diesem Punkt übertrifft?“</p>
+
+<p>Der Meister antwortete: „Baue mir einen Garten aus Zehntausend Steinen!“</p>
+
+
+== Qis Kommentar
+
+<p>Auch das Management hat seine Programmiersprachen, doch produzieren diese oft fehlerhafte Ergebnisse.</p>
+
+
+== Qis Gedicht
+
+<p>Ob oder nicht der Garten jemals gebaut,<br />
+Banzens Wunsch war erfüllt.<br />
+Der Schüler fragte nicht mehr um Rat&nbsp;&mdash;<br />
+Worte verhüllen das Ziel.</p>
+

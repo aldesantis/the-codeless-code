@@ -4,7 +4,7 @@ Lang: fr
 Translator: cdlm
 
 Quand un novice rejoint le temple et déclare rechercher la sagesse, on lui conseille d'aller trouver le maître Java [[Bawan]] pour lui demander :
-« Comment la retorse Madame [[Jinyu]] est-elle devenue Abbesse de Tous les Clans et Responsabilités ? »
+« Comment la retorse Madame [[Jinyu]] est-elle devenue Abbesse de Tous les Clans et Préoccupations ? »
 
 Maître [[Bawan]] frapperait alors le novice dans le dos avec une pelle, et lui ordonnerait de revenir poser la question le soir suivant.
 La réponse serait la même, et l'entrevue serait conclue par le même ordre de revenir, jusqu'à ce que le novice fût illuminé.

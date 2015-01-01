@@ -1,0 +1,67 @@
+﻿Number: 27
+Lang: it
+Translator: mpas
+Title: Koan Zero
+
+Qi, il vecchio scriba, archiviava tutti i koan del tempio in
+un libro di notevoli dimensioni, a noi noto, oggi, come il
+“Codice Senza Regole”{{*}}.  Nelle sue pagine albergava
+tutta la saggezza del tempio.  Custodire il libro era era il
+dovere più singolare e sacro dello scriba.
+
+Un giorno, un novizio gli chiese il perché i koan fossero
+numerati a partire da uno.
+
+"Non sarebbe stato più appropriato, per la nostra
+professione, partire da zero?" Lo interrogò il novizio.
+
+Un vacuo sguardo di orrore si diffuse sul viso del
+vecchio.  Con le dita tremanti voltò pagina dopo pagina
+tutte le cronache del tempio.  In effetti, ogni koan, dal
+primo all'ultimo, aveva il numero sbagliato.  E poiché tutti
+i documenti, database e siti web interni del tempio facevano
+riferimento ai koan soltanto per numero, il danno era
+irreparabile.
+
+Lo scriba era desolato.  Per sette giorni sedette
+rannicchiato in un angolo del suo ufficio, fissando il suo
+pennello senza inchiostro, come se fosse un cobra pronto a
+colpirlo.
+
+Il silenzio si diffuse attraverso il tempio come una
+malattia.  Poiché nessun nuovo koan veniva redatto, non vi
+erano argomenti di discussione durante le riunioni del
+mattino e nulla, su cui meditare nel pomeriggio, per gli
+studenti.  Infine, fu presentata una petizione per risolvere
+il problema alla vecchia Jinyu - <i>Venerabile Badessa Di
+Tutti I Clan E Affini</i>.
+
+La badessa bussò energicamente alla porta dello scriba
+con il suo bastone, sollevando l'uomo dalla sua
+sofferenza.
+
+"Giovanotto”, disse (il vecchio scriba era molti anni più
+giovane di lei): "Non è forse vero che il koan quotidiano è
+generato dalla meditazione sulla saggezza che il tempio ha
+raggiunto dopo che il koan precedente è stato redatto?"
+
+"Così è”, rispose ossequiosamente lo scriba, inchinandosi
+profondamente.
+
+"Allora la tua via è ovvia: torna al Koan Numero Uno,
+sottrai la saggezza che esso insegna, e il Koan Numero Zero
+ti sarà rivelato.  Ed allo stesso modo si otterrà il Koan
+Meno Uno, meno due, e così via fino all'inizio del tempo
+stesso."
+
+Fu così che il carico di lavoro dello scriba raddoppiò,
+mentre la sofferenza gli fu sottratta.
+
+
+
+
+{{*}} "Codeless Code" nel testo originale.
+
+
+
+

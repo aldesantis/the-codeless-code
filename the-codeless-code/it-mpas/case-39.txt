@@ -1,0 +1,48 @@
+﻿Number: 39
+Lang: it
+Translator: mpas
+Title: Il Fiume Di Tè
+
+La maestra Java, Suku, stava visitando le province della sua
+giovinezza.  Si era appena seduta in una delle sue case da
+tè preferite quando un novizio si avvicinò e le chiese la
+sua opinione su un codice che aveva scritto.
+
+Suku esaminò il listato e vide che ogni singolo metodo era
+stato meticolosamente documentato.  Il metodo <i>setName</i>
+della classe <i>Person</i> dichiarava di impostare il nome
+della persona, il metodo <i>getName</i> affermava di
+restituire il nome impostato con <i>setName</i>, e il metodo
+<i>toString</i> giurava che, in effetti, avrebbe restituito
+una stringa.
+
+Suku spinse via il listato e restò seduta per un po' in
+silenzio.  Alla fine il novizio si schiarì la gola e gli
+chiese se era contrariata.
+
+"Questa è una domanda interessante," disse Suku. Indicò il
+codice.  "Questa è carta, appoggiata su un tatami. Sulla
+carta c'è dell'inchiostro.  L'inchiostro forma molte parole.
+C'è un uccello sulla superficie del tronco di un
+cipresso. Ha due ali piumate e due occhi ... "
+
+Continuò in questo modo fino a quando le guance del novizio
+si tinsero di rosso.  Raccolse il proprio codice e si
+allontanò dalla presenza della maestra, pieno di vergogna,
+ma illuminato.  Suku non smise di parlare fino a quando il
+ragazzo fu a portata d'orecchio.
+
+== Commento di Qi
+
+Suku si servì una generosa porzione di riso
+crudo.  Per il novizio fu una fortuna che le mancasse un
+cucchiaio di legno.
+
+== Poesia di Qi
+
+Il novizio versa un fiume di tè verde. //
+Eppure, Suku ha sete. //
+Una ciotola in posizione verticale può raccogliere quello che può,//
+ma ogni ciotola, se rovesciata, forma un diluvio.
+
+

@@ -1,0 +1,77 @@
+﻿Number: 58
+Lang: it
+Translator: mpas
+Title: A sufficienza da impiccarsi
+
+Non si dice molto dei monaci dalla tunica scura del Clan Dell'Amaro Respiro Del Lupo, tranne questo:
+nessun software può lasciare i confini del tempio a meno che non abbia ricevuto
+prima la loro approvazione.
+Nei giorni successivi ad un rilascio, l'intero Clan fu costretto a muoversi a piedi nudi, tanto era il
+rumore dei passi dei molti monaci che correvano, nelle ore più buie della notte, consegnando di nascosto
+i rapporti sui difetti.
+
+Così fu con una certa irritazione che il maestro Java <a href="/tag/Banzen">Banzen</a>&mdash;
+che teneva soprattutto all'esattezza&mdash; fu costretto a prendere in considerazione
+i ripetuti fallimenti del bravo monaco <a href="/tag/Djishin">Djishin</a>.
+
+- - -
+
+Banzen fece cercare Djishin, che avvertito trovò il maestro a guardare il tramonto dalla scogliera.
+
+Disse Banzen: "I monaci del Clan Dell'Amaro Respiro Del Lupo desiderano sapere se,
+con la prossima iterazione, il sistema sarà degno della loro attenzione.
+Essi bramano la nostra garanzia che non ci siano difetti critici dopo l'installazione,
+come è accaduto molte volte in precedenza. "
+
+Disse Djishin: "Dichiaro il nuovo sistema molto più stabile.
+In teoria ho testato ogni punto dove le componenti di basso livello potrebbero fallire,
+e tutto funziona come dovrebbe. "
+
+Disse Banzen: "Deve essere noioso lavorare così duramente per giorni, facendo clic sulle
+finestre di dialogo ed esaminare i file di log."
+
+Disse Djishin: "La mia analisi non viene effettuata manualmente, lei stesso ha osservato che
+un tale metodo è lento e soggetto a errori.
+Invece ho lavorato secondo il metodo di <a href="/tag/Luohou">Luohou</a>: tutte le modifiche ai DAOs
+e ai servizi in corso di esecuzione sono stati verificati da un battaglione completo di test automatizzati
+di basso livello.
+Per cui, se le pietre sono robuste, il muro si reggerà in piedi. "
+
+Disse Banzen: "Va ad'informare i monaci, allora. Ti aspettano dall'altra parte della gola. "
+
+Banzen indicò il grande abisso che separava la rupe dove si trovavano da quella opposta.
+
+Disse Djishin: "Come faccio ad attraversare? Il ponte è stato distrutto da una sciocca suora e
+ancora penzola a brandelli. "
+
+Banzen indicò una sottile corda tesa tra due alberelli sopra l'abisso.
+
+Disse Djishin: "Ma maestro, nessuno, nemmeno un acrobata dell'Imperatore
+potrebbe stare in equilibrio su una corda così sottile."
+
+Banzen indicò una matassa della stessa corda poggiata a terra lì vicino, avvolta in una solida
+spirale larga un metro. Il maestro mise un piede al centro e alzò l'altro piede, restando immobile
+per un intero minuto.
+
+Djishin sapeva che era meglio non accusare il maestro di ingiustizia, e disse:
+"Inoltre, la treccia sottile è secca e fragile. Non credo che possa sopportare il mio peso. "
+
+Banzen si inginocchiò, fece passare tutta la corda tra le mani, disegnando archi nell'aria,
+a dimostrazione che l'intera lunghezza era ancora intatta dopo che lui ci aveva camminato sopra.
+
+Anche in questo caso Djishin non protestò, dicendo: "Tuttavia il tuo ponte è tenuto in posizione
+da due fuscelli. Le piante saranno sicuramente sradicate&nbsp;".
+
+Banzen estrasse un ocarina dalla sua veste e soffiò un vibrante trillo acuto.
+Dalla foresta al di là del baratro emersero decine e decine di scoiattoli.
+Ad uno ad uno saltarono sull'ondeggiante cavo e corsero attraverso il divario.
+Quando ogni scoiattolo arrivava Banzen gettava una noce, dopo di che lo scoiattolo faceva un profondo
+inchino e scompariva tra gli alberi, e il successivo iniziava la traversata.
+Djishin guardò con stupore fino a quando l'ultimo scoiattolo se ne andò.
+
+Disse Banzen: "Visto che il tuo piede non è più grande del mio,
+il tuo corpo non è più pesante del mio, e, che, nessuno di noi pesa più di un centinaio
+di scoiattoli, dichiaro il mio ponte più che in grado di sopportare la tua traversata.
+In <i>teoria.</i>
+Ora <i>vai.</i> "
+

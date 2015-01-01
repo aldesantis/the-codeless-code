@@ -1,0 +1,56 @@
+Title: Les six hôtes indésirables
+Number: 71
+Lang: fr
+Translator: cdlm
+Credits: Quelques textures des illustrations mises à disposition par <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.title: Esquive *ça*.
+
+
+Une jeune nonne -- une novice -- dit à maître [[Kaimu]],
+« J'ai entendu parler des Six Hôtes Indésirables, mais cela ne m'a pas encore ouvert les yeux. »
+
+Le maître accrocha la cage d'un mainate au bout d'une longue perche qu'il donna à la novice.
+Puis il écrivit quelque chose sur un bout de papier, sécha l'encre en soufflant dessus, et donna cela aussi à la novice, en expliquant :
+« Sur la note sont les noms de cinq maisons du village.
+À la nuit tombée, emmène ton bol vide et va mendier du riz à chacune de ces maisons.
+Prends l'oiseau avec toi.
+Médite sur ce que tu vois et entends. »
+
+Quand la novice arriva à la première maison et présenta son bol, l'homme le remplit de grains blancs et ferma sa porte.
+Le mainate chanta :
+/« Ni riz, ni radis, ni bouchée là dedans ;
+tu ferais mieux de manger avec tes doigts. »/
+Touchant les grains, la novice découvrit avec horreur que ce n'était pas du tout du riz, mais des petits asticots blancs.
+Elle les jeta dans l'herbe et lava le bol à un ruisseau jusqu'à ce que ses doigts soient engourdis par le froid.
+
+Quand la novice arriva à la seconde maison et présenta son bol, l'homme dit « Je n'ai pas de riz » et ferma sa porte.
+Le mainate chanta :
+/« Ni riz, ni radis, ni bouchée là dedans ;
+ses souris sont mortes de faim. »/
+
+Quand la novice arriva à la troisième maison et présenta son bol, l'homme dit « Pas de riz, » alluma une lanterne, et ferma sa porte.
+Le mainate chanta :
+/« Vois la bannière rouge sous la lanterne ;
+cette avare a plein de riz, mais ne nourrira pas une inconnue. »/
+
+Quand la novice arriva à la quatrième maison et présenta son bol, l'homme le jeta dans les buissons et ferma sa porte.
+Le mainate chanta :
+/« Tu aurais pu l'attraper si tu avais essayé, mais tu serais quand même repartie affamée. »/
+
+Quand la novice arriva à la cinquième maison et présenta son bol, l'homme le retourna sur le pas de la porte, le réduit en échardes sous son talon, et claqua sa porte de colère.
+Le mainate resta muet.
+
+De retour vers maître Kaimu, la novice dit :
+« Mes yeux ont été ouverts à cinq Hôtes Indésirables. »
+
+« Nomme-les, » interrogea le maître.
+
+« Bug, valeur incorrecte, indicateur, exception, terminaison, » répondit la novice.
+
+Le maître approuva.
+
+« Mais, et le sixième ? » demanda la novice.
+
+Le maître dit :
+« Amène un bol vide à la tombe de maître Mugen.
+Soit le maître mort le remplira, soit il te renverra ; à ce moment, le Sixième Hôte sera passé. »

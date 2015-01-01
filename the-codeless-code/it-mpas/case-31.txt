@@ -1,0 +1,34 @@
+﻿Number: 31
+Lang: it
+Translator: mpas
+Title: Il Sandalo Eloquente
+
+Due monaci portarono la loro discussione al'attenzione
+del maestro Java, Kaimu.  Gli chiesero: "È <i>null</i> un
+valore, o l'assenza di valore?"
+
+"Null", rispose il maestro, e si allontanò.
+
+Anche dopo che tutto il clan si era ritirato nei
+dormitori e tutte le lampade erano state spente, i monaci
+continuarono a discutere sul significato della risposta del
+maestro.
+
+Il primo monaco insisteva sul fatto che <i>null</i>
+doveva essere un valore, perché il maestro l'aveva
+utilizzato come risposta alla loro domanda.
+
+Il secondo monaco insisteva sul fatto che <i>null</i>,
+non poteva essere un valore, poichè l'inconcludente risposta
+non includeva nessuna delle alternative proposte.
+
+Un terzo monaco, che stava cercando di dormire, urlò e
+lanciò un sandalo nell'oscurità.
+
+Un quarto monaco chiese, sornione: "Era, questa, una
+eloquente richiesta di silenzio, o l'assenza di una
+eloquente richiesta di silenzio?"
+
+Mentre i primi due monaci meditavano sulla questione, la
+luna sorgeva.
+

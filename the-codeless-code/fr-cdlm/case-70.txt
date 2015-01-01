@@ -1,0 +1,70 @@
+Title: System
+Number: 70
+Lang: fr
+Translator: cdlm
+
+Un novice posa cette question à maître [[Bawan]] : //
+//
+Le matin mon maître me donne un but. //
+De ce but, je tire une idée. //
+De l'idée, j'esquisse des diagrammes sur papier. //
+Des diagrammes, je conçois un modèle. //
+Du modèle, je génère un squelette de projet. //
+Du squelette, je saisis du code source en texte. //
+Du texte, la compilation produit le bytecode des classes. //
+Des classes, l'assemblage donne des fichiers war. //
+Des fichiers war, le déploiement crée une application web. //
+//
+Mais nous n'en avons toujours pas fini : //
+Étant donnée une application, la machine virtuelle en extrait le bytecode. //
+Étant donné du bytecode, le compilateur à la volée produit du code machine. //
+Étant donné du code machine, le système d'exploitation instruit le processeur. //
+Étant données des instructions, les portes logiques s'ouvrent ou se ferment, //
+faisant s'écouler des électrons dans telle ou telle direction. //
+//
+À chaque étape, le projet est raffiné, distillé, transformé. //
+Chaque étape dépend des suivantes --//
+sinon le programme ne fonctionne pas. //
+//
+Ma question est donc celle-ci : //
+Lequel de ces produits est le vrai logiciel, //
+et lequel en est la vraie source ? //
+//
+//
+Le maître répondit : //
+//
+Mais nous n'avons /toujours/ pas fini : //
+des électrons s'écoulent par ci ou par là, //
+déclenchant d'autres portes logiques, //
+modifiant des octets en mémoire, //
+qui sont interprétés comme de l'information, //
+qui est affichée à l'écran, //
+qui projette un motif sur ta rétine, //
+qui envoie des signaux à ton cortex, //
+qui les propage vers tes lobes frontaux, //
+qui forment une idée. //
+//
+Donc ma réponse est celle-ci : //
+Va au cloître du temple ; approche-toi du chêne qui s'y élève. //
+Des branches au dessus de ta tête, cueille un gland. //
+De la terre sous tes pieds, ramasse des feuilles humides et fertiles. //
+Laisse ton haleine se mélanger à la rosée. //
+Laisse ta sueur humecter le terreau. //
+Reste ainsi, jusqu'à ce que le chêne ne soit plus. //
+
+
+== Commentaire de Qi
+
+De quand parlez vous, quand vous parlez de source ?
+D'où parlez vous, quand vous parlez de code ?
+Les cloisons de votre bureau ne sont pas l'horizon.
+Vous devez voir au delà des besoins journaliers ;
+sinon votre implantation n'est qu'un bout d'écorce sèche et vous n'êtes que nourriture à lombrics.
+
+
+== Poème de Qi
+
+Quand le chêne n'est plus, le moine n'est plus, puis rien n'est plus : //
+Et tout cela en un clin d'œil. //
+Non pas où, mais en tout endroit. //
+Non pas quand, mais en tout instant.

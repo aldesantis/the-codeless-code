@@ -1,0 +1,17 @@
+﻿Number: 1
+Lang: de
+Title: Kleinigkeiten
+Translator: atha
+Illus.0.title: Fragen nach dem Grund für das Verbot des Barfußgehens im Tempel führen meist zur selben Antwort.
+
+Drei Tage und drei Nächte verließ der Java-Meister sein Büro nicht. Am vierten Tag sandten die Mönche des Tempels einen Novizen, um der Sache auf den Grund zu gehen.
+
+Der Novize fand den Meister an der Tafel, versunken in die Betrachtung eines einzigen Datenflussdiagramms. Er erkannte, dass es sich um eine kleine Komponente aus dem riesigen System handelte, mit dessen Wartung die Mönche beauftragt waren. Höflich fragte der Novize, woran der Meister gerade arbeitete.
+
+Der Meister antwortete: "Es gibt einen Defekt, und ich erwäge gerade den besten Weg, ihn zu beseitigen."
+
+Darauf meinte der Novize: "Ihr predigt oft über die Wichtigkeit der Festlegung von Prioritäten. Warum seid Ihr dann so besessen von einer unwichtigen Kleinigkeit?"
+
+Ohne ein Wort zu sagen, hob der Meister seinen Stab und brach dem Novizen den kleinen Zeh seines nackten linken Fußes.
+Der Novize schrie vor Schmerz und taumelte von dannen. In diesem Moment war der Novize erleuchtet.
+

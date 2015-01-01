@@ -1,0 +1,45 @@
+﻿Number: 57
+Lang: it
+Translator: mpas
+Title: Precisione
+Illus.0.title: Il cervello era in un contenitore etichettato come AB-qualcosa
+
+Un monaco avvicinò il maestro Java [[Bawan]]
+alla fine del pasto serale e gli chiese:
+
+"Non è forse vero che la memoria di un computer è,
+essenzialmente, una sequenza finita di bit?"
+
+"È così." disse il maestro.
+
+"E se tutti i computer del mondo fossero uniti per elaborare
+un attività, il numero di bit sarebbe ancora finito?"
+
+"Anche così," disse il maestro.
+
+"Allora non potremo mai sperare di eseguire calcoli perfetti
+usando i comuni numeri irrazionali, come pi o la radice
+quadrata di due, perché questi possiedono un numero infinito
+di cifre!  Le nostre approssimazioni restituirebbero errore
+su errore con ogni operazione matematica.  La squisita
+professione del calcolo in virgola mobile è una fortezza
+costruita su sabbie mobili! "
+
+Bawan si alzò in piedi, fissò pensieroso la vita del monaco
+per un momento{{*}}, poi gli lanciò la sua ciotola di duro
+legno nello stomaco. Il monaco si piegò in due.
+
+"Raggio: cinque centimetri," disse Bawan, indicando la
+ciotola. "Qual è la circonferenza?"
+
+"10π," ansimò il monaco.
+
+"Impressionante", disse Bawan. "Come, il vostro cervello,
+sia impensabilmente grande, da destreggiarsi tra un numero
+infinito di cifre e arrivare ad una risposta esatta."
+
+
+
+{{*}} Bawan era notoriamente di bassa statura, il che può spiegare la sua passione per dettagli di basso livello.
+
+

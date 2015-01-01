@@ -1,0 +1,40 @@
+﻿Number: 2
+Lang: it
+Title: Ignota Ignoranza
+Translator: mpas
+Illus.0.title: A pensarci bene, dovr&ograve; solo l'insalata.
+
+L'Imperatore era furibondo per i difetti del nuovo sistema
+di elaborazione ordini che aveva commissionato, e così inviò
+un messaggero al tempio, per indagare sui monaci.
+
+"Sua Eccellenza vi ha mandato i suoi Analisti Aziendali più
+fidati per garantire che tutte le caratteristiche avrebbero
+funzionato come previsto." disse il messaggero accigliato.
+"Non avete compreso nessuna delle loro numerose
+presentazioni in PowerPoint?"
+
+"Abbiamo partecipato a ciascuna di esse," disse il maestro
+Java. "E tutto ciò che è stato sentito, è stato compreso".
+
+Il maestro fece portare una piccola ciotola di riso davanti
+al messaggero, che lo terminò prontamente. Il messaggero si
+asciugò la bocca sulla manica e continuò: "Quegli stessi
+Analisti vi hanno fornito diecimila pagine di documenti di
+requisiti, meticolosamente illustrati fino all'ultimo caso
+d'uso. Non vi siete scomodati di esaminarli?"
+
+"Abbiamo passato al setaccio ogni pagina," disse il maestro
+Java. "E tutto ciò che è stato letto, è stato compreso."
+
+Il maestro fece portare una tazza di tè fumante davanti al
+messaggero, il quale lo tracannò in un fiato.  Poi il
+messaggero cadde in avanti, sul tavolo, morto.
+
+Il maestro chiese ai suoi discepoli: "Non sapeva il
+messaggero che è nostra abitudine circondarci di cibo e
+bevande avvelenate, per meglio resistere alla tentazioni
+della carne?"
+
+Disse il monaco più saggio: "Tutto ciò che è stato osservato
+dal messaggero, è stato compreso."

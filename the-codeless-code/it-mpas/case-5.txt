@@ -1,0 +1,52 @@
+﻿Number: 5
+Lang: it
+Title: Vuoto
+Title-footnote: *
+Translator: mpas
+
+In una fredda giornata d'autunno il maestro Java si svegliò inquieto.
+S'incamminò da solo per schiarirsi le idee.
+
+Presto il maestro si trovò alle porte del Tempio Delle Tre Pietre, dove era ancora praticata l'arte dell' ANSI C.
+Un fratello sapiente montava di guardia.
+
+"Qual è la natura del <i>vuoto</i>?" Domandò il maestro.
+
+"Non ha natura", rispose il fratello.
+"È il bastone preso dal cane che non recupera bastoni.
+ È la cosa cui punta la mano che può indicare qualsiasi cosa. È la perfetta assenza di valore ".
+
+Il maestro pensò: "Il Tempio Delle Tre Pietre non ha bisogno di una guardia.
+Non ci può essere nulla che abbia valore."
+
+Più avanti arrivò al Tempio Del Cielo Di Acciaio Bianco{{**}}, un luogo di teorici in cui è permesso usare solo ML.
+Nel giardino appassito una suora stava tracciando espressioni lambda nella polvere.
+
+"Qual è la natura del <i>vuoto</i>?" Domandò il maestro.
+
+"Ha il colore dell'aria, e il peso della nebbia che sale." rispose la sorella.
+"Quando viene colpito, ha il suono della luna nuova che scivola dietro una nuvola.
+Ogni ciotola pulita ne contiene tanto quanto se ne vuole."
+
+Il maestro pensò: "La sorella non ha detto nulla che sia falso, ma nemmeno nulla che sia vero."
+
+Proseguendo lungo la strada, il maestro arrivò a una grande casa padronale, dove una donna anziana stava tagliando le siepi.
+
+"Qual è la natura del <i>vuoto</i>?" Domandò il maestro.
+
+La vecchia s'inchinò e continuò la sua potatura.
+
+Il maestro pensò: "Qui trova luogo la pura saggezza, sampre che non vi sia solo la sua assenza".
+
+Alla fine il maestro arrivò a un cimitero abbandonato.
+
+"Qual è la natura del <i>vuoto</i>?" Domandò il maestro.
+
+Dallo sgombro e sterile cortile non giunse alcuna risposta.
+
+Il maestro Java fu soddisfatto.
+
+
+{{*}} "Void" nel testo originale.
+{{**}} White Iron - acciaio che originariamente era avvolto in carta bianca con il quale, insieme all'acciaio blu veninvano forgiate le antiche spade dei samurai.
+
