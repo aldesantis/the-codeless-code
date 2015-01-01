@@ -1,0 +1,39 @@
+Number: 162
+Title: Un plan qui se déroule sans accroc
+Lang:fr
+Translator: abelards
+
+Maître [[Banzen]] était en visite dans une province voisine,
+et avait été voir un abbé dont les frères avaient récemment
+gagné un contrat de développement face à un concurrent bien installé.
+
+"Ça s'est révélé être une victoire à la Pyrrhus,"
+se lamenta l'abbé en versant le thé.
+"Le code dont nous avons hérité est une énorme montagne de bouse,
+où même la plus petite manipulation nous enterre jusqu'aux
+yeux dans un glissement de purin, infesté de NullPointerException."
+
+"Merci, je suis en train de manger," dit le maître.
+
+"Ça ne m'étonne plus de savoir que nos prédécesseurs
+étaient incapables de faire même la plus petite modification
+sans des semaines d'effort !" continua l'abbé.
+"Ça ne m'étonne plus que la patience du gouverneur ait
+été poussée à bout ! Nous devrions faire du refactoring,
+mais je ne sais même pas où commencer, ni comment vérifier
+que nous n'avons rien cassé durant l'opération."
+
+"Où sont les expressions de besoin ?" demanda le maître.
+
+"Il n'y en a pas," dit l'abbé. "Le gouverneur a pour habitude
+de dicter les modifications quand l'envie le prend.
+Il dit que, par définition, tout ce que fait le code à cet
+instant précis est la référence."
+
+Banzen prit une gorgée de thé. "Ah bon ? Et bien toutes mes
+condoléances vont au au gouverneur, et aucune pour vous !
+Le pauvre homme ! Par deux fois -- et à grand prix --
+il a embauché une abbaye entière pour construire des logiciels
+dans le but précis de se rendre la vie dure.
+Vous devriez /remercier/ vos prédécesseurs de vous avoir
+laissé d'admirables fondations pour réussir cela."
