@@ -1,5 +1,7 @@
 Number: 166
 Title: Tempus Fugit
+Lang: fr
+Translator: abelards
 Illus.0.title: J'ai réalisé récemment qu'étant né avant le 1er janvier 1970, je suis plus vieux que time() lui-même.
 Credits: Merci à Stephen Loftus-Mercer d'avoir inspiré la note de bas de page :)
 
