@@ -1,0 +1,49 @@
+Number: 153
+Title: El Círculo Rojo
+Lang: es
+Translator: galcalde
+Illus.0.title: Como conseguir con la cabeza alta en los negocios sin intentarlo.
+
+La Maestra [[Suku]] y sus tres aprendices llegaron a un templo donde sesenta monjes de ojos rojos trabajaban dura y frenéticamente a todas horas del día y la noche.
+
+"¿Como llegaste a este estado?" Suku preguntó a un cansado monje.
+
+El monje respondió, "Una y otra vez, el abad principal promete muchas cosas a la gobernadora provincial. <i>Muy bien,</i> decimos, <i>aunque debemos precisar más desarrolladores,</i> y el abad está de acuerdo. Sin embargo siempre nos hallamos a un mes restante donde se necesitan dos. Tememos por nuestra cordura."
+
+"Debo hablar con el abad," dijo Suku.
+
+- - -
+
+El estudio del abad principal estaba medio enterrado bajo planificaciones, hojas de registro horario, y reportes de estado garabateados con tinta roja. El abad caminaba nerviosamente para adelante y atrás.
+
+"¿Como llegaste a este estado?" Suku preguntó al abad.
+
+El abad respondió, "Una y otra vez, mis monjes me dicen que necesitan más desarrolladores para cumplir las fechas límite de la gobernadora provincial. <i>Muy bien,</i> digo, <i>debo pedirle a la gobernadora que me adelante los fondos necesarios,</i> y la gobernadora está de acuerdo. Sin embargo siempre entregamos una característica cuando se acordaron dos. Yo temo por mi cabeza."
+
+"Debo hablar con la gobernadora provincial," dijo Suku.
+
+- - -
+
+La gobernadora y su tesorero estaban discutiendo las quejas del tesorero sobre las cuentas de la provincia que estaban en números rojos. Como la cabeza del tesorero había sido separada de su cuerpo, la conversación era algo unilateral.
+
+"¿Como llegaste a este estado?" Suku preguntó a la cabeza del tesorero.
+
+La gobernadora respondió, "Una y otra vez, el abad del templo tiene mi software de rehen a menos que le de más dinero. <i>Muy bien,</i> digo, <i>pero para duplicar las monedas deseo el doble de trabajo,</i> y el abad está de acuerdo. Sin embargo siempre hallo el doble de defectos que en el lanzamiento anterior. Yo temo que los monjes estén insuficientemente motivados, y su abad me tome por una tonta rica."
+
+"Debo hablar con mis aprendices," dijo Suku.
+
+- - -
+
+Los aprendices estaban esperando afuera del templo cuando su maestra volvió, sus mejillas estaban rojas de frustración.
+
+"¿Como llegaste a este estado?" los aprendices preguntaron a Suku.
+
+Su maestra respondió, "Una y otra vez, es la misma historia. Si no intervenimos, al año siguiente habrá el doble de monjes aquí, y luego el doble otra vez, y aún la gobernadora provincial seguirá insatisfecha. Temo que las ganas del abad de apaciguarla han tenido el efecto opuesto."
+
+"¿Y ahora qué?" preguntaron los aprendices.
+
+"Deben hablar con el abad," dijo Suku. "Díganle que Suku diseñó una solución a su problema y se lo presentó a la gobernadora, quien quedó encantada por su simpleza y frugalidad. Si él desea ponerlo en movimiento, llévenlo a la gobernadora para que diga sus palabras más preciadas, <i>De acuerdo."</i>
+
+"¿Luego qué?" preguntaron los aprendices.
+
+"Traigan su cobarde cabeza en esta cesta," dijo Suku. "Porque si va a rodar, cuanto más temprano mejor para todos."
