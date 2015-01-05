@@ -1,0 +1,35 @@
+Number: 163
+Lang: fr
+Translator: abelards
+Title: Vacances
+Illus.0.title: J'espère vraiment que c'est une coquille. [fishing - pêcher ; phishing - hameçonnage]
+
+Par un jour de premières fraîcheurs d'automne,
+une messagère vint au Temple porteur de nouvelles urgentes.
+À sa grande surprise, elle trouva la cour vide,
+chaque couloir et salle commune vides.
+Pas une âme ne s'y trouvait.
+
+Passant le pas d'une porte ouverte, elle entendit le cliquètement
+d'un clavier à l'intérieur. Elle y trouva un vieux scribe,
+les yeux rivés sur son moniteur.
+
+"Où--" commença la messagère.
+
+"Vacances," dit le scribe sans se retourner,
+désignant vaguement le reste du temple d'un revers de la main.
+
+"Pas vous ?" demanda la messagère.
+
+"Moi aussi," dit le scribe.
+
+"Mais sur votre écran--" dit la messagère.
+
+"Oui," dit le scribe. "Le code PHP le plus laid, le plus
+vérolé de bugs, le plus récalcitrant que vous pourriez
+trouver dans les Dix-Sept Provinces."
+
+"Mais pourquoi travaillez-vous dessus ?" demanda la messagère.
+
+"Parce que," sourit le scribe, "ce n'est pas le code du Temple.
+C'est /le mien/."

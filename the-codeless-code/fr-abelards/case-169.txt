@@ -1,0 +1,40 @@
+Number: 169
+Title: Bonnes pratiques
+Lang: fr
+Translator: abelards
+Illus.0.title: Je vais juste mettre le livre "Standards et Pratiques" ici, entre "L'Encyclopédie du Plombier pour l'Ajustement des Tuyaux" et "1001 maladies des gencives (illustré couleur)".
+
+Le vieux scribe [[Qi]] fut appelé en réunion avec deux vieux abbés.
+
+Le premier abbé dit, "Les développeurs ignorent nos nombreux
+documents de Standards et Pratiques. Nous avons envoyé les fichiers
+dans le dépôt de code source d'un projet ; personne ne les télécharge.
+Nous avons mis des pages Web avec les liens des PDFs disponibles ;
+personne ne les visite. Nous avons à grand peine copié tout le
+contenu dans un wiki ; personne ne navigue dessus."
+
+Le second abbé dit, "Nous envisageons maintenant de /faire imprimer/
+l'ensemble des documents et le relier pour faire un livre.
+Nous en placerions un exemplaire sur le bureau de chaque développeur.
+Quelle est votre opinion ?"
+
+"Faites une couverture et une reliure blanches," dit le scribe.
+"Dans un an, l'épaisseur de la poussière se verra moins."
+
+"Nous voudrions que les développeurs les /utilisent/," dit le premier abbé.
+
+"Ah !" dit le scribe. "Et bien faites la reliure en rouge,
+ainsi quand les nuits fraîchiront cela sera plus joli dans le feu."
+
+"Nous voudrions que les développeurs les /lisent/," dit le second abbé.
+
+"Et bien quand vous aurez trouvé comment faire, dites-le moi !" dit le scribe.
+"Car je n'ai jamais trouvé le moyen de faire lire quelque chose
+à quelqu'un contre sa volonté."
+
+"Pourquoi faites-vous l'imbécile au lieu de nous aider ?!" cria le premier abbé.
+
+/"Wú,"/ dit le scribe.
+"Vous avez amené des chiens sauvages qui ont détruit trois canapés,
+et maintenant vous me demandez de quelle couleur devrait être le quatrième.
+Je ne fais que vous dire : ce ne sont pas les canapés qu'il faut changer."

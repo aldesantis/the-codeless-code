@@ -1,0 +1,72 @@
+Number: 175
+Date: 2015-01-01
+Title: Flat Shark
+Geekiness: 2
+Names: Kaimu
+Topics: Java, single-responsibility principle, naming, interfaces, multiple inheritance, delegation, composition, modelling, object-oriented programming
+Illus.0.src: shark.jpg
+Illus.0.title: Ce n'est pas une peinture.
+Illus.0.par: 1
+
+A monk asked Java master [[Kaimu]]: //
+What is the "single-responsibility principle"?
+
+Said Kaimu: //
+That a class shall do exactly one thing, //
+and do it completely.
+
+The monk asked: //
+How shall I decide this "one thing"?
+
+Said Kaimu: //
+The Fisherman does not build ships, //
+or we would call him a Shipwright.
+
+The monk asked: //
+Is there no room in your philosophy for interfaces? //
+What if my class can serve as a Fisherman, //
+and a Shipwright and Sailor besides?
+
+Said Kaimu: //
+What would you name such a three-headed monster?
+
+The monk replied: //
+Shísho, after my uncle.  He lives by the sea and does all these things.
+
+Said Kaimu: //
+I would give your class Shísho three instance variables: //
+a Fisherman, a Shipwright, and a Sailor. //
+Then Shísho may implement those interfaces by delegation.
+
+The monk replied: //
+I speak of inheritance, yet you answer in composition. //
+/All/ of my uncle is a Fisherman, not just his left foot. //
+What use are objects, if we do not faithfully model the world?
+
+Said Kaimu: //
+If I paint a fine shark upon this page, will you say, "Fine shark!" //
+or will you complain that it is flat and does not eat you? //
+
+The monk asked: //
+But how are we to know when the flat shark is shark enough? //
+Or when our uncle should fish with his left foot?
+
+Said Kaimu: //
+Learning how is /our/ "single reponsibility".
+
+
+== Qi's Commentary
+
+Every class does exactly one thing -- //
+but sometimes that one thing //
+is "doing too many things".
+
+
+== Qi's Poem
+
+One morning Kaimu took up his brush. //
+In two strokes he painted an exquisite shark. //
+A passerby laughed. "It is a poor shark that can't open its mouth!" //
+Kaimu replied, "Even so, it has told me that you are a fool."
+
+
