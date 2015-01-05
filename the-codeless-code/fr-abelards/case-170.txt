@@ -1,0 +1,45 @@
+Number: 170
+Title: Le mendiant violacé
+Lang: fr
+Translator: abelards
+
+Un certain moine du [[Clan of Iron Bones|Clan des Os de Fer]]
+approcha le maître hébergeur [[Yishi-Shing]], disant :
+"Mille excuses, maître, mais depuis la mise à jour du système d'exploitation
+de la semaine dernière, je n'ai pas réussi à remonter notre baie de
+disques de secours.
+
+Yishi-Shing demanda, "Et qu'as-tu essayé, à part m'importuner ?"
+
+Le moine dit : "J'ai contacté le fournisseur des disques -- ils disent que
+notre nouveau système n'est pas géré. J'ai parcouru leur documentation --
+elle est quasi inutile. J'ai écumé le Web pour voir si d'autres sont dans ma
+situation -- personne, apparemment. J'ai même mendié de l'aide sur des forums
+en ligne -- aucune réponse ne m'a été adressée."
+
+Yishi-Shing dit : "Montre moi ce que tu appelles /mendier de l'aide/."
+
+Le moine ouvrit son portable et montra ses nombreuses et polies requêtes d'assistance. En effet, toutes étaient sans réponse.
+
+Yishi-Shing secoua la tête. "Et bien nous avons notre réponse."
+
+Le maître prit le portable des mains du moine et envoya le message suivant sur plus d'une douzaine de forums :
+
+     <b>**ATTENTION**</b> Les baies de disques 24-terabits
+     Thundering Elephant NE PEUVENT PAS être montées sous
+     la version 89 du noyau Petulant Penguin !
+     Aucun contournement possible ! ÉVITEZ CETTE CONFIGURATION !!!
+
+Puis Yishi-Shing ferma le portable et s'en fut, fredonnant.
+
+- - -
+
+Le soir même, le maître fit mander le moine et lui demanda des nouvelles.
+
+Le moine ouvrit son portable. "Cinq contributeurs différents m'ont tous traité
+de parfait idiot, et proposé une solution simple à mon problème, qu'ils prétendent
+avoir testé sur leurs propres systèmes."
+
+Yishi-Shing hocha la tête. "Mes vagabondages m'ont une fois mené devant
+un mendiant dont la pancarte disait, /Vous n'OSEREZ pas me jeter des pièces !/
+Son corps était violacé d'ecchymoses, mais son bol était toujours plein."
