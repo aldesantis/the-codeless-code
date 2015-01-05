@@ -1,4 +1,6 @@
 Number: 163
+Lang: fr
+Translator: abelards
 Title: Vacances
 Illus.0.title: J'espère vraiment que c'est une coquille. [fishing - pêcher ; phishing - hameçonnage]
 
