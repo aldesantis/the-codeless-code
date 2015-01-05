@@ -1,0 +1,51 @@
+Number: 154
+Title: Un puente hacia ningún lugar
+Lang: es
+Translator: galcalde
+Illus.0.title: La palabra "ingeniería" viene del Latin ingenium, que significa "ingenio" e ingeniare, que significa "idear o concebir".  Diría que la frase "gente ingeniosa que idea o concibe cosas" se aplica a la mayoría de los desarrolladores de software. Por supuesto, también se aplica a los estafadores y supervillanos de James Bond.
+
+Un constructor de puentes estaba completando su inspección del [[Zjing's Bridge|Puente de Zjing]] cuando observó al maestro [[Kaimu]] parado cerca.
+
+El constructor le dijo a Kaimu: "He oído que que sus monjes se refieren a si mismos como 'ingenieros de software.' Como un <em>verdadero</em> ingeniero me parece algo absurdo...
+
+"En mi profesión analizamos todos los aspectos de nuestra tarea antes de que se corte el primer tablón. Cuando están hechas nuestras heliografías puedo decirle exactamente cuanta madera necesitaremos, cuantos clavos y cuanta cuerda, cuanto peso soportará el puente, y el mismo día en que será completado...
+
+"Sus monjes no hacen esas cosas. Producen código en masa antes que su cliente haya terminado de describir lo que desea. Ellos improvisan, reconsideran, rediseñan, y reescriben media docena de veces antes de entregar, y lo que producen invariablemente se estrella o es vulnerable al ataque. ¡Si tuviese que trabajar de esta forma, nadie se atrevería a colocar un pie en este puente!"
+
+Kaimu se inclinó y dijo: "Hay mucho que nuestros monjes podrían aprender de usted."
+
+El maestro luego llamó a tres monjes superiores, para asistir al ejemplo del constructor de puentes, y oír de la disciplina de un verdadero ingeniero.
+
+- - -
+
+Después que el constructor repitiese su argumento, el primer monje preguntó: "Cuando un puente está a medio terminar y el cliente luego ordena que sea el doble de ancho y dos millas hacia abajo, ¿Cómo se logra eso?"
+
+El constructor dijo: "Simplemente no permitimos esos cambios irracionales."
+
+El segundo monje preguntó: "Cuando usted aprende al completarlo que su industria cambió la madera por la piedra y ahora sólo entrena albañiles, ¿Como remodela las varias estructuras a su cuidado?"
+
+El constructor dijo: "Simplemente no hacemos ese mantenimiento innecesario."
+
+El tercer monje preguntó: "Cuando la fuerza de gravedad cambie su dirección de repente, o los dioses decreten que la madera deba volverse polvo y que la cuerda deba pesar tanto como el plomo, ¿Cómo evita que los viajantes caigan al abismo?"
+
+El constructor dijo: "Simplemente no planeamos para esas posibilidades absurdas."
+
+Kaimu agradeció al constructor de puentes, juntó a los monjes, y cruzó el puente con ellos.
+
+- - -
+
+Cuando llegaron al otro lado, Kaimu le preguntó al primer monje: "¿Qué has aprendido del constructor de puentes?"
+
+El primer monje dijo: "La determinación de un verdadero ingeniero es algo envidiable. Pero si tuviésemos que trabajar de una forma tan inflexible, el Emperador seguramente nos ahogaría en nuestras propias cascadas."
+
+Kaimu le preguntó al segundo monje: "¿Qué has aprendido del constructor de puentes?"
+
+El segundo monje dijo: "La frugalidad de un verdadero ingeniero es algo envidiable. Pero si tuviésemos que aferrarnos tan duro a la tecnología del pasado, la Web no existiría por otros mil años."
+
+Kaimu le preguntó al tercer monje: "¿Qué has aprendido del constructor de puentes?"
+
+El tercer monje dijo: "La predictibilidad del mundo de un verdadero ingeniero es algo envidiable. Pero el nuestro es un mundo que está siempre en cambios constantes, donde las leyes de la física cambian semanalmente. Si no nos adaptamos rápidamente a lo imprevisto, el único evento previsto sería nuestra propia destrucción."
+
+El primer monje preguntó: "Maestro... ¿Qué ha aprendido el constructor de puentes de nosotros?"
+
+Dijo Kaimu: "Nada aún. Pero cuando toque con una vela encendida el aceite que esparcí de mi linterna durante nuestro cruce, él aprenderá la razón de planear lo absurdo, la virtud de reconstruir en piedra, y la sabiduría de no insultar a tus clientes."
