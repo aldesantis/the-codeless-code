@@ -23,13 +23,13 @@ Luego aquel día Hwídah se acercó al maestro java [[Banzen]], con el fuego de 
     order.setStatusCode(rs.getInt(STATUS_CODE));
 </pre>
 
-"Ah," dijo Banzen. "He visto esos errores varias veces antes. La propiedad <em>statusCode</em> es un entero que permite contener un null. Pero wn la API de JDBC, <em>getInt</em> devuelve el tipo <em>int</em> primitivo y silenciosamente fuerza un NULL de base de datos a ser un cero. Este cero es silenciosamente seteado por <em>setStatusCode</em> y devuelto por <em>getStatusCode</em> cuando se le ingresan los datos al form. Y como no hay un estado de orden cero, una fila de base de datos válida aparecerá inválida."
+"Ah," dijo Banzen. "He visto esos errores varias veces antes. La propiedad <em>statusCode</em> es un entero que permite contener un null. Pero en la API de JDBC, <em>getInt</em> devuelve el tipo <em>int</em> primitivo y silenciosamente fuerza un NULL de base de datos a ser un cero. Este cero es silenciosamente seteado por <em>setStatusCode</em> y devuelto por <em>getStatusCode</em> cuando se le ingresan los datos al form. Y como no hay un estado de orden cero, una fila de base de datos válida aparecerá inválida."
 
 "¿Que corrección habrá para el monje de la Huella del Elefante?" preguntó Hwídah.
 
 "Nada letal," dijo Banzen. "Mi castigo usual involucra un bote que guardo en el desfiladero al sur para la ocasión. El monje saldrá mojado y magullado, y en el futuro examinará sus remos y sus APIs un poco más críticamente antes de usarlos."
 
-La cara de Hwídah se volvió escarlata. "¿Pero que hay del honor del Clan de la Araña? ¡Los monjes del Aliento Amargo del Lobo se burlan de nosotros en su abadía por esto!" Entonces se congeló, dandode cuenta que ella había revelado su traspaso en territorio prohibido, pero Banzen sólo suspiró.
+La cara de Hwídah se volvió escarlata. "¿Pero qué hay del honor del Clan de la Araña? ¡Los monjes del Aliento Amargo del Lobo se burlan de nosotros en su abadía por esto!" Entonces se congeló, dandode cuenta que ella había revelado su traspaso en territorio prohibido, pero Banzen sólo suspiró.
 
 "La falla verdadera cae en los autores de la venerable API de JDBC, y con cada mantenedor desde entonces," dijo el maestro. "Le dieron al monje un bote de remo bien usado, con remos robustos montados en sus escálamos. ¿Deberíamos condenarlo simplemente por no darse cuenta que el remo izquierdo era muy corto? No... la inmersión que recibe cuando el bote gire en los rápidos bastará."
 
