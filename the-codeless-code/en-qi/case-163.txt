@@ -35,12 +35,3 @@ Provinces."
 
 "Because," smiled the scribe.  "It is not the Temple's code.
 It is /mine/."
-
-
-== Editor's note
-
-<i>"The Codeless Code" will be taking a brief hiatus for
-the next couple of weeks.  I hope to see some of you at
-<a href="http://devday.pl">Dev&nbsp;Day&nbsp;2014</a>
-in Krakow!
-</i>
