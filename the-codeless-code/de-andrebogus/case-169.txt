@@ -1,0 +1,24 @@
+Number: 169
+Lang: de
+Translator: andrebogus
+Title: Best Practices
+
+Der alte Schriftgelehrte Qi wurde von zwei Äbten zu einem Treffen berufen.
+
+Der erste Abt sprach, “Die Entwickler ignorieren unsere Standards und Best Practices Dokumente. Wir haben die Dateien in ein Repository eingecheckt; niemand lädt sie herunter. Wir haben PDF-Links auf einer eigens erstellten Webseite verfügbar gemacht; niemand klickt sie. We haben den Inhalt akribisch in ein wiki kopiert, niemand besucht es.”
+
+Der zweite Abt fügte hinzu, “Wir überlegen nun, /die gesamten Dokumente zu drucken/ und als Buch zu binden. Wir würden jedem Entwickler ein Exemplar auf den Schreibtisch legen. Was meint Ihr dazu?”
+
+“Bindet sie in weißes Papier,” sagte der Schriftgelehrte. “In einem Jahr wird der dicke Staub nicht so sehr auffallen.”
+
+“Wir wollen, dass die Entwickler sie /verwenden/,” wandte der erste Abt eint.
+
+“Ah!”sprach der Schriftgelehrte. “So bindet sie in rotes Papier, so dass sie hübscher flackern, wenn sie in einer kalten Nacht verbrannt werden.”
+
+“Wir wollen, dass die Entwickler sie /lesen/,” erwiderte der zweite Abt.
+
+“Dann lasst mich wissen, wie Euch dies gelingt!” sprach der Schriftgelehrte. “Denn ich suche schon lange einen Weg, jemanden dazu zu bringen, etwas gegen seinen Willen zu lesen.”
+
+“Warum spielt Ihr den Narren statt uns zu helfen?!” rief der erste Abt.
+
+/“Wú,”/  entgegnete der Schriftgelehrte. “Ihr habt die wilden Hunde hergebracht, die Euch drei Sofas ruiniert haben, und nun fragt Ihr mich nach der besten Farbe für das Vierte. Ich sage Euch immerzu, es sind nicht die Möbel, die der Änderung bedürfen.”
