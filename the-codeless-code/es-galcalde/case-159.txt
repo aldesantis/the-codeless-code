@@ -1,0 +1,27 @@
+Number: 159
+Title: Bloques
+Lang: es
+Translator: galcalde
+Illus.0.title: Al día siguiente, Jinyu descubrió que uno de sus aprendices había robado una docena de bloques. Cuando se le preguntó, él insistió que los había traído a la entrevista él mismo. Jinyu escribió: 'Solicitud de Patentes'.
+
+La venerable [[Jinyu]], la Abadesa de Todos los Clanes y Asuntos de Interés, siempre estaba presente cuando los aprendices tenían sus revisiones de rendimiento -- porque esas revisiones determinarían quienes avanzarían en la jerarquía del templo, y como servirían. A cada aprendiz se lo hacía esperar solo en una sala de conferencias para que entraran los abades superiores, así la Abadesa siempre dejaba una pila de bloques de madera en la sala para que los aprendices se entretengan.
+
+El aprendiz de abad de Jinyu se dio cuenta que cuando la Abadesa entraba al cuarto, inmediatamente miraría la pila y escribía algo en su libreta. El decidió aprender su algoritmo.
+
+Al día siguiente, catorce aprendices fueron entrevistados.
+
+Siete aprendices no tocaron la pila en absoluto. El aprendiz de abad se dio cuenta que para cada uno de ellos, Jinyu escribió: <em>Sin Promoción.</em>
+
+Cuatro aprendices sacaron bloques de la pila para construir estructuras simples, pequeñas y firmes: una pagoda con un techo escalonado; una choza abovedada entre pinos triangulares; un carro de bueyes; un hombre reclinado. Para cada uno, Jinyu escribió: <em>Desarrollador.</em>
+
+Un aprendiz ordenó los bloques cuidadosa y compactamente, por forma y tamaño. Jinyu escribió: <em>Administrador de Configuración.</em>
+
+Otro aprendiz colocó los bloques en el estilo de un tangram para hacer un hermoso mosaico de un cisne. Jinyu escribió: <em>Diseñador Web.</em>
+
+El último aprendiz del día usó todos los bloques para construir una torre elaborada, la misma imagen de la elegancia y la proporción. Los abades superiores jadearon cuando entraron en la sala, sin embargo Jinyu no escribió nada en su libro. Su aprendiz escribió una pequeña nota en su libreta y la deslizó silenciosamente en frente de. Su nota decía: <em>¿Arquitecto?</em>
+
+Jinyu no respondió.
+
+Cuando el aprendiz había respondido todas las preguntas y se marchó, Jinyu caminó hacia la torre y respiró ligeramente sobre ella. Los bloques se mecieron, se inclinaron y retumbaron en la mesa.
+
+Jinyu sacó su libreta y escribió: <em>Ventas.</em>

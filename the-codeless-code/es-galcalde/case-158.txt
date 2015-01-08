@@ -1,0 +1,23 @@
+Number: 158
+Title: Lunes, Lunes
+Lang: es
+Translator: galcalde
+
+El lunes un monje fue enviado al maestro [[Kaimu]] para preguntarle, "¿Cual es el grán peligro del caching?"
+
+Kaimu respondió, "El lunes es mi día más atareado. Pregunta mañana de nuevo y te enseñaré lo que sé."
+
+El martes el monje volvió e hizo la misma pregunta.
+
+Kaimu respondió, "El lunes es mi día más atareado. Pregunta mañana de nuevo y te enseñaré lo que sé."
+
+== Comentario de Qi
+
+Si el monje hubiera hecho una pregunta distinta, no habría aprendido nada.
+
+== Poema de Qi
+
+Eku preguntó por qué Mugen era rudo con el almacenero. //
+Mugen dijo: Ese almacenero me vendió una vez una pala rota. //
+Eku le tiró un balde de agua a la cabeza de Mugen -- //
+Ella explicó: El año pasado mi casa se quemó. //

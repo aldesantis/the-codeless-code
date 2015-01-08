@@ -1,0 +1,26 @@
+Number: 160
+Title: El cristal con que se mira
+Lang: es
+Translator: galcalde
+
+Un monje del [[Laughing Monkey Clan|Clan del Mono que Ríe]] halló al maestro [[Banzen]] tarareando ante su pizarra con una expresión inusualmente feliz en su cara. Intrigado por esto, el monje se escondió detrás de una enorme planta en maceta para investigar.
+
+Mientras el monje observaba, Banzen llenaba su pizarra con un diagrama de clases de complejidad horrorosa. El maestro luego dio un paso atrás para considerar su trabajo.
+
+"¡Hermoso!" dijo Banzen.
+
+Luego borró la pizarra por completo.
+
+El maestro hizo esto varias veces más. Su diseño se volvía cada vez más complicado, sin embargo con cada iteración Banzen haría la misma proclamación y luego destruiría su trabajo por completo, tarareando feliz para sí mismo.
+
+El monje buscó al alumno de Banzen [[Djishin]]. "¿Qué está haciendo tu maestro?" preguntó el monje.
+
+"Implementando las reglas de negocios para una nueva aplicación," dijo Djishin.
+
+El monje vaciló, y luego susurró, "Su diseño es sorprendentemente feo."
+
+Djishin susurró, "Las reglas de negocios son sorprendentemente feas."
+
+El monje levantó sus manos. "Entonces ¿Por qué baila como un niño enamorado, y llama a esas cosas 'hermosas'?"
+
+Djishin se rió. "Ni el diseño ni las reglas. El desafío."

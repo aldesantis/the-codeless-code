@@ -1,0 +1,33 @@
+Number: 157
+Title: Audiencia Cautiva
+Lang: es
+Translator: galcalde
+Illus.0.title: Qi iba a usar la misma corrección sobre el maestro Kaimu, pero resultó que a Kaimu le gustaban esas cosas.
+
+Master [[Bawan]] se despertó un día para descubrir que sus muñecas estaban encadenadas, y lo mismo sus tobillos. Con gran dificultad se puso de pie y empezó a saltar hacia su puerta para buscar ayuda, sólo para caer de cara sobre su alfombra con un ruido seco. Mirando hacia atrás descubrió que sus grilletes estaban a su vez encadenados a las patas de su cama.
+
+El maestro sólo se quedó en el suelo y suspiró; porque había vivido en el templo durante muchos años, y semejantes despertares extraños ya no lo sorprendían.
+
+Fue entonces cuando se dio cuenta de que un gran barril de madera había sido colocado al pie de su cama. Retorciéndose camino hacia él, lo halló lleno hasta la punta de miles sobre miles de llaves.
+
+Bawan probó no más de cien cuando el viejo escriba [[Qi]] entró sin golpear la puerta y se sentó junto al maestro.
+
+"Esto parece tedioso," observó el escriba.
+
+"Eso fue al principio," coincidió Bawan. "Luego se volvió irritante, luego frustrante. Pero como me levanté con la vejiga llena, ahora ha pasado a <em>urgente</em>."
+
+"Bueno, no me deje distraerle," dijo el escriba, sacando un manojo espeso de papeles. "Sólo me detuve para discutir el documento de diseño que me pediste revisar. Debo alabar tu nivel de detalle: cada requerimiento está capturado aquí, lo mismo cada tabla, columna, y restricción de base de datos; cada bosquejo de pantalla, caso de uso, caso de prueba, y caso de error; cada paquete, clase y método; los servicios provistos y las librerías de terceros consumidas, hasta los parámetros de configuración e instrucciones para el despliegue. Sólo tu tabla de contenidos es de tres páginas."
+
+"Me esfuerzo por ser exhaustivo," dijo el maestro, tirando otra llave.
+
+"Es curioso," dijo el escriba, volteando las páginas. "Cada párrafo sin duda será útil para alguien, pero aunque leí detenidamente tu texto por varias horas no pude deducir el resumen simple del sistema que necesité. Fui hacia adelante y atrás por las páginas, sin estar dispuesto a rendirme, porque estaba seguro que la falla estaba en mis ojos. Me sentí... cómo lo pondría..."
+
+"¿Atrapado?" sugirió el maestro, sacando otra llave del barril.
+
+"Una excelente elección de palabras," dijo Qi.
+
+"Prepararé un documento de diseño de alto nivel adecuado para ti, no más que unas pocas páginas con diagramas simples," dijo Bawan, luchando contra las cadenas en un intento de cruzar sus piernas mientras colocaba la siguiente llave en cada cerradura sin éxito.
+
+"Cuando sea conveniente," dijo el escriba con una reverencia. "Parece que tienes asuntos más urgentes que atender. Y el tiempo, como siempre, es nuestro enemigo."
+
+Con esto el escriba salió.
