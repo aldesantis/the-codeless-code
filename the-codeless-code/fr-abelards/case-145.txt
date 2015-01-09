@@ -1,0 +1,49 @@
+Number: 145
+Title: Cinq ans
+Lang: fr
+Translator: abelards
+
+Le [[#142|nouvel abbé]] du [[Spider Clan|Clan de l'Araignée]] tomba sur le vieux moine [[Shinpuru]] qui retirait les mauvaises herbes de son jardin.
+
+L'abbé dit, "Tu as été satisfait de rester simple développeur toute ta vie.
+Souvent on t'a proposé un poste d'abbé, mais chaque fois tu as décliné.
+Maintenant les quelques cheveux qui restent sur ta tête sont pâles et fins.
+N'as-tu pas d'ambition ? Comme nous le demandons aux candidats :
+où te vois-tu dans cinq ans ?"
+
+Shinpuru retira un pissenlit qui était monté en graine et souffla sur
+la petite boule qu'il formait. Des petites graines argentées s'éparpillèrent,
+glissant sur la brise. Shinpuru donna la tige chauve et nue à l'abbé,
+et sans autre mot retourna à son jardin.
+
+Plus tard dans la journée, l'abbé raconta cela à maître [[Banzen]].
+Sortant la tige dépouillée de ses robes, l'abbé dit "Shinpuru, ce moine
+sans objectif, ne vise rien d'autre que sa propre mort."
+
+Banzen rit. "J'ai posé la même question au /candidat/ Shinpuru
+quand son crâne arborait une crinière digne d'un lion, et j'ai reçu
+la même réponse. À cette époque, pas de Java, de XML ni de HTTP.
+Nous codions en C et scripts shell, parlant avec émerveillement
+des changements que nous avions vu : car les jours des cartes
+perforées et des machines à abaques étaient encore frais dans nos
+mémoires.
+Et aujourd'hui ? Maintenant le vénérable Shinpuru télécharge
+d'étrange paquets de code source de contrées lointainres,
+jouant avec Ruby et Dojo comme un jardinier essaierait des graines
+exotiques. Qui sait quels étranges langages il aura maîtrisé dans
+cinq ans de là ? Pendant ce temps, j'aurai mené deux mille misérables
+revues de code, et vous aurez rempli deux mille rapports du jour que
+personne ne lit."
+
+Le maître pointa vers les cieux. "Dites-moi : où sont maintenant
+les petites graines sans ambition que Shinpuru a soufflées ?"
+
+"Je ne saurais dire," répondit l'abbé. "À l'Est ou à l'Ouest de là
+où nous nous trouvons ; emportés sur l'océan ou tournant autour
+de cet arbre."
+
+"Dans cinq ans ils pourraient être sur la lune, avec une vue
+splendide du monde en dessous d'eux," dit le maître.
+"Rappelez-vous du refus de Shinpuru tandis que vous savourez
+votre nouvelle position, jeune abbé ! La tige peut grandir,
+mais ses racines sont têtues et son destin facilement deviné."

@@ -1,0 +1,41 @@
+Number: 166
+Title: Tempus Fugit
+Lang: fr
+Translator: abelards
+Illus.0.title: J'ai réalisé récemment qu'étant né avant le 1er janvier 1970, je suis plus vieux que time() lui-même.
+Credits: Merci à Stephen Loftus-Mercer d'avoir inspiré la note de bas de page :)
+
+Le [[Clan of Iron Bones|Clan des Os de Fer]] venait d'appliquer
+les mises à jour les plus récentes aux serveurs du Temple.
+Après avoir examiné quelques fichiers dans <tt>/usr/include</tt>,
+le maître hébergeur [[Yishi-Shing]] secoua la tête.
+
+Un moine le remarqua et demanda, "Maître, voyez-vous quelque raison de vous inquiéter ?"
+
+Yishi-Shing dit, "Le type <tt>time_t</tt>,
+par lequel on obtient l'heure du système, est un
+<tt>signed long</tt> -- soixante-quatre petits bits."
+
+Surpris, le moine ouvrit l'application abaque sur sa tablette
+et joua rapidement des perles. "Un tel nombre peut représenter
+environ deux cent quatre vingt douze milliards d'années,
+dans les deux sens," dit le moine.
+
+"Et cela ne te trouble pas ?" demanda Yishi-Shing.
+"L'existence elle-même cessera dans un nombre fini de secondes,
+et même ceux qui ont fait nos systèmes d'exploitation nous
+narguent avec ce fait !"
+
+Le moine réfléchit un moment et dit : "Il n'y a pas si longtemps
+<tt>time_t</tt> ne faisait que trente deux bits -- incapable de
+compter aussi peu que deux siècles. Il ne restait que quelques décennies
+avant la fin de son Univers quand on l'a étendu.
+
+Je suppose que, d'ici à ce qu'on arrive à la fin de nos
+deux cent quatre vingt douze milliards d'années,
+on recevra un nouveau patch."
+
+Le maître fut rassuré.
+
+
+{{*}} Il est intéressant de noter que la physique prédit actuellement la <a href="http://fr.wikipedia.org/wiki/Mort_thermique_de_l%27Univers">mort thermique de l'Univers</a> dans pas moins de 10^100 ans, avec pour conséquence un nouveau Big Bang dans peut-être 10^(10^56) ans. Cela signifie que pour afficher l'uptime en secondes de l'Univers juste avant son reboot, nous aurions besoin d'un time_t de (3.32e56 + 30) bits. Comme la planète Terre n'a que 1.33e50 d'atomes à notre disposition, il nous faudrait environ 2.5 millions de Terres (ou en gros une seule naine jaune) pour construire un simple registre. Et maintenant, où peut-on trouver une naine jaune ? Hmmmmm...

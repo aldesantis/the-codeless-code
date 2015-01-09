@@ -1,0 +1,32 @@
+Number: 156
+Title: El Camino del Jardín
+Lang: es
+Translator: galcalde
+Illus.0.title: Las serpientes son la forma de la naturaleza de jugar con las curvas que llenan espacios.
+
+La maestra [[Suku]] y sus aprendices llegaron a un pueblo que Suku conocía de joven. El día estaba caluroso, y los cuatro viajantes estaban secos.
+
+"Joven monje", dijo Suku a uno de sus aprendices. "Tráenos agua del pozo al pie de esta colina, y te contaré de mi juventud en este lugar." Cuando el monje hizo eso, y los cuatro bebieron su porción, Suku dijo:
+
+"En este pueblo fui aprendiz en C de un buen maestro. Nuestra tienda seguía los estándares de codificación que él estableció, sin embargo sentía que nos permitía demasiada creatividad. Porque la libertad es como el <em>kama</em>{{1}}: con él el habilidoso puede cosechar un campo entero en un día, pero el torpe puede cortarte la cabeza.
+
+"Con el tiempo diseñé un conjunto elegante de patrones de diseño para uso propio. ¡Ay, si pudiese mostrarles ahora el glorioso código que escribí! Cada constante, tipo, función y variable eran nombrados según su propósito. Los parámetros eran ordenados desde el tipo más complejo hasta el menos complejo, y los campos de los structs eran prefijados para facilitar el uso de macros especiales que había inventado. Mantener mi propio código se volvió una verdadera alegría.
+
+"Refiné este sistema hasta que con gran orgullo estaba listo para enseñárselo a mi maestro. Le pedí que añadiera mis estándares de codificación a los suyos, que toda la tienda se beneficiaría.
+
+"Mi maestro declaró que sin dudas era la metodología de diseño e implementación más completa que haya visto, y que si toda la tienda siguiese mi ejemplo estaríamos seguros de producir código de una belleza, claridad y extensibilidad sin paralelo.
+
+"Él me dio el nombre <em>Enro</em>{{2}} y me recompensó con el honor de colocar un nuevo camino en nuestro jardín de meditación. Él diseñó ese camino para que se pareciera a una gran serpiente serpenteante, con su cola raspando la puerta de su jardín y sus colmillos cerrándose sobre un pozo al fondo de los terrenos. Me tomó un mes cavar la base, nivelar el fondo con arena, poner los adoquines, y colocarlos bien con grava y tierra.
+
+"Cuando acabé mi maestro dijo que el camino, al igual que el código, era algo de belleza sublime, y decretó que su tienda lo mantendría por siempre."
+
+En ese momento Suku quedó en silencio por un largo tiempo.
+
+Finalmente uno de sus aprendices preguntó: "¿Sigue estando el camino?"
+
+"Estamos sentados sobre su cola," dijo Suku. "Verán, aquí está la puerta de mi viejo maestro; su casa está más allá. Y el agua que bebimos es del pozo entre los colmillos. Noten qué está en el camino, y qué no."
+
+Los ojos de los aprendices siguieron el camino retorcido desde el pozo mientras barría un gran arco serpenteante alrededor de la ladera. Sus piedras eran verdes con musgo y plagadas de hierbas. Donde desaparecía el camino a través de la puerta se fijaron que unía a un segundo camino de tierra, donde el pasto parecía haber sido pisoteado tan a menudo que dejó de crecer. El camino polvoriento corría derecho desde la puerta hacia el pozo, arruinado sólo por un conjunto fresco de pisadas de sandalias que iban abajo, y de nuevo arriba, y acababan a los pies del joven monje que había traído el agua.
+
+{{1}} Una herramienta de agricultura como una guadaña, también usado como un arma.
+{{2}} "Camino del jardín".

@@ -18,7 +18,7 @@ Yíwen sostuvo la bufanda en su regazo. "No es una mera prenda. El patrón repre
 
 "Sin embargo también veo un pequeño hilo dorado brillante, y otro rubí" dijo Hwídah.
 
-Yíwen indicó una porción de la bufanda con la uña. "Su el paso actual compara dos elementos, coloco nudos dorados alrededor de las cuerdas correspondientes. Si selecciona un valor pivote, adorno esa cuerda de rubí. Así la bufanda tendrá exactamente tantas filas como operaciones tiene el algoritmod e ordenamiento, y la estética del algoritmo será revelada al ojo."
+Yíwen indicó una porción de la bufanda con la uña. "Si el paso actual compara dos elementos, coloco nudos dorados alrededor de las cuerdas correspondientes. Si selecciona un valor pivote, adorno esa cuerda de rubí. Así la bufanda tendrá exactamente tantas filas como operaciones tiene el algoritmo de ordenamiento, y la estética del algoritmo será revelada al ojo."
 
 "Sigues buscando [[#132|la belleza en el código]]," dijo Hwídah.
 
@@ -28,7 +28,7 @@ Yíwen indicó una porción de la bufanda con la uña. "Su el paso actual compar
 
 "Tus palabras son sorprendentemente oportunas," dijo Yíwen.  "Puesto que él eligió el <a href="https://es.wikipedia.org/wiki/Ordenamiento_de_burbuja">Bubblesort</a>, mientras descubríamos en producción que cuando a la aplicación se le daba un conjunto resultado muy grande, tomaba varios minutos en renderizar la página."
 
-"Parecees usar Bubblesort como la base de tu patrón," dijo Hwídah, mirando de reojo a las filas terminadas.
+"Pareces usar Bubblesort como la base de tu patrón," dijo Hwídah, mirando de reojo a las filas terminadas.
 
 "¡Sin duda!" dijo Yíwen. "Yo ya completé una bufanda usando el ya construído algoritmo <a href="http://en.wikipedia.org/wiki/Timsort">Timsort</a>. Es de veinticinco centímetros de ancho por dos metros de largo, y disfrutaré vistiéndolo. Esta bufanda Bubblesort es un regalo para el monje. Tendrá el mismo ancho, pero será algo más... chabacana."
 

@@ -1,0 +1,120 @@
+Number: 173
+Title: Conexión Perdida
+Lang: es
+Translator: galcalde
+
+<i>De "La Corte de Eku y Mugen":</i> {{1}}
+
+Hace tiempo eso parece  //
+como recuerdan los logs  //
+nos saludábamos vos  //
+y yo usando paquetes.  //
+En la cargada red Ether  //
+nuestro amor se expresaba  //
+y hasta se movilizaba  //
+por protocolo formal.  //
+Tu disponibilidá  //
+bastante alta estaba.  //
+
+Al tiempo'e caducidá  //
+lo colocaba en minutos,  //
+para estar bien seguro  //
+que ni un pedido jamás,  //
+aunque fuese POST, quizás  //
+PUT o GET de cualquier grado,  //
+aprenda con desagrado  //
+que la espera terminó  //
+y devuelva al monitor  //
+un error quinientos cuatro.  //
+
+Y a tu mapa'e ruteo,  //
+cuando se levantó luego  //
+tu gran muralla de fuego,  //
+le ofreciste un puerto  //
+que era oculto y secreto  //
+pa juntarnos vos y yo.  //
+Secreta asignación  //
+de un backdoor sólo nuestro.  //
+Y un socket bind bien discreto  //
+pa vigilar mi conexión.  //
+
+Sin embargo estoy muy triste.  //
+La pena como me afecta.  //
+Podría estar correcta  //
+la dirección que dijiste,  //
+pero si vos no te fuiste  //
+¿Por qué me encuentro el silencio?  //
+Yo conectarme intento  //
+y el servidor me rechaza.  //
+Todos mis buffers de entrada  //
+de vacío están llenos.  //
+
+Todos los árboles JSON  //
+tienen raíces marchitas,  //
+se secaron en la pila  //
+y sin usar se murieron.  //
+¿Donde estás? ¡Dí que no has muerto!  //
+¿Error de segmentación?  //
+¿Kill-guión-9? ¡Qué se yo!  //
+Y si la culpa fue mía,  //
+reescribiré cada linea  //
+hasta que aparezcas vos.  //
+
+Mientras, yo sigo iterando  //
+el i de uno a ene,  //
+pa que conecte el cliente  //
+y si la excepción me hallo,  //
+la atrapo y con mucho llanto  //
+la logueo y me duermo  //
+por un intervalo'e tiempo  //
+e intento una vez más.  //
+¡Por Diós decime que estás!  //
+Que yo rendirme no quiero.  //
+
+De noche furtivamente  //
+en soledad hago un SYN,  //
+y sueño que vos al fin  //
+responderás gratamente  //
+con otro SYN igualmente,  //
+y seguiremos tal cual  //
+respondiendo con un ACK  //
+lo que nos hemos mandado,  //
+hasta que ya saturados  //
+digamos FIN y ya está.  //
+
+Con un netcat menos zeta,  //
+con un netstat menos te,  //
+seguro te encontraré  //
+aunque el resto me arremeda  //
+mi lealtad que desespera,  //
+solamente sirve a quién  //
+al grán HTTP  //
+sirve. Y ya se ha acabado.  //
+Y colorín colorado.  //
+Mi payada llegó al END. //
+
+
+== Comentario de Qi
+
+A Mugen le gustaba codificar en poesía. Presumiblemente, la sexta estrofa está pensada para expresar un algoritmo como este:
+
+<pre>
+    SocketAddress sockAddr = new InetSocketAddress(host, port);
+    for (int i = 1; i <= N_TRIES; i++) {
+        try {
+            client.connect(sockAddr, TIMEOUT_MILLIS);
+            return client;
+        }
+        catch (Exception e) {
+            log.warning("weep, wail");
+            Thread.sleep(INTERVAL_MILLIS);
+        }
+    }
+    throw new IOException("give up");
+</pre>
+
+Se teoriza que su épica de diez mil estrofas, <em>El Dromedario</em>, describe un convertidor de Perl a OCaml escrito en C++. Ningún estudiante puede mantener la cordura lo suficiente para estar seguro.
+
+
+{{1}} Dedicado a Stanislaw Lem, con profusas disculpas {{2}} a Qi.
+{{2}} I'm gonna charge you for doing a rhymed translation. By the way, you can sing this poem with <a href="https://www.youtube.com/watch?v=JfbjT-EET4Y">this music</a>
