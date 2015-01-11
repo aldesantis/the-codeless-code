@@ -1,0 +1,44 @@
+Number: 172
+Title: Première leçon
+Lang: fr
+Translator: abelards
+Illus.0.title: Pour la nature, un noyau qui tombe, c'est souvent un process fils qui démarre.
+
+La vieille [[Jinyu]], Abbesse de tous les Clans et Préoccupations.,
+fit amener le jeune maître [[Kaimu]] devant elle.
+
+"Il y a une douzaine d'étudiants de la Pile Occidentale dans le village en contrebas,"
+dit Jinyu. "Ils n'ont pas encore choisi de vocation et sont curieux de la programmation.
+Va, passe une semaine avec eux, et apprends-leur quelque chose.
+
+Kaimu obtempéra avec joie, car cela faisait longtemps qu'il souhaitait
+éveiller en d'autres son propre amour pour l'Art des Moteurs Invisibles.
+
+À la fin de la semaine, il fut convoqué de nouveau auprès de Jinyu.
+Elle tenait dans ses mains ridées une liasse de lettres portant le violet
+des tampons postaux. "Quelles sont les nouvelles des étudiants de la
+Pile Occidentale ?" demanda Kaimu.
+
+Jinyu frappa le maître à la tête avec son parapluie.
+"Aucun n'est favorable. Votre discours était trop rapide,
+vos diapositives trop maigres, vos gestes distrayants,
+vos exemples absurdes, et vous n'avez pas accordé
+de pause pour aller aux toilettes.
+Dans les rares moments où vous n'étiez ni fastidieux ni trop volubile,
+vous étiez incompréhensible. Aucun élève n'a pensé que ces cours
+ont valu le temps qu'ils y ont passé."
+
+Kaimu était sidéré. "Et personne n'a rien appris ?"
+
+En réponse, Jinyu le frappa de nouveau à la tête.
+"Que pouvons-nous dire maintenant de Kaimu ?"
+
+"Qu'il ne peut enseigner," dit Kaimu d'un air misérable.
+
+Jinyu hocha la tête de satisfaction. "Et bien, quelqu'un a appris quelque chose."
+
+Quand Kaimu s'inclina et se retourna pour partir, Jinyu l'arrêta et dit :
+"D'un pépin de pomme, un idiot fait un plat bien amer, mais le jardinier
+peut en tirer une récolte délicieuse. Va, va chercher ta pelle."
+
+Kaimu fut réconforté.
