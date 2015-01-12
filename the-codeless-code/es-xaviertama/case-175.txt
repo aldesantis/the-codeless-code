@@ -1,0 +1,65 @@
+Number: 175
+Lang: es
+Translator: xaviertama
+Title: Tiburón Plano
+
+Un monje preguntó al maestro Java Kaimu: //
+¿Cuál es el principio de la "responsabilidad única"?
+
+Dijo Kaimu: //
+Que una clase debe hacer exactamente una cosa, //
+y hacerla completamente.
+
+El monje preguntó: //
+¿Cómo puedo decidir esta única cosa?
+
+Dijo Kaimu: //
+El pescador no construye barcos, //
+o le llamaríamos carpintero.
+
+El monje preguntó: //
+¿No hay espacio en su filosofía para las interfaces? //
+¿Qué pasa si mi clase puede servir como un pescador, //
+y un carpintero y marinero además?
+
+Dijo Kaimu: //
+¿Cómo nombraría a aquel monstruo de tres cabezas?
+
+El monje respondío: //
+Shísho, al igual que mi tío. Él vive junto al mar y hace todas estas cosas.
+
+Dijo Kaimu: //
+Yo le daría a su clase Shísho tres variables de instancia: //
+un pescador, un carpintero, y un marinero. //
+Luego Shísho podría implementar esas interfaces por delegación.
+
+El monje respondió: //
+Yo hablo de la herencia, sin embargo, usted responde en composición. //
+Todo mi tío es un pescador, no solo su pie izquierdo. //
+¿De qué sirven los objetos, si no modelamos fielmente al mundo?
+
+Dijo Kaimu: //
+Si pinto un hermoso tiburón en esta página, dirá usted: "¡Hermoso tiburón!" //
+o se quejará de que es plano y no se lo come?
+
+El monje preguntó: //
+Pero, ¿cómo vamos a saber cuando el tiburón plano es tiburón suficiente? //
+O, ¿cuándo nuestro tío debería pescar con su pie izquierdo?
+
+Dijo Kaimu: //
+Aprender cómo es nuestra "responsabilidad única".
+
+
+== Comentario de Qi
+
+Cada clase hace exactamente una cosa— //
+pero a veces esa única cosa //
+es "hacer demasiadas cosas".
+
+== Poema del Qi
+
+Una mañana Kaimu tomó su pincel. //
+En dos pinceladas pintó un exquisito tiburón. //
+Un transeúnte se rió. "¡Es un pobre tiburón que no puede abrir la boca!" //
+Kaimu respondió: "Aún así, me ha dicho que usted es un tonto."
+

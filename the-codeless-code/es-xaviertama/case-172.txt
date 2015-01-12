@@ -1,0 +1,28 @@
+Number: 172
+Lang: es
+Translator: xaviertama
+Title: Lección Uno
+
+Jinyu, la antigua abadesa de todos los Clanes y asuntos de Interés, convocó al joven maestro Kaimu a su presencia.
+
+"Una docena de estudiantes del Heap Occidental se están quedando en el pueblo de abajo", dijo Jinyu. "Todavía tienen que elegir una vocación y tienen curiosidad acerca de la programación. Vaya, pase la semana con ellos, enséñeles algo."
+
+Kaimu hizo esto con gusto, puesto que había deseado por mucho tiempo fomentar en los demás su mismo amor por el Arte de los Motores Ocultos.
+
+Tras el final de la semana fue convocado nuevamente a la presencia de Jinyu. Ella tenía en sus arrugadas manos un fajo de cartas con familiares sellos postales púrpuras "¿Qué noticias hay de los alumnos del Heap Occidental?", preguntó Kaimu.
+
+Jinyu golpeó al maestro en la cabeza con su paraguas. "Todos han reportado desfavorablemente. Su habla era demasiado rápida, las diapositivas eran demasiado breves, sus gestos distrayentes, sus ejemplos inanes, y usted no dio recesos para ir al baño. En los raros momentos en que usted no era tedioso o locuaz, era totalmente incomprensible. Ninguno pensó que la clase fue digna de su tiempo".
+
+Kaimu estaba horrorizado. "¿Nadie aprendió nada?"
+
+En respuesta, Jinyu lo golpeó en la cabeza de nuevo. "¿Qué se puede decir ahora de Kaimu?"
+
+"Que él no puede enseñar", dijo Kaimu miserablemente.
+
+Jinyu asintió con satisfacción. "Entonces, una cosa se ha aprendido."
+
+Cuando Kaimu hizo una reverencia y se volvió para irse, Jinyu lo detuvo y dijo: "A partir de una semilla de manzana un tonto hace sólo una comida amarga, pero el jardinero puede hacer crecer una cosecha dulce. Ve, encuentra tu pala".
+
+Kaimu estaba confortado.
+
+

@@ -1,0 +1,65 @@
+Number: 175
+Lang: de
+Translator: andrebogus
+Title: Flacher Hai
+
+
+Ein Mönch fragte Java-Meister Kaimu: //
+Was ist dsa “single-responsibility Prinzip”?
+
+So sprach Kaimu: //
+Eine Klasse möge genau eine Sache tun, //
+und diese zur Gänze.
+
+Der Mönch fragte: //
+Wie entscheide ich, welches diese "eine Sache" ist?
+
+Da antwortete Kaimu: //
+Der Fischer baut keine Boote, //
+sonst würden wir ihn Schiffsbauer nennen.
+
+Der Mönch fragte: //
+Ist in Eurer Philosophie kein Platz für Interfaces? //
+Was, wenn meine Klasse als Fischer //
+und Schiffsbauer und Matrose dienen kann?
+
+So fragte Kaimu: //
+Wie würdest Du ein solches dreiköpfiges Monster nennen?
+
+Der Mönch antwortete: //
+Shísho, nach meinem Onkel. Er lebt am Meer und ist all dies.
+
+So sprach Kaimu: //
+Ich würde Deiner Shisho-Klasse drei Instanzvariablen geben: //
+Einen Fischer, einen Schiffsbauer und einen Matrosen. //
+Dann mag Dein Shísho diese Interfaces durch Delegation implementieren.
+
+Der Mönch entgegnete: //
+Ich spreche von Vererbung und Ihr antwortet mit Komposition. //
+Mein ganzer Onkel ist Fischer, nicht nur sein linker Fuß. //
+Was nützen uns Objekte, wenn wir die Welt nicht getreulich nachbilden?
+
+Da sagte Kaimu: //
+Wenn ich auf diese Seite einen schönen Hai malte, würdest Du “Schöner Hai!” sagen //
+oder Dich beschweren, dass er flach ist und Dich nicht frisst? //
+
+Der Mönch fragte: //
+Aber wie sollen wir wissen, wann der flache Hai genug ist? //
+Oder ob mein Onkel mit seinem linken Fuß fischen soll?
+
+So sprach Kaimu: //
+Das wie zu lernen, ist unsere “eine Sache”.
+
+== Qi’s Kommentar
+
+Jede Klasse tut exakt eine Sache— //
+aber manchmal ist diese Sache //
+“zu viele Sachen tun”.
+
+== Qi’s Gedicht
+
+Eines Morgens griff Kaimu seinen Pinsel. //
+In zwei Strichen malte er einen ausnehmend schönen Hai. //
+Ein Passant lachte. “Der arme Hai kann nicht einmal den Mund öffnen!” //
+Kaimu entgegnete: “Und trotzdem sagt er mir, dass Ihr ein Narr seid.”
+

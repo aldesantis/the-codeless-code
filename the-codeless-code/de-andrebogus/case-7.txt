@@ -1,0 +1,38 @@
+Number: 7
+Lang: de
+Translator: andrebogus
+Title: Der Feind des Guten
+
+Die Mönche des Ordens der lachenden Affen kamen mit einer Reihe von Klagen
+zum Java-Meister.
+
+“Unser größter Kummer ist der Test-Prozess”, beharrte der jüngste Mönch.
+“Manuelles Testen ist aufwändig und automatische Tests sind mühselig zu
+bauen. Beides lenkt vom eigentlichen Programmieren ab.”
+
+Der Meister bedachte dies, und sprach: “Sicher könnten wir auf das Testen
+komplett verzichten, wenn wir wüssten, dass unser Code perfekt ist. Wie
+also können wir Perfektion erreichen?”
+
+“Durch Übung,” sagte ein Mönch.
+
+“Durch Fleiß beim Lernen,” ein anderer.
+
+“Durch die Beschwichtigung der entsprechenden Götter,” meinte ein Dritter.
+
+Ein alter weißbärtiger Mönch, der bislang still in der Ecke gesessen hatte,
+hob den Kopf und sprach:
+
+“Ich weiß, wie Perfektion erreicht werden kann,” versprach er und fuhr
+fort: “Aber ich fürchte, dass all jene, die meine Antwort hören, für immer
+an ihrer Wahrheit zweifeln werden, wenn ich nicht die genau richtigen Worte
+in der gefälligsten Intonation zur genau richtigen Tageszeit spreche. Ich
+muss nur noch überlegen, wie dies am besten zu tun ist.”
+
+Der alte Mönch verstummte für eine lange Zeit. Schließlich klang die
+Mittagsglocke.
+
+“Wie lange wird das dauern?” fragte einer der Novizen.
+
+“Nicht mehr als hundert Jahre,” antwortete der alte Mönch.
+
