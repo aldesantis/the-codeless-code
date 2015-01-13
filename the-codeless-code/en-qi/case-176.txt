@@ -1,0 +1,68 @@
+Date: 2015-01-11
+Number: 176
+Title: Many Happy Returns
+Names: Kaimu
+Topics: return statements, error handling, readability, efficiency, single-entry single-exit, C, assembly language
+Geekiness: 2
+Illus.0.title: The rice is also cold.
+
+
+A novice monk said to master [[Kaimu]], "I have heard that it is
+preferable to have only one return statement in a
+function.  Do you agree?"
+
+Kaimu asked, "Where is your bowl?"
+
+The monk apologized and left to fetch his bowl.
+
+- - -
+
+When the monk returned, he showed his bowl to the master
+and said, "I have heard that it is preferable to have
+only one return statement in a function.  Do you agree?"
+
+Kaimu asked, "Why is there no rice in your bowl?"
+
+The monk apologized and left to fetch some rice.
+
+- - -
+
+When the monk returned, he showed his bowl full of steaming
+white rice to the master and said, "I have heard that it is
+preferable to have only one return statement in a
+function.  Do you agree?"
+
+Kaimu took the monk's bowl and placed it on his
+desk.
+
+"You speak of a most venerable design principle, known as
+/Single-Entry Single-Exit/," said the master.  He then told
+the monk of the glorious days of coding long past, when
+memory was low, hardware was slow, and resources had to be
+managed with care.  "For C did you no favors," said Kaimu,
+"and Assembly did half as many as that.  So if your function
+borrowed a thing, then your function had to put it back.
+And how was this most easily done?  By putting all the
+cleanup code in one place, at the function's bottom... a
+tradition that continues to this day."
+
+Kaimu then spoke of the birth of objects, of destructors and
+finalizers.  He spoke of garbage collection too; of
+reference counting and mark-and-sweep, and compilers that
+could tell when an object went out of scope.  He
+spoke of buffers that grew as needed and vanished when not,
+of files that closed themselves, of connection
+pools and thread pools and try-with-resources, and of how
+wondrous and magical was the modern bestiary of languages,
+where monks could devote their energies to more interesting
+problems instead of fussing about with <tt>malloc</tt> and
+<tt>free</tt> and <tt>goto fail</tt>.
+
+"Yes," said the weary monk at last.  "But do you /agree/
+with the design principle of Single-Entry Single-Exit, or do
+you /not/?"
+
+Kaimu looked down and said, "Why is the rice in your bowl
+white, and not brown?"
+
+

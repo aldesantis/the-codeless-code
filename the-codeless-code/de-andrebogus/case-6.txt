@@ -1,0 +1,25 @@
+Number: 6
+Lang: de
+Translator: andrebogus
+Title: Leere
+
+Von seinem Urlaub zurückkehrend fand der Hohe Abt des Ordens der Lachenden Affen seinen Orden in Panik und Unordnung vor. Das gerade angepasste Finanzsystem warf NullPointerExceptions bei allen neuen Kunden. Diese kündigten erheblich beeunruhigt nach kaum einem Tag ihr Konto.
+
+Mit einiger Mühe gelang es dem Abt, das Problem auf eine Methode zurückzuführen, deren Aufgabe es war, eine Liste der Transaktionen des Nutzers zu erstellen. Im Falle, dass keine Transaktionen vorlagen, war das Ergebnis null, nicht die leere Liste.
+
+“Bringt mir den Mönch, der diese Methode geschrieben hat,” wies er die Tempelwachen an, “und jenen Mönch, dessen Code sie aufruft.”
+
+Der erste Mönch, etwas älter als der andere, sah die Schuld ganz klar beim Anderen. “Mein Javadoc stellt diesen Punkt absolut klar. Es ist nicht mein Fehler, dass er nicht auf null geprüft hat”. Der zweite Mönch ließ vor Scham stumm den Kopf hängen.
+
+Der Abt klatschte in die Hände und zwei große Jade-Urnen wurden auf den Boden gestellt, je eine vor jedem der beiden Mönche. “Eure Strafen sind auf Zetteln in den Urnen geschrieben. Jeden Tag werdet Ihr einen herausnehmen und die Anweisungen darauf buchstabengetreu befolgen, bis Eure Urne leer ist.”
+
+Der jüngere Mönch wurde gebeten, zuerst zu ziehen. Seine Hand hatte kaum die Mitte der Urne erreicht, als man Papier rascheln hörte. Er las den Zettel, verneigte sich und verließ den Raum.
+
+Der ältere Mönch griff tief in die Urne hinein, bis seine Finger ihren kalten Boden ertasteten.“In der Urne sind gar keine Zettel.” sprach er. Die winzigste Andeutung eines Lächelns zuckte über seine Mundwinkel.
+
+“Auch kein Fische oder Berge,” sagte der Abt.
+
+Da schrie der ältere Mönch vor Schmerz auf. Die Urne kippte um und zerbrach. Ein Skorpion krabbelte über die Fliesen.
+
+Der Abt betrachtete den sterbenden Mönch: "Nicht alles Leere ist gleich."
+
