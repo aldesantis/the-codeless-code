@@ -1,0 +1,76 @@
+Number: 134
+Title: Terrain glissant
+Lang: fr
+Translator: abelards
+Illus.0.title: P.S. -- on a *même* réussi à mettre des mines dans quelques-uns des trous les plus profonds.
+
+Le moine [[Djishin]] avait perdu sa motivation à force de
+[[#78|durs labeurs pour des projets obscurs]] pour le
+[[One Shoe Clan|Clan N'A Qu'Un Soulier]], loin de l'agitation
+de la vie du temple.
+Il en appela à maître [[Banzen]] dans l'espoir d'avoir du travail
+qui aurait un peu plus de sens et d'impact.
+
+Banzen dit, "Il me vient à l'esprit une application dont la base de code
+est devenu confuse à travers les ans, à cause de ses nombreux propriétaires.
+Je suspecte qu'elle cache beaucoup de déchets à nettoyer."
+
+Quand Banzen examina le refactoring de Djishin, il trouva le code
+extrêmement simplifié et bien organisé. La plus grande réduction était
+dans le nombre de classes de Data Transfer Object.
+
+"Je n'ai gardé que les classes qui correspondent directement
+à des tables de la base de données," expliqua fièrement Djishin.
+"Voyez, cette requête qui fait une jointure sur les tables de
+Campagnes, Soldats et Spécialités, qui ne prend que deux colonnes
+de chaque.
+Avant on avait un DTO dont le seul but était de renvoyer les
+six valeurs de chaque enregistrement -- quelle honte !
+Maintenant la requête renvoie une liste d'instances de Campagne,
+contenant chacune une liste de Soldats, qui à son tour
+contient une liste de Spécialités.
+Il est vrai que la couche présentation doit parcourir ces objets,
+mais ils sont communs partout dans l'application et tous ceux qui
+travaillent dessus les connaissent bien."
+
+Banzen se caressa la barbe. "Vous avez adopté les voies de la
+Correspondance Objet-Relationnel, dans un framework de votre propre cru.
+Je connais bien les vertus de cette approche, mais aussi ses vices.
+Ces trois tables ont chacune une vingtaine de colonnes ; les objets du domaine
+qui les reprennent ont également une vingtaine de champs.
+Et maintenant au lieu de requêter six colonnes par enregistrement,
+en prenez-vous soixante ?
+Ou faites-vous la requête en trois fois ?
+Ou employez-vous une sorte de cache ?"
+
+"Rien de tout cela," dit Djishin avec satisfaction.
+"Je ne prends que les six colonnes d'origine, et les clés primaires.
+Tous les autres champs dans les objets ne sont juste pas initialisés."
+
+Banzen soupira et prit son bâton.
+
+- - -
+
+Djishin se réveilla dehors avec un mâl de crâne lancinant,
+couvert de neige fraîche. Il était seul au milieu d'un champ
+propre, parfaitement plat, entouré de grands pins.
+Tout scintillait de blanc dans le soleil du matin, et quelques
+rafales tournoyaient encore dans l'air.
+
+À ses pieds, on avait jeté un long bout de bois.
+Une note était nouée au milieu. Djishin la déroula.
+
+
+    J'ai demandé au Clan N'A Qu'Un Soulier de retirer tous les
+    détritus de la déchetterie du temple. N'est-elle pas jolie désormais ?
+
+    Malheureusement, cela a laissé plusieurs puits qui prendraient bien
+    trop d'efforts à remplir, alors nous en avons artistiquement couvert
+    le dessus d'une très fine couche de branches et de feuilles.
+    Puisqu'il est prévu beaucoup de neige pour ce soir, j'imagine que
+    vous vous réveillerez dans un décor parfait.
+
+    Faites attention où vous marchez,
+
+    B.
+
