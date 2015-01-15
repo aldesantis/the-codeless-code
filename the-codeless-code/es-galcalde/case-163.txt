@@ -1,0 +1,25 @@
+Number: 163
+Title: Vacaciones
+Lang: es
+Translator: galcalde
+Illus.0.title: Espero que sea una errata.
+
+En el primer día frío del otoño, una mensajera había llegado al templo llevando noticias urgentes. Para su desconcierto halló todos los patios vacíos, todos los pasillos y cuartos comunes desiertos. Ni un alma podía hallarse allí.
+
+Pasando por una entrada abierta, ella oyó el repiqueteo de llaves desde adentro. Adentro halló a un viejo escriba mirando fijo un monitor.
+
+"¿Donde--" empezó la mensajera.
+
+"Vacaciones," dijo el escriba sin darse la vuelta, saludando ausentemente en dirección al resto del templo.
+
+"¿Usted no?" preguntó la mensajera.
+
+"Yo, también," dijo el escriba.
+
+"Pero en su monitor--" dijo la mensajera.
+
+"Sí," dijo el escriba. "El código PHP más feo, defectuoso y alborotador que hallarás en las Diecisiete Provincias."
+
+"¿Entonces por qué trabajas en él?" preguntó la mensajera.
+
+"Porque," sonrió el escriba. "No es el código del Templo. Es el <em>mío</em>."
