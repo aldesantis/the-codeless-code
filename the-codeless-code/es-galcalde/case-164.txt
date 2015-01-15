@@ -1,0 +1,37 @@
+Number: 164
+Title: Paradoja
+Lang: es
+Translator: galcalde
+Illus.0.title: También te pateará el trasero si NO escribes en sus paredes. En verdad, me mantendría lejos de su oficina.
+
+Un día, el templo se despertó descubriendo que sus bases de dato habían sido hackeadas. La intrusión fue rastreada a una aplicación web que había sido actualizada recientemente por cierto monje. El monje fue traído por dos guardias del templo para explicarse ante la abadesa.
+
+Mientras los guardias desfilaban al miserable monje por las escaleras de la torre, pasaron al viejo maestro [[Banzen]] en el rellano. Compadeciéndose del chico, el maestro le susurró al oído: “Si hablas en tu defensa, la abadesa pensará que eres un cobarde y te cortará la cabeza. Pero si no hablas en tu defensa, pensar´a que fuiste responsable del incidente, y te cortará la cabeza.”
+
+Con esas palabras, Banzen se fue bajando las escaleras.
+
+- - -
+
+El monje fue llamado a la oficina de la abadesa, quien desenvainó una espada y demandó: “Explica como has traído la desgracia a nuestro templo.”
+
+El monje empezó a profesar su inocencia, pero recordando el consejo del maestro Banzen, rápidamente cerró la boca a menos que la abadesa lo decapitara por cobardía. Sin embargo el silencio que siguió sólo volvió a la abadesa resuelta en su enojo. Ella levantó su espada y se acercó al chico aterrorizado, determinada a decapitarlo por su incompetencia indiscutida.
+
+En desesperación los ojos del monje buscaron otra salida en el cuarto, pero sólo hallaron un mosquitero de papel de arroz y bambú, más allá del cual había un balcón estrecho y una caída en picada de treinta metros hacia las rocas. Mientras la silbante cuchilla caía hacia su cuello, el monje fue iluminado.
+
+- - -
+
+El monje esquivó la espada de la abadesa, rodó por el cuarto, y se paró ante el mosquitero de papel de arroz. Tomando un marcador rojo de su bata, apresuradamente dibujó una figura de palito en un panel. La abadesa pausó, intrigada.
+
+En el siguiente panel, y en los siguientes, el monje dibujó caricaturas temblorosas mostrando los eventos que ocurrieron durante las últimas semanas, y como su clan reaccionó a cada uno de ellos. Tomados individualmente, ningún paso estuvo en error. Sin embargo tomados colectivamente, era claro que una confluencia de acciones no relacionadas resultó en la vulnerabilidad crítica. 
+
+La abadesa envainó su espada, y con un saludo dejó salir al monje.
+
+Pero cuando el monje llegó a la entrada, la abadesa le dió una rápida patada en el trasero, enviándolo rodando por las largas escaleras de la torre.
+
+“Eso,” dijo la abadesa, “es por escribir en mis paredes.”
+
+== Nota del Editor
+
+Este caso fue escrito específicamente para mi charla reciente <a href="/talks/hacking-the-mind">"Hacking the mind: <em>How Art can help us to talk (and teach) technology</em>"</a>. Me divertí mucho presentando la charla en el <a href="http://devday.pl">ABB DevDay 2014</a> en Cracovia, Polonia.
+
+El caso es un homenaje al <a href="http://www.liebremarzo.com/blog/koan">"Hombre Colgado del Árbol"</a> de Kyogen, el cual es el caso 5 de "La Entrada sin Puerta".
