@@ -1,0 +1,21 @@
+Number: 165
+Title: A prueba de fallos
+Lang: es
+Translator: galcalde
+Illus.0.title: Sigo apretando el boton de escape, pero sigo aquí.
+
+Cuando al monje [[Landhwa]] se le asignó implementar una nueva capa de seguridad para las aplicaciones del [[Spider Clan|Clan de la Araña]], su enemigo de largo tiempo -- el monje [[Wangohan]] -- sospechó que la perdición de Landhwa finalmente estaba por llegar. Porque la seguridad requería atención al más mínimo detalle, y Landhwa era notoriamente impaciente y perezoso.
+
+Seguramente, cuando varas aplicaciones fueron puestas en producción con el código de Landhwa, las quejas empezaron a inundar el soporte técnico inmediatamente. Los usuarios no podían editar su información personal o ver sus órdenes destacadas, e irónicamente el enlace "Contacto" devolvía una página <em>403 Forbidden</em>. El caos gobernó la mañana.
+
+Landhwa fue invocado para una conferencia de emergencia con los abades del templo. Wangohan se preguntaba ociosamente si volvería a ver de nuevo a su rival -- y si lo viese, en cuantos pedazos.
+
+Fue luego para la gran sorpresa de Wangohan que Landhwa reapareció en menos de una hora, vistiendo la misma sonrisa irritante de siempre.
+
+Consternado, Wangohan fue a ver al abad principal. "¿Cual corrección hay para Landhwa?" preguntó el monje.
+
+"Ninguna," dijo el abad. "Porque cuando el error captó su atención, él reveló un modo a prueba de fallos que había colocado en su lugar. Si una flag particular estaba encendida en la base de datos, La API de Landhwa evitará la nueva capa de seguridad y usará en vez la vieja capa. Ahora todo está bien, y podremos investigar el problema a nuestro antojo sin volver para atrás el lanzamiento entero."
+
+"¡Seguramente, eso no <em>absuelve</em> al monje de la negligencia!" protestó Wangohan. "¡Si hubiese codificado más cuidadosamente o probado más exhaustivamente, no hubiera sido necesario un modo a prueba de fallos!"
+
+"Puede ser cierto," dijo el abad principal. "Pero si allí hay negligencia, también hay humildad. Cuando Wangohan declara <em>hoy seré perfecto</em>, alabamos su determinación pero sabemos que su causa está perdida. Landhwa no sólo reconoce su imperfección, nos protege de ella. ¡Pero toma coraje! Estoy seguro que, con un poco de esfuerzo, algún día podrías aprender a ser tan perezoso como él."

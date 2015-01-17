@@ -1,0 +1,18 @@
+Number: 162
+Title: Todo de acuerdo al plan
+Lang: es
+Translator: galcalde
+
+El maestro [[Banzen]] estaba en una provincia vecina, visitando a un abad cuyos hermanos habían ganado recientemente un contrato de desarrollo de un gobernador.
+
+"Ha demostrado ser una victoria hueca," lamentó el abad mientras vertía el té. "El código que heredamos es una elevada montaña de bosta, donde hasta el pinchazo más ligero nos entierra hasta los ojos en un derrumbe de estiércol podrido de excepciones null-pointer."
+
+"<em>Estoy</em> comiendo," dijo el maestro.
+
+"¡No es de extrañar que nuestros predecesores no fuesen capaces de hacer la más ligera modificación sin semanas de esfuerzo!" continuó el abad. "¡No es de extrañar que la paciencia del gobernador estaba al límite! Deberíamos refactorizar, pero no se siquiera por donde comenzar, o como verificar que no hayamos roto nada en el proceso."
+
+"¿Donde están los requerimientos?" preguntó el maestro.
+
+"No hay ninguno," dijo el abad. "El hábito del gobernador es dictar cada cambio según el humor que tenga. Dice que, por definición, cualquier código que se haga ahora está correcto."
+
+Banzen sorbió su té. "¿Es eso? ¡Entonces mis simpatías van al gobernador, no a usted! ¡Pobre hombre! El doble ahora -- y a un costo que no es bajo -- él contrató a una abadía entera para hacer software con el propósito expreso de hacerlo miserable. Deberías <em>agradecer</em> a tus predecesores por sus admirables cimientos."
