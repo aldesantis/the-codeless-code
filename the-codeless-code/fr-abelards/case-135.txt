@@ -1,0 +1,64 @@
+Number: 135
+Lang: fr
+Translator: abelards
+Title: Satanée Rétro Compatibilité
+Illus.0.title: Pour une boîte déjeûner, c'est plutôt riche en fibres.
+
+[[Wangohan]], un moine du [[Spider Clan|Clan de l'Araignée]],
+tomba sur un bug dans une classe utilitaire que fournissait le
+[[Laughing Monkey Clan|Clan du Singe Rieur]].
+Il appela le jeune moine qui en était l'auteur.
+
+"Votre dernier refactoring de <tt>isHexNumber</tt> était incorrect,"
+dit Wangohan. "Bien qu'il n'y ait pas de documentation, son nom
+implique qu'elle ne ressortira que des chaînes d'un ou plusieurs chiffres
+hexadécimaux. Mais votre expression régulière n'utilise pas d'ancrages
+et de mauvaises quantifications. Vous renverriez /true/ pour n'importe quelle
+chaîne dans laquelle on trouve /zero/ chiffres hexadécimaux ou plus,
+/n'importe où/ dans la chaîne -- c'est à dire, toutes les chaînes."
+
+"Je me suis assuré que les tests unitaires d'avant passaient toujours
+correctement," protesta le jeune moine. "Null est rejeté, et les nombres
+hexadécimaux légitimes sont acceptés."
+
+Wangohan gronda. "Je vous dis qu'une boîte de carton n'est pas un repas
+digne de la fille de l'Empereur, et vous me répondez
+/aucune chèvre ne s'est étouffée avec/."
+
+- - -
+
+Wangohan appela le moine expérimenté qui s'occupait de la
+bibliothèque partagée, et lui expliqua le problème.
+
+"Nous ne pouvons pas changer l'implementation," dit le vieux moine.
+"Cette méthode est maintenant en usage à travers tout le Temple.
+Si elle se mettait soudainement à rejeter des chaînes qu'elle acceptait,
+qui sait quel désastre nous tomberait dessus ?"
+
+Wangohan abattit son poing sur le bureau du moine.
+"Je vous dis qu'une boîte de carton n'est pas un repas
+digne de la fille de l'Empereur, et vous me répondez
+/elle pourrait ne pas aimer l'agneau aux figues/."
+
+- - -
+
+Wangohan en appela au Père Supérieur du Singe Rieur et lui expliqua le problème.
+
+"Je m'occuperai de ce souci," soupira l'abbé.
+"Il doit bien y avoir une solution qui satisfera toutes les parties."
+
+Ce soir-là, Wangohan reçut un email de l'abbé, annonçant que la méthode
+devrait fonctionner exactement comme on l'attendait. Wangohan regarda le
+code et le trouva inchangé, à part un nouveau commentaire au dessus :
+
+<pre>
+  /**
+   * isHexNumber renvoie true pour toute chaîne
+   * dans laquelle zéro ou plus chiffres hexadécimaux
+   * se trouvent, a n'importe quelle position.
+   */
+</pre>
+
+La tête de Wangohan tomba sur son bureau.
+"Une boîte de carton doit clairement être un plat digne pour la fille de l'Empereur,
+parce que la voici au Palais Impérial, sur le menu."
