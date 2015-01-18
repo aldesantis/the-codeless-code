@@ -1,0 +1,53 @@
+Title: Conséquences
+Number: 83
+Lang: fr
+Translator: cdlm
+
+
+Un moine aîné avait postulé à l'admission au temple.
+On appela l'Abbesse [[Jinyu]] pour examiner sa candidature.
+
+« J'édicte un domaine, » dit-elle, pointant le tableau blanc de sa canne.
+« Vous modélisez une implantation en Java. »
+
+Le moine s'inclina et décapuchonna un marqueur vert.
+
+« Tout soldat de l'Armée Impériale doit savoir son rang, »
+commença l'abbesse.
+« L'Empereur peut ordonner à un soldat de combattre jusqu'à la mort, et personne d'autre qu'un soldat ne peut recevoir cet ordre… »
+
+Le moine s'inclina et dessina un rectangle, où il inscrit variables d'instances et méthodes comme il en avait l'habitude.
+
+« Certains soldats sont archers, » continua l'abbesse,
+« lesquels doivent savoir le nombre de flèches en leur possession.
+L'Empereur peut ordonner à un archer de tirer sur un ennemi distant, et personne d'autre qu'un archer ne peut recevoir cet ordre… »
+
+Le moine s'inclina et dessina un second rectangle, rattaché au premier.
+
+« Certains soldats sont des cavaliers, » continua l'abbesse,
+« lesquels doivent connaître le cheval qui leur est assigné.
+L'Empereur peut ordonner à un cavalier d'écraser les ennemis sur son chemin, et personne d'autre qu'un cavalier ne peut recevoir cet ordre… »
+
+Le moine s'inclina et dessina un troisième rectangle, similaire au second.
+
+« Enfin, » conclut l'abbesse,
+« Certains soldats appartiennent à l'Averse de Feu, un corps dont les membres sont à la fois archers et cavaliers, en tout point.
+L'Empereur peut ordonner à l'Averse de mener la charge, et personne hors de l'Averse n'a ce privilège.
+
+Le moine hésita.
+Pendant toute une minute il fit la moue face au tableau ;
+quiconque était présent pouvait ressentir les intenses calculs s'affrontant derrière le visage calme du moine.
+
+Une nonne du temple murmura à Jinyu :
+« Ce problème a plusieurs solutions, mais aucune ne me satisfait. »
+
+« C'est là toute sa valeur, » chuchota l'abbesse en réponse.
+« Car dans cette profession nous sommes tous condamnés :
+nos conceptions aspirent à la pureté céleste, alors que toutes les exigences naissent du lisier de la porcherie. {{*}}
+Je suis certaine que ce moine peut réussir quand les étoiles s'alignent en sa faveur, mais quand elles ne le font pas, comment choisira-t-il d'échouer ?
+Par une lâche capitulation ?
+Par une coûteuse victoire ?
+Par un maladroit compromis ?
+Car ce n'est pas lui seul mais le temple entier qui devra en supporter les conséquences. »
+
+{{*}} Dans la bouche de Jinyu, la « porcherie » désignait habituellement « le monde hors de l'enceinte du temple » ou, quelquefois, « la chambre de mon benjamin ».
