@@ -2,7 +2,7 @@ Date: 2015-01-19
 Number: 177
 Title: The Tool-Shed
 Names: Djishin, Banzen
-Topics: reuse, abstraction, APIs, bloat
+Topics: reuse, abstraction, APIs, bloat, YAGNI
 Geekiness: 2
 
 The monk [[Djishin]] was walking in the forest, when he
