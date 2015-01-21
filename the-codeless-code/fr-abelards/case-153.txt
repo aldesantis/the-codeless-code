@@ -1,0 +1,91 @@
+Number: 153
+Title: Le Cercle Rouge
+Lang: fr
+Translator: abelards
+Credits: Merci à Jay Carr pour l'idée !
+Illus.0.title: Voici comment avoir une tête d'avance dans le business, sans travailler trop dur.
+
+Maître [[Suku]] et ses trois novices étaient en visite dans un temple où
+soixante moines aux yeux rougis travaillaient frénétiquement à
+toute heure du jour et de la nuit.
+
+"Comment en êtes-vous arrivés là ?" demanda Suku à un moine exténué.
+
+Le moine répondit, "Régulièrement, l'abbé supérieur promet beaucoup
+de choses au gouverneur de la province.
+  <i>Très bien,</i> disons-nous,
+  <i>mais il nous faudra davantage de développeurs,</i>
+  et l'abbé donne son accord.
+Mais nous nous retrouvons toujours à un mois de la date limite quand
+il nous en faudrait deux. Nous craignons pour notre santé mentale."
+
+"J'en parlerai à l'abbé," dit Suku.
+
+- - -
+
+L'étude de l'abbé supérieur était à moitié enterrée sous les
+plannings, agendas, rapports d'avancement couverts de notes griffonnées
+à l'encre rouge. L'abbé allait et venait nerveusement.
+
+"Comment en êtes-vous arrivés là ?" demanda Suku à l'abbé supérieur.
+
+L'abbé répondit, "Régulièrement, mes moines me disent qu'il
+leur faut davantage de développeurs pour tenir les deadlines du
+gouverneur de la province.
+  <i>Très bien,</i> dis-je,
+  <i>mais je devrai demander au gouverneur de m'avancer les fonds nécessaires,</i>
+  et le gouverneur donne son accord.
+Mais nous livrons toujours une fonctionnalité quand nous en avions promis deux.
+Je crains pour ma tête."
+
+"J'en parlerai au gouverneur de la province," dit Suku.
+
+- - -
+
+Le gouverneur et son trésorier parlaient des plaintes du trésorier
+de voir les comptes de la province dans le rouge. Mais comme la tête
+du trésorier avait été séparée du reste de son corps, la conversation
+était quelque peu à sens unique.
+
+"Comment en êtes-vous arrivés là ?" demanda Suku à la tête du trésorier.
+
+Le gouverneur répondit, "Régulièrement, l'abbé du temple
+prend mes logiciels en otage à moins que je ne lui donne davantage
+d'argent.
+  <i>Très bien,</i> dis-je,
+  <i>mais pour deux fois la somme je désire deux fois le travail,</i>
+  et l'abbé donne son accord.
+Mais je trouve toujours deux fois plus de défauts que dans la livraison
+précédente. Je crains que les moines ne soient pas assez motivés, et
+que leur abbé me prenne pour une idiote pleine aux as."
+
+"J'en parlerai à mes novices," dit Suku.
+
+- - -
+
+Les novices attendaient en dehors du temple quand leur maîtresse revint,
+ses pommettes rougies de frustration.
+
+"Comment en êtes-vous arrivée là ?" demandèrent les novices à Suku.
+
+Leur maîtresse répondit, "Régulièrement, j'ai la même histoire.
+Si nous n'intervenons pas, l'an prochain nous aurons deux fois plus
+de moines ici, puis le double de cela, et le double encore,
+et pourtant le gouverneur de la province sera insatisfaite.
+Je crains que l'empressement de l'abbé à l'apaiser a quelque peu
+l'effet inverse."
+
+"Et maintenant ?" demandèrent les novices.
+
+"Vous irez parler à l'abbé," dit Suku.
+"Dites-lui que Suku a trouvé une solution à son problème et l'a présentée
+au gouverneur, qui fut enchantée de sa simplicité et de son économie.
+S'il souhaite la mettre en marche, envoyez-le au gouverneur pour lui
+dire en personne ses mots les plus chers,
+<i>Je suis d'accord.</i>"
+
+"Et que se passera-t-il alors ?" demandèrent les novices.
+
+"Ramenez la tête de ce lâche dans ce panier," dit Suku.
+"Car si elle doit finir par tomber, le plus tôt sera le mieux
+pour chacune des parties impliquées."
