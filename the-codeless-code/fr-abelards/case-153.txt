@@ -1,5 +1,7 @@
 Number: 153
 Title: Le Cercle Rouge
+Lang: fr
+Translator: abelards
 Credits: Merci à Jay Carr pour l'idée !
 Illus.0.title: Voici comment avoir une tête d'avance dans le business, sans travailler trop dur.
 
