@@ -24,7 +24,7 @@ You can find information about the format to follow [here](http://thecodelesscod
 You can find "tags" at the beginning of the text file.
 Only keep the `Number`, translate the `Title`, and possibly `Illus.X.title` for image alt-tags.
 Add `Lang` with your locale and `Translator` with your name, nick, handle as you see fit.
-All others will be ignored (names, topics, geekiness...) and taken from the original english version.
+All others will be ignored (names, topics, geekiness...) and taken from the original English version.
 
 Credits
 -------
