@@ -1,0 +1,64 @@
+Number: 144
+Title: Mnémonique
+Lang: fr
+Translator: abelards
+
+Tandis que [[#143|Djishin partait du Temple du Ciel de Fer Blanc]]
+pour rentrer chez lui, une main tomba sur son épaule.
+"Frère," dit un moine en robes blanches, je vois à votre habit
+que vous êtes du [[Temple of the Morning Brass Gong|Temple du Gong de Cuivre Matinal]]."
+
+"Le nier serait mentir," dit Djishin.
+
+"J'ai entendu que c'est un endroit cruel, où les imbéciles sont
+corrigés avec humiliation et blessures, sinon une exécution sommaire",
+dit le moine.
+
+"Le nier serait mentir," dit Djishin, "mais l'affirmer également."
+
+"Je ne vois pas," dit le moine.
+
+"La grandeur d'un temple est dans les histoires qu'on en raconte,"
+dit Djishin, "ainsi notre scribe va parfois [[#89|réécrire nos chroniques]]
+pour que les histoires qui s'y trouvent soient plus... mémorables."
+
+"Alors votre très saint Journal d'Événements ne mérite aucune confiance ?"
+demanda le moine étonné.
+
+/"Null,"/ répondit calmement Djishin, comme maître Kaimu
+[[#24|le lui avait appris]]. "Vous pouvez accorder toute confiance aux
+chroniques quant à leur fidélité à /l'esprit/ des événements qui s'y
+sont déroulés, plutôt que des détails de ces événements."
+
+Le moine cracha à terre, aux pieds de Djishin.
+"Tes mots ont toute la logique tortueuse de ceux qui codent encore
+en procédures. Comment peux-tu venir ici en cherchant les bases
+fondamentales de la preuve d'algorithmes, alors que tu ne peux pas
+différencier /true/ de /false/ ?"
+
+Rapide comme l'éclair, Djishin cassa une branche d'un arbre et frappa
+le moine en robes blanches au ventre. Djishin continua à rosser le moine
+désormais sans voix, hurlant à chaque coup :
+
+<div align="center"><i>
+"En Perl, le souligné est interprété !<br/>
+En Perl, le souligné est interprété !"
+</i></div>
+
+Terrifié, le moine fuit Djishin, manquant de peu de jeter une vieille
+nonne à terre tandis qu'il accélérait vers les marches de la tour et
+disparut par ses portes.
+
+"Quel besoin à toute cette violence ?" demanda la nonne à Djishin.
+
+"Je voulais que votre moine apprenne la variable Perl <tt>$_</tt>,
+et ne jamais l'oublier," dit Djishin.
+
+"Mais nous n'utilisons pas Perl, par ici," dit la nonne.
+
+"C'est bien pour cela que je l'ai choisi," dit Djishin.
+"À partir de maintenant, à chaque fois qu'il racontera l'histoire du
+visiteur fou qui répondit à sa question à coups de branche, il va
+citer les mots étranges que je lui ai criés.
+Et quand il comprendra /pourquoi/ il s'en rappelle encore, il comprendra
+l'algorithme du scribe du Temple du Gong de Cuivre Matinal."
