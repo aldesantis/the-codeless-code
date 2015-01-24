@@ -1,0 +1,35 @@
+Title: Le conseiller de Suku
+Number: 88
+Lang: fr
+Translator: cdlm
+Credits: L'idée à l'origine de ce cas est une suggestion de Ryan Freebern.
+
+
+L'abbé en chef du [[Spider Clan|Clan de l'Araignée]] avait confié leur plus récente application au moine [[Wangohan]], autorisant celui-ci à la développer comme il l'entendait.
+À la fin du premier mois, maître [[Suku]] fut invitée à passer en revue les progrès du moine.
+
+« Vous avez choisi un framework qui n'a encore jamais été utilisé au Temple, » observa Suku.
+« Je ne puis dire si vous l'employez bien ou mal, mais votre code contourne et se tortille autour de l'API comme un serpent entre les ronces. »
+
+« J'avais lu nombre de critiques encourageantes de ce framework, » expliqua le moine.
+« Toutes étaient des promesses écrites dans la brise du matin.
+À présent le serpent a perdu son chemin. »
+
+« Les narines au frais des sous-bois ;
+la queue toujours à la chaleur du soleil, » dit Suku.
+
+Wangohan secoua la tête.
+« J'ai fait trop de chemin pour revenir en arrière maintenant.
+Quel conseil pouvez-vous donner pour le voyage à venir ? »
+
+« Aucun, présentement, » dit Suku.
+« Mais à minuit ce soir, prenez une lanterne et suivez le chemin qui traverse le Pont de [[Zjing]].
+J'enverrai un conseiller vous attendre de l'autre côté.
+
+Quand l'heure prévue arriva, Wangohan fila en douce de l'abbaye et emprunta le long pont qui se balançait à travers le gouffre.
+Il en avait à peine atteint le milieu quand les planches à l'autre extrémité s'embrasèrent.
+Le feu courut le long des cordages vers le moine terrifié ;
+la moitié du pont était dorénavant en flammes.
+Dans la lumière terrible, à l'extrémité du pont, on put voir maître Suku éteindre sa lanterne en s'en allant.
+
+Reculant devant le brasier, Wangohan fut illuminé.
