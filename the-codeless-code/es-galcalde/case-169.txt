@@ -1,0 +1,25 @@
+Number: 169
+Title: Mejores prácticas
+Lang: es
+Translator: galcalde
+Illus.0.title: Dejaré ese libro de "Estándares y prácticas" aquí, entre "La enciclopedia del Plomero de accesorios de tuberías" y "1001 Gingivitis (Ilustradas a Color)".
+
+El viejo escriba [[Qi]] fue invocado a una reunión con dos abades superiores.
+
+El primer abad dijo, "Los desarrolladores están ignorando nuestros varios documentos de Estándares y prácticas. Subimos los archivos a un proyecto en el repositorio fuente; nadie lo descarga. Hicimos enlaces PDF disponibles en una página web especial; nadie la visita. Hemos copiado meticulosamente el contenido en una wiki; nadie la explora."
+
+El segundo abad dijo, "Estamos considerando ahora <em>imprimir</em> el conjunto entero, y encuadernarlo en un libro. Colocaríamos una copia en cada escritorio de los desarrolladores. ¿Cual es su opinión?"
+
+"Encuadérnenlos en papel blanco," dijo el escriba. "Cuando pase un año, el polvo espeso no será inmediatamente visible."
+
+"Deseamos que los desarrolladores lo <em>usen</em>," dijo el primer abad.
+
+"¡Ah!" dijo el escriba. "Entonces encuadérnenlos en papel blanco, así cuando la noche se enfríe se quemarán más alegremente."
+
+"Deseamos que los desarrolladores lo <em>lean</em>," dijo el segundo abad.
+
+"¡Entonces háganme saber cómo lo logran!" dijo el escriba. "Porque nunca hallé la manera de hacer que cualquiera lea algo contra su voluntad."
+
+"¡¿Por qué nos está tomando el pelo en vez de ayudarnos?!" gritó el primer abad.
+
+<em>"Wú,"</em> dijo el escriba. "Ustedes han traído perros salvajes que han arruinado tres sofás, y ahora me preguntan de qué color debería ser el cuarto. Sigo diciéndoles: no son los muebles los que deben cambiarse."
