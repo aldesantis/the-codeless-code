@@ -21,7 +21,7 @@ hold orders whose status is <tt>COMPLETED</tt>: this should
 be evident from the name alone.  Why, then, did you add
 <tt>FAILED</tt> orders to it on this line?  I had no way of
 knowing that the variable's purpose had changed.
-My latest enhancements have all been in error!
+My latest enhancements have all been in error!"
 
 Landhwa yawned and sprinkled some cinnamon on his /hotteok./
 "Creating a separate variable would have complicated my task.

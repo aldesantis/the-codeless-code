@@ -1,0 +1,25 @@
+Number: 8
+Lang: de
+Translator: andrebogus
+Title: Reduktion, Reversion, Reflektion
+Title-footnote: 1
+
+Ein Novize fragte den Großmeister: “Was ist der Weg?”
+
+Der Meister antwortete, “Code schreiben ist der Weg.”
+
+Der Novize fragte darauf, “Was ist nicht der Weg?”
+
+Der Meister antwortete, “Code schreiben ist nicht der Weg.”
+
+Der Novize schloss, “Dann ist Code zu schreiben alle Dinge.”
+
+Der Meister entgegnete, “Und auch das nicht-Schreiben von Code.”
+
+Der Novize fragte, “Schreiben wir dann in diesem Moment Code, oder schreiben wir nicht Code?”
+
+Der Meister antwortete, “Wir sind der Code.”
+
+
+{{1}} Anm. des Übersetzers: Der Original-Titel "Reduce, Reuse, Recycle" hätte direkt übersetzt nicht dieselbe Konnotation gehabt. Ich habe mir daher die Freiheit erlaubt, einen sinnhafteren Titel zu wählen.
+

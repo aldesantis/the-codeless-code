@@ -4,7 +4,7 @@ Lang: fr
 Translator: cdlm
 Illus.0.title: En gros, c'est mon système de classement.
 
-L'abbé du [[Laughing Monkey Clan|Clan du Singe Rieur]] observa que le logiciel produit par le hall nord de l'abbaye avait plus de défauts que celui produit par quelconque autre groupe de moines.
+L'abbé du [[Laughing Monkey Clan|Clan du Singe Rieur]] observa que le logiciel produit par le hall nord de l'abbaye avait plus de défauts que celui produit par tout autre groupe de moines.
 Maître Java [[Banzen]] fut invité à enquêter.
 
 Le maître sélectionna une salle de réunion adaptée dans le hall nord.

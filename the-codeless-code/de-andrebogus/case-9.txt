@@ -1,0 +1,26 @@
+Number: 9
+Lang: de
+Translator: andrebogus
+Title: Undendlichkeiten
+
+Zwei Mönche des Clans der Spinne stritten, ob die neue Eingabe-Validierungsroutine in einer Endlosschleife steckte.
+
+“Wie lange läuft sie schon?” fragte der Abt.
+
+“Nicht mehr als dreißig Minuten,” sagte der blasse dünne Mönch.
+
+“Aber auch nicht weniger,” sagte der rotgesichtige dicke Mönch.
+
+“Und Ihr habt die ganze Zeit nichts weiter getan als auf ihren Abschluss zu warten??” fragte der Abt.
+
+Die Mönche neigten vor Scham ihre Häupter.
+
+Der Abt aber meldete dies dem Java-Meister, der bemerkte “Welcher der Beiden glaubt, dass die Schleife nicht endlos ist?”
+
+“Der blasse Dünne,” sagte der Abt.
+
+“Dann gib ihm einen Schluck Wein, denn er ist weise. Keine Schleife kann wirklich endlos sein. Eines Tages wird der Strom ausfallen, der Server rosten, der Tempel einstürzen und die Sonne die Erde verschlingen.”
+
+So fragte der Abt, “Was ist mit dem Dicken, der die Schleife für endlos hält?”
+
+“Gib ihm zwei Schlucke Wein, denn er ist weiser. Für den Nutzer, der auf seinen Browser wartet, sind zehn Sekunden eine Qual, eine Minute ist ein Zeitalter, und alles darüber eine Ewigkeit. Die vom Tiger angefallene Antilope fragt nicht, ob sie von acht oder einer Millionen Krallen zerfetzt wird.”

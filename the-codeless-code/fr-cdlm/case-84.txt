@@ -1,0 +1,36 @@
+Title: C'est marqué sur l'étiquette
+Number: 84
+Lang: fr
+Translator: cdlm
+
+[[Wangohan]], un moine à la charge de [[Suku]], avait peiné deux jours durant pour découvrir la cause d'un bug.
+Le troisième jour, alors qu'il traçait pas à pas son propre code, Wangohan reçut l'illumination.
+
+La colère aux entrailles et une liasse de code à la main, Wangohan se rendit au compartiment d'un moine appelé [[Landhwa]].
+Wangohan flanqua la liasse devant Landwha et pointa d'un doigt furieux une variable cerclée de rouge.
+
+« Il y a une variable dans cette méthode appelée <tt>completedOrders</tt>, » fulmina Wangohan.
+« Elle était censée contenir des commandes dont le statut est <tt>COMPLETED</tt> :
+cela devrait être évident, rien que par son nom.
+Pourquoi, alors, as-tu ajouté des commandes <tt>FAILED</tt> dedans, à cette ligne ?
+Je n'avais aucun moyen de savoir que l'usage de la variable avait changé.
+Toutes mes dernières améliorations sont incorrectes ! »
+
+Landhwa bâilla et saupoudra un peu de cannelle sur son /hotteok/.
+« Créer une variable séparée m'aurait compliqué la tâche.
+Et changer le nom de la variable existante n'était pas nécessaire, puisqu'elle contient toujours des commandes effectuées -- en grande partie. »
+
+Wangohan s'inclina froidement et s'en fut.
+
+- - -
+
+Plus tard cette semaine, maître Suku convoqua Wangohan.
+
+« Le moine Landhwa est en arrêt maladie, » expliqua-t-elle, un sourcil levé.
+« Des crampes d'estomac d'une nature très désagréable.
+La cause est inconnue, mais Landhwa a soufflé votre nom avant de se précipiter aux toilettes. »
+
+Wangohan leva les mains.
+« Je n'ai aucune idée de ce dont il souffre.
+Mais dans son cellier il y a un pot étiqueté /cannelle/ où je garde mon propre mélange de cet épice.
+Si il y a goûté, qu'il aie mon assurance que ce n'est que de la cannelle -- en grande partie. »

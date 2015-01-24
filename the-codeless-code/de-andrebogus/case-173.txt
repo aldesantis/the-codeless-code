@@ -3,6 +3,8 @@ Lang: de
 Translator: andrebogus
 Title: Verlorene Verbindung
 
+<i>Aus “Die Verehrung Ekus von Mugen”{{1}}:</i>
+
 Uralte Logs künden von einer Zeit, //
 zu der an jedem Morgen wir zu zweit //
 uns in des Äther's Netze fanden //
@@ -72,5 +74,9 @@ Es wird angenomen, dass sein zehntausend-Verse-Epos "Der
 Dromedar" einen Perl-OCaml-Transpiler in C++
 beschreibt. Kein Schüler ist lange genug bei Verstand
 geblieben, um es mit Sicherheit zu sagen.
+
+
+{{1}} Stanislaw Lem gewidmet. Ich bitte die Übersetzer vielmals um Entschuldigung{{2}}.
+{{2}} Anm. des Übersetzers: Wofür eigentlich?
 
 
