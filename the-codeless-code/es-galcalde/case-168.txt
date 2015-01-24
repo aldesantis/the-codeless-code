@@ -1,0 +1,97 @@
+Number: 168
+Title: Horizontal, Vertical
+Lang: es
+Translator: galcalde
+Illus.0.title: Cuanto más intento ser un desarrollador full stack en un entorno empresarial en rápida evolución, más le temo a mi propia ignorancia. Prefiero hacer cinco cosas bien que diez cosas mal.
+
+<i>Cuando sus respectivos aprendices se retiraron por la noche, //
+las maestras [[Suku]] y Yaqqana hablaron al lado del fogón //
+en el pequeño monasterio de Yaqqana.</i>
+
+- - -
+
+<em>Yaqqana dijo:</em> Comparemos los caminos de nuestros templos, //
+para ver que podemos aprender del otro.
+
+<em>Suku respondió:</em> Es agradable.
+
+//
+
+<em>Yaqqana dijo:</em> Nuestros sistemas están hechos de varios componentes, //
+cada uno modelado como la tierra misma: //
+la persistencia son los cimientos rocosos, //
+la lógica de negocios es el suelo fertil, //
+la presentación son las flores fragantes //
+deleitando al cielo infinito.
+
+<em>Suku respondió:</em> Hacemos lo mismo.
+
+//
+
+<em>Yaqqana dijo:</em> Nuestros diseños son guiados por tres principios: //
+bajo acoplamiento entre componentes, //
+alta cohesión entre ellos, //
+y la encapsulación siempre y cuando los desarrolladores se encuentran.
+
+<em>Suku respondió:</em> Pensamos lo mismo.
+
+//
+
+<em>Yaqqana dijo:</em> Nuestros medios para ese fin son auto-evidentes: //
+a cada monje se le asigna un componente a la vez, //
+escribiendo las capas como mejor le parezca.
+
+<em>Suku respondió:</em> Aquí separamos caminos -- porque en nuestro templo, //
+a cada monje se le asigna una capa a la vez, //
+sin embargo escribe en varios componentes distintos.
+
+//
+
+<em>Yaqqana dijo:</em> Las virtudes de nuestro camino se ven inmediatamente: //
+Cada componente es consistente de punta a cabo, //
+pero es una caja negra para sus vecinos de izquierda y derecha.
+
+<em>Suku respondió:</em> Las virtudes de nuestro camino son igual de aparentes: //
+Cada capa es consistente de punta a cabo, //
+pero es una caja negra para sus vecinos de arriba y abajo.
+
+//
+
+<em>Yaqqana dijo:</em> Vuestro camino nos mataría de estancamiento -- //
+porque tanto se debe hablar antes de que se escriba código.
+
+<em>Suku respondió:</em> Vuestro camino nos hundiría en el caos -- //
+porque tanto código se debe escribir antes de que alguien hable.
+
+//
+
+<em>Yaqqana dijo:</em> Cuando nuestro templo se construyó, //
+fue en las bases del respeto, //
+la confianza mutua, //
+la creatividad, //
+y la independencia. //
+Confiamos hasta que nuestros monjes regulares entreguen código de calidad, //
+y eso no lo cambiaría por nada.
+
+<em>Suku respondió:</em> Ni te pediría que lo hicieras. //
+Vuestro templo no es nuestro templo; vuestras necesidades no son las nuestras. //
+Por lo tanto estemos de acuerdo en algo más, //
+separarnos amistosamente.
+
+//
+
+<i>Así las dos se abrazaron en amistad, //
+y se desearon felices sueños.</i>
+
+- - -
+
+<i>Pero cuando Yaqqana se fue, y Suku estaba sola, //
+le susurró al fuego moribundo:</i>
+
+Cuando fue construido vuestro templo, //
+¿Los albañiles cortaron las piedras de los cimientos? //
+¿Los carpinteros tallaron las vigas? //
+¿Los plomeros colocaron las tuberías? //
+¿Los techadores colocaron las tejas? //
+¿O cien trabajadores regulares eligieron un cuarto cada uno, //
+y lo construyeron entero de la tierra al cielo?
