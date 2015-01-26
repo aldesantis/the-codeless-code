@@ -1,0 +1,64 @@
+Number: 175
+Title: Flat Shark
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Ce n'est pas une peinture.
+
+Un monaco chiese al maestro Java [[Kaimu]]: //
+Cos'è il "principio di singola responsabilità"?
+
+Disse Kaimu: //
+Che una classe debba fare solo una cosa, //
+e farla interamente.
+
+Il monaco chiese: //
+Come dovrei decidere questa "sola cosa"?
+
+Disse Kaimu: //
+Il Pescatore non costruisce navi, //
+o lo chiameremmo Carpentiere.
+
+Il monaco chiese: //
+Non c'è spazio nella vostra filosofia per le interfacce? //
+E se la mia classe potesse servire come Pescatore, //
+e Carpentiere e anche Marinaio?
+
+Disse Kaimu: //
+Come chiameresti un simile mostro a tre teste?
+
+Il monaco rispose: //
+Shisho, come mio zio. Vive in riva al mare e fa tutte queste cose.
+
+Disse Kaimu: //
+Darei alla tua classe Shisho tre variabili d'istanza: //
+un Pescatore, un Carpentiere e un Marinaio. //
+Quindi Shisho potrebbe implementare tali interfacce per delegazione.
+
+Il monaco rispose: //
+Io parlo di ereditarietà, e mi rispondete in componimento. //
+/Tutto/ mio zio è un Pescatore, non solo il suo piede sinistro. //
+A che servono gli oggetti, se non modellano fedelmente il mondo?
+
+Disse Kaimu: //
+Se dipingo uno squalo meraviglioso su questa pagina, dirai, "Bello squalo!" //
+o ti lamenterai che è piatto e non ti mangia?
+
+Il monaco chiese: //
+Ma come dovremmo sapere quando lo squalo piatto è abbastanza squalo? //
+O quando nostro zio dovrebbe pescare col suo piede sinistro?
+
+Disse Kaimu: //
+Imparare come è la /nostra/ "singola responsabilità".
+
+== Il commento di Qi
+
+Ogni classe fa una sola cosa -- //
+ma a volte quella sola cosa //
+è "fare troppe cose".
+
+== Il poema di Qi
+
+Una mattina Kaimu prese il suo pennello. //
+In due colpi dipinse uno squalo squisito. //
+Un passante rise: "È uno squalo orrendo che non può aprire la bocca!" //
+Kaimu rispose: "Eppure mi ha detto che sei uno stolto."
