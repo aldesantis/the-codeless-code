@@ -1,0 +1,34 @@
+Number: 171
+Title: Condiciones Iniciales
+Lang: es
+Translator: galcalde
+Illus.0.title: ¿Alguien más cree que es raro que el ícono de búsqueda universal sea una lupa? ¿Cuando fue la última vez que buscaron *cualquier cosa* con una lupa en la vida real? ¿Mi ícono de búsqueda ideal sería una pequeña foto mía, gritando "¡¿ALGUIEN HA VISTO LAS LLAVES DE MI AUTO?!"
+
+La monja [[Hwídah]] fue invocada a las oficinas del maestro [[Banzen]]. Ella halló al maestro esperando con su aprendiz [[Djishin]] en asistencia.
+
+Banzen dijo, "¡Feliz día para tí, pequeña monja! Ya que te da tanto placer aprender verdades escondidas y ver a las partes culpables corregidas, tengo una tarea entretenida para tí."
+
+"Yo sirvo para el placer del templo, no el mío," Hwídah respondió con una reverencia diligente. Pero su estómago ya estaba contraído; porque sin dudas era el comienzo de su castigo por [[#152|traspasar el terreno prohibido del templo.]]
+
+"Un error infrecuente pero tenaz ha plagado el [[Elephant's Footprint Clan|Clan de la Huella del elefante]] por un tiempo," dijo el maestro mientras le daba a la monja una impresión. "Nuestros logs de la base de datos muestran esta consulta SQL mal formada, sin embargo una búsqueda extensiva en nuestro código no revela semejante consulta en ningún lado. Halla la fuente. Te daré una semana."
+
+Hwídah estudió el papel. "Unos pocos minutos deben bastar. ¿Puedo pedir prestada la terminal del maestro?"
+
+Las cejas de Banzen se levantaron. Intercambió miradas con su aprendiz, y luego deslizó su laptop hacia la monja.
+
+Hwídah consultó la impresión, escribió algo, escudriñó la pantalla, consultó de nuevo la impresión, y así sucesivamente varias veces. "Ahí," dijo finalmente, girando la pantalla. El cursor sin duda estaba cerniéndose sobre un fragmento SQL que le faltaba un paréntesis a la derecha. "Si vuelvo a mi cubículo, puedo trazar este código a hacia sus consumidores y reproducir el error en los logs. Luego podremos reparar el defecto con confianza."
+
+"Ve," dijo Banzen a Hwídah.
+A su aprendiz dijo: "Observa."
+
+- - -
+
+Mientras la pareja caminaba hacia el cubículo de Hwídah, Djishin susurró, "La velocidad de tu diagnosis fue sorprendente."
+
+"Una cuestión simple," dijo Hwídah, pasándole la impresión al monje. "La consulta mal formada comienza con un <tt>WHERE 1=1</tt>. Eso tiene el hedor del SQL generado dinámicamente -- porque aunque la condición inicial es trivial, su valor <tt>TRUE</tt> permite a un desarrollador agregar cualquier número de condiciones <em>reales</em> como cláusulas <tt>AND</tt> simples. He usado esta técnica cuando implementaba formularios de búsqueda con campos opcionales. Una vez que lo reconocía, simplemente buscaba en en nuestro código por las cláusulas <tt>AND</tt> individuales."
+
+"Me malentiendes," dijo Djishin. "No estaba sorprendido porque fueras <em>capaz</em> de resolverlo inmediatamente; Estaba sorprendido de que lo hayas hecho a pesar de que te dieran una semana entera. Eso tiene el hedor de la ambición -- porque aunque ese problema inicial era trivial, tu honradez pronta ahora permite a mi maestro confiarte cualquier número de problemas <em>reales</em>."
+
+Hwídah suspiró. "Mejor así. Si hubiera pretendido que este problema era lo suficientemente difícil para ameritar días de esfuerzo, Banzen me hubiera creído deshonesta o incompetente. Ninguna de las dos me caería bien. Eso es lo que él deseaba descubrir en verdad."
+
+Djishin asintió. "A veces una prueba sirve a un propósito <em>porque</em> la respuesta es tan obvia."
