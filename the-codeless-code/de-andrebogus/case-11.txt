@@ -1,0 +1,23 @@
+Number: 11
+Lang: de
+Translator: andrebogus
+Title: Käfige
+
+Um die weitere Verbreitung redundanten Codes zu verhindern, verfügte der Abt des Elefanten-Fußabdruck-Clans, dass seine Mönche nur noch Applikations-spezifischen Code schreiben sollten. Jede Code-Zeile eher genereller Natur müsse zunächst einem Wiederverwendungs-Komittee vorgelegt werden, welches Open-Source-Lösungen recherchieren, die Vor- und Nachteile der Lösungen und die Anforderungen der verschiedenen Applikationen gegeneinander abwiegen, das Design (so die Kommittee-Mitglieder dies als sinnvoll erachteten) erweitern und (wenn alle Zeichen für eine Implementierung sprachen) einen Zeitplan für die Implementierung aufstellen sollte. Der gesamte Prozess von der Meldung bis zur Umsetzung würde viele Wochen dauern.
+
+Als die Kunde des Erlasses ihn erreichte, schickte der Java-Meister nach den beiden wertvollen Singvögeln des Abtes. Sein Brief versprach, dass die Tiere in der folgenden Woche zurückgebracht würden. Und das wurden sie auch, in zwei getrennten Bambuskäfigen, die der Meister selbst entworfen hatte.
+
+Die Stangen des einen Käfig waren eine Handbreit voneinander entfernt; der Vogel war während der Reise einfach durch die Lücken entkommen.
+
+Die Stangen des anderen Käfigs waren so eng gesetzt, dass weder Licht noch Luft hindurch kamen. Der Vogel darin war bei seiner Ankunft tot.
+
+An jedem Käfig war ein Gedicht in der Handschrift des Meisters angebunden:
+
+    Auf der Straße //
+    von der Luft in den Sarg //
+    liegen die vielen Käfig-Häuser.
+
+    Das Haus der Drossel //
+    wird nicht vom Wurm //
+    oder vom Bullen geteilt.
+
