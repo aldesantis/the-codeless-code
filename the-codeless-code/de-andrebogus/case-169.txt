@@ -5,7 +5,7 @@ Title: Best Practices
 
 Der alte Schriftgelehrte Qi wurde von zwei Äbten zu einem Treffen berufen.
 
-Der erste Abt sprach, “Die Entwickler ignorieren unsere Standards und Best Practices Dokumente. Wir haben die Dateien in ein Repository eingecheckt; niemand lädt sie herunter. Wir haben PDF-Links auf einer eigens erstellten Webseite verfügbar gemacht; niemand klickt sie. We haben den Inhalt akribisch in ein wiki kopiert, niemand besucht es.”
+Der erste Abt sprach, “Die Entwickler ignorieren unsere Standards und Best Practices Dokumente. Wir haben die Dateien in ein Repository eingecheckt; niemand lädt sie herunter. Wir haben PDF-Links auf einer eigens erstellten Webseite verfügbar gemacht; niemand klickt sie. Wir haben den Inhalt akribisch in ein wiki kopiert, niemand besucht es.”
 
 Der zweite Abt fügte hinzu, “Wir überlegen nun, /die gesamten Dokumente zu drucken/ und als Buch zu binden. Wir würden jedem Entwickler ein Exemplar auf den Schreibtisch legen. Was meint Ihr dazu?”
 

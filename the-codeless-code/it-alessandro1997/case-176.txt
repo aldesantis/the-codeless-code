@@ -1,0 +1,56 @@
+Number: 176
+Title: Molti felici ritorni
+Lang: it
+Translator: alessandro1997
+Illus.0.title: E per di più il riso è freddo.
+
+Un monaco novizio disse al maestro [[Kaimu]]: "Ho sentito che è preferibile
+avere una sola dichiarazione di restituzione in una funzione. Siete d'accordo?"
+
+Kaimu chiese: "Dov'è la tua ciotola?"
+
+Il monaco si scusò e lo lasciò per prendere la propria ciotola.
+
+- - -
+
+Quando il monaco tornò, mostrò la ciotola al maestro e disse: "Ho sentito che è
+preferibile avere una sola dichiarazione di restituzione in una funzione. Siete
+d'accordo?"
+
+Kaimu chiese: "Perché non c'è riso nella tua ciotola?"
+
+Il monaco si scusò e lo lasciò per prendere del riso.
+
+- - -
+
+Quando il monaco tornò, mostrò la ciotola piena di riso bianco fumante al
+maestro e disse: "Ho sentito che è preferibile avere una sola dichiarazione di
+restituzione in una funzione. Siete d'accordo?"
+
+Kaimu prese la ciotola del monaco e la mise sulla propria scrivania.
+
+"Parli del venerabilissimo principio di design conosciuto come /Singola
+Entrata, Singola Uscita/" disse il maestro. Quindi raccontò al monaco dei
+gloriosi giorni andati della programmazione, quando la memoria era poca,
+l'hardware era lento e le risorse dovevano essere gestite con cura. "Perché C
+non ti faceva favori" disse Kaimu, "e Assembly te ne faceva la metà. Quindi se
+la tua funzione prendeva qualcosa in prestito, poi la tua funzione doveva
+rimetterla a posto. E qual era il modo più semplice per farlo? Mettere tutto il
+codice per la pulizia in un singolo punto, in fondo alla funzione... una
+tradizione che ancora continua."
+
+Kaimu parlò poi della nascita degli oggetti, di distruttori e finalizzatori.
+Parlò anche di garbage collection; di conteggio delle referenze e di
+mark-and-sweep, e compilatori che possono decidere quando un oggetto esce dal
+proprio scope. Parlò di buffer che crescono quand'è necessario e svaniscono
+quando non lo è, di file che si chiudono, di pool di connessioni e di pool di
+thread e di try-with-resource, e di come meraviglioso e magico fosse il moderno
+repertorio dei linguaggi, grazie ai quali i monaci possono spendere le proprie
+energie su problemi più interessanti invece di preoccuparsi di <tt>malloc</tt>
+e <tt>free</tt> e <tt>goto fail</tt>.
+
+"Sì" disse infine il monaco sfinito. "Ma siete /d'accordo/ con il principio di
+design della /Singola Entrata, Singola Uscita/, o /non lo siete/?"
+
+Kaimu guardò la ciotola e disse: "Perché il riso nella tua ciotola è bianco, e
+non marrone?"

@@ -1,0 +1,98 @@
+Date: 2015-01-19
+Number: 177
+Title: The Tool-Shed
+Names: Djishin, Banzen
+Topics: reuse, abstraction, APIs, bloat, YAGNI
+Geekiness: 2
+
+The monk [[Djishin]] was walking in the forest, when he
+came upon a man sawing wood by the edge of the path.
+
+"What are you making, friend?" asked Djishin.
+
+"A tiny tool-shed that I have sorely needed," said the man.
+"It will have one hook for my rake, another for my spade,
+and a place on the floor for my tin pail."
+
+Djishin wished the man good health and continued on his way.
+
+- - -
+
+The next day Djishin came upon this same man sawing wood.
+Many posts had been set into the ground.
+
+"How goes your work today, friend?" asked Djishin.
+"That is a wider tool-shed than I'd imagined."
+
+Said the man, "Last night I wondered: what if I buy more
+rakes or pails, or wish to store clay pots?  So now it is a
+proper garden-shed.  See, here will go a window, with a
+shelf to start my seedlings."
+
+Djishin wished the man good health and continued on his way.
+
+- - -
+
+The next day Djishin came upon this same man sawing wood.
+Many more posts had been set into the ground, and joists for
+a floor, and ceiling beams.
+
+"How goes your work today, friend?" asked Djishin.
+"That is a taller garden-shed than I'd imagined."
+
+Said the man, "Last night I thought: if I add
+a second storey, it would make a cozy cottage where I could
+rest after a hard day's gardening.  See, here will go a ladder,
+where I may climb to a loft with a humble bed."
+
+Djishin wished the man good health and continued on his way.
+
+- - -
+
+The next day Djishin came upon this same man sawing wood.
+Many more posts had been set into the ground, and ceiling
+beams, but the floor had been torn apart.
+
+"How goes your work today, friend?" asked Djishin.
+"That is a larger cottage than I'd imagined."
+
+Said the man, "Last night I decided: stairs are better than
+a ladder, for under them one may keep clothes and shoes.  In
+which case I may as well build a proper house, with a
+kitchen and a bathing-room, and give it to my son when he is
+grown.  See, here will go a fine stone floor, when I have
+money to pay the quarry."
+
+Djishin wished the man good health and continued on his way.
+
+- - -
+
+The next day Djishin came upon this same man sawing wood.
+Still more posts had been set into the ground, with
+rickety catwalks between them.  From the ceiling beams hung
+ropes and pulleys.
+
+"How goes your work today, friend?" asked Djishin.
+"That is a grander house than I'd imagined."
+
+Said the man, "Last night I realized: my son may someday
+wish a wife and family.  So I am putting all in readiness for
+an estate of any size, depending on the number of children
+he foresees.  See, here are the ramps to carry flagstones
+for the floor, and scaffolding he can climb to set the roof
+tiles."
+
+Djishin wished the man good health and continued on his way.
+
+- - -
+
+The next day Djishin was at his terminal when master [[Banzen]]
+came in.
+
+"How goes your work today, monk?" asked Banzen.
+"I expect you need more time to implement this grand email
+framework you devised last week."
+
+"No more time," said Djishin, swivelling his monitor to face
+the master.  "I have dismantled the bones of my estate, and
+built for you this fine tool-shed."

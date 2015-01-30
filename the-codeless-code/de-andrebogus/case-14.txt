@@ -1,0 +1,23 @@
+Number: 14
+Lang: de
+Translator: andrebogus
+Title: Hallo, Welt
+
+An ihrem ersten Tag im Tempel stellte der Java-Meister den Novizen folgende drei Fragen:
+
+“Oftmals, wenn wir eine neue Sprache oder Programmbibliothek lernen, schreiben wir als erstes Programm Hallo, Welt. Sein Zweck ist, diese Worte irgendwie auszugeben, um das erwartete Verhalten der Technologie zu demontrieren. Nachdem dies getan ist, wird das Programm nie wieder gestartet.
+
+“Nun: Warum sagt das Programm Hallo und nicht Lebwohl?
+
+“Und: Warum sagt es Hallo zur Welt, wenn die Zuhörerschaft aus einer Seele besteht, die es nach dem ersten Ausruf wegwerfen wird?
+
+“Und: Warum sollte es grüßen, wenn der Gruß nie erwidert wird?”
+
+- - -
+
+Sag mir ein Wort, das Hallo und Lebwohl bedeutet— //
+ist es nicht der erste Schrei eines Kindes?
+
+Finde mir einen Gipfel, von dem die Welt zu sehen ist— //
+dessen Auge jeden Tiger, //
+und jedes Sandkorn der Wüste spiegelt?

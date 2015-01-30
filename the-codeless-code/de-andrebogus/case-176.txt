@@ -1,0 +1,39 @@
+Number: 176
+Lang: de
+Translator: andrebogus
+Title: Viele Glückliche Antworten
+Title-footnote: 1
+
+Ein Novize sprach zu Meister Kaimu, “Ich hörte, dass es besser ist, nur einen return-Ausdruck in einer Funktion zu haben. Stimmt Ihr zu?”
+
+Kaimu fragte, “Wo ist Deine Schüssel?”
+
+Der Mönch entschuldigte sich und ging seine Schüssel holen.
+
+- - -
+
+Als der Mönch zurückkehrte, zeigte er dem Meister seine Schüssel und sprach, “Ich hörte, dass es besser ist, nur einen return-Ausdruck in einer Funktion zu haben. Stimmt Ihr zu?”
+
+Kaimu fragte, “Warum ist kein Reis in Deiner Schüssel?”
+
+Der Mönch entschuldigte sich und ging Reis holen.
+
+- - -
+
+Als der Mönch zurückkehrte, zeigte er dem Meister seine Schüssel voll dampfendem weißen Reis und sprach, “Ich hörte, dass es besser ist, nur einen return-Ausdruck in einer Funktion zu haben. Stimmt Ihr zu?”
+
+Kaimu nahm die Schüssel des Mönchs und stellte sie auf seinen Schreibtisch.
+
+“Du sprichst vom höchst ehrwürdigen Design-Prinzip des Single-Entry Single-Exit.” sagte der Meister. Sodann erzählte er dem Mönch von Code lang vergangener glorricher Tage, als Speicher knapp und Hardware langsam war, und man sorgsam mit Ressourcen umgehen musste. “Denn C machte keine Geschenke,” sprach Kaimu, “und Assembler nur halb so viel. Wenn also Deine Funktion etwas nahm, musste sie es auch wieder zurückgeben. Und wie ist dies am einfachsten zu tun? Indem man den Aufräum-Code an einer Stelle am Ende der Funktion bündelt... eine Tradition, die bis zu diesem Tag hält.”
+
+Weiter sprach Kaimu von der Geburt von Objekten, von Destruktoren und Finalizern. Er sprach auch von Garbage Collection; von Referenz-Zählen und Mark-and-Sweep, und Compilern, die wussten, wann ein Object aus dem scope geriet. Er sprach von Speichern, die soweit wie benötigt wuchsen, und verschwanden, wenn sie nicht mehr gebraucht wurden, von Dateien, die sich selbst schlossen, von Connection Pools und Thread pools und try-with-resources, und davon welche Wunder und Zauber das moderne Programmiersprachen-Bestiarium bereit hielt, wo Mönche ihre Energie interessanteren Probleme weihen konnten anstatt über malloc, free und goto fail zu brüten.
+
+“Ja,” sagte der erschöpfte Mönch zuletzt. Aber stimmt Ihr dem Single-Entry Single-Exit-Prinzip nun zu oder nicht?”
+
+Kaimu sah herunter und sprach, “Warum ist der Reis in Deiner Schüssel weiß und nicht braun?”
+
+{{1}} Anm. des Übersetzers: Der Originaltitel "Many Happy Returns" kann nicht einfach sinngemäß  übersetzt werden, da "Returns" sowohl Antworten als auch Rückkünfte, oder aber Vorkommen des “return”-Ausdrucks in diversen Programmiersprachen bedeuten kann. Dafür kann man den neu gewählten Titel VGA abkürzen, eine Anspielungl auf einen frühen PC-Grafikkartenstandard.
+
+
+
+

@@ -1,0 +1,57 @@
+Number: 161
+Title: Triángulo
+Lang: es
+Translator: galcalde
+Illus.0.title: Los lenguajes que requieran que creas en absurdos te obligarán a implementar atrocidades.
+
+Un nuevo monje del [[Spider Clan|Clan de la Araña]] se había perdido en el Templo de noche. Después de varios vaivenes tuvo la desgracia de atravesar una puerta pesada que se cerró tras suyo con un feo <em>clack</em>.
+
+El monje se halló en medio de una escalera que hacía espirales por las paredes internas de una torre hueca. Tímidamente miró sobre la barandilla. Muy abajo había un patio cubierto de oscuridad, mientras que muy arriba colgaba un cielo negro idéntico al patio en cada aspecto. El monje procedió a subir la escalera, esperando hallar una salida o un punto de observación más iluminado.
+
+Cada puerta por la que pasaba a su derecha estaba cerrada. El monje cansado casi había resuelto volver abajo cuando observó un rayo de luz escapando de las grietas de una puerta adelante.
+
+- - -
+
+La puerta estaba etiquetada como "123". El monje vaciló, luego golpeó la puerta. Hubo un sonido de pasos, luego la puerta se abrió para revelar a una vieja mujer sosteniendo una linterna en lo alto.
+
+"¿Sí? ¿Sí? ¿Sí?" dijo la monja impacientemente.
+
+"Una docena de perdones por molestarla a estas horas tardías," dijo el monje, sintiéndose de repente aturdido por la larga subida. "Pero... ¿Donde estoy?"
+
+"En la [[Abbey of Hidden Absurdities|Abadía de los Absurdos Ocultos]]," dijo la monja, "en la torre donde se escribe PHP."
+
+"¿Qué hay de absurdo con PHP?" preguntó el monje.
+
+La vieja monja se rió. "Lo tomo como que no has hecho mucho trabajo en ese lenguaje. Pregúntale a mi hermana mayor arriba esa pregunta; seguro te ayudará." La monja luego dio un portazo, cerrándola con un terrible <em>clack</em>.
+
+El monje suspiró y continuó subiendo las escaleras, girando y girando, finalmente llegando a otra puerta con una luz tras de ella.
+
+- - -
+
+Esa puerta estaba etiquetada como "456A". El monje golpeó la puerta, y fue respondido por otra mujer vieja.
+
+"Una docena de perdones por molestarla a estas horas tardías," dijo el monje, "pero ¿Qué hay de absurdo con PHP?"
+
+La vieja monja se rió con satisfacción. "Lo tomo como que no has hecho mucho procesamiento de strings en ese lenguaje. Pregúntale a mi hermana mayor arriba esa pregunta; seguro te ayudará." La monja luego dio un portazo, cerrándola con un terrible <em>clack</em>.
+
+El monje refunfuñó y continuó subiendo las escaleras, girando y girando, finalmente llegando a otra puerta con una luz tras de ella.
+
+- - -
+
+Esa puerta estaba etiquetada como "78". El monje golpeó la puerta, y fue respondido por otra mujer vieja.
+
+"Una docena de perdones por molestarla a estas horas tardías," dijo el monje, "pero ¿Qué hay de absurdo con PHP?"
+
+La vieja monja se rió a carcajadas. "Lo tomo como que no has hecho mucho con los operadores de comparación numéricos en ese lenguaje. Pregúntale a mi hermana mayor arriba esa pregunta; seguro te ayudará." La monja luego dio un portazo, cerrándola con un terrible <em>clack</em>.
+
+El monje gimió y continuó subiendo las escaleras, girando y girando, finalmente llegando a otra puerta con una luz tras de ella.
+
+- - -
+
+Esa puerta estaba etiquetada como "123".
+
+El monje vaciló, luego golpeó la puerta. Hubo un sonido de pasos, luego la puerta se abrió para revelar a una vieja mujer sosteniendo una linterna en lo alto.
+
+"¿Sí? ¿Sí? ¿Sí?" dijo la monja impacientemente.
+
+"Una docena de perdones por molestarla a estas horas tardías," dijo el monje, sintiéndose de repente aturdido por la larga subida. "Pero... ¿Donde estoy?"

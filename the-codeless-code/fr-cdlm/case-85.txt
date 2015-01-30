@@ -1,0 +1,43 @@
+Title: Le juste milieu selon Suku
+Alt-title: Logique floue
+Number: 85
+Lang: fr
+Translator: cdlm
+Illus.0.title: Suku avait l'habitude de traîner dans les bars de l'université pour parier aux mathématiciens qu'elle pouvait ajouter zéro et un et obtenir un résultat strictement entre un et deux. Mais elle finit par se rendre compte qu'il était plus facile d'attendre qu'ils soient ivres pour piquer leurs portefeuilles.
+
+
+Deux moines approchèrent maître [[Suku]] pour régler un différend.
+
+Le premier moine dit « J'ai proposé une conception véritablement élégante, mais ce moine dit qu'elle est trop complexe et qu'elle n'est pas maintenable. »
+
+Le second moine dit « J'ai proposé une conception véritablement simple, mais ce moine dit qu'elle est trop limitéee et ne sera pas pratique. »
+
+Suku se tourna vers son tableau blanc et dessina un gran /phi/, comme ceci :
+
+
+
+
+
+
+Le premier moine dit « Je ne comprends pas. »
+
+Le second moine dit « Moi non plus. »
+
+Suku répondit
+« Vous argumentez binairement, avec des zéros et des uns.
+Revenez quand vous aurez appris les nombres à virgule flottante. »
+
+
+== Commentaire de Qi
+
+[[Kaimu]] règne sur les novices et les maîtres, mais ils envoient les véritables fous à Suku.
+
+[[#24|Le /null/ de Kaimu]] peut annuler une mauvaise question, mais le /phi/ de Suku annihile deux mauvaises réponses.
+
+
+== Poème de Qi
+
+Kaimu a son /null/. //
+Suku préfère son juste milieu. //
+L'un exige la remise en cause -- //
+l'autre, le compromis.
