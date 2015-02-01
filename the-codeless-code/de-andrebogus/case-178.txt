@@ -1,0 +1,40 @@
+Number: 178
+Lang: de
+Translator: andrebogus
+Title: Einheit
+
+Eine üble Darmgrippe ging im Tempel um. Die Hälfte des Spinnen-Ordens war bereits krank, und um die Termine einzuhalten war der Mönch Wangohan gezwungen, mit seinem alten Feind, dem Mönch Landhwa, zusammenzuarbeiten.
+
+Um Konflikte, die zum Ausfall eines weiteren Entwicklers führen könnten, zu vermeiden, entschied ihr neu berufener Meister-in-Ausbildung Zjing, dass sie in unterschiedlichen Schichten arbeiten sollten—Landhwa am Tag und Wangohan Nachts.
+
+“Zu guter Letzt,” sagte Zjing auf dem Videokonferenzmonitor, “können wir keine Verzögerungen wegen Streit um Code-Stile riskieren. Doch ich möchte auch kein Stil-Mischmasch in der Applikation. Daher, und weil Wangohan neu im Projekt ist, wird er Landhwas Stil so präzise wie möglich folgen.”
+
+Wangohan verneigte sich zustimmend und ging, um sich vor der nächtlichen Arbeit auszuruhen.
+
+- - -
+
+Zur Nacht begann Wangohan, sich mit Landhwas Code vertraut zu machen. Er war erfreut, dass sich keine magischen Werte im Code fanden, doch aus Freude wurde Entsetzen, als er entdeckte, dass alle Konstanten der Applikation—egal zu welchem Zweck—in einer einzelnen großen kommentarlosen Constants.java Datei standen:
+
+|  ...
+   public static final String HELP = "HELP";
+   public static final String HELP2 = "Need help?";
+   public static final String HELPU = "/help";
+   public static final String HELPTA = "{{help}}";
+   public static final String HELPTB = "${help}";
+   public static final String HTTP = "HTTP";
+   public static final String HTTPU = "http://";
+   public static final String HTTPS = "https";
+   ...
+
+Wangohan wollte den Code refaktorieren, als ihm Zjings Beschluss einfiel. Um die neu gewonnene Autorität seiner langjährigen guten Freundin nicht zu besudeln, nahm Wangohan seine Finger von der Tastatur und stierte lange Zeit auf den Bildschirm.
+
+- - -
+
+Am Morgen fand Landhwa eine Nachricht von Wangohan:
+
+    Alles ist nach Deinem Beispiel programmiert.
+
+Landhwa holte die letzte Version aus dem Repository und sah, dass fast alle Dateien verschwunden waren. Nur zwei verblieben. Die erste kannte Landhwa; die zweite war erst ein paar Stunden alt:
+
+|   Constants.java            48K
+    Code.java               8090K

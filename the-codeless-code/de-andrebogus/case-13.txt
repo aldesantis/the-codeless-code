@@ -1,0 +1,14 @@
+Number: 13
+Lang: de
+Translator: andrebogus
+Title: Evolution
+
+Ein Novize studierte den Code des Java-Meisters und folgte exakt dem Stil des Meisters: die verwendeten Design Patterns, Namenskonventionen für Variablen, die bis hin zur Einrückung. Sogar die Kommentare imitierten bestechend die Ausdrucksweise des Meisters.
+
+Zum nächsten Code Review fand der überraschte Novize den Meister furchtbar unzufrieden vor.
+
+“Aber Meister,” protestierte der Schüler. “Ich folgte Eurem Beispiel bis ins letzte Semikolon. Seht, dort ist eine Hilfsklasse, die Ihr erst letzten Monat geschrieben habt: gleicht sie nicht meinem Code wie ein Ei dem anderen?”
+
+“Und genau da liegt das Problem,” grollte der Meister. “Gestern war ich ein Narr, vorige Woche ein Idiot, und letzten Monat ein Imbeziler. Zeige mir keinen Code, den ich gestern geschrieben haben könnte. Zeige mir Code wie ich in morgen schreibe.”
+
+

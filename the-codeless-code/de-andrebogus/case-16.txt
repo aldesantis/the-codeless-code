@@ -1,0 +1,17 @@
+Number: 16
+Lang: de
+Translator: andrebogus
+Title: Dokumentation
+
+Ein Abt des blinden Adlers der sieben Klauen zählte die Ergebnisse seiner Mönche, als ihm auffiel, dass ein Mönch des lachenden Affen kein Design-Dokument erstellt hatte.
+
+“Was, wenn ein Problem in der Produktion entdeckt wird?” fragte der Abt den Mönch. “Wie könnte jemand außer Dir die Ursache verstehen?”
+
+“Der Code selbst ist zu prüfen,” sagte der Mönch. “Das Dokument ist ein malades Wesen und fällt leicht den drei Plagen der Fehler anheim: Auslassung, Verwirrung und Veraltung.”
+
+Der Abt meldete dies dem Java-Meister, der sprach: “Lasse den Mönch täglich von Sonnenaufgang bis Mitternacht mit gestrecktem Stab auf einem Fuße balancieren. Nur wenn er ein Wort sagt, das mir gefällt, sei die Strafe aufgehoben.”
+
+“Gibt es ein solches Wort?” fragte der Abt.
+
+“Es ist schwer zu sagen,” reflektierte der Meister. “Gestern gefiel mir das Zirpen einer Grille beim ersten Tau. Am Vortag brachte mir das Geräusch von Milch, die in einem Zinn-Eimer läuft, eine schöne Kindheitserinnerung. Vielleicht liegt die Antwort im Duft der weißen Lotusblüte, die einst unter meinem Fenster auf einem See schwamm.”
+
