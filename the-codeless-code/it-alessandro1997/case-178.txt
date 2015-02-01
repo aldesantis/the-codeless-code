@@ -1,0 +1,60 @@
+Number: 178
+Title: Unità
+Lang: it
+Translator: alessandro1997
+
+Una brutta influenza intestinali si stava facendo strada attraverso il Tempio.
+Metà del [[Spider Clan|Clan del Ragno]] ne era caduta vittima, dunque per
+rispettare le scadenze il monaco [[Wangohan]] era stato obbligato a fare squadra
+con il suo acerrimo nemico, il monaco [[Landhwa]].
+
+Per evitare conflitti che avrebbero potuto portare alla
+[[#84|perdita di un altro sviluppatore]], la loro [[#174|nuova]] maestra in
+tirocinio [[Zjing]] decise che avrebbero lavorato in turni separati -- Landhwa
+di giorno, Wangohan di notte.
+
+"Infine" disse Zjing nel monitor della videoconferenza, "non possiamo rischiare
+dei ritardi causati da discussioni sullo stile di programmazione. Ma non voglio
+neanche che ci siano due stili separati nella stessa applicazione. Dunque,
+poiché Wangohan è nuovo in questo progetto, seguirà lo stile di Landhwa il più
+fedelmente possibile."
+
+Wangohan annuì rispettosamente e si congedò per riposarsi in vista del turno
+di notte.
+
+- - -
+
+Quando giunse la notte, Wangohan iniziò a prendere confidenza col codice di
+Landhwa. Fu piacevolmente sorpreso nel notare che non c'erano stringhe letterali
+magiche, ma la sorpresa si tramutò in orrore quando scoprì che ogni costante
+nell'applicazione -- indipendentemente dal suo scopo -- era stata dichiarata in
+un solo, gigantesco file /Costanti.java/, senza alcun commento:
+
+|  ...
+   public static final String HELP = "AIUTO";
+   public static final String HELP2 = "Ti serve aiuto?";
+   public static final String HELPU = "/aiuto";
+   public static final String HELPTA = "{{help}}";
+   public static final String HELPTB = "${help}";
+   public static final String HTTP = "HTTP";
+   public static final String HTTPU = "http://";
+   public static final String HTTPS = "https";
+   ...
+
+Wangohan stava per sistemare il file quando ricordò il decreto di Zjing. Non
+volendo mancare di rispetto alla crescente autorità della sua vecchia amica,
+Wangohan alzò le dita dalla tastiera e per lungo tempo guardò il monitor,
+accigliato.
+
+- - -
+
+La mattina, Landhwa trovò ad aspettarlo un messaggio di Wangohan:
+
+    Tutto è stato scritto seguendo il tuo esempio.
+
+Landhwa scaricò le ultime modifiche dal repository e trovò che quasi tutti i
+file erano scomparsi. Solo due ne rimanevano. Landhwa riconosceva il primo; il
+secondo era stato scritto solo qualche ora prima:
+
+|   Costanti.java            48K
+    Codice.java              8090K
