@@ -1,0 +1,21 @@
+Number: 166
+Title: Tempus Fugit
+Lang: es
+Translator: galcalde
+Illus.0.title: Recientemente me di cuenta que como nací antes del 1º de Enero de 1970, soy más viejo que el propio time().
+
+El [[Clan of Iron Bones|Clan de los Huesos de Hierro]] había aplicado las actualizaciones más recientes a los servidores del templo. Después de examinar algunos archivos en <tt>/usr/include</tt>, el maestro host [[Yishi-Shing]] sacudió su cabeza.
+
+Un monje se dio cuenta y preguntó, "Maestro, ¿Usted ve alguna causa de preocupación?"
+
+Yishi-Shing dijo, "El tipo <tt>time_t</tt>, por el cual se obtiene el tiempo actual del sistema, fue declarado como un <tt>signed long</tt> -- un mero número de sesenta y cuatro bits."
+
+Confundido, el monje inició la aplicación del ábaco en su tablet y rápidamente hizo las cuentas. "Ese número es capaz de representar apenas doscientos noventa y dos mil millones de años, para atrás o para adelante," dijo el monje.
+
+"¿Y eso no le preocupa?" preguntó Yishi-Shing. "¡La existencia en sí cesará en un número contable de segundos, y hasta los creadores de nuestro sistema operativo se burlarán de nosotros con este hecho!"
+
+El monje consideró un momento y dijo: "No hace mucho <tt>time_t</tt> sólo eran treinta y dos bits -- incapaces de contar por lo menos dos siglos. El tipo fue expandido cuando faltaban décadas antes del fin del Universo. Supongo que, en algún momento cercano al fin de los próximos doscientos noventa y dos mil millones de años, recibiremos otro parche."
+
+El maestro fue confortado.
+
+{{*}} Es interesante notar que la física actual predice la <a href="https://es.wikipedia.org/wiki/Muerte_t%C3%A9rmica_del_universo">muerte térmica del universo</a> en no menos de 10^100 años, con un subsecuente Big Bang surgiendo quizás en otros 10^(10^56) años. Eso significa que para poder mostrar nuestro tiempo de encendido en segundos entes de reiniciar el universo, necesitaríamos que time_t tenga (3.32e56 + 30) bits. Como el planeta Tierra sólo tiene 1.33e50 átomos con los cuales jugar, necesitaríamos cerca de 2.5 millones de Tierras (o apenas una estrella tipo G) sólo para crear un registro simple. Ahora, ¿Donde podemos conseguir una estrella tipo G?  Hmmmmm...

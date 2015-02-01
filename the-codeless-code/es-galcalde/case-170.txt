@@ -1,0 +1,32 @@
+Number: 170
+Title: El mendigo púrpura
+Lang: es
+Translator: galcalde
+
+Cierto monje del [[Clan of Iron Bones|Clan de los Huesos de Hierro]] se acercó al maestro host [[Yishi-Shing]], diciendo: "Mil perdones, maestro, pero desde la actualización del sistema operativo de la última semana no fui capaz de restaurar nuestro array de discos de respaldo."
+
+Yishi-Shing preguntó, "¿Que has intentado, además de molestarme?"
+
+El monje dijo: "Me he contactado con el vendedor del disco -- dicen que nuestro nuevo sistema no es soportado. He leído detenidamente su documentación -- es prácticamente inútil. He explorado la web buscando a otros en mi situación -- ninguno fue encontrado. He pedido ayuda en los foros en linea -- no he recibido ni una respuesta."
+
+Yishi-Shing dijo: "Muéstrame ese 'pedido de ayuda'."
+
+El monje abrió su laptop e indicó sus varios pedidos amables de asistencia. Sin dudas, ninguno fue respondido.
+
+Yishi-Shing sacudió su cabeza. "Entonces tenemos nuestra respuesta."
+
+El maestro tomo la laptop del monje y envió lo siguiente de forma cruzada a una docena de foros de mensajes:
+
+     <b>**ADVERTENCIA**</b> ¡Los arrays de discos de 24 terabytes del Elefante Tronante
+     NO PUEDEN ser montados bajo Pinguino Petulante con el kernel kernel 89!
+     ¡No existe ninguna solución! ¡¡¡EVITEN ESTA CONFIGURACIÓN!!!
+
+Yishi-Shing luego cerró la laptop y se alejó, tarareando.
+
+- - -
+
+Aquella tarde el maestro invocó al monje y le preguntó si habían noticias.
+
+El monje abrió su laptop. "Cinco posteadores separados me han llamado un pedazo de idiota y ofrecieron una solución simple a mi problema, el cual ellos dicen que han probado en sus respectivos sistemas."
+
+Yishi-Shing asintió. "Mi caminar una vez me llevó a pasar por un mendigo cuyo cartel decía, <em>¡No te ATREVAS a tirarme monedas a MI!</em> Su cuerpo estaba púrpura con moretones pero su tazón siempre estaba lleno."

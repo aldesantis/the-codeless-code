@@ -1,0 +1,29 @@
+Number: 167
+Title: Volviendo a lo básico
+Lang: es
+Translator: galcalde
+Illus.0.title: "Maestro, te darás cuenta que una de las claves de sesión se llama "cestas", y el valor es un arreglo de listas enlazadas. Ahora, esta parte te va a hacer reír..."
+
+El viejo maestro [[Banzen]] se ofreció como voluntario para guiar al [[Spider Clan|Clan de la Araña]] durante los [[#33|viajes]] de la maestra Suku, pero mientras los meses se hacían eternos la experiencia había desgastado sus nervios. En una aplicación crítica, los componentes escritos por desarrolladores distintos de alguna manera se pisaban entre sí, llevando a extraños errores en tiempos de ejecución.
+
+En desesperación, Banzen sacó una botella de huangjiu [[#93|del maestro Bawan]], se bebió la mitad, e invocó a su aprendiz [[Djishin]].
+
+- - -
+
+Una semana después, Djishin reportó su progreso:
+
+"Nuestro problema está con los contextos <em>session</em> y <em>request</em> de los servlets Java, donde almacenamos los datos para el estado y su renderización. Esos contextos son HashMaps cuyos valores son Objects y cuyas claves son Strings de la elección del desarrollador. Como cada desarrollador eligió sus claves sin consultarse entre sí, un componente a veces sobre escribirá los valores de contexto usados por el otro -- a veces con un objeto de un tipo enteramente diferente."
+
+"¿Qué solución hay, entonces?" preguntó Banzen, descorchando su botella.
+
+"He creado una clase ContextUtil compartida con sesenta constantes String, una para cada clave de contexto usada en la aplicación," dijo Djishin orgullosamente. "Y para cada clave he provisto un par de métodos de utilidad estáticos de tipado fuerte para <em>obtener</em> o <em>configurar</em> el valor de la clave en un contexto dado."
+
+"Tal como los métodos de propiedad," observó Banzen.
+
+"¡Exactamente!" dijo Djishin. "Estoy actualmente diseñando una convención del namespace para las claves para que cada subsistema pueda tener su <em>propia</em> clase ContextUtil, aportando constantes y métodos estáticos adicionales según se necesiten."
+
+"Tal como las subclases," observó Banzen.
+
+"¡Exactamente!" dijo Djishin otra vez.
+
+"Excelente," dijo Banzen, vaciando su copa. "Así que en siete días, usando sólo constantes simples y funciones operando en un hashtable genérico de Java, inventamos... el Objeto."
