@@ -1,0 +1,93 @@
+Number: 177
+Title: La capanna
+Lang: it
+Translator: alessandro1997
+
+Il monaco [[Djishin]] stava passeggiando nella foresta, quando si imbatté in un
+uomo che tagliava della legna al lato del sentiero.
+
+"Cosa stai costruendo, amico mio?" chiese Djishin.
+
+"Una piccola capanna per gli attrezzi di cui ho immensamente bisogno" disse
+l'uomo. "Avrà un gancio per il mio rastrello, un altro per la mia vanga, e un
+posto sul pavimento per il mio secchio di stagno."
+
+Djishin augurò il meglio all'uomo e proseguì sulla sua strada.
+
+- - -
+
+Il giorno successivo Djishin si imbatté nello stesso uomo che tagliava la legna.
+Nel terreno erano stati piantati molti pali.
+
+"Come va oggi il tuo lavoro, amico mio?" chiese Djishin. "È una capanna più
+grande di quanto immaginassi."
+
+Disse l'uomo: "La scorsa notte mi sono chiesto: e se comprassi altri rastrelli
+o vanghe, o volessi conservarci dei vasi di creta? Quindi ora è una vera capanna
+da giardino. Guarda, qui starà una finestra, qui una mensola per crescere le mie
+piante."
+
+Djishin augurò il meglio all'uomo e proseguì sulla sua strada.
+
+- - -
+
+Il giorno successivo Djishin si imbatté nello stesso uomo che tagliava la legna.
+Molti più pali eano stati piantati nel terreno, insieme a delle travi per il
+pavimento e il soffitto.
+
+"Come va oggi il tuo lavoro, amico mio?" chiese Djishin. "È una capanna da
+giardino più alta di quanto immaginassi."
+
+Disse l'uomo: "La scorsa notte pensavo: se aggiungessi un secondo piano,
+diventerebbe un comodo cottage dove potrei risposarmi dopo una faticosa giornata
+di giardinaggio. Guarda, qui andrà una scala a pioli, che potrò salire per
+giungere a una soffitta con un umile letto."
+
+Djishin augurò il meglio all'uomo e continuò sulla sua strada.
+
+- - -
+
+Il giorno successivo Djishin si imbatté nello stesso uomo che tagliava la legna.
+Molti altri pali erano stati piantati nel terreno, insieme ad altre travi per il
+soffitto, ma il pavimento era stato demolito.
+
+"Come va oggi il tuo lavoro, amico mio?" chiese Djishin. "È un cottage più
+grande di quanto immaginassi."
+
+Disse l'uomo: "La scorsa notte ho deciso: delle scale sono meglio di una scala a
+pioli, perché sotto di essa potrei tenere i miei vestiti e le mie scarpe. In
+questo caso tanto vale che costruisca una vera casa, con una cucina e un bagno,
+e la dia a mio figlio quando sarà cresciuto. Guarda, qui andrà un meraviglioso
+pavimento di pietra, quando avrò il denaro per pagare il materiale."
+
+Djishin augurò il meglio all'uomo e continuò sulla sua strada.
+
+- - -
+
+Il giorno successivo Djishin si imbatté nello stesso uomo che tagliava la legna.
+Ancora più pali erano stati piantati nel terreno, con delle passerelle
+traballanti a collegarli. Alle travi del soffitto erano appese corde e pulegge.
+
+"Come va oggi il tuo lavoro, amico mio?" chiese Djishin. "È una casa più
+imponente di quanto immaginassi."
+
+Disse l'uomo: "La scorsa notte ho realizzato: mio figlio potrebbe desiderare, un
+giorno, una moglie e una famiglia. Allora sto preparando tutto per un'abitazione
+di qualunque dimensione, a seconda del numero di figli che vorrà avere. Guarda,
+qui ci sono gli scivoli per portare le pietre del pavimento, e un'impalcatura
+che potrà usare per mettere le tegole del tetto."
+
+Djishin augurò il meglio all'uomo e continuò sulla sua strada.
+
+- - -
+
+Il giorno successivo Djishin era al suo terminale quando il maestro [[Banzen]]
+entrò.
+
+"Come va oggi il tuo lavoro, monaco?" chiese Banzen. "Immagino che ti serva più
+tempo per implementare questo grandioso framework email che hai progettato la
+scorsa settimana."
+
+"Niente tempo" disse Djishin, ruotando il monitor in modo che il maestro potesse
+vederlo. "Ho smantellato le fondamenta della mia tenuta e ho costruito per voi
+questa bellissima capanna per gli attrezzi."

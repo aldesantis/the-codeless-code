@@ -1,0 +1,66 @@
+Title: Gestion de versions
+Number: 89
+Lang: fr
+Translator: cdlm
+Illus.0.title: En gros, un katana, c'est 'kill -9' pour les processus biologiques.
+
+
+À précisément 7:07 le premier matin dégagé de la première semaine du printemps, le vieux scribe [[Qi]] fut éveillé par des coups à sa porte.
+Une abbesse attendait sur le palier, flanquée de deux gardes lourdement armés en robes noires et blanches.
+
+L'abbesse :
+« Nous avons lu votre rapport de [[#88|l'incendie du pont de Zjing]], et nous jugeons que c'est un mensonge délibéré et intégral.
+Les annales sont sacro-saintes : en les falsifiant, vous renoncez à votre propre tête. »
+
+Le scribe répondit :
+« Ce qui est écrit fut, et est. »
+
+L'abbesse :
+« Pourtant le pont demeure intact, et toutes les parties réfutent votre rapport.
+Je tiens pour preuve de votre tromperie délibérée ces impressions des diverses versions de la page en question, tirées de votre propre dépôt. »
+
+Le scribe ne dit rien.
+
+L'abbesse :
+« La première version ne contient que le texte d'un email.
+L'expéditeur suggère que vous écriviez un cas dans lequel un moine obstiné est corrigé quand il se retrouve au milieu d'un pont infranchissable. »
+
+Le scribe opina et répondit :
+« Un point zéro. »
+
+L'abbesse :
+« La version suivante donne un récit élaboré concernant maître [[Suku]] et le moine Lanwha.
+Ici, Suku corrige le moine en détachant les planches à son extrémité du pont, tel que suggéré dans l'email. »
+
+Le scribe opina de nouveau et répondit :
+« Un point un. »
+
+L'abbesse :
+« Une version ultérieure remplace le moine par Wangohan.
+Là, Suku lâche tout un panier de cobras dressés glisser sur le pont vers le malheureux moine.
+Celle-ci est ma favorite, pour l'élégant usage de serpents à travers le récit. »
+
+Le scribe s'inclina et répondit :
+« Un point quatre. »
+
+L'abbesse :
+« Dans la version finale, maître Suku réduit le pont en cendres.
+Une fausseté des plus manifestes. »
+
+Le scribe répondit :
+« Un point six. »
+
+L'abbesse :
+« Pouvez-vous prononcer un mot qui me convainque de vous laisser votre tête ? »
+
+Le scribe ne dit rien, mais s'assit calmement à son bureau et prit son clavier.
+Derrière lui, les gardes dégainèrent leurs sabres.
+
+- - -
+
+À précisément 7:07 le premier matin dégagé de la première semaine du printemps, le vieux scribe Qi fut éveillé par les jacassements d'une pie dans l'arbre à sa fenêtre.
+À travers les branches, on apercevait les restes froids et carbonisés du pont de Zjing.
+
+Le scribe à la pie :
+« Un point six point un. »
+

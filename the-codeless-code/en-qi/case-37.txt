@@ -6,6 +6,7 @@ Topics: testing, dependencies, simulation
 Names: Spider Clan, Laughing Monkey Clan
 Illus.0.par: last
 Illus.0.src: candle.png
+Illus.0.align: center
 Illus.0.title: Actually, when there are blackouts, the scribe uses a hand-cranked LED camping lantern and does his writing on an Asus netbook with 12-hour batteries.  But you get the idea.
 
 

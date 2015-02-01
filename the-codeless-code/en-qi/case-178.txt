@@ -1,0 +1,68 @@
+Date: 2015-01-25
+Number: 178
+Title: Unity
+Names: Landhwa, Wangohan, Zjing
+Topics: constants, classes, abstraction, big ball of mud, coding style, java, coopertation, magic constants, refactoring
+Geekiness: 3
+
+A nasty stomach flu had been making its way through the
+Temple.  Fully half the [[Spider Clan]] had fallen victim,
+so to meet deadlines the monk [[Wangohan]] had been forced
+to team with his longtime nemesis, the monk [[Landhwa]].
+
+To avoid conflicts that might lead to
+[[#84|yet another incapacitated developer]],
+their [[#174|newly appointed]] master-in-training [[Zjing]]
+decided that they should work in separate shifts --
+Landhwa by day, Wangohan by night.
+
+"Finally," said Zjing on the videoconferencing monitor,
+"we cannot risk delays caused by arguments over coding
+style.  But neither do I wish to have two separate styles in
+one application.  Therefore, as Wangohan is new to this
+project, he will follow Landhwa's style as precisely as
+possible."
+
+Wangohan bowed his assent and took his leave to rest before
+the night's work.
+
+- - -
+
+When night fell, Wangohan began to familiarize himself with
+Landhwa's source code.  He was pleased to see that there
+were no magic literals, but pleasure turned to horror when
+he discovered that every constant in the application --
+regardless of purpose -- had been declared in a single,
+huge, uncommented /Constants.java/ file:
+
+|  ...
+   public static final String HELP = "HELP";
+   public static final String HELP2 = "Need help?";
+   public static final String HELPU = "/help";
+   public static final String HELPTA = "{{help}}";
+   public static final String HELPTB = "${help}";
+   public static final String HTTP = "HTTP";
+   public static final String HTTPU = "http://";
+   public static final String HTTPS = "https";
+   ...
+
+
+Wangohan was about to refactor the file when he remembered
+Zjing's decree.  Not wishing to disrespect the nascent
+authority of his longtime friend, Wangohan lifted his fingers
+from the keyboard and scowled at the monitor for a long
+time.
+
+- - -
+
+In the morning, Landhwa found a message waiting for him
+from Wangohan:
+
+    All has been coded according to your example.
+
+Landhwa pulled the latest changes from the repository and found
+that nearly every source file had disappeared.  Only two remained.
+The first Landhwa recognized; the second was but a few hours old:
+
+|   Constants.java            48K
+    Code.java               8090K
