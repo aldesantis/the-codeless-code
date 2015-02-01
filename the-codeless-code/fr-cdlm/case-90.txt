@@ -1,0 +1,50 @@
+Title: Non-nombre
+Number: 90
+Lang: fr
+Translator: cdlm
+Credits: Merci à Christopher Lynnes et Eric Winter pour l'idée.
+Illus.0.title: La recette permet de finir tous vos non-restes de non-levure.
+
+
+Un moine du [[Spider Clan|Clan de l'Araignée]] approcha Maître [[Kaimu]] et dit :
+« En Javascript, quand on divise zéro par zéro, le résultat est <tt>NaN</tt> : pas un nombre.
+Pourtant <tt>typeof(NaN)</tt> est <tt>number</tt>.
+Quel sens tirer d'un tel langage, où une valeur est à la fois chose et pas-chose ?
+
+Kaimu donna une pièce au moine en disant :
+« Sur la Route des Orties Blanches vit un boulanger qui vend des pains plats aussi ronds que le plus parfait des zéros.
+Achètes-en autant que possible et amène-les moi. »
+
+Le moine fit comme on lui avait demandé.
+Quand le boulanger reçut son paiement, il flanqua le moine à la porte et lui jeta la pièce.
+
+« Monnaie de contrefaçon, » dit le boulanger.
+
+- - -
+
+<div style="color:#666">
+De retour au temple, le moine trouva l'un des jardiniers, échangea ses habits avec lui, et l'envoya voir maître Kaimu à sa place. »
+
+Kaimu fut amusé par l'évidente supercherie.
+« Moine ! » dit-il.
+« Où est mon pain ? »
+
+Comme lui avait ordonné le moine, le non-moi ne répondit
+« Divisé en part égales entre tous ceux qui m'ont aidé à l'apporter. »
+
+Kaimu était satisfait.
+</div>
+
+
+== Commentaire de Qi
+
+Monnaie sans valeur, imitation de moine, pain factice, 
+<span style="color:#666"> fausse fin</span>.
+
+
+== Poème de Qi
+
+Kaimu rencontra un soldat, vieillard perdu sans espoir, //
+car de son propre nom sans mémoire. //
+Le maître tendit une pièce : « Ceci de la part de Kaimu. » //
+Le soldat pleura de joie : « C'est donc que je suis Non Kaimu ! »
