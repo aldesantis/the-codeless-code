@@ -1,0 +1,33 @@
+Number: 176
+Title: Muchas Felices Respuestas
+Lang: es
+Translator: galcalde
+Illus.0.title: El arroz también está frío.
+
+Un monje aprendiz le dijo al maestro [[Kaimu]], "He oído que es preferible tener sólo una única declaración de return en una función. ¿Estás de acuerdo?"
+
+Kaimu preguntó, "¿Donde está tu tazón?"
+
+El monje se disculpó y se fue a tomar su tazón.
+
+- - -
+
+Cuando el monje volvió, mostró su tazón al maestro y dijo, "He oído que es preferible tener sólo una única declaración de return en una función. ¿Estás de acuerdo?"
+
+Kaimu preguntó, "¿Por qué no hay arroz en tu tazón?"
+
+El monje se disculpó y se fue a tomar algo de arroz.
+
+- - -
+
+Cuando el monje volvió, mostró su tazón lleno de arroz blanco humeante al maestro y dijo, "He oído que es preferible tener sólo una única declaración de return en una función. ¿Estás de acuerdo?"
+
+Kaimu tomó el tazón del monje y lo colocó en su escritorio.
+
+"Tú hablas de un principio de diseño muy venerable, conocido como <em>Entrada Única, Salida Única</em>," dijo el maestro. Luego le contó al monje de los gloriosos días pasados de la codificación, cuando la memoria era baja, el hardware era lento, y los recursos debían ser manejados con cuidado. "Porque C no te hacía favores," dijo Kaimu, "y Assembly hacía sólo la mitad. Así que si tu función pedía prestada una cosa, entonces tenía que devolverla. ¿Y como se hacía de la forma más fácil? Poniendo todo el código de limpieza en un lugar, al fondo de la función... una tradición que sigue hasta hoy."
+
+Kaimu luego habló del nacimiento de los objetos, los destructores y los finalizadores. Habló también del Recolector de basura; del conteo de referencias y del recolector de marcas, y de compiladores que podían distinguir cuando un objeto estaba fuera del alcance. Él habló de buffers que crecían cuando se necesitaban y se desvanecían cuando no, de archivos que se cerraban por sí solos, de pools de conexiones y de pools de hilos y de try-with-resources, y de que tan maravilloso y mágico era el bestiario moderno de lenguajes, donde los monjes podían dedicar sus energías a problemas más interesantes en vez de molestarse con <tt>malloc</tt> y <tt>free</tt> y <tt>goto fail</tt>.
+
+"Sí," dijo el monje cansado al fin. "¿Pero <em>estás de acuerdo</em> con el principio de diseño de Entrada Única, Salida Única, o <em>no</em>?"
+
+Kaimu miró abajo y dijo, "¿Por qué el arroz en tu tazón es blanco, y no marrón?"
