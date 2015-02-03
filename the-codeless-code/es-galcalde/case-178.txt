@@ -1,0 +1,41 @@
+Number: 178
+Title: Unidad
+Lang: es
+Translator: galcalde
+
+Una desagradable gripe intestinal hizo su camino hacia el templo. La mitad del [[Spider Clan|Clan de la Araña]] había caído víctima, así que para cumplir con las fechas límites el monje [[Wangohan]] fue forzado a juntarse con su nemesis de mucho tiemo, el monje [[Landhwa]].
+
+Para evitar conflictos que puedan llevar a [[#84|otro desarrollador incapacitado]], su [[#174|recientemente apuntada]] maestra en entrenamiento [[Zjing]] decidió que deberían trabajar en turnos separados -- Landhwa de día, Wangohan de noche.
+
+"Finalmente," dijo Zjing en el monitor de videoconferencias, "no podemos arriesgar retrasos causados por discusiones sobre estilos de códigos. Pero tampoco deseo tener dos estilos separados en una aplicación. Por lo tanto, como Wangohan es nuevo en este proyecto, él seguirá el estilo de Landhwa tan precisamente como fuese posible."
+
+Wangohan se inclinó en acuerdo y se fue a descansar antes del trabajo nocturno.
+
+- - -
+
+Cuando cayó la noche, Wangohan empezó a familiarizarse con el código fuente de Landhwa. Estaba encantado de ver que no habían literales mágicos, pero el placer se volvió horror cuando descubrió que cada constante en la aplicación -- sin importar el propósito -- había sido declarada en un único y enorme archivo sin comentar llamado <em>Constantes.java</em>:
+
+|  ...
+   public static final String HELP = "HELP";
+   public static final String HELP2 = "Need help?";
+   public static final String HELPU = "/help";
+   public static final String HELPTA = "{{help}}";
+   public static final String HELPTB = "${help}";
+   public static final String HTTP = "HTTP";
+   public static final String HTTPU = "http://";
+   public static final String HTTPS = "https";
+   ...
+
+
+Wangohan estaba a punto de refactorizar el archivo cuando recordó el decreto de Zjing. No deseando faltarle el respeto a la naciente autoridad de su amiga de mucho tiempo, Wangohan levantó sus dedos del teclado y frunció el ceño ante la pantalla por largo rato.
+
+- - -
+
+A la mañana, Landhwa halló un mensaje esperándole de Wangohan:
+
+    Todo fue codificado de acuerdo a tu ejemplo.
+
+Landhwa hizo un pull de los últimos cambios del repositorio y halló que casi todos los archivos fuentes habían desaparecido. Sólo quedaban dos. El primero lo reconoció Landhwa; el segundo era de hace unas pocas horas:
+
+|   Constantes.java            48K
+    Codigo.java              8090K
