@@ -1,0 +1,60 @@
+Number: 177
+Title: El Cobertizo de Herramientas
+Lang: es
+Translator: galcalde
+
+El monje [[Djishin]] iba caminando por el bosque, cuando se encontró con un hombre serruchando madera al borde del camino.
+
+"¿Qué estás haciendo, amigo?" preguntó Djishin.
+
+"Un pequeño cobertizo de herramientas que necesitaba extremadamente," dijo el hombre. "Tendrá un gancho para mi rastrillo, otro para mi pala, y un lugar en el suelo para mi balde de lata."
+
+Djishin le deseó al hombre buena salud y continuó su camino.
+
+- - -
+
+Al día siguiente Djishin se encontró al mismo hombre serruchando madera. Varios postes fueron colocados en el suelo.
+
+"¿Cómo va tu trabajo hoy, amigo?" preguntó Djishin. "Ese es un cobertizo de herramientas más ancho de lo que imaginé."
+
+El hombre dijo, "Anoche me pregunté: ¿Qué pasa si compro más ratrillos o baldes, o deseo almacenar macetas de barro? Así que ahora es un cobertizo de jardín. Ves, acá irá una ventana, con un estante para empezar mis plantas de semillero."
+
+Djishin le deseó al hombre buena salud y continuó su camino.
+
+- - -
+
+Al día siguiente Djishin se encontró al mismo hombre serruchando madera. Más postes fueron colocados en el suelo, y vigas para un piso, y travesaños para techo.
+
+"¿Cómo va tu trabajo hoy, amigo?" preguntó Djishin. "Ese es un cobertizo de jardín más alto de lo que imaginé."
+
+El hombre dijo, "Anoche pensé: si añado un segundo piso, sería una cabaña cómoda donde podría descansar después de un duro día cuidando un jardín. Ves, acá irá una escalera portátil, donde podría trepar a un altillo con una cama humilde."
+
+Djishin le deseó al hombre buena salud y continuó su camino.
+
+- - -
+
+Al día siguiente Djishin se encontró al mismo hombre serruchando madera. Más postes fueron colocados en el suelo, y travesaños para techo, pero el piso había sido destruido.
+
+"¿Cómo va tu trabajo hoy, amigo?" preguntó Djishin. "Esa es una cabaña más grande de lo que imaginé."
+
+El hombre dijo, "Anoche decidí: las escaleras normales son mejores que las portátiles, porque bajo ellas uno puede guardar ropa y zapatos. En ese caso podría construir una casa, con una cocina y un baño, y dársela a mi hijo cuando crezca. Ves, acá irá un piso de piedra, cuando tenga dinero para pagar la cantera."
+
+Djishin le deseó al hombre buena salud y continuó su camino.
+
+- - -
+
+Al día siguiente Djishin se encontró al mismo hombre serruchando madera. Aún más postes fueron colocados en el suelo, con pasarelas desvencijadas entre estos. De los travesaños colgaban cuerdas y poleas.
+
+"¿Cómo va tu trabajo hoy, amigo?" preguntó Djishin. "Esa es una casa más grande de lo que imaginé."
+
+El hombre dijo, "Anoche me di cuenta: mi hijo algún día desearía tener una esposa y una familia. Así que lo estoy poniendo todo en preparación para hacienda de cualquier tamaño, dependiendo del número de niños que prevea. Ves, aquí están las rampas que llevan las baldosas para el piso, y el andamiaje para que él se trepe y coloque las tejas del techo."
+
+Djishin le deseó al hombre buena salud y continuó su camino.
+
+- - -
+
+Al día siguiente Djishin estaba en su terminal cuando el maestro [[Banzen]] vino.
+
+"¿Cómo va tu trabajo hoy, monje?" preguntó Banzen. "Creo que necesitas más tiempo para implementar este framework grande de emails que diseñaste la semana pasada."
+
+"No hay tiempo," dijo Djishin, girando su monitor de cara al maestro. "He desmantelado los huesos de mi hacienda, y te construí este cobertizo de herramientas."
