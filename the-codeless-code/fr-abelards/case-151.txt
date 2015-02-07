@@ -1,0 +1,94 @@
+Number: 151
+Title: Une  écharpe en été
+Lang: fr
+Translator: abelards
+Credits: Inspiré en partie par <a href="http://sortvis.org">les excellentes visualisations de motifs</a> d'<a href="http://corte.si/">Aldo Cortesi</a>. Et merci à Sweet Tea Dorminy pour la typo !
+Illus.0.title: Vous suivez le fil de l'histoire ? Ça tombe bien, c'est un de mes plus longs.
+
+La première semaine de l'été était arrivée, avec ses plaisants alizés,
+et la plus grande partie du Temple prenait désormais ses repas et
+méditait à l'extérieur.
+Mais on ne put trouver nulle part sur les terrains du Temple la nonne
+Yíwen, l'Artiste, qui aimait les grands espaces.
+Sa camarade de toujours, la nonne Hwídah, choisit d'enquêter.
+
+Elle finit par trouver Yíwen tricotant en silence dans une des pièces
+vacantes du Temple, telle une araignée diligente en plein labeur au centre
+d'une immense toile de fin fil gris.
+
+Ses centaines de fils étaient tirés d'écheveaux éparpillés à travers
+la pièce, de bas en haut. Yíwen semblait tricoter une écharpe à partir
+de tous à la fois.
+
+"L'hiver est dans six mois," dit Hwídah. "Explique-toi."
+
+Yíwen passa doucement la main sur les fils.
+"Chaque nuance de gris correspond à un nombre entier distinct, dans l'ordre.
+Pour zéro, j'ai choisi la couleur 'Noirceur au-delà du Temps'.
+Trente et un est 'Trace de Charbon', Soixante-trois 'Tête orageuse approchant',
+et ainsi de suite, de plus en plus clair, jusqu'à deux cent cinquante cinq :
+'Blanc des Nuages Célestes'."
+
+"Une palette impressionnante pour un accessoire saisonnier aussi modeste",
+dit Hwídah.
+
+Yíwen releva l'écharpe de ses genoux. "Ce n'est pas un simple accessoire.
+Le motif représente les états successifs d'un tableau d'entiers pendant
+qu'il est trié. Chaque ligne représente une étape du processus, et les
+colonnes, les nombres eux-mêmes.
+Vois: de ce côté-ci les nuances de gris sont un méli-mélo poivre et sel,
+mais elles s'ordonnent progressivement à chaque ligne, tandis que
+l'algorithme me dit quels fils échanger. La dernière colonne sera
+un dégradé homogène du noir au blanc."
+
+"Mais je vois aussi un fin fil d'or qui brille, et un rouge rubis"
+dit Hwídah.
+
+Yíwen indiqua une portion de l'écharpe du bout de l'ongle.
+"Si l'étape courante compare deux éléments, je mets des noeuds d'or
+autour des fils correspondants. Si elle choisit une valeur pivot,
+je l'embellis avec du rubis. Ainsi l'écharpe aura exactement autant
+de lignes que l'algorithme de tri a d'opérations, et l'esthétique de
+cet algorithme sera révélé en un coup d'oeil."
+
+"Tu recherches encore [[#132|la beauté dans le code]]," dit Hwídah.
+
+"Mille pardons, Hwídah, mais ça n'est pas mon seul but,"
+dit Yíwen.  "Tu connais je crois le moine novice qui fut récemment
+amené dans mon équipe ? Sa première tâche fut de s'assurer qu'un
+ensemble de résultats était dans un certain ordre pour l'affichage.
+Mais il ne connaissait pas l'utilitaire de tri standard, alors il
+a implémenté le sien."
+
+"Un très regrettable gaspillage de temps," dit Hwídah.
+
+"Tes mots sonnent étonnamment justes," dit Yíwen.
+"Car il choisit d'utiliser le 
+<a href="http://fr.wikipedia.org/wiki/Bubblesort">tri à bulles</a>,
+comme nous l'avons découvert en production quand on a donné
+à l'application un très grand ensemble de résultats et qu'il lui
+a fallu plusieurs minutes pour afficher la page."
+
+"Tu sembles utiliser le tri à bulles comme base de ton motif,"
+dit Hwídah, plissant des yeux pour regarder les lignes déjà faites.
+
+"En effet !" dit Yíwen.
+"J'ai déjà fini une écharpe qui utilise l'algorithme fourni en standard
+<a href="http://en.wikipedia.org/wiki/Timsort" title="[NdT] Désolé, pas de version française. J'y travaillerai !">Timsort</a>.
+Elle est large d'environ un quart de mètre, longue de deux mètres,
+et j'apprécierai de la porter. Cette écharpe Tri à Bulles est un cadeau
+pour ce moine. Elle sera aussi large, mais sera quelque peu plus...
+disgracieuse."
+
+"Elle fera soixante quatre mètres de long !" s'exclama Hwídah.
+
+"Tu comprends maintenant pourquoi je dois commencer en Juin," dit Yíwen. 
+"Comme tu le notes, l'hiver n'arrive que dans six mois."
+
+"Et qu'adviendra-t-il si le moine refuse de porter ton généreux présent ?"
+demanda Hwidah.
+
+"La même chose que s'il ne corrige pas son ignorance," dit Yíwen.
+Elle roula l'écharpe en un tube fin et tira les deux bouts pour
+en montrer la force. "Soixante quatre mètres ne font pas une écharpe
+très pratique, mais un excellent noeud coulant."
