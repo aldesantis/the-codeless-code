@@ -1,0 +1,57 @@
+Number: 20
+Lang: de
+Translator: andrebogus
+Title: Nicht Ja noch Nein
+
+Eine Nonne des Ordens des Elefanten-Fußabdrucks saß im Schneideritz auf ihrem Schreibtisch und meditierte still über einem Entity-Relationship-Diagramm auf ihrer Weißwandtafel.
+
+Der Java-Meister sah dies und kam herein.
+
+Der Gott der Stille zwischen den Worten war bereits im Raum
+
+- - -
+
+Die Nonne zeigte auf das Diagramm. “Diese Spalte 'Komplett' ist als Integer deklariert. Eine Prüfung der Daten zeigt, dass sie zwei mögliche Werte enthält: Null und Eins. Ich vermute, dass Null für Falsch und Eins für Wahr steht.”
+
+Der Meister sprach: “Nur Eingeweihte wissen, was diese Nummern zählen.”
+
+Der Gott der Stille zwischen den Worten sprach: “Das Vorkommen einer einzelnen Null impliziert die Existent einer Eins, sie zu zählen, und einer Zwei, um beide zu zählen, und so weiter bis ins Unendliche. Ist so das Universum einem Schlangenei entsprungen?”
+
+- - -
+
+Die Nonne hob zwei Finger ihrer rechten Hand. “Ich habe überlegt, dort eine Zwei zu speichern, nur um zu sehen, was es in der Applikation bewirkt.”
+
+Der Meister sprach: “Du suchst zu ergründen, ob Wahrheit die Anwesenheit einer Eins oder Abwesenheit einer Null ist.”
+
+Der Gott der Stille zwischen den Worten sprach: “Das Fehlen der Null impliziert eine Präsenz. Die Präsenz einer Null impliziert ein Fehlen. Wenn die Schlange ihren Schwanz bis zur Zungenspitze verschlingt, was bleibt dann?”
+
+- - -
+
+Die Nonne drückte ihren Zeigefinger ans Kinn. “Die Spalte erlaubt NULL. Stellt die Spalte eine Frage, sagt die Konvention, dass NULL eine unbekannte Antwort repräsentiert.”
+
+Der Meister sprach: “Dieses NULL ist entweder die gewandte Pause vor einer Lüge oder der sanfte Hauch vor der Enthüllung der Wahrheit. Seine Qualität hängt nur davon ab, was aus ihm wird. Nur wenn es aufhört, zu sein, können wir verstehen, was es war.”
+
+Der Gott der Stille zwischen den Worten sprach: “Der Geist borgt die Form der Verstorbenen. Doch welche Form geben wir dem ungeborenen Geist?”
+
+- - -
+
+Die Nonne spitzte den Finger. “Bis die Applikation die Datenbank abfragt, ist der Spaltenwert unbekannt. Danach wird jede NULL absichtlich als null-Boolean-Objekt repräsentiert. Der Wert ist gleichzeitig bekannt und unbekannt.”
+
+Der Meister sprach: “Wir haben nur gelernt, dass wir nichts gelernt haben, doch dies ist die Wurzel der Weisheit.”
+
+Der Gott der Stille zwischen den Worten sprach: “Der Weise und der Narr gehen in einer Hinsicht gleich ins Grab: Beide halten den Weisen für einen Narren. Wo ist dann Weisheit zu finden?”
+
+- - -
+
+Die Nonne faltete die Hände in ihrem Schoß. “Das persistierte SQL-NULL Integer wird zum null-Boolean in flüchtigem Speicher{{1}}. Zweimal Nichts völlig unterschiedlicher Natur. Wie kann Abwesenheit ungleich sein?”
+
+Der Meister nickte.
+
+Der Gott der Stille zwischen den Worten hob eine Augenbraue.
+
+
+
+
+{{1}} Anm. des Übersetzers: Im Original steht hier "fleeting Memory", was sowohl als flüchtiger Speicher als auch flüchtige Erinnerung übersetzt werden kann.
+
+

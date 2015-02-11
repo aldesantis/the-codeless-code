@@ -1,0 +1,28 @@
+Title: The Concubine's Fog
+Number: 87
+Lang: fr
+Translator: cdlm
+
+
+Maître [[Banzen]] enquêtait sur les moines du [[Spider Clan|Clan de l'Araignée]] dans une lointaine abbaye.
+Après avoir examiné le code source de leur application web la plus critique, Banzen convoqua l'abbé en chef.
+
+« Expliquez, » dit Banzen, désignant l'écran où l'application tournait.
+
+Le doigt du maître pointait un petit formulaire grisé.
+Ses champs texte n'acceptaient aucune saisie ; ses boutons ne pouvaient être pressés.
+
+« Ce formulaire donne des informations d'une nature des plus sensibles, » dit l'abbé.
+« Si l'utilisateur n'a pas les autorisations suffisantes, le formulaire est désactivé et apparaît ainsi : blafard et terne.
+
+Banzen caressa sa barbe lisse.
+« Par décret du gouverneur, la Maison des Concubines est ensevelie sous le brouillard. »
+
+Banzen chargea ensuite le source HTML de la page.
+L'étudiant brièvement, il composa une URL dans la barre d'adresse et appuya sur Entrée.
+L'information interdite apparut à l'écran.
+
+Le visage de l'abbé en chef prit une teinte cendreuse.
+
+Banzen :
+« Le brouillard fait un excellent rideau, mais un piètre mur. »

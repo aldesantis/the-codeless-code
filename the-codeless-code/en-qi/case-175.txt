@@ -5,7 +5,7 @@ Geekiness: 2
 Names: Kaimu
 Topics: Java, single-responsibility principle, naming, interfaces, multiple inheritance, delegation, composition, modelling, object-oriented programming
 Illus.0.src: shark.jpg
-Illus.0.title: Ce n'est pas une peinture.
+Illus.0.title: Ceci n'est pas une peinture.
 Illus.0.par: 1
 
 A monk asked Java master [[Kaimu]]: //
