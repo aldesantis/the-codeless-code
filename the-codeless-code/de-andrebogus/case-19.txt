@@ -1,0 +1,17 @@
+Number: 19
+Lang: de
+Translator: andrebogus
+Title: Unter anderem Namen
+
+Der alte Schreiber ward gefragt, warum in seinen offiziellen Berichten die Tempel und Orden, nicht aber Mönche und Priester benannt wurden.
+
+“Gäbe ich Euch ein Blatt mit Zahlen zum Gegenrechnen, würdet Ihr erst jeder Sieben einen Namen geben?” erwiderte der Schriftgelehrte und wischte die Frage mit einer Bewegung der mit Tinte verschmierten Hand beiseite.
+
+Dies wurde dem Java-Meister berichtet, der nickte und seinen Tee austrank.
+
+Am nächsten Morgen stieg der Schreiber zu seinem Büro, und fand über seiner Tür in dicker Blockschrift geschrieben:
+
+    public static final int NUM_DAYS_IN_WEEK =
+
+Bei diesem Anblick ward der alte Schreiber Qi erleuchtet.
+

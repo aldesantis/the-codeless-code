@@ -1,0 +1,21 @@
+Number: 21
+Lang: de
+Translator: andrebogus
+Title: Unterbrochen
+
+Ein gewisser Mönch wollte sein Terminal nicht verlassen, und hatte zwei Tage lang nicht gegessen oder geschlafen.
+
+Der Java-Meister, der den Fall untersuchte, fand den Mönch sichtbar erschüttert. Auf dem Bildschirm war der folgende Code im Debugger geöffnet:
+
+|   while (true) {
+       /* do nothing */
+    }
+
+“Ich habe sichergestellt, dass diese Schleife läuft, solange die Wahrheit selbst wahr ist,” sagte der Mönch. “Doch wenn ich die Ausführung unterbreche, endet die Scheife. Das bedeutet, in diesem Moment ist die Wahrheit nicht länger wahr. Wie kann einer von uns wagen, das Programm zu stören? Wir könnten das Chaos in die Welt bringen!”
+
+Der Java-Meister bückte sich und zog den Stecker. Der Bildschirm wurde schwarz.
+
+“Nun kann niemand die Schleife unterbrechen,” sprach der Meister.
+
+Der Mönch war beruhigt.
+
