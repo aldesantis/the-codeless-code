@@ -1,0 +1,60 @@
+Number: 138
+Title: La Province de la Crise Éternelle
+Lang: fr
+Translator: abelards
+
+[[Djishin]] dit à maître [[Banzen]]:
+la plupart des oeuvres de l'humanité ne faillissent pas
+avant que leur temps ne soit venu.
+Une selle durera plus lontemps qu'une jument et même son poulain après elle.
+Un pont pour des chevaux servira pendant des siècles à moins qu'un
+éléphant ne vienne à marcher dessus.
+Même les pierres de notre plus humble abbaye ont été posées avant que
+la vénérable Abbesse ne soit née.
+Pourquoi alors les logiciels ont-ils autant de défauts ?
+
+Banzen dit : pour connaître la réponse, tu dois d'abord
+trouver ton chemin vers la Plaine Complexe. C'est une tâche
+ardue, car la majeure partie de l'étendue d'herbe est imaginaire
+jusqu'à un certain point ; mais puisque ton point de départ est
+non seulement réel mais garanti d'être au centre exact de la plaine,
+tu n'as qu'à commencer à le chercher et tu te rendras compte que
+tu y es déjà.
+Ensuite, dirige-toi en plein nord-est jusqu'à ce que tu tombes sur
+une lande mouvante connue sous le nom de Province de la Crise Éternelle.
+Là, le sol recrache du feu, se plie et se tord, comme un serpent ;
+les montagnes échangent leur place avec les vallées ;
+les rivières coulent à l'envers à minuit et de côté sous chaque
+nouvelle lune.
+Rien ne tient dans cet endroit. La maison la plus solide doit être
+reconstruite à chaque printemps, c'est pourquoi les hommes ont
+abandonné l'usage de la pierre et ne construisent que de simples
+huttes d'arbrisseaux et de paille.
+Quant aux chevaux et aux ponts, tu n'en trouveras pas, car les selles
+s'effritent sous les vents arides, et les nombreux précipices doivent
+être à nouveau enjambés de cordes chaque semaine car leurs bords
+dansent de haut en bas. Aucun homme sain d'esprit ne voudrait vivre
+dans ce lieu s'il n'offrait pas la possibilité d'une grande richesse.
+Mais chaque pelle bute sur le sol rocailleux, chaque hache
+s'émousse, chaque animal meurt.
+
+Djishin demanda : de quand date votre dernier voyage dans cet endroit désolé ?
+
+Banzen répondit : je ne l'ai jamais quitté.
+Parfois dans mes vagabondages je trouve une route verte qui semble
+promettre une sortie, mais /aïe !/ bien que les pancartes me
+salient d'un joyeux /Hello World/ et me parlent d'endroits merveilleux
+où je pourrais aller rien qu'en bougeant le petit doigt,
+sans faute, la déception m'attend toujours au tournant.
+Au bout d'un millier de pas, je ressens un tremblemet de terre,
+le paysage se dérobe sous mes pieds, et plus vite je code pour
+dépasser ma triste fin, plus cette nouvelle route disparaît
+sous les débris de sa propre syntaxe.
+Maintenant, je suis tel que tu me vois : un vieil homme aigri
+qui ne fait confiance à aucun chemin sinon celui qu'il a
+lui-même tracé.
+Et c'est pour cela que je fais tant d'effort avec toi, jeune moine !
+À cause de ton zèle insatiable de créer de nouveaux frameworks,
+tu fais par folie ce que je fais maintenant par cynisme.
+Si je peux t'apprendre à reconnaître les routes qui mènent à la liberté,
+peut-être pourrais-je te suivre dans cette voie.
