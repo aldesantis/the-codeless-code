@@ -1,0 +1,51 @@
+Number: 165
+Title: Sécurité intégrée
+Illus.0.title: Je n'arrête pas d'appuyer sur 'Echap' mais je suis toujours là.
+
+Quand le moine [[Landhwa]] fut chargé d'implémenter une nouvelle
+couche de sécurité pour les applications du [[Spider Clan|Clan de l'Araignée]],
+son ennemi de longue date -- le moine [[Wangohan]] --
+soupçonna que la fin de Landhwa était enfin à portée de main.
+Car la sécurité exigeait une attention au moindre détail,
+et chacun savait Landhwa impatient et paresseux.
+
+De fait, quand plusieurs applications furent déployées en production
+avec le code de Landhwa, l'assistance technique fut immédiatement
+inondée de plaintes. Les utilisateurs ne pouvaient pas modifier
+leurs données personnelles ou voir leurs commandes en cours,
+et le lien "Contactez-nous" renvoyait fort ironiquement une page
+/403 Forbidden/.
+La matinée fut chaotique.
+
+Landhwa fut convoqué à une conférence de crise des abbés du Temple.
+Wangohan restait sans rien faire à se demander s'il verrait de nouveau
+son rival -- et le cas échéant, en combien de morceaux.
+
+C'est ainsi à la grande surprise de Wangohan que Landhwa
+réapparut dans l'heure, arborant le même sourire irritant que toujours.
+
+Consterné, Wangohan s'en fut voir l'abbé supérieur.
+"Quelle correction pour Landhwa ?" demanda le moine.
+
+"Aucune correction," dit l'abbé. "Car quand l'erreur a été
+portée à son attention, il nous a montré une sécurité intégrée
+qu'il avait mise en place. Si un flag particulier est mis dans
+la base de données, l'API de Landhwa va contourner la nouvelle
+couche de sécurité pour utiliser l'ancienne.
+Maintenant tout va bien, et nous allons pouvoir enquêter sur le
+problème à loisir sans devoir faire un retour en arrière de
+toute la livraison."
+
+"Bien entendu, cela ne va pas /absoudre/ le moine de sa négligence !"
+protesta Wangohan. "S'il avait fait plus attention ou testé avec
+plus d'exhaustivité, un tel débranchement d'urgence n'aurait
+même pas été nécessaire !"
+
+"Cela est peut-être vrai," dit l'abbé supérieur.
+"Mais s'il y a de la négligence, il y a aussi de l'humilité.
+Quand Wangohan déclaire /aujourd'hui je serai parfait/,
+nous louons sa détermination mais savons que sa cause est perdue.
+Landhwa non seulement reconnaît son imperfection, mais il nous
+en protège des conséquences.
+Mais courage ! Je suis certain que, avec un peu d'efforts,
+tu pourrais apprendre un de ces jours à devenir aussi paresseux que lui."
