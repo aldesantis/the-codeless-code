@@ -1,0 +1,68 @@
+Number: 28
+Lang: de
+Translator: andrebogus
+Title: Echo
+
+Der Orden Eiserner Knochen war beauftragt, die Server am Laufen zu halten.
+Dies war ihr Zweck und Stolz.
+
+Ein Mönch des Ordens fand bei einer Sicherheitskontrolle eines Servers
+mehrere unwichtige Services aktiviert vor. Er berichtete dies dem Abt.
+
+“Wir sollten den echo-Service auf port Sieben stoppen,” sagte der Mönch.
+“Es ist ein Relikt längst vergangener Zeit und dient keinem Zweck mehr.
+Alles was es tut, ist zurückzuspeien, mit was es gefüttert wurde, um
+Netzwerk-Latenz und Verfügbarkeits-Messungen zu erleichtern.”
+
+Zur Überraschung des Mönchs verbannte ihn der Abt direkt und ohne einen
+Grund anzugeben für ein Jahr in eine entfernte Einsiedelei hoch in den
+Bergen.
+
+Die Reise dauerte viele Wochen. Die Straße wandte sich aufwärts und
+verschwand schließlich zwischen Schneewehen. Die Luft wurde dünn. Auf den
+letzten Metern fiel der Wegesrand heimtückisch steil ab: Der fast
+unsichtbare pfad war nur Zentimeter von einem Fall in die Tiefe entfernt.
+Als es Nacht wurde, hätte der Mönch beinahe sein Leben ausgehaucht, als er
+zu nah an den Abgrund lief.
+
+Zu guter Letzt erreichte er eine Hütte auf einem einsamen Gipfel. Die Hütte
+war kalt, und hielt nur ein Bett, eine Schüssel und ein altes
+VT220-Terminal bereit.
+
+Eines Tages meditierte der Mönch, als das Terminal piepte. Auf dem
+Bildschirm las er:
+
+|  Connection received. Payload:
+   Zehntausend Grüße unserem entfernten Bruder!
+   Response?
+
+Der Mönch antwortete mit einem Gewirr erregter Fragen, aber das Terminal
+lehnte jede Eingabe ab. Plötzlich war der Mönch erleuchtet, und tippte:
+
+|  Zehntausend Grüße unserem entfernten Bruder!
+
+Danach piepte das Terminal nicht öfter als alle paar Tage. Manchmal war die
+Nachricht ein einfaches Hallo. Manchmal war es ein kleiner Reim über den
+Schabernack eines schnellen braunen Fuchses. Oft war es nur eine Reihe
+zufälliger Zeichen. Doch der Mönch beantwortete sie alle prompt und
+getreulich. Auf diese Weise verbrachte er das Jahr.
+
+Auch nach seiner Rückkehr zum Tempel blieb er dabei, nur wenn angesprochen
+zu sprechen und nur die Worte extakt zurück zu geben. Und auch wenn er
+damit den Spott der Brüder auf sich zog, mussten doch alle zugeben, dass er
+nie Gerüchte verbreitete, zum persönlichen Vorteil log oder jemanden
+beleidigte, der nicht zuvor ihn beleidigt hatte.
+
+== Qis Kommentar
+
+Der Mönch ist viel zu leicht davongekommen, der glückliche Fuchs. Gälte
+seine Beschwerde dem discard-Service auf Port Neun, hätte er schnell
+gelernt, seine Zunge zu hüten.
+
+== Qis Gedicht
+
+Der Turm ragt stolz empor, //
+die Statue blickt zur See. //
+Welch großes Werk ward nicht getan, //
+Dass sich der Schöpfer selbst drin seh'.
+

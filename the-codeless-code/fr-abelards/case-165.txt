@@ -1,4 +1,6 @@
 Number: 165
+Lang: fr
+Translator: abelards
 Title: Sécurité intégrée
 Illus.0.title: Je n'arrête pas d'appuyer sur 'Echap' mais je suis toujours là.
 
