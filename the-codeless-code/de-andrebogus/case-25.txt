@@ -1,0 +1,15 @@
+Number: 25
+Lang: de
+Translator: andrebogus
+Title: Kompromiss
+
+Zwei Mönche kamen mit sehr unterschiedlichen Implementierungsvorschlägen für ein Projekt zum Java-Meister. Jeder brachte seinen Fall energisch vor.
+
+Nach etwas Bedenkzeit befahl der Meister, die Aufgabe in Subsysteme zu teilen. Jeder Mönch würde eine Hälfte nach seiner bevorzugten Strategie implementieren.
+
+Der erste Mönch protestierte: “Gibt es nicht oft eine beste Lösung für ein Problem?”
+
+Auch der zweite Mönch war unzufrieden: “Selbst wenn unklar ist, welcher Weg besser ist, wäre es nicht besser, konsistent zu arbeiten, um Chaos zu vermeiden?”
+
+“Ja,” sprach der Java-Meister. “Hat keiner von Euch aufgepasst?”
+

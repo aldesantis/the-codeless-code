@@ -1,0 +1,36 @@
+Date: 2015-02-10
+Number: 179
+Title: Walking the Path
+Names: Bawan, Temple of the Burning Pool, Elephant's Footprint Clan
+Topics: third-party code, design, decisions, one-size-fits-all, reuse, management
+Geekiness: 1
+Illus.0.src: falling.jpg
+Illus.0.title: Curiously enough, the only thing that went through the mind of the rice bowl as it fell was "Oh no, not again..."
+
+Master [[Bawan]] was assisting the [[Elephant's Footprint Clan]]
+in creating a database service for the temple's audit logs.
+
+"We shall need at least three weeks to determine which NoSQL
+database engine would be best for this task," said Bawan
+to the abbot of that clan.
+
+"No need," said the abbot.  "The [[Temple of the Burning Pool]]
+has recently chosen a NoSQL engine for their own purposes.
+Follow the path they have taken.  We shall save much time."
+
+The master flung his bowl hard at the abbot's head.  The
+abbot ducked, and the bowl sailed harmlessly out the
+tower window.
+
+"See what your infamous temper has cost you, little master!"
+laughed the abbot.  "Now you have lost your bowl, and it is
+nearly time to line up for supper!"
+
+In one swift motion, Bawan flung the abbot out the window.
+Then he turned to the pair of astonished novices still in the room.
+
+"The abbot is following the path my bowl has taken,"
+explained the master.  "Come; perhaps he will save us a
+place in line."
+
+

@@ -1,0 +1,39 @@
+Number: 129
+Title: Pierre qui roule
+Lang: fr
+Translator: abelards
+
+Même durant les beaux jours, l'humeur du moine [[Wangohan]]
+était aussi douce qu'un vieux vinaigre, mais le long hiver morose
+l'avait aigrie encore davantage.
+Beaucoup faisaient l'objet de son mépris, mais aucun n'en était
+davantage la cible que le moine [[Landhwa]] :
+
+"Sa paresse n'est pas un secret," se plaignit Wangohan
+durant le déjeûner à un pauvre novice (qui n'avait compris
+que trop tard pourquoi les sièges près de Wangohan étaient
+toujours vides), "mais il ne reçoit aucune correction de
+la part de ses maîtres. Il présente /l'illusion/ d'être
+travailleur mais en vérité il développe ses propres projets.
+Je lui ai demandé d'implémenter une douzaine de DAO simples ;
+il s'irrita de la pénibilité de la tâche,
+et gaspilla une semaine pour développer un générateur de code
+de DAO pour les produire à sa place !"
+
+Quand le gong rappela les frères à leurs bureaux, un moine
+plus âgé attira le novice sur le côté.
+
+"Quelle est ton impression du frère Wangohan ?" dit le moine en souriant.
+"Je suis sûr que tu as quelque chose à dire là-dessus,
+à moins qu'il ne t'ait littéralement étourdi de paroles."
+
+Le movice réfléchit un moment.
+
+"Wangohan a l'esprit de la mule : il est dévoué et travaille dur,"
+dit le novice. "Je lui ferais confiance pour porter dix mille
+pierres de la vallée jusqu'au Temple."
+
+"Ce sont de grandes louanges," dit son aîné.
+
+"Vraiment ?" demanda le novice.
+"Son rival Landhwa, lui, commencerait par construire une brouette."

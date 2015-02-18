@@ -11,11 +11,9 @@ When the Java master investigated, he found the monk visibly
 shaken.  On screen was the following code, which at that
 moment was running under the debugger:
 
-<pre>
-    while (true) {
-       &#x2F;* do nothing *&#x2F;
+|   while (true) {
+       /* do nothing */
     }
-</pre>
 
 "I have asserted that the loop must execute while truth
 itself is true," said the monk.  "Yet if I hit the Interrupt

@@ -1,0 +1,61 @@
+Title: Interprète
+Number: 132
+Lang: fr
+Translator: abelards
+Illus.0.title: Hier elle a dansé l'interpéteur d'expressions régulières de Perl, et il a fallu deux infirmiers pour dénouer ses bras et jambes.
+Credits: Inspiré par le spectacle de Jennifer Gwirtz à <a href="http://performancelab.org/">Right Brain Performancelab</a>.
+
+Être coincés ensemble par la neige durant tous les mois d'hiver
+créé des tensions même dans la plus forte des amitiés ;
+[[Yíwen]] et [[Hwídah]] ne faisaient pas exception à cette règle.
+
+Hwídah était déjà irritée quand sa camarade de chambrée aux longues
+jambes commença danser silencieusement dans leurs quartiers, lançant
+bras et jambes à quelques pouces du nez de Hwídah.
+Mais la patience de Hwídah toucha ses limites quand Yíwen installa un jour
+un guzheng{{*}} électrique au milieu de la chambre et commença à en jouer
+-- où plutôt, d'en pincer les cordes maladroitement pour produire
+une série de sons dissonants, sans mélodie et sans tempo.
+Cela dura une minute, après quoi Yíwen s'assit et gribouilla sur des papiers.
+Mais ensuite elle se remit debout et recommença sa performance artistique.
+
+Après la dixième itération, Hwídah jeta avec force une sandale
+droit dans le dos de Yíwen, faisant glapir et se retourner la jeune fille.
+
+<i>"Mais qu'est-ce,"</i> gronda Hwídah, <i>"que tu fais ?"</i>
+
+Quelques-uns des papiers de Yíwen tombaient par terre en voltigeant.
+Hwídah les attrapa vivement. C'étaient des listings de code imprimé
+de l'algorithme /quicksort/ en différents langages : C, Lisp, Perl,
+même Prolog. Chacun était couvert d'annotations musicales à l'encre rouge.
+
+"Mille pardons pour mon impolitesse," dit Yíwen.
+"Je tentais d'encoder certains algorithmes sous forme de mouvement
+dans l'espace, ou de notes de musique. Si le résultat n'est pas plaisant,
+je change l'encodage et je réessaie."
+
+"Pourquoi ?" demanda Hwídah.
+
+"Pour voir ce que je découvrirai en le faisant," répondit Yíwen.
+"Nous parlons souvent de la beauté ou de l'élégance du code.
+Peut-être que, sans le savoir, nous composions des chorégraphies
+avec lesquelles danse l'information, et nous en trouvons certaines
+plaisantes car elles en appellent à quelque sens artistique
+plus profond qui serait commun aux autres formes d'art humain.
+Si tel était le cas, alors ces arts seraient connectés.
+C'est cette connexion que je cherche."
+
+Hwídah considéra cela.
+
+"Jusqu'ici, la musique de quicksort m'échappe," continua
+Yíwen en soupirant. "Peut-être que mon expérience est aussi
+idiote que traduire des chansons en code et tenter de le compiler.
+Peut-être qu'il vaut mieux laisser la musique de quicksort aux
+machines, pour qu'elles la jouent et qu'elles l'apprécient, et pas nous.
+Devrais-je arrêter cette poursuite, et épargner tes nerfs ?"
+
+En réponse, Hwídah sortit deux morceaux de coton de sa table de nuit
+et les mit dans ses oreilles. Yíwen s'inclina et retourna à son instrument.
+Ainsi la paix fut restaurée.
+
+{{*}} J'imagine que ça sonne un peu <a href="http://www.youtube.com/watch?v=cJjlohZxn3w">comme ça</a>.
