@@ -1,0 +1,19 @@
+Number: 179
+Title: Andar el camino
+Lang: es
+Translator: galcalde
+Illus.0.title: Curiosamente, lo único que pasaba por la mente del tazón de arroz mientras caía era "Oh no, no otra vez..."
+
+El Maestro [[Bawan]] estaba asistiendo al [[Elephant's Footprint Clan|Clan de la Huella del Elefante]] en la creación de un servicio de bases de datos para los logs de auditoría del templo.
+
+"Necesitaremos al menos tres semanas para determinar cual motor de base de datos NoSQL sería mejor para esa tarea," dijo Bawan al abad del clan.
+
+"No es necesario," dijo el abad. "El [[Temple of the Burning Pool|Templo de la Piscina Quemante]] recientemente eligió un motor NoSQL para sus propósitos. Sigamos el camino que tomaron. Ahorraremos mucho tiempo."
+
+El maestro arrojó fuertemente su tazón hacia la cabeza del abad. El abad se agachó, y el tazón salió sin daños por la ventana de la torre.
+
+"¡Mira lo que tu infame temperamento te ha costado, maestrito!" se rió el abad. "¡Ahora has perdido tu tazón, y va a ser la hora de la cena!"
+
+En un movimiento rápido, Bawan arrojó al abad por la ventana. Luego se volvió al par de aprendices sorprendidos que aún estaban en el cuarto.
+
+"El abad está siguiendo el camino que mi tazón tomó," explicó el maestro. "Vengan; quizás el nos guardará un lugar en linea."
