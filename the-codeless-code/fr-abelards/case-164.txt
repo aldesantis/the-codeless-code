@@ -1,0 +1,79 @@
+Number: 164
+Title: Paradoxe
+Lang: fr
+Translator: abelards
+Illus.0.title: Vous aurez aussi un coup de pied au derrière si vous n'écrivez PAS sur ses murs. Franchement, j'éviterais surtout d'aller dans son bureau.
+
+Un jour, le Temple s'éveilla pour découvrir que ses bases de données
+avaient été piratées. La source de l'intrusion fut remontée jusqu'à
+une application Web qui avaient récemment été mise à jour par un
+certain moine.
+Deux gardes du Temple allèrent chercher le moine pour qu'il aille s'expliquer
+auprès de l'Abbesse.
+
+Comme les gardes escortaient le moine piteux en montant les
+escaliers de la tour, ils passèrent devant le vieux maître
+[[Banzen]] sur le palier.
+Prenant pitié du garçon, le maître murmura dans l'oreille du moine :
+"Si tu parles pour te défendre, l'Abbesse pensera que tu es un lâche
+et te fera couper la tête. Mais si tu ne te défends pas, elle pensera
+que tu es responsable de l'incident, et te fera couper la tête."
+
+Avec ces mots, Banzen descendit l'escalier.
+
+- - -
+
+Le moine fut appelé dans le bureau de l'Abbesse,
+qui sortit une épée de son fourreau et exigea :
+"Explique comment tu as apporté la disgrâce à notre Temple."
+
+Le moine commença par professer son innocence, mais se rappelant
+du conseil de maître Bawan, se tut rapidement afin d'éviter que
+l'Abbesse ne le décapite pour sa lâcheté.
+
+Mais le silence qui suivit ne fit que renforcer la colère de l'Abbesse.
+Elle leva son épée et s'approcha du garçon terrifié, déterminée à le
+décapiter pour son inconstestable incompétence.
+
+De désespoir, le moine cherchait des yeux une autre sortie dans la pièce,
+mais il ne vit qu'un écran de papier de riz et de bambou, au-delà
+duquel se trouvait un étroit balcon et un décroché d'une centaine de
+pieds qui donnait sur des rochers en contrebas.
+Tandis que la lame sifflait vers son cou, le moine fut illuminé.
+
+- - -
+
+Le moine plongea sous la lame de l'Abbesse, roula à travers la pièce,
+et se releva devant l'écran de papier de riz. Tirant un marqueur rouge
+de ses robes, il dessina en toute hâte un bonhomme en bâtons sur un des
+carrés. L'Abbesse marqua une pause, intriguée.
+
+Dans le carré suivant, et ceux qui suivaient, le moine dessina les
+étapes des événements qui s'étaient déroulés dans les dernières semaines,
+et comment le clan réagit à chacun. Pris individuellement, aucune des
+étapes n'était en faute. Mais prises dans leur ensemble, il était clair
+qu'un concours de circonstances avait transformé ces actions apparemment
+sans lien, en une vulnérabilité critique.
+
+L'Abbesse rangea son épée dans son fourreau, et d'un geste de la main
+congédia le moine.
+
+Mais quand il atteint l'encadrure de la porte, l'Abbesse lui donna
+un vif coup de pied aux fesses, l'envoyant valdinguer dans le grand
+escalier de la tour.
+
+"Ceci," dit l'Abbesse, "est pour avoir écrit sur mes murs."
+
+
+== Note de l'Éditeur
+
+Ce cas a été écrit spécifiquement pour ma dernière présentation
+<a href="/talks/hacking-the-mind"
+>"Hack de l'esprit : /Comment l'Art peut nous aider à expliquer (et enseigner) la technologie/"</a>.
+J'ai eu grand plaisir à présenter cela à l'
+<a href="http://devday.pl">ABB DevDay 2014</a> à Cracovie, Pologne.
+
+Ce cas est un hommage au cas numéro 5 de Kyogen, dans "The Gateless Gate" :
+<a href="http://www.thegatelessgate.com/case-5">"Man-Up-a-Tree"</a>.
+
+Je promets de revenir à des choses bien plus techniques la semaine prochaine. :-)
