@@ -1,0 +1,27 @@
+Number: 3
+Title: Enkapsulacja
+Lang: pl
+Translator: Adam Stelmaszczyk
+Illus.0.title: Cokolwiek robisz, tylko mu nie mów, że musisz iść do łazienki.
+
+
+Młody mnich, nowy w świątyni, deklarował wszystkie swoje 
+metody jako publiczne. Zmienne składowe klasy - również. 
+Opat, znudzony upominaniem mnicha, poprosił mistrza Javy o poradę.
+
+Następnego dnia, mistrz zaprosił mnicha na obiad do swojego 
+prywatnego gabinetu.
+
+Mnich przyszedł i zastał wspaniały posiłek rozłożony na stole
+konferencyjnym. Mistrz kazał mnichowi położyć się na podłodze.
+
+Mnich zrobił jak mu kazano, po czym mistrz rozchylił szatę
+mnicha i wyciągnął wielki nóż. Przycisnął ostrze do nagiej 
+piersi mnicha tak mocno, że popłynęła krew. Mnich wrzasnął
+z przerażenia i zapytał mistrza czemu to zrobił.
+
+"Żeby rozciąć ci brzuch", wyjaśnił mistrz, "tak, żebym mógł
+nakarmić cię ryżem i napoić herbatą. Mam dziś mało czasu, 
+a ten sposób stołowania gości jest bardzo efektywny."
+
+Mnicha już nigdy nie trzeba było upominać.
