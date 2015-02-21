@@ -1,7 +1,7 @@
 Number: 3
 Title: Enkapsulacja
 Lang: pl
-Translator: Adam Stelmaszczyk
+Translator: adams
 Illus.0.title: Cokolwiek robisz, tylko mu nie mów, że musisz iść do łazienki.
 
 
