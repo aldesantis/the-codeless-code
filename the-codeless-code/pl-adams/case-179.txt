@@ -1,7 +1,7 @@
 Number: 179
 Title: Idąc tą samą drogą
 Lang: pl
-Translator: Adam Stelmaszczyk
+Translator: adams
 Illus.0.title: Co ciekawe, jedyną rzeczą, która przyszła do głowy spadającej misce ryżu było "O nie, znowu..."
 
 
