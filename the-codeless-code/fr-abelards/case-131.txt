@@ -1,0 +1,112 @@
+Number: 131
+Title: Ne pensez pas
+Lang: fr
+Translator: abelards
+Illus.0.title: Pour la plupart des gens, c'est une seconde nature.
+
+Un nouveau moine du
+[[Elephant's Footprint Clan|Clan des empreintes de l'Éléphant]]
+remarqua que tous les frères sous la tutelle de maître [[Bawan]]
+répondaient aux questions promptement, sans la moindre pause.
+
+Ceux qui hésitaient recevaient très vite un coup de bâton
+sur la tête, après quoi ils devaient rester silencieux pour le
+reste de la journée -- si, bien sûr, le coup ne les avait pas
+étendus inconscients sur le sol.
+
+Le jeune moine demanda à l'un des frères, "Pourquoi maître
+Bawan punit ceux qui prennent du temps à répondre ?"
+
+"Parce qu'il croit qu'ils se mettent à penser," dit le moine plus âgé.
+Il indiqua une rangée de crânes disposés sur un rebord au-dessus de
+la porte du maître. Certains étaient ternes et poussiéreux,
+tandis que d'autres semblaient avoir récemment quitté leur précédent
+propriétaire. Mais sur le front de chacun étaient écrits les mots
+/NE PENSEZ PAS/ dans l'écriture très reconnaissable du maître.
+
+Le moine prit congé, laissant le jeune frère réfléchir à l'algorithme de Bawan.
+
+- - -
+
+Quelque temps après ces mêmes moines se retrouvèrent en pleine nuit
+à travailler furieusement pour mettre à jour l'une des vénérables
+bases de données documentaires du clan.
+Des systèmes critiques avaient été mis hors ligne pendant que les
+vieux documents étaient migrés vers les nouveaux serveurs.
+
+Le script de conversion tourna des heures, mais s'interrompit
+à deux doigts de la fin à cause d'un problème mineur.
+On relança le script, mais l'aube approchait rapidement et
+les moines spécifièrent que tout document déjà écrit par la première
+itération serait ignoré.
+
+Tandis que la seconde itération parcourait à grande vitesse la
+portion de base que le premier script avait déjà traité, Bawan
+remarqua quelque chose de curieux. Des milliers de messages
+défilaient, tous semblables à ceci :
+
+<pre>
+   document 2677091: skipped (already exists)
+   document 2677092: skipped (already exists)
+   document 2677093: skipped (already exists)
+</pre>
+
+Mais une fois de temps en temps apparaissait un autre message comme ceci :
+
+<pre>
+   document 2677094: skipped (already exists) (** source is newer)
+</pre>
+
+"Pourquoi cette différence ?" demanda Bawan.
+
+"Je ne saurais dire," répondit rapidement l'aîné des deux moines.
+Bawan renifla et frappa la joue de l'homme du revers de la main.
+Puis il se tourna vers le plus jeune.
+
+"Pourquoi cette différence ?" répéta-t-il.
+
+À cet instant -- son esprit passant à vive allure entre les pensées
+de la main du maître, ou de son bâton -- le jeune moine eut un
+flash d'inspiration.
+
+"Décalage d'horloge," déclara le jeune moine.
+"Quand nous récupérons un document source de l'ancien serveur,
+nous conservons l'heure de dernière modification, puis nous
+créons le document cible. Mais si les horloges des systèmes ne
+sont pas en accord, le script peut être amené à penser que la
+source est plus récente que la cible."
+
+Le maître trouva en effet une légère divergence entre les deux serveurs.
+Il hocha la tête en signe d'approbation et prit congé, laissant le jeune
+moine se réjouir d'avoir compris l'algorithme de Bawan.
+
+- - -
+
+Le lendemain, Bawan ordonna que le Clan s'assemble hors de son bureau.
+Tandis que tous attendaient l'apparition du maître, le moine expérimenté
+murmurait que Bawan avait passé la journée à rassembler des preuves
+irréfutables qu'un décalage d'horloge était bien responsable de ces
+étranges messages d'erreur.
+
+"Qu'a-t-il trouvé ?" demanda une nonne.
+
+"Rien de la sorte," dit le moine.
+"En vérité, un serveur avait été laissé en marche par inadvertance
+durant la migration, alors nous avions encore des utilisateurs en train
+de faire des modifications dans l'ancienne base de données.
+La seconde conversion a ignoré ces documents avec ce fameux message.
+Quand le trafic a été rerouté vers la nouvelle base de données, les
+modifications suivantes des utilisateurs ont rendu impossible la
+restauration des modifications perdues.
+Cela va grandement embarasser notre clan."
+
+La discussion s'arrêta brutalement quand Bawan émergea de son bureau
+avec une échelle, qu'il grimpa ensuite pour placer un tout nouveau
+crâne brillant sur le rebord au-dessus de la porte.
+Les traits rappelaient quelque peu ceux du jeune moine, qu'on
+n'avait pas vu de la journée. Comme auparavant, les mots
+/NE PENSEZ PAS/ étaient inscrits sur son front.
+Et sur la mâchoire -- invisible à quiconque se tenait plus bas
+que le rebord, mais parfaitement lisibles tandis que le maître
+l'emportait -- était écrit un seul mot,
+<i>SACHEZ.</i>
