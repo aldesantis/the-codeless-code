@@ -1,0 +1,57 @@
+Number: 136
+Title: Protocole non géré
+Lang: fr
+Translator: abelards
+Illus.0.title: En fait, c'est juste pour l'open bar et les ailes de poulet épicées.
+
+Juste à la période où les novices de première année
+commencent à demander à leurs maîtres si l'hiver dans
+cette province de montagne aurait jamais une fin,
+les premiers vents du printemps finirent par trouver
+leur épuisant chemin à travers le labyrinthe de falaises
+et des pics enneigés qui entourent le Temple.
+
+Les moines et les nonnes se pressaient d'abbaye en abbaye
+avec un enthousiasme renouvelé, ne s'arrêtant que pour éviter
+les immenses stalactites de glace qui commençaient à s'écraser
+des corniches. Maintenant toutes les pensées étaient tournées
+vers la traditionnelle Célébration de la Fin du Long Espace Blanc {{*}}.
+
+Toutes sortes de fruits et spiritueux furent commandés dans les
+villages loin en contrebas. Les moines du
+[[Clan of Iron Bones|Clan des Os de Fer]] avaient même installé
+une webcam au-dessus d'un moniteur à écran plat dans le Grand Hall,
+afin que [[Zjing]], la nonne [[#54|acrophobe]] qui vivait seule dans
+une hutte bien en aval du Temple, puisse profiter des festivités
+en téléprésence.
+
+La fête n'avait pas commencé depuis longtemps que Zjing s'excusa
+soudainement. Devant sa webcam, elle plaça un signe écrit à la
+va-vite sur lequel on pouvait lire /BRB/.
+
+Quelques heures plus tard les portes du Grand Hall s'ouvrirent,
+et une nonne très pâle les passa en titubant. La nouvelle se
+répandit dans la foule que la nonne Zjing était revenue pour la
+première fois depuis plus d'un an.
+
+[[Hwídah]] s'élança en avant et mit rapidement une bouteille
+de liqueur forte dans les mains de Zjing, devinant à son expression
+que les chemins à ras de falaise et les longs ponts qui balançaient
+au-dessus des ravins sans fond avaient quelque peu mis les nerfs
+de la nonne à vif.
+
+Après que Zjing ait pris une longue gorgée, [[Yíwen]] dit,
+"Mille pardons pour ma curiosité, mais pourquoi as-tu bravé
+la route escarpée jusqu'ici, alors qu'en ce moment elle est
+encore plus traître avec la glace qui font et les pierres
+glissantes ?"
+
+"Pour partager une nouvelle importante," dit Zjing.
+"En regardant la fête, j'ai découvert une forme de communication
+qui ne peut être transmise par des sockets IP."
+
+Zjing prot alors Yíwen et Hwídah dans ses bras, leur embrassa
+les joues, et se retourna pour saluer les autres qui se
+rassemblaient autour d'elles.
+
+{{*}} souvent abrégé ainsi : <tt>\s{99}\S</tt>.
