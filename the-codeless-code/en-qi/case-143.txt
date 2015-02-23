@@ -36,7 +36,7 @@ The monk looked up from the Haskell code he was studying.
 we know it by another name.  But answer this
 question: Are you a software engineer?"
 
-"In heart and in deed, I am," answed Djishin.
+"In heart and in deed, I am," answered Djishin.
 
 "If you would be one in thought as well, then follow the
 path to the cypress grove, and converse with the nuns that
