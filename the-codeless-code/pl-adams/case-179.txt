@@ -10,7 +10,7 @@ przy tworzeniu bazy danych dla świątynnych dzienników audytu.
 
 "Będziemy potrzebowali co najmniej trzech tygodni, żeby dowiedzieć 
 się, która baza NoSQL będzie najlepsza do tego zadania", powiedział
-Bawat do opata klanu.
+Bawan do opata klanu.
 
 "Nie ma takiej potrzeby", odrzekł opat, "Świątynia Płonącej Puli
 niedawno wybrała bazę NoSQL na ich własne potrzeby.
