@@ -1,0 +1,16 @@
+Number: 34
+Lang: de
+Translator: andrebogus
+Title: Nomen est Omen
+
+Die Priesterin Suku prüfte den Code ihrer Novizen, als sie auf ein Modul stieß, dessen Variablennamen sie erheblich verärgerten. Value-Objekte egal welchen Typs hießen vo oder nur obj. Listen hießen list1, list2, usw. Die verschiedenen Iteratoren waren i, j, und (aus unerfindlichem Grund) x benannt.
+
+Die Priesterin betrat die Küche des Tempels, wo die Novizen gerade die Abendmahlzeit bereiteten. Sie nahm den größten Reislöffel vom Haken, fand den betreffenden Mönch und ließ ihren Ärger an seinem Allerwertesten aus.
+
+“Was habe ich getan?!” schrie der Novize auf, als ihn der Löffel das zehnte Mal mit einem markigen Klatscher traf.
+
+Schimpfwörter!” antwortete die Priesterin. “Verbe deine verfluchten Nomen!”
+
+Diese Szene wiederholte sich jeden Abend, bis der Novize erleuchtet war.
+
+
