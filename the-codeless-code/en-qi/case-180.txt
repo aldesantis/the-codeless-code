@@ -1,0 +1,43 @@
+Date: 2015-02-22
+Number: 180
+Title: Past Perfect
+Names: Shinpuru
+Topics: change, optimism, pessimism, simplicity
+Geekiness: 1
+
+Snow still covered the temple grounds when a senior nun
+happened upon the old monk [[Shinpuru]] clearing dead stalks
+from his garden.  Soon their talk turned to matters
+befitting two old warriors.
+
+"I liked our profession better in my youth," said the
+nun. "In those days my temple was a simple place, where work
+was pleasant and mastery came easy.  All we needed were text
+editors to code, /make/ to compile, and shell scripts to
+connect everything up.  But today -- what misery!  For each
+new technology I must learn new design patterns, new
+libraries, and new toolchains.  Our build process is
+inflexible, the design meetings interminable, the code
+reviews insulting, the testers intolerant, and the deadlines
+insane."
+
+"Then the years have been kinder to me," said Shinpuru.
+"For in the days of my youth my temple was a primitive
+place, where we celebrated victories that now seem laughably
+small.  But today -- what bliss!  For each new technology
+there are so many tools that with a little study I can
+achieve what would once have been impossible.  And if our
+quickening pace leads me to stumble, a dozen monks will
+catch me before I fall.  You should leave your miserable
+temple and come to mine."
+
+The nun raised an eyebrow.  "My brother Shinpuru is mocking
+me, for we labor side-by-side today, just as we have done
+since we were children."
+
+"Then I should escort you safely back to our abbey," said
+Shinpuru.  "For your eyes are so glued to the beautiful
+scenery behind you, I fear you will walk backwards off that
+cliff."
+
+

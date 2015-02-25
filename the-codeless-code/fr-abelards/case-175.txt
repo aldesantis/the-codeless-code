@@ -1,0 +1,64 @@
+Number: 175
+Title: Requin plat
+Illus.0.title: Ceci n'est pas une peinture.
+Lang: fr
+Translator: abelards
+
+Un moine demande au maître Java [[Kaimu]] : //
+Qu'est-ce que le "Principe de Responsabilité Unique ?"
+
+Kaimu dit : //
+Qu'une classe fasse une chose unique, //
+et la fasse complètement.
+
+Le moine demanda: //
+Comment déciderais-je ce qu'est cette "chose unique" ?
+
+Kaimu dit : //
+Le Pêcheur ne construit pas de bâteaux, //
+ou nous l'appellerions Charpentier Naval.
+
+Le moine demanda: //
+N'y a-t-il pas de place dans votre philosophie pour les interfaces ? //
+Et si ma classe peut servir de Pêcheur, //
+de CharpentierNaval et de Marin également ?
+
+Kaimu dit : //
+Et comment appelleriez-vous un tel monstre à trois têtes ?
+
+Le moine répondit : //
+Shísho, comme mon oncle. Il vit au bord de la mer et fait ces trois choses.
+
+Kaimu dit : //
+Je donnerais à votre classe Shísho trois variables d'instance : //
+un Pêcheur, un CharpentierNaval, et un Marin. //
+Ensuite Shísho peut implémenter ces interfaces par délégation.
+
+Le moine répondit : //
+Je parle de l'héritage, et vous me répondez par la composition. //
+/Tout/ mon oncle est Pêcheur, pas seulement son pied droit. //
+À quoi servent les objets, s'ils ne modélisent pas fidèlement la réalité ?
+
+Kaimu dit : //
+Si je peins un beau requin sur cette page, direz-vous, "Joli requin !" //
+ou vous plaindrez-vous du fait qu'il est plat et ne vous mange pas ? //
+
+Le moine demanda : //
+Mais comment pouvons-nous savoir quand le requin plat est suffisamment requin ? //
+Ou quand notre oncle devrait pêcher avec son pied gauche ?
+
+Kaimu dit : //
+Apprendre comment faire cela, est /notre/ "Responsabilité Unique".
+
+== Le commentaire de Qi
+
+Chaque classe fait une chose et une seule -- //
+mais parfois cette chose unique est //
+"faire trop de choses".
+
+== Le poème de Qi
+
+Un matin maître Kaimu prit son pinceau, //
+en deux traits il traça un requin très beau. //
+"Triste requin, qui ne peut ouvrir la bouche !", rit un passant //
+Kaimu répliqua, "Il a su me dire que vous êtes un idiot, pourtant."

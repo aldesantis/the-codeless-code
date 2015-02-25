@@ -1,0 +1,108 @@
+Number: 143
+Title: Monolithe
+Lang: fr
+Translator: abelards
+Credits: Mille mercis à benzrf pour les suggestions de modification !
+
+Le jeune moine [[Djishin]] approcha maître [[Kaimu]] et dit,
+"Parlez-moi du [[Temple of the White Iron Sky|Temple du Ciel de Fer Blanc]],
+où vous avez fait votre premier apprentissage."
+
+Kaimu dit, "C'est un endroit étrange et dangereux.
+La connaissance flotte dans l'air aussi épaisse que la brume,
+mais si tu y restes une heure durant, tu ressortiras en en sachant
+moins que lorsque tu y es rentré."
+
+Djishin pensa, /Je dois aller voir comment une telle chose peut être possible./
+Ainsi il se mit en chemin.
+
+D'après ses cartes, le temple était sis dans les replis d'une
+colline boisée en dessous des hautes montages ; un signe sur la
+route principale proposait un chemin qui n'était pas entretenu.
+Djishin suivit le chemin à travers une grande Porte /ET/, et
+trouva que le terrain à escalader au-delà était en effet
+enveloppé de brume, telle de l'eau bouillonnante, qui sortait
+d'un bosquet de saules pleureurs plus haut à flanc de côteau.
+
+La brume s'enroulait autour de la base d'une tour blême au centre
+des terres du temple. Le chemin -- maintenant balisé par des pierres
+humides -- mena Djishin jusqu'aux marches de celle-ci.
+
+"Quel est cet endroit, compagnon ?" demanda-t-il à un moine
+habillé de blanc assis sur les marches.
+
+
+Le moine leva les yeux du code Haskell qu'il étudiait.
+"Les étrangers l'appellent la Tour de la Défense d'Éléphant,
+bien que nous l'appelions par un autre nom. Mais réponds à
+cette question : es-tu ingénieur logiciel ?"
+
+"De coeur et de métier oui, je le suis," répondit Djishin.
+
+"Si tu l'es aussi en pensée, alors suis le chemin jusqu'au
+bosquet de saules, et parle avec les nonnes qui y méditent,"
+dit le moine vêtu de blanc. "La tour n'est pas encore pour toi."
+
+- - -
+
+Dans le bosquet, la brume s'épaississait en brouillard chaud et
+au goût amer ; venant de quelque part au-dessus, on pouvait
+entendre de l'eau bouillonner.
+Les arbres s'écartèrent, et Djishin se retrouva dans une clairière
+où quatre nonnes en robes blanches étaient assises, contemplant un
+monolithe de basalte noir brillant.
+Sur sa surface étaient des inscriptions telles que le moine n'en
+avait jamais vu :
+
+<pre>
+  (>>=) :: m a -> (a -> m b) -> m b
+          return :: a -> m a
+</pre>
+
+"Quelle est cette pierre, grandes dames ?" demanda Djishin.
+
+"Nous l'appelons la Monade," dit la première nonne.
+
+"Pourquoi la vénérez-vous ainsi ?" demanda Djishin.
+
+"À travers elle, nous pouvons toucher l'impur sans être corrompues,"
+dit la seconde nonne. "Nous pouvons abattre un Maybe-arbre avec
+une Maybe-hache et toujours entendre un Maybe-son quand il tombe --
+même si ce son est Nothing, même quand la hache n'existe pas,
+même quand il n'y a pas d'arbre qui tombe."
+
+"Pourriez-vous... expliquer cette explication ?" demanda Djishin.
+
+"Cela nous donne le pouvoir de coder sans erreur," dit la troisième nonne.
+"Car nous n'estimons une fonction sûre que si ses entrées seules
+déterminent sa sortie. Mais quand une fonction répand des effets
+de bord, alors de chaque graine pousse une ronce qui peut venir
+percer notre application de ses pointes.
+La Monade nous dit comment tisser les bandages pour canaliser
+ce flux. Nous enveloppons la fonction, nous attachons plus bas
+le Monde Réel ; nous le passons, le secouons, et le retirons
+de nouveau, et c'est de cela qu'il s'agit."
+
+"Et cette inscription, c'est du code?" demanda Djishin,
+s'étonnant devant le monolithe.
+
+Les nonnes se regardèrent. "Un jour, nous le reconnaîtrons tous
+comme tel, aussi facilement que /20 GOTO 10/.
+Mais réponds à cette question : es-tu ingénieur logiciel ?"
+
+"Je ne suis plus tout à fait sûr," répondit Djishin,
+dont la confusion était totale.
+
+À ce moment, le jeune moine reçut l'illumination.
+
+== Le commentaire de Qi
+
+C'est ironique, mais la Monade a toujours au moins un effet de bord :
+elle me donne l'impression d'être un idiot.
+
+== Le poème de Qi
+
+L'écran s'assombrit. //
+Des point-virgules s'éparpillent aux quatres coins de la fenêtre. //
+L'orage peut s'abattre sur la haute colline -- //
+Mais quand le monde change, les orages laissent place à de plus grands mystères.

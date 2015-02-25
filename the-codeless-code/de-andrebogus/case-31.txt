@@ -1,0 +1,21 @@
+Number: 31
+Lang: de
+Translator: andrebogus
+Title: Die gewandte Sandale
+
+Zwei Mönche brachten ihren Disput vor Java Meister Kaimu. Sie fragten ihn, “Ist null ein Wert, oder das Fehlen eines Wertes?”
+
+“Null,” sprach der Meister und ging.
+
+Sodann stritten die Mönche über die Bedeutung der Antwort des Meisters, selbst als sich die Brüder in die Schlafräume begeben hatten und das Licht gelöscht war:
+
+Der eine Mönch beharrte, dass null ein Wert sein müsse, da der Meister es als Antwort benutzt hatte.
+
+Der andere Mönch insistierte, dass null kein Wert sein könne, weil die Antwort-lose Antwort keine der vorgeschlagenen Alternativen enthielt.
+
+Ein dritter Mönch, der zu Schlafen versuchte, schrie und warf seine Sandale in die Dunkelheit.
+
+Ein vierter Mönch fragte listig: “War das ein gewandter Antrag auf Ruhe, oder das Fehlen eines gewandten Antrags auf Ruhe?”
+
+Als der erste der beiden Mönche dies bedachte, ging der Mond auf.
+
