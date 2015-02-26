@@ -1,0 +1,94 @@
+Number: 146
+Title: Le modèle de la boîte
+Lang: fr
+Translator: abelards
+Illus.0.title: Ce n'est pas une "tache de graisse"... c'est un "indicateur de saveur".
+
+La nonne [[Zjing]] était revenue dans son domicile dans la vallée
+solitaire sous les falaises du Temple. Mais le télétravail ne l'isolait
+pas des mélodrames de la vie du Temple, et il ne fallut pas longtemps
+avant que le moine expérimenté [[Wangohan]] ne commence à la bombarder
+de complaintes au sujet de son rival de longue date, le moine [[Landhwa]].
+
+Wangohan lui envoya :
+
+		 Nous devions chacun développer une nouvelle application, //
+		 en utilisant le [[#120|framework]] que j'avais présenté... //
+
+		 J'avais écrit de nombreux tests, unitaires et fonctionnels ; //
+		 Landhwa n'en avait écrit aucun, et il avale les exceptions //
+		 pour éviter de les vomir à l'écran...
+
+		 Je valide toutes les entrées client côté serveur ; Landhwa se repose //
+		 sur du Javascript pour s'assurer de leur validité, alors que //
+		 ses astuces peuvent être désactivées sur n'importe quel client... //
+
+		 Je génère de l'HTML simple qui respecte les standards ; //
+		 Landhwa colle ensemble de lourds plug-ins JQuery, //
+		 et fait confiance au navigateur pour afficher son bazar...
+
+		 Nous avons fait la démonstration de nos applications ce matin. //
+		 Toutes les louanges du client sont allées injustement à Landhwa. //
+		 Je n'en ai reçu aucune.
+
+Zjing réfléchit à la tendance de Wangohan d'empoisonner ceux qui
+l'irritaient.{{*}} Pour éviter à Landhwa une nuit déplaisante sur
+le sol des toilettes, elle répondit :
+
+		 Envoyez-moi les URLS vers chacune des applications. //
+		 Je vais enquêter.
+
+- - -
+
+Le jour suivant, Wangohan reçut un colis de la nonne contenant
+deux boîtes.
+La première boîte, de fine laque noire, contenait un déjeûner
+qui était l'harmonie esthétique même : huit minuscules
+compartiments dans lesquels se trouvaient les sauces, la viande
+grésillante, des légumes coupés tous à la même taille,
+disposés autour d'un bol carré de riz fumant décoré de fleurs
+aux teintes appétissantes.
+La seconde, une simple boîte de carton blanc huileux, semblait
+contenir les mêmes ingrédients -- mais les portions étaient
+coupées n'importe comment et jetées ensemble sur du riz tiède,
+de la moins appétissante des façons.
+
+Sur le colis, la main de Zjing avait écrit ce mot :
+
+     Choisis et mange. //
+     Ta réponse se trouve au fond.
+
+Wangohan dévora le contenu de la boîte de laque noire,
+mais fut surpris de ne trouver aucune autre note dans le fond.
+Il se demandait s'il avait assez faim pour manger le contenu de
+la seconde boîte quand une douleur aigüe le prit aux tripes
+et chassa cette pensée (et toutes les autres) de son esprit.
+
+- - -
+
+La nuit suivante, Wangohan -- toujours cloué au lit --
+reçut un autre colis de la nonne. Cette fois-ci, il l'ouvrit
+avec quelque inquiétude.
+
+On y trouvait quatre petites boîtes de thé à la menthe
+(leur sceau de cire original toujours intact), trois articles
+de principe de design des interfaces utilisateur, deux clés USB
+avec les dernières version d'AngularJS et de Bootstrap, et le mot :
+
+		 Voici le plat que Landhwa a préparé : //
+		 traître à l'estomac, c'est vrai, mais //
+		 plaisant aux sens avant de le manger. //
+
+		 Alors que Wangohan sert un plat honnête //
+		 qui nous aurait permis de tenir journée de marche, //
+		 si seulement nous l'avions désiré.
+
+		 La présentation ne fait pas partie de la nourriture, //
+		 mais elle est fait cependant partie du repas ; //
+		 on se présente via notre interface.
+
+		 Ouvre-toi à ce dessein, et rappelle-toi : //
+		 quand le chef sculpte ses carottes en forme de dragon, //
+		 ça n'est pas pour en améliorer le goût.
+
+{{*}} Voir les cas [[#84]] et [[#120]]. Ou évitez ses épices, tout simplement.
