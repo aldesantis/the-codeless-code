@@ -1,0 +1,47 @@
+Number: 140
+Title: Heartbleed
+Lang: fr
+Translator: abelards
+Illus.0.style: padding-right: 100px
+Illus.0.title: J'ai de la compassion pour le développeur : ce bug est tellement épique qu'ils lui ont fait un site web ET SON PROPRE LOGO. Même 'goto-fail' n'a pas de logo.
+Credits: Merci à Herb Warren d'avoir vu une erreur dans le texte ! Également : quelques gouttes de sang de poisondropstock.deviantart.com.
+
+Un novice demanda à maître [[Bawan]]: "Pouvez-vous nous parler de
+<a href="http://en.wikipedia.org/wiki/Heartbleed">Heartbleed</a> ?"
+
+Bawan dit: "Chiuyin, le trésorier du Gouverneur, est aussi aveugle
+qu'un verre de terre. Un escroc pourrait lui donner une pièce d'étain,
+lui dire que c'est de l'argent, et lui demander la monnaie.
+Quand le Trésor sera vide, qui sera le malfaiteur ?
+Parle juste et je t'épargne les coups pour la semaine.
+Dis des âneries et mon bâton va voler !"
+
+Le novice pensa : <i>si je dis l'escroc, Bawan va certainement me
+frapper, car c'est le trésorier qui verse les pièces.
+Mais si je dis le trésorier, il va sûrement me frapper aussi,
+car c'est l'escroc qui profite de la situation.</i>
+
+Comme la pause s'allongeait, Bawan brandit son bâton bien haut.
+Soudain illuminé, le novice cria:
+"Le Gouverneur ! Car c'est lui qui a choisi un aveugle pour trésorier !"
+
+Bawan baissa le bras. "Et qui est le Gouverneur ?"
+
+Le novice dit: "Tous ceux qui auraient pu crier 'cet homme est aveugle !'
+mais ne l'ont pas fait remarquer, ou même tous ceux qui ne l'ont pas examiné."
+
+Bawan hocha la tête. "C'est la première leçon.
+Trop facilement nous louons le Logiciel Libre, en nous congratulant avec
+arrogance, /avec dix mille paires d'yeux, le moindre bug sera mis à nu/.
+Mais quand les dix mille détournent le regard, ils ne sont pas plus utiles
+à leur poste que ne l'est l'aveugle.
+Et maintenant, puisque tu es épargné de tous les coups de bâton pour une
+semaine, rassure-toi et dis-moi : quelle est la seconde leçon ?"
+
+Le novice dit : "En vérité, je n'en ai aucune idée."
+
+Bawan frappa rapidement le crâne du novice de son bâton.
+Le garçon s'écroula par terre, inconscient.
+
+En enjambant le corps étendu, Bawan nota :
+"Code comme si tout le monde était un escroc."

@@ -1,0 +1,64 @@
+Number: 142
+Title: Au royaume des aveugles
+Lang: fr
+Translator: abelards
+Illus.0.title: Avec suffisamment de paires d'yeux, tous les bugs finiront bien par dire qu'ils en ont assez et ne peuvent manger une autre paire d'yeux.
+
+<i>[[Banzen]] réunit le [[Spider Clan|Clan de l'Araignée]] et dit :</i> //
+
+Maître [[Suku]] est [[#139|trop loin]] pour surveiller la livraison. //
+Comment pourrez-vous trouver les erreurs de votre code //
+S'il n'y a aucun abbé restant pour guider votre raison ? //
+
+<i>Le premier moine dit :</i> //
+Qui mieux qu'un porc connaît les défauts d'un autre porc ? //
+Je vérifierai le code de mon frère ; il fera ma revue de code. //
+Nous serons les yeux l'un de l'autre, et nous serons plus forts.
+
+<i>Le second moine dit :</i> //
+Le porc peut connaître de l'intérieur, jusqu'au fond de ses entrailles, //
+Seul le chef peut dire à quel moment la chair est parfaitement rôtie. //
+Je fais confiance à nos testeurs ; leur tâche sacrée est de trouver les failles.
+
+<i>Le troisième moine dit :</i> //
+Le porc peut-être cuit à la perfection et être délicieux, //
+Mais si l'Impératrice voulait du boeuf, le chef perdra la vie. //
+Je montrerai l'application aux clients, et ne croirai que leurs yeux.
+
+<i>Le quatrième moine dit :</i> //
+Le chef mérite de perdre la tête s'il prend un idiot pour commis ! //
+C'est fuir ses responsabilités qu'être trop confiant. //
+Je ne croirai que mes yeux, et utiliserai l'application jour et nuit.
+
+<i>Le cinquième moine dit :</i> //
+Avant de faire le service toi-même, vois un docteur pour ton audition ! //
+Ne faire confiance qu'à soi-même c'est être arrogant. //
+Mes yeux seront mes tests unitaires, vive l'automatisation.
+
+<i>Le sixième moine dit :</i> //
+Qui juge le corps en ne regardant que les pieds est un piètre docteur. //
+Faisons tourner une douzaine de /li/ en guise de patient. //
+Ma paire d'yeux sera automatisée aussi, mais c'est un web-crawler.
+
+<i>Le septième moine dit :</i> //
+Qui juge le corps juste par ce qu'il peut voir, est un docteur pour cochons. //
+Puissions-nous rassembler la bile et le sang. //
+C'est un analyseur de code statique qui garantira mon code à l'exécution.
+
+<i>Le huitième moine couvrit sa tête d'un pan de robe, et dit :</i> //
+L'aveugle doit rester en retrait, car sept routes commencent en ce point. //
+Si les sept reviennent raconter leurs voyages, j'en aurai vu plus que chacun. //
+Ce sont tous ces moines qui guideront mon chemin.
+
+<i>Banzen fit remarquer à son apprentie [[Satou]]:</i> //
+Le second moine ne fait rien. //
+Le huitième moine ne fait rien. //
+Que te dit ton troisième oeil, en ce moment ?
+
+<i>Satou répondit à son maître :</i> //
+Il y a de la vertu dans le rien du second sage, //
+Mais dans le rien du huitième il y en a huit fois davantage. //
+Le huitième devrait être le nouvel abbé, et le second son assistant.
+
+C'est ainsi que le huitième moine eut une promotion, //
+et que le second moine reçut sa leçon.

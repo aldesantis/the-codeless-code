@@ -1,0 +1,56 @@
+Number: 159
+Title: Blocs
+Lang: fr
+Translator: abelards
+Illus.0.title: Le jour suivant, Jinyu découvrit que l'un des novices avait volé une douzaine de blocs. Quand on l'a interrogé, il insista qu'il les avait amenés lui-même à l'entretien. Jinyu écrit : 'Département des brevets'.
+
+La Vénérable [[Jinyu]], Abbesse de Tous les Clans et Préoccupations,
+était toujours présente lorsque les novices recevaient leur
+revue de performance -- car ces revues allaient déterminer
+qui avancerait dans la hiérarchie du Temple, et comment ils
+effectueraient leur service.
+On faisait attendre chaque novice seul dans une salle de conférence
+jusqu'à ce que les vieux abbés entrent, et l'Abbesse laissait toujours
+une pile de blocs de construction en bois pour que les novices s'amusent.
+
+L'apprenti abbé de Jinyu remarqua que quand l'Abbesse entrait dans
+la salle, elle regardait immédiatement la pile de blocs et écrivait
+quelque chose dans son carnet de notes.
+Il décida de découvrir son algorithme.
+
+Le jour suivant, quatorze novices furent reçus en entretien.
+
+Sept ne touchèrent pas aux blocs du tout.
+L'apprenti abbé nota que pour chacun d'entre eux, Jinyu écrivit :
+/Pas de promotion./
+
+Quatre novices avaient pris des blocs de la pile pour construire
+de petites structures simples et robustes :
+une pagode à toit en escalier,
+une maison avec un dôme au milieu de pins triangulaires,
+un char à boeufs, un homme allongé.
+Pour chacun d'entre eux, Jinyu écrivit : /Développeur./
+
+Un novice arrangea tous les blocs proprement, par forme et taille,
+en un ensemble compact. Jinyu écrivit : /Configuration Manager./
+
+Un autre novice posa les blocs comme avec un jeu de Tangram
+et fit une belle mosaïque représentant un cygne.
+Jinyu écrivit : /Web Designer./
+
+Le dernier novice du jour avait utilisé tous les blocs pour
+construire une tour élaborée, un exemple d'élégance et d'équilibre
+des proportions. Les abbés expérimentés eurent le souffle coupé
+un instant en entrant dans la pièce, mais Jinyu n'écrit rien
+dans son carnet. L'apprenti écrivit une petite note dans son propre
+carnet et le glissa discrètement devant Jinyu.
+On pouvait y lire : /Architecte ?/
+
+Jinyu ne répondit pas.
+
+Quand le novice eut répondu à toutes les questions et fut congédié,
+Jinyu marcha vers la tour et souffla doucement dessus.
+Les blocs se balancèrent, basculèrent, et tombèrent avec fracas
+sur la table. 
+
+Jinyu sortit son carnet et écrivit : /Commercial./

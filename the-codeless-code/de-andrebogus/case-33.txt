@@ -1,0 +1,42 @@
+Number: 33
+Lang: de
+Translator: andrebogus
+Title: Angst
+
+Ein älterer, erst kürzlich in den Tempel eingeführter Mönch, kam frustriert zum Java Meister:
+
+“Ich soll verschiedene Features in das Auftragsverarbeitungssystem der Imperialen Schuster einbauen, doch ich verstehe nicht ansatzweise, wie es funktioniert. Die Logik verteilt sich über mehrere mit völlig verschiedenen Technologien gebauten Applikationen. Statt gemeinsame Hilfsklassen zu bauen, haben die Autoren große Mengen Code, oft mit subtile Änderungen, überallhin kopiert. Hintergrund-Jobs suchen und ändern Datenbankeinträge ohne dokumentierten Grund, und die Datenbank selbst verschwört sich gegen mich: Ein einfaches Update einer Tabelle kann eine Kettenreaktion von Insert und Delete-Statements anderswo auslösen.”
+
+“Ich sehe zwei Pfade vor Dir,” sprach der Java Meister. “Auf dem einen fügst Du nur das Nötige hinzu und bist schnell am Ziel. Auf dem anderen stellst Du Dich der mühevollen Aufgabe, den Code zu refaktorieren. Welchen Weg wählst Du?”
+
+Der Mönch verneigte sich beschämt. “Ich weiß es nicht. Ich traue mich nicht, etwas anzufassen, aus Angst dass mein Unwissen mich ins Verderben führt.”
+
+“Angst ist ein guter Schild, doch eine schlechte Klinge,” nickte der Meister. “Um Deine Angst zu bezwingen, müssen wir Deine Unwissenheit zerstreuen.” Mit seinem Stab schob er das Fenster auf und deutete auf den Wald draußen.
+
+“Folge dem Pfad der weißen Nesseln drei Tage lang in die Berge, und Du kommst zu einer Einsiedelei am Rande einer Klippe. Ein gelehriger Bruder wohnt dort, der Abschriften der Systemdokumentation bewahrt. Er wird Dich über das Design des Systems beraten.”
+
+Der Mönch tat wie geheißen, und kam an Sonnenuntergang zur Einsiedele, die anders gebaut war, als alles, was er bis dahin gesehen.
+
+Offensichtlich als solider Steinbau am Rande der Klippe begonnen, war die Einsiedelei um drei neue Flügel aus grob gezimmerten Fichtenstämmen mit Rindendach, die weit über die Klippe hinaus in die Leere reichten, erweitert worden. Dahinter hingen offene Planken und Treppen, die in dutzenden von Räumen endeten, gestützt von diagonalen Stelzen, die prekär in Felsvorsprüngen verankert waren.
+
+An den Räumen waren andere Erweiterungen aus Bambus mit Seilen befestigt, die wirr in alle Richtungen verteilt waren. Rampen und Leitern hingen aus ihnen herab, die in frei an Seilen hängenden Räumen aus Schilf und Stroh endeten. All das wurde mit Hanfseilen zusammengehalten, die hier an einem Fenstersims, dort an einer Wetterfahne befestigt waren, als hätte eine große betrunkene Spinne hundert Hütten in ihrem Netz gefangen. Die Konstruktion schwankte knarzend in der leichten Brise, dass man seekrank werden konnte.
+
+Der Mönch stand eine Weile mit offenem Mund da, fing sich dann wieder und schlug den Gong.
+
+Aus dem entferntesten Raum kam der Eremit, taumelte über Seile und Dächer, verschwand in einer Falltür aus Bambus und tauchte schließlich an der Tür der Hütte auf.
+
+“Neuigkeiten vom Tempel?” fragte der Eremit. “Werde ich endlich heimgerufen?”
+
+Der Mönch erklärte, er habe keine derartige Kunde.
+
+Der Eremit ließ den Kopf hängen. “Ich Armer! Denn bis ich diese Nachricht bekomme, muss ich diese Behausung weiter ausbauen, weit über die Klippe hinweg, um die wachsende Sammlung temporärer Dateien zu lagern. Dies mache ich nun schon seit Jahren, treu und sonder Klagen, in der Hoffnung, eines Tages meines Meisters Gnade zu finden, und zurückzukehren. Doch ich muss zugeben, meine Arbeit wird von Jahr zu Jahr schwerer. Im Winter liegt der Schnee so schwer auf den Dächern, dass die Bambusstelzen einknicken, und im Sommer muss ich die Elstern davon abhalten, mein Stroh für ihre Nester zu klauen. Übrigens... Ich hoffe, Ihr habt keine Allergien? Gegen Pollen? Oder Beifuß? Ich sah einst nach einem starken Nieser sieben Kammern in die Tiefe stürzen...”
+
+“Aber das ist Wahnsinn!” schrie der Mönch. “Nun wo Du weißt, wie viele Räume es braucht, kannst Du diese Monstrosität nicht abreißen und neu beginnen?”
+
+“Welch ein Unfug. Stellt Euch die Zeit vor, die ein solches Unterfangen braucht, und wie verärgert mein Meister in Zwischenzeit würde! Wie kann ich rechtfertigen, Räume zu entfernen statt hinzuzufügen? Mein Exil könnte eine Dekade verlängert werden! Nein, besser tue ich exakt was mir aufgetragen wurde. Im Übrigen verstehe ich diese Einsiedelei recht gut, ihre Stärken und Schwächen; so lange ich nicht zu fest auftrete und Pfeffer vermeide, habe ich eine vernünftige Chance, nicht in der Tiefe zu enden.
+
+“Doch genug von meiner Misere, gelehrter Bruder. Wenn Du nicht hier bist, mich heimzurufen, wirst Du sicher meine Hilfe brauchen, das Auftragsverarbeitungssystem des Imperialen Schusters zu verstehen. Viele sind zu diesem Zweck hier gewesen, denn ich bin der Autor der Systems.”
+
+Der Mönch—wie vom Meister versprochen erleuchtet—verneigte sich nur und trat den Heimweg an.
+
+

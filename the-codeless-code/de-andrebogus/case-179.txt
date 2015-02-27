@@ -1,0 +1,20 @@
+Number: 179
+Lang: de
+Translator: andrebogus
+Title: Den Weg gehen
+
+Meister Bawan half dem Orden des Elefanten-Fußabdrucks, einen Datenbank-Dienst für die Audit Logs des Tempels zu erstellen.
+
+“Wir werden mindestens drei Wochen brauchen, zu ergründen, welches NoSQL-Datenbanksystem am besten geeignet ist,” sagte Bawan zum Abt des Ordens.
+
+“Nicht nötig,” sagte der Abt. “Der Tempel des brennenden Pools wählte kürzlich ein NoSQL System für ihre Zwecke. Folgen wir ihrem Pfad, und wir sparen eine Menge Zeit.”
+
+Der Meister schleuderte seine Schüssel kräftig in Richtung des Kopf des Abtes. Dieser duckte sich. Die Schüssel verfehlte ihn und verschwand aus dem Fenster.
+
+“Seht, was Euer schändlicher Zorn Euch kostet, kleiner Meister!” lachte der Abt. “Nun seid Ihr Eure Schüssel los, und es ist bald Zeit zum Mittagessen!”
+
+Mit einer raschen Bewegung warf Bawan den Abt aus dem Fenster. Dann drehte er sich zu den beiden anwesenden, überraschten Novizen um.
+
+“Der Abt folgt dem Pfad meiner Schüssel,” erklärte der Meister. “Kommt; vielleicht hält er uns an der Tafel einen Platz frei.”
+
+

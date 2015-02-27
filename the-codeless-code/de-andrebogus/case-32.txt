@@ -1,0 +1,36 @@
+Number: 32
+Lang: de
+Translator: andrebogus
+Title: Unkraut
+
+Der Tempel brauchte einen zusätzlichen Entwickler, und zwei Neulinge hatten
+sich um die Position beworben. Java Meister Banzen sandte einen Mönch, sie
+zu interviewen.
+
+“Sie waren in allen Belangen gleich qualifiziert,” berichtete der Mönch des
+Abends. “Gleiches Alter, Gewicht, Statur, Körperhygiene, Fähigkeit im
+Schwertkampf und Präferenz koffeinhaltiger Getränke. Also gab ich beiden
+Kandidaten das gleiche Logik-Rätsel. Einer versagte; der andere löste es.”
+
+Java Meister Banzen sprach: “Bring mich in die Räume, in denen sie
+interviewt wurden.”
+
+Zuerst kamen sie in den Raum des gescheiterten Kandidaten, dessen
+Lösungsansatz noch in jadegrünem Marker auf der Weißtafel stand. Peinlichst
+akkurate Abbildungen standen in präzisen Reihen und Spalten. Java Meister
+Banzen fand schnell den Fehler in des Kandidaten Schlussfolge.
+
+Da sprach der Meister: “Eine Grotte, wo Erbsenpflanzen versuchen, die
+Schneedecke zu durchbrechen. Hegen wir sie, werden wir im Frühjahr gut
+essen.”
+Said the Java master: “Here is a grove of pea-vines, struggling to break
+through the winter snow. If we nurture them we shall dine well in spring.”
+
+Als nächstes kamen sie in den Raum des erfolgreichen Kandidaten. Auch hier
+sah man Spuren grünen Markers, doch in diesem Raum wucherten die
+Zeichnungen bar jeder Ordnung über die Tafel. Hastige Kritzeleien wanden
+sich um-, oder gar durcheinander—ein dichtes Knäuel von Kauderwelsch.
+
+Der Java Meister schüttelte den Kopf. “Hier ist Dir zufolge frischer Dill
+und Lemongras, doch ich würde es in dem Unkraut nie finden.”
+

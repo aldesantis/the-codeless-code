@@ -1,0 +1,45 @@
+Number: 180
+Title: Imparfait, Plus Que Parfait
+Lang: fr
+Translator: abelards
+
+La neige couvrait encore les terres autour du Temple
+quand une nonne expérimentée tomba sur le vieux moine
+[[Shinpuru]] qui retirait des tiges mortes de son jardin.
+Leur conversation se tourna rapidement vers des sujets qui
+convenaient à deux vieux guerriers.
+
+"Je préférais notre profession dans ma jeunesse," dit la nonne.
+"En ce temps-là mon temple était un lieu ordinaire, où le
+travail était plaisant et la maîtrise facile à atteindre.
+Tout ce dont nous avions besoin, c'était d'éditeurs de texte
+pour coder, /make/ pour compiler, et des scripts shell pour
+connecter les choses les unes aux autres.
+Mais aujourd'hui -- quelle misère !
+Pour chaque nouvelle technologie je dois apprendre de nouveaux
+modèles de conception, de nouvelles bibliothèques, et de nouvelles
+chaînes d'outils.
+Notre processus de livraison est inflexible, les réunions
+d'architecture interminables, les revues de codes insultantes,
+les testeurs intolérants, et les dates de livraison insensées."
+
+"Et bien les années ont été plus douces avec moi," dit Shinpuru.
+"Car dans ma jeunesse mon temple était un endroit primitif,
+où nous célébrions des victoires qui aujourd'hui sembleraient
+risiblement minuscules.
+Mais aujourd'hui -- quelle béatitude !
+Pour chaque nouvelle technologie il y a tant d'outils qu'avec
+très peu d'apprentissage je peux réaliser ce qui semblait
+alors impossible.
+Et si notre rythme de plus en plus rapide me fait trébucher,
+une douzaine de moines m'attrapperont avant que je ne tombe.
+Vous devriez quitter votre temple de malheur et venir dans le mien."
+
+La nonne leva un sourcil. "Mon frère Shinpuru se moque de moi,
+car nous travaillons côte-à-côte aujourd'hui, tout comme
+nous l'avons fait depuis notre enfance."
+
+"Alors je vais devoir vous raccompagner à l'abbaye saine
+et sauve," dit Shinpuru. "Car si vos yeux sont vissés au
+joli paysage derrière vous, je crains que vous ne marchiez
+à l'envers et tombiez de cette falaise."
