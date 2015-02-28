@@ -1,0 +1,103 @@
+Number: 154
+Title: Un pont vers nulle part
+Lang: fr
+Translator: abelards
+Illus.0.title: Le mot "ingénierie / génie" vient du Latin ingenium, "l'intelligence / l'ingéniosité" et ingeniare, "imaginer / trouver un moyen". Je dirais que la phrase "les gens intelligents qui imaginent et trouvent des moyens de faire les choses" s'applique à la plupart des ingénieurs logiciels. Bien sûr, cela s'applique aussi aux escrocs et aux superméchants de James Bond.
+
+
+Un bâtisseur de ponts terminait son inspection du
+[[Zjing's Bridge|Pont de Zjing]] quand il vit maître [[Kaimu]]
+se tenir tout proche.
+
+Le constructeur dit à Kaimu : "J'ai entendu dire que vos moines
+se donnent le nom d'<i>ingénieurs logiciels</i>.
+En tant que /véritable/ ingénieur, je trouve cela absurde...
+
+"Dans ma profession, nous analysons tous les aspects de notre tâche
+avant de couper la première planche.
+Quand nos plans sont terminés, je peux vous dire exactement de combien
+de bois nous aurons besoin, combien de clous et combien de corde,
+quel poids maximal le pont pourra supporter, et sa date d'ouverture
+au jour près...
+
+"Vos moines ne font rien de tout cela.
+Ils s'agitent et pissent du code avant que le client n'ait
+fini de décrire ce qu'il désirait. Ils improvisent, repensent,
+reconçoivent, et réécrivent une demi-douzaine de fois avant
+la livraison, et ce qu'ils produisent finit invariablement par
+planter ou s'avérer vulnérable à des attaques.
+Si je devrais travailler de telle manière, personne n'oserait
+jamais mettre le pied sur ce pont !"
+
+Kaimu s'inclina et dit : "Nos moines auraient beaucoup à
+apprendre de vous."
+
+Le maître appela ensuite trois moines expérimentés,
+pour suivre l'exemple du bâtisseur de ponts, et venir
+entendre la discipline d'un vrai ingénieur.
+
+- - -
+
+Après que le constructeur a répété son argumentation, le
+premier moine demanda : "Quand un pont est à moitié fini
+et que le client demande soudainement qu'il soit deux fois
+plus large et situé trois kilomètres en aval, comment
+fait-on cela ?"
+
+Le bâtisseur dit : "Nous n'acceptons tout simplement pas
+de tels changements déraisonnables."
+
+Le second moine demanda : "Quand vous apprenez à la fin de
+votre ouvrage que votre industrie a choisi de passer du bois
+à la pierre et ne fait plus qu'entraîner des maçons, comment
+faites-vous pour mettre à niveau les nombreuses structures
+dont on vous a confié le soin ?"
+
+Le bâtisseur dit : "Nous n'acceptons tout simplement pas
+de faire ce genre de maintenance qui n'est pas nécessaire."
+
+Le troisième moine demanda : "Quand la force de la Gravité
+change soudain de direction, ou quand les Dieux décident
+que tout bois se change en poussière et les cordes pèsent
+aussi lourd que du plomb, comment évitez-vous aux voyageurs
+de sombrer dans l'abîme ?"
+
+Le bâtisseur dit : "Nous n'acceptons tout simplement pas
+de planifier ce genre d'éventualités absurdes."
+
+Kaimu remercia le constructeur de ponts, rassembla ses moines,
+et traversa le pont avec eux.
+
+- - -
+
+Quand ils atteignirent l'autre côté,
+Kaimu demanda au premier moine : "Qu'as-tu appris du bâtisseur ?"
+
+Le premier moine dit : "La détermination d'un vrai ingénieur
+est une chose admirable. Mais si nous devions nous montrer
+aussi inflexibles, l'Empereur nous noierait sûrement dans
+nos propres cycles en cascade."
+
+Kaimu demanda au second moine : "Qu'as-tu appris du bâtisseur ?"
+
+Le second moine dit : "La frugalité d'un vrai ingénieur
+est une chose admirable. Mais si nous nous accrochions si fort
+aux technologies d'hier, nous n'aurions pas le Web pour encore
+un bon millier d'années."
+
+Kaimu demanda au troisième moine : "Qu'as-tu appris du bâtisseur ?"
+
+Le troisième moine dit : "La prévisibilité du monde dans lequel
+vit un vrai ingénieur est une chose admirable. Mais notre monde
+est toujours en mouvement, et ses lois fondamentales changent
+chaque semaine. Si nous ne nous adaptions pas rapidement à
+l'imprévu, la seule chose que nous pourrions prévoir, c'est
+notre propre destruction."
+
+Le premier moine demanda : "Maître... qu'a appris le bâtisseur de nous ?"
+
+Kaimu fit : "Rien encore. Mais quand la chandelle que voici touchera
+l'huile de ma lanterne, que j'ai répandue sur le pont durant notre
+traversée, il comprendra le bien-fondé de planifier l'absurde,
+la vertu de reconstruire en pierre, et la sagesse de ne pas insulter
+ses clients."
