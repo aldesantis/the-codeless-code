@@ -1,0 +1,29 @@
+Number: 179
+Title: Seguendo il sentiero
+Lang: it
+Translator: alessandro1997
+Illus.0.title: Curiosamente, l'unico pensiero che ha attraversato la mente della ciotola di riso mentre cadeva è stato "Oh no, non di nuovo..."
+
+Il maestro [[Bawan]] stava assistendo il [[Elephant's Footprint Clan|Clan dell'Orma di Elefante]]
+nella creazione di un servizio database per i log diagnostici del Tempio.
+
+"Ci serviranno almeno tre settimane per determinare quale motore database NoSQL
+sia meglio usare per questo compito" disse Bawan all'abate del clan.
+
+"Non c'è bisogno" disse l'abate. "Il [[Temple of the Burning Pool|Tempio dello Stagno Ardente]]
+ha recentemente scelto un motore NoSQL per i propri scopi. Seguiamo il sentiero
+che hanno intrapreso. Risparmieremo molto tempo."
+
+Il maestro lanciò con violenza la propria ciotola contro la testa dell'abate.
+L'abate si abbassò e la ciotola volò inoffensiva fuori dalla finestra della
+torre.
+
+"Guarda quanto ti è costato il tuo carattere infame, piccolo maestro!" rise
+l'abate. "Ora hai perso la tua ciotola, ed è quasi ora di mettersi in fila per
+mangiare."
+
+Con un movimento fluido, Bawan lanciò l'abate fuori dalla finestra. Quindi si
+girò verso la coppia di novizi attoniti rimasti nella stanza.
+
+"L'abate sta seguendo la strada presa dalla mia ciotola" spiegò il maestro.
+"Venite; magari ci terrà un posto in fila."
