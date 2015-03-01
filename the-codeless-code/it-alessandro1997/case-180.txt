@@ -1,0 +1,34 @@
+Number: 180
+Title: Passato perfetto
+Lang: it
+Translator: alessandro1997
+
+La neve ancora copriva le terre del Tempio quando una monaca anziana incontrò il
+vecchio monaco [[Shinpuru]] che rimuoveva dei gambi morti dal proprio giardino.
+Presto la loro conversazione si spostò su argomenti adatti a due vecchi
+guerrieri.
+
+"La nostra professione mi era più gradevole quand'ero giovane" disse la monaca.
+"A quei tempi il Tempio era un luogo semplice, dove il lavoro era piacevole e la
+maestria si acquisiva facilmente. Tutto quello che ci serviva erano degli editor
+per scrivere il codice, /make/ per compilarlo e script della shell per collegare
+tutto quanto. Ma oggi -- che miseria! Per ogni nuova tecnologia devo imparare
+nuovi modelli di architettura, nuove librerie, nuovi strumenti. Il nostro
+processo di build è rigido, le riunioni d'architettura interminabili, le
+revisioni del codice oltraggiose, i tester insofferenti e le scadenze folli."
+
+"Allora gli anni sono stati più clementi con me" disse Shinpuru. "Nei giorni
+della mia gioventù il Tempio era un luogo primitivo, dove celebravamo vittorie
+che ora sembrano ridicolmente piccole. Ma oggi -- che benedizione! Per ogni
+nuovo tecnologia ci sono così tanti strumenti che con così poco studio posso
+ottenere ciò che una volta sarebbe stato impossibile. E se l'affrettarsi del
+nostro passo mi porta a inciampare, una dozzina di monaci mi affereranno prima
+che cada. Dovresti lasciare il tuo tempio miserabile e venire al mio."
+
+La monaca inarcò un sopracciglio. "Il mio fratello Shinpuru si prende gioco di
+me, giacché oggi lavoriamo fianco a fianco, proprio come abbiamo fatto fin da
+quando eravamo bambini."
+
+"Allora dovrò accompagnarti alla nostra abazia" disse Shinpuru. "Perché i tuoi
+occhi sono così avidi dello scenario alle tue spalle, che temo tu possa,
+camminando all'indietro, cadere da quel dirupo."
