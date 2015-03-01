@@ -1,0 +1,28 @@
+Number: 97
+Title: Inflammable
+Illus.0.title: Et c'est pour ça qu'aucun moine n'a de cheveux.
+
+Dans le projet Java que faisait le moine [[Landhwa]] à ce moment-là,
+les objets de domaine dans la couche métier étaient franchement
+similaires à leurs objets d'entrée de formulaire dans la couche Web.
+Comme les noms des propriétés étaient aussi souvent les mêmes,
+le moine avait choisi d'utiliser l'introspection comme moyen facile
+de copier la plupart des données d'une couche à une autre.
+Cela vint aux oreilles de maître [[Kaimu]], qui choisit d'enquêter.
+
+Après avoir étudié le code du moine, Kaimu tira une fiole de cuivre
+de ses robes, prit une longue rasade, leva une bougie chauffe-plat
+à ses lèvres, et souffla fort.
+Une grande flamme bleue sortit de sa bouche et passa par dessus
+l'épaule du moine.
+
+"Que faites-vous ?" cria Landhwa, tapant sur sa robe pour en
+éteindre des flammes.
+
+"J'allume les sept chandelles sur le mur de l'autre côté," dit Kaimu.
+
+Les deux hommes regardèrent à travers la pièce les écrans de papier
+roussis. Kaimu fronça des sourcils, ramassa la bougie et commença
+à traverser la pièce d'un air las.
+
+"J'en ai raté une," expliqua-t-il.
