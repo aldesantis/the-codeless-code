@@ -1,4 +1,6 @@
 Number: 97
+Lang: fr
+Translator: abelards
 Title: Inflammable
 Illus.0.title: Et c'est pour ça qu'aucun moine n'a de cheveux.
 
