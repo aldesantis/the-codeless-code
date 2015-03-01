@@ -1,4 +1,6 @@
 Title: Sans état
+Lang: fr
+Translator: abelards
 Number: 96
 Illus.0.title: Essayez de ne pas le visiter avant six heures du matin.
 
