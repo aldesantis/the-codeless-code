@@ -1,0 +1,17 @@
+Title: Sans état
+Lang: fr
+Translator: abelards
+Number: 96
+Illus.0.title: Essayez de ne pas le visiter avant six heures du matin.
+
+Il est du devoir de chaque moine d'aller visiter maître [[Kaimu]]
+au moins une fois durant leur service au Temple.
+Quand le maître ouvre sa porte, le moine doit s'incliner et demander :
+"Quelle est la grande vertu dans les services sans état ?"
+
+Sans faute, maître Kaimu dira :
+"Dix mille invités, nourris par un seul grain de riz."
+
+Le moine doit ensuite demander : "Et quel est leur grand vice ?"
+
+Kaimu répondra : "Le grand vice de quoi ?"
