@@ -1,0 +1,26 @@
+Number: 39
+Lang: de
+Translator: andrebogus
+Title: Der Fluss von Tee
+
+Java Meisterin [Suku|Suku] besuchte die Provinz ihrer Jugend. Kaum hatte sie sich in ihre alten Lieblings-Teestube gesetzt, als ein Novize sie ansprach und ihre Meinung zu seinem Code erbat.
+
+Suku untersuchte den Code und fand jede einzelne Methode akribisch dokumentiert. Die setName-Methode der Person-Klasse änderte den Namen der Person; die getName-Methode stellte fest, dass die den durch setName gesetzten Namen zurückgab, und die toString-Methode versprach, auch wirklich einen String zurück zu geben.
+
+Suku schob den Ausdruck beiseite und saß eine Weile still da. Schließlich räusperte sich der Novize und fragte, ob sie unzufrieden sei.
+
+“Das ist eine interessante Frage,” sagte Suku. Sie zeigte auf den Code. “Dies ist Papier auf einer Tatami-Matte. Auf dem Papier ist Tinte. Diese formt viele Worte. Im Hinoki draußen sitzt ein Vogel. Es hat zwei Flügel mit Federn und zwei Augen...”
+
+So fuhr sie fort bis die Wangen des Novizen sich röteten. Er nahm seinen Ausdruck und verließ sie schamhaft, aber erleuchtet. Suku aber hörte nicht auf zu reden, bis der Junge außer Hörweite war.
+
+== Qis Kommentar
+
+Suku wurde eine großzügige Portion Reis serviert. Der Novize hatte Glück, dass sie keinen großen Löffel dazu bekommen hat.
+
+== Qis Gedicht
+
+Die durstige Suku hat Grüntee im Sinn //
+Der Novize ergießt einen mächtigen Schwall. //
+Ein aufrechter Becher mag halten, was d'rin; //
+doch die Flut bringt jeden Becher zu Fall.
+
