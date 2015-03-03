@@ -1,0 +1,54 @@
+Number: 167
+Title: Retour aux basiques
+Lang: fr
+Translator: abelards
+Illus.0.title: "Maître, vous remarquerez qu'une des clés de la session est appelée 'seaux', et que sa valeur est un tableau de liste chaînées. Et là, ça va vraiment vous faire rire..."
+
+Le vieux maître [[Banzen]] s'était proposé pour continuer de diriger
+la formation du [[Spider Clan|Clan de l'Araignée]] durant les [[#33|voyages]]
+de maître Suku, mais comme les mois s'accumulaient l'aventure avait
+quelque peu mis ses nerfs à vif.
+Dans une application critique, les composants écrits par des
+développeurs différents se marchaient dessus d'une manière ou d'une autre,
+donnait d'étranges erreurs à l'exécution.
+
+De désespoir, Banzen se procura une bouteille de huangjiu
+[[#93|auprès de maître Bawan]], en vida la moitié, et fit appeler
+son apprenti [[Djishin]].
+
+- - -
+
+Une semaine après, Djishin donna son rapport d'avancement :
+
+"Notre problème vient du servlet Java, des contextes /session/ et
+/request/, où nous stockons des données d'état et pour le rendu.
+Ces contextes sont des HashMaps dont les valeurs sont des Objects
+et dont les clés sont des Strings au choix du développeur.
+Puisque chaque développeur choisit ses clés sans consulter ses
+homologues, un composant va parfois réécrire les valeurs du contexte
+d'un autre -- souvent avec un objet d'un type radicalement différent."
+
+"Que faire, alors ?" demanda Banzen, débouchant sa bouteille.
+
+"J'ai créé une classe partagée ContextUtil avec soixantes
+chaînes de caractères constantes, une pour chaque clé que l'on
+utilise dans l'application pour le contexte," dit Djishin fièrement.
+"Et pour chaque clé j'ai mis une paire de méthodes statiques
+fortement typées, pour /get/ et /set/ la valeur de cette clé
+dans un contexte donné."
+
+"Cela ressemble fort à des méthodes de propriétés", observa Banzen.
+
+"Exactement !" dit Djishin. "Je suis en ce moment en train de
+concevoir une convention d'espace de noms pour que chacun des
+sous-systèmes ait sa /propre/ classe ContextUtil, permettant
+d'ajouter des constantes et méthodes statiques au besoin."
+
+"Cela ressemble fort à des sous-classes", observa Banzen.
+
+"Exactement !" répéta Djishin.
+
+"Excellent," dit Banzen, vidant son verre.
+"Donc en sept jours, en utilisant uniquement des constantes simples
+et des fonctions sur un tableau associatif Java générique,
+nous venons d'inventer... l'Objet."
