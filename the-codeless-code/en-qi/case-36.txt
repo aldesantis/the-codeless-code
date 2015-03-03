@@ -53,5 +53,3 @@ as either an <a href='/pages/case-36/poster.svg'>SVG</a>
 or <a href='/pages/case-36/poster.png'>PNG</a> file.
 </p>
 </div>
-
-
