@@ -1,0 +1,67 @@
+Number: 176
+Title: D'heureux aller-retours
+Lang: fr
+Translator: abelards
+Illus.0.title: Oh, et le riz est froid.
+
+Un moine novice dit à maître [[Kaimu]],
+"j'ai entendu dire qu'il est préférable de n'avoir qu'une seule fois
+l'expression /return/ dans une fonction. Êtes-vous d'accord ?"
+
+Kaimu demanda, "Où est ton bol ?"
+
+Le moine s'excusa et partit chercher son bol.
+
+- - -
+
+Quand le moine revint, il montra son bol au maître et dit,
+"j'ai entendu dire qu'il est préférable de n'avoir qu'une seule fois
+l'expression /return/ dans une fonction. Êtes-vous d'accord ?"
+
+Kaimu demanda, "Pourquoi n'y a-t-il pas de riz dans ton bol ?"
+
+Le moine s'excusa et partit chercher du riz.
+
+- - -
+
+Quand le moine revint, il montra son bol plein de riz blanc fumant
+au maître et dit,
+"j'ai entendu dire qu'il est préférable de n'avoir qu'une seule fois
+l'expression /return/ dans une fonction. Êtes-vous d'accord ?"
+
+Kaimu prit le bol du moine et le plaça sur son bureau.
+
+"Tu parles d'un très vénérable principe de conception,
+connu sous le nom de /Single-Entry Single-Exit/," dit le maître.
+Il raconta ensuite au moine les jours glorieux de codage,
+depuis longtemps révolus, quand la mémoire était basse, le
+matériel lent, et les ressources devaient être gérées avec soin.
+
+"Car le C ne te fera aucune faveur," dit Kaimu,
+"et l'Assembleur ne t'en faisait même pas la moitié.
+Alors si ta fonction empruntait quelque chose,
+alors ta fonction devait le remettre en place.
+Et comment est-ce le plus pratique à faire ?
+En mettant tout le code de nettoyage en un seul endroit,
+au bas de ta fonction... une tradition qui perdure de nos jours."
+
+Kaimu parla ensuite de la naissance des objets, des destructeurs
+et des finaliseurs. Il parla de ramasse-miettes également ;
+de comptage de références et de marquage / nettoyage, et
+de compilateurs qui pouvaient dire quand un objet sortait du
+contexte d'exécution.
+Il parla de tampons qui grandissaient autant que nécessaire
+et disparaissaient quand on n'en n'avait plus besoin, de fichiers
+qui se fermaient tout seuls, de regroupement de connexions ou
+de /threads/ et de /try/ avec ressources, de quelles merveilles
+et quelles magies nous attendaient dans le bestiaire des langages
+modernes, où les moines pouvaient vouer leur énergie à des problèmes
+plus intéressants au lieu de s'embêter avec <tt>malloc</tt> et
+<tt>free</tt> et <tt>goto fail</tt>.
+
+"Très bien," finit par dire le moine fatigué.
+"Mais est-ce que vous êtes /d'accord/ avec ce principe de conception
+qu'est Single-Entry Single-Exit, ou est-ce que vous êtes /contre/ ?"
+
+Kaimu baissa les yeux et dit, "Pourquoi le riz dans ton bol est
+blanc, et pas marron ?"
