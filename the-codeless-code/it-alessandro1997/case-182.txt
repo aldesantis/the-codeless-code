@@ -1,0 +1,37 @@
+Number: 182
+Title: Trappola per topi
+Lang: it
+Translator: alessandro1997
+
+Un monaco anziano geloso della recente [[#174|promozione]] della monaca
+[[Zjing]] decide di spiare il suo lavoro. Aprendo un recente progetto, fu
+allucinato nel trovare il suo codice un pasticcio confusionario, pieno di bug
+ovvi. Avvisò il maestro Banzen.
+
+Il vecchio maestro ringraziò il monaco per la sua diligenza e lo pregò di
+rimanere un momento. Banzen chiamò quindi la giovane maestra [[Zjing]] e la mise
+in vivavoce.
+
+"Dimmi qualcosa di questo progetto 'topo' che hai creato" ordinò Banzen.
+
+"È di architettura estremamente scarsa" disse Zjing.
+
+Il monaco anziano sorrise soddisfatto.
+
+Banzen chiese: "Quanto scarsa?"
+
+"Questa mattina, i nostri strumenti di valutazione della qualità del software
+hanno trovato trecentootto diverse carenze" rispose Zjing.
+
+"Questo /è/ un problema" disse Banzen. "Se la memoria non mi inganna, dovrebbe
+averne trovate /trecentoventi/."
+
+"Corretto" disse Zjing. "A quanto pare qualcuno ha disattivato la regola che
+rileva le falle di risorse. I test automatizzati del progetto mi hanno
+notificato; sto investigando."
+
+Banzen le augurò buona caccia e si girò verso il monaco. "Se mai dovessi avere
+paura che ci siano dei topi nelle tue pareti, affidati alla saggezza popolare e
+compra quattro agili gatti. Ma affidati anceh a Zjing, e rilascia in mezzo ai
+gatti un solo topo ogni giorno -- per assicurarti che non abbiano dimenticato
+come si caccia."
