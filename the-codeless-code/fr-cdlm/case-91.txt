@@ -1,0 +1,41 @@
+Title: L'essence de l'intelligence
+Number: 91
+Lang: fr
+Translator: cdlm
+Illus.0.title: Soit c'est une centaine de lignes de XML tordu qu'elle a sous les yeux, soit un script Perl d'une ligne.
+
+La fierté du moine [[Wangohan]] ne le laissait pas aisément admettre la défaite.
+À cause de cela, le moine choisit de s'acharner avec un [[#88|framework web qui lui était peu familier]], malgré les tentatives de maître Suku de l'en décourager.
+
+« Dorénavant ta honte n'en sera que redoublée, » railla le moine [[Landhwa]].
+« Une fois pour la ruine qu'il t'en écherra, et de nouveau parce que maître Suku elle-même t'a conseillé de ne pas suivre cette voie. »
+
+Wangohan retourna donc à son bureau entièrement démoralisé.
+Là, il trouva sur son moniteur une petite note jaune, anonyme mais d'une écriture familière, lui conseillant de faire relire son code par la nonne [[Zjing]] avant de reprendre ses efforts.
+
+« Piètre conseil que ceci, » pensa Wangohan, « car j'ai besoin de courage, et Zjing ne peut se tenir debout sur un tabouret sans que sa peur du vide ne la terrasse. »
+Pourtant la note ne semblait pas être le fait de Landhwa, et comme Wangohan n'avait connaissance de personne d'autre lui souhaitant préjudice, il expliqua sa situation par email à la nonne télétravailleuse.
+
+« Je ne connais rien de ce framework, » lui répondit la nonne.
+« Mais envoie toujours ton code. »
+
+Wangohan fit comme il lui était demandé.
+Moins d'une minute après son téléphone sonna.
+
+« Ton framework n'est pas bon, » dit Zjing.
+« Ou alors, ton code n'est pas bon. »
+
+Cela emplit le moine d'embarras et de colère.
+« Comment peux-tu en être aussi certaine ? » demanda-t-il.
+
+« Je vais te dire, » dit la nonne.
+
+Zjing commença le récit de sa naissance dans une distante province, la seconde cadette de six obéissantes sœurs.
+Son père, dit-elle, était un humble fabriquant de bouliers, pauvre mais sagace et calculateur ;
+sa mère avait un étal où elle vendait des nombres aléatoires.
+Avec force détails elle décrit ses premiers jours à l'école, jusqu'à la texture douce des planchers en teck usés et le parfum âcre mais pas désagréable du chien errant noir qui, un soir, la suivit jusqu'à la maison sous la pluie.
+
+« Assez ! » cria Wangohan exaspéré, après qu'une heure se soit écoulée, car le récit de la nonne ne donnait signe de tirer à une quelconque fin.
+« Ce n'est pas une façon de répondre à une simple question ! »
+
+« Comment peux-tu en être aussi certain ? » demanda Zjing.

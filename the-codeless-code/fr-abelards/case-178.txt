@@ -1,0 +1,68 @@
+Number: 178
+Title: Unité
+Lang: fr
+Translator: abelards
+
+Une mauvaise grippe intestinale s'était répandue de par le Temple.
+Une bonne moitié du [[Spider Clan|Clan de l'Araignée]]
+en était tombée victime, et pour tenir les dates de livraison
+le moine [[Wangohan]] avait été forcé de faire équipe avec
+son rival de toujours, le moine [[Landhwa]].
+
+Pour éviter les conflits qui pourraient mener à
+[[#84|encore un autre développeur en incapacité de travailler]],
+leur [[#174|récemment nommée]] aspirante maître [[Zjing]]
+décida qu'ils devraient travailler sur des créneaux différents
+-- Landhwa le jour, Wangohan la nuit.
+
+"Enfin," dit Zjing en vidéoconférence, "nous ne pouvons pas
+risquer de retards causés par des débats sur le style de code.
+Mais je ne veux pas non plus avoir deux styles distincts dans
+une même application. Ainsi, comme Wangohan est nouveau sur le
+projet, il suivra le style de Landhwa aussi précisément que possible."
+
+Wangohan s'inclina pour montrer son assentiment et prit congé
+pour se reposer avant sont travail de nuit.
+
+- - -
+
+Quand la nuit tomba, Wangohan commença à se familiariser avec
+le code de Landhwa. Il fut heureux de voir qu'il n'y avait pas
+de valeurs magiques codées en dur, mais ce plaisir se transforma
+en horreur quand il découvrit que chacune des constantes de
+l'application -- quel que soit son but -- avait été déclarée
+dans un seul énorme fichier /Constantes.java/ sans commentaires :
+
+|  ...
+   public static final String HELP = "HELP";
+   public static final String HELP2 = "Besoin d'aide ?";
+   public static final String HELPU = "/aide";
+   public static final String HELPTA = "{{help}}";
+   public static final String HELPTB = "${help}";
+   public static final String HTTP = "HTTP";
+   public static final String HTTPU = "http://";
+   public static final String HTTPS = "https";
+   ...
+
+
+Wangohan allait commencer à factoriser ce fichier quand
+il se rappela du décret de Zjing. Ne voulant pas manquer
+de respect à l'autorité naissante de son amie de longue
+date, Wangohan leva les doigts du clavier et fusilla
+son moniteur du regard pendant un bon moment.
+
+- - -
+
+Au matin, Landhwa trouva un message de Wangohan qui l'attendait :
+
+    Tout a été développé suivant ton exemple.
+
+Landhwa alla chercher les derniers changements depuis le dépôt et
+s'aperçut que presque tous les fichiers de code source avaient
+disparu. Il n'en restait plus que deux.
+
+Landhwa reconnut le premier ; l'autre ne datait que de quelques
+heures auparavant :
+
+|   Constantes.java           48K
+    Code.java               8090K

@@ -1,0 +1,57 @@
+Number: 35
+Lang: de
+Translator: andrebogus
+Title: Spatz bricht aus
+
+Ein Bote informierte Äbtissin Jinyu, dass einige ihrer Mönche eine clevere Methode erdacht hatten, Informationen in der Cloud zu speichern. Die Mönche waren von den Möglichkeiten begeistert und wollten die Technologie weiterentwickeln. Die Äbtissin sandte folgende Nachricht zurück:
+
+    Ein Küken schlüpft, //
+    der Orden des Spatzen ersteht.
+
+Der neue Orden schuftete tags und nachts und schuf einen Prototypen. Alle kamen zur Demo, und bald ward der Orden des Spatzen im ganzen Tempel gefeiert. Der Ordensvorsteher bekam von Jinyu eine weitere Nachricht:
+
+    Der Spatz befreit sich aus finsterem Wald //
+    Alle Augen betrachten seinen Aufstieg
+
+Zu dieser Zeit warb ein prospektiver Kunde um Angebote für eine neue Soziale Netzwerk-Applikation. Der Ordensvorsteher lud den Kunden zum Tee, wobei er ausführte, dass die Software seines Ordens eine ideale Basis für das vorgeschlagene System sei. Der Kunde stimmte zu, und der Auftrag ging an den Orden des Spatzen. Die alte Jinyu sandte ihre Glückwünsche:
+
+    Allein über ferne Felder fliegt //
+    der Spatz und schnappt den Wurm //
+    derweil die Schar noch schlummert.
+
+Das System wurde geliefert, und wurde ein voller Erfolg.
+
+Die Monate vergingen. Viele kamen, die Applikation zu nutzen, auch Entwickler, die von ihrer neuen Art, die Cloud einzubinden inspiriert waren. Obgleich sie nicht die Software des Spatzen-Ordens besaßen, war der fundamentale Ansatz leicht zu entschlüsseln.
+
+Die Äbtissin erreichte die Kunde eines Treffens der Vogelfeder-Brüder, dessen Teilnehmer begonnen hatten, eine Standard-API für die neue Cloud-Schnittstelle zu entwickeln. Tags darauf fand der Ordensvorsteher folgende Warnung in der Post:
+
+    Gelbe Blätter taumeln im Wind. //
+    Der Schwarm ist in Aufruhr.
+
+Der Spatzen-Orden tat die neue API als over-engineered ab. Sie verwendeten und entwickelten ihren eigenen Ansatz mit jedem gewonnenen Vertrag weiter. Dennoch kamen weitere kryptische Meldungen an:
+
+    Hundert Spatzen picken dem Adler die Augen aus.
+
+    Jede Nachtigall mag ihr Lied am liebsten.
+
+    Ein einzelner Vogel kann kein Ei brüten.
+
+Die Software des Spatzen-Ordens wuchs um viele eindrucksvolle Features, war aber dadurch hoffnungslos inkompatibel zur neuen API-Spezifikation. Den Ordensvorsteher kümmerte dies nicht (Lasst die anderen Tempel ihre primitiven Nachbauten genießen!), doch er las seine morgendliche Post mit wachsendem Unbehagen. Jinyus Text wurde immer düsterer.
+
+    Der erhabene Falke speist keine Fliegen.
+
+Tempel, welche die neue API eingeführt hatten, entwickelten zusammen diverse Erweiterungen und Verbesserungen. Spin-Off-Firmen tauchten auf, und bald wirbelte ein Sturm von Hochglanzbroschüren, von Brieftauben in allen Ecken des Reiches abgeworfen. Sogar die Äbtissin erhielt ein paar, die sie mit folgender Notiz weiterleitete:
+
+    Ein kleines Küken zwitscherte mir: //
+    Es gibt Schnee.
+
+Befehlshaber im ganzen Reich forderten lautstark die neuere Technologie. Jeder um Aufträge werbende Orden versprach, dass seine Lösung Standard-konform sei—jeder bis auf einen.
+
+In einem abgeschiedenen Hof des Tempels des morgendlichen Bronze-Gong wurde ein Meeting zum Schicksal des Spatzen-Clans gehalten. Ihre Implementierung war nun eine Last geworden, da sie (anders als die Konkurrenz) inkompatibel zu den sehr populären kommerziellen Erweiterungn war. Kunden, die in den frühen Tagen die Spatzen-Technik eingeführt hatten, verlangten einen Migrationspfad zu den kommerziellen Lösungen—doch die Unterschiedlichen APIs machten dies unmäßig teuer. Vertrage wurden annulliert. Schlimmer war der Schaden für die Reputation des Tempels.
+
+Diesen Abend schrieb Jinyu eine letzte Nachricht an den Ordensvorsteher auf ein Stück Reispapier, dass sie um die Klinge eines Sepukku-Messers band:
+
+    Der Schwarm zog nach Süden. //
+    Der einsame Spatz hat sein weißes Feld. //
+    Nun kommt der Habicht.
+
