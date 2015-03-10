@@ -4,6 +4,9 @@ Title: Mousetrap
 Names: Zjing, Banzen
 Topics: QA, software analysis, defects, automation, testing, quality
 Geekiness: 2
+Illus.0.src: mouse.jpg
+Illus.0.par: 2
+Illus.0.title: They're really just nature's little cat toys.
 
 A senior monk who was jealous of the nun [[Zjing]]'s recent
 [[#174|promotion]] decided to spy on her work.  Opening a
