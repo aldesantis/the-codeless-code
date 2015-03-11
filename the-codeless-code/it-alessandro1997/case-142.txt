@@ -1,5 +1,5 @@
 Number: 142
-Title: The Blind Leading the Blind
+Title: Il cieco che conduce ciechi
 Lang: it
 Translator: alessandro1997
 
