@@ -1,5 +1,7 @@
 Number: 181
 Title: Futur Imparfait
+Lang: fr
+Translator: abelards
 Illus.0.title: Par une étrange coincidence, après avoir écrit ce texte j'ai vu que le dernier tweet de Leonard Nimoy avant sa mort était : "Une vie est comme un jardin. On peut avoir des moments parfaits, mais pas les préserver, sauf en mémoire."
 
 [[#180|La même nonne]] revint voir [[Shinpuru]] dans son jardin
