@@ -12,10 +12,10 @@ A senior monk who was jealous of the nun [[Zjing]]'s recent
 [[#174|promotion]] decided to spy on her work.  Opening a
 recent project, he was astonished to find her code
 a confusing mess, riddled with obvious bugs.
-He notified master Banzen.
+He notified master [[Banzen]].
 
 The old master thanked the monk for his diligence and bade
-him remain a moment.  Banzen then called young master [[Zjing]]
+him remain a moment.  Banzen then called young master Zjing
 and put her on speaker.
 
 "Say something about this 'mouse' project you created,"
