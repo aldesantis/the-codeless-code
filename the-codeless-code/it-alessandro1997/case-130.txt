@@ -1,4 +1,4 @@
-Title: The First Mantra
+Title: Il primo mantra
 Number: 130
 Lang: it
 Translator: alessandro1997
