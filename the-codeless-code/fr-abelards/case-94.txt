@@ -1,0 +1,49 @@
+Title: Conventions
+Number: 94
+Lang: fr
+Translator: abelards
+Illus.0.title: Commencez chaque matin avec un poisson mort sur la tête. Après cela, la journée ne peut que s'améliorer.
+
+Un certain moine avait été recruté par le  [[Spider Clan|Clan de l'Araignée]]
+afin d'y maintenir un gros système historique.
+En installant son environnement de développement, le moine
+fut horrifié de découvrir des conventions de code bien
+en dehors des standards utilisées tout au long de l'application.
+Les constantes n'étaient pas en majuscules, mais en notation
+hongroise et préfixées par un 'k'.
+Les variables d'instances étaient nommées avec un suffixe '_fld_'.
+La liste s'allongeait.
+
+Sachant qu'il est du devoir de chaque moine de suivre les
+meilleures pratiques et standards du moment -- et surpris
+que ses confrères aient choisi d'ignorer cela -- le moine
+coda chacun des petits changements qu'on lui avait assigné
+de la manière qu'il appliquait de longue date.
+N'importe qui pouvait dire d'un regard où il avait ajouté
+une nouvelle constante, ou quelques lignes au milieu d'une
+ancienne méthode.
+
+Après une semaine il fut approché par le père supérieur,
+qui lui dit : maître [[Suku]] est très impressionnée par
+ton travail, elle t'invite à dîner avec elle et les autres
+maîtres ce soir.
+
+Le moine arriva dans les appartements de Suku à l'heure dite
+et s'assit nerveusement à la longue table avec les personnes
+importantes qui s'y trouvaient.
+Devant chacun se trouvait une assiette de riz avec un
+cabillaud entier, cru, étalé dessus.
+Personne ne parlait ou mangeait ; tous étaient assis et
+inclinés dans une contemplation silencieuse.
+
+Quand le dernier invité s'assit, maître Suku fit un signe
+de la tête à l'assemblée. Sans un mot, chaque maître se tint
+debut sur son pied gauche, prit son poisson, et le plaça
+sur sa tête.
+
+Tous les yeux étaient maintenant tournés vers le moine,
+resté assis perplexe devant ce tableau.
+Réalisant son ignorance des manières du temple, il se mit
+rapidement debout sur son pied gauche, prit son poisson,
+et le plaça sur sa tête.
+À cet instant, le moine reçut l'illumination.
