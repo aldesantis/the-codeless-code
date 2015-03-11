@@ -2,10 +2,11 @@ Number: 182
 Title: Trampa para Ratones
 Lang: es
 Translator: galcalde
+Illus.0.title: Son sólo los juguetes de la naturaleza para los mininos.
 
-Un monje avanzado que estaba celoso del reciente [[#174|ascenso]] de la monja [[Zjing]] decidió espiar su trabajo. Abriendo un proyecto reciente, se sorprendió de hallar su código como un desastre confuso, plagado de bugs obvios. Él le notificó al maestro Banzen.
+Un monje avanzado que estaba celoso del reciente [[#174|ascenso]] de la monja [[Zjing]] decidió espiar su trabajo. Abriendo un proyecto reciente, se sorprendió de hallar su código como un desastre confuso, plagado de bugs obvios. Él le notificó al maestro [[Banzen]].
 
-El viejo maestro agradeció al monje por su diligencia y le pidió que se quedara un momento. Banzen luego llamó a la joven maestra [[Zjing]] y la puso en altavoz.
+El viejo maestro agradeció al monje por su diligencia y le pidió que se quedara un momento. Banzen luego llamó a la joven maestra Zjing y la puso en altavoz.
 
 "Di algo sobre este proyecto 'raton' que creaste," ordenó Banzen.
 
