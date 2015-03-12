@@ -1,0 +1,97 @@
+Number: 168
+Title: Horizontal, Vertical
+Lang: fr
+Translator: abelards
+Illus.0.title: Plus j'essaie d'être un développeur full-stack dans un contexte d'entreprise qui évolue rapidement, plus je suis terrifié par ma propre ignorance. Je préfèrerais faire cinq choses pleinement que dix choses à moitié.
+
+<i>Comme leurs apprentis respectifs s'étaient retirés pour la nuit, //
+les maîtres [[Suku]] et Yaqqana parlaient près du feu //
+dans le petit monastère de Yaqqana.</i>
+
+- - -
+
+/Yaqqana dit :/ Comparons les manières de nos temples, //
+afin de voir ce que nous pouvons apprendre l'un de l'autre.
+
+/Suku répondit :/ Nous sommes parfaitement d'accord là-dessus.
+
+//
+
+/Yaqqana dit :/ Nos systèmes sont bâtis de multipls composants, //
+chacun en couche comme la terre elle-même : //
+la persistence est notre fondation de pierre, //
+la couche métier est la terre fertile, //
+la présentation est la fleur odorante //
+qui enchante le monde et le ciel.
+
+/Suku répondit :/ Nous faisons de même.
+
+//
+
+/Yaqqana dit :/ Nos conceptions sont guidées par trois principes : //
+les composants ont aussi peu de liens que possible entre eux, //
+une cohésion forte au sein d'eux-mêmes, //
+et de l'encapsulation partout à un développeur croise un autre développeur.
+
+/Suku répondit :/ Nous pensons de même.
+
+//
+
+/Yaqqana dit :/ Les moyens que nous employons à ces fins sont évidents : //
+on assigne à chaque moine un composant à la fois, //
+et il code ses couches selon son bon vouloir.
+
+/Suku répondit :/ En cela, nos chemins se séparent -- car dans notre temple, //
+on assigne à chaque moine une couche à la fois, //
+mais devra coder sur de nombreux composants différents.
+
+//
+
+/Yaqqana dit :/ Les vertus de notre voie sont vite vues : //
+Chaque composant est cohérent en lui-même, //
+mais une boîte noire pour ses voisins de droite et de gauche.
+
+/Suku répondit :/ Les vertus du nôtre sont tout aussi visibles : //
+Chaque couche est cohérente sur tout le périmètre qu'elle couvre, //
+mais reste une boîte noire pour ses voisins d'au-dessus et en dessous.
+
+//
+
+/Yaqqana dit :/ Votre voie nous tuerait par immobilisme -- //
+car tant de choses doivent se parler avant que du code soit écrit.
+
+/Suku répondit :/ Votre voie nous tuerait par son chaos -- //
+car tant de choses doivent être codées avant que quiconque ne parle.
+
+//
+
+/Yaqqana dit :/ à la fondation de notre temple, //
+il s'est fondé sur le respect, //
+la confiance mutuelle, //
+la créativité, //
+et l'indépendance. //
+Nous faisons confiance même à nos moines les plus médiocres pour livrer du code de qualité, //
+et cela, je ne le changerais pour rien au monde.
+
+/Suku répondit :/ Et je ne vous en demanderai pas tant. //
+Votre temple n'est pas notre temple ; vos besoins ne sont pas nos besoins. //
+Ainsi je pense que nous parfaitement d'accord sur une autre chose, //
+qui est de nous quitter en bonne amitié.
+
+//
+
+<i>C'est ainsi que les deux maîtres firent une accolade amicale, //
+et se souhaitèrent l'un l'autre de faire de beaux rêves.</i>
+
+- - -
+
+<i>Mais après le départ de Yaqqana, quand Suku fut seule, //
+elle murmura au feu qui mourait :</i>
+
+À la fondation de votre temple, aviez-vous //
+des maçons pour tailler les pierres des fondations ? //
+des charpentiers pour scier les poutres ? //
+des plombiers pour installer les tuyaux ? //
+et des couvreurs pour poser les tuiles ? //
+Ou bien cent travailleurs médiocres ont choisi une pièce chacun, //
+et l'ont intégralement bâtie du sol au plafond ?
