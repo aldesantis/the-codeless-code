@@ -1,0 +1,85 @@
+Number: 156
+Title: La morsure du passé
+Lang: fr
+Translator: abelards
+Illus.0.title: Les serpents sont juste la manière dont la Nature joue avec les courbes planes paramétrées qui remplissent des surfaces.
+
+Maître Suku et ses novices étaient arrivés dans une ville
+où Suku avait vécu dans sa jeunesse. Le jour était chaud et
+les quatre voyageurs étaient asséchés.
+
+"Jeune moine", dit Suku à l'un de ses novices.
+"Va nous chercher de l'eau dans le puits en bas de cette colline,
+et je vous raconterai ma jeunesse dans ce lieu."
+Quand le moine ramena l'eau, et que les quatre avaient bu
+leur part, Suku dit :
+
+"Dans cette ville j'étais l'apprentie en C d'un bon maître.
+Notre entreprise suivait les standards qu'il avait étables,
+mais je me disais toujours qu'il nous permettait trop de
+créativité. Car la liberté est comme le /kama/{{1}} :
+avec de l'habileté, on pourra récolter un champ entier en un jour,
+mais une maladresse, et votre tête est tranchée.
+
+"Le temps passant, j'ai conçu un ensemble de patrons de
+conception élégants pour mon usage personnel. Ah, si je
+pouvais vous montrer le superbe code que j'écrivais !
+Chaque constante, type, fonction et variable avait un nom
+clair en accord avec son rôle.
+Les paramètres étaient rangés du plus complexe au plus simple,
+et les champs des structures étaient préfixés afin d'utiliser
+un ensemble de macros spéciales que j'avais inventées.
+Maintenir mon propre code était devenu un vrai bonheur."
+
+"J'ai raffiné ce système jusqu'à ce que je fus prête à le montrer
+fièrement à mon maître. Je le suppliai d'ajouter mes pratiques
+à son standard, afin que toute l'entreprise en bénéficie.
+
+"Mon maître déclara à tous qu'il s'agissait en effet de la
+méthodologie de conception et d'implémentation la plus
+complète qu'il ait jamais vue, et que si toute l'entreprise
+suivait mon exemple nous serions sûrs de produire du code
+d'une beauté, clarté et extensibilité exemplaires. 
+
+"Il me donna le nom de /Enro/{{2}} et me fit l'honneur de poser
+un nouveau chemin dans notre jardin de méditation.
+Il conçut le chemin pour qu'il ressemble à un grand serpent
+sinueux, sa queue se perdant dans l'herbe aux portes du
+jardin, et ses mâchoires se fermant autour d'un puits
+en bas de la propriété.
+Il me fallut un mois entier pour creuser le lit, niveler
+le fond avec du sable, poser les pavés, et les positionner
+comme il faut avec de la terre et du gravier.
+
+"Quand j'eus terminé mon travail, mon maître me dit que
+le chemin, comme mon code, était une oeuvre de sublime
+beauté, et décréta que son entreprise le conserverait
+pour toujours."
+
+Et sur ces mots, Suku se tut pour un long moment.
+
+Un de ses novices finit par lui demander :
+"Est-ce que le chemin y est toujours ?"
+
+"En ce moment, nous en sommes assis sur la queue," dit Suku.
+"Voyez, la porte de mon vieux maître est là ;
+sa maison est juste après. Et l'eau que nous avons bue
+venait du puits entre les mâchoires.
+Notez ce qui est sur le chemin, et ce qui n'y est pas."
+
+Les yeux des novices suivirent le chemin qui ondulait depuis
+le puits tandis qu'il contournait la colline en un grand arc
+plein de méandres.
+Ses pierres étaient verdies de mousse et encerclées de mauvaises herbes.
+Là où le chemin disparaissait à travers la porte, ils remarquèrent
+qu'il rejoignait une autre piste de terre battue, où
+l'herbe semblait avoir été piétinée si souvent que plus rien n'y
+poussait.
+La piste poussiéreuse allait droit de la porte au puits,
+marquée seulement de traces fraîches de sandales qui descendaient
+tout droit, puis remontaient pour se terminer aux pieds du jeune
+moine qui avait été chercher de l'eau.
+
+{{1}} un outil de ferme proche d'une faux, aussi utilisée comme arme.
+{{2}} /"Garden-path"/
+NdT : en anglais, littéralement le chemin du jardin, mais "down the garden path" signifie mener en bateau, mystifier, embobiner, balader... tous des synonymes qui s'adaptent parfaitement à l'oeuvre de Suku. Et encore, on ne parle pas de serpenter ou persifler.
