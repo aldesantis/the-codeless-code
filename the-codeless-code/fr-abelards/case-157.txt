@@ -1,0 +1,77 @@
+Number: 157
+Title: Audience Captivée
+Lang: fr
+Translator: abelards
+Illus.0.title: Qi voulait utiliser la même méthode sur maître Kaimu, mais il se trouve que Kaimu aime ce genre de choses.
+
+Maître[[Bawan]] se réveilla un jour pour se trouver
+ses poignets menottés l'un à l'autre, et ses chevilles
+entravées de même.
+Il lutta difficilement pour se mettre debout et commença
+à avancer vers sa porte en sautant pour chercher de l'aide,
+mais il ne fit que tomber sur son tapis, la tête la première
+avec un grand bruit sourd.
+En regardant en arrière il se rendit compte que ses entraves
+étaient elle-mêmes enchaînées à son bois de lit.
+
+Le maître ne fit que rester au sol et soupira ;
+car il avait vécu au Temple depuis de nombreuses années,
+et tout aussi singuliers soient-ils, de tels réveils
+ne le surprenaient plus.
+
+C'est alors qu'il remarqua qu'un grand tonneau de bois
+avait été placé au pied de son lit. Après s'être tortillé
+jusqu'au tonneau, il le trouva rempli jusqu'à ras bord
+de milliers et de milliers et clés.
+
+Bawan n'en avait pas essayé plus d'une centaine quand le
+vieux scribe [[Qi]] entra sans frapper et s'assit à côté du maître.
+
+"Cela semble fastidieux," observa le scribe.
+
+"Ça l'était au début," lui accorda Bawan.
+"Puis c'est devenu irritant, puis frustrant.
+Mais comme je me suis réveillé avec la vessie pleine,
+c'est désormais devenu /urgent/."
+
+"Et bien, je ne vais pas vous distraire," dit le scribe,
+faisant apparaître une épaisse liasse de papier.
+"J'étais seulement passé vous voir pour discuter du
+document de conception que vous m'aviez demandé de relire.
+Je dois vous féliciter pour le niveau de détail :
+chaque besoin est ici, ainsi que chaque table de la base
+de données, chaque colonne et contrainte ;
+chaque design d'écran, cas d'utilisation, de test et d'erreur ;
+chaque package, classe et méthode ;
+les services fournis et les bibliothèques de tierces parties
+utilisées, jusqu'aux paramètres de configuration et aux
+instructions de déploiement.
+Rien que votre table des matières fait trois pages."
+
+"J'espère être exhaustif," dit le maître, jetant une clé
+de plus sur le côté.
+
+"C'est curieux," dit le scribe, en faisant défiler les pages.
+"Chaque paragraphe doit sans aucun doute être utile à
+quelqu'un, mais bien que je me sois immergé dans le texte
+pendant de nombreuses heures je n'ai pas pu trouver la
+vision d'ensemble simple dont j'aurais eu besoin.
+J'ai parcouru les pages d'avant en arrière, ne voulant pas
+abandonner, car j'étais certain que la faute était mienne.
+Je me suis senti... comment pourrait-on dire..."
+
+"Piégé ?" suggéra le maître, tirant une autre clé du tonneau.
+
+"Je n'aurais pas dit mieux," dit Qi.
+
+"Je vais vous préparer un document de conception de haut niveau
+convenable : pas plus de quelques pages, et avec des diagrammes
+simples," dit Bawan, se débattant avec ses chaînes dans une
+tentative de croiser les jambes tandis qu'il essayait sans succès
+d'insérer la clé dans chacune de ses serrures.
+
+"Au moment qu'il vous plaira," dit le scribe en s'inclinant.
+"Il semblerait que vous soyez occupé à des tâches plus pressantes.
+Et le temps, comme toujours, est notre ennemi."
+
+Sur ces mots, le scribe partit.
