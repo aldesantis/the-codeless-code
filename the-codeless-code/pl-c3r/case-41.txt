@@ -1,0 +1,18 @@
+Number: 41
+Title: Odpadki
+Lang: pl
+Translator: c3r
+
+Mistrzyni Javy, [[Suku|Suku]] badała źródła pewnego oprogramowania w odległej świątyni. Połacie tekstu na jej monitorze błyszczały nie na czarno lecz na zielono, co wskazywało na to, że ryzy przeglądanego kodu zostały zakomentowane.
+
+"Ciekawe", powiedziała Suku. "Otworzyłam solidny zegar a w środku odkryłam skórki pomarańczowe i rybie ości."
+
+Główny mnich świątyni wyjaśnił, że nieaktywny kod nie był już potrzebny, lecz rozkazał swojemu klanowi zostawić go. Gdyby pewnego dnia okazało się konieczne przywrócić jego logikę, wtedy ktoś mógłby zwyczajnie odkomentować potrzebne linijki kodu, zamiast marnotrawić cenny czas, aby pisać go znowu od podstaw.
+
+"Zrozumiałe", skinęła Suku.
+
+Następnego dnia mnisi znów zjawili się na inspekcji u Javowej mistrzyni. Z niepokojem poinformowali ją o zniknięciu głównego mnicha. Suku wskazała w górę na krokiew, z której poszukiwany mnich zwisał na mocnej linie związanej wokół szyi. Nieprzyjemny zapach niósł się w dół.
+
+"Usługi waszego głównego mnicha nie są już konieczne", powiedziała Suku. "Ale niech jego zwłoki gniją ponad wami od dnia dzisiejszego. Mimo wszystko, jego metody mogą jeszcze pewnego dnia się przydać, a trenować kolejnego mnicha od podstaw byłoby marnostrastwem."
+
+W swoim sprawozdaniu końcowym, Suku zauważyła natychmiastową zmianę w praktykach kodowania klanu, oraz pochwaliła dobry przykład postawiony przez zmarłego mnicha. "Powinniśmy rozważyć jego przywrócenie", pisała.
