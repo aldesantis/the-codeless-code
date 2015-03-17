@@ -7,18 +7,17 @@ Illus.0.title: Cinq niveaux sous la pierre, faite de lattes renforcées de chên
 Un matin le Temple se trouva inondé d'appels d'utilisateurs paniqués,
 qui disaient tous avoir reçu des emails erronés d'un certain système de facturation.
 Ces emails prétendaient que des paiements avaient un an de retard,
-et que de manière regrettable ils en perdraient la tête.
+et que bien qu'on en soit fort désolé, le châtiment pour cela était d'avoir la tête tranchée.
 
 Trois abbés se rassemblèrent dans la cour, débattant de la manière la plus appropriée
 de localiser la source du problème avant que toute la base des clients du Temple ne prenne la fuite
 dans les montages pour échapper à la hache du bourreau.
 
-"Il n'y a nul besoin", dit la nonne [[Hwídah]] depuis le côté de la cour.
-"Cette honte est mienne. Dans notre dernière maintenance, j'ai
-par mégarde modifié une expression booléenne dans le module de
-comptabilité, causant un retour de la valeur 'faux' alors qu'elle
-devrait être 'vrai'. J'ai maintenant corrigé le défaut, et les
-emails fallacieux ont cessé."
+"Il n'en est nul besoin", dit la nonne [[Hwídah]] depuis le côté de la cour.
+"Cette honte est mienne. Dans notre dernière mise à jour de maintenance,
+j'ai par mégarde modifié une expression booléenne dans le module de comptabilité,
+causant un retour de la valeur 'faux' alors qu'elle devrait être 'vrai'.
+J'ai maintenant corrigé le défaut, et les emails fallacieux ont cessé."
 
 Hwídah fut bannie pour deux mois dans les donjons sous les plus profondes
 archives du Temple où, seule, elle inspecterait le code d'antiques scripts COBOL
@@ -26,7 +25,7 @@ imprimé sur des feuilles moisissantes, en quête de possibles défauts.
 
 Après une semaine, la nonne [[Yíwen]] vint renouveler la ration de riz froid de la prisionnière.
 
-"Excuse ma surprise, Hwídah", demanda Yíwen en poussant le plateau sous la porte de la cellule,
+"Pardonne ma surprise, Hwídah", demanda Yíwen en poussant le plateau sous la porte de la cellule,
 mais pourquoi as-tu admis ta faute après avoir corrigé l'erreur ? Si tu étais restée silencieuse,
 la cause n'aurait pas été trouvée pendnat de nombreux jours, au terme desquels le Temple aurait
 tourné son attention sur de plus urgentes tâches. Ton implication aurait pu rester ignorée à jamais."
@@ -39,7 +38,7 @@ quelle image ce mot évoque-t-il dans ton esprit ?"
 Hwídah repoussa le plateau vide sous la porte.
 "Ce matin-là, quand l'horreur de mon erreur me fut révélée,
 j'ai également compris ceci : nous sommes tous une partie du système.
-Ce n'est qu'une extension de nos désirs, nos efforts et -- hélas -- nos lacunes.
+Il n'est qu'une extension de nos désirs, nos efforts et -- hélas -- nos lacunes.
 Si je laissais mes semblables gaspiller de précieuses heures en cherchant
 un défaut que j'aurais corrigé en secret, je n'aurais fait que
 causer une seconde fois du tort à notre système."
