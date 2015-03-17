@@ -1,0 +1,33 @@
+Number: 179
+Title: Suivez le chemin
+Lang: fr
+Translator: abelards
+Illus.0.title:  C'est assez curieux, mais la seule chose qui vint à l'esprit du bol de riz durant sa chute fut "Oh non, pas encore..."
+
+Masître [[Bawan]] aidait le
+[[Elephant's Footprint Clan|Clan des Empreintes de l'Éléphant]]
+à créer un service de base de données pour les journaux d'audit.
+
+"Nous allons avoir besoin d'au moins trois semaines pour
+déterminer lequel des moteurs de bases de données NoSQL serait
+le meilleur pour cette tâche," dit Bawan à l'abbé de ce clan.
+
+"Inutile," dit l'abbé. "Le [[Temple of the Burning Pool|Temple du Feu au Lac]]
+a récemment choisi un moteur de base de données NoSQL pour ses besoins.
+Suivons leur chemin. Nous gagnerons bien du temps."
+
+Le maître lança son bol avec force vers la tête de l'abbé.
+L'abbé se baissa, et le bol suivit sa course par la fenêtre
+de la tour sans faire de mal à personne.
+
+"Voyez ce que vous coûte votre mauvais caractère légendaire,
+petit maître !" rit l'abbé. "Maintenant vous avez perdu
+votre bol, alors qu'il est bientôt l'heure de faire la
+queue pour le souper !"
+
+D'un mouvement rapide, Bawan lança l'abbé par la fenêtre.
+Puis il se tourna vers les deux novices abasourdis qui
+se trouvaient toujours dans la pièce.
+
+"L'abbé suit le même chemin que mon bol," expliqua le maître.
+"Venez, il nous aura peut-être gardé une place dans la file."
