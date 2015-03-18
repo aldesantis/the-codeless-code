@@ -1,0 +1,102 @@
+Number: 161
+Title: Triangle
+Lang: fr
+Translator: abelards
+Illus.0.title: Les langages qui vous obligent à croire des absurdités vous obligeront à implémenter des atrocités.
+
+Un nouveau moine du [[Spider Clan|Clan de l'Araignée]]
+s'était perdu dans le Temple la nuit. Après plusieurs tours et détours,
+il eut l'infortune de passer par une lourde porte qui se ferma derrière
+lui avec un horrible /clac/.
+
+Le moine se trouva au milieu d'une cage d'escalier qui montait
+en spirale dans les murs intérieurs d'une tour creuse.
+Il jeta un regard timide par dessus la rembarde.
+Loin en bas se trouvait une cour enveloppée de ténèbres, 
+loin en haut se trouvait un ciel sombre identique en tout points
+à la cour du dessous. Le moine se mit à monter les marches,
+espérant trouver soit une issue, soit un point de vue qui
+lui en dirait davantage.
+
+Chaque porte qu'il dépassait sur sa droite était fermée.
+Le moine fatigué en était presque résolu à redescendre quand
+il vit un rai de lumière s'échapper des fissures dans
+une porte plus avant.
+
+- - -
+
+Sur la porte était écrit "123".
+Le moine hésita, puis frappa.
+Il y eut un bruit de pas, puis la porte s'ouvrit sur une
+vieille femme portant une lanterne.
+
+"Oui ? Oui ? Oui ?" dit la nonne impatiente.
+
+"Veuillez m'excuser de vous déranger à cette heure tardive,"
+dit le moine, dont la tête se mit à tourner après l'ascension.
+"Mais... où suis-je ?"
+
+"À l'[[Abbey of Hidden Absurdities|Abbaye des Absurdités Cachées]],"
+dit la nonne, "dans la tour du PHP."
+
+"Qu'a donc PHP de si absurde ?" demanda le moine.
+
+La vieille nonne rit.
+"J'en déduis que tu n'as pas beaucoup travaillé dans ce langage.
+Va poser ta question à ma vieille soeur plus haut ; elle t'aidera."
+Puis la nonne ferma violemment sa porte, la verrouillant d'un
+terrible /clac/.
+
+Le moine soupira et continua son ascension, tournant, tournant,
+et finit par voir de la lumière derrière une autre porte.
+
+- - -
+
+Sur cette porte était écrit "456A".
+Le moine frappa, et une autre vieille femme vint lui ouvrir.
+
+"Veuillez m'excuser de vous déranger à cette heure tardive,"
+dit le moine, "mais qu'a donc PHP de si absurde ?"
+
+La vieille nonne gloussa.
+"J'en déduis que tu n'as pas beaucoup manipulé de chaînes
+de caractères dans ce langage. Va poser ta question à ma
+vieille soeur plus haut ; elle t'aidera."
+Puis la nonne ferma violemment sa porte, la verrouillant d'un
+affreux /clac/.
+
+Le moine grommela et continua à grimper les escaliers,
+tournant, tournant, et finit par voir de la lumière
+derrière une autre porte.
+
+- - -
+
+Sur cette porte était écrit "78".
+Le moine frappa, et une autre vieille femme vint lui ouvrir.
+
+"Veuillez m'excuser de vous déranger à cette heure tardive,"
+dit le moine, "mais qu'a donc PHP de si absurde ?"
+
+La vieille nonne ricana.
+"J'en déduis que tu n'as pas beaucoup utilisé les opérateurs
+pour comparer des nombres dans ce langage.
+Va poser ta question à ma vieille soeur plus haut ; elle t'aidera."
+Puis la nonne ferma violemment sa porte, la verrouillant d'un
+abominable /clac/.
+
+Le moine grogna et continua à grimper les escaliers,
+tournant, tournant, et finit par voir de la lumière
+derrière une autre porte.
+
+- - -
+
+Sur la porte était écrit "123".
+Le moine hésita, puis frappa.
+Il y eut un bruit de pas, puis la porte s'ouvrit sur une
+vieille femme portant une lanterne.
+
+"Oui ? Oui ? Oui ?" dit la nonne impatiente.
+
+"Veuillez m'excuser de vous déranger à cette heure tardive,"
+dit le moine, dont la tête se mit à tourner.
+"Mais... où suis-je ?"
