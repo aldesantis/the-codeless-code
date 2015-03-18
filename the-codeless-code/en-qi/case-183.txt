@@ -4,6 +4,8 @@ Title: Choosing Your Battles
 Names: Zjing, Wangohan, Spider Clan, Bawan, Kaimu, Banzen, Satou
 Topics: learning, mistakes, frameworks, mentoring, trust, javascript, user interfaces
 Geekiness: 1
+Illus.0.src: sword.jpg
+Illus.0.title: 
 
 Of all who were pleased with [[Zjing]]'s promotion to Master,
 none was more glad than the monk [[Wangohan]] of the
