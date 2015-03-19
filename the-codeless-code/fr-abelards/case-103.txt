@@ -3,17 +3,15 @@ Title: La boîte de laque noire
 Lang: fr
 Translator: abelards
 
-Le maître [[Bawan]] posait ce dilemme aux développeurs dont il avait la charge :
+Maître [[Bawan]] posait ce dilemme aux développeurs dont il avait la charge :
 
 "Lorsque nous enquêtons sur un comportement étonnant en production,
- notre arme la plus puissante a toujour été les messages de debug:
+ notre arme la plus puissante a toujour été les messages de debug :
  plus on en a, plus ils sont détaillés, mieux nous nous en sortons.
-
 Mais quand on en utilise trop, le formatage de ces messages devient
  de plus en plus coûteux -- /inutilement/ coûteux, car nous retirons
  ces messages de nos fichiers journalisés quand nous ne sommes pas
  en cours d'enquête sur un de ces problèmes.
-
 Quel chemin est le meilleur ? Sûr mais lent, ou téméraire mais rapide ?"
 
 <i>"Wú,"</i> dit une nonne. "Tout peut être ajouté, pour un coût minime.
@@ -32,14 +30,14 @@ noire bien scellée. Lorsque le temps sera venu, elle vous servira."
 Dans la boîte rouge, la nonne découvrit un bol plein de succulents fruits :
 kiwi, lichi, poires blanches, le tout sur un lit de baies de Goji.
 Elle en apprécia le goût délicieux le soir même.
-Par la suite, elle plaça les deux boîtes tout en haut d'une étagère,
+Puis elle plaça les deux boîtes tout en haut d'une étagère,
 et finit par les oublier.
 
 - - -
 
-Deux ans plus tard, après que le système ait reçu plusieurs
+Deux ans plus tard, après que le système a reçu plusieurs
 améliorations, un problème de production bénin apparut --
-le premier dans de nombreuses livraisons.
+le premier depuis de nombreuses livraisons.
 La nonne demanda à ce que le système soit redémarré en mode debug.
 
 Soudainement, sur l'écran de chaque utilisateur, apparurent des
