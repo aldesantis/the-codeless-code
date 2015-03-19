@@ -1,0 +1,49 @@
+Number: 99
+Title: La Reine des Erreurs
+Lang: fr
+Translator: abelards
+Illus.0.title: Veuillez nous excuser pour le désagrément.
+
+Déçu par les lacunes de tout autre forme de communication,
+le moine [[Wangohan]] faisait fréquemment la longue piste
+descendant à flanc de montagne pour aller à la hutte de
+[[Zjing]] et discuter de ses [[#91|choix de conception.]]
+Quand son application web fut suffisamment avancée pour
+pouvoir être ouverte dans un navigateur, Wangohan
+fit un dernier voyage pour montrer les fruits de son travail.
+
+Zjing laissa le moine parcourir les nombreux écrans qu'il
+avait implémentés, buvant son thé poliment et en silence.
+Quand l'opportunité se présenta, elle demanda le clavier
+et se mit à entrer des caractères au hasard dans un des
+champs du formulaire où l'on attendait une date.
+L'application accepta ces caractères sans broncher.
+
+Zjing envoya le formulaire.
+La date invalide fut ignorée mais on ne vit aucun message de validation.
+
+Puis Zjing modifia les paramètres dans l'URL pour qu'elle
+affiche un enregistrement d'un autre utilisateur, qui aurait
+dû lui être interdit. Les informations s'affichèrent.
+
+Enfin Zjing retira purement et simplement l'identifiant de
+l'enregistrement dans l'URL. Elle ne vit qu'un écran blanc
+qui ne contenait que les mots <i>500 Server Error</i>.
+
+Zjing se tourna vers le moine embarrassé en disant :
+"Ces bugs sont tous issus d'une seule Reine des Erreurs,
+qui a sans doute encore de nombreux rejetons en son nid.
+Si tu veux comprendre, reviens demain à l'aube par
+la Route de la Lune Mourante."
+
+Wangohan fit ce qu'on lui avait dit.
+Mais il avait à peine quitté les terres du Temple quand
+la route s'arrêta brutalement à un précipice
+dont on remplaçait [[#89|le pont brûlé]].
+Comme le moine s'attardait au bord, en se demandant
+s'il devait ou non prendre un autre chemin,
+les travailleurs arrivèrent pour commencer leur journée de travail.
+Leur première tâche a été de dérouler un grand filet de sécurité
+sous le squelette du nouveau pont.
+
+Le moine revint au temple, illuminé.
