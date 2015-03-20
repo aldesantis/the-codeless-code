@@ -1,0 +1,60 @@
+Number: 183
+Lang: fr
+Translator: abelards
+Title: Choisissez vos combats
+
+De tous ceux qui avaient apprécié la promomotion de [[Zjing]]
+au rang de Maître, nul n'était plus heureux que le moine
+[[Wangohan]] du [[Spider Clan|Clan de l'Araignée]].
+Car Wangohan avait de nombreuses idées sur la manière
+d'améliorer les logiciels du Temple, et était impatient
+de les partager à une oreille compréhensive.
+
+"Wangohan a découvert un nouveau framework d'interface
+utilisateur prometteur," dit Zjing à sa téléconférence
+hebdomadaire avec les autres maîtres, ses aînés.
+"Il souhaite l'utiliser dans son prochain projet."
+
+/"Encore/ un framework ?" dit [[Bawan]].
+"Nous avons déjà Angular, Backbone, Bootstrap, Dojo,
+Ember, Jumpstart, <nobr>Knockout--"</nobr>
+
+"Il croit que celui-ci a des avantages que les autres
+n'ont pas," dit Zjing.
+
+"Il croit ?" demanda [[Kaimu]], levant un sourcil.
+"Et que croit Zjing ?"
+
+Il y eut un silence inconfortable.
+
+"Jeune maître," la fusilla [[Banzen]] du regard
+(c'est alors que Zjing sut qu'elle était sur un terrain glissant,
+comme lorsque son père l'appelait /jeune femme/), "si vous vous
+battez pour Wangohan, est-ce parce que vous croyez à sa cause,
+parce que son amitié vous est précieuse, ou parce que vous
+avez peur des poisons sur son étagère à épices ?"
+
+Zjing inspira profondément.
+/"Wú,"/ dit-elle, trouvant soudainement l'inspiration.
+"Si nous ne cédons pas aux requêtes les plus raisonnables
+de nos développeurs expérimentés, nous sommes sûrs de les voir
+se décourager et cesser leurs tentatives pour améliorer notre
+Temple, et ce sera une grande perte pour tous."
+
+Les deux premiers maîtres regardèrent Banzen, qui considéra cela.
+"Très bien," finit-il par dire.
+"Laissons le moine s'amuser avec son nouveau jouet."
+
+La novice [[Satou]], apprentie de Banzen, l'approcha à la
+fin de la réunion. "Bien souvent vous m'avez avertie contre
+les dangers de l'inconnu. Combien d'années dois-je encore
+attendre afin que vous me fassiez autant confiance qu'à
+Wangohan ?"
+
+/"Wú,"/ dit Banzen. "La seule chose que je crois, c'est que
+la décision de Zjing est médiocre, et qu'elle comprendra
+bientôt pourquoi. 
+Mais si nous ne cédons pas aux requêtes les plus raisonnables
+de nos jeunes maîtres, nous sommes sûrs de les voir
+se décourager et cesser leurs tentatives pour améliorer notre
+Temple, et ce sera une grande perte pour tous."

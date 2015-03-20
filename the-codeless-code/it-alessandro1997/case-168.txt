@@ -1,5 +1,5 @@
 Number: 168
-Title: Horizonal, Vertical
+Title: Orizzontale, verticale
 Lang: it
 Translator: alessandro1997
 Illus.0.title: Più provo a essere uno sviluppatore a tutto tondo in un ambiente aziendale in rapida evoluzione, più sono terrorizzato dalla mia stessa ignoranza. Preferisco fare cinque cose bene che dieci cose male.

@@ -1,0 +1,20 @@
+Number: 41
+Lang: de
+Translator: andrebogus
+Title: Abfall
+
+Java-Meisterin [[Suku|Suku]] untersuchte die Software eines fernen Tempels. Auf ihrem Bildschirm glühten große Passagen Code nicht schwarz, sondern grün, was auskommentierten Code anzeigte.
+
+“Seltsam,” sagte Suku. “Ich öffne eine teure Uhr, und entdecke Orangenschalen und Fishgräten.”
+
+Der Ordensvorsteher erklärte, dass der inaktive Code nicht länger benötigt wurde, er aber seinem Orden befohlen habe, ihn dort zu lassen: Denn sollte einmal die alte Logik wieder erwünscht sein, könnte man den Code einfach wieder einkommentieren, statt Zeit zu verschwenden, ihn von Grund auf neu zu schreiben.
+
+“Verständlich,” nickte Suku.
+
+Tags darauf trafen sich die Mönche erneut zur Inspektion durch die Java-Meisterin. Besorgt bemerkten sie, dass der Vorsteher nicht zu finden war. Suku deutete an die Deckensparren, von denen der vermißte Mönch an einem Seil erhängt hing. Ein fauliger Geruch drang herab.
+
+“Die Dienste Eures Vorstehers werden nicht länger benötigt,” sagte Suku. “Doch lasst seine Überreste von nun an dort hängen. Immerhin könnten seine Methoden einmal wieder erwünscht sein, und einen neuen Mönch von Grund auf zu lehren, wäre Zeitverschwendung.”
+
+In ihrem finalen Bericht bemerkte Suku eine zügige Änderung in den Praktiken des Ordens, was dem Exempel des verblichenen Vorsteher zur Ehre gereiche. Man sollte überlegen ihn wieder einzusetzen, schrieb sie.
+
+

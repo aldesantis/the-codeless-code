@@ -1,101 +1,84 @@
-Number: 177
-Title: La remise à outils
+Number: 171
+Title: Conditions initiales
 Lang: fr
 Translator: abelards
+Illus.0.title: Ça ne choque personne d'autre que l'icône de recherche est une loupe ? Quand avez-vous cherché *quoi que ce soit* avec une loupe pour la dernière fois ? Pour moi, l'icône le plus représentatif de la recherche, serait une petite image de moi-même qui crie "QUELQU'UN A VU LES CLÉS DE MA VOITURE ?!"
 
-Le moine [[Djishin]] marchait dans la forêt, quand il
-tomba sur un homme coupant du bois au bord du chemin.
+La nonne [[Hwídah]] avait été convoquée dans les bureaux
+de maître [[Banzen]]. Elle trouva le maître qui attendait
+en présence de son apprenti [[Djishin]].
 
-"Que fais-tu, mon ami ?" demanda Djishin.
+Banzen dit, "Je te souhaite le bon jour, petite nonne !
+Puisque tu prends un tel plaisir à apprendre les vérités
+cachées et voir les coupables corrigés, j'ai une tâche
+qui devrait t'amuser."
 
-"Une petite remise pour mes outils dont j'ai grandement besoin,"
-dit l'homme.
-"Avec un crochet pour mon râteau, un autre pour ma bêche,
-et de la place au sol pour mon seau en étain."
+"Je sers le bon plaisir du Temple, pas le mien,"
+répondit Hwídah en s'inclinant poliment.
+Mais son ventre était déjà serré ; sans aucun doute,
+il s'agissait là du commencement de sa punition pour
+[[#152|avoir pénétré dans des parties du Temple qui lui étaient interdites.]]
 
-Djishin souhaita à l'homme de bien se porter, et continua son chemin.
+"Cela fait un moment qu'une erreur tourmente le
+[[Elephant's Footprint Clan|Clan de l'Empreinte de l'Éléphant]].
+Elle arrive peu fréquemment mais avec une insistance répétée,"
+dit le maître en donnant à la nonne un listing de code imprimé.
+"Nos fichiers journaux de la base de données montrent cette
+requête malformée, mais une recherche minutieuse dans toute
+la base de code ne nous permet pas de retrouver une telle requête.
+Trouve la source. Tu as une semaine."
 
-- - -
+Hwídah étudia le papier. "Quelques minutes devraient suffire.
+Puis-je emprunter le terminal du maître ?"
 
-Le lendemain, Djishin tomba sur le même homme coupant du bois.
-Il y avait de nombreux poteaux plantés dans le sol.
+Banzen sourcilla dans l'instant.
+Il échanga des regards avec son apprenti,
+puis fit glisser son ordinateur portable vers la nonne.
 
-"Comment va ton travail aujourd'hui, mon ami ?" demanda Djishin.
-"Cette remise est plus grande que j'imaginais."
+Hwídah consulta le listing, tapa quelque chose, scruta l'écran,
+consulta de nouveau le listing, et répéta l'opération quelques fois.
+"Voilà," dit-elle finalement, en tournant l'écran.
+Le curseur était en effet sur un fragment SQL dans lequel
+il manquait une parenthèse fermante.
+"Laissez-moi revenir à mon poste de travail, et je pourrai retracer
+les appels de ce code à qui consomme la requête, et reproduire
+l'erreur que vous voyez dans les fichiers journaux.
+Ensuite nous pourrons réparer le défaut en toute confiance."
 
-L'homme dit, "la nuit dernière je me suis demandé : et si j'achète
-plus de râteaux ou de seaux, ou que je veux stocker des pots
-d'argile ? Alors maintenant c'est un vrai cabanon de jardin.
-Regarde, ici je mettrai une fenêtre, avec une étagère pour
-y faire croître mes semis."
-
-Djishin souhaita à l'homme de bien se porter, et continua son chemin.
-
-- - -
-
-Le lendemain, Djishin tomba sur le même homme coupant du bois.
-Il y avait de nouveaux poteaux dans le sol, des solives formaient
-le sol et des poutres préfiguraient le plafond.
-
-"Comment va ton travail aujourd'hui, mon ami ?" demanda Djishin.
-"Ce cabanon est plus grande que j'imaginais."
-
-L'homme dit, "la nuit dernière j'ai pensé : si je faisais
-un deuxième étage, cela serait une belle cabane où je pourrais
-me reposer après une dure journée de jardinage.
-Regarde, ici je vais mettre une échelle, qui me permettra de
-grimper jusqu'à une mezzanine avec un humble couchage."
-
-Djishin souhaita à l'homme de bien se porter, et continua son chemin.
-
-- - -
-
-Le lendemain, Djishin tomba sur le même homme coupant du bois.
-Il y avait encore bien davantage de poteaux dans le sol,
-les poutres du toit, mais le plancher avait été retiré.
-
-"Comment va ton travail aujourd'hui, mon ami ?" demanda Djishin.
-"Cette cabane est plus grande que j'imaginais."
-
-L'homme dit, "la nuit dernière j'ai décidé : des escaliers
-sont bien mieux qu'une échelle, car en dessous on peut
-garder des vêtements et des chaussures. Auquel cas je peux
-tout aussi bien construire une maison comme il faut, avec cuisine
-et salle de bains, et la donner à mon fils quand il aura grandi.
-Regarde, ici je mettrai un beau plancher de pierre, quand j'aurai
-l'argent pour payer la carrière."
-
-Djishin souhaita à l'homme de bien se porter, et continua son chemin.
+"Va," dit Banzen à Hwídah.
+À son apprenti, il dit : "Observe."
 
 - - -
 
-Le lendemain, Djishin tomba sur le même homme coupant du bois.
-D'autres poteaux avaient encore été plantés, jointes par des
-passerelles branlantes. Des poutres du plafond pendaient des cordes
-et poulies.
+Tandis qu'ils revenaient vers la table de Hwídah,
+Djishin murmura "La vitesse de votre diagnostic fut surprenante."
 
-"Comment va ton travail aujourd'hui, mon ami ?" demanda Djishin.
-"Cette maison est plus grande que j'imaginais."
+"C'est très simple," dit Hwídah, donnant le listing au moine.
+"La requête malformée commence par <tt>WHERE 1=1</tt>.
+Cela sent le SQL généré dynamiquement à plein nez -- car
+bien que la condition initiale soit triviale, sa valeur
+<tt>TRUE</tt> permet à un développeur d'ajouter toutes les
+/vraies/ conditions qu'il désires en ajoutant de simples clauses
+<tt>AND</tt>.
+J'ai moi-même utilisé cette technique en implémentant des
+formulaires de recherche avec des champs facultatifs.
+Une fois que j'ai pu reconnaître cela, je n'ai fait que
+chercher dans le code des clauses <tt>AND</tt> isolées."
 
-L'homme dit, "la nuit dernière j'ai réalisé que mon fils voudrait
-peut-être un jour prendre femme et fonder une famille. Alors je
-me prépare pour une propriété de toute taille, en fonction du
-nombre d'enfants qu'il envisage.
-Regarde, là ce sont les rampes pour amener les dalles du sol,
-et l'échafaudage sur lequel il pourra grimper et mettre les tuiles
-du toit."
+"Vous me méprenez," dit Djishin.
+"Je n'ai pas été surpris que vous soyez /capable/
+de le résoudre en un instant ; j'ai été surpris que vous
+l'ayez fait alors qu'on venait de vous offrir une semaine.
+Cela sent l'ambition à plein nez -- car bien que le problème
+initial soit trivial, votre immédiate sincérité permettra
+à mon maître de vous faire confiance sur un grand nombre
+de /vrais/ problèmes."
 
-Djishin souhaita à l'homme de bien se porter, et continua son chemin.
+Hwídah soupira. "C'est aussi bien. Si j'avais prétendu
+que ce problème était suffisamment difficile pour mériter
+des jours d'effort, Banzen m'aurait crue soit menteuse,
+soit incompétente. Aucune de ces images ne me convient.
+C'est cela qu'il voulait vraiment découvrir."
 
-- - -
-
-Le lendemain, Djishin était à son terminal quand maître [[Banzen]] entra.
-
-"Comment va ton travail aujourd'hui, moine ?" demanda Banzen.
-"J'imagine que tu as besoin d'un peu plus de temps pour implémenter
-le grandiose framework d'envoi d'emails que tu imaginais la semaine
-dernière."
-
-"Pas du tout," dit Djishin en faisant pivoter son écran vers le maître.
-"J'ai démantelé les os de ma propriété, et vous ai construit cette
-remise à outils tout à fait convenable."
+Djishin hocha la tête.
+"Parfois, un test remplit son objectif /parce que/ la réponse est évidente."
