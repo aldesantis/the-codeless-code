@@ -1,0 +1,69 @@
+Title: Les roses sont rouges
+Number: 95
+Lang: fr
+Translator: abelards
+Illus.0.title: Les violettes sont #00f, les roses sont #f00.
+
+Maître [[Suku]] inspectait le code du [[Spider Clan|Clan de l'Araignée]]
+quand elle fit appeler un certain moine dans ses appartements.
+
+Suku dit : "Nous affichons des avertissements en texte rouge et gras
+à travers nos nombreuses applications. Comment est-ce fait ?"
+
+Le moine répondit : "Dans notre feuille de style partagée, j'ai
+créé une classe CSS dans ce but précis, qui s'appelle /boldRedText/."
+
+Suku fit : "Un nom des plus mémorables. Malheureusement, le
+gouverneur de la province souhaite que ses applications dégagent
+un air de tranquillité. Vous veillerez à ce que tous nos messages
+d'avertissement soient en italique et en violet pâle."
+
+Le moine s'inclina et sortit.
+
+- - -
+
+Suku revint plus tard inspecter le travail du moine et découvrit
+qu'il avait renommé le style /paleItalicVioletText/,
+changeant les références à ce nom dans des centaines de JSPs.
+Elle le fit mander de nouveau.
+
+Suku fit : "Le gouverneur de la province est un homme des
+plus singuliers, et a décidé que l'affichage des messages
+d'avertissement soit désormais en style normal, bleu profond,
+et sur un fond gris, ce qui lui serait infiniment plus apaisant.
+Vous veillerez à ce que les modifications soient faites."
+
+Le moine s'inclina et sortit.
+
+- - -
+
+Suku revint plus tard inspecter le travail du moine et découvrit
+qu'il avait renommé le style /deepNormalBlueOnGrayText/,
+changeant de nouveau les références nécessaires dans toute la base de code.
+Elle le fit mander de nouveau.
+
+Suku fit : "Le gouverneur de la province est un homme très capricieux,
+et a décidé que l'affichage des messages d'avertissement devrait désormais
+être en italique, rouge rosé, souligné et sur un fond crème, ce qui
+à coup sûr incitera l'utilisateur à prendre une action pour corriger
+son problème.
+Vous veillerez à ce que les modifications soient faites."
+
+Le moine s'inclina et sortit.
+
+- - -
+
+Suku revint plus tard inspecter le travail du moine et découvrit
+que cette fois, il n'avait /pas/ changé le nom du style dans les
+nombreuses JSPs. À la place, seule la définition de
+/deepNormalBlueOnGrayText/ avait changé, afin qu'elle affiche
+désormais l'italique rouge rosé souligné sur un fond crème.
+Suku soupira et le fit mander de nouveau.
+
+Quand le moine entra dans ses appartements, Suku jeta plusieurs
+shuriken qui accrochèrent les robes du moine surpris à la porte
+en bois.
+L'une des lames était dangereusement proche d'une de ses fonctions vitales.
+
+Suku se retourna vers son clavier, et dit :
+"Considérez que cela est votre dernier /boldRedText/."
