@@ -77,15 +77,15 @@ Mais aucun érudit n'a pu rester sain d'esprit assez longtemps pour le confirmer
 
 == Note du Traducteur
 
-L'amour est à l'inverse du modèle OSI :
- on s'applique, on se présente, on communique entre hôtes ;
- quand vient le transport amoureux, on se contrôle pour arriver à bon port ;
- enfin on met le paquet pour qu'il y ait liaison et, peut-être,
+L'amour est à l'inverse du modèle OSI : //
+ on s'applique, on se présente, on communique entre hôtes ; //
+ quand vient le transport amoureux, on se contrôle pour arriver à bon port ; //
+ enfin on met le paquet pour qu'il y ait liaison et, peut-être, //
  que cela devienne physique. {{4}}
 
 
 {{1}} Dédié à Stanislaw Lem, et de profondes excuses {{2}} à mes traducteurs
-{{2}} Les gars, ne me tuez pas pour ça. Franchement, vous pouvez le zapper. {{3}}
+{{2}} Les gars, ne me tuez pas. Franchement, vous pouvez le zapper. {{3}}
 {{3}} En fait, on aime les défis. Tu nous as servi ! Bravo à Andre Bogus, traducteur allemand, qui m'a donné le courage de m'y mettre.
 Merci aux relecteurs Rubix et <a href="http://catwell.info">catwell</a> (la deuxième strophe est de lui).
 {{4}} Feel free to translate back these french double-entendre ;)
