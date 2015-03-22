@@ -2,9 +2,7 @@ Title: La prison des plaisirs infinis
 Number: 128
 Lang: fr
 Translator: abelards
-Illus.0.title: dans une image tramée, les escaliers sont souvent
-indésirables, alors quand personne ne regarde on amène nos skateboards
-en haut et on l'antialiase.
+Illus.0.title: dans une image tramée, les escaliers sont souvent indésirables, alors quand personne ne regarde on amène nos skateboards en haut et on l'antialiase.
 
 L'hiver frappait le Temple de toutes ses forces amères, alors un novice du
 [[Clan of Iron Bones|Clan des Os de Fer]] choisit de profiter de ses vacances
