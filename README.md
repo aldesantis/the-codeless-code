@@ -20,7 +20,7 @@ If you want to add your translation:
 Translation format
 ------------------
 
-You can find information about the format to follow [here](http://thecodelesscode.com/about#translation-file-format).
+You can find information about the format to follow [here](http://thecodelesscode.com/about#submitting-translations).
 
 Only keep the `Number` header, translate the `Title`, and possibly
 `Illus.X.title` for the images' `alt` tags. Add `Lang` with the locale and
