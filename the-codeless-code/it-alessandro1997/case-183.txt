@@ -1,0 +1,46 @@
+Number: 183
+Title: Scgeli le tue battaglie
+Lang: it
+Translator: alessandro1997
+
+Tra tutti coloro che erano compiaciuti della promozione di [[Zjing]] a Maestra,
+nessuno era più felice del monaco [[Wangohan]], del
+[[Spider Clan|Clan del Ragno]]. Infatti Wangohan aveva molte idee per migliorare
+il software del Tempio, e non vedeva l'ora di condividerle con un orecchio
+attento.
+
+"Wangohan ha scoperto un framework per l'interfaccia utente molto promettente"
+disse Zjing alla sua teleconferenza settimanale con i maestri anziani. "Vuole
+usarlo nel suo prossimo progetto."
+
+/"Un altro/ framework?" disse [[Bawan]]. "Usiamo già Angular, Backbone,
+Bootstrap, Dojo, Ember, Jumpstart, <nobr>Knockout--"</nobr>
+
+"Crede che questo abbia dei vantaggi che gli altri non hanno" disse Zjing.
+
+"Lui crede?" chiese [[Kaimu]], inarcando un sopracciglio. "E cosa crede Zjing?"
+
+Ci fu un silenzio imbarazzante.
+
+"Giovane maestra" s'incupì [[Banzen]] (e ora Zjing sapeva di essere nei guai,
+proprio come quando suo padre la chiamava /signorina/), "combatti le battaglie
+di Wangohan perché credi nella sua causa, tieni alla sua amicizia o temi i
+veleni nelle sue spezie?"
+
+Zjing prese un respiro profondo. /"Wú,"/ disse, trovando improvvisa ispirazione.
+"Se non concediamo agli sviluppatori anziani le loro richieste più ragionevoli,
+di certo si scoraggeranno e smetteranno di provare a migliorare il Tempio, e noi
+ci rimetteremo."
+
+I primi due maestri guardarono Banzen, che rifletteva. "Molto bene" disse
+infine. "Lascia che il monaco si diverta col suo nuovo giocattolo."
+
+La novizia [[Satou]], apprendista di Banzen, si avvicinò a lui quando la
+riunione fu terminata. "Spesso mi avete raccomandato di stare alla larga da ciò
+che non conosco. Quanto tempo passerà prima che confidiate in me come confidate
+in Wangohan?"
+
+/"Wú,"/ disse Banzen. "Confido solo che quella di Zjing sia una cattiva
+decisione, e che ne capirà il motivo. Ma se non concediamo ai giovani maestri le
+loro richieste più ragionevoli, di certo si scoraggeranno e smetteranno di
+provare a migliorare il Tempio, e noi ci rimetteremo."
