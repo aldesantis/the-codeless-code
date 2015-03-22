@@ -1,0 +1,56 @@
+Number: 71
+Title: I Sei Ospiti Sgraditi
+Lang: it
+Translator: mc
+Illus.0.title: Schiva *questo*.
+
+Una giovane monaca (novizia) disse al maestro Kaimu: "Ho sentito parlare dei Sei
+Ospiti Sgraditi, ma i miei occhi non si sono ancora aperti."
+
+Il maestro agganciò una gabbia per merli in cima ad un lungo bastone e lo dette
+alla novizia. Poi scrisse qualcosa su un fogliolino, ci soffiò sopra finché
+l'inchiostro fu asciutto e lo tese alla giovane dicendo: "Sulla pergamena ci
+sono i nomi di 5 case del villaggio. Quando calerà la sera, prendi la tua
+ciotola e va' a chiedere del riso a ciascuna delle case a turno. Porta il merlo
+con te. Presta attenzione a quello che vedrai e sentirai."
+
+Quando la novizia giunse alla prima casa e presentò la sua ciotola, l'uomo che
+le aprì la riempì di semi bianchi e richiuse la porta. Il merlo zufolò: "Niente
+riso, nessun ravanello, nessun boccone lì dentro; sarebbe più saggio mangiare
+con le mani." Rimestando tra i semi, la novizia scoprì con orrore che non si
+trattava di riso, bensì di piccoli bachi bianchi. Li buttò nell'erba e sciacquò
+la scodella in un ruscello fino a non sentire più le dita dal freddo.
+
+Quando la novizia giunse alla seconda casa e presentò la sua ciotola, l'uomo che
+le aprì le disse "Non ho riso" e chiuse la porta. Il merlo zufolò: "Niente riso,
+nessun ravanello, nessun boccone lì dentro; i suoi topi sono morti di stenti."
+
+Quando la novizia giunse alla terza casa e presentò la sua ciotola, l'uomo che
+le aprì le disse "Niente riso", accese una lanterna e chiuse la porta. Il merlo
+zufolò: "Guarda l'insegna rossa sotto la lanterna; quel bastardo ha riso in
+abbondanza, ma non sfamerebbe un estraneo."
+
+Quando la novizia giunse alla quarta casa e presentò la sua ciotola, l'uomo che
+le aprì gliela tolse di mano, la lanciò verso i cespugli e chiuse la porta. Il
+merlo zufolò: "L'avresti potuta acchiappare se avessi tentato, ma saresti
+comunque venuta via affamata."
+
+Quando la novizia giunse alla quinta casa e presentò la sua ciotola, l'uomo che
+le aprì gliela prese, la mise faccia all'ingiù sulla soglia in pietra, la
+schiacciò fino a ridurla in schegge e sbatté la porta rabbioso. Il merlo rimase
+in silenzio.
+
+Tornando dal maestro Kaimu, la novizia disse: "I miei occhi si sono aperti sui
+Cinque Ospiti Sgraditi."
+
+"Nominali", ordinò il maestro.
+
+"Bug, failure-value, flag, exception, exit", rispose la novizia.
+
+Il maestro annuì.
+
+"E il Sesto?"" chiese la novizia.
+
+Il maestro rispose: "Porta una ciotola vuota sulla tomba del maestro Mugen.
+Quando il defunto maestro o la riempirà o ti allontanerà, il Sesto Ospite
+Sgradito sarà venuto e andato via."
