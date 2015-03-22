@@ -1,8 +1,9 @@
 The Codeless Code
 =================
 
-This repository contains the translations of [The Codeless Code](http://www.thecodelesscode.com), an inspiring and
-beautiful collection of "Fables and Kōans for the Software Engineer".
+This repository contains all the content of [The Codeless Code](http://www.thecodelesscode.com) 
+(i.e. the translations and the original cases by Qi), an inspiring and beautiful 
+collection of "Fables and Kōans for the Software Engineer".
 
 Adding a translation
 --------------------
