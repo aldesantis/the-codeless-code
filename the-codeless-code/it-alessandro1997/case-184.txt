@@ -1,0 +1,45 @@
+Number: 184
+Title: Vita
+Tagline: Dov'è rivelata la concezione del tutto
+Illus.0.title: "And all the little ants are marching / Red and black antennas waving / They all do it the same / They all do it the same way..."
+
+[[Jinyu]], la Badessa di Tutti i Clan e gli Interessi, stava ispezionando il
+lavoro del suo tempio quando si imbatté in uno dei nuovi sviluppatori per
+applicazioni mobile che lavorava alla propria scrivania. Guardò oltre la spalla
+del monaco per vedere a cosa stesse lavorando, ma sul suo schermo c'erano solo
+dei piccoli quadrati neri che pulsavano su uno sfondo bianco. Jinyu picchiettò
+lievemente il monaco sulla testa col proprio bastone.
+
+"Spiega" disse la Badessa, indicando lo schermo col bastone.
+
+"Ho realizzato una nuova struttura dati sparsa" disse il monaco "e volevo
+vedere se potevo usarla per implementare una simulazione efficiente del <a
+href="http://it.wikipedia.org/wiki/Gioco_della_vita">Gioco della Vita</a>."
+
+Il monaco premette un pulsante sullo schermo del proprio tablet, rendendolo
+completamente bianco, quindi vi disegnò una linea spezzata con un pennino.
+Quando premette nuovamente lo stesso pulsante la linea si aprì all'improvviso,
+spandendosi per lo schermo come confetti pixelati.
+
+Jinyu si accigliò. "Così questa è la 'Vita', eh?"
+
+Il monaco annuì nervosamente.
+
+Jinyu pulì lo schermo come aveva visto fare il monaco. Quindi prese il pennino
+e scrisse in bella grafia sullo schermo:
+
+    TUTTE LE FATICHE //
+    DI TUTTI I NOSTRI GIORNI
+
+Quando premette nuovamente il pulsante, le parole immediatamente si putrefarono
+e si dissolsero in una pozza di vermi neri e bianchi che si dimenavano. Dai
+vermi uscirono sciami di mosche fatte di pixel neri: si spargevano, si
+moltiplicavano, si scontravano, morivano. Formiche nere lasciarono i corpi
+decimati, volteggiando via all'unisono incontro a destini infiniti e
+sconosciuti. Dopo poco tempo era rimasto solo un enorme deserto bianco dove dei
+piccoli, solitari granelli di polvere tremavano a causa di un vento debole e
+invisible.
+
+Jinyu restituì il tablet al monaco. "Una simulazione estremamente accurata."
+
+{{*}} Il testo a corredo dell'illustrazione viene da <a href="https://www.youtube.com/watch?v=IXPOHCsgWFw">"Ants Marching" di Dave Matthews Band</a>, particolarmente adatta al tema. E se volete restare /davvero/ impressionati, date un'occhiata a questa meravigliosa implementazione di <a href="https://www.youtube.com/watch?v=xP5-iIeKXE8">Life in Life</a>.
