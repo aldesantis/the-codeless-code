@@ -1,5 +1,5 @@
 Number: 183
-Title: Scgeli le tue battaglie
+Title: Scegli le tue battaglie
 Lang: it
 Translator: alessandro1997
 
