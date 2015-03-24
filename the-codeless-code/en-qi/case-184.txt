@@ -19,7 +19,7 @@ monk's head lightly with her cane.
 
 "Explain," said the Abbess, pointing her cane at the screen.
 
-"I have devised a new sparse data structure, said the monk,
+"I have devised a new sparse data structure," said the monk,
 "and I wished to see if I could use it to implement an
 efficient simulation of <a
 href="http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">the
