@@ -1,0 +1,62 @@
+Number: 184
+Title: Le Jeu de la Vie
+Tagline: Dans lequel nous acquérons une vision globale
+Lang: fr
+Translator: abelards
+Illus.0.title: "Et toutes ces petites fourmis marchent / Leurs antennes noires et rouges frémissant / Elle le font toutes / Elles le font toutes pareil..."
+
+[[Jinyu]], l'Abbesse de tous les Clans et Préoccupations,
+inspectait ce qui se passait dans son Temple quand elle
+arriva devant un des développeurs des nouvelles applications
+mobiles, trimant à son bureau.
+Elle jeta un oeil au-dessus de l'épaule du moine pour voir
+ce à quoi il travaillait, mais son écran ne montrait que de
+petits carrés noirs palpitant sur un champ blanc.
+Jinyu tapa légèrement de sa canne le crâne du moine.
+
+"Explique cela," dit l'Abbesse, pointant sa canne vers l'écran.
+
+"J'ai conçu une nouvelle structure de données légère,"
+dit le moine, "et je voulais voir si je pouvais l'utiliser pour
+implémenter une simulation efficace du 
+<a href="http://fr.wikipedia.org/wiki/Jeu_de_la_vie">'jeu de la Vie'</a>."
+
+Le moine appuya sur un bouton à l'écran de sa tablette,
+qui devint intégralement blanc.
+Puis il dessina une ligne en dents de scie avec un stylet.
+Quand il appuya sur le même bouton, la ligne éclata et s'ouvrit,
+répandant comme des confetti de pixels sur l'écran.
+
+Jinyu fronça les sourcils. "Alors c'est le 'jeu de la Vie', c'est ça ?"
+
+Le moine hocha la tête nerveusement.
+
+Jinyu vida l'écran comme elle avait vu le moine le faire juste avant.
+Puis elle prit le stylet et écrivit proprement sur la tablette :
+
+    TOUT LE TRAVAIL //
+    DE TOUTE NOTRE VIE
+
+Quand elle appuya de nouveau sur le bouton, les mots de dissolvèrent,
+comme s'ils avaient été putréfiés, dans une mare de vers blancs
+et noirs qui s'agitaient. Des asticots s'élevèrent des essaims
+de mouches de pixels noirs : se dispersant, se multipliant,
+se rencontrant et mourant.
+Des fourmis charognardes quittaient les cadavres, glissant au loin
+à l'unisson vers des destins dans l'infini inconnu.
+En un rien de temps, tout ce qui restait était un grand désert blanc,
+où quelques poussières frémissaient dans un invisible vent léger.
+
+Jinyu rendit sa tablette au moine.
+"Une simulation des plus précises."
+
+
+
+
+{{*}} Le texte que vous lisez en laissant la souris sur l'image est de
+<a href="https://www.youtube.com/watch?v=IXPOHCsgWFw">
+"Ants Marching"du Dave Matthews Band</a>, qui s'accorde bien au thème.
+Et si vous voulez vraiment être impressionnés, allez voir cette
+magnifique implémentation du 
+<a href="https://www.youtube.com/watch?v=xP5-iIeKXE8">
+Jeu de la Vie en Jeu de la Vie.</a>

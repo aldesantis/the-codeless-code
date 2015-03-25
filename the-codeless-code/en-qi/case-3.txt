@@ -1,7 +1,7 @@
 Date: 2010-11-08
 Title: Encapsulation
 Number: 3
-Version: $Revision: 1.22 $
+Version: $Revision: 1.1 $
 Geekiness: 2
 Topics: encapsulation
 Illus.0.src: encapsulation.jpg

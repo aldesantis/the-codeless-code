@@ -1,0 +1,59 @@
+Date: 2015-03-22
+Number: 184
+Title: Life
+Names: Jinyu
+Topics: life, simulation, sparse arrays, efficiency
+Geekiness: 2
+Tagline: In which we get the big picture
+Illus.0.par: 1
+Illus.0.src: Ant.jpg
+Illus.0.title: "And all the little ants are marching / Red and black antennas waving / They all do it the same / They all do it the same way..."
+
+[[Jinyu]], the Abbess Over All Clans And Concerns, was
+inspecting the doings of her temple when she happened upon
+one of the new mobile-application developers, toiling away
+at his desk.  She peered over the monk's shoulder to see
+what he was working on, but his screen showed only tiny
+black squares pulsating on a white field.  Jinyu rapped the
+monk's head lightly with her cane.
+
+"Explain," said the Abbess, pointing her cane at the screen.
+
+"I have devised a new sparse data structure," said the monk,
+"and I wished to see if I could use it to implement an
+efficient simulation of <a
+href="http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">the
+game of 'Life'</a>.
+
+The monk tapped a button on his tablet's screen, clearing it to a
+solid white.  He then drew a jagged black line across it
+with a stylus.  When he tapped this same button again the
+black line burst open, spreading across the display like
+pixellated confetti.
+
+Jinyu frowned.  "So this is 'Life', is it?"
+
+The monk nodded nervously.
+
+Jinyu cleared the screen as she'd seen the monk do.
+Then she took up the stylus and wrote neatly across the display:
+
+    ALL THE LABORS //
+    OF ALL OUR DAYS
+
+When she tapped the button again, the words immediately
+putrefied and dissolved into a squirming puddle of black and
+white maggots.  From the maggots rose swarms of black-pixel
+flies: scattering, multiplying, clashing, dying.  Black
+scavenger ants left the decimated corpses, gliding away
+in unison to unknowable destinies at infinity.  In a short
+time all that was left was a great white desert, where a few
+lonely specks of dust quivered in a faint, invisible wind.
+
+Jinyu gave the tablet back to the monk.
+"A most accurate simulation."
+
+
+
+
+{{*}} The hover text of the illustration is from <a href="https://www.youtube.com/watch?v=IXPOHCsgWFw">Dave Matthews Band's "Ants Marching"</a>, which fits nicely with the theme. And if you /really/ want your mind blown, check out this wonderful implementation of <a href="https://www.youtube.com/watch?v=xP5-iIeKXE8">Life in Life</a>.
