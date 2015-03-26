@@ -4,10 +4,11 @@ Lang: fr
 Translator: abelards
 Illus.0.title: Et cela fait un riz merveilleux pourtant... crois moi.
 
-Bien que les novices le voient rarement, les maîtres se corrigent parfois les uns les autres :
+Bien que les novices le voient rarement,
+les maîtres se corrigent parfois les uns les autres :
 
 Maître [[Banzen]] et maître [[Suku]] planifiaient la prochaine livraison d'un gros système critique.
-Ensemble, ils parcoururent la liste des besoins, allouant le travail aux moines qu'ils avaient en charge.
+Ensemble, ils parcouraient la liste des besoins, allouant le travail aux moines qu'ils avaient en charge.
 
 "Assigne-moi cette tâche," dit Banzen à un moment, "car j'en ai écrit le code à l'origine,
 et c'est une partie complexe et sensible".
@@ -22,7 +23,7 @@ Banzen se prit à y jeter un oeil durant le repas matinal,
 et découvra que toutes les tâches qu'il s'était réservées
 avaient à la place été assignées à une poignée de jeunes moines.
 
-Banzen confronta Suku à sa table.
+Banzen alla confronter Suku à sa table.
 
 "Cela fait vingt ans que vous êtes dans ce temple," reprocha-t-il, fumant.
 "Quand allez-vous arrêter de donner notre précieux riz à des cuisiniers
