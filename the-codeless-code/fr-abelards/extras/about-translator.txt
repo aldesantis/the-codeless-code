@@ -2,4 +2,4 @@ Translator: abelards
 Name: Sylvain Abélard
 Nom: Sylvain Abélard
 URL: http://maitre-du-monde.fr
-Licence: [CC-BY-SA](http://creativecommons.org/licenses/by-nc/3.0/deed.en_US)
+License: [CC-BY-SA](http://creativecommons.org/licenses/by-nc/3.0/deed.en_US)
