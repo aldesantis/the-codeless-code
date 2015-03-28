@@ -1,0 +1,64 @@
+Number: 147
+Title: La Table de Bawan
+Lang: fr
+Translator: abelards
+Illus.0.title: Le "m" est pour "mètres", n'est-ce pas ? Pas "miles" ?
+Credits: Merci à Brett Davis d'avoir remarqué la typo !
+
+
+Les équipes de service clientèle du Temple -- connues sous le nom de
+[[Clan of Infinite Sorrows|Clan des Interminables Chagrins]] --
+avait commencé à recevoir des complaintes sur une application de
+Panier de Courses. Les changements faits aux informations de contact
+d'un vendeur étaient visibles immédiatement dans la base de données,
+mais quelques-uns des serveurs de l'application continuaient à afficher
+les anciennes coordonnées pendnat dans jours.
+Maître [[Bawan]] fut envoyé pour enquêter.
+
+"Fermez les accès de ce serveur," ordonna Bawan
+quand la plainte la plus récente arriva.
+"Et demandez à l'utilisateur de se connecter à nouveau."
+
+"Votre première action est le Dernier Recours des Désespérés ?"
+demanda le maître hébergeur [[Yishi-Shing]].
+
+"Mon but ici est de diagnostiquer le problème," répondit Bawan, bras croisés.
+
+Quand l'utilisateur remonta que les informations de son écran étaient
+maintenant à jour, Bawan se plongea dans le code de l'interface utilisateur
+créée par le [[Spider Clan|Clan de l'Araignée]], puis la couche métier
+faite par le [[Laughing Monkey Clan|Clan du Singe Rieur]], et finit
+dans la couche de persistance que fournissait le 
+[[Elephant's Footprint Clan|Clan des Empreintes de l'Éléphant]].
+Il finit par faire appeler une des nonnes des Empreintes de l'Éléphant.
+
+"Connais-tu le chemin vers l'Ermitage Perdu ?" demanda Bawan.
+
+"Je n'en ai jamais entendu parler," dit la nonne.
+
+"Il se trouve haut dans les montagnes du Nord, mais fut enseveli
+sous une avalanche de SNOBOL voici de nombreuses années," dit le maître.
+"Quelques frères de notre ordre travaillent encore là-bas, sous terre ;
+j'ai besoin de leur aide. Ce parchemin te mènera à eux."
+
+Bawan donna à la nonne une vieille carte montrant l'emplacement de
+l'Ermitage. Il ajouta également sept jours de rations alimentaires,
+une robe doublée de fourrure, un piolet, et une pelle à neige.
+Puis il la jeta à la porte et regarda avec Yishi-Shing l'image de
+la nonne s'effacer tandis qu'elle montait lentement la Route du Serpent Ivre.
+
+"Je n'en suis pas sûr," remarqua Yishi-Shing, "mais dans /mes/ souvenirs
+l'Ermitage Perdu fut abandonné voici quelques hivers, et ses moines
+ont été relogés dans une agréable grotte au pied de notre propre montagne."
+
+"Ah bon ?" demanda Bawan, perplexe.
+"Et bien, je suppose que c'est le danger de mettre des données
+en cache sans durée de validité dans les tiroirs de ma vieille
+table de correspondance. Peut-être que la prochaine fois j'irai
+en imprimer une version plus récente."
+
+Yishi-Shing hocha la tête. "Cette erreur est compréhensible.
+Le papier est cher, et il est des choses qui ne changent que rarement."
+
+"Ce n'est pas par accident que /rarement/ et /jamais/ sont deux mots
+différents," dit Bawan.

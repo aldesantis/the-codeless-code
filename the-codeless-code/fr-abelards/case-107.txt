@@ -10,7 +10,7 @@ amené à la porte, d'où l'étranger lui dit :
 "Des années durant, j'ai erré dans cet pays sans merci,
 cherchant le langage de programmation parfait. Nommez
 m'en un, n'importe lequel : je l'ai testé, fut-il rapide ou lent,
-haut ou bas niveau, de l'Ada au Zeno. Mais quelque furent les
+haut ou bas niveau, de l'Ada au Zeno. Mais quels que furent les
 avantages, il y a aussi des inconvénients, alors je
 rassemble mes affaires et je repars sur la route --
 ce qui dans le dernier cas m'amène à votre porte."
@@ -60,7 +60,7 @@ et dont la poignée s'ouvrait pour révéler les choses les plus
 merveilleuses : pinces à épiler, cure-dents, pinces coupantes,
 forets, clés à molette et alésoir et règles et davantage de
 petites lames que vous ne pouvez en compter !
-En le prenant en main, j'ai cimpris que ma destinée est de
+En le prenant en main, j'ai compris que ma destinée est de
 fabriquer cette chose que je recherchais -- un langage fait
 d'autres langages, un outil qui supprimerait le besoin
 de tous les autres outils !"

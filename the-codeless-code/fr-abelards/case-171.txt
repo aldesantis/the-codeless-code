@@ -1,0 +1,84 @@
+Number: 171
+Title: Conditions initiales
+Lang: fr
+Translator: abelards
+Illus.0.title: Ça ne choque personne d'autre que l'icône de recherche est une loupe ? Quand avez-vous cherché *quoi que ce soit* avec une loupe pour la dernière fois ? Pour moi, l'icône le plus représentatif de la recherche, serait une petite image de moi-même qui crie "QUELQU'UN A VU LES CLÉS DE MA VOITURE ?!"
+
+La nonne [[Hwídah]] avait été convoquée dans les bureaux
+de maître [[Banzen]]. Elle trouva le maître qui attendait
+en présence de son apprenti [[Djishin]].
+
+Banzen dit, "Je te souhaite le bon jour, petite nonne !
+Puisque tu prends un tel plaisir à apprendre les vérités
+cachées et voir les coupables corrigés, j'ai une tâche
+qui devrait t'amuser."
+
+"Je sers le bon plaisir du Temple, pas le mien,"
+répondit Hwídah en s'inclinant poliment.
+Mais son ventre était déjà serré ; sans aucun doute,
+il s'agissait là du commencement de sa punition pour
+[[#152|avoir pénétré dans des parties du Temple qui lui étaient interdites.]]
+
+"Cela fait un moment qu'une erreur tourmente le
+[[Elephant's Footprint Clan|Clan de l'Empreinte de l'Éléphant]].
+Elle arrive peu fréquemment mais avec une insistance répétée,"
+dit le maître en donnant à la nonne un listing de code imprimé.
+"Nos fichiers journaux de la base de données montrent cette
+requête malformée, mais une recherche minutieuse dans toute
+la base de code ne nous permet pas de retrouver une telle requête.
+Trouve la source. Tu as une semaine."
+
+Hwídah étudia le papier. "Quelques minutes devraient suffire.
+Puis-je emprunter le terminal du maître ?"
+
+Banzen sourcilla dans l'instant.
+Il échanga des regards avec son apprenti,
+puis fit glisser son ordinateur portable vers la nonne.
+
+Hwídah consulta le listing, tapa quelque chose, scruta l'écran,
+consulta de nouveau le listing, et répéta l'opération quelques fois.
+"Voilà," dit-elle finalement, en tournant l'écran.
+Le curseur était en effet sur un fragment SQL dans lequel
+il manquait une parenthèse fermante.
+"Laissez-moi revenir à mon poste de travail, et je pourrai retracer
+les appels de ce code à qui consomme la requête, et reproduire
+l'erreur que vous voyez dans les fichiers journaux.
+Ensuite nous pourrons réparer le défaut en toute confiance."
+
+"Va," dit Banzen à Hwídah.
+À son apprenti, il dit : "Observe."
+
+- - -
+
+Tandis qu'ils revenaient vers la table de Hwídah,
+Djishin murmura "La vitesse de votre diagnostic fut surprenante."
+
+"C'est très simple," dit Hwídah, donnant le listing au moine.
+"La requête malformée commence par <tt>WHERE 1=1</tt>.
+Cela sent le SQL généré dynamiquement à plein nez -- car
+bien que la condition initiale soit triviale, sa valeur
+<tt>TRUE</tt> permet à un développeur d'ajouter toutes les
+/vraies/ conditions qu'il désires en ajoutant de simples clauses
+<tt>AND</tt>.
+J'ai moi-même utilisé cette technique en implémentant des
+formulaires de recherche avec des champs facultatifs.
+Une fois que j'ai pu reconnaître cela, je n'ai fait que
+chercher dans le code des clauses <tt>AND</tt> isolées."
+
+"Vous me méprenez," dit Djishin.
+"Je n'ai pas été surpris que vous soyez /capable/
+de le résoudre en un instant ; j'ai été surpris que vous
+l'ayez fait alors qu'on venait de vous offrir une semaine.
+Cela sent l'ambition à plein nez -- car bien que le problème
+initial soit trivial, votre immédiate sincérité permettra
+à mon maître de vous faire confiance sur un grand nombre
+de /vrais/ problèmes."
+
+Hwídah soupira. "C'est aussi bien. Si j'avais prétendu
+que ce problème était suffisamment difficile pour mériter
+des jours d'effort, Banzen m'aurait crue soit menteuse,
+soit incompétente. Aucune de ces images ne me convient.
+C'est cela qu'il voulait vraiment découvrir."
+
+Djishin hocha la tête.
+"Parfois, un test remplit son objectif /parce que/ la réponse est évidente."

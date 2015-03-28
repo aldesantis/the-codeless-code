@@ -1,0 +1,44 @@
+Date: 2015-03-08
+Number: 182
+Title: Mousetrap
+Names: Zjing, Banzen
+Topics: QA, software analysis, defects, automation, testing, quality
+Geekiness: 2
+Illus.0.src: mouse.jpg
+Illus.0.par: 2
+Illus.0.title: They're really just nature's little cat toys.
+
+A senior monk who was jealous of the nun [[Zjing]]'s recent
+[[#174|promotion]] decided to spy on her work.  Opening a
+recent project, he was astonished to find her code
+a confusing mess, riddled with obvious bugs.
+He notified master [[Banzen]].
+
+The old master thanked the monk for his diligence and bade
+him remain a moment.  Banzen then called young master Zjing
+and put her on speaker.
+
+"Say something about this 'mouse' project you created,"
+ordered Banzen.
+
+"It is of exceedingly poor design," said Zjing.
+
+The senior monk smiled with satisfaction.
+
+Banzen asked, "How poor?"
+
+"This morning, our Software Quality Assessment tools found
+three hundred and eight separate deficiencies," replied Zjing.
+
+"That /is/ a problem," said Banzen.  "If memory serves,
+they should have found three hundred and /twenty/."
+
+"Correct," said Zjing.  "Someone appears to have deactivated
+the rules which detect resource leaks.  The project's self-test
+notified me; I am investigating."
+
+Banzen bid her good hunting and turned to the monk.  "If
+ever you fear there are mice in your walls, listen to common
+wisdom and buy four fine cats.  But listen to Zjing also,
+and release a single mouse among the cats every day --
+to make certain they have not forgotten how to hunt."

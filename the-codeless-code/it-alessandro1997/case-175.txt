@@ -1,5 +1,5 @@
 Number: 175
-Title: Flat Shark
+Title: Squalo piatto
 Lang: it
 Translator: alessandro1997
 Illus.0.title: Ce n'est pas une peinture.

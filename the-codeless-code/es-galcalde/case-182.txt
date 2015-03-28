@@ -1,0 +1,25 @@
+Number: 182
+Title: Trampa para Ratones
+Lang: es
+Translator: galcalde
+Illus.0.title: Son sólo los juguetes de la naturaleza para los mininos.
+
+Un monje avanzado que estaba celoso del reciente [[#174|ascenso]] de la monja [[Zjing]] decidió espiar su trabajo. Abriendo un proyecto reciente, se sorprendió de hallar su código como un desastre confuso, plagado de bugs obvios. Él le notificó al maestro [[Banzen]].
+
+El viejo maestro agradeció al monje por su diligencia y le pidió que se quedara un momento. Banzen luego llamó a la joven maestra Zjing y la puso en altavoz.
+
+"Di algo sobre este proyecto 'raton' que creaste," ordenó Banzen.
+
+"Es de un diseño excesivamente pobre," dijo Zjing.
+
+El monje avanzado sonrió con satisfacción.
+
+Banzen preguntó, "¿Qué tan pobre?"
+
+"Esta mañana, nuestras herramientas de Evaluación de Calidad de Software hallaron trescientas ocho deficiencias separadas," respondió Zjing.
+
+"Eso <em>es</em> un problema," dijo Banzen. "Si la memoria no me falla, deberían haber encontrado trescientas <em>veinte</em>."
+
+"Correcto," dijo Zjing. "Alguien parece haber desactivado las reglas que detectan fugas de recursos. La auto-prueba del proyecto me lo notificó; Estoy investigando."
+
+Banzen le deseo buena suerte y buena caza y se volvió al monje. "Si tienes miedo de que haya ratones en tus paredes, escucha la sabiduría común y compra cuatro gatos buenos. Pero escucha también a Zjing, y lanza un ratón entre los gatos todos los días -- para asegurarse de que no hayan olvidado como cazar."

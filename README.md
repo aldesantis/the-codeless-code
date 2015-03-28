@@ -1,8 +1,9 @@
 The Codeless Code
 =================
 
-This repository contains the translations of [The Codeless Code](http://www.thecodelesscode.com), an inspiring and
-beautiful collection of "Fables and Kōans for the Software Engineer".
+This repository contains all the content of [The Codeless Code](http://www.thecodelesscode.com) 
+(i.e. the translations and the original cases by Qi), an inspiring and beautiful 
+collection of “fables and kōans for the software engineer”.
 
 Adding a translation
 --------------------
@@ -19,15 +20,15 @@ If you want to add your translation:
 Translation format
 ------------------
 
-You can find information about the format to follow [here](http://thecodelesscode.com/about#translation-file-format).
+You can find information about the format to follow [here](http://thecodelesscode.com/about#submitting-translations).
 
-You can find "tags" at the beginning of the text file.
-
-Only keep the `Number`, translate the `Title`, and possibly `Illus.X.title` for image alt-tags.
-Add `Lang` with your locale and `Translator` with your name, nick, handle as you see fit.
-All others will be ignored and taken from the original English version.
+Only keep the `Number` header, translate the `Title`, and possibly
+`Illus.X.title` for the images' `alt` tags. Add `Lang` with the locale and
+`Translator` with your translator nickname. All other headers will be ignored
+and taken from the original English version.
 
 Credits
 -------
 
-Many thanks to Qi for this ingenious work of art and to all the translators!
+Many thanks to Qi for this ingenious work of art and to all the translators for
+their hard work.

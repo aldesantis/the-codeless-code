@@ -1,0 +1,62 @@
+Number: 150
+Title: Annulé
+Lang: fr
+Translator: abelards
+
+Un moine demanda à maître [[Kaimu]],
+"Quel est le comportement idéal de 'Annuler' ?"
+
+Kaimu répondit, "D'annuler la dernière action significative
+de l'utilisateur, puis de l'action avant cela, et ainsi de suite
+jusqu'au commencement des Temps."
+
+Le moine demanda, "Que dire du redimensionnement d'une fenêtre ?"
+
+Kaimu répondit, "Idéalement, cela serait annulé."
+
+Le moine demanda, "L'enregistrement d'un fichier ?"
+
+Kaimu répondit, "Annulé également."
+
+Le moine demanda, "L'envoi d'un email ?"
+
+Kaimu répondit, "Annulé également."
+
+Le moine rit et dit, "Absurde ! Comment quiconque
+pourrait implémenter un tel comportement ?"
+
+Kaimu lança une application sur son bureau.
+"Voici un éditeur de texte de mon invention, qui implémente l'Annulation Idéale."
+
+Le moine entra une ligne de texte.
+Puis il effaça un mot, redimensionna la fenêtre, enregistra le fichier,
+et l'envoya par email. Quand l'email apparut sur son téléphone, il appuya
+quatre fois sur le raccourci Annuler de l'éditeur.
+
+Le moine dit, "Aucun effet."
+
+Kaimu répondit, <i>"Null.</i> Le Temps lui-même fut réinitialisé
+immédiatement après que tu entres ta ligne de texte.
+À ce moment-là, tu as -- sans aucun souvenir de l'itération précédente --
+effacé le mot de nouveau, redimensionné la fenêtre, enregistré le fichier,
+et envoyé l'email."
+
+Le moine pointa triomphalement à son maître.
+<i>"Null</i> à votre /Null/ ! 
+Car dans cette présumée itération suivante, j'aurais ensuite fait
+'Annuler' quatre fois, exactement comme j'ai fait dans la première...
+créant ainsi une boucle infinie !"
+
+Kaimu croisa les bras et répondit avec satisfaction,
+"Les actions de la seconde itération n'étaient pas significatives,
+car elles étaient destinées à arriver en conséquence de la
+réinitialisation de l'horloge ; ainsi elles ne sont pas valides
+pour l'Annulation Idéale.
+Seuls tes quatre demandes d'Annulation de la /première/ itération
+-- celles qui ont /initiées/ la seconde itération -- étaient
+significatives."
+
+Le moine demanda, "Mais qu'arriva-t-il alors à ces quatre Annulations ?"
+
+Kaimu répondit, "Grâce aux quatre Annulations de la /seconde/ itération...
+ils ont aussi été annulés."

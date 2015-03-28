@@ -1,0 +1,91 @@
+Number: 173
+Title: Pair Perdu
+Lang: fr
+Translator: abelards
+
+<i>Tiré de "Les transports amoureux d'Eku et Mugen" :</i> {{1}}
+
+Nos logs nous le rappellent : il fut un temps ancien //
+vous et moi chaque matin nous serrions la main //
+via des câbles Ethernet par des paquets réseau //
+un protocole portait notre amour pur et beau.
+
+Si haute était votre disponibilité //
+qu'en multiples minutes je réglais mon timeout //
+tout certain que j'étais que mes POST, GET et PUT //
+par l'erreur 504 ne seraient arrêtés.
+
+Et quand un firewall fit son apparition //
+dans votre sous-réseau, vous avez relié //
+un port dans le routeur pour pouvoir converser -- //
+une backdoor pour nous deux sans autorisation.
+
+Puis une socket serveur fut liée discrètement, //
+pour écouter aux portes lorsque je me connecte. //
+Mais cette adresse serveur est-elle toujours correcte ? //
+Pourquoi n'y entends-je qu'un silence résonnant ?
+
+La moindre de mes connexions refusée, //
+mes streams d'entrée tous vides dans leur mémoire tampon, //
+j'épie toutes les racines de nos arbres en JSON //
+qui, flétris sur la pile, meurent inutilisés. //
+
+Où êtes-vous partie, oh ma pair bien aimée ? //
+Faute de segmentation, ou SIGKILL assassin ? //
+Dites-moi que vous vivez ! Chaque ligne à la main //
+je les réécrirai pour que vous reveniez.
+
+Jusqu'à ce moment où /i/ ira de un à /n/ //
+Sans lever d'exception lorsque j'échouerai //
+je vais logguer, pleurer, gémir, mais reprendrai, //
+puis dormirai un peu, et retenterai ma peine.
+
+Je rêve d'une réponse jusqu'au petit matin //
+furtivement établir avec vous connexion -- //
+SYNchronisez ma mie, j'ACKuserai réception //
+pour nous coucher heureux, nous embrasser et... FIN.
+
+Avec netcat moins z ici je t'ai cherchée ! //
+Je chercherai par là avec netstat moins t ! //
+Laissons les autres moquer ma constante loyauté -- //
+ils ne servent que ceux qui parlent HTTP.
+
+
+== Le commentaire de Qi
+
+Mugen aimait coder en poésie.
+Il semble que la septième strophe veuille porter ce genre d'algorithme :
+
+<pre>
+    SocketAddress sockAddr = new InetSocketAddress(host, port);
+    for (int i = 1; i <= N_TRIES; i++) {
+        try {
+            client.connect(sockAddr, TIMEOUT_MILLIS);
+            return client;
+        }
+        catch (Exception e) {
+            log.warning("pleurs, gémissements");
+            Thread.sleep(INTERVAL_MILLIS);
+        }
+    }
+    throw new IOException("abandon");
+</pre>
+
+Une théorie veut que son épopée de dix mille strophes, /Le Dromadaire/,
+décrire un convertisseur de Perl à OCaML, écrit en C++.
+Mais aucun érudit n'a pu rester sain d'esprit assez longtemps pour le confirmer.
+
+== Note du Traducteur
+
+L'amour est à l'inverse du modèle OSI : //
+ on s'applique, on se présente, on communique entre hôtes ; //
+ quand vient le transport amoureux, on se contrôle pour arriver à bon port ; //
+ enfin on met le paquet pour qu'il y ait liaison et, peut-être, //
+ que cela devienne physique. {{4}}
+
+
+{{1}} Dédié à Stanislaw Lem, et de profondes excuses {{2}} à mes traducteurs
+{{2}} Les gars, ne me tuez pas. Franchement, vous pouvez le zapper. {{3}}
+{{3}} En fait, on aime les défis. Tu nous as servi ! Bravo à Andre Bogus, traducteur allemand, qui m'a donné le courage de m'y mettre.
+Merci aux relecteurs Rubix et <a href="http://catwell.info">catwell</a> (la deuxième strophe est de lui).
+{{4}} Feel free to translate back these french double-entendre ;)

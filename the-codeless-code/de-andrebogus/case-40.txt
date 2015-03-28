@@ -1,0 +1,22 @@
+Number: 40
+Lang: de
+Translator: andrebogus
+Title: Autorität
+
+Der Schreiber fragte den Java-Meister: “Warum lasst Ihr mich so viel von Schülern schreiben, die Strafe bedürfen?”
+
+Der Meister sagte: “Auf dass ein Narr es lese, und erkenne, dass er ein Narr ist.”
+
+Der Schreiber fragte: “Machen einen Ignoranz oder Fehler zum Narren?”
+
+Der Meister antwortete: “Nein. Der Narr ist derjenige, der sich selbst ‘Meister’ nennt und mit dem Anschein von Autorität spricht. Sein Fehler beginnt, wenn er den Mund öffnet und vervielfältigt sich, wenn er ihn—vieles ungesagt lassend—schließt.”
+
+Der Schreiber entgegnete: “Wäre es dann nicht weiser, nichts zum Schüler noch zum Schreiber zu sagen?”
+
+Der Meister sprach: “In der Tat beginnt und endet mein Aufenthalt auf Euren Seiten in Fehlern. Hätte ich Verstand, ich schleuderte Euer Buch ins Meer.”
+
+Der Schreiber sagte: “Es gibt kein Buch, und kein Meer, und ihr habt nicht Hände noch Körper, dies zu tun.”
+
+Der Meister sagte: “Dann bin ich zufrieden.”
+
+

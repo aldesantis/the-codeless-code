@@ -6,7 +6,7 @@ Illus.0.title: En fait, s'il a brûlé les cartes, c'est que le Temple lui a don
 
 Une jeune nonne approcha le maître [[Banzen]] et dit :
 
-"Quand on m'a présenté le dossier des exigences,
+"Quand on m'a présenté le cahier des charges,
 j'ai fait un document d'architecture générale,
 comme le veut notre méthode.
 
@@ -34,8 +34,8 @@ Banzen considéra cela. Puis il hocha la tête et dit :
 "Il n'y a pas plus de vertu dans les documents que dans une
 poignée de feuilles : tu peux tout à fait te passer de l'un des deux.
 Avant que maître Mugen ne croise les Friches Non Compilées,
-il fit huit cartes aux fins détails du chemin qu'il pensait prendre.
-Cependant, lorsqu'il est arrivé aux portes du temple, il les brûla immédiatement."
+il fit huit cartes finement détaillées du chemin qu'il pensait prendre.
+Cependant, quand il arriva aux portes du temple, il les brûla immédiatement."
 
 La nonne prit congé de bonne humeur, mais sitôt qu'elle atteignit le seuil, Banzen aboya : "Nonne !" 
 

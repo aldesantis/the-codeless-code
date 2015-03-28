@@ -1,0 +1,19 @@
+Number: 37
+Lang: de
+Translator: andrebogus
+Title: Simulation
+
+Die neue Bestellungsabwicklungsseite des Ordens der Spinne funktionierte in Produktion gut, doch die Entwicklungs-Instanz war derart instabil, dass der Orden seine Änderungen nicht mehr als ein paar Stunden pro Tag testen konnte. Ein Abgabetermin nahte. Die Mönche hätten sich die Haare gerauft, doch diese waren geschoren, solch unziemlichen Aktionen zu vermeiden.
+
+“Der Orden des lachenden Affen bringt die Server dauernd zum Ausfallen!” beschwerte sich der Ordensvorsteher bei einem der Priester. “Ohne die Server kann unser Code keine Nutzereinstellungen oder den Inhalt von Einkaufswagen abrufen!”
+
+“Neustarts müssen sein,” sagte der Vorsteher des lachenden Affen. “Wir müssen auch tagsüber Code einspielen können. Vielleich können die Spinner die nötigen Dienste simulieren. Die Daten wären falsch, aber die Ausfälle wären kein Problem mehr.”
+
+“Inakzeptabel!” sprach der Spinnen-Vorsteher. “Wir sollen einen schalen Ersatz schaffen, nur um Eure Fehler zu umgehen!” Er wandte sich zum Priester. “Wenn die Sonne untergeht oder hinter einer Wolke steht, sitzt unser Schreiber nicht untätig wie seine uralten Vorväter, denn seine Halogenlampe brennt Tag und Nacht. Die Dienste der lachenden Affen sollten diesem Beispiel folgen und so verlässlich sein wie der Strom, der das stetige Licht befeuert!”
+
+Der Vorsteher des lachenden Affen überdachte dies.
+
+Spät in der Nacht weckte ein Klopfen an seiner Tür den Vorsteher des Spinnen-Ordens. Er zog seine Robe zusammen und bat den Besucher, einzutreten.
+
+“Auf Wunsch der des lachenden Affen bringe ich ein kleines Geschenk aus meiner Kammer,” flüsterte die Stimme eines alten Mannes. Herein kam niemand anderes als der Schreiber des Tempels, der eine brennende Kerze auf den Tisch stellte. “Wenn es stürmt, brauche ich manchmal welche.”
+

@@ -1,0 +1,42 @@
+Number: 182
+Title: Attrape-souris
+Lang: fr
+Translator: abelards
+Illus.0.title: Ce ne sont vraiment que les petits jouets pour chats que leur fournit la nature.
+
+Un moine expérimenté qui était jaloux de la récente
+[[#174|promotion]] de [[Zjing]] décida d'espionner
+ce sur quoi la nonne travaillait.
+En ouvrant un projet récent, il fut abasourdi de voir que
+son code était un bazar confus, plein de bugs évidents.
+Il en avertit maître [[Banzen]].
+
+Le vieux maître remercia le moine pour son zèle et lui
+proposa de rester un moment. Puis Banzen appela la jeune
+maître Zjing et la mit sur haut-parleur.
+
+"Parle-moi de ce projet 'souris' que tu viens de créer," ordonna Banzen.
+
+"Son code est vraiment horrible," dit Zjing.
+
+Le moine expérimenté sourit de satisfaction.
+
+Banzen demanda, "À quel point ?"
+
+"Ce matin, nos outils de contrôle de la qualité de code
+lui ont trouvé trois cent huit problèmes différents," répondit Zjing.
+
+"En effet, /ça/ c'est un problème," dit Banzen.
+"Si je me souviens bien, ils auraient dû en trouver trois cent /vingt/."
+
+"Correct," dit Zjing. "Il semblerait que quelqu'un ait désactivé
+les règles qui détectent la fuite de ressources.
+Les tests du projet lui-même m'ont remonté l'anomalie ;
+je suis en cours d'enquête."
+
+Banzen lui souhaita bonne chasse et se tourna vers le moine.
+"Si vous craignez jamais avoir des souris dans vos murs,
+écoutez votre bon sens et achetez quatre bons chats.
+Mais écoutez aussi Zjing, et tous les jours relâchez une souris
+au milieu des chats -- pour être sûr qu'ils n'oublient pas
+comment on chasse."

@@ -3,6 +3,6 @@ Lang: fr
 Translator: abelards
 Title: Le Clan des Os de Fer
 
-Les opérations : la colonne vertébrale de l'entreprise.
-Parce que sans matériel, le logiciel ne serait qu'une masse de mots étranges sur papier
+Les Opérations : la colonne vertébrale de l'entreprise.
+Parce que sans le matériel, le logiciel ne serait qu'une masse de mots étranges sur papier
 avec <i>bien trop</i> de point-virgules.

@@ -1,0 +1,148 @@
+Title: La prison des plaisirs infinis
+Number: 128
+Lang: fr
+Translator: abelards
+Illus.0.title: dans une image tramée, les escaliers sont souvent indésirables, alors quand personne ne regarde on amène nos skateboards en haut et on l'antialiase.
+
+L'hiver frappait le Temple de toutes ses forces amères, alors un novice du
+[[Clan of Iron Bones|Clan des Os de Fer]] choisit de profiter de ses vacances
+pour aller rendre visite à des frères dans la province de Phong, au Sud.
+Les moines de ce lieu travaillaient sur les plans d'une grande ferme de rendu,
+où la lumière directionnelle était agréablement chaude quelle que soit
+la saison.
+
+Toute la matinée, le novice regardait tandis que ses frères plus informés
+se pressaient de ci de là, plantant des graines de nombres aléatoires,
+construisant des boîtes et conteneurs, ou enroulant de fil de fer même le
+plus petit modèle afin que ses pixels poussent aux bons endroits.
+Ainsi étaient produites de merveilleuses scènes de chaque teinte et nuance,
+pour plaire aux goûts de la Cour Impériale.
+
+Comme midi approchait, l'estomac du novice commença à gargouiller.
+Comme il devait être accompagné pour tout déplacement dans le temple
+lui-même, le novice approcha un jeune homme de son âge qui présentait bien,
+en train de mettre en place les sources de lumière artificielle au-dessus d'un
+bosquet de petits quad-trees. Les vêtements du garçon étaient d'un tissu
+robuste et rugueux, mais en témoignage des rigueurs de ses devoirs, les
+teintes anciennement vives s'étaient affadies et on en voyait maintenant le
+tramage, les courbes des deux genoux avaient des points de reprise bi
+quadratiques,
+et on voyait sur le poignet un repliement du spectre.
+
+"Dix mille pardons," dit le novice (se sentant d'autant plus coupable de sa
+propre oisiveté) "mais ce corps misérable ne me laissera pas en paix
+jusqu'à ce que le le nourrisse d'un bol de riz. Où est votre maître, que je
+puisse quémander ou négocier auprès de lui ?"
+
+"Dans ses appartements, où je dois lui apporter très bientôt son propre bol,"
+dit le garçon. "Marche avec moi tandis que j'irai le chercher, et je remplirai
+le tien également, car à cette période de l'année nos capacités de stockage
+sont toujours pleines."
+
+Le novice accepta une généreuse portion de riz, puis suivit le garçon dans
+son trajet le long de la cage d'escalier en spirale, mal éclairée,
+qui était le seul hall du temple.
+On l'avait bâti ainsi, expliqua le garçon, pour perdre les photons égarés."
+
+"Car les reflets sont nos ennemis de toujours," dit le garçon, poussant la porte
+vers les appartements de son maître. "Bien que nous ayons de plus grands
+périls, comme mon maître te le dirait probablement s'il était présent."
+
+Le novice suivit le garçon à l'intérieur, intrigué.
+La haute pièce sans fenêtre n'était éclairée que par la lueur diffuse d'un
+moniteur sur un bureau solitaire. De cet angle on ne pouvait pas en voir
+la surface, mais le regard miroir du vieil homme immobile et bavant derrière
+fit dresser les cheveux du novice comme si son cuir chevelu avait ordonné
+à chaque follicule d'indiquer un vecteur normal.
+
+Le garçon posa doucement le bol devant son maître, puis se retira,
+en prenant soin d'éviter l'écran du regard.
+
+"Il est perdu," expliqua amèrement le garçon. "Vois-tu, il y a longtemps
+il a inventé un algorithme ingénieux pour effectuer le rendu de n'importe
+quelle partie du /mandelblob/ en un clin d'oeil..."
+
+"J'ai entendu parler de cette forme," interrompit le novice,
+incapable de détourner son regard du visage du maître.
+"Des rumeurs, seulement... une difficile équation si petite qu'on
+peut l'écrire sur mon petit doigt, mais qui décrit une sphère fractale
+d'une infinie complexité."
+
+"Pas simplement une sphère," continua le garçon.
+"Un monde, un monde mangé par les vers, caché à l'intérieur des lois
+de la théorie des nombres. Poreux, plein de grottes dans des grottes,
+leurs murs portant la cicatrice de grands gouffres, de crevasses béantes,
+et de plus petites fissures.
+Choisis n'importe lequel des tunnels tortueux, aussi lisse que tu veux,
+mais si tu zoomes assez tu verras que sa surface fait des détours, des bulles,
+des cloques comme la chair en liquéfaction ; qu'elle fait jaillir des
+stalagmites pleines de champignons, de champignons sur les
+champignons sur les champignons trop petits pour pouvoir les concevoir,
+jusqu'à ce qu'ils disparaissent dans leurs propres asymptotes ;
+qu'elle entre en éruption de l'autre côté, des spores sur des spores
+sur des spores, et chaque spore est son propre monde dévoré par les vers,
+aussi infiniment complexe que son géniteur, mais de manière perverse,
+différent de celui-ci également..."
+
+"Mon maître avait à peine commencé à explorer cette forme quand par
+accident il zooma trop profondément dans un nodule nanoscopique particulier,
+un spore au hasard parmi des milliards, et trouva -- en tout cas c'est
+ce qu'il dit --
+que c'était une image très semblable à <i>notre propre monde.</i>
+Oui ! Des montagnes mathématiques exactement là où nous avons /nos/
+montagnes, pleine de protubérances pointues comme des fougères ou des sapins,
+ -- de la même teinte ambre maladive, comme les cumuloides virtuels qui
+les survolent, et les rivages simulés, graveleux de picoparticules de sable
+ambré, où des vagues de grains ambrées semblent prêtes à se casser mais
+ne le font jamais ; car c'est un monde en <i>trois</i> dimensions, et
+que rien n'y bouge, pas même les gens. Oui, les gens !
+Des statues monochromes de visage et de forme grotesques, mais humains
+jusqu'aux yeux bordés de cils, jusqu'aux pores de leurs narines, tels des
+caves dans des caves..."
+
+"Mais, tremblant dans sa hâte d'examiner les profondeurs de ce monde
+en pattes de mouche, mon maître cliqua à gauche au lieu de droite.
+Son curseur sauta sur le côté et les coordonnées miraculeuses furent
+perdues à jamais. On dit que ses hurlements d'angoisse furent entendus
+jusque dans les collines voisines. Chacun des moines du temple se pressa
+dans ses appartements, impatients de savoir quel grand désastre avait frappé.
+Et c'est ainsi qu'il raconta l'histoire de sa découverte."
+
+"Les autres maîtres se rirent de lui, l'appelèrent menteur ou fou.
+Même les moines de rang inférieur le dédaignaient.
+Alors il n'eut de cesse de laver son nom en retrouvant ces coordonnées
+fatidiques."
+
+"Les jours devinrent des semaines, qui devinrent des mois, eux-mêmes se
+changèrent en années, et maintenant regarde ce à quoi il est réduit :
+prisonnier de la Sphère Unitaire, marchant toujours sans aller nulle part,
+tenu captif par sa propre obsession.
+Pour un temps, peut-être, il a cru être tombé sur une des Grandes Vérités
+de l'Univers, une correspondance calculable entre le monde de chair et celui
+des formes.
+Maintenant je ne peux plus deviner dans quels paysages il se perd,
+ni pourquoi -- et je ne désire pas le savoir non plus, de peur de succomber
+à une fascination irrésistible et de partager son sort. Il est dit qu'une fois
+prévenu, on est mieux armés, mais pour ma part -- je crains mon esprit.
+Quand le réel rencontre l'imaginaire, leur produit est toujours complexe."
+
+Le novice s'avança pour regarder vers la bordure de l'écran, mais le
+garçon le stoppa.
+
+"Prends ton riz et quitte ce lieu maudit," dit-il.
+"Et amène cette vérité à ton propre temple : que la
+Ferme de Rendu de la Province de Phong n'est pas meilleure qu'un
+champ de pavot, où tous les jours nous semons la perte de nos gens."
+
+"Je ne vois pas," dit le novice.
+
+"L'Empereur n'a qu'à nommer un plaisir -- l'excitation d'une bataille
+au milieu des étoiles, le visionnage de personnes peu modestes
+se livrant à des activités lubriques -- et nous le lui servirons,
+dans ses appartements privés, en six millions de pixels, de seize millions
+de couleurs, à soixante images par seconde.
+Mais ne l'envie pas pour cela. Crains plutôt le jour où toi et moi
+jouirons d'une telle liberté. Car bien que nous ayons créé ici une éternité
+de merveilles, aucun de nous n'a reçu une éternité pour les explorer.
+Le temps est bien précieux, et tout autre monde que le nôtre est,
+en définitive, bien vide."

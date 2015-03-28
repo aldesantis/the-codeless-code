@@ -1,0 +1,58 @@
+Date: 2015-03-14
+Number: 183
+Title: Choosing Your Battles
+Names: Zjing, Wangohan, Spider Clan, Bawan, Kaimu, Banzen, Satou
+Topics: learning, mistakes, frameworks, mentoring, trust, javascript, user interfaces
+Geekiness: 1
+Illus.0.src: sword.jpg
+
+Of all who were pleased with [[Zjing]]'s promotion to Master,
+none was more glad than the monk [[Wangohan]] of the
+[[Spider Clan]].  For Wangohan had many ideas on how to improve the
+Temple's software, and he was eager to share them with a
+sympathetic ear.
+
+"Wangohan has discovered a very promising new user interface
+framework," said Zjing at her weekly teleconference with
+the senior masters.  "He wishes to use it on his next
+project."
+
+/"Another/ framework?" said [[Bawan]].  "We already make use of
+Angular, Backbone, Bootstrap, Dojo, Ember, Jumpstart,
+<nobr>Knockout--"</nobr>
+
+"He believes this one has advantages that the others
+do not," said Zjing.
+
+"He believes?" asked [[Kaimu]], arching his brow.  "And what
+does Zjing believe?"
+
+There was an uncomfortable silence.
+
+"Young master," scowled [[Banzen]] (and now Zjing knew herself
+to be on shaky ground, the same as when her father addressed
+her as /young lady/), "do you fight Wangohan's battles because
+you believe in his cause, prize his friendship, or fear the
+poisons in his spice rack?"
+
+Zjing took a deep breath.  /"Wú,"/ she said, finding sudden
+inspiration.  "If we do not indulge the senior developers
+their most reasonable requests, surely they will grow
+discouraged and cease attempting to improve the temple, and
+we will be the worse for it."
+
+The first two masters looked at Banzen, who considered this.
+"Very well," he said at last. "Let the monk play with his new
+toy."
+
+The novice [[Satou]], apprenticed to Banzen, approached him when
+the meeting had ended.  "Oftimes you have cautioned me away
+from the unknown.  How old must I be before you trust me as
+you trust Wangohan?"
+
+/"Wú,"/ said Banzen.  "I trust only that Zjing's decision is a
+poor one, and that she will soon understand why.  But if we
+do not indulge the young masters their most reasonable
+requests, surely they will grow discouraged and cease
+attempting to improve the temple, and we will be the worse
+for it."

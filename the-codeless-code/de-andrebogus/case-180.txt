@@ -1,0 +1,16 @@
+Number: 180
+Lang: de
+Translator: andrebogus
+Title: Plus Quam Perfekt
+
+Der Tempelplatz war noch schneebedeckt als eine alte Nonne den honorigen Mönch Shinpuru traf, der gerade tote Zweige wegräumte. Bald sprachen sie wie zwei alte Recken vergangener Schlachten.
+
+“Früher war unser Beruf besser,” sprach die Nonne. “In jenen Tagen war der Tempel ein einfacher Ort, die Arbeit froh und Meisterschaft einfach. Wir brauchten nur Editoren zum Coden, make zum kompilieren, und shell Skripte um alles zu verbinden. Doch heute—welche Qual! Mit jeder neuen Technologie muss ich neue Design Pattern, neue Libraries, und neue Werkzeuge lernen. Unser build Prozess ist unflexibel, Design Meetings endlos, Code Reviews beleidigend, Tester intolerant, und Termine verrückt.”
+
+“Da waren die Jahre mir besser gesonnen,” sagte Shinpuru. “Denn in meiner Jugend war mein Tempel ein primitiver Ort, wo wir Siege feierten, die nun lächerlich klein scheinen. Doch heute—welch Glück! Mit jeder neuen Technologie gibt es so viele Werkzeuge, dass ich mit etwas Übung schaffe, was früher unmöglich war. Und lässt unser schnellerer Schritt mich stolpern, fangen mich ein Dutzende Mönche auf. Du solltest Deinen traurigen Tempel verlassen und meinem beitreten.”
+
+Die Nonne hob eine Braue. “Mein Bruder Shinpuru spottet mir, denn wir arbeiten, seit wir Kinder waren bis heute Seite an Seite.”
+
+“Ich begleite Dich am besten zurück zur Abtei,” sagte Shinpuru. “Deine Augen kleben so an den schönen Bildern hinter Dir, dass ich fürchte, Du läufst sonst rückwärts über die Klippe.”
+
+
