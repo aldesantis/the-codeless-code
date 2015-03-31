@@ -2,5 +2,4 @@ Translator: cdlm
 Name: Damien Pollet
 Nom: Damien Pollet
 URL: http://people.untyped.org/damien.pollet/
-
-
+License: [CC-BY-SA](http://creativecommons.org/licenses/by-nc/3.0/deed.en_US)
