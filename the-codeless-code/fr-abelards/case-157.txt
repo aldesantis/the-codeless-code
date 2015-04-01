@@ -4,7 +4,7 @@ Lang: fr
 Translator: abelards
 Illus.0.title: Qi voulait utiliser la même méthode sur maître Kaimu, mais il se trouve que Kaimu aime ce genre de choses.
 
-Maître[[Bawan]] se réveilla un jour pour se trouver
+Maître [[Bawan]] se réveilla un jour pour trouver
 ses poignets menottés l'un à l'autre, et ses chevilles
 entravées de même.
 Il lutta difficilement pour se mettre debout et commença
@@ -14,7 +14,7 @@ avec un grand bruit sourd.
 En regardant en arrière il se rendit compte que ses entraves
 étaient elle-mêmes enchaînées à son bois de lit.
 
-Le maître ne fit que rester au sol et soupira ;
+Le maître ne put que rester au sol et soupirer ;
 car il avait vécu au Temple depuis de nombreuses années,
 et tout aussi singuliers soient-ils, de tels réveils
 ne le surprenaient plus.
@@ -35,7 +35,7 @@ Mais comme je me suis réveillé avec la vessie pleine,
 c'est désormais devenu /urgent/."
 
 "Et bien, je ne vais pas vous distraire," dit le scribe,
-faisant apparaître une épaisse liasse de papier.
+produisant une épaisse liasse de papier.
 "J'étais seulement passé vous voir pour discuter du
 document de conception que vous m'aviez demandé de relire.
 Je dois vous féliciter pour le niveau de détail :
