@@ -5,7 +5,7 @@ Translator: abelards
 
 L'un des moines, qui était connu pour l'élégance de son code,
 avait pour habitude de reprendre le code de ses coreligionnaires
-et de pratiquer le refactoring pour les amener à son niveau d'exigences.
+et de le refactoriser pour l'amener à son niveau d'exigences.
 "Car de la multiplication des incohérence vient le chaos," expliquait-il,
 "le chaos apporte la complexité, la complexité créé la confusion,
 et la confusion est mère de dix mille défauts."
@@ -17,14 +17,14 @@ du code -- entendit ceci. Elle approcha le moine et dit,
 Suku révéla au moine un grand dépôt de code, qui hébergeait
 le code source de la plus antique application du Temple.
 Au cours des décennies, une innombrable procession de
-moines et nonnes étaient passés à travers ses dossiers
-consacrées : ajoutant, retirant, raffinant, appliquant des
-étapes de refactoring, essayant un nouveau framework ici,
+moines et de nonnes étaient passés à travers ses dossiers
+consacrés : ajoutant, retirant, raffinant, factorisant,
+essayant un nouveau framework ici,
 une nouvelle approche là.
 Plusieurs fois, l'intégralité de la base de code avait
 été migrée d'un langage à un autre, et les couches
 les plus profondes en portaient les cicatrices sous forme
-de design patterns insondablement étranges.
+de modèles de conception insondablement étranges.
 Dans une des classes utilitaires, les conventions de
 nommage étaient si farouchement peu cohérentes que le moine
 sentit la tête lui tourner et dût s'allonger sur le sol.
@@ -37,7 +37,7 @@ cette application, avec le style qu'il avait mis tant d'années
 pour remplacer les trop nombreux rouillés, et choisit un
 coin poussiéreux du dépôt pour remonter à partir de là vers
 les couches externes : ajoutant, retirant, raffinant,
-appliquant des étapes de refactoring.
+factorisant.
 
 - - -
 
@@ -69,13 +69,13 @@ de ses liens de chanvre.
 
 "Pas parfait, mais mieux," dit Suku, et elle sortit.
 
-Elle fit de même durant cent soirées, jusqu'à la libération du moine.
+Elle fit de même cent soirs durant, jusqu'à la libération du moine.
 
 - - -
 
 Par la suite, le moine touchait moins au code de ses coreligionnaires,
 et plaça désormais sa fierté dans sa capacité à imiter le style
-et les design pattern des autres quand il modifiait leurs applications.
+et les modèles de conception des autres quand il modifiait leurs applications.
 
 "C'est toujours une vérité du refactoring," disait-il désormais,
 "que parfois on doive introduire le chaos pour apporter l'ordre,
