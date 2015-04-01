@@ -15,8 +15,8 @@ LiveJournal{{2}}, and so on!
 Fortunately, semantic analysis of the traffic reveals a /staggering/
 amount of duplication.  So to reduce bandwidth consumption, storage space,
 and work hours lost to "texting thumb",{{3}}
-I propose a <b>new standardized menu</b> that reduces each comment to
-a simple five-bit number (0 to 31):
+I propose a <b>new standardized menu</b> that reduces each
+social media comment to a simple five-bit number (0 to 31):
 
 <ol start="0">
 <li> "Like" (or “Plus 1”)
