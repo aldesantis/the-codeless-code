@@ -9,7 +9,7 @@ Tagline: In which we spread a social disease.
 Social media is consuming resources at an alarming rate.{{1}}
 Every day, users post roughly 40 million tweets
 and 3.5 /billion/ Facebook messages /alone/ . . . in
-addition to which we have Google Plus, Kinja, Reddit,
+addition to which, we have Google Plus, Kinja, Reddit,
 LiveJournal{{2}}, and so on!
 
 Fortunately, semantic analysis of the traffic reveals a /staggering/
