@@ -3,5 +3,5 @@ Translator: abelards
 Lang: fr
 Title: Le Clan de l'Aigle Aveugle aux Sept Serres
 
-Le Management : ils sont peut-être paralysés et à la vue basse,
-mais ils sont encore les dirigeants du nid.
+Le Management : ils sont peut-être paralysés, ils ont peut-être la vue basse,
+mais ce sont encore les dirigeants du nid.
