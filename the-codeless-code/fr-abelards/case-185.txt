@@ -1,0 +1,64 @@
+Number: 185
+Lang: fr
+Translator: abelards
+Title: Compression des commentaires sur les réseaux sociaux
+Tagline: Dans lequel nous répandons une maladie sociale.
+
+Les médias sociaux consomment des ressources à un rythme alarmant.
+Chaque jour, des utilisateurs postent environ 40 millions de tweets
+et 3.5 /milliards/ de messages /rien que sur Facebook/ {{1}} . . .
+Ajoutons à cela Google Plus, Kinja, Reddit, LiveJournal{{2}},
+et ainsi de suite . . .
+
+Heureusement, une analyse sémantique du trafic révèle des
+taux de similarité /incroyables/. Alors pour réduire la bande
+passante, l'espace de stockage, et les heures de travail perdues
+par le "pouce du texto",{{3}}
+je propose un <b>nouveau menu standardisé</b> qui réduit chaque
+commentaire de réseau social à un simple nombre sur cinq bits (0-31):
+
+<ol start="0">
+<li> "Like" (ou “+ 1”)
+<li> "Hate" (ou “- 1”)
+<li> "OSEF" (ou “* 1”)
+<li> tl;dr (Trop Long ; Pas Lu)
+<li> LOL
+<li> SMH (Shake My Head)
+<li> LOLSMH
+<li> ZOMGROTFLMAOSMH <i>[ne pas essayer IRL].</i>
+<li> <a href="http://xkcd.com">XKCD</a> de rigueur.
+<li> Anecdote ou fait sans rapport.
+<li> Sarcasme
+<li> Boojum {{*}}
+<li> Photo de votre déjeûner.
+<li> Photo de votre entrejambe.
+<li> Image de chat "c'est assez d'Internet pour aujourd'hui".
+<li> Citation de "Firefly"
+<li> Jeu de mots.
+<li> Pire jeu de mots.
+<li> Petite blague pas drôle aux dépends de partenaire / époux absent,
+	donnant aux lecteurs une brève vision de l'amertume bouillonnante
+	qui sous-tend votre relation sans joie.
+<li> Tentative de flirt dérangeante par sous-entendu sexuel suivi de ;-)
+<li> Tentative maladroite de couverture du flirt via "je rigole" suivi de ;-)
+<li> Trolling.
+<li> Vaguebooking.
+<li> Flagornerie <i>[désormais illégal dans l'Indiana].</i>
+<li> Confession avinée <i>[ajustez vos paramètres de sécurité pour désactiver].</i>
+<li> Généralisation radicale.
+<li> #YEnADesBien.
+<li> Observation que /VOTRE/ genre/religion/parti fait /BIEN PIRE./
+<li> Argumentum Ad Hominem.
+<li> P*ain de p*ain de m* à la c*n ça fait ch* !
+<li> Invocation de la Loi de Godwin <i>[termine automatiquement la conversation].</i>
+<li> Je gagne 5000€ par semaine depuis chez moi, avec cette simple
+	astuce inventée par une maman pour agrandir votre pénis :
+	demandez-moi comment ! {{4}}
+</ol>
+
+
+{{1}} Statistiques fournies par <a href="http://www.gwava.com/blog/internet-data-created-daily-2014">ce site</a>.
+{{2}} Non, vraiment, LiveJournal existe encore. Snopes l'a confirmé.
+{{3}} Le "Pouce du Texto" existe vraiment. Son nom scientifique est <a href="http://ergonomics.about.com/od/De-Quervains_Syndrome/a/What_Is_Texting_Thumb.htm">le Syndrome de De Quervain</a>.
+{{4}} Il s'agit de 90% de tout le trafic Internet, d'après une statistique que je viens d'inventer.
+{{*}} Note du traducteur : Boojum est un animal fantastique dans le poème de Lewis Carroll "La chasse au Snark". Or, "snark" est la remarque sarcastique de la ligne d'avant.
