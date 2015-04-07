@@ -1,0 +1,132 @@
+Series: 1
+Number: 1
+Title: La Candidature
+Part: 1
+Subtitle: L'Ermite
+Geekiness: 2
+
+Le [[Temple of the Morning Brass Gong|Temple du Gong d'Airain Matinal]]
+avait répandu la nouvelle que plusieurs lits étaient libres
+dans son réseau de petites abbayes.
+Une rumeur populaire était qu'il y avait eu
+<a href="/case/49">un regrettable incident avec du papier,</a> 
+suite à quoi un nombre de moines avait été "sacqués".
+Le terme n'était pas argotique : au Temple, on utilisait de vrais sacs.
+Une fois ligotés dans la juste, on envoyait les infortunés
+rouler à flanc de montagne tels des fagots de bois,
+suite à quoi les plus chanceux s'écrasaient avec force contre
+des pins. Les moins chanceux rataient les pins et se dirigeaient
+directement vers le bord de la falaise, et au delà.
+
+(Ceci n'est aucunement la pire des choses qui puisse
+arriver à un moine. Les initiés étaient en général plus
+inquiets qu'on leur disent quand ils "jouent avec le feu",
+un rituel à base de salpêtre, soufre, charbon, et un gros canon
+Plus douloureux encore est la méthode pour réduire les coûts
+que l'on appelle "redimensionner", dans laquelle on faisait
+tenir les moins dans de plus petits bureaux en retirant
+quelques centimètres non nécessaires, soit en commençant
+des doigts de pieds pour remonter ou (dans le cas du management)
+du cou pour redescendre.
+Et personne n'ayant travaillé aux cuisines ne voulait imaginer
+ce qu'impliquait le processus de cinq jours qu'on appelaît
+"changer de boîte".)
+
+- - -
+
+La nouvelle des places libres arrive aux oreilles d'une novice
+nommée AAradhya. Elle vivait dans un pays chaud très loin du temple,
+un endroit aux collines nues frappées par un soleil de plomb.
+L'air était empli de poussière. Elle couvrait sans discrimination
+la peau, les dents, et les circuits imprimés.
+À l'inverse de sa famille, Aaradhya n'avait pas réussi à s'y
+habituer, et après vingt ans à la respirer elle en avait eu bien assez.
+
+Le site Web du temple annonçait bien que des entretiens étaient
+ouverts, mais ne fournissait ni moyen de contact ni formulaire
+pour manifester son intérêt. Curieusement, il n'y avait même
+pas d'information qui dirait où se trouve le temple.
+
+Aaradhya parcourut chaque page et finit par trouver un numéro
+de téléphone écrit en blanc sur fond blanc. Mais la voix qui
+répondit annonça n'être que l'ermitage qui hébergeait le site
+Web public du temple.
+
+"Je vous serais fort reconnaissante si vous pouviez me
+donner le numéro du temple lui-même," dit Aaradhya,
+plongeant son pinceau dans un pot d'encre noire.
+Elle le remua pour faire disparaître le fin film de
+particules qui s'y était déposé.
+
+"Quatre cent trois," répondit l'ermite.
+Aaradhya écrivit les chiffres et attendit qu'il continue,
+mais la ligne restait silencieuse.
+
+"Et pourriez-vous me donner le reste du numéro ?"
+demanda Aaradhya.
+
+"Quatre cent trois," répondit l'ermite.
+Et de nouveau il y eut une longue pause, et de nouveau
+le nombre de chiffres était insuffisant.
+Aaradhya posa son pinceau, tapotant du doigt sur la table
+en réfléchissant.
+
+"Donnez-moi une émeraude de la taille d'un oeuf de pluvier,"
+ordonna-t-elle.
+
+"Quatre cent quatre," répondit l'ermite, et Aaradhya sourit
+de satisfaction, car elle savait qu'elle venait de trouver
+son algorithme.
+
+"En vérité vous n'êtes pas un ermite solitaire mais un
+frère du [[Spider Clan|Clan de l'Araignée]]," dit-elle,
+"car vous répondez selon leur légendaire coutume.
+Y a-t-il un moyen par lequel le temple puisse être
+contacté par l'humble requérante que je suis ?"
+
+"Deux cent fois dois-je vous répondre oui."
+
+"Et votre estimée persone pourrait-elle me signifier ce moyen ?"
+
+"Deux cent et quatre fois dois-je vous répondre non."
+
+"Frère ermite, vous êtes en effet un maître des toiles,
+car de fait je me retrouve empêtrée dans l'une d'elles.
+Ne pouvez-vous offrir à la pauvre novice que voici
+ne serait-ce qu'une redirection ?"
+
+"Trois cent et une fois je vous renverrais là d'où vous venez ;
+mais il semble certain que c'est ici que vous souhaitez être,"
+dit l'ermite. Il y eut un court bip, puis un parfait silence
+électronique.
+
+Aaradhya posa son téléphone. La page avec le numéro de l'ermitage
+brillait encore sur son écran. Elle ne disait pas grand chose
+d'important, en tout cas c'est ce qu'il semblait ;
+car elle contenait exclusivement des hyperboles enthousiastes
+tissées de buzzwords polysyllabiques -- un dialecte utilisé
+seulement par le trois fois méprisé Clan du Serpent Lubrique.
+Aaradhya tenta de déchiffrer les passages pour y trouver quelque
+contenu utile jusqu'à ses yeux s'en assèchent et que sa tête
+ne lui fasse mal.
+Elle finit par s'asseoir de défaite, réfléchissant à ce qu'elle
+devrait faire par la suite.
+On pouvait voir dans l'apaisante image de fond de la page
+les terres du temple dans la brume matinale: le brouillard
+qui s'élevait se fondait élégamment dans la zone de contenu
+blanche. Le soleil pâle renforçait l'impression de fraîcheur.
+
+De fait, elle pensa: si c'est là que je souhaite être,
+c'est là que je /dois/ être. Car mon vieux maître de C
+me l'a appris : le pointeur vers un tableau de caractères
+peut être vide, mais jamais le tableau de caractères.
+La téléprésence n'est au mieux qu'un fragile ersatz de la /présence/.
+
+Ainsi Aaradhya fit ses adieux à sa famille, jeta son bol
+sur son dos, sa jarre à l'épaule, et partit vers la lointaine
+province dans laquelle la rumeur disait que se trouvait le temple.
+
+<p style="font-size:88%;
+background-color:#fff;color:#fff;">(Oui, oui, vous êtres très malin.
+Mais il semble évident que je ne vous donnerai pas mon numéro
+de téléphone ici.)</p>
