@@ -1,0 +1,56 @@
+Name: help-geekiness
+Lang: en
+Title: The geekiness ratings
+Content-type: text/php
+
+<p>In an effort to reduce frustrations on the part of the reader,
+  the author has ranked each case by the following criteria:</p>
+
+<table>
+
+  <tr>
+    <td class="icon"><img src="/images/geek0.png" /></td>
+    <td class="name"><?php echo ucfirst($H->geekinessQuality(0)) . '.'; ?></td>
+    <td class="desc">If you know what a computer is, then
+      you can probably understand this.  I'm not saying you'll
+      <i>enjoy</i> it, but you'll probably understand it.</td>
+  </tr>
+
+  <tr>
+    <td class="icon"><img src="/images/geek1.png" /></td>
+    <td class="name"
+        ><?php echo ucfirst($H->geekinessQuality(1)) . '.'; ?></td>
+    <td class="desc"
+        >Involves some basic software development concepts.
+      Testing.  Software reuse.  Infinite loops.  Caffeine.
+    </td>
+  </tr>
+
+  <tr>
+    <td class="icon"><img src="/images/geek2.png" /></td>
+    <td class="name"
+        ><?php echo ucfirst($H->geekinessQuality(2)) . '.'; ?></td>
+    <td class="desc"
+        >Oriented towards the casual hacker or the technology enthusiast.
+      If you've programmed in something resembling a modern software
+      language &mdash; Java, C++, Python, Perl &mdash; then you'll be fine.
+      Prolog developers will probably find the syntax quaint and
+      insufficiently cryptic.
+      Lisp developers will get eye-strain while habitually scanning for the
+      first left-parenthesis.
+    </td>
+  </tr>
+
+  <tr>
+    <td class="icon"><img src="/images/geek3.png" /></td>
+    <td class="name"
+        ><?php echo ucfirst($H->geekinessQuality(3)) . '.'; ?></td>
+    <td class="desc"
+        >Intended for hardcore developers,
+      particularly of the Java variety.
+      If C# is your language, you may wish to translate the kōan
+      first by Needlessly Capitalizing Nearly Every Damned Word.
+    </td>
+  </tr>
+
+</table>

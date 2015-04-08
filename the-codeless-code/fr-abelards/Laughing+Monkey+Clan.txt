@@ -3,20 +3,21 @@ Lang: fr
 Translator: abelards
 Title: Le Clan du Singe Rieur
 
-Spécialistes de la couche métier, où le métier fait ses manigances.
+Spécialistes de la couche métier, où le métier fait ses singeries.
 Les membres de ce clan ont un style de combat traditionnel à base
 de lancer de clefs anglaises à leurs ennemis ; ça n'est toléré que
 parce que ce n'est pas la /pire/ chose que les Singes ont pour
 réputation de lancer.
 
 Il existe une théorie selon laquelle un nombre fini de Singes Rieurs
-en train de marteler un nombre fini de clavier au hasard, finira bien
+en train de marteler un nombre fini de claviers au hasard, finira bien
 un jour par produire du code qui compile.
 L'existence de la Bibliothèque Standard de PHP semble indiquer que
 c'est déjà arrivé.
 
 == Note du traducteur
+
 Désolé, les jeux de mots et allusions ne passent pas la traduction :
 - "Laughing Monkey", Singe Rieur
-- "Monkey Business", les manigances, la pagaille.
+- "Monkey Business", les manigances, la pagaille (j'ai mis singeries)
 - "Monkey Wrench", clé anglaise

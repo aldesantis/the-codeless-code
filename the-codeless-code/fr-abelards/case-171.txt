@@ -41,7 +41,7 @@ consulta de nouveau le listing, et répéta l'opération quelques fois.
 Le curseur était en effet sur un fragment SQL dans lequel
 il manquait une parenthèse fermante.
 "Laissez-moi revenir à mon poste de travail, et je pourrai retracer
-les appels de ce code à qui consomme la requête, et reproduire
+les appels dans le code qui consomment cette requête, et reproduire
 l'erreur que vous voyez dans les fichiers journaux.
 Ensuite nous pourrons réparer le défaut en toute confiance."
 
