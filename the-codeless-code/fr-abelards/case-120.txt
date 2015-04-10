@@ -10,8 +10,8 @@ mais comme il ne lui était pas familier, sa première implémentation
 était [[#91|étrange]] et [[#99|fragile]].
 Pendant des semaines Wangohan travailla dur pour corriger les problèmes,
 restructurant son code tandis que sa compréhension du framework grandissait.
-Au moment de la livraison, son application était élégante au-delà de
-toute comparaison, et les abbés du [[Spider Clan|Clan de l'Araignée]]
+Au moment de la livraison, le code de son application était d'une élégance
+incomparable, et les abbés du [[Spider Clan|Clan de l'Araignée]]
 donnèrent leur accord pour que ce nouvel outil soit utilisé dans les projets futurs.
 
 "Mais d'abord," dit le plus jeune abbé, "nous devons implémenter
