@@ -17,7 +17,7 @@ afin de triompher de ces obstacles ?"
 regardant à la fenêtre d'un air absent.
 
 Le moine répondit, "Si on annote correctement le Value Object
-de la table d'une base de données, toute une page de recherche
+d'une table de la base de données, toute une page de recherche
 pour cette table peut être créée avec peu ou pas de code !"
 
 "En vérité, l'écriture de code est un fardeau pour le Temple,"
@@ -53,6 +53,7 @@ et dis-lui qu'il peut désormais courir aussi vite qu'il lui plaît."
 
 
 == Note du Traducteur
+
 Le titre est dur à traduire : "The Ties that Bind" (les liens qui lient, qui obligent, qui piègent).
 Du coup j'ai fait un autre jeu de mots entre les actions entreprises et les obligations résultantes.
 Le titre original n'est pas "Bonds (un autre synonyme de liens d'ailleurs) and shares (ou equity)".

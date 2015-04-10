@@ -1,0 +1,60 @@
+Date: 2015-04-01
+Name: case-xkcd
+Title: Social Media Comment Compression
+Names:
+Topics: social media, user interfaces, space efficiency
+Geekiness: 0
+Tagline: In which we spread a social disease.
+
+Social media is consuming resources at an alarming rate.
+Every day, users post roughly 40 million tweets
+and 3.5 /billion/ Facebook messages /alone/ {{1}} . . . In
+addition to which, we have Google Plus, Kinja, Reddit,
+LiveJournal{{2}}, and so on . . .
+
+Fortunately, semantic analysis of the traffic reveals a /staggering/
+amount of duplication.  So to reduce bandwidth consumption, storage space,
+and work hours lost to "texting thumb",{{3}}
+I propose a <b>new standardized menu</b> that reduces each
+social media comment to a simple five-bit number (0 to 31):
+
+<ol start="0">
+<li> "Like" (or “Plus 1”)
+<li> "Hate" (or “Minus 1”)
+<li> "Whatever" (or “Times 1”)
+<li> tl;dr
+<li> LOL
+<li> SMH
+<li> LOLSMH
+<li> ZOMGROTFLMAOSMH <i>[don't try this IRL].</i>
+<li> Obligatory <a href="http://xkcd.com">XKCD</a>.
+<li> Irrelevant trivia.
+<li> Snark.
+<li> Boojum.
+<li> A picture of your lunch.
+<li> A picture of your junk.
+<li> A picture of the "that's enough internet for today" cat.
+<li> "Firefly" quote.
+<li> Pun.
+<li> Worse pun.
+<li> Small unfunny joke made at expense of absent partner/spouse, giving readers a glimpse into the seething bitterness underlying your joyless relationship.
+<li> Creepy attempt at flirting, via sexual innuendo followed by ;-)
+<li> Clumsy attempt to cover up flirting, via "j/k" followed by ;-)
+<li> Trolling.
+<li> Vaguebooking.
+<li> Sycophantic mollycoddling <i>[now illegal in Indiana].</i>
+<li> Drunken confession <i>[adjust security settings to disable].</i>
+<li> Sweeping generalization.
+<li> #NotAll___.
+<li> Observation that /YOUR/ gender/religion/political party does something /EVEN WORSE./
+<li> Argumentum Ad Hominem.
+<li> F-bombs away!
+<li> Invocation of Godwin's Law <i>[automatically ends thread].</i>
+<li> I made $6400/week working at home, using this one trick invented by a mom to enlarge your penis: ask me how! {{4}}
+</ol>
+
+
+{{1}} Statistics courtesy of <a href="http://www.gwava.com/blog/internet-data-created-daily-2014">this site</a>.
+{{2}} No, really, LiveJournal is still around.  Snopes confirmed it.
+{{3}} "Texting Thumb" is a thing that is real.  It's formally known as <a href="http://ergonomics.about.com/od/De-Quervains_Syndrome/a/What_Is_Texting_Thumb.htm">De Quervain's Syndrome</a>.
+{{4}} 90% of all Internet traffic is this, according to a statistic that I made up just now.
