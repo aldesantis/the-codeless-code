@@ -1,0 +1,120 @@
+Series: 1
+Number: 2
+Title: La Candidature
+Part: 2
+Subtitle: La fontaine d'Anantha
+Credits: Remerciements particuliers à Nick Montfort pour avoir trouvé un bug dans le code !
+
+[[Aaradhya]] avait voyagé vers le nord pendant plusieurs jours
+quand elle tomba sur un cercle solennel d'enfants rassemblés
+sur le bord de la route, devant une école délabrée.
+Leur couleur de peau, noisette, était d'une teinte plus claire
+que la sienne.
+Chaque enfant avait un ordinateur portable qui avait survécu
+au fil du temps à de nombreux assauts, et sur leur écran on
+pouvait voir une console de lettres blanches sur fond gris.
+On voyait sur chacun le même bout de code.
+
+"Quel est ce langage ?" demanda Aaradhya, regardant
+l'écran au dessus de l'épaule d'un garçon.
+
+"C'est du BASIC, Madame," répondit le garçon.
+"La maîtresse n'a commencé à nous l'enseigner que la semaine dernière."
+
+"Le langage a bien changé depuis que j'avais votre âge,"
+observa Aaradhya. "Où sont les numéros de ligne ?"
+
+"Nous n'en avons pas besoin, Madame."
+
+"Mais comment faites-vous pour faire un GOTO ?"
+
+"GOTO est interdit, Madame. Nous ne faisons que de l'algèbre."
+
+"Alors comment avez-vous codé la fontaine d'Anantha ?"
+
+Les enfants se regardèrent les uns les autres, intrigués.
+
+"Ah," dit Aaradhya. "Ça ne m'étonne pas que vous ayez tous
+la tête d'une chèvre attelée à une charrue. Quand j'étais
+une petite fille la coutume était de terminer le tout premier
+jour de cours avec la fontaine d'Anantha. Voilà..."
+La novice prit délicatement le portable d'une des filles.
+"Comment t'appelles-tu ?"
+
+"Simbala, Madame."
+
+Aaradhya écrivit :
+
+<pre>
+  10 PRINT "Hello, Simbala!! ";
+  20 GOTO 10
+  RUN
+</pre>
+
+L'écran se remplit d'un flux ondulant et sans fin de :
+
+<pre>
+  Hello, Simbala!! Hello, Simbala!! Hello, Simbala!! He
+  llo, Simbala!! Hello, Simbala!! Hello, Simbala!! Hell
+  o, Simbala!! Hello, Simbala!! Hello, Simbala!! Hello,
+   Simbala!! Hello, Simbala!! Hello, Simbala!! Hello, S
+  imbala!! Hello, Simbala!! Hello, Simbala!! Hello, Sim
+  bala!! Hello, Simbala!! Hello, Simbala!! Hello, Simba
+  la!! Hello, Simbala!! Hello, Simbala!! Hello, Simbala
+  !! Hello, Simbala!! Hello, Simbala!! Hello, Simbala!!
+   Hello, Simbala!! Hello, Simbala!! Hello, Simbala!! H
+  ello, Simbala!! Hello, Simbala!! Hello, Simbala!! Hel
+  lo, Simbala!! Hello, Simbala!! Hello, Simbala!! Hello
+  , Simbala!! Hello, Simbala!! Hello, Simbala!! Hello,
+  Simbala!! Hello, Simbala!! Hello, Simbala!! Hello, Si
+  mbala!! Hello, Simbala!! Hello, Simbala!! Hello, Simb
+  ala!! Hello, Simbala!! Hello, Simbala!! Hello, Simbal
+  a!! Hello, Simbala!! Hello, Simbala!! Hello, Simbala!
+  ! Hello, Simbala!! Hello, Simbala!! Hello, Simbala!!
+  Hello, Simbala!! Hello, Simbala!! Hello, Simbala!! He
+</pre>
+
+À chaque fois qu'une ligne s'ajoutait en bas, les lignes
+d'au-dessus se décalaient vers le haut.
+
+"Et maintenant chacun essaie avec son propre nom,"
+dit Aaradhya aux enfants qui s'empressaient autour,
+bien qu'elle n'avait pas besoin de demander ;
+certains en avaient déjà tapé la moitié.
+Les ordinateurs portables passaient de main en main
+pour comparer les sorties.
+Pour certains noms les lignes diagonales penchaient
+à gauche, pour d'autres elles penchaient à droite, et
+pour certains la pente était si abrupte qu'on n'arrivait
+presque pas à les discerner.
+Pour un garçon au nom particulièrement long, le message
+se répétait simplement en une morne colonne verticale.
+
+Aaradhya lui conseilla d'ajouter un autre point d'exclamation
+-- ou tout autre caractère de son choix -- et de fait,
+la forme désirée apparut.
+Les autres suivirent cet exemple, et bientôt les noms furent
+remplacés par des vagues ondulantes de points, tirets,
+pourcentages et barres obliques.
+
+La vieille maîtresse sortit de l'école, alertée par le bruit
+de tant de bavardages. Quand elle vit ce qu'Aaradhya avait
+appris aux enfants, elle attrapa un balai et chassa la
+novice de ses terres.
+
+"Tu es folle !" dit la maîtresse. "Ne vois-tu pas que notre
+village est pauvre ? Le seul espoir de ces enfants est
+d'apprendre leur métier vite et bien, et non le gaspiller
+dans d'oisives idioties."
+La maîtresse leva de nouveau son balai, mais Aaradhya
+tourbillonna et brandit son bâton de marche en réponse.
+La vieille femme se mit en retrait.
+
+"Au contraire, Madame l'Enseignante," granda Aaradhya.
+"Je vous ai rendu grand service, et un jour je reviendrai
+avec mon propre balai pour recevoir mon paiement de votre
+vieille tanière ridée.
+N'avez-vous jamais vu des chatons jouer avec une pelote de
+ficelle ? Vous avez pris une meute de tigres et leur avez
+simplement ordonné d'attaquer un ours.
+Je leur ai donné le goût de la chasse."
