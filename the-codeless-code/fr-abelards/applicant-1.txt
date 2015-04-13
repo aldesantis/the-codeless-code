@@ -2,7 +2,7 @@ Series: 1
 Number: 1
 Lang: fr
 Translator: abelards
-itle: La Candidature
+Title: La Candidature
 Part: 1
 Subtitle: L'Ermite
 Geekiness: 2

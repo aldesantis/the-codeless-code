@@ -1,5 +1,7 @@
 Series: 1
 Number: 2
+Lang: fr
+Translator: abelards
 Title: La Candidature
 Part: 2
 Subtitle: La fontaine d'Anantha
