@@ -1,5 +1,7 @@
 Series: 1
 Number: 1
+Lang: fr
+Translator: abelards
 Title: La Candidature
 Part: 1
 Subtitle: L'Ermite
@@ -9,7 +11,7 @@ Le [[Temple of the Morning Brass Gong|Temple du Gong d'Airain Matinal]]
 avait répandu la nouvelle que plusieurs lits étaient libres
 dans son réseau de petites abbayes.
 Une rumeur populaire était qu'il y avait eu
-<a href="/case/49">un regrettable incident avec du papier,</a> 
+[[#49|un regrettable incident avec du papier,]]
 suite à quoi un nombre de moines avait été "sacqués".
 Le terme n'était pas argotique : au Temple, on utilisait de vrais sacs.
 Une fois ligotés dans la juste, on envoyait les infortunés
