@@ -1,4 +1,6 @@
 Number: 186
+Lang: fr
+Translator: abelards
 Title: Rien, pour toujours
 Tagline: Dans lequel on fait un petit pas pour l'homme, un pas de géant pour l'hilarité.
 
