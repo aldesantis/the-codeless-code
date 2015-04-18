@@ -1,0 +1,4 @@
+Translator: badziew
+Name: Krzysztof Sikorski
+URL: https://github.com/krzysztof-sikorski
+License: [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/deed.pl)
