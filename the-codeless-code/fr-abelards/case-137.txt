@@ -3,10 +3,10 @@ Number: 137
 Lang: fr
 Translator: abelards
 
-Une nonne trouva le scribe [[Qi]] dans son étude.
+Une nonne vint trouver le scribe [[Qi]] dans son étude.
 
 "Je suis intriguée par les commentaires que vous avez
-écrit sur ma documentation," dit la nonne, en plaçant
+écrits sur ma documentation," dit la nonne, en plaçant
 une épaisse ramette de papier sur le bureau du scribe.
 
 "Ah, oui," dit Qi tandis qu'il tournait les pages,
@@ -14,13 +14,13 @@ révélant des centaines de diagrammes de séquence proprement rendus,
 chacun avec une petite note griffonnée à l'encre rouge.
 "Vous êtes la nonne qui illustre graphiquement chaque
 circonstance possible dans laquelle un objet du domaine
-est rechercé ou affiché, que le cas semble intuitif ou non."
+est recherché ou affiché, que le cas semble intuitif ou non."
 
 "Je recherche l'exhaustivité," dit la nonne.
 
 "C'est un soulagement," dit le scribe.
 "Si vous cherchiez la concision, je tremble de savoir
-ce que votre exhaustivité ferait aux forêts d'ici."
+ce que votre exhaustivité ferait aux forêts alentour."
 
 La nonne tapota du doigt sur la note à l'encre rouge
 au bas d'une page. "Mais sous chacun de ces diagrammes
