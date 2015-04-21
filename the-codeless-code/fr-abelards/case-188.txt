@@ -1,0 +1,31 @@
+Number: 188
+Lang: fr
+Translator: abelards
+Title: Qui aime bien châtie bien
+Tagline: Dans lequel nous sommes excellents les uns avec les autres.
+Illus.0.title: En plus, c'était un développeur Python.
+
+Un jeune moine demanda à maître [[Kaimu]],
+"À part les compétences techniques, pouvez-vous me donner une
+qualité essentielle que les maîtres doivent montrer toujours
+et en tous lieux ?"
+
+Kaimu répondit "La bonté."
+
+Le moine demanda, "Quand [[Banzen]] m'a corrigé avec son bâton,
+envers qui faisait-il preuve de bonté ?"
+
+Kaimu répondit "Au toi futur."
+
+Le moine demanda, "Quand [[Suku]] m'a refusé la direction d'une équipe,
+envers qui faisait-elle preuve de bonté ?"
+
+Kaimu répondit, "À notre Temple et à nos clients."
+
+Le moine dit, "La semaine dernière, [[Bawan]] envoya un candidat
+dégringoler la falaise depuis le haut de la tour pour avoir
+falsifié son CV. Il n'y avait ni clients, ni temple, et pas de
+futur pour lui.
+Envers qui Bawan faisait-il preuve de bonté ?"
+
+Kaimu répondit "Au Monde."
