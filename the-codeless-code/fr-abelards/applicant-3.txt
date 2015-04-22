@@ -1,0 +1,119 @@
+Series: 1
+Number: 3
+Title: La Candidature
+Part: 3
+Lang: fr
+Translator: abelards
+Subtitle: Calculs
+
+[[Aaradhya]] avait à peine passé les portes du village
+qu'elle entendit une voix aigüe criant /Madame ! Madame !/
+venant de la route derrière elle.
+Un garçon lui courait après, agitant frénétiquement les bras.
+Tandis qu'il dérapait en s'arrêtant dans la poussière
+à côté d'elle, Aaradhya reconnut l'un des étudiants qui
+apprenait le BASIC dans la cour de l'école.
+Il avait environ sept ans, les pieds et le torse nus,
+habillé seulement d'un pantalon beige dont les motifs
+s'étaient délavés depuis longtemps.
+Ses cheveux étaient aussi raides et noirs que ceux d'Aaradhya,
+et sa peau était presque aussi sombre, mais ses yeux étaient
+d'une étonnante nuance de vert.
+
+"Madame !" s'exclama le garçon essouflé.
+"Mon grand-père voudrait vous parler !"
+Il prit sa main et la tira en arrière pour la ramener sur la route.
+
+Le grand-père marchait vers eux, un parasol déchiré pour
+tout rempart contre le brûlant soleil de midi.
+Ses cheveux étaient blancs, et comme le garçon il était
+vêtu d'habits élimés dont les couleurs avaient été depuis
+longtemps affadies par les éléments.
+Quand les deux se retrouvèrent proches, il ferma son parasol
+et salua Aaradhya en s'inclinant légèrement, les paumes
+se touchant devant la poitrine. Aaradhya fit de même.
+
+"Ce professeur n'est pas bon," dit le grand-père,
+"et il faut que le garçon soit éduqué correctement.
+Sinon il finira comme son père, un homme brisé à qui on ne fait
+confiance que pour faire des macros de tableur et un fichier
+.BAT de temps en temps."
+
+"C'est un destin courant," lui accorda Aaradhya.
+
+"Je comprends que vous n'êtes pas un professeur de peu
+de compétences," continua le vieil homme. "Initiée
+non seulement en BASIC, mais aussi dans les arts
+désirables de Java et du C."
+
+Aaradhya leva un sourcil. "Mon BASIC est hélas obsolète.
+Et bien qu'il soit vrai que j'aie terminé mon apprentissage
+en Java, je suis loin d'être un maître."
+
+"Néanmoins, vous dépassez tous les autres de ce village.
+Ne pourriez-vous pas rester ici un temps, pour enseigner
+à ceux qui le désirent ?"
+
+"Mon propre maître a un adage," dit Aaradhya.
+<i>"Le zéro peut envier la MAX_VALUE d'un bit,
+mais elle est loin de la MAX_VALUE d'un Integer."</i>
+Elle glissait distraitement sa main le long des coutures
+de sa robe. "De fait, c'est pour une telle promotion de
+type que je voyage vers le Nord.
+Le Temple du Gong d'Airain du Matin propose des épreuves
+pour trouver de nouveaux novices ce mois-ci.
+C'est pour cette raison que je n'ose rester même un jour
+de plus, de peur que leur peu de places ne soient prises."
+
+"Ah !" se lamenta le grand-père.
+"J'ai entendu parler de ce temple. Si loin, et de l'autre
+côté des montages avec ça ! Ne vous serait-il pas plus utile
+de voyager dans une quelconque sorte de véhicule roulant
+avec un moteur à combustion ?"
+
+Aaradhya rit. "Vous pourriez tout aussi bien me demander
+si cela me serait plus utile de me faire pousser des ailes
+et voler ! Même si on pouvait trouver ce genre d'appareil
+dans ces provinces, je ne pourrais pas me permettre de
+l'acheter, pas plus que l'essence pour le faire fonctionner."
+
+"Peut-être, peut-être," dit le vieil homme, dans un sourire
+où il manquait la moitié des dens. "À Reechee il y a un
+conducteur qui traverse les montagnes tous les jours dans
+un tel véhicule, un merveilleux engin qu'il a fabriqué à
+partir d'une locomotive abandonnée.
+Il l'appelle un /bus/, car il peut embarquer de nombreux
+passagers en parallèle. C'est un lointain cousin, et je
+dois pouvoir le convaincre de te prendre à bord sans payer."
+Le grand-père rouvrit son parasol et commença à revenir
+vers le village.
+"Tout ce que je te demande, c'est d'enseigner au garçon
+durant le trajet."
+
+"Reechee est à trois bons jours de marche," dit Aaradhya,
+énervée. "Le double de cela à la vitesse de vos vieilles
+jambes. Et c'est dans le mauvais sens !"
+
+"Six jours de marche plus deux jours de bus, contre trois
+semaines de marche," répliqua le grand-père. Il tira le
+garçon à son côté. "Quel que soit le langage, le calcul est
+simple. On peut même le faire tenir dans des Bytes."
+
+Aaradhya cessa de lui emboîter le pas ; le vieil homme
+l'ignora et continua. Le garçon lui jeta quelques regards
+en arrière de temps en temps, mais à chaque fois le grand-père
+lui fit retourner la tête d'une main ferme.
+
+"Comment puis-je être sûre que votre cousin me laissera passer ?"
+cria Aaradhya de loin.
+
+"Tu ne peux pas !" cria le grand-père sans se retourner.
+Il leva l'index. "La vie est un algorithme probabiliste,
+où des entrées optimales peuvent toujours produire de mauvais
+résultats. Mais chaque minute de discussion est une minute
+perdue, et les minutes nous sont précieuses à tous les deux."
+
+Les deux silouhettes disparurent à un tournant, et Aaradhya fut seule.
+
+Elle se tint là en débattant avec elle-même une minute entière,
+puis jura en son for intérieur et courut pour les rejoindre.

@@ -4,7 +4,7 @@ Number: 127
 Names: Kaimu, Suku, Bawan, Banzen, Yishi-Shing, Shinpuru
 Topics: depression, loneliness, purpose, morale
 Geekiness: 1
-Credits: Inspired by a request from a reader.
+Credits: Inspired by a request from a reader.  Many thanks to Irving Rivas for the spelling corrections.
 
 The young master [[Kaimu]] was sifting through his inbox when
 he came upon a message from an unknown sender:
@@ -99,7 +99,7 @@ Kaimu bowed and went out.
 - - -
 
 Kaimu happened upon the monk [[Shinpuru]], pruning his vines
-in the greenhouse.  As the monk was older then he, Kaimu
+in the greenhouse.  As the monk was older than he, Kaimu
 told Shinpuru of the letter.  "No master is equal to this matter.
 What wisdom can you offer?"
 
@@ -112,7 +112,7 @@ And if the mind is destined to be lost, then all that matters is the present."
 
 Then the monk thought a little more, and said to Kaimu:
 
-"Begun your reply thus: When the great wolf Desire pulls
+"Begin your reply thus: When the great wolf Desire pulls
 your sledge across the ice, its cub Disappointment will
 surely nip at your heels.  You must therefore yoke yourself
 to yourself...

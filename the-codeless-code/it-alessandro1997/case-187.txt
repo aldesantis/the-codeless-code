@@ -1,0 +1,51 @@
+Number: 187
+Title: Colloquio di uscita
+Tagline: In cui prendiamo le cose per ciò che sono
+Illus.0.title: Alcuni candidati me lo hanno fatto sul serio, senza mostrare il minimo imbarazzo. Col senno di poi, li avrei dovuti assumere tutti per poi spedirli al Marketing.
+
+Il maestro Java [[Bawan]] era impegnato in un colloquio con un candidato per il
+[[Elephant's Footprint Clan|Clan dell'Orma di Elefante]]. Dopo le solite domande
+preliminari (sulle classi astratte e sul programma FizzBuzz), Bawan disegnò un
+semplice schema database sulla lavagna e chiese al candidato di definire alcuni
+POJO annotati per il funzionamento con Hibernate.
+
+"Non so cosa vogliate dire" disse il candidato.
+
+"Oggetti dominio" disse Bawan "con annotazioni Hibernate".
+
+"Continuo a non sapere cosa vogliate dire" disse il candidato.
+
+"Magari le conosci come annotazioni JPA" suggerì Bawan.
+
+Il candidato scosse la testa.
+
+"EJB3?" chiese Bawan. "ORM?"
+
+Il candidato scosse la testa.
+
+Bawan esaminò un foglio. "Allora magari puoi dirmi perché Hibernate, JPA, EJB3
+e ORM sono tutti menzionati in cima al tuo curriculum, sotto la voce
+/Competenze Principali/."
+
+"Oh!" disse il candidato. "Il mio collocatore mi ha detto di metterli lì. Ha
+detto che sarebbero stati molto utili per i colloqui."
+
+"Capisco" disse Bawan. "Be', il nostro tempo insieme è finito. Il tuo prossimo
+colloquio sarà col maestro [[Kaimu]], che è meno fiscale su certe cose. Vai a
+destra, sali le scale e cerca la porta col suo nome."
+
+Il candidato ringraziò Bawan e andò.
+
+- - -
+
+Il giorno successivo, Bawan chiese a Kaimu cosa pensasse del candidato.
+
+"Non l'ho mai visto" disse Kaimu. "Pare che, uscito dal tuo ufficio, sia andato
+a destra invece che a sinistra, si sia arrampicato fino al pinnacolo della torre
+sulla scarpata e si sia lanciato attraverso una porta di manutenzione che usiamo
+per accedere all'antenna WiFi all'esterno dell'edificio. Forse puoi dirmi perché
+su quella porta ci fosse il mio nome, sopra un cartello che diceva
+/Chiudere gli occhi e spingere forte/."
+
+"Oh!" disse Bawan. "Madame [[Jinyu]] mi ha detto di metterli lì. Ha detto che
+sarebbero stati molto utili per i colloqui."

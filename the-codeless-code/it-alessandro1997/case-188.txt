@@ -1,0 +1,26 @@
+Number: 188
+Title: Il medico pietoso
+Tagline: In cui siamo eccellenti per gli altri
+Illus.0.title: Come se non bastasse, era uno sviluppatore Python.
+
+Un giovane monaco chiese al maestro [[Kaimu]]: "Oltre alle competenze tecniche,
+qual è la qualità essenziale che un maestro deve sempre avere?"
+
+Kaimu rispose: "La gentilezza."
+
+Il monaco chiese: "Quando [[Banzen]] mi ha corretto col suo bastone, verso chi
+è stato gentile?"
+
+Kaimu rispose: "Verso il futuro te."
+
+Il monaco chiese: "Quando [[Suku]] mi ha negato un ruolo di leadership, verso
+chi è stata gentile?"
+
+Kaimu rispose: "Versi il nostro tempio e i nostri clienti."
+
+Il monaco disse: "La scorsa settimana, [[Bawan]] ha spedito un candidato che
+aveva falsificato il suo curriculum giù dalla torre sulla scarpata. Non c'erano
+clienti, non c'era un tempio e ora non c'è più un futuro candidato. Verso chi è
+stato gentile Banzen?"
+
+Kaimu rispose: "Verso il mondo."
