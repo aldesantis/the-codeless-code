@@ -1,24 +1,23 @@
 Date: 2015-04-07
 Number: 186
-Title: Forever
+Title: Nothing, Forever
 Names: Yíwen, Banzen
 Topics: legacy
-Geekiness: 1
+Geekiness: 0
 Tagline: In which we take a leap of faith.
-Skip: 1
 
 One cold Spring morning, the nun [[Yíwen]] encountered
 [[#184|a certain monk]] standing in the middle of a bridge,
 his face stained with tears as he gazed into the abyss
 below.
 
-"What ails you, brother?" asked Yíwen, concerned for the
-boy's well-being; for he looked as though he might
-take his own life.
+"What ails you, brother?" asked Yíwen, fearing for the
+young man's well-being.
 
 "The futility of existence!" sobbed the monk.  "What is the
 point of our labors, when their fruits spoil so quickly?
-Nothing is forever.  Whatever I do, all will end in dust."
+Nothing is forever, least of all the code I write.
+Whatever I do, all will end in dust... in nothing, forever."
 
 Remembering how master Banzen [[#68|once faced]] these same
 dark thoughts, Yíwen removed the [[#151|immense scarf]] she
@@ -32,26 +31,44 @@ she pushed him over the railing.
 The monk screamed all the way down, certain of his doom.
 The scarf went taut -- and stretched, and stretched.  His
 fall came to a gentle stop a few dozen meters above the
-rocks.  The monk burst out laughing.
+rocks.
 
-Hearing the sound, Yíwen smiled and continued on her way.
+The monk burst out laughing with relief.  His bleak mood,
+which had heretofore seemed immutable, was gone.
+The monk was enlightened.  /Nothing is forever,/ he realized.
+
+Upon hearing the monk's laughter, Yíwen smiled
+and continued on her way.
 
 - - -
 
-That night, Yíwen was approached by several of the monk's clan.
+That afternoon, Yíwen was approached by a boy of the monk's clan.
 
-Said one, "Our brother wishes to know when you will
-reclaim your scarf, and him along with it -- for he is still
-dangling below the middle of the bridge by his ankles,
-unable to move in any direction."
+Said he, "My brother wishes to know when you will reclaim
+your scarf, and him along with it; for he is still dangling
+below the bridge by his ankles.  Though his heart appears
+light, his body is quite heavy and I need your help."
 
-Yíwen nodded. "Then I have left him in a better state than
-when I found him."
+"If his heart is light," said Yíwen, "then he is in a
+better state than when I found him, and my work is done."
 
-"So you will /leave/ him in this state?" asked another.
+The boy's mouth fell open.  "You cannot mean to /leave/ him
+in this state forever!"
 
 Yíwen shook her head.  "Nothing is forever," she said sadly.
 
 
 
+== Qi's commentary
 
+"But never say that to your girlfriend, unless you immediately
+follow it with '...except our love, of course'."
+
+
+
+== Qi's poem
+
+Banzen made an ink painting, to lift his heart in hard times. //
+NOTHING IS FOREVER, said the painting.  It gave him no joy.//
+One day the painting was stolen -- //
+Now Banzen looks at the empty place, and smiles.

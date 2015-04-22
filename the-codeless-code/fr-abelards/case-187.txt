@@ -1,0 +1,61 @@
+Number: 187
+Lang: fr
+Translator: abelards
+Title: Sortie d'entretien
+Tagline: Dans laquelle on prend les choses à valeur nominale.
+Illus.0.title: J'ai eu des candidats qui m'ont vraiment fait ça en entretien, sans que semble poindre la moindre honte. Après coup, je me dis que j'aurais dû tous les embaucher et les envoyer au Marketing.
+
+Le maître Java [[Bawan]] faisait passer un entretien pour un candidat
+au [[Elephant's Footprint Clan|Clan des Empreintes de l'Éléphant]].
+
+Après les prolégomènes d'usage (des questions sur les classes
+abstraites, et comment faire fizzer et buzzer les nombres),
+Bawan dessina au tableau blanc le schéma d'une base de données
+basique et demanda au candidat de définir des POJO et de faire
+les bonnes annotations pour Hibernate.
+
+"Je vois pas ce que vous voulez dire," dit le candidat.
+
+"Des objets du domaine," dit Bawan, "avec des annotations Hibernate."
+
+"Je vois toujours pas ce que vous voulez dire," dit le candidat.
+
+"Peut-être les connaissez-vous sous le nom d'annotations JPA," offrit Bawan.
+
+Le candidat nia de la tête.
+
+"EJB3 ?" demanda Bawan. "ORM ?"
+
+Le candidat nia de la tête.
+
+Bawan scruta une feuille de papier.
+"Alors peut-être pouvez-vous m'expliquer pourquoi Hibernate,
+JPA, EJB3 et ORM sont tous mentionnés en haut de votre CV,
+sous le titre /Compétences clé/."
+
+"Oh !" dit le candidat. "Mon recruteur m'a dit de les y mettre.
+Il a dit qu'elles seraient d'un grand secours pour les entretiens."
+
+"Je vois," dit Bawan. "Et bien, c'est tout pour moi.
+Votre prochain entretien sera avec maître [[Kaimu]],
+qui s'embête moins avec ce genre de choses.
+Tournez à droite, montez les escaliers,
+il y a son nom sur la porte."
+
+Le candidat remercia Bawan et prit congé.
+
+- - -
+
+Le jour suivant, Bawan demanda à Kaimu son avis sur le candidat.
+
+"Je ne l'ai jamais vu," dit Kaimu.
+"Il semblerait qu'il ait tourné à droite et non à gauche
+quand il a quitté votre bureau, grimpa au pinacle de la
+tour côté falaise, et s'est jeté par la porte de maintenance
+qui sert d'habitude à accéder à l'antenne WiFi de dehors.
+Peut-être pouvez-vous me dire pourquoi mon nom est écrit en haut
+de cette porte, au-dessus d'un panneau disant
+/Fermez les yeux et poussez fort/."
+
+"Oh !" dit Bawan. "Madame [[Jinyu]] m'a dit de les y mettre.
+Elle a dit qu'ils seraient d'un grand secours pour les entretiens."

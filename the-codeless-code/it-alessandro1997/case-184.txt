@@ -1,5 +1,7 @@
 Number: 184
 Title: Vita
+Lang: it
+Translator: alessandro1997
 Tagline: Dov'è rivelata la concezione del tutto
 Illus.0.title: "And all the little ants are marching / Red and black antennas waving / They all do it the same / They all do it the same way..."
 

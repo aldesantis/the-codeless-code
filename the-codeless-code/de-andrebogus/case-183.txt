@@ -1,0 +1,57 @@
+Number: 183
+Lang: de
+Translator: andrebogus
+Title: Wähle Deine Schlachten Genau
+Translator: andrebogus
+Illus.0.title: Keine klassische Kendo-Kampfstellung
+
+Manch einer freute sich über [[Zjing]]'s [[#174|Berufung]] zur
+Meisterin, doch keiner so sehr wie der Mönch [[Wangohan]] des
+[[Spider Clan|Ordens der Spinne]]. Denn Wangohan hatte viele Ideen,
+wie sich die Software des Tempels verbessern ließe, und er teilte
+sie gerne und eifrig mit jedem offenen Ohr.
+
+"Wangohan hat ein vielversprechendes neues UI-Framework entdeckt,"
+sagte Zjing auf der wöchentlichen Telekonferenz mit ihren Meistern.
+"Er wünscht es in seinem nächsten Projekt zu verwenden."
+
+"Ein /Weiteres/ Framework?" sagte [[Bawan]]. "Wir verwenden bereits
+Angular, Backbone, Bootstrap, Dojo, Ember, Jumpstart,
+<nobr>Knockout--"</nobr>
+
+"Er glaubt, dieses hat gegenüber den anderen einige Vorteile,"
+entgegnete Zjing.
+
+"Er glaubt?" fragte [[Kaimu]], und hob eine Braue. "Und was glaubt
+Zjing?"
+
+Ein ungemütliches Schweigen setzte ein.
+
+"Junge Meisterin," grollte [[Banzen]] (und nun sah Zjing sich
+auf unsicherem Terrain, wie sonst wenn sie ihr Vater als /Junge
+Dame/ ansprach), "kämpfst Du Wangohans Schlacht, weil Du an seine
+Sache glaubst, seine Freundschaft schätzt, oder das Gift in seinem
+Gewürzregal fürchtest?"
+
+Zjing atmete hörbar ein. /"Wú,"/ sagte sie, plötzlich inspiriert.
+"Wenn wir nicht den vernünftigsten Forderungen unserer
+Senior-Entwickler nachgeben, werden wir sie entmutigen, nach
+Verbesserungsmöglichkeiten für den Tempel zu suchen, und wir
+werden damit schlechter dran sein."
+
+Die ersten beiden Meister sahen auf Banzen, der dies bedachte.
+"Sehr gut," sagte er schließlich. "Lass den Mönch sein neues
+Sielzeug ausprobieren."
+
+Der Novize [[Satou]], Banzens Lehrling, trat nach dem Meeting zu
+ihm. "Oftmals warntet Ihr mich vor dem Unbekannten. Wie alt muss
+ich sein, bis Ihr mir vertraut, wie Ihr Wangohan vertraut?"
+
+/"Wú,"/ sagte Banzen. "Ich vertraue nur darauf, dass Zjings
+Entscheidung schlecht ist, und sie bald verstehen wird, warum.
+Doch wenn wir nicht den vernünftigsten Forderungen unserer jungen
+Meister nachgeben, werden wir sie entmutigen, nach
+Verbesserungsmöglichkeiten für den Tempel zu suchen, und wir
+werden damit schlechter dran sein."
+
+

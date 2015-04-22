@@ -26,8 +26,8 @@ l'éviter, ainsi que tous les outils qui l'utilisent.
 Comment puis-je parvenir à cela ?"
 
 Kaimu répliqua, "Ne stocke aucune donnée : pas dans un fichier,
-ni dans une base de données, ni dans la plus volatile des variables.
-Car qu'est-ce qu'une donnée qu'un écho solitaire et glacé de
+ni dans une base de données, ni dans la plus éphémère des variables.
+Car qu'est-ce qu'une donnée sinon un écho solitaire et glacé de
 l'Incessant Choeur du Monde Extérieur ?
 Quand nous détachons une note de la glace, quelle preuve avons-nous
 qu'elle est toujours chantée au-delà de nos murs de silicium ?

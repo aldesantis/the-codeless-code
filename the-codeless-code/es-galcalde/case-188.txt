@@ -1,0 +1,21 @@
+Number: 188
+Title: Amor Duro
+Lang: es
+Translator: galcalde
+Illus.0.title: Y encima, era un desarrollador de Python.
+
+Un joven monje le preguntó al maestro [[Kaimu]], "Además del dominio técnico, ¿Qué cualidad esencial debe tener un maestro en todo momento?"
+
+Kaimu respondió "Amabilidad."
+
+El monje preguntó, "Cuando [[Banzen]] me corrigió con su bastón, ¿Con quién estaba siendo amable? "
+
+Kaimu respondió "Con tu yo futuro."
+
+El monje preguntó, "Cuando [[Suku]] me negó un puesto de liderazgo, ¿Con quién estaba siendo amable?"
+
+Kaimu respondió, "Con nuestro templo y nuestros clientes."
+
+El monje dijo, "La semana pasada, [[Bawan]] mandó a un aspirante en picada por la torre del acantilado por falsificar su currículum. No habían clientes, ni templo, y ahora ni yo futuro. ¿Con quién Bawan estaba siendo amable?"
+
+Kaimu respondió, "Con el mundo."

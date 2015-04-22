@@ -1,0 +1,36 @@
+Number: 45
+Lang: de
+Translator: andrebogus
+Title: Zirkel-Schluss
+Illus.0.alt: Zwei Nonnen sehen sich den Kampf an
+Illus.0.title: Das wird wehtun...
+Illus.0.caption: Wow... Ein Rundumtritt gegen den Copy Konstruktor.
+
+Zwei Mönche des [[Laughing Monkey Clan|Ordens des Lachenden Affens]] stritten sich derart laut in der großen Halle, dass sich ein Publikum um sie scharte.
+
+“Wenn ich die Rechnungsadresse eines Kunden will,” sagte der eine Mönch, “soll der Kunde eine getBillingAddress Methode haben, just wie sie ein getName hat! Wie kannst Du die Eleganz dieses Designs verkennen?”
+
+“Weil Deine Methode heimlich die Adresse aus der Datenbank lädt!” konterte der zweite. “Das ist nicht das Pattern für Value Objekte! Sie existieren nur, um Daten zu halten, die das DAO holt. Du solltest ein AdressDAO mit einer query-Methode haben, die Adressen-Tabelle zu lesen. Nur von dort sollte die Rechnungsadresse kommen.”
+
+“Aber wir haben die Objektorientierung verloren!” rief der Erste. “Sind wir den Kreis zu C zurückgeschritten? Unsere Value Objekte sind nur structs, unsere zustandslosen DAOs und Services sind nur Mengen verwandter Funktionen, und wir verteilen Integer IDs statt der Objekte, die sie repräsentieren! Als nächstes rennen wir wohl auf allen Vieren und bellen den Mond an?”
+
+“Der Weg der Enterprise Design Pattern ist ein Fortschritt zu perfekter Einfachheit, kein Rückschritt ins Primitive!” sagte der Zweite. “Weder ist ein Domänenobjekt als sein Namensgeber gedacht, noch soll ein Bild von einer Schaufel eine Grube graben! Du musst den Anschein aufgeben und Dich dem Zweck zuwenden!”
+
+“Zweck ist im gewählten Namen inhärent!” entgegnete der Erste. “Domänenobjekte sollten die Welt abbilden!”
+
+Der andere antwortete mit seiner Faust im Magen des Ersten, der sich krümmte. “Sag mir,” forderte der zweite Mönch, “in welche Instanzvariable traf ich Dich?”
+
+Der erste Mönch sprang vor und schlug dem Gegner aufs Ohr. “Und ich dachte, diese Dinger wären zum Hören gedacht!” sagte er, während der zweite Mönch vor Schmerz zur Seite wankte. “Welch Glück, dass ich den Anschein aufgegeben und ihren wahren Zweck gefunden habe!” Ein Haken gegen seinen Kiefer unterbrach seine Häme.
+
+Eine junge Nonne—eine Novizin—bemerkte einige Java-Meister am Rand der Menge, die das Treiben still betrachteten. Sie lief zu ihnen.
+
+“Die beiden bringen sich bald gegenseitig um!” sagte die Novizin. “Warum beendet Ihr nicht den Disput und nennt uns die überlegene Philosophie?”
+
+Die Meister ignorierten sie. Doch die Nonne [[Zjing|Zjing]] flüsterte der Novizin zu:
+
+“Wäre ich der Mönch, der die Enterprise Design Pattern vorzieht, würde ich sagen Ihr macht denselben Fehler wie der Grubengräber. Es ist eine Frage zu klären, doch ihr missdeutet den Zweck der Anwesenden.”
+
+“Meint Ihr die Meister wollen die Antwort vor uns verbergen?” fragte die Novizin.
+
+“Wú,” sprach Zjing. “Wäre ich der Mönch, der die Objekt-Orientierung vorzieht, ich wiese auf die ungeschriebene Hierarchie, in der Meister nur eine Unterklasse von Schüler ist.”
+

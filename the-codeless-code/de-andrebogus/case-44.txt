@@ -1,0 +1,22 @@
+Number: 44
+Lang: de
+Translator: andrebogus
+Title: Der verkehrte Mönch
+Illus.0.title: Die Garantie des Schwimmrings beinhaltet keine Schäden durch spitze Steine. Die Unfallversicherung des Tempels auch nicht.
+
+Ein gewisser Mönch hatte eine seltsame Methode, Code zu schreiben. Für jedes Problem schrieb er zunächst viele Testmethoden, um die Korrektheit des ungeschriebenen Codes zu prüfen. Diese würden natürlich fehlschlagen, so lange es keinen Code gab. Erst wenn die Tests fertig waren, schrieb der Mönch den gewünschten Code selbst, bis alle Tests durchliefen.
+
+Seine Ordensbrüder spotteten ihm, da er nur die Hälfte des Applikationscodes produzierte—und auch diesen nur nach einer Weile. Sie hießen ihn [[Luohou]], den verkehrten Mönch.
+
+Java-Meister [[Banzen]] hörte davon. “Ich sehe nach,” verkündete er.
+
+Nach seiner Rückker ordnete der Meister an, dass alle Ordensbrüder, die mit ihren wöchentlichen Aufgaben fertig waren, ihn als Lohn ihrer Effizienz zum Badesee begleiten durften. Der verkehrte Mönch blieb allein zurück.
+
+Der älteste der Mönche lugte über den Rand der Klippe des Tauchberenchs, und schrak zurück.
+
+“Meister!” rief er. “Jemand hat die Steine des Damms zerstreut! Der Badesee ist ausgelaufen. Unten erwarten uns nur Flechten und spitze Steine!”
+
+Banzen schubste den Jungen mit seinem Stab zum Abgrund.
+
+“Sicher,” sprach der Meister, “kannst Du das Problem auf dem Weg nach unten lösen.”
+

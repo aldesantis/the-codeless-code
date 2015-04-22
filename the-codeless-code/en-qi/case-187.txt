@@ -1,0 +1,62 @@
+Date: 2015-04-12
+Number: 187
+Title: Exit Interview
+Names: Bawan, Kaimu, Jinyu
+Topics: interviews, resumes, honesty
+Geekiness: 3
+Tagline: In which we take things at face value
+Illus.0.src: push.jpg
+Illus.0.title: I have actually had applicants do this to me at an interview, without the slightest hint of embarrassment.  In retrospect I should have hired them all and sent them to Marketing.
+
+Java master [[Bawan]] was interviewing an applicant for the
+[[Elephant's Footprint Clan]].  After the usual preliminary
+questions had been asked (about abstract classes, and how to
+make numbers fizz or buzz), Bawan drew a simple database
+schema on the whiteboard and asked the applicant to define
+some POJOs suitably annotated for Hibernate.
+
+"I don't know what you mean," said the applicant.
+
+"Domain objects," said Bawan, "with Hibernate annotations."
+
+"I still don't know what you mean," said the applicant.
+
+"Perhaps you know them as JPA annotations," offered Bawan.
+
+The applicant shook his head.
+
+"EJB3?"  asked Bawan.  "ORM?"
+
+The applicant shook his head.
+
+Bawan scrutinized a sheet of paper. "Then perhaps you can
+tell me why Hibernate, JPA, EJB3, and ORM are all mentioned
+at the top of your resume, under the major
+heading /Principal Skills/."
+
+"Oh!" said the applicant.  "My recruiter told me to put
+those there.  He said they would prove most beneficial for
+interviews."
+
+"I see," said Bawan.  "Well, that's all the time I have.
+Your next interviewer will be master [[Kaimu]], who is less
+particular about such things.  Turn right, up the stairs,
+look for the door with his name."
+
+The applicant thanked Bawan and departed.
+
+- - -
+
+The next day, Bawan asked Kaimu his opinion of the applicant.
+
+"I never saw him," said Kaimu.  "It appears that he turned
+right from your office instead of left, climbed to the
+pinnacle of the cliff-side tower, and hurled himself through
+a maintenance door normally used to access a WiFi antenna
+on the outside of the building.  Perhaps you can tell me why
+my name was written at the top of that door, above a sign
+saying /Close Eyes, Push Hard/."
+
+"Oh!" said Bawan.  "Madame [[Jinyu]] told me to put those
+there.  She said they would prove most beneficial for
+interviews."

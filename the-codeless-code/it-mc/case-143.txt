@@ -1,0 +1,97 @@
+Number: 143
+Title: Monolito
+Lang: it
+Translator: mc
+
+Il giovane monaco [[Djishin]] s'avvicinò al Maestro [[Kaimu]] e disse:
+"Parlatemi del
+[[Temple of the White Iron Sky|Tempio del Bianco Cielo di Ferro]], dove avete
+fatto il vostro primo apprendistato."
+
+Kaimu disse: "È un posto strano e pericoloso. La conoscenza è sospesa a
+mezz'aria, spessa come la nebbia, tuttavia se ti soffermi laggiù per un'ora, ne
+uscirai sapendone meno di quando sei entrato."
+
+Djishin pensò "Devo vedere coi miei occhi come ciò sia possibile". Quindi si
+mise in viaggio.
+
+Secondo le sue mappe, il tempio era immerso nei meandri di una collina boscosa,
+alle pendici di un'alta catena montuosa; un cartello sulla strada principale
+indicava un sentiero abbandonato. Djishin seguì il sentiero attraverso
+un'imponente Porta AND e vide che le terre al di là erano avvolte nella nebbia,
+un fluttuare di vapori provenienti da un boschetto di cipressi più in alto sulla
+collina.
+
+La nebbia si attorcigliava attorno alla base di una pallida torre posta al
+centro dell'area del tempio. Il sentiero, ora contrassegnato da pietre umidicce,
+guidò Djishin fino ai suoi gradini.
+
+"Che posto è questo, fratello?" chiese ad un monaco vestito di bianco seduto
+sulla scalinata.
+
+Il monaco alzò lo sguardo dal codice Haskell che stava studiando. "Gli stranieri
+la chiamano Torre della Zanna d'Elefante, anche se noi le diamo un altro nome.
+Ma rispondi a questa domanda: Sei un ingegnere informatico?"
+
+"Lo sono, di cuore e di fatto" rispose Djishin.
+
+"Se lo sei anche di pensiero, allora segui il sentiero fino al boschetto di
+cipressi e parla con le monache che meditano laggiù", disse il monaco vestito di
+bianco. "La torre non fa ancora per te."
+
+- - -
+
+Nel boschetto la nebbia s'ispessiva in una massa calda, dal sapore amaro; più in
+là si sentiva un mormorio d'acqua gorgogliante. Gli alberi si diradarono e
+Djishin si ritrovò in una radura dove quattro monache in tonache bianche
+sedevano contemplando un monolito di basalto nero scintillante. Sulla sua
+superficie erano incise delle scritte di un genere che il monaco non aveva mai
+visto prima:
+
+  (>>=) :: m a -> (a -> m b) -> m b
+
+          return :: a -> m a
+
+"Che pietra è questa, mie Signore?" chiese Djishin.
+
+"La chiamiamo la Monade" disse la prima monaca.
+
+"Perché la venerate così?" chiese Djishin.
+
+"Attraverso di essa, si può toccare ciò che è impuro senza esserne contaminati",
+disse la seconda. "Possiamo abbattere un Maybe-albero con una Maybe-ascia e
+sentire un Maybe-suono quando cade - persino se il suono è Nothing, se l'ascia
+non esiste o se non c'è alcun albero da abbattere."
+
+"Potreste... spiegare questa spiegazione?" chiese Djishin.
+
+"Ci permette di programmare senza errori", disse la terza monaca. "Perché
+consideriamo una funzione sicura solo se il suo input è l'unica cosa che
+determina il suo output. Ma quando una funzione trasuda effetti collaterali, da
+ogni goccia può scaturire un rovo che, con le sue spine, potrebbe intaccare la
+nostra applicazione. La Monade ci dice come tessere le bende per fermarne il
+flusso. Noi avvolgiamo la funzione, vincoliamo il Mondo Reale; lo immettiamo,
+l'agitiamo e l'estraiamo, e questo è tutto."
+
+"E quest'incisione cos'è, codice?" chiese Djishin, meravigliandosi di fronte al
+monolito.
+
+Le monache si scambiarono un'occhiata. "Un giorno, tutti lo riconosceranno come
+tale, sarà facile come <em>20 GOTO 10</em>. Ma rispondi a questa domanda: sei un
+ingegnere informatico?"
+
+"Non ne sono più così sicuro", rispose Djishin, la cui confusione era totale.
+
+A quel punto il giovane monaco fu illuminato.
+
+== Commento di Qi
+
+Ironia della sorte, la Monade ha sempre almeno un effetto collaterale: mi fa
+sentire un idiota.
+
+== Poema di Qi
+
+Lo schermo s'oscura. //
+Punti e virgola si sparpagliano ai quattro angoli della finestra. //
+Una tempesta può abbattersi sulla collina... //
+Ma quando il mondo cambia, le tempeste fan posto ad un enigma ancora più grande.
