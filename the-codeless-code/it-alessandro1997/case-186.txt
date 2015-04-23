@@ -1,8 +1,8 @@
 Number: 186
 Title: Nulla, per sempre
-Tagline: In cui facciamo un salto nel vuoto.
 Lang: it
 Translator: alessandro1997
+Tagline: In cui facciamo un salto nel vuoto.
 
 In una fredda mattina primaverile, la monaca [[Yíwen]] incontrò
 [[#184|un certo monaco]] nel bel mezzo di un ponte; il suo volto era macchiato
