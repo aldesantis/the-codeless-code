@@ -7,6 +7,7 @@ Geekiness: 0
 Tagline: In which we are excellent to each other
 Illus.0.src: grave.jpg
 Illus.0.title: What's more, he was a Python developer.
+Credits: Many thanks to Aaron Davies for suggesting that the original 0/1 headstone logo looked like a "power on/off" button.  That was just too good a coincidence for me to ignore.
 
 A young monk asked master [[Kaimu]], "Other than technical
 proficiency, what is one essential quality for a master to
