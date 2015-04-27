@@ -1,0 +1,42 @@
+Number: 57
+Lang: de
+Translator: andrebogus
+Title: Präzision
+Illus.0.title: Das Hirn war in einem mit 'Abby'-irgendwer beschrifteten Glas.
+translator: andrebogus
+
+Ein gewisser Mönch trat zu Java Meister [[Bawan]] nach
+dem Abendmahl und fragte:
+
+"Ist der Speicher eines Computers nicht im Prinzip eine
+endliche Folge von Bits?"
+
+"Sicher," sagte der Meister.
+
+"Und brächte man alle Computer der Welt zusammen, wäre die
+gesamte Menge der Bits immer noch endlich?"
+
+"So ist es," sagte der Meister.
+
+"Dann können wir niemals hoffen, irrationale Nummern wie Pi
+oder die Wurzel aus zwei präzise zu bestimmen, denn sie
+haben /unendlich/ viele Ziffern! Unsere Näherungen liefern
+Fehler über Fehler mit jeder mathematischen Operation. Die
+feine Kunst der Gleitkommaarithmetik ist ein auf Sand
+gebautes Schloss!"
+
+Meister Bawan stand auf, schaute einen Moment in Gedanken
+auf den Bauch des Mönches{{*}}, und warf ihm sodann seine 
+Reisschüssel in die Magengegend. Der Mönch krümmte sich.
+
+"Fünf Zentimeter Radius," sagte Bawan, auf die Schüssel 
+deutend. "Was ist der Umfang?"
+
+"10&pi;," keuchte der Mönch.
+
+"Erstaunlich," sprach Bawan.  "Wie undenkbar riesig muss
+Dein Gehirn sein, mit unendlich vielen Ziffern zu
+jonglieren und zu einer exakten Antwort zu kommen."
+
+
+{{*}} Bawan war bekanntermaßen klein, was seine Vorliebe für low-level-Details erklären könnte.
