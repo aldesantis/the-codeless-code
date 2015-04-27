@@ -4,7 +4,7 @@ Title: The Dense Forest
 Names: Suku
 Topics: brevity, refactoring, complexity
 Geekiness: 2
-Tagline: In which we are in need of directions.
+Tagline: In which we are hopelessly lost.
 Illus.0.src: roll.jpg
 Illus.0.title: Wait a minute... these aren't directing me home; they're instructions for the Macarena...
 
