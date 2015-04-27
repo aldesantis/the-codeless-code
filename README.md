@@ -23,9 +23,9 @@ Translation format
 You can find information about the format to follow [here](http://thecodelesscode.com/about#submitting-translations).
 
 Only keep the `Number` header, translate the `Title`, and possibly
-`Illus.X.title` for the images' `alt` tags. Add `Lang` with the locale and
-`Translator` with your translator nickname. All other headers will be ignored
-and taken from the original English version.
+`Tagline` and `Illus.X.title` for the images' `alt` tags.
+Add `Lang` with the locale and `Translator` with your translator nickname.
+All other headers will be ignored and taken from the original English version.
 
 Credits
 -------
