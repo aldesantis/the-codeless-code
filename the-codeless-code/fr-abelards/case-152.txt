@@ -1,0 +1,147 @@
+Number: 152
+Title: Ce qui est En Dessous
+Lang: fr
+Translator: abelards
+
+Alors qu'elles étaient auparavant inséparables, les camarades de
+chambrée [[Yíwen]] et [[Hwídah]] ne se croisaient plus beaucoup,
+car tout le temps libre de Yíwen était occupé à tricoter une
+[[#151|singulière écharpe]].
+L'impatiente Hwídah avait alors décidé d'explorer les quelques
+rares parties des terres du Temple qu'elle ne connaissait pas encore.
+
+Ses errances la menèrent dans les grandes salles de l'abbaye où
+résidait le 
+[[Clan of the Wolf's Bitter Breath|Clan de l'Amère Haleine du Loup]],
+les moines en robes noires qui pratiquaient tous les tests d'intégration
+du Temple.
+Il était interdit aux développeurs d'y pénétrer, bien qu'on n'en ait
+jamais donné la raison à Hwídah, et comme tous les mystères, celui-ci
+la rongeait de l'intérieur. Elle avança tapie dans les ombres, en
+retrait des encadrures de portes, et sous les cloisons de séparation
+des bureaux, espérant apprendre quelque secret choquant sur le Temple,
+mais tout ce qu'elle y entendit venant des moines en robe noire,
+n'étaient que des plaisanteries à l'égard de ces développeurs dont
+le code avait tant de défauts.
+La plupart de ces développeurs étaient du [[Spider Clan|Clan de l'Araignée]],
+celui-là même dont venait Hwídah.
+
+"C'est vraiment exaspérant," entendit-elle se plaindre un moine
+de l'Amère Haleine. "J'ai choisi un Statut de Commande 'Inconnu',
+soumis le formulaire, et tout semble se passer correctement.
+Mais quand je reviens sur le formulaire, il y a une erreur de
+validation qui se plaint d'un Statut de Commande invalide.
+Et le développeur jure n'avoir fait aucun changement sur cette page !"
+
+"C'est toujours ainsi avec les Araignées," soupira une autre voix.
+"Si quelque chose s'approche trop près, elles l'enveloppent dans
+huit couches de Javascript, paralysent sa réactivité, sucent
+la chair de leur utilité, et déclarent que le corps qui tressaille
+est du travail bien fait."
+
+Leur rire suivit Hwídah tandis qu'elle rampait vers la porte de l'abbaye.
+/Je jure solannellement d'enquêter là-dessus,/ pensa-t-elle,
+les poings serrés.
+
+- - -
+
+Plus tard dans la journée, Hwídah approcha le maître Java [[Banzen]],
+le feu de l'indignation juste dans les yeux, et un imprimé dans les mains.
+
+"Ce défaut a été créé par un moine du
+[[Elephant's Footprint Clan|Clan des Empreintes de l'Éléphant]],
+pas par le nôtre. Il a réécrit la méthode qui instancie chaque
+enregistrement de la base de données en un objet, et son nouveau
+code contient ceci..." sur quoi elle planta son doigt sur une
+ligne où était écrit :
+
+<pre>
+    order.setStatusCode(rs.getInt(STATUS_CODE));
+</pre>
+
+"Ah," dit Banzen. "J'ai vu cette erreur bien des fois.
+La propriété /statusCode/ est un entier ou /null/.
+Mais dans l'API JDBC, /getInt/ renvoie le type primitif /int/
+et va sans prévenir transformer un NULL de la base de données
+en zéro. Ce zéro est tout aussi furtivement transformé par
+/setStatusCode/ et retourné par /getStatusCode/ quand on remplit
+le formulaire. Et puisqu'il n'y a pas de statut de commande à
+zéro, un enregistrement BDD valide semblera invalide."
+
+"Quelle correction pour ce moine des Empreintes de l'Éléphant ?"
+demanda Hwídah.
+
+"Rien de mortel," dit Banzen. "Mon châtiment habituel implique
+un bateau que je garde dans la gorge Sud rien que pour ces occasions.
+Le moine en ressort couvert d'eau et de bleus, et dans le futur
+il examinera ses rames et ses APIs avec plus d'attention avant
+de les utiliser."
+
+Le visage de Hwídah devint rouge.  "Et l'honneur du Clan de l'Araignée ?
+Les moines du Clan de l'Amère Haleine du Loup se moquent ouvertement
+de nous dans leur abbaye à cause de cela !"
+Puis elle se tut, réalisant qu'elle venait de révéler son intrusion
+dans des lieux interdits, mais Banzen ne fit que soupirer.
+
+"Ce sont les auteurs de la vénérable API JDBC qui sont vraiment
+en faute, ainsi que tous ses mainteneurs depuis," dit le maître.
+"Ils ont donné au moine une barque bien utilisée, avec de robustes
+rames déjà montées sur leur dame de nage.
+Doit-on pour autant provoquer sa perte juste parce qu'il n'a pas vu
+que la rame de gauche est trop courte ? Non... la trempette qu'il
+subira quand le bateau tournoiera dans les rapides suffira."
+
+Hwídah se mordit la lèvre, s'inclina respectueusement, et se
+retourna pour prendre congé.
+
+"Petite nonne," dit Banzen, levant l'index pour l'arrêter.
+"Le défaut n'est pas mien, et je ne peux pas éviter les erreurs
+qu'il engendre. Alors j'utilise à la fois le défaut et l'erreur
+pour servir de plus grandes causes."
+
+- - -
+
+Au repas du soir, Yíwen manquait à l'appel, mais 
+Hwídah épia deux jeunes apprentis de Banzen,
+[[Djishin]] et [[Satou]], assis l'un à côté de l'autre.
+Les compères la laissèrent raconter ses plaintes quant à leur maître.
+
+"Banzen semble déterminé à souffrir que l'on fasse cette même erreur
+encore et encore, jusqu'à la fin des temps !" conclut Hwídah
+exaspérée.
+"Nous devrions donner un meilleur bateau à l'Empreinte de l'Éléphant !"
+
+"En effet !" dit Satou. "Quand j'ai appris cette erreur, j'ai
+supplié le maître de passer à un ORM bien connu. Mais le
+refactoring a un coût, et chaque outil a ses périls,
+ainsi le code bas niveau demeure."
+
+"Et bien nous devrions proposer nous-mêmes une rame gauche !" dit Hwídah.
+
+"En effet !" dit Djishin. "Quand j'ai appris cette erreur, j'ai
+développé une méthode utilitaire /getInteger/ correcte.
+Mais les développeurs ne cherchent que ce dont ils pensent avoir
+besoin, et ce qu'ils savent chercher, alors cette méthode reste
+inutilisée."
+
+Hwídah s'effondra de désespoir.  "Ainsi le moine de l'Empreinte de
+l'Éléphant n'est même pas corrigé, et le monde de l'Amère Haleine
+du Loup n'est pas corrigé du tout. Au moins, la misérable
+Hwídah a reçu sa leçon, car je comprends maintenant pourquoi il
+est interdit d'entrer dans la Tanière du Loup : pour maintenir
+l'harmonie entre nos clans. Une insulte ne peut que devenir une
+réclamation si on l'entend par mégarde."
+
+Djishin dit, "tu perçois les manches des rames au dessus de l'eau,
+mais ton vrai chemin est déterminé par ce qu'il y a en dessous."
+
+Satou continua, "Notre maître sait que tu as violé l'édit :
+cela, il nous l'a dit librement. Mais ce décret n'est pas de son fait,
+et il ne peut éviter qu'il ne soit violé par ceux dont la curiosité
+est irrépressible.
+Ainsi, il utilise à la fois l'édit et ses violations
+pour servir de plus grandes causes."
+
+Satou mit un bras compatissant autour des épaules de Hwídah. 
+"Apprécie ton repas, soeur du Clan de l'Araignée !
+Car je crains que la correction de Hwídah ne fasse que commencer..."

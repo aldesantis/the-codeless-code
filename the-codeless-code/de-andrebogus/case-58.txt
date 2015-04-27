@@ -1,0 +1,92 @@
+Number: 58
+Lang: de
+Translator: andrebogus
+Title: Genug, Sich daran zu Hängen
+Illus.0.title: Ihr seid ein guter und gütiger Meister und ich liebe Euch. EICHHÖRNCHEN!
+
+Kaum etwas erfährt man über die schwarz gewandeten Brüder
+des bitteren Wolfsatems, außer diesem: Keine Software
+verließ ohne ihre Zustimmung den Tempel. In den Tagen nach
+einem Release verscheuchte der Klang ihrer Schritte so
+viele Mönche, dass sie gezwungen waren, barfuß zu gehen,
+und ihre Defekt-Tickets zu nächtlicher Stunde zu verteilen.
+
+Daher war Java Meister [[Banzen]] -- der Korrektheit über
+alles schätzte -- merklich verärgert, die wiederholten 
+Fehler des ehrbaren Mönches [[Djishin]] rechtfertigen
+zu müssen.
+
+- - -
+
+Meister Banzen sandte nach Djishin, der ihn schließlich an
+der Klippe den Sonnenuntergang betrachtend fand.
+
+Banzen sprach: "Die Brüder des bitteren Wolfsatems möchten
+wissen, ob die nächste Version des Systems ihrer 
+Aufmerksamkeit würdig ist.  Sie begehren unsere Zusicherung,
+dass sie nicht schon wieder gleich beim Deployment kritische
+Fehler offenbart wie so viele ihrer Vorgänger."
+
+Djishin sprach: "Ich erkläre das neue System höchst würdig.
+Theoretisch habe ich jede Stelle getestet, an der 
+low-level-Komponenten fehlgehen können und alles 
+funktioniert."
+
+Banzen sprach: "Es muss mühsam sein, sich tagelang durch 
+alle Dialoge zu klicken und alle Logs zu begutachten."
+
+Djishin sprach: "Ich teste nicht manuell; Ihr selbst nanntet
+diese Methode langsam und fehleranfällig. Stattdessen habe
+ich nach der Methode von [[Luohou]] gearbeitet: Alle 
+Änderungen an DAOs und Services wurden während der 
+Implementierung durch eine umfassende Batterie von 
+automatischen low-level-Tests geprüft. Denn sind die Steine
+fest, wird auch die Wand stehen."
+
+Banzen sprach: "Dann gehe und informiere die Mönche.  Sie
+erwarten Dich auf der anderen Seite der Schlucht."
+
+Banzen deutete über den tiefen Abgrund, der die Klippe, an
+der sie standen von der anderen Seite trennte.
+
+Djishin sprach: "Wie soll ich die überqueren? Die Brücke
+wurde [[#54|von einer törichten Nonne zerstört]] und hängt
+noch in Fetzen."
+
+Banzen zeigte auf ein schlankes Seil, das zwischen zwei
+jungen Trieben über die Schlucht gespannt war.
+
+Djishin sprach: "Aber Meister, selbst des Kaisers Akrobaten 
+könnten kaum auf so einem schmalen Seil balancieren."
+
+Banzen ging zu einer Rolle des gleichen Seils, das neben
+ihm lag, legte eine metergroße Spirale aus und stellte sich
+auf einem Bein in die Mitte. So verharrte er eine Minute.
+
+Djishin wusste, dass es unklug wäre, den Meister der 
+Unfairness zu bezichtigen, und sagte stattdessen: "Doch das
+dünne Sail ist trocken und brüchig. Ich fürchte, es wird
+mein Gewicht nicht tragen."
+
+Banzen ging auf die Knie, nahm das Seil und zeigte, dass
+Elle für Elle kein Riss war, nachdem er darauf gestiegen war.
+
+Djishin, der sich immer noch nicht traute, dem Meister Kontra
+zu geben, sagte: "Aber die Brücke wird nur von zwei dünnen
+Setzlingen gehalten, die bei meinem Gewicht sicher entwurzelt
+werden."
+
+Banzen zog eine Okarina aus seiner Robe und blies einen hohen
+Triller. Aus dem Wald auf der anderen Seite der Schlucht 
+hüpften Duzende und Aberdutzende Eichhörnchen. Eines nach dem
+anderen sprangen sie auf das Seil und huschten über den 
+Abgrund. Jedem angekommenen Eichhorn warf Banzen eine 
+Lychee-Frucht zu, es verneigte sich, und verschwand in den
+Bäumen, woraufhin das nächste die Überquerung begann. Djishin
+schaute erstaunt zu, bis kein Eichhörnchen mehr zu sehen war.
+
+Banzen sprach: "Dein Fuß ist nicht größer als meiner, Dein
+Körper nicht schwerer, und keiner von uns wiegt mehr als
+hundert Eichhörnchen. Ich erkläre also meine Brücke Deiner 
+Überquerung höchst würdig.  /Theoretisch/. Nun /geh/."
+

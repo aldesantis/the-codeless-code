@@ -1,5 +1,7 @@
 Number: 188
 Title: Il medico pietoso
+Lang: it
+Translator: alessandro1997
 Tagline: In cui siamo eccellenti per gli altri
 Illus.0.title: Come se non bastasse, era uno sviluppatore Python.
 

@@ -1,5 +1,7 @@
 Number: 187
 Title: Colloquio di uscita
+Lang: it
+Translator: alessandro1997
 Tagline: In cui prendiamo le cose per ciò che sono
 Illus.0.title: Alcuni candidati me lo hanno fatto sul serio, senza mostrare il minimo imbarazzo. Col senno di poi, li avrei dovuti assumere tutti per poi spedirli al Marketing.
 

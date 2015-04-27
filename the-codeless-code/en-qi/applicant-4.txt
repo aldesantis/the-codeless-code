@@ -102,7 +102,7 @@ She had forgotten practically every bit of it.  Anyway the
 language could not be taught without the use of a specially
 trained turtle.  Her apprenticeship had been in C with a
 sprinkling of C++, but the boy was not ready to be thrown
-into a swamp teeming with Bus Erros and Segmentation
+into a swamp teeming with Bus Errors and Segmentation
 Violations and special syntaxes for working with L-values.
 Java was foremost on her mind these days: it was, after all,
 the chosen path of the Temple of the Morning Brass Gong.

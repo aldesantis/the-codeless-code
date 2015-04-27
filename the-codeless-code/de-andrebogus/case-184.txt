@@ -1,0 +1,56 @@
+Number: 184
+Lang: de
+Title: Game of Life
+Illus.0.title: "And all the little ants are marching / Red and black antennas waving / They all do it the same / They all do it the same way..."
+Translator: andrebogus
+
+[[Jinyu]], Äbtissin aller Orden und Anliegen, inspizierte
+die Arbeit ihres Tempels, als sie auf einen der neuen
+Mobile Applikations-Entwickler traf, der über seinem Tisch
+gebeugt schuftete. Sie blickte über seine Schulter, um zu
+sehen, woran er arbeitete, doch sein Bildschirm zeigte nur
+winzige pulsierende schwarze Quadrate auf einem weißen Feld.
+Jinyu klopfte sanft mit ihrem Stab am Schädel des Mönchs.
+
+"Erkläre dies", sagte die Äbtissin, und zeigte mit dem Stab
+auf den Bildschirm.
+
+"Ich habe eine neue dünn besiedelte Datenstruktur erfunden,"
+sagte der Mönch, "und wollte sehen, ob ich damit eine 
+effiziente Simulation vom <a
+href="http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">'Game
+of Life'</a> bauen kann.
+
+Der Mönch tippte auf einen Knopf auf seinem Tablet, das nun ein 
+weißes Bild zeigte. Dann malte er mit einem Schreibgriffel eine 
+gezackte schwarze Linie darauf. Er tippte noch mal auf den Knopf
+und die schwarze Linie barst, und verteilte sich über das Display
+wie gepixeltes Konfetti.
+
+Jinyu verzog das Gesicht.  "Dies ist 'Leben', ja?"
+
+Der Mönch nickte nervös.
+
+Jinyu löschte die Darstellung wie der Mönch es getan hatte.
+Dann nahm sie den Griffel und schrieb in feiner Handschrift:
+
+    ALLE ARBEIT //
+    ALL UNSERER TAGE
+
+Als sie den Knopf erneut antippte, verflüssigten sich sofort
+die Worte und lösten sich in eine sich windende Lache von
+schwarzen und weißen Maden auf.  Daraus erwuchs ein Schwarm
+schwarz gepixelter Fliegen, die sich zerstreuten, vermehrten,
+aneinander stießen und starben. Schwarze Ameisen entstiegen
+ihren Resten, und glitten im Gleichschritt ins Ungewisse.
+Nach kurzer Zeit blieb nur eine weiße Wüste, in der ein paar
+einsame Staubkörnchen in einem leichten, unsichtbaren Wind
+zitterten.
+
+Jinyu gab dem Mönch sein Tablet zurück.
+"Eine sehr präzise Simulation."
+
+
+{{*}} Der Hover-Text der Illustration ist aus <a href="https://www.youtube.com/watch?v=IXPOHCsgWFw">Dave Matthews Band's "Ants Marching"</a>, was gut zum Thema passt.
+{{**}} Und wer staunen möchte, sehe sich diese wundervolle Implementierung von <a href="https://www.youtube.com/watch?v=xP5-iIeKXE8">Life in Life</a> an.
+
