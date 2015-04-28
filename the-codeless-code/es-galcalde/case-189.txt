@@ -1,0 +1,34 @@
+Number: 189
+Title: El Bosque Denso
+Lang: es
+Translator: galcalde
+Illus.0.title: Un momento... estas instrucciones no son para llevarme a casa; son para bailar la Macarena...
+
+[[Suku]] y sus aprendices habían llegado a un templo recóndito en el corazón de un inmenso bosque antiguo. Allí los árboles crecían tan altos y espesos que a una gota de lluvia cayendo sobre el toldo le tomaría un día entero llegar al suelo puesto que goteaba de hoja en hoja. (Como consecuencia, los monjes del en aquel lugar podían caminar por fuera durante una tormenta y mantenerse secos como una tostada, pero al día siguiente tendrían que sacar los paraguas y las botas, aunque el sol estuviera brillando.)
+
+En su última noche en el templo, la maestra Suku estaba revisando el código de una monja superiora.
+
+"Tus métodos son extremádamente largos," dijo la maestra. "Esste tiene varios cientos de lineas al menos, con bucles anidados y ramas lógicas de muchos niveles de profundidad. Debería ser refactorizado en al menos trece métodos separados."
+
+La monja superiora se rió. "Si escribiera código a tu manera, un mantenedor tendría que estudiar primero una docena de rutinas diferentes para entender la principal. Pero con mi manera, todo el código es visible en un sólo lugar. ¡Y a <em>tí</em> te llaman maestra!"
+
+- - -
+
+Lo siguiente que la monja superiora recordó fue caminar sola en el bosque. Ella colocó una mano sobre su cabeza palpitante y descubrió un chichón fresco y una cartera adornada alrededor de su bolsillo. Atada a la cartera había una nota:
+
+    Que pena que te dormiste durante la mayoría de nuestro viaje
+    por el bosque... muchos caminos serpentean y se atraviesan entre sí,
+    y sería fácil que te pierdas para siempre. ¡Pero no temas!
+    Te hemos dejado instrucciones precisas para volver a casa.
+
+Dentro de la cartera la monja halló un rollo grande de papel, igual al que los mercaderes usan en sus cajas. El texto en la parte de afuera del rollo comenzaba:
+
+    Párate.
+    Encara el musgo.
+    Dobla la rodilla derecha, levaanta el pie derecho siete centímetros.
+    Avanza cuarenta y cinco centímetros con la pierna derecha apuntando al roble más cercano.
+    Coloca en el piso el pie derecho.
+    Mueve el peso hacia el pie derecho.
+    Dobla la rodilla izquierda--
+
+La concentración de la monja superiora fue rota por el sonido de lobos aullando, muy cerca.
