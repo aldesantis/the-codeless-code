@@ -1,0 +1,63 @@
+Number: 189
+Lang: fr
+Translator: abelards
+Title: La dense forêt
+Tagline: Dans lequel on vous fait marcher et on vous envoie balader.
+Illus.0.title: Attends un peu... ce ne sont pas les instructions pour revenir à la maison ; ce sont les instructions pour la chorégraphie de la Macarena...
+
+[[Suku]] et ses apprentis étaient arrivés à un temple isolé
+au coeur d'une immense et ancienne forêt.
+Là, les arbres devenaient si gros et si denses qu'une goutte
+de pluie tombant sur la canopée prend un jour entier pour
+atteindre le sol en gouttant de feuille en feuille.
+(En conséquence, les moines de cette région pouvaient marcher
+dehors durant un orage à la pluie battante et rester parfaitement
+secs, mais le lendemain ils devaient partir avec les parapluies
+ouverts et galoches serrées, même si le soleil brille.)
+
+Lors de leur dernière nuit au temple, maître Suku faisait
+la revue du code d'une nonne expérimentée.
+
+"Vos méthodes sont excessivement longues," dit le maître.
+"Celle-ci fait au moins plusieurs centaines de lignes,
+avec des boucles imbriquées et de branches logiques
+avec de nombreux niveaux de profondeur.
+Il faudrait le factoriser en au moins treize méthodes séparées."
+
+La nonne rit.
+"Si je codais à votre manière, un mainteneur devrait d'abord
+étudier une douzaine de routines différentes avant de comprendre
+la principale. Mais avec mon style, tout le code est visible
+en un seul endroit.
+Et on /vous/ appelle maître !"
+
+- - -
+
+La seule chose dont la vieille nonne se rappela était de
+marcher seule dans la forêt. Elle posa la main sur sa tête
+qui la lançait et découvra à la fois une bosse récente et
+une sacoche drapée autour de son cou.
+Une note était épinglée dessus :
+
+    Quel dommage que vous ayez dormi la plupart du temps
+	qu'a pris notre promenade dans les bois...
+	De nombreux chemins se croisent et se séparent,
+	et il serait si facile de s'y perdre pour toujours.
+	Mais n'ayez crainte !
+	Nous vous avons laissé des instructions précises
+	pour rentrer à la maison.
+
+Dans la sacoche la nonne trouva un épais rouleau de papier,
+du genre dont les marchands se servent pour les caisses
+enregistreuses. Le texte à l'extérieur du rouleau commençait ainsi :
+
+  Levez-vous.
+	Faites face au bloc de mousse.
+	Fléchissez le genou droit, levez le pied droit de trois pouces.
+	Avancez la jambe droite de dix-huit pouces vers le chêne le plus proche.
+	Posez le pied droit.
+	Déplacez votre poids vers le pied droit.
+	Fléchissez le genou gauche--
+
+La concentration de la nonne fut interrompu par les hurlements
+d'une meute de loups, toute proche.
