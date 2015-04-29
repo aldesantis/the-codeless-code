@@ -1,0 +1,69 @@
+Series: 1
+Number: 5
+Title: La Candidature
+Lang: fr
+Translator: abelards
+Part: 5
+Subtitle: Le Pot de Fer
+
+Le jour se leva, d'une aube brillante et l'air chaud et déjà moite.
+On partagea le pain, on fit boire l'ânesse qu'on re-chargea, et le
+trio s'en fut dans le matin et le bourdonnement des insectes.
+
+"Imagine," dit Aaradhya, "que tu as voyagé loin de ta maison
+et que tu te retrouves dans un étrange village de marchands.
+On est le soir, et tu as faim. Tu apprends que le cuisinier
+peut te servir du ragoût mais qu'il a besoin en échange de
+lentilles rouges, de feuilles de curry, et d'eau ;
+le fermer te donnera les lentilles mais il a besoin de graines
+et d'emprunter un boeuf..."
+
+Dans le village hypothétique d'Aaradhya il y avait aussi des
+marchands qui contrôlaient des entrepôts remplis à ras bord
+de toutes sortes de choses utiles, d'objets produits par des
+commerçants et dont les autres avaient besoin -- épices précieuses,
+solides planches de bois, bonnes scies, barils d'huile pour
+les lampes.
+Les marchands appartenaient à une guilde respectée nommée /DAO/.
+
+"Les Organiseurs des Archives Domestiques," expliqua Aaradhya.
+"Leur seule fonction est de stocker, gérer, et aller chercher
+des Objets de Valeur..."
+
+Tandis qu'elle parlait, Aaradhya décrochait différents éléments
+du fardeau de l'ânesse, les utilisant comme accessoires.
+Tarun écoutait. Le grand-père marchait devant eux avec son
+parasol, sans rien dire, bien que parfois il hochait la tête
+en assentiment ou la secouait de désaccord.
+
+Quand ils s'arrêtèrent pour manger il tira Aaradhya sur le côté.
+
+"Vous enseignez par métaphore."
+
+"C'est ainsi qu'enseignait mon maître C++. Il disait souvent :
+<i>un système informatique est une civilisation d'objets.</i>"
+
+"Très joli. Mais quand le garçon sera en entretien pour trouver
+un apprentissage ils ne lui demanderont pas de réciter des proverbes.
+Il doit savoir comment construire des choses."
+
+Aaradhya fit signe au garçon, qui nourrissait l'ânesse.
+/"Tarun,"/ appela-t-elle. "Tu es le maire de notre petit village.
+De riches étrangers viendront bientôt en ville acheter des pots
+de fer : lequel de nos commerçants devra les fabriquer ?"
+Le charpentier, qui fait déjà les poignées de pots ?
+Le joailler, qui travaille déjà le métal ?
+Le potier, qui fait déjà des pots d'argile ?"
+
+"Aucun de ceux-ci, Madame," dit Tarun.
+"Le village a besoin d'un quincaillier."
+
+"Peux-tu expliquer pourquoi à ton grand-père."
+
+"Parce que personne ne pensera à demander à un charpentier
+s'il cherche un pot de fer."
+
+Aaradhya se tourna vers le grand-père,
+un sourire de satisfaction au coin des lèvres. 
+"La plupart de ce dont il a besoin est déjà en lui.
+Le reste n'est que de la syntaxe."
