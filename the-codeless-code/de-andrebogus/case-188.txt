@@ -1,0 +1,30 @@
+Number: 188
+Lang: de
+Translator: andrebogus
+Title: Liebevolle Strenge
+Tagline: Worin wir exzellent zueinander sind
+Illus.0.title: Darüber hinaus war er Python-Entwickler.
+
+Ein junger Mönch fragte Meister [[Kaimu]], "Abgesehen von
+technischem Können, was ist die wichtigste Qualität, die
+ein Meister immer haben muss?"
+
+Kaimu antwortete  "Güte."
+
+Der Mönch fragte, "Als [[Banzen]] mich mit seinem Stab 
+bestrafte, zu wem war er gütig?"
+
+Kaimu antwortete  "Zu Deinem zukünftigen Selbst."
+
+Der Mönch fragte, "Als [[Suku]] mir eine Leitungsposition
+verwehrte, zu wem war sie gütig?"
+
+Kaimu antwortete, "Zu unserem Tempel und unseren Kunden."
+
+Der Mönch sagte, "Letzte Woche hat [[Bawan]] einen Bewerber,
+der seinen Lebenslauf fälschte, von der Turmspitze stürzen
+lassen. Da waren keine Kunden, kein Tempel und nun nicht mal
+mehr ein zukünftiges Selbst. Zu wem war Bawan gütig?"
+
+Kaimu antwortete, "Zur Welt."
+
