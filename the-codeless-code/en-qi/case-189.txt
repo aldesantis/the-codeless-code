@@ -6,7 +6,7 @@ Topics: brevity, refactoring, complexity
 Geekiness: 2
 Tagline: In which we are hopelessly lost.
 Illus.0.src: roll.jpg
-Illus.0.title: Wait a minute... these aren't directing me home; they're instructions for the Macarena...
+Illus.0.title: Wait a minute... these aren't directing me home; they're instructions for the Macarena...!
 
 [[Suku]] and her apprentices had come to a secluded temple
 in the heart of a immense old forest.  Here the trees grew
