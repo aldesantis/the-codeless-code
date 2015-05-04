@@ -8,6 +8,7 @@ Credits: Inspired by a request from April King.
 Illus.0.src: broken.jpg
 Illus.0.title: Obviously he wasn't using Secure Shell.
 Illus.0.par: 1
+Tagline: In which we have egg on our face.
 
 The monk [[Djishin]] was building an application which
 managed sensitive information of minor importance.  He
