@@ -1,0 +1,172 @@
+Series: 1
+Number: 4
+Title: La Candidature
+Part: 4
+Subtitle: Le paquet
+Lang: fr
+Translator: abelards
+
+Le nom du vieil homme était Bhupendra ; son petit-fils était Tarun.
+
+Ils n'avaient pas d'autre membres de leur famille dans le village.
+Le père du garçon vivait dans une lointaine cité, travaillant de
+longues heures à un emploi de subalterne et envoyant chaque semaine
+un peu d'argent à la maison -- bien que Bhupendra supposait qu'une
+bonne partie du salaire de son gendre était gaspillé en vin de palme
+et de paris en ligne.
+À part une petite masure, leur principale possession était une
+ânesse gris poussière que le grand-père chargeait de riz, pain,
+légumes séchés, jarres d'eau, couteaux, pots (de différentes tailles),
+corde, petit bois, un rouleau de tissu épais, et un antique ordinateur
+portable qui était trop lent pour pouvoir faire tourner même le
+gestionnaire de fenêtre le plus épuré.
+
+"Pourquoi emmenez-vous autant de choses ?" demanda Aaradhya,
+irritée de voir que le jour passait rapidement.
+"Vous aurez fait le voyage à Reechee et le retour avant que
+la moitié de cette nourriture ne soit mangée."
+
+"Peut-être," dit le vieil homme, attachant une nouvelle poële
+à l'énorme fardeau sur le dos de l'ânesse.
+"Dans ma longue vie, j'ai souvent vu qu'il était mieux de trop
+prévoir que l'inverse."
+
+"Et l'ordinateur portable ? Rien que ses batteries sont plus
+lourdes que tout votre petit bois."
+
+"Vous enseignerez au garçon. Il vous faut un ordinateur."
+
+"Je doute qu'il puisse fonctionner plus de quelques heures
+sans recharge, encore moins quelques jours."
+
+"Peut-être."
+
+Aaradhya se tut. /Comment/ pourrait-elle enseigner à Tarun
+en marchant ? Dans sa ville d'origine, quand la poussière
+bloquait les machines des centrales électriques (ce qui
+arrivait fréquemment en été, coupant le courant pendant
+des heures à la fois) son vieux maître distribuait gaiment
+des feuilles de papier et des encriers,
+faisant la leçon à ses apprentis à la lumière d'une lampe
+devant un mur d'ardoise sur lequel il écrivait à la craie.
+La nonne n'avait que sa voix, qui s'éraillerait en quelques
+minutes dans l'air sec et sale. Seul un idiot voyageait
+la bouche ouverte sur les routes de campagne.
+
+Mais ce n'était rien comparé à un problème plus grand.
+Aaradhya était la plus jeune de quatre enfants et la
+dernière arrivée de sept apprentis. Elle n'avais jamais
+enseigné quoi que ce soit à personne.
+Elle n'avait aucune idée d'où commencer.
+À part la Fontaine d'Anantha, ses propres leçons étaient
+de vagues souvenir flous.
+
+Pendant ce temps, grand-père et petit-fils continuaient
+à attacher toujours davantage sur le dos de l'ânesse docile.
+Le jour tombait presque quand ils se mirent en route.
+
+- - -
+
+"Enseigne," dit le vieil homme.
+
+Aaradhya commença avec les petits bouts qu'elle se rappelait
+avoir appris sur les genoux de sa grand-mère.
+Des histoires des tout premiers ordinateurs : des inventions
+qui empilaient des dispositifs mécaniques de fuseaux
+de bois de santal qui tournaient sur d'épais moyeux et
+liés ensembles par des kilomètres de chanvre.
+Des chevilles serties d'ivoire faisaient grincer des
+portes AND et NOT aussi grosses et deux fois plus lourdes
+qu'un homme, et ces portes à leur tour étaient empilées
+par couches sur hauteur qui faisait bien quatre étages
+rien que pour implémenter une addition de bits.
+Des temples entiers étaient construits pour accueillir
+les précieux travaux, avec une douzaine de moines grimpant
+ou descendant des échelles pour huiler, resserrer, ajuster,
+réparer, et bien sûr faire fonctionner le gargantuesque système.
+
+Ensuite elle parla du merveilleux Âge de Cuivre, à l'aube
+de l'empire Babaj, où la programmation était faite de
+grappes de mécanismes d'horlogerie qui devenaient de plus
+en plus petites avec chaque nouvelle génération.
+D'étranges hommes pâles vinrent de l'Occident pour apprendre
+cet art, les améliorant avec leurs propres méthodes
+mystérieuses -- comme l'utilisation de rubis dans le mécanisme
+pour éviter l'usure dûe à la friction, et les ressorts en
+spirale pour guider les vilebrequins, et la pratique rituelle
+de s'imbiber de boissons stimulantes avant de commencer une
+journée de travail.
+
+Le grand-père de Tarun remarqua l'expression absente sur
+le visage du garçon. Il s'approcha du côté d'Aaradhya
+avec un regard menaçant.
+
+"Enseigne," répéta-t-il. "La programmation, pas l'histoire."
+
+Aaradhya grimaça. Son BASIC était dépassé ; Tarun en connaissait
+probablement plus qu'elle sur la forme moderne.
+Logo ? Elle en avait oublié pratiquement jusqu'au moindre bit.
+De toutes façons, le langage ne pouvait pas être enseigné sans
+avoir à disposition une tortue spécialement entraînée.
+Son apprentissage avait été fait en C avec un saupoudrage
+de C++, mais le garçon n'était pas encore prêt à être jeté
+dans un marais plein de Bus Errors et de Segmentation Violations
+et de syntaxes spéciales pour travailler avec les L-values.
+Elle avait surtout du Java à l'esprit ces jours-ci : c'était,
+après tout, la voie qu'avait choisie le Temple du Gong d'Airain du Matin.
+Reprendre les fondamentaux du langage l'aiderait à reprendre
+ses esprits, calmer ses nerfs, et la préparerait pour les entretiens.
+Elle devrait enseigner le Java au garçon.
+
+En marchant dans le noir ? Ridicule.
+
+Sans parler de l'incessant bruit des pots sur le dos de l'ânesse
+qui n'aidait pas Aaradhya à organiser ses pensées.
+
+"L'animal a besoin de boire," dit rapidement Aaradhya.
+"Pendant que l'on arrive encore à voir le ruisseau.
+Je commencerai quand nous serons de retour sur la route."
+
+Cela les força à quitter la route éclairée par la lune et
+descendre avec précaution une rigole pleine de mauvaises herbes
+pour atteindre le maigre ruisseau qui coulait en contrebas.
+En remontant, l'ânesse mit un sabot dans un trou de terrier
+inattendu, ce qui la déséquilibra. L'énorme paquetage
+balança dangereusement d'un côté.
+La bête se mit à braire, le harnais glissa, puis la cargaison
+s'en fut s'écraser sur des buissons, immobilisant l'animal.
+La lune s'était couchée pendant qu'ils calmaient l'ânesse.
+Il n'y avait pas d'autre choix raisonnable que de faire le camp pour la nuit.
+
+Bhupendra soupira et installa ses vieux os contre le paquet tombé.
+pendant que Aaradhya et Tarun rassemblaient les objets divers qui
+avaient roulé plus loin. Même à la seule lueur des étoiles
+Aaradhya pouvait voir dans l'oeil du vieil homme une lueur
+impitoyable.
+
+"Enseigne," ordonna-t-il. "Plus de délais."
+
+Aaradhya fit un pas vers le vieil homme, s'apprêtant
+à argumenter qu'il valait mieux commencer au matin,
+quand elle glissa sur quelque chose de lisse et atterrit
+les quatre fers en l'air sur un petit buisson épineux.
+Le mot qui sortit alors de sa bouche fut heureusement
+étouffé par ses robes emmêlées.
+En cherchant autour d'elles dans l'obscurité, les doigts
+d'Aaradya se refermèrent sur la poignée du coupable :
+un poêlon de fer qui s'était échappé du barda.
+C'était un objet lourd. Et c'est alors que l'idée lui vint.
+
+La jeune nonne se remit debout et s'épousseta.
+En souriant, elle avança vers le vieil homme et le garçon.
+Ils étaient tous les deux assis à côté des bagages ;
+elle les surplombait. D'un geste ample Aaradhya leva haut
+le poêlon de fer, puis l'abaissa fortement sur sa cible.
+
+Le rocher n'eut pas de dégâts, mais le poêlon sonna tel un gong.
+Ses deux camarades de route sursautèrent malgré eux.
+L'ânesse émit un son mais elle était attachée à un arbre
+et ne put pas s'enfuir.
+
+"L'école est ouverte," dit Aaradhya.
+"Nous commencerons par les Objets..."

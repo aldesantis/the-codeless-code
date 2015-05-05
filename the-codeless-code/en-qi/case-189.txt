@@ -6,7 +6,8 @@ Topics: brevity, refactoring, complexity
 Geekiness: 2
 Tagline: In which we are hopelessly lost.
 Illus.0.src: roll.jpg
-Illus.0.title: Wait a minute... these aren't directing me home; they're instructions for the Macarena...
+Illus.0.title: Wait a minute... these aren't directing me home; they're instructions for the Macarena...!
+Credits: Thanks to Kyle Tekaucic for pointing out the typo!
 
 [[Suku]] and her apprentices had come to a secluded temple
 in the heart of a immense old forest.  Here the trees grew
@@ -21,7 +22,7 @@ shining.)
 On their last night in the temple, master Suku was reviewing
 the code of a senior nun.
 
-"Your methods are exceeding long," said the master.  "This
+"Your methods are exceedingly long," said the master.  "This
 one is several hundred lines at least, with nested loops and
 logical branches many levels deep.  It should be refactored
 into at least thirteen separate methods."
