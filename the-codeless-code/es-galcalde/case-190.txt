@@ -1,0 +1,40 @@
+Number: 190
+Title: Hacer un Omelette
+Lang: es
+Translator: galcalde
+Illus.0.title: Obviamente no estaba usando un Cascarón Seguro.
+
+El monje [[Djishin]] estaba construyendo una aplicación que manejaba información sensitiva de menor importancia. Se acercó al maestro [[Banzen]] y dijo: "He pasado varios días leyendo sobre criptografía. Estoy seguro que puedo implementar una plataforma de compartición de secretos."
+
+Banzen dijo: "En las enseñanzas del maestro [[Mizuh]], se dice que un monje no entenderá la criptografía verdaderamente hasta que haya hecho malabarismos con ocho huevos frescos de chorlito durante ocho minutos enteros sobre un piso de tablones ásperos. Vuelve a tu domicilio y practica. En ocho días veremos que puedes hacer."
+
+Una semana después Djishin volvió a Banzen, su cabeza colgaba bajo.
+
+El monje dijo: "La gravedad y la torpeza fueron siempre victoriosas. Ahora me he gastado mi ración anual de huevos, y el piso de mi dormitorio está pegajoso."
+
+Banzen dijo: "Cualquier idiota puede tirar objetos al aire y atraparlos una o dos veces. Ser un malabarista es entender las corrientes de la atmósfera, las limitaciones de la mano, la sutil matemática del movimiento bajo gravedad. Un malabarista protege el suelo como si cada huevo fuese un ladrón."
+
+Djishin lo consideró.
+
+Finalmente el monje dijo: "El riesgo es proporcional al valor de lo que se pone en peligro. Si un ladrón entra en mi dormitorio porque mi cerradura es pobre, ¿Qué importa si a lo peor pierdo mi almohada?"
+
+Banzen golpeó a Djshin en la cabeza con su bastón y preguntó: "¿A qué huele tu cuarto?"
+
+"A huevos podridos," dijo Djushin, frotando su craneo.
+
+Banzen dijo: "El verdadero problema no es la captura fallida, sino la yema filtrándose por las tárimas. Si tu cerradura es pobre pero tu almohada no fue robada, ¡mira bajo tu cama! El ladrón puede estar tirado esperando el día en que vuelvas con una cartera tintineante."
+
+
+== Comentario de Qi
+
+Djishin le debe a Banzen un desayuno en la cama. Mejor que el monje conozca un año sin huevos que un omelette con salmonela.
+
+
+== Poema de Qi
+
+Mizuh fue amenazado por un bandido aprendido. //
+El bandido deseaba saber el nombre de nacimiento de Mizuh. //
+"Mis padres nunca me lo dijeron," dijo Mizuh. //
+El bandido se fue desalentado, y Mizuh sonrió.
+
+{{*}} El texto emergente original de la ilustración dice "Obviously he wasn't using Secure Shell."
