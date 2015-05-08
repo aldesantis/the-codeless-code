@@ -32,7 +32,7 @@ de Python, la flexibilité de Perl, et la portabilité de...
 Java, j'imagine, mais avec des interfaces avec le code native
 qui ne soient pas un sac de noeuds."
 
-c"Et bien, demain matin nous vous aiderons au mieux de nos compétences,"
+"Et bien, demain matin nous vous aiderons au mieux de nos compétences,"
 dit Kaimu. "Mais vous devrez passer la nuit dans l'appentis du
 charpentier, sous le mur Sud."
 
