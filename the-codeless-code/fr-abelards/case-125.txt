@@ -11,7 +11,7 @@ tous les moyens à leur disposition pour s'assurer que
 ce qui a été planifié soit livré à l'heure.
 C'est pour ces pouvoirs que les abbés sont à la fois enviés et méprisés.
 En effet, il est rare qu'un abbé croise le chemin d'un moine sans que
-ce dernier ressorte plus malheureux de cette expérience.
+ce dernier ne ressorte plus malheureux de cette aventure.
 
 C'est ainsi sans grande joie que le vieux moine [[Shinpuru]]
 reçut la visite du nouvel abbé en chef du [[Spider Clan|Clan de l'Araignée]].
@@ -45,7 +45,7 @@ Récemment nous manquons d'abbés au Clan de l'Araignée.{{*}}
 Le Temple souhaite vous conférer l'honneur de vous promouvoir
 dans nos rangs."
 
-"Je suis honoré," dit Shinpuru, s'inclinant encore.
+"C'est un honneur," dit Shinpuru, s'inclinant encore.
 
 "Le travail est difficile," continua l'abbé, "Notre jour commence
 bien avant le lever du soleil, que vous serez rarement capable
@@ -60,7 +60,7 @@ et le pouvoir de diriger les activités du Temple lui-même."
 le Temple', quand il ne produira plus de code ?" demanda le moine.
 
 "N'ayez crainte !" dit l'abbé. "Vous ferez ce à quoi vous avez
-toujours excellé, mais un niveau plus haut : du méta-code, si vous voulez."
+toujours excellé, mais un niveau plus haut : du méta-code, si vous voulez.
 Au lieu de documents de conception, nous faisons des plans à long terme ;
 au lieu de logiciels, nous faisons des plannings ;
 au lieu de défauts et fonctionnalités, nous parlons de coûts et bénéfices.
@@ -79,7 +79,7 @@ quand le navire coule -- et souvent par leur propre équipage."
 "Et le moine Shinpuru n'en est pas un. À moins que /je/ ne me trompe,
 mais je me trompe rarement sur de tels sujets."
 
-"Alors vous ne penserez pas que je suis un idiot de décliner la
+"Alors vous ne me prendrez pas pour un idiot si je décline la
 généreuse offre du Temple," dit Shinpuru, coupant quelques feuilles jaunes.
 
 L'abbé en chef fronça des sourcils. "Que penserait Shinpuru d'une
@@ -99,7 +99,7 @@ que le trouve les plus éclairants, après quoi j'ai hâte de me lancer
 et voir les fruits d'une journée de code, interrompue seulement par
 des échanges agréables avec mes pairs, et un repas de midi à
 cet endroit précis, à m'occuper de mon jardin.
-Quand la nuit tombe je désire me trouver dans ma chambre confortable,
+Quand la nuit tombera je désire me trouver dans ma chambre confortable,
 le ventre plein de riz, une coupe pleine de saké chaud, une bourse pleine
 d'assez de pièces pour m'acheter davantage de graines, et un esprit
 vide de tout autre souci."
