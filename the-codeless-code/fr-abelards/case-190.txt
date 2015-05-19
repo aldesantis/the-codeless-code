@@ -1,0 +1,69 @@
+Number: 190
+Lang: fr
+Translator: abelards
+Title: On ne fait pas d'omelette
+Credits: Inspiré par une requête d'April King.
+Illus.0.title: Ça se voit qu'il n'utilisait pas de Secure Shell (coquille).
+Tagline: Dans lequel on casse des oeufs.
+
+Le moine [[Djishin]] développait une application qui gérait
+des informations sensibles mais d'importance mineure.
+Il approcha maître [[Banzen]] et dit : "J'ai passé de nombreux
+jours à lire des ouvrages sur la cryptographie.
+J'ai confiance en mes capacités à implémenter un framework de
+partage de secrets."
+
+Banzen dit : "Dans les enseignements de maître [[Mizuh]],
+il est dit qu'un moine ne comprendra pas pleinement la
+cryptographie avant qu'il n'ait jonglé avec huit oeufs frais
+de pluvier, durant huit bonnes minutes, au-dessus d'un sol
+de planches grossièrement taillées.
+Retourne chez toi et entraîne-toi.
+Dans huit jours nous verrons ce que tu peux faire."
+
+Une semaine après Djishin revint voir Banzen, la tête basse.
+
+Le moine dit : "La gravité et la maladresse ont eu raison de moi.
+Maintenant j'ai épuisé ma ration d'oeufs pour l'année, et le sol
+de ma chambre est tout collant."
+
+Banzen dit : "N'importe quel idiot peut balancer des objets
+en l'air et en rattraper de temps en temps. Être un jongleur,
+c'est comprendre les courants de l'atmosphère, les limites
+de sa propre main, les subtiles mathématiques du mouvement
+et de la gravité. Un jongleur protège le sol comme si chaque
+oeuf était un voleur."
+
+Djishin réfléchit à cela.
+
+Au bout d'un moment, le moine dit : "Le risque est proportionnel
+à la valeur ce que que l'on met en danger. Si un brigand pénètre
+ma chambre à coucher parce que ma serrure n'est pas très bonne,
+est-ce vraiment important si je ne perds au pire que mon oreiller ?"
+
+
+Banzen frappa de son bâton le crâne de Djishin et demanda :
+"Comment est l'odeur dans ta chambre ?"
+
+"Ça sent l'oeuf pourri," dit Djishin, se frottant l'occiput.
+
+Banzen dit : "Le vrai problème n'est pas d'avoir raté le
+rattrapage, mais dans la matière organique qui suinte dans
+ton parquet.
+Si ta serrure n'est pas bonne mais que ton oreiller n'a pas
+été volé, regarde sous ton lit ! Le voleur est peut-être
+simplement en train d'attendre le jour où tu reviens avec
+un porte-monnaie sonnant."
+
+== Le commentaire de Qi
+
+Djishin doit un petit déjeûner au lit à Banzen.
+Il vaut mieux pour le moine connaître les affres d'une année
+sans oeufs que celles d'une omelette pleine de salmonelles.
+
+== Le poème de Qi
+
+Mizuh fut menacé par un filou lettré. //
+"Votre nom, mon ami ?" s'enquérit le bandit. //
+"Mes parents, mon ami, ne me l'ont jamais dit." //
+L'homme fut découragé ; Mizuh sourit, sauvé.

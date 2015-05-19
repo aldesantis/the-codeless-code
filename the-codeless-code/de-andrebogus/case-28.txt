@@ -3,16 +3,16 @@ Lang: de
 Translator: andrebogus
 Title: Echo
 
-Der Orden Eiserner Knochen war beauftragt, die Server am Laufen zu halten.
-Dies war ihr Zweck und Stolz.
+Der [[Clan of Iron Bones|Orden Eiserner Knochen]] war beauftragt, die 
+Server am Laufen zu halten. Dies war ihr Zweck und Stolz.
 
 Ein Mönch des Ordens fand bei einer Sicherheitskontrolle eines Servers
 mehrere unwichtige Services aktiviert vor. Er berichtete dies dem Abt.
 
-“Wir sollten den echo-Service auf port Sieben stoppen,” sagte der Mönch.
-“Es ist ein Relikt längst vergangener Zeit und dient keinem Zweck mehr.
-Alles was es tut, ist zurückzuspeien, mit was es gefüttert wurde, um
-Netzwerk-Latenz und Verfügbarkeits-Messungen zu erleichtern.”
+“Wir sollten den /echo/-Service auf port Sieben stoppen,” sagte der 
+Mönch. “Es ist ein Relikt längst vergangener Zeit und dient keinem 
+Zweck mehr. Alles was es tut, ist zurückzuspeien, mit was es gefüttert 
+wurde, um Netzwerk-Latenz und Verfügbarkeits-Messungen zu erleichtern.”
 
 Zur Überraschung des Mönchs verbannte ihn der Abt direkt und ohne einen
 Grund anzugeben für ein Jahr in eine entfernte Einsiedelei hoch in den
@@ -65,4 +65,3 @@ Der Turm ragt stolz empor, //
 die Statue blickt zur See. //
 Welch großes Werk ward nicht getan, //
 Dass sich der Schöpfer selbst drin seh'.
-
