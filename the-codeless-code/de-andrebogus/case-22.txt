@@ -3,33 +3,53 @@ Lang: de
 Translator: andrebogus
 Title: Sicherheit
 
-Ein Mönch des Ordens des lachenden Affen kannte sich gut mit der Software des wohltätigen Tempels des schnaubenden Yaks aus, und er wünschte eines ihrer Module in seinem neuen Projekt zu verwenden. Doch das Repository des Ordens war schwer bewacht, und der Mönch musste bei seinen Oberen Genehmigung einholen, um Software von Dritten zu nutzen.
+Ein Mönch des [[Laughing Monkey Clan|Ordens des lachenden Affen]] 
+kannte sich gut mit der Software des wohltätigen Tempels des 
+schnaubenden Yaks aus, und er wünschte eines ihrer Module in seinem 
+neuen Projekt zu verwenden. Doch das Repository des Ordens war schwer 
+bewacht, und der Mönch musste bei seinen Oberen Genehmigung einholen, 
+um Software von Dritten zu nutzen.
 
-Der Prior des Ordens war bereit, das Modul zu erlauben, doch er stellte die Bedingung, dass eine Wrapper-Klasse von den Priestern erstellt würde, durch die alle Zugriffe auf das Modul getätigt würden.
+Der Prior des Ordens war bereit, das Modul zu erlauben, doch er stellte 
+die Bedingung, dass eine Wrapper-Klasse von den Priestern erstellt 
+würde, durch die alle Zugriffe auf das Modul getätigt würden.
 
-So sprach der Prior: “Dies stellt sicher, dass Du keine für Deine Fähigkeiten zu komplexen Features verwendest. Außerdem können wir das Modul des schnaubenden Yaks jederzeit ersetzen, sollte es sich als unzureichend erweisen, ohne die Nutzer des Moduls durch die Änderung zu stören.
+So sprach der Prior: “Dies stellt sicher, dass Du keine für Deine 
+Fähigkeiten zu komplexen Features verwendest. Außerdem können wir das 
+Modul des schnaubenden Yaks jederzeit ersetzen, sollte es sich als 
+unzureichend erweisen, ohne die Nutzer des Moduls durch die Änderung zu 
+stören.
 
-Der Mönch verneigte sich und ging, um das Gespräch dem Java-Meister zu berichten.
+Der Mönch verneigte sich und ging, um das Gespräch dem Java-Meister zu 
+berichten.
 
-Der Java-Meister aber rief nach dem Prior, und schlug vor, gemeinsam in die Berge zu fahren, um dort über den besten Weg zu meditieren, den Wrapper zu bauen.
+Der Java-Meister aber rief nach dem Prior, und schlug vor, gemeinsam in 
+die Berge zu fahren, um dort über den besten Weg zu meditieren, den 
+Wrapper zu bauen.
 
 “Du fährst,” sagte der Meister.
 
-Sie setzten sich in das Auto des Priors, woraufhin dieser die Stirn runzelte.
+Sie setzten sich in das Auto des Priors, woraufhin dieser die Stirn 
+runzelte.
 
-“Der Schaltknopf für mein Radio ist wohl gestohlen worden,” sagte der Prior.
+“Der Schaltknopf für mein Radio ist wohl gestohlen worden,” sagte der 
+Prior.
 
-“Sehr gut,” sprach der Meister. “Musik wäre eine gefährliche Ablenkung auf engen Straßen.”
+“Sehr gut,” sprach der Meister. “Musik wäre eine gefährliche Ablenkung 
+auf engen Straßen.”
 
 “Auch die Knöpfe der Klimaanlage,” bemerkte der Prior.
 
-“Exzellent!” sagte der Java-Meister. “Kalte Luft begünstigt Rheuma und Verdauungsstörungen.”
+“Exzellent!” sagte der Java-Meister. “Kalte Luft begünstigt Rheuma und 
+Verdauungsstörungen.”
 
-Der Prior drehte den Zündschlüssel, doch der Motor blieb still. Er stieg aus, um nachzuforschen.
+Der Prior drehte den Zündschlüssel, doch der Motor blieb still. Er 
+stieg aus, um nachzuforschen.
 
-“Zudem,” sagte der Prior, “scheint es, als wäre die Motorhaube zugeschweißt worden.”
+“Zudem,” sagte der Prior, “scheint es, als wäre die Motorhaube 
+zugeschweißt worden.”
 
-“Wahrlich endlos ist dein Glück!” rief der Java-Meister. “So ist sicher, dass niemand den Motor beschädigen kann. Und sollte die Farbe der Reifen jemals Anlass zur Klage geben, sind sie sicher leicht zu wechseln, ohne die Fahrt ein Jota weniger sanft zu machen."
-
-
-
+“Wahrlich endlos ist dein Glück!” rief der Java-Meister. “So ist 
+sicher, dass niemand den Motor beschädigen kann. Und sollte die Farbe 
+der Reifen jemals Anlass zur Klage geben, sind sie sicher leicht zu 
+wechseln, ohne die Fahrt ein Jota weniger sanft zu machen."

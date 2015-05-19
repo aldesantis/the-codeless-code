@@ -3,27 +3,44 @@ Lang: de
 Translator: andrebogus
 Title: Das Rote Notizbuch
 
-In den Annalen des Tempels des morgendlichen Bronze-Gongs steht Folgendes im Unit-Testing-Kapitel:
+In den Annalen des [[Temple of the Morning Brass Gong|Tempels des 
+morgendlichen Bronze-Gongs]] steht Folgendes im Unit-Testing-Kapitel:
 
-Java-Meister Kaimu beantwortete gelegentlich Fragen mit dem Wort “null”. Gefragt, was dies meine, war seine Antwort immer das gleiche undurchdringliche “null”.
+Java-Meister [[Kaimu]] beantwortete gelegentlich Fragen mit dem Wort 
+“null”. Gefragt, was dies meine, war seine Antwort immer das gleiche 
+undurchdringliche “null”.
 
-Ein junger blasser Mönch von eigenbrötlerischer Natur, fing an, sich zu notieren, welche Fragen zu dieser Antwort führten. Diese schrieb er in ein kleines rotes Notizbuch, dessen Seiten nach einem Monat voll beschrieben waren. Manche nacht beobachteten ihn die anderen Mönche, wie er bis spät Nachts über seinem Notizbuch meditierte.
+Ein junger blasser Mönch von eigenbrötlerischer Natur, fing an, sich zu 
+notieren, welche Fragen zu dieser Antwort führten. Diese schrieb er in 
+ein kleines rotes Notizbuch, dessen Seiten nach einem Monat voll 
+beschrieben waren. Manche nacht beobachteten ihn die anderen Mönche, 
+wie er bis spät Nachts über seinem Notizbuch meditierte.
 
-“Hast Du den Geist unseres geliebten Meisters schon entschlüsselt?” hänselten ihn eines Tages die Brüder.
+“Hast Du den Geist unseres geliebten Meisters schon entschlüsselt?” 
+hänselten ihn eines Tages die Brüder.
 
 “Null,” sagte der Mönch.
 
-Darauf griffen sie ihn und schlugen ihn grün und blau. Sein kostbares rotes Buch warfen sie in die Flammen.
+Darauf griffen sie ihn und schlugen ihn grün und blau. Sein kostbares 
+rotes Buch warfen sie in die Flammen.
 
-Der Java-Meister hörte dies und bat den Abt, die Sache zu ermitteln. “Hier sind achtundvierzig Fragen für den jungen Mönch,” sagte der Meister. “Berichte mir seine Antworten.”
+Der Java-Meister hörte dies und bat den Abt, die Sache zu ermitteln. 
+“Hier sind achtundvierzig Fragen für den jungen Mönch,” sagte der 
+Meister. “Berichte mir seine Antworten.”
 
-Der Abt tat dies. Die meisten Fragen beantwortete der Mönch einfach. Einige quittierte er mit dem rätselhaften “null”, die restlichen mit Schweigen.
+Der Abt tat dies. Die meisten Fragen beantwortete der Mönch einfach. 
+Einige quittierte er mit dem rätselhaften “null”, die restlichen mit 
+Schweigen.
 
-Der Java-Meister strich durch seinen Bart, als er das ihm vom Abt überreichte Papier las.
+Der Java-Meister strich durch seinen Bart, als er das ihm vom Abt 
+überreichte Papier las.
 
-“Für seine Antwort auf Frage 12, schlagt dem Mönch auf die Ohren, denn er war anmaßend,” sagte der Meister. “Für seine Antwort auf Frage einunddreißig, peitscht seinen hintern, denn er versuchte, sich herauszureden. Dann gebt ihm ein neues rotes Notizbuch.”
+“Für seine Antwort auf Frage 12, schlagt dem Mönch auf die Ohren, denn 
+er war anmaßend,” sagte der Meister. “Für seine Antwort auf Frage 
+einunddreißig, peitscht seinen hintern, denn er versuchte, sich 
+herauszureden. Dann gebt ihm ein neues rotes Notizbuch.”
 
 “Und was ist mit den Brüdern, die ihn prügelten?” fragte der Abt.
 
-“Belohnt sie, denn sie haben dem Tempel einen Dienst erwiesen. Ich weiß nun, dass der Algorithmus des Mönchs fehlerhaft ist.”
-
+“Belohnt sie, denn sie haben dem Tempel einen Dienst erwiesen. Ich weiß 
+nun, dass der Algorithmus des Mönchs fehlerhaft ist.”
