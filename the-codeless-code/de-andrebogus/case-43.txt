@@ -3,17 +3,28 @@ Lang: de
 Translator: andrebogus
 Title: Löcher
 
-Die Äbtissin [[Jinyu|Jinyu]] inspizierte den [[Laughing Monkey Clan|Orden des Lachenden Affen]]. Im Auditorium fand sie einen halb ertrunkenen durchnässten zitternden Mönch.
+Die Äbtissin [[Jinyu]] inspizierte den [[Laughing Monkey Clan|Orden des 
+Lachenden Affen]]. Im Auditorium fand sie einen halb ertrunkenen 
+durchnässten zitternden Mönch.
 
 “Erkläre Dich,” befahl sie.
 
-“Der M-m-meister wies mich an, in seinem Korakel{{1}} auf den See hinaus zu fahren,” sagte der Mönch durch klappernde Zähne. “Fern des Ufers entdeckte ich, d-d-dass in den Seiten viele L-l-löcher waren. Die m-meisten waren zugepfropft, nur zwei w-waren übersehen worden. Hätte ich sie nicht mit den Fingern z-zugehalten, ich wäre dahin.”
+“Der M-m-meister wies mich an, in seinem Korakel{{1}} auf den See 
+hinaus zu fahren,” sagte der Mönch durch klappernde Zähne. “Fern des 
+Ufers entdeckte ich, d-d-dass in den Seiten viele L-l-löcher waren. Die 
+m-meisten waren zugepfropft, nur zwei w-waren übersehen worden. Hätte 
+ich sie nicht mit den Fingern z-zugehalten, ich wäre dahin.”
 
 Die Äbtissin verneigte sich und ging zum Java-Meister.
 
 “Erkläre dich,” sprach sie, auf den Mönch zeigend.
 
-“Dieser Mönch war beauftragt, den Einkaufswagen unserer neuen Seite zu implementieren,” sprach der Meister. “Er entdeckte, dass wenn ein bestimmter Datenbankeintrag nicht gesetzt war, die Darstellung mit Fehlern abbrach. Also suchte er jede Seite, die den Einkaufswagen verlinkte und versuchte, den Datenbank-Eintrag dort zu setzen. Es waren mehr als ein Dutzend Seiten. Bedauerlicherweise übersah er zwei.”
+“Dieser Mönch war beauftragt, den Einkaufswagen unserer neuen Seite zu 
+implementieren,” sprach der Meister. “Er entdeckte, dass wenn ein 
+bestimmter Datenbankeintrag nicht gesetzt war, die Darstellung mit 
+Fehlern abbrach. Also suchte er jede Seite, die den Einkaufswagen 
+verlinkte und versuchte, den Datenbank-Eintrag /dort/ zu setzen. Es 
+waren mehr als ein Dutzend Seiten. Bedauerlicherweise übersah er zwei.”
 
 Die Äbtissin schlug den Meister mit ihrem Gehstock.
 
@@ -21,6 +32,4 @@ Die Äbtissin schlug den Meister mit ihrem Gehstock.
 
 
 
-
 {{1}} kleines Ruderboot, ein lederbespannten Gerüst aus Ästen
-
