@@ -3,13 +3,24 @@ Lang: de
 Translator: andrebogus
 Title: Nicht Hier Erfunden
 
-Ein Mönch des Elefanten-Fußabdruck-Ordens war beauftragt, die von seinen Brüdern erstellten Mengen redundanten Codes zu eliminieren. Er bat den Prior seines Ordens um Rat.
+Ein Mönch des [[Elephant's Footprint Clan|Elefanten-Fußabdruck-Ordens]] 
+war beauftragt, die von seinen Brüdern erstellten Mengen redundanten 
+Codes zu eliminieren. Er bat den Prior seines Ordens um Rat.
 
-“Hier sind zum Beispiel fünf Wege, Nutzereinstellungen zu verwalten”, sprach der Mönch, die Ausdrucke auf den Tisch legend. “Ich muss den besten wählen oder eine Kompromisslösung implementieren. In jedem Fall werfe ich mindestens vier Module in die Flammen, und ihre Verfasser müssen den Code eines Rivalen verwenden.”
+“Hier sind zum Beispiel fünf Wege, Nutzereinstellungen zu verwalten”, 
+sprach der Mönch, die Ausdrucke auf den Tisch legend. “Ich muss den 
+besten wählen oder eine Kompromisslösung implementieren. In jedem Fall 
+werfe ich mindestens vier Module in die Flammen, und ihre Verfasser 
+müssen den Code eines Rivalen verwenden.”
 
-“Dann bist Du verloren,” sagte der Priester. “Hat die Katze einmal ihre Pfote im Teich, wird sie den Karpfen nicht für tausend Mäuse lassen.”
+“Dann bist Du verloren,” sagte der Priester. “Hat die Katze einmal ihre 
+Pfote im Teich, wird sie den Karpfen nicht für tausend Mäuse lassen.”
 
-Der Mönch wischte über seine Brauen. “Und das ist nur eins von einem Dutzend redundater Systeme, die ich konsolidieren muss! Eben sah ich einen der älteren Brüder seine Wurfmesser schärfen. Gibt es keinen Weg, die Ordensbrüder zu besänftigen?”
+Der Mönch wischte über seine Brauen. “Und das ist nur eins von einem 
+Dutzend redundater Systeme, die ich konsolidieren muss! Eben sah ich 
+einen der älteren Brüder seine Wurfmesser schärfen. Gibt es keinen Weg, 
+die Ordensbrüder zu besänftigen?”
 
-Der Prior hob seine linke Hand, an der der kleine Finger fehlte. “Kann die Katze den Karpfen nicht haben, reicht ein Stück des Karpfen-Diebes.”
-
+Der Prior hob seine linke Hand, an der der kleine Finger fehlte. “Kann 
+die Katze den Karpfen nicht haben, reicht ein Stück des 
+Karpfen-Diebes.”

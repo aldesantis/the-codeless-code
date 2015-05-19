@@ -3,28 +3,55 @@ Lang: de
 Translator: andrebogus
 Title: Stolz
 
-Nach flüchtiger Prüfung ordnete der Java-Meister an, dass jeder Mönch des Ordens des Elefanten-Fußabdrucks von nun an selbst Fische fangen, eigenen Reis anbauen, Roben flicken und Schuhe schustern solle.
+Nach flüchtiger Prüfung ordnete der Java-Meister an, dass jeder Mönch 
+des [[Elephant's Footprint Clan|Ordens des Elefanten-Fußabdrucks]] von 
+nun an selbst Fische fangen, eigenen Reis anbauen, Roben flicken und 
+Schuhe schustern solle.
 
-Einen Monat später waren die Mönche halbnackt und stark unterernährt. Die ersten Deadlines wurden verfehlt. Der ABt flehte den Java-Meister an, seine Entscheidung zu überdenken.
+Einen Monat später waren die Mönche halbnackt und stark unterernährt. 
+Die ersten Deadlines wurden verfehlt. Der ABt flehte den Java-Meister 
+an, seine Entscheidung zu überdenken.
 
-“Sehr gut,” sprach der Java-Meister. “Lasse sie zusätzlich jeden Donnerstag ihre Roben und Schuhe verbrennen, und werft ihren Reis und Fisch in den Fluss.”
+“Sehr gut,” sprach der Java-Meister. “Lasse sie zusätzlich jeden 
+Donnerstag ihre Roben und Schuhe verbrennen, und werft ihren Reis und 
+Fisch in den Fluss.”
 
-Der Abt fragte, welche Untat sein Clan verübt habe, um solch harte Strafe zu verdienen.
+Der Abt fragte, welche Untat sein Clan verübt habe, um solch harte 
+Strafe zu verdienen.
 
-“Strafe?” sprach der Java-Meister. “Ich suche nur zu belohnen. Genießen die Mönche des Elefanten-Fußabdrucks ihre Unabhängigkeit nicht? Ihr Code zeigt mir dies:
+“Strafe?” sprach der Java-Meister. “Ich suche nur zu belohnen. Genießen 
+die Mönche des Elefanten-Fußabdrucks ihre Unabhängigkeit nicht? Ihr 
+Code zeigt mir dies:
 
-“Jeder baut im Grunde die gleichen Data Access und Value Objekte wie seine Nachbarn. Jeder erstellt seine eigenen String-Hilfsklassen und Konfigurationsparser. Alle haben mit großen Mühen designt, programmiert, integriert, getestet, debuggt und repariert, was er einfach von seinen Brüdern hätte bekommen können.
+“Jeder baut im Grunde die gleichen Data Access und Value Objekte wie 
+seine Nachbarn. Jeder erstellt seine eigenen String-Hilfsklassen und 
+Konfigurationsparser. Alle haben mit großen Mühen designt, 
+programmiert, integriert, getestet, debuggt und repariert, was er 
+einfach von seinen Brüdern hätte bekommen können.
 
-“Soll ich Inkompetenz folgern? Dann müaate jeder Mönch des Elefanten-Fußabdrucks aus dem Kloster geworfen werden.
+“Soll ich Inkompetenz folgern? Dann müaate jeder Mönch des 
+Elefanten-Fußabdrucks aus dem Kloster geworfen werden.
 
-“Soll ich absichtliche Ignoranz folgern? Dann würde es die Tradition verlangen, sie mit Nesseln zu blenden und dann hinauszuwerfen.
+“Soll ich absichtliche Ignoranz folgern? Dann würde es die Tradition 
+verlangen, sie mit Nesseln zu blenden und dann hinauszuwerfen.
 
-“Soll ich Verachtung für den Wert der Zeit folgern? In diesem Fall warten die Verließe...
+“Soll ich Verachtung für den Wert der Zeit folgern? In diesem Fall 
+warten die Verließe...
 
-“Doch nein,” schloss der Java-Meister. “Ich will stattdessen Stolz folgern—Stolz, dass der eigene Code besser als der der Brüder ist. Stolz ist eine der vier Säulen der Großartigkeit, und ist zu ermutigen. Lasst die des Elefanten-Fußabdruck ihre Fähigkeiten mit Schere und Speer üben, mit Nadeln und Sicheln, bis dass jeder einzele Mönch auch stolz auf seine feine Robe und sein gutes Essen auf dem Teller sein kann!”
+“Doch nein,” schloss der Java-Meister. “Ich will stattdessen Stolz 
+folgern—Stolz, dass der eigene Code besser als der der Brüder ist. 
+Stolz ist eine der vier Säulen der Großartigkeit, und ist zu ermutigen. 
+Lasst die des Elefanten-Fußabdruck ihre Fähigkeiten mit Schere und 
+Speer üben, mit Nadeln und Sicheln, bis dass jeder einzele Mönch auch 
+stolz auf seine feine Robe und sein gutes Essen auf dem Teller sein 
+kann!”
 
-“Es wird wenig zeit zum Programmieren bleiben,” bemerkte der Abt. “Und der Imperator nimmt das Wort Deadline sehr wörtlich.”
+“Es wird wenig zeit zum Programmieren bleiben,” bemerkte der Abt. “Und 
+der Imperator nimmt das Wort Deadline sehr wörtlich.”
 
-Der Meister nickte. “Der gerade ruinierte Kaufmann kennt nur den Schmerz des Verlustes. Der alte Hermit hingegen lobt sich die Tugend der Sparsamkeit und wird sich lange erhalten. Doch sind diese nicht der gleiche Mann, getrennt nur durch den Strom einiger Jahre?”
+Der Meister nickte. “Der gerade ruinierte Kaufmann kennt nur den 
+Schmerz des Verlustes. Der alte Hermit hingegen lobt sich die Tugend 
+der Sparsamkeit und wird sich lange erhalten. Doch sind diese nicht der 
+gleiche Mann, getrennt nur durch den Strom einiger Jahre?”
 
 So ward der Elefanten-Fußabdruck zweimal verschont und bestraft.
