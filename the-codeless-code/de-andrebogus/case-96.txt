@@ -1,0 +1,21 @@
+Date: 2013-06-01
+Title: Stateless
+Number: 96
+Names: Kaimu
+Topics: immutability, thread safety, multithreading, state
+Geekiness: 2
+Translator: andrebogus
+Illus.0.src: Sleepy.jpg
+Illus.0.title: Versuche ihn nicht vor 6 Uhr Morgens zu rufen
+
+Es ist die Pflicht eines jeden Mönchs, zumindest einmal während ihrer
+Zeit im Tempel Master [[Kaimu]] aufzusuchen. Wenn der Meister die Tür
+öffnet, muss sich der Mönch verbeugen und fragen: "Was ist die höchste
+Freude zustandsloser Dienste?"
+
+Meister Kaimu wird ohne zu zögern antworten: "Zehntausend Gäste, die von
+einem einzelnen Sandkorn satt werden."
+
+Darauf muss der Mönch fragen: "Und was ist die höchste Sorge?"
+
+Kaimu wird entgegnen: "Die höchste Sorge wovon?"

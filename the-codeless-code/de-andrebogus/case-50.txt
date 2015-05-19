@@ -3,23 +3,34 @@ Title: Adapter
 Lang: de
 Translator: andrebogus
 
-/Dieser Kōan war monatelang verloren. Glücklicherweise wurde kürzlich eine Kopie im Rand eines Beweises von Fermat's letztem Satz entdeckt./
+/Dieser Kōan war monatelang verloren. Glücklicherweise wurde kürzlich 
+eine Kopie im Rand eines Beweises von Fermat's letztem Satz entdeckt./
 
-Ein Novize aus dem fernen Westen war vor Kurzem dem Tempel beigetreten. Der Abt prüfte ihn, gab ihm einen neuen Namen und schickte ihn zum Schreiber [[Qi]], um ihn in das Protokoll aufzunehmen.
+Ein Novize aus dem fernen Westen war vor Kurzem dem Tempel beigetreten. 
+Der Abt prüfte ihn, gab ihm einen neuen Namen und schickte ihn zum 
+Schreiber [[Qi]], um ihn in das Protokoll aufzunehmen.
 
-Der Novize fragte den Schreiber, “Warum bekommt jeder Mönch und jede Nonne bei ihrer Ankunft im Tempel einen neuen Namen?”
+Der Novize fragte den Schreiber, “Warum bekommt jeder Mönch und jede 
+Nonne bei ihrer Ankunft im Tempel einen neuen Namen?”
 
 Der Schreiber entgegnete: “Wie sollten wir Dich vorher benennen?”
 
-Der Novize verneigte sich und lächelte, machte aber keine Anstalten, den Schreiber zu verlassen. Da er ohne Erklärung nicht in Ruhe gelassen würde, setzte der Schreiber hinzu:
+Der Novize verneigte sich und lächelte, machte aber keine Anstalten, 
+den Schreiber zu verlassen. Da er ohne Erklärung nicht in Ruhe gelassen 
+würde, setzte der Schreiber hinzu:
 
-“Bevor Du zu uns kamst, warst Du so formlos in unserem Denken wie Bytes auf dem Heap. Nun bist Du allokiert in lebendigem Angedenken, und hast somit Form und Zweck. Nach diesem Zweck nennen wir Dich, wie man Variablen, Methoden oder Schnittstellen nennt. Solche Dinge existieren erst, wenn sie benannt sind.”
+“Bevor Du zu uns kamst, warst Du so formlos in unserem Denken wie Bytes 
+auf dem Heap. Nun bist Du allokiert in lebendigem Angedenken, und hast 
+somit Form und Zweck. Nach diesem Zweck nennen wir Dich, wie man 
+Variablen, Methoden oder Schnittstellen nennt. Solche Dinge existieren 
+erst, wenn sie benannt sind.”
 
-Der Novize dachte einen Moment nach, und zeigte dann mit zufriedenem Grinsen auf sich selbst:
+Der Novize dachte einen Moment nach, und zeigte dann mit zufriedenem 
+Grinsen auf sich selbst:
 
 “Dritt-Code!” verkündete der Novize.
 
-Qi griff das Handgelenk des Novizen und zeichnete schnell den neuen Ordensnamen auf den Handrücken des jungen Mannes.
+Qi griff das Handgelenk des Novizen und zeichnete schnell den neuen 
+Ordensnamen auf den Handrücken des jungen Mannes.
 
 “Wrapper Klasse,” sagte der Schreiber.
-
