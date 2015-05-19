@@ -3,25 +3,51 @@ Lang: de
 Translator: andrebogus
 Title: Nötige Features
 
-Derselbe Mönch des Ordens des Elefanten-Fußabdrucks stierte auf den von seinen Brüdern geschriebenen Code. Es gab mehrere Implementierungen eines bestimmten Datenzugriffsobjekts; er versuchte gerade, zu entscheiden, welche in Zukunft verwendet werden sollte.
+Derselbe Mönch des [[Elephant's Footprint Clan|Ordens des 
+Elefanten-Fußabdrucks]] stierte auf den von seinen Brüdern 
+geschriebenen Code. Es gab mehrere Implementierungen eines bestimmten 
+Datenzugriffsobjekts; er versuchte gerade, zu entscheiden, welche in 
+Zukunft verwendet werden sollte.
 
-“Jede Variante hat Vor- und Nachteile,” sagte der Mönch dem Java-Meister. “Und jede hat Features, die anderen fehlen. Ich aber muss alle außer einer dem Nichts anheimstellen. Wie kann ich wählen?”
+“Jede Variante hat Vor- und Nachteile,” sagte der Mönch dem 
+Java-Meister. “Und jede hat Features, die anderen fehlen. Ich aber muss 
+alle außer einer dem Nichts anheimstellen. Wie kann ich wählen?”
 
-“Ich kann nicht antworten, wenn ich Durst habe,” sprach der Meister. “Im Schrank hinter Dir stehen drei Holzbecher. Fülle einen am Fluss, den zweiten am Tempelbrunnen und den dritten beim Wasserverkäufer im Dorf. Bringe mir alle drei ohne einen Tropfen zu vergießen, dann werde ich versuchen, Dir zu helfen.”
+“Ich kann nicht antworten, wenn ich Durst habe,” sprach der Meister. 
+“Im Schrank hinter Dir stehen drei Holzbecher. Fülle einen am Fluss, 
+den zweiten am Tempelbrunnen und den dritten beim Wasserverkäufer im 
+Dorf. Bringe mir alle drei ohne einen Tropfen zu vergießen, dann werde 
+ich versuchen, Dir zu helfen.”
 
-Der Mönch tat wie geheißen und stellte alle drei Gefäße vor dem Meister ab.
+Der Mönch tat wie geheißen und stellte alle drei Gefäße vor dem Meister 
+ab.
 
 “Was hast Du gelernt?” fragte der Meister.
 
-Der Mönch verneigte sich. “Wenn man dem Wasserverkäufer eine Münze gibt, wird er zweimal einen Gong schlagen: Einmal bevor er den Becher füllt und einmal nach dem ersten Schluck. Beim Füllen aus dem Tempelbrunnen ertönt kein Gong, aber der Eimer ist schwer. Wenn man den Becher in den Fluss senkt, stört man die Fische und muss den Fluss-Gott mit einem Geschenk zehn weißer Steine besänftigen.”
+Der Mönch verneigte sich. “Wenn man dem Wasserverkäufer eine Münze 
+gibt, wird er zweimal einen Gong schlagen: Einmal bevor er den Becher 
+füllt und einmal nach dem ersten Schluck. Beim Füllen aus dem 
+Tempelbrunnen ertönt kein Gong, aber der Eimer ist schwer. Wenn man den 
+Becher in den Fluss senkt, stört man die Fische und muss den Fluss-Gott 
+mit einem Geschenk zehn weißer Steine besänftigen.”
 
-“Ich kann nur einen davon trinken,” sprach der Meister. “Welcher wird mir am besten gefallen?”
+“Ich kann nur einen davon trinken,” sprach der Meister. “Welcher wird 
+mir am besten gefallen?”
 
-Der Mönch überlegte dies reiflich. “Der Fluss war kalt, doch nicht ganz klar. Vom Tempelbrunnen habe ich schon getrunken: Sein Wasser ist bitter vor Kalk. Und so ich den Wasserverkäufer auch nicht kenne, hörte ich doch seinen Gong viele Male am Tag. Nach diesen Beobachtungen würde ich den Becher vom Wasserverkäufer nehmen”
+Der Mönch überlegte dies reiflich. “Der Fluss war kalt, doch nicht ganz 
+klar. Vom Tempelbrunnen habe ich schon getrunken: Sein Wasser ist 
+bitter vor Kalk. Und so ich den Wasserverkäufer auch nicht kenne, hörte 
+ich doch seinen Gong viele Male am Tag. Nach diesen Beobachtungen würde 
+ich den Becher vom Wasserverkäufer nehmen”
 
-“Ein sehr vernünftiger Schluss,” sagte der Meister. “In der Tat besuche ich denselben Wasserverkäufer seit acht Jahren jeden Morgen, und ich fand das Erlebte jedesmal absolut befriedigend. Welches Gefäß hat er gefüllt?”
+“Ein sehr vernünftiger Schluss,” sagte der Meister. “In der Tat besuche 
+ich denselben Wasserverkäufer seit acht Jahren jeden Morgen, und ich 
+fand das Erlebte jedesmal absolut befriedigend. Welches Gefäß hat er 
+gefüllt?”
 
-Der Meister nippte von dem ihm gezeigten Becher, und seine Mundwinkel sanken vor Enttäuschung. “Junger Bruder,” sagte er. “Du hast meinen Durst komplett missverstanden. Wo ist der Klang des Gongs?”
+Der Meister nippte von dem ihm gezeigten Becher, und seine Mundwinkel 
+sanken vor Enttäuschung. “Junger Bruder,” sagte er. “Du hast meinen 
+Durst komplett missverstanden. Wo ist der Klang des Gongs?”
 
 - - -
 
@@ -32,7 +58,3 @@ welchen Klang hatte das Gefäß, das vergossen?
 Der Mönch hätte besser ein Weihrauchfass  //
 von Bronze aufs Fenstersims gestellt //
 und lediglich auf Regen gewartet
-
-
-
-
