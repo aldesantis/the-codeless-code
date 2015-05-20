@@ -1,0 +1,39 @@
+Number: 124
+Date: 2013-12-22
+Title: Die Versteckte Variable
+Geekiness: 0
+Names: Kaimu, Banzen
+Topics: philosophy, idempotence, change, immutability
+Illus.0.src: earth.jpg
+Illus.0.title: Leute, die sich wünschen, die Welt möge aufhören sich zu ändern, haben sich die Vorbedingungen dazu nicht ernstlich überlegt.
+Translator: andrebogus
+
+
+Ein Mönch kam zu Meister [[Kaimu]], und sprach:
+
+Meister [[Banzen]] behauptet, Eure Philosophie sei fehlerhaft, denn Ihr
+gebt unterschiedliche Antworten auf die gleiche Frage. Wisst Ihr von
+dieser Kränkung?
+
+Nein, antwortete Kaimu.
+
+Etwas später kam ein anderer Mönch zu Kaimu, und sprach:
+
+Meister [[Banzen]] behauptet, Eure Philosophie sei fehlerhaft, denn Ihr
+gebt unterschiedliche Antworten auf die gleiche Frage. Wisst Ihr von
+dieser Kränkung?
+
+Ja, antwortete Kaimu.
+
+
+== Qi's commentary
+
+Kaimu leidet nicht unter Idempotenz.
+
+
+== Qi's poem
+
+Zehntausend Jahre seien verstrichen, //
+doch niemand sähe sie kommen noch geh'n. //
+Die Welt sei zwischen den Sternen verblichen -- //
+Nur Ruhe und Frieden, es wär' wunderschön.
