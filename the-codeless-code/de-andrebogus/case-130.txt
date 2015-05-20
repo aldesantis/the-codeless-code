@@ -1,10 +1,8 @@
-Date: 2014-02-03
 Title: Das Erste Mantra
 Number: 130
-Names: Satou, Kaimu
-Topics: creativity, refactoring, philosophy
-Geekiness: 1
 Illus.0.title: "Wenn ich hier den ganzen Tag herumstehe und Fragen stelle, was kreiere ich dann?" "Verdruss."
+Translator: andrebogus
+Lang: de
 
 Die Nonne [[Satou]] wandte sich an Meister [[Kaimu]] und sprach, "Mein 
 Meister sprach von einem Ersten Mantra, das jederzeit alle Gedanken 
