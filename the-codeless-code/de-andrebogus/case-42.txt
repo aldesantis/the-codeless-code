@@ -3,14 +3,25 @@ Lang: de
 Translator: andrebogus
 Title: Trigger
 
-Ein Mönch des [[Elephant's Footprint Clan|Elefanten-Fußabdruck-Ordens]] fragte, “Was ist mit Datenbank-Triggern?”
+Ein Mönch des [[Elephant's Footprint Clan|Elefanten-Fußabdruck-Ordens]] 
+fragte, “Was ist mit Datenbank-Triggern?”
 
-Der Meister antwortete, “Hast Du zur Mitternacht Hunger, wirst Du es erfahren.”
+Der Meister antwortete, “Hast Du zur Mitternacht Hunger, wirst Du es 
+erfahren.”
 
-Der Mönch lag nachts darüber sinnend wach. Schließlich schlug die Uhr Mitternacht; da seit dem Abendessen Stunden verstrichen waren, fühlte der Mönch sich wirklich hungrig.
+Der Mönch lag nachts darüber sinnend wach. Schließlich schlug die Uhr 
+Mitternacht; da seit dem Abendessen Stunden verstrichen waren, fühlte 
+der Mönch sich wirklich hungrig.
 
-Seine Sandalen zurücklassend, um keinen Lärm zu machen, stahl sich der Mönch leise in des Tempels Küche. Durch das Dunkel ertastete er zentimeterweise seinen Weg zum Surren des großen Kühlschranks. Kaum hatten seine Finger den kalten Griff gefasst, hörte er ein lautes Schnappen und ein Schmerz durchzuckte ihn. Der Mönch fiel rückwärts auf seinen Kopf, und verlor das Bewusstsein.
+Seine Sandalen zurücklassend, um keinen Lärm zu machen, stahl sich der 
+Mönch leise in des Tempels Küche. Durch das Dunkel ertastete er 
+zentimeterweise seinen Weg zum Surren des großen Kühlschranks. Kaum 
+hatten seine Finger den kalten Griff gefasst, hörte er ein lautes 
+Schnappen und ein Schmerz durchzuckte ihn. Der Mönch fiel rückwärts auf 
+seinen Kopf, und verlor das Bewusstsein.
 
-Er erwachte am Morgen, und fand seine Brüder um ihn stehend. Er aber lag noch auf dem Küchenboden—der, wie er nun sehen konnte, mit Mausefallen übersät war. Auch sah er, dass einige seiner Ordensbrüder verletzte oder fehlende Zehen hatten. In diesem Moment war der Mönch erleuchtet.
-
-
+Er erwachte am Morgen, und fand seine Brüder um ihn stehend. Er aber 
+lag noch auf dem Küchenboden—der, wie er nun sehen konnte, mit 
+Mausefallen übersät war. Auch sah er, dass einige seiner Ordensbrüder 
+verletzte oder fehlende Zehen hatten. In diesem Moment war der Mönch 
+erleuchtet.
