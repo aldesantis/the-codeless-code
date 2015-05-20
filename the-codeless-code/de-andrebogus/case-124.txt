@@ -1,11 +1,7 @@
 Number: 124
-Date: 2013-12-22
 Title: Die Versteckte Variable
-Geekiness: 0
-Names: Kaimu, Banzen
-Topics: philosophy, idempotence, change, immutability
-Illus.0.src: earth.jpg
 Illus.0.title: Leute, die sich wünschen, die Welt möge aufhören sich zu ändern, haben sich die Vorbedingungen dazu nicht ernstlich überlegt.
+Lang: de
 Translator: andrebogus
 
 

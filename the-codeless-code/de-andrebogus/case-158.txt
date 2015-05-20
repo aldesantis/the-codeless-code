@@ -1,10 +1,7 @@
 Number: 158
 Title: Montags-Montage
-Date: 2014-08-17
-Names: Kaimu, Eku, Mugen
-Topics: caching, stale data, efficiency hacks
-Geekiness: 2
 Translator: andrebogus
+Lang: de
 
 Montags wurde ein Mönch zu Meister [[Kaimu]] gesandt, zu
 fragen: "Was ist die größte Gefahr eines Caches?"
