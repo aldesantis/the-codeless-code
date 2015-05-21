@@ -1,0 +1,30 @@
+Number: 81
+Title: Bubble Sort
+Illus.0.title: AutoIncrement besteht hauptsächlich aus Koffein und Elektrizität.  Um wieder herunterzukommen, versuche AutoDecrement; das ist im Prinzip nur Kamille und Methaqualon (in Deutschland allerdings seit 1981 durch das Arztneimittelgesetz verboten)
+Translator: andrebogus
+Lang: de
+
+Als er spät Abends durch die Hallen seiner Abtei schritt, traf Meister
+[[Bawan]] einen Mönch in Not.  Ein morgendlicher Abgabetermin nahte und
+nach drei durchgearbeiteten Nächten hatte der Mönch seine verbliebenen
+Münzen in den Getränkeautomaten geworfen, ohne auf das Schild zu achten,
+das daran geklebt war.  Auf dem Schild stand: 
+<span style="white-space:nowrap"><tt>OUT</tt> <tt>OF</tt>
+<tt>ORDER</tt></span>{{*}}
+in großen roten Buchstaben.
+
+"Könnt Ihr es reparieren?" fragte der Mönch, der von Bawan's Geschick
+mit primitiven Maschinen wusste.
+
+Bawan studierte die Maschine einen Moment, strich dann die Buchstaben
+auf dem Schild durch und schrieb darunter <tt>DEFOOORRTU</tt>. Sofort
+fiel ein Getränk in den Entnahmeschacht.
+
+Zufrieden ging Bawan seines Weges.
+
+
+
+{{*}} Anm. des Übersetzers: Ich habe es bei der englischen Schreibweise 
+belassen, da das Wortspiel nicht zu übersetzen ist: "Out of order" heißt
+sowohl "Defekt" als auch "Unsortiert" (wobei erstere Bedeutung die
+geläufigere ist).
