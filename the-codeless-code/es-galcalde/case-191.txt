@@ -1,0 +1,26 @@
+Number: 191
+Title: Las Cuatro Palabras De La Angustia
+Lang: es
+Translator: galcalde
+
+El Maestro [[Bawan]] se encontró a un monje luchando con la máquina fotocopiadora. El monje estaba golpeando botones frustradamente, pero la copiadora estaba en silencio.
+
+Bawan alejó al chico, diciendo: "Las máquinas pueden sentir la desesperación. Las perturba." El maestro calmadamente apretó botones uno por uno, pausando para respirar entre cada uno. La máquina resopló viva, y las copias deseadas empezaron a aparecer.
+
+El monje preguntó, "¿Como es que algo tan simple pueda sentir las sutilezas de la emoción?"
+
+Bawan respondió, "El lago sabe cuando el viento está furioso, porque ella arruga su cara y da palmadas a la orilla."
+
+El monje lo consideró.
+
+Finalmente dijo, "Cuando la doctora siente mi angustia, ella se ocupa de mis necesidades. Los diseñadores de la interfaz de usuario de esta máquina harían bien en seguir su ejemplo."
+
+Bawan levantó un dedo. "Ni el mejor doctor te dará alivio si sólo aullas de dolor y rasgas tus vestiduras. En vez, respire hondo y prueba Las Cuatro Palabras De La Angustia."
+
+El monje preguntó, "¿Cuales son esas 'Cuatro Palabras'?"
+
+El maestro dijo, "De menor a mayor confort, son: <em>Ayuda</em>, <em>Cancelar</em>, y <em>Deshacer</em>. Ofrécelas a todos los usuarios de tus interfaces, y cuando se vayan dirán, ‘Aquí trabaja un doctor de compasión suprema, que entiende nuestras falibilidades y nos salva de la autolesión!’"
+
+El monje dijo, "Me has dicho tres palabras. ¿Cual es la cuarta?"
+
+Bawan apretó el botón <em>Apagar</em> y se fue.
