@@ -1,6 +1,8 @@
 Number: 126
 Title: Tee für Zwei
 Illus.0.title: Hör auf, auf ihre Robe zu starren.  Ja, ich meine DICH.
+Translator: andrebogus
+Lang: de
 
 Wie viele in ihrem Alter besaß die Nonne [[Satou]] eine unbezähmbare
 Neugier: Je weniger sie von etwas wusste, desto mehr wollte sie es
