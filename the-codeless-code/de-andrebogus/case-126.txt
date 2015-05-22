@@ -1,0 +1,37 @@
+Number: 126
+Title: Tee für Zwei
+Illus.0.title: Hör auf, auf ihre Robe zu starren.  Ja, ich meine DICH.
+
+Wie viele in ihrem Alter besaß die Nonne [[Satou]] eine unbezähmbare
+Neugier: Je weniger sie von etwas wusste, desto mehr wollte sie es
+probieren.  Daher hatte sie sich entschieden, Multithreading 
+einzusetzen, um die Performance ihres Log Reporting Systems zu 
+verbessern, ungeachtet [[#121|Meister Banzen's Warnungen]].
+
+[[Banzen]] prüfte ihren Code, und lud die Nonne daraufhin zum 
+morgendlichen Tee ein, seine Ergebnisse zu diskutieren.
+
+Als Satou sich im Teezimmer des Meisters gesetzt hatte, nahm Banzen eine
+leere Schale mit der linken Hand, während er mit der Rechten eine Kelle
+kochenden Wassers vom Topf schöpfte und dieses direkt auf Satous 
+Tatami-Matte goß. Satou schrie vor Schreck und sprang auf, um  nicht
+verbrüht zu werden.  Der Meister setzte ruhig die Schale in die Mitte der
+sich ausbreitenden Pfütze während er mit der rechten Hand die Pfütze
+mit einem Stäbchen umrührte.  Dannn griff er mit der linken Hand nach
+einem Bambuslöffel und begann, grünen Tee in die trockene Schale zu
+löffeln.
+
+"Nun," sagte Banzen.  "Lasst uns über Race Conditions sprechen."
+
+
+== Qi’s commentary
+
+Doch zuerst kommt herein und setzt Euch.
+
+
+== Qi’s poem
+
+In meinem Geiste entstehen //
+Auf meinem Bildschirm zu sehen //
+Vier Zeil'n, die in jedweder Folge stehen//
+durch sie die Thread-Sicherheit ist zu verstehen
