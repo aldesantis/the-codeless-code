@@ -1,0 +1,26 @@
+Number: 97
+Title: Entflammbar
+Illus.0.title: Und deshalb haben die Mönche geschorene Köpfe.
+Translator: andrebogus
+Lang: de
+
+Im aktuellen Java-Projekt des Mönchs [[Landhwa]] waren die 
+Business-Objekte den korrespondierenden Form-Eingabe-Objekten im 
+Web-Frontend sehr ähnlich. Da die Properties oft auch gleich hießen,
+hatte der Mönch zu Reflection gegriffen, um die meisten Daten zwischen
+den beiden Teilen zu kopieren.  Meister [[Kaimu]] hörte davon und
+beschloss, den Fall zu untersuchen.
+
+Nachdem er den Code des Mönchs gelesen hatte, zog Kaimu eine bronzene
+Flasche aus seiner Robe, nahm einen tiefen Schluck, hielt ein Teelicht
+an seine Lippen und blies heftig dagegen.  Eine blaue Flamme schoss aus
+seinem Mund an der Schulter des Mönches vorbei.
+
+"Was tut Ihr da?" schrie Landhwa, und löschte seinen brennenden Ärmel.
+
+"Ich entzünde die sieben Kerzen an der Wand dort drüben," sagte Kaimu.
+
+Beide Männer sahen zur verrußten Papier-Wand.  Kaimu runzelte die Stirn,
+nahm sein Teelicht und ging resigniert durch den Raum.
+
+"Eine habe ich verfehlt," erklärte er.
