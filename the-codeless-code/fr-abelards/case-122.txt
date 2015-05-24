@@ -14,15 +14,15 @@ des quatre côtés.
 Les formes complexes étaient d'un réalisme si saisissant que
 le moine pouvait presque entendre claquer les abaques.
 
-"Ceux-ci ont été façonnées voici deux cent ans par un
+"Ceux-ci ont été façonnées voici deux cents ans par un
 moine de notre ordre," dit Bawan. "Cela lui a pris six ans,
-en travaillant chaque nuit au marteau et burin, son travail
+travaillant chaque nuit au marteau et burin, son ouvrage
 illuminé seulement par la lumière clignotante d'un tube cathodique."
 
 Plus bas, ils rencontrèrent un autre carré de quatre piliers,
 en tous points semblables au premier carré.
 
-"Ceux-ci sont été faits voici une centaine d'années par les moines
+"Ceux-ci ont été faits voici une centaine d'années par les moines
 du [[Harmful Go-To Clan|Néfaste Clan du Go-To]], qui fut banni depuis,"
 dit Bawan. "Ils ont utilisé un pantographe de bambou fixé à un routeur
 électrique pour répliquer les originaux. Cela leur a pris six mois,
@@ -30,18 +30,18 @@ travaillant à la lumière d'un CRT mis au rebut, sur lequel tournait
 [[#applicant-2|la Fontaine d'Anantha]]."
 
 Plus bas ils arrivèrent à un autre carré de quatre piliers,
-encore plus fidèle aux originaux.
+encore plus fidèles aux originaux.
 
 "Ceux-ci ont été créés voici cinquante ans par trois nonnes
 du [[Elephant's Footprint Clan|Clan des Empreintes de l'Éléphant]],
-qui se chargent de nos bases de données et garantissent notre histoire,"
+qui se chargent de nos bases de données et conservent notre histoire,"
 dit Bawan. "Les nonnes ont tracé les contours des originaux et
 ont alimenté ces coordonnées dans une machine à usinage programmable.
 Les mesures ont pris six semaines ; la gravure, quelques jours."
 
 Ils atteignirent enfin le nouveau portique sud, soutenu par un
 dernier carré de piliers, qui ressemblaient tant à l'original que
-la moindre marque d'un coup de burin légèrement décalé avait
+la moindre marque de coups de burin légèrement décalés avait
 été fidèlement reproduite.
 
 "Ceux-ci ont été installés voici dix ans par un de nos
@@ -65,7 +65,7 @@ Bawan s'inclina et guida le moine vers la sortie.
 - - -
 
 La même nuit, Bawan marchait seul à la lanterne à travers
-les archives hardware du [[Clan of Iron Bones|Clan des Os de Fer]],
+les archives de matériel du [[Clan of Iron Bones|Clan des Os de Fer]],
 dans les caves les plus profondes sous leur abbaye.
 
 Trouvant enfin le mainframe VAX qu'il cherchait, Bawan connecta
