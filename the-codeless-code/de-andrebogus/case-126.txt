@@ -16,24 +16,24 @@ morgendlichen Tee ein, seine Ergebnisse zu diskutieren.
 Als Satou sich im Teezimmer des Meisters gesetzt hatte, nahm Banzen eine
 leere Schale mit der linken Hand, während er mit der Rechten eine Kelle
 kochenden Wassers vom Topf schöpfte und dieses direkt auf Satous 
-Tatami-Matte goß. Satou schrie vor Schreck und sprang auf, um  nicht
+Tatami-Matte goss. Satou schrie vor Schreck und sprang auf, um  nicht
 verbrüht zu werden.  Der Meister setzte ruhig die Schale in die Mitte der
 sich ausbreitenden Pfütze während er mit der rechten Hand die Pfütze
-mit einem Stäbchen umrührte.  Dannn griff er mit der linken Hand nach
+mit einem Stäbchen umrührte.  Dann griff er mit der linken Hand nach
 einem Bambuslöffel und begann, grünen Tee in die trockene Schale zu
 löffeln.
 
 "Nun," sagte Banzen.  "Lasst uns über Race Conditions sprechen."
 
 
-== Qi’s commentary
+== Qi’s Kommentar
 
 Doch zuerst kommt herein und setzt Euch.
 
 
-== Qi’s poem
+== Qi’s Gedicht
 
 In meinem Geiste entstehen //
 Auf meinem Bildschirm zu sehen //
 Vier Zeil'n, die in jedweder Folge stehen//
-durch sie die Thread-Sicherheit ist zu verstehen
+Die Thread-Sicherheit zu verstehen
