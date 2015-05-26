@@ -1,5 +1,6 @@
 Number: 192
-Title: Las Cuatro Palabras De La Angustia (Segunda Parte)
+Title: Las Cuatro Palabras De La Angustia
+Subtitle: Segunda Parte
 Lang: es
 Translator: galcalde
 Illus.0.title: Ese mismo monje luego inventaría las notas Post-It.
