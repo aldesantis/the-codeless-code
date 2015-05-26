@@ -2,6 +2,8 @@ Number: 90
 Title: NaN
 Credits: Danke an Christopher Lynnes und Eric Winter für die Idee.
 Illus.0.title: Offenbar wird es mit sehr viel Fettloser Butter hergestellt.
+Translator: andrebogus
+Lang: de
 
 Meister [[Kaimu]] wurde von einem Mönch des 
 [[Spider Clan|Spinnen-Ordens]] aufgesucht, der sprach: "In Javascript,
