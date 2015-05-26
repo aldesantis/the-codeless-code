@@ -1,0 +1,63 @@
+Number: 190
+Title: Rezept Für Omelette
+Credits: Durch eine Anfrage von April King inspiriert.
+Illus.0.title: Offensichtlich hat er nicht Secure Shell genutzt.
+Tagline: Worin wir ein Ei ins Gesicht bekommen
+Translator: andrebogus
+Lang: de
+
+Der Mönch [[Djishin]] entwickelte eine Applikation, die sensible aber
+wenig wichtige Information handhabte. Er trat zu Meister [[Banzen]] und
+sprach: "Ich habe viele Tage verbracht, über Kryptografie zu lesen.
+Ich bin überzeugt, ein Framework zum Teilen von Geheimnissen bauen zu 
+können."
+
+Banzen sagte: "In den Lehren des Meisters [[Mizuh]] steht, dass ein
+Mönch erst dann wirklich Kryptografie versteht, wenn er acht Minuten
+lang acht frische Eier über einem Boden grober Planken jongliert hat.
+Geh in Deine Kammer und übe. In acht Tagen werden wir sehen, wozu Du
+imstande bist."
+
+Eine Woche später kehrte Djishin mit hängendem Kopf zu Banzen zurück.  
+
+Der Mönch sagte: "Gravitation und Ungeschick blieben siegreich. Nun
+habe ich meine Eier-Ration für das Jahr verbraucht und der Boden meiner
+Kammer ist klebrig."
+
+Banzen aber sprach: "Jeder Idiot kann Dinge in die Luft werfen und sie
+ein oder zweimal fangen.  Ein Jongleur zu sein, bedeutet, die Ströme der
+Atmosphäre, die Grenzen der Hand und die subtile Mathematik der Bewegung
+in Gravitation zu verstehen.  Ein Jongleur schützt den Boden als wäre
+jedes Ei ein Dieb."
+
+Djishin bedachte dies.
+
+Zuletzt sagte der Mönch:  "Das Risiko ist proportional zum Wert des 
+Bedrohten.  Was macht es, wenn ein Dieb in meine Kammer einbricht, weil 
+mein Schloss nicht taugt, wenn ich im schlimmsten Fall mein Kissen 
+verliere?" 
+
+Banzen klopfte Djishin mit seinem Gehstock an den Kopf und fragte: "Wie
+riecht Deine Kammer?"
+
+"Wie verfaulte Eier," antwortete Djishin, und rieb sich die 
+Schädeldecke.
+
+Banzen sprach: "Das wirkliche Problem ist nicht das gefallene Ei, 
+sondern der Dotter, der in die Dielen läuft.  Wenn Dein Schloss nicht
+taugt, doch dein Kissen noch da ist, schau unter dem Bett!  Der Dieb
+mag dort liegen und warten, bis Du mit voller Börse zurückkehrst."
+
+
+== Qi's Kommentar
+
+Djishin schuldet Banzen ein Frühstück im Bett.  Besser ein Jahr ohne
+Eier als ein Omelette mit Salmonellen.
+
+
+== Qi's poem
+
+Von gelehrtem Bandit nach dem Namen gefragt,//
+sprach Mizuh 'Vater hat ihn mir nicht gesagt'.//
+Der Bandit ward besiegt, konnt mit Drohgebaren//
+er doch nicht einmal des Mannes Name erfahren.
