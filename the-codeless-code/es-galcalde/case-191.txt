@@ -1,5 +1,6 @@
 Number: 191
 Title: Las Cuatro Palabras De La Angustia
+Subtitle: Primera Parte
 Lang: es
 Translator: galcalde
 
