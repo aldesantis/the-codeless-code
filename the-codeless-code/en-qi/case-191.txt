@@ -1,8 +1,8 @@
 Date: 2015-05-18
 Number: 191
 Title: The Four Words of Distress
-X-Subtitle: Part One
-X-Part: 1
+Subtitle: Part One
+Part: 1
 Names: Bawan
 Topics: design, user interfaces, user experience, help, cancel, undo
 Geekiness: 2
