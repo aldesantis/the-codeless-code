@@ -1,0 +1,88 @@
+Date: 2015-05-25
+Number: 192
+Title: The Four Words of Distress
+Subtitle: Part Two
+Part: 2
+Names: Bawan, Eku
+Topics: design, user interfaces, user experience, help, cancel, undo
+Geekiness: 2
+Tagline: In which we reap what we sow.
+Illus.0.src: message.jpg
+Illus.0.title: This same monk would later invent Post-It notes.
+
+[[#191|This same monk]] maintained a site
+that sold agricultural tools to local farmers.  It lately had
+caused these farmers much frustration, so the monk
+resolved to follow master [[Bawan]]'s advice and offer the
+[[#191|Four Words of Distress]] to his users as quickly as
+possible.  For when an angry farmer wants to get his point
+across to a developer, that point is usually at the tip of a
+scythe.
+
+- - -
+
+The monk devoted his first sprint to providing /Help/
+buttons throughout the interface, implemented as links into
+the online user manual.  This, he thought, would take the
+least time and effort -- and besides, farmers should
+appreciate the value of low-hanging fruit.
+
+But soon after deployment the monk found a note stuck into
+his door, on the business end of an axe:
+
+     Drowning, I cried out to your boat for Help. //
+     You threw a heavy tome and rowed away.  //
+     A friendly voice was all the rope I needed -- //
+     Now I crave the sort that makes a noose.
+
+- - -
+
+The monk devoted his second sprint to providing /Cancel/
+buttons throughout the interface, so that any action
+of importance would only proceed after confirmation.
+
+But soon after deployment the monk found a second note stuck
+into his door, this one on the tines of a pitchfork:
+
+     When asked, /Do you truly wish to cancel your order?/  //
+     my only choices were /OK/ and /Cancel/.  //
+     I chose Cancel, yet received ten thousand pitchforks --  //
+     I shall send one to your posterior... OK?
+
+- - -
+
+The monk devoted his third sprint to providing an
+ever-present /Undo/ button, so that any action could be
+reversed.  This took the greatest time and effort, yet he
+was well-pleased with the result.
+
+But soon after deployment the monk found a third note stuck
+to his door, this one held fast by garden-spikes:
+
+     A penitent man cries, <i>what have I done?</i> //
+     Merciful gods vow to turn back time. //
+     A cricket chirps.  All else is still -- //
+     Now the man cries: <i>what have I <b>un</b>-done?</i>
+
+- - -
+
+That evening Bawan informed the monk that a line of
+townsfolk had been seen advancing up the mountain, holding
+various farm implements which glinted in the setting sun.
+
+The monk declared, "Three of your Four Words have failed me!"
+
+The master replied, "Eku had a parrot that repeated her
+words faithfully, but no one went to the parrot for wisdom."
+
+"How can I placate my users?" asked the monk.
+
+"The parrot placated Eku's cat at dinner-time," said Bawan.
+
+"There is still the Fourth Word of Distress," said the monk.
+"Can /it/ save me?"
+
+"Only if you invoke it yourself," said Bawan.
+
+The monk hit the /Off/ button on his workstation and fled the
+mountain forever.

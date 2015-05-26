@@ -1,0 +1,49 @@
+Number: 191
+Title: Die Vier Worte der Not
+Tagline: Worin wir getröstet werden
+Translator: andrebogus
+Lang: de
+
+Meister [[Bawan]] traf auf einen Mönch, der mit dem Fotokopierer 
+kämpfte. Der Mönch drückte frustriert alle Knöpfe, doch das Gerät blieb
+stumm.
+
+Bawan scheuchte den Jungen weg, und sagte: "Maschinen können 
+Verzweiflung spüren.  Sie beunruhigt sie."  Der Meister drückte ruhig
+einen Knopf nach dem anderen, je eine Atempause lassend. Die Maschine
+erwachte surrend zum Leben, und die gewünschten Kopien erschienen.
+
+Der Mönch fragte, "Wie kann ein so einfaches Ding die Feinheiten der
+Emotionen erkennen?"
+
+Bawan antwortete, "Der See weiß, wenn der Wind wütet, denn dieser
+legt ihn in Falten und lässt ihn ans Ufer klatschen."
+
+Der Mönch bedachte dies.
+
+Zu guter Letzt sagte er, "Wenn der Medicus meine Not bemerkt, wird er
+sie lindern.  Die Macher der Benutzerschnittstelle{{*}} dieses Geräts
+täten gut daran, ihrem Beispiel zu folgen."
+
+Bawan hob einen Finger. "Selbst der beste Doktor wird Euren Schmerz
+nicht lindern, wenn ihr nur heult und an Eurer Kutte reißt. Nehmt 
+stattdessen einen tiefen Atemzug und versucht die Vier Worte der Not."
+
+Der Mönch fragte "Was sind diese 'Vier Worte'?"
+
+Der Meister sagte, "Von der geringsten zur höchsten Linderung geordnet,
+sind sie: /Hilfe/, /Abbrechen/ und /Rückgängig machen/. Gebe sie allen
+Nutzern Deiner Programme, und sie werden sagen: 'Hier arbeitet ein
+Medicus höchsten Mitgefühls, der unsere Fehlbarkeit versteht und unsere
+Selbstverletzung hindert!'"
+
+Der Mönch sagte, "Ihr spracht nur drei Worte.  Was ist das Vierte?"
+
+Bawan drückte den /Aus/-Knopf und ging.
+
+
+
+{{*}} Anm. des Übersetzers: Das Wort ist eigentlich eine 
+Fehlübersetzung, wie mir ein Informatikprofessor einst deutlich zu
+verstehen gab: "Wenn Sie eine Benutzerschnittstelle haben, dann haben
+Sie sich geschnitten!"

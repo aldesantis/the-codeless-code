@@ -4,6 +4,7 @@ Title: Undone
 Geekiness: 1
 Names: Kaimu
 Topics: undo, state
+Tagline: In which we come undone.
 
 A monk asked master [[Kaimu]], "What is the ideal behavior
 of 'undo'?"

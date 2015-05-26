@@ -1,0 +1,32 @@
+Number: 163
+Title: Urlaub
+Illus.0.title: Ich hoffe wirklich, dass das ein Tippfehler ist.
+Translator: andrebogus
+Lang: de
+
+Am ersten kalten Tag des Herbsts, kam eine Botin mit dringender Kunde 
+zum Tempel. Zu ihrer Verwunderung fand sie jeden Hof verlassen, und alle
+Hallen und Räume leer.  Keine Seele war zu finden.
+
+An einem offenen Eingang vorbeigehend, bemerkte sie das Klappern von
+Tasten dahinter. Innen fand sie einen alten Schreiber, der konzentriert
+auf den Monitor starrte.
+
+"Wo--" begann die Botin.
+
+"Urlaub," sagte der Schreiber ohne sich umzudrehen, und winkte abwesend
+in Richtung des restlichen Tempels.
+
+"Und Ihr?" fragte die Botin.
+
+"Ich auch," sagte der Schreiber.
+
+"Aber auf Eurem Bildschirm--" sagte die Botin.
+
+"Ja," sprach der Schreiber.  "Der hässlichste bugverseuchteste, höchst
+ungebührliche PHP-Code, den Ihr in den siebzehn Provinzen finden könnt."
+
+"Warum arbeitet Ihr dann daran?" fragte die Botin".
+
+"Weil,", lächelte der Schreiber "es nicht Code des Tempels ist. Es ist
+/meiner/".
