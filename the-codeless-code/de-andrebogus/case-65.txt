@@ -1,0 +1,38 @@
+Number: 65
+Title: Zwei Optionen
+Illus.0.title: HELLO MY BABY, HELLO MY HONEY, HELLO MY RAGTIME GAAAAAAL...
+Translator: andrebogus
+Lang: de
+
+Java Meister [[Kaimu]] ließ [#64|drei Novizen] unter sich die Signatur 
+einer benötigten Hilfsmethode diskutieren.  Eine Stunde später fand er
+alle drei in seinem Büro zerzaust, verschrammt und mit blauen Flecken 
+vor. 
+
+"Habt Ihr eine Einigung gefunden?" fragte Kaimu.
+
+Der erste Novize sprach mit zerrissener Robe und blutender Lippe: "Wir
+sind noch weiter als zuvor von einer friedlichen Einigung entfernt.
+Jeder von uns bevorzugt seine Lösung. Wir bitten Euch, die beste Wahl
+an unserer Statt zu treffen.
+
+"Nun gut," seufzte Kaimu. "Unter Euren drei Vorschlägen war einer kühn
+genug, die Tradition der strengen Typisierung abzulehnen und die Methode
+mit einem <tt>Object</tt>-Argument zu deklarieren, um alle möglichen
+Nutzer zufrieden zu stellen.  Wer von Euch schlug dies vor?"
+
+Der zweite Novize schritt stolz vor.  Mit einem behenden Tritt in den
+Magen sandte ihn der Meister zur Tür hinaus.
+
+
+== Qi's Kommentar
+
+Die Methode, die Objekt annimmt, wird frohgemut LinkerFuss akzeptieren.
+
+
+== Qi's poem
+
+Auf dem Tische von Splittern umgeben //
+duckt ein Frosch ganz von Jade sich hier, //
+Und der Künstler entscheidet: dagegen, //
+sich mit jedem Schlag -- oder dafür.
