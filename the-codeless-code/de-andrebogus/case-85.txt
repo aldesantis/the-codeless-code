@@ -1,0 +1,42 @@
+Number: 85
+Title: Sukus Goldene Mitte
+Alt-title: Fuzzy logic
+Illus.0.title: Suku hing früher oft in Studentenkneipen herum und wettete mit den Mathematikern, dass sie Null zu Eins addieren könnte, un ein Resultat zwischen Eins und Zwei exklusiv zu bekommen. Bis sie herausfand, dass es einfacher war, zu warten, bis sie betrunken waren und dann ihre Brieftaschen zu stehlen. 
+Translator: andrebogus
+Lang: de
+
+Zwei Mönche wandten sich an Meisterin [[Suku]], einen Disput zu klären.
+
+Der erste Mönch sagte, "Ich schlug ein wahrhaft elegantes Design vor,
+doch dieser Bruder sagt, es ist zu komplex und nicht wartbar." 
+
+Der zweite Mönch sagte, "Ich schlug ein wahrhaft einfaches Design vor,
+doch dieser Bruder sagt, es ist zu unflexibel und wird nichts nutzen."
+
+Suku drehte sich zu ihrer Weißwandtafel und malte folgendes /Phi/:
+
+
+
+
+
+Der erste Mönch sagte, "Ich verstehe nicht."
+
+Der zweite Mönch sagte, "Ich genauso wenig."
+
+Suku antwortete, "Ihr streitet in Boolescher Wahrheit, in Eins und Null.
+Kommt wieder, wenn Ihr Gleitkommarechnung gelernt habt."
+
+
+== Qi's Kommentar
+
+[[Kaimu]] richtet über Novizen und Meister, aber die wahren Narren
+schicken sie zu Suku.
+[[#24|Kaimu's <i>null</i>]] kann eine Frage un-fragten, aber Suku's
+/phi/ un-antwortet beide Antworten.
+
+== Qi's Poem
+
+Kaimu's /null/ macht die Frage leer, //
+Suku die gold'ne Mitte misse. //
+'Ne neue Frage fordert er, //
+Sie gute Kompromisse. //
