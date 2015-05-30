@@ -1,0 +1,59 @@
+Number: 191
+Title: Les Quatre Mots de la Détresse
+Tagline: Dans lequel on n'est pas des fusées.
+Lang: fr
+Translator: abelards
+
+Maître [[Bawan]] trouva un moine qui avait quelque difficulté
+avec la photocopieuse. Le moine tapait sur tous les boutons de
+frustration, mais la photocopieuse ne bronchait pas.
+
+Bawan chassa le garçon, lui disant : "Les machines peuvent
+sentir le désespoir. Cela les perturbe."
+Le maître pressa calmement les boutons, un par un, prenant
+le temps d'une inspiration et d'une expiration entre chaque.
+La machine émit quelques bruits en revenant à la vie, et
+les photocopies tant désirées apparurent.
+
+Le moine demanda, "Comment se peut-il qu'une chose aussi
+simple puisse sentir les subtilités de nos émotions ?"
+
+Bawan répondit, "Le lac sait quand le vent se fâche, car son
+visage se ride et fouette le rivage."
+
+Le moine considéra cela.
+
+Au bout d'un moment, il dit "Quand le docteur sent ma souffrance,
+elle prend soin de mes besoins. Les concepteurs de l'interface utilisateur
+de cette machine feraient bien de suivre son exemple."
+
+Bawan leva un doigt. "Même le guérisseur le plus doué ne te
+sera d'aucun secours si tu te contentes de hurler
+de douleur et de déchirer tes habits.
+À la place, prend une grande inspiration et fais appel
+aux Quatres Mots de la Détresse."
+
+Le moine demanda, "Quels sont ces 'Quatre Mots' ?"
+
+Le maître dit, "Par ordre d'apaisement croissant, ce sont :
+/Aide/, /Annuler/, et /Retour en arrière/.
+Propose-les tous aux utilisateurs de tes propres interfaces,
+et quand ils auront pris congé, ils diront 'Voici un docteur
+doué de la plus extrême compassion, qui comprend que chacun
+est faillible et nous évite de nous blesser nous-mêmes !'"
+
+Le moine dit, "Vous n'avez donné que trois mots.
+Quel est le quatrième ?"
+
+Bawan appuya sur le bouton /Éteindre/ et s'en fut.
+
+
+== Note du Traducteur
+
+Les quatre mots sont /Help/, /Cancel/, /Undo/ et /Off/.
+Je me rends compte désormais que nous donnons le même 
+nom "Annuler" à /Cancel/ et /Undo/.
+
+Est-ce une simplification bienvenue ou est-ce que cela mène
+lâchement à masquer une complexité dont il faudrait pourtant
+avertir nos utilisateurs ?

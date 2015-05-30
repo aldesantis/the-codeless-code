@@ -29,17 +29,17 @@ Nous trouverons ensemble un moyen de leur faire entendre raison."
 
 Le lendemain, le messager passait la Route de la Lune Mourante
 sur sa mobylette pétaradante. Après avoir passé un panneau
-annonçant /LE PONT DE ZJING/ en grandes lettres rouges,
+annonçant /PONT DE ZJING/ en grandes lettres rouges,
 il se trouva en train de traverser une vaste gorge sur un
 pont de cordes et de planches.
 Tout droit face à lui, il voyait une magnifique chênaie et,
 derrière eux, les tours du Temple.
 Saisi par la beauté de la scène, il ne remarqua pas que des
-planchez manquaient au milieu du pont, sur dix mètres.
+planches manquaient au milieu du pont, sur dix mètres.
 
 Messager et mobylette se trouvèrent soudainement en train de dégringoler dans la gorge.
 
-Du balcon supérieur de la Tour Est, maître Bawan hocha la tête et rentra.
+Du balcon supérieur de la tour Est, maître Bawan hocha la tête et rentra.
 Il fit appeler un jeune moine de son bureau quelques étages en dessous.
 
 "Emmenez ceci de l'autre côté du[[Zjing's Bridge|Pont de Zjing]]," dit-il,
@@ -55,4 +55,4 @@ pouvait y lire /FERMÉ/.
 Le titre original, "Character assassination", fait bien entendu référence aux caractères et à l'assassinat.
 Mais l'expression entière signifie en anglais une opération de discréditation d'une personne
 (rumeurs etc) pour ruiner sa réputation.
-Nous francophones, nous contenterons de l'allusion au caractère, pour le moins spécial, de Bawan.
+Nous autres francophones nous contenterons de l'allusion au caractère, non moins spécial, de Bawan.

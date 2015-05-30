@@ -1,0 +1,23 @@
+Number: 86
+Date: 2013-03-24
+Title: Liberation
+Geekiness: 1
+Names: Banzen
+Topics: management, code reviews, mentoring
+Skip: 0
+Translator: andrebogus
+
+Meister [[Banzen]] untersuchte die Novizen einer entfernten Abtei. Ihre
+Entwürfe und Implementierungen beunruhigten ihn.
+
+"Wer reviewt Euren Code?" fragte Banzen.
+
+"Unsere Meister lassen uns unseren Code gegenseitig reviewen," erklärte
+einer der Novizen.  "So haben sie mehr Zeit für wichtigere Pflichten."
+
+"In der Tat", sagte Banzen.  Er schleuderte seinen Stab kraftvoll durch
+den Raum direkt in den Sicherungskasten der Abtei, die in einem 
+Funkenregen zerbarst. Alle Bildschirme wurden schwarz.
+
+Banzen holte seinen Stab und sprach: "Nun haben ihre Elektronen auch
+mehr Zeit."

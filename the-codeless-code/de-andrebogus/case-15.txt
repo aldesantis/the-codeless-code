@@ -3,15 +3,26 @@ Lang: de
 Translator: andrebogus
 Title: Unveränderlich
 
-kürzlich erreichte uns ein Novize vom Tempel der drei Steine, der nur C nutzte. Er war unerfahren in Java und stolperte bald über die Unveränderlichkeit von Strings.
+kürzlich erreichte uns ein Novize vom [[Temple of Three Stones|Tempel 
+der drei Steine]], der nur C nutzte. Er war unerfahren in Java und 
+stolperte bald über die Unveränderlichkeit von Strings.
 
-“Ich will nur den Inhalt dieses Feldes in Groß-Kleinschreibung umwandeln!” rief er. “Jedoch erfordert dies die Konstruktion eines StringBuffers und eines neuen Strings, wobei viele unberührte Zeichen zweimal kopiert werden! Zu welchem Zweck wurden Strings so entworfen?”
+“Ich will nur den Inhalt dieses Feldes in Groß-Kleinschreibung 
+umwandeln!” rief er. “Jedoch erfordert dies die Konstruktion eines 
+StringBuffers und eines neuen Strings, wobei viele unberührte Zeichen 
+zweimal kopiert werden! Zu welchem Zweck wurden Strings so entworfen?”
 
-Eine gelehrte Schwester hörte dies und riet: “Die Bronzemünze, die von Hand zu Hand geht, wird auch morgen noch getauscht; nicht aber das Ei.” Der Novize ward erleuchtet.
+Eine gelehrte Schwester hörte dies und riet: “Die Bronzemünze, die von 
+Hand zu Hand geht, wird auch morgen noch getauscht; nicht aber das Ei.” 
+Der Novize ward erleuchtet.
 
-Bald definierte der Novize alle seine Klassen unveränderlich. Nicht ein Attribut war änderbar: es musste mit jeder Änderung eine neue Instanz erzeugt werden. Seine Konstruktoren wuchsen zu erschreckend langen und komplexen Gebilden.
+Bald definierte der Novize alle seine Klassen unveränderlich. Nicht ein 
+Attribut war änderbar: es musste mit jeder Änderung eine neue Instanz 
+erzeugt werden. Seine Konstruktoren wuchsen zu erschreckend langen und 
+komplexen Gebilden.
 
-Der Java-Meister hörte davon und sprach: “Lasst ein Ei aus Bronze gießen, und gebt es der Nonne zum Frühstück.”
+Der Java-Meister hörte davon und sprach: “Lasst ein Ei aus Bronze 
+gießen, und gebt es der Nonne zum Frühstück.”
 
 So ward die Nonne beauftragt, den Novizen zu korrigieren.
 

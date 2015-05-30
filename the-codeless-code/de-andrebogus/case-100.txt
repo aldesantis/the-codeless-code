@@ -1,0 +1,23 @@
+Number: 100
+Title: Ten Thousand Mistakes
+Illus.0.title: Es gibt inzwischen Abakus-Apps für Tablets, falls man seinen State-of-the-art-Prozessor verwenden will, um manuell zu rechnen. Ich finde das seltsam schön.
+Translator: andrebogus
+Lang: de
+
+Ein Novize fragte Meister [[Banzen]]: "Was trennt den Mönch von dem 
+Meister?"
+
+Banzen antwortete: "Zehntausend Fehler!"
+
+Der Novize verstand ihn nicht und versuchte von da an alle Fehler zu 
+vermeiden. Ein Abt bemerkte dies und brachte ihn zur Besserung zu 
+Banzen.
+
+Banzen erklärte: "Ich habe zehntausend Fehler gemacht; [[Suku]] hat 
+zehntausend Fehler gemacht; jeder der Patriarchen des Open Source hat 
+zehntausend Fehler gemacht."
+
+So fragte der Novize: "Was ist mit dem alten Mönch, der am Platz neben
+meinem arbeitet?  Sicher hat er auch zehntausend Fehler gemacht."
+
+Banzen schüttelte traurig den Kopf.  "Zehn Fehler, je tausendmal."

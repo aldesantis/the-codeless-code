@@ -1,0 +1,50 @@
+Date: 2015-05-18
+Number: 191
+Title: The Four Words of Distress
+Subtitle: Part One
+Part: 1
+Names: Bawan
+Topics: design, user interfaces, user experience, help, cancel, undo
+Geekiness: 2
+Tagline: In which we are placated.
+
+Master [[Bawan]] came upon a monk struggling with the photocopy
+machine.  The monk was jabbing buttons in frustration, but
+the copier sat silent.
+
+Bawan shooed the boy away, saying: "Machines can sense
+desperation.  It unsettles them."  The master calmly pressed
+buttons one by one, pausing to breathe between each.  The
+machine chugged to life, and the desired copies began to
+appear.
+
+The monk asked, "How is it that so simple a thing can sense
+the subtleties of emotion?"
+
+Bawan replied, "The lake knows when the wind is angry, for
+she wrinkles her face and slaps the shore."
+
+The monk considered this.
+
+At length he said, "When the physician senses my
+distress, she attends to my needs.  The designers of this
+machine's user interface would do well to follow her example."
+
+Bawan raised a finger. "Even the finest physician will give you no
+relief if you only howl in pain and rend your garments.
+Instead, draw a deep breath and try the Four Words of
+Distress."
+
+The monk asked, "What are these 'Four Words'?"
+
+The master said, "From least to greatest comfort given, they
+are: /Help/, /Cancel/, and /Undo/.  Offer them all to users
+of your own interfaces, and when they have departed
+they will say, ‘Here labors a physician of supreme
+compassion, who understands our fallibilities and
+spares us from self-harm!’"
+
+The monk said, "You spoke of but three words.  What is the
+fourth?"
+
+Bawan hit the /Off/ button and went out.

@@ -3,8 +3,8 @@ Title: Argile
 Lang: fr
 Translator: abelards
 
-Un général de l'Armée Impériale avait missionné le Temple pour
-la construction d'un système de réquisition pour leur logistique.
+Un général de l'Armée Impériale avait donné au Temple
+pour mission de réaliser un système de réquisition pour leur logistique.
 Soucieux du coût, il envoya un officier de la 3ème Division des
 Entiers Non Signés pour faire un rapport sur la progression du Temple.
 

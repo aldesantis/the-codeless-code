@@ -3,8 +3,8 @@ Lang: de
 Translator: andrebogus
 Title: Der Feind des Guten
 
-Die Mönche des Ordens der lachenden Affen kamen mit einer Reihe von Klagen
-zum Java-Meister.
+Die Mönche des [[Laughing Monkey Clan|Ordens der lachenden Affen] kamen
+mit einer Reihe von Klagen zum Java-Meister.
 
 “Unser größter Kummer ist der Test-Prozess”, beharrte der jüngste Mönch.
 “Manuelles Testen ist aufwändig und automatische Tests sind mühselig zu

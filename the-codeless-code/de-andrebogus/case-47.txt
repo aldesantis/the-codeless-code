@@ -1,0 +1,14 @@
+Number: 47
+Title: Der Ursprung allen Seins
+Lang: de
+Illus.0.text: Woher Binärzahlen wirklich kommen
+Illus.0.title: 1 ist wirklich die einsamste Zahl
+Translator: andrebogus
+
+Auf den Kacheln eines WCs nahe Java-Meister [[Bawan]]s Büro: *
+
+{{*}} Einige Beobachtungen des Autors: //
+- Das bedeutet, dass jede Binärzahl Chromosomen beiderlei Geschlechts hat, außer Zahlen der Form (2^n)-1 mit n >= 0. //
+- Es bedeutet auch, dass das bitweise Komplement (~) eine Geschlechtsumwandlung ist. //
+- Es wäre natürlich, Binärzahlen das Geschlecht wie folgt zuzuweisen: Gerade Zahlen (auf 0 endend) sind weiblich, und ungerade (auf 1 endend) männlich. Ich persönlich fände allerdings verwirrend, wenn jemand das anatomische Merkmal, das mein Geschlecht definiert, niedrigstwertiges Bit nennen würde.
+

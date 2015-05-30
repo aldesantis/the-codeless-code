@@ -4,7 +4,7 @@ Lang: fr
 Translator: abelards
 Illus.0.title: La bonne nouvelle, c'est qu'on brûle toutes les calories rien qu'en faisant la vaisselle.
 
-Maître [[Banzen]] avait invité son camarade maître [[Suku]]
+Maître [[Banzen]] avait invité sa consoeur maître [[Suku]]
 chez lui pour déjeûner. Sur la table on pouvait voir deux grandes
 piles de bols, de plus d'un mètre chacune.
 
@@ -24,7 +24,7 @@ Suku prit aussi un autre bol, pour y découvrir une minuscule
 tranche de concombre. "Je pense qu'avec la structure, viennent
 la clarté et l'évolutivité."
 
-"Vous serez ravie de d'entendre qu'il respecte votre conseil
+"Vous serez ravie de d'entendre qu'il applique votre conseil
 avec la plus grande diligence," dit Banzen. "Maintenant il divise
 des applications jetables d'une centaine de lignes en de nombreuses classes."
 

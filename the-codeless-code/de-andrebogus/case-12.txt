@@ -3,19 +3,27 @@ Lang: de
 Translator: andrebogus
 Title: Effekt
 
-Drei junge Mönche — je einer vom Spinnen-Clan, vom Clan des lachenden Affen und vom Elefanten-Fußabdruck-Clan — stritten sich darüber, was wichtiger sei: Frontend, Business-Logik oder Persistenz. Schließlich einigten sie sich, die Frage dem Java-Meister zu stellen.
+Drei junge Mönche — je einer vom [[Spider Clan|Spinnen-Orden]], vom 
+[[Laughing Monkey Clan|Orden des lachenden Affen]] und vom [[Elephant's 
+Footprint Clan|Elefanten-Fußabdruck-Clan]] — stritten sich darüber, was 
+wichtiger sei: Frontend, Business-Logik oder Persistenz. Schließlich 
+einigten sie sich, die Frage dem Java-Meister zu stellen.
 
-Der Meister rief einen seiner stämmigen Gärtner, der die Tempelanlagen in Schuss hielt, und instruierte ihn: "Prügele diese drei Mönche eine Minute lang ordentlich durch. Danach kannst Du weitermachen, solange Du willst."
+Der Meister rief einen seiner stämmigen Gärtner, der die Tempelanlagen 
+in Schuss hielt, und instruierte ihn: "Prügele diese drei Mönche eine 
+Minute lang ordentlich durch. Danach kannst Du weitermachen, solange Du 
+willst."
 
-Der Gärtner verdrosch die Mönche für ganze sieben Minuten, verbeugte sich und ging.
+Der Gärtner verdrosch die Mönche für ganze sieben Minuten, verbeugte 
+sich und ging.
 
-“Nun”, sagte der Meister. “Wer ist für Eure Schrammen verantwortlich? Ich, der den Gärtner gerufen habe; der Gärtner, der Euch sechs Minuten aus eigenem Entschluss verprügelte; oder die Hände und Füße des Gärtners? Überlegt wohl, sonst rufe ich ihn noch einmal.”
+“Nun”, sagte der Meister. “Wer ist für Eure Schrammen verantwortlich? 
+Ich, der den Gärtner gerufen habe; der Gärtner, der Euch sechs Minuten 
+aus eigenem Entschluss verprügelte; oder die Hände und Füße des 
+Gärtners? Überlegt wohl, sonst rufe ich ihn noch einmal.”
 
-Nach einer Weile sagte der Mönch des Spinnen-Clans: "Der Zimmermann, der den ersten Balken dieses Tempels aufstellte, trägt die größte Schuld."
+Nach einer Weile sagte der Mönch des Spinnen-Clans: "Der Zimmermann, 
+der den ersten Balken dieses Tempels aufstellte, trägt die größte 
+Schuld."
 
 Der Meister war befriedigt.
-
-
-
-
-

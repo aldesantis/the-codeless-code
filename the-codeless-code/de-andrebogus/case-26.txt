@@ -3,11 +3,18 @@ Lang: de
 Translator: andrebogus
 Title: Der unverbesserliche Mönch
 
-Zwei Priester des Ordens des Blinden Adlers der sieben Klauen fanden Java-Meister Banzen schluchzend an seiner Tastatur vor. Sie fragten ihn, was ihn bedrücke.
+Zwei Priester des [[Seven-Clawed Blind Eagle Clan|Ordens des Blinden 
+Adlers der sieben Klauen]] fanden Java-Meister [[Banzen]] schluchzend 
+an seiner Tastatur vor. Sie fragten ihn, was ihn bedrücke.
 
-“Der Code dieses Mönchs ist ein Graus,” sprach der Meister. “Die Paket-Struktur ist unintuitiv, die Klassennamen abwägig, die Methoden zu komplex, und die Kommentare vollkommen nutzlos. Zehn Jahre lang hat er jeden meiner Vorträge gehört und ist meine Instruktionen peinlichst genau gefolgt. Doch die Frucht seiner Arbeit ist extrem ungenießbar.”
+“Der Code dieses Mönchs ist ein Graus,” sprach der Meister. “Die 
+Paket-Struktur ist unintuitiv, die Klassennamen abwägig, die Methoden 
+zu komplex, und die Kommentare vollkommen nutzlos. Zehn Jahre lang hat 
+er jeden meiner Vorträge gehört und ist meine Instruktionen peinlichst 
+genau gefolgt. Doch die Frucht seiner Arbeit ist extrem ungenießbar.”
 
-Der erste Priester schaute den Code an. “Sicher ist eine Bestrafung angebracht. Ich würde ein paar Peitschenhiebe vorschlagen.”
+Der erste Priester schaute den Code an. “Sicher ist eine Bestrafung 
+angebracht. Ich würde ein paar Peitschenhiebe vorschlagen.”
 
-Der Meister nickte seufzend, und senkte seine Robe, seine Schultern entblößend.
-
+Der Meister nickte seufzend, und senkte seine Robe, seine Schultern 
+entblößend.

@@ -1,0 +1,108 @@
+Number: 54
+Title: Knoten
+Translator: andrebogus
+Lang: de
+Credits: Einige Texturen in  den Illustrationen kommen von <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.title: Ein fünffach rückwärtiger hinterhand-Blumen-Taschenkonten mit zwanzig-Grad überhand-Schlaufe und Stabilisatorkreuz. Der einzige Knoten, den ich je gelernt habe. Ich habe erst mit fünfunddreißig begonnen, meine Schuhe zu binden.
+Illus.1.title: Ich bemerke hier einen Mangel an Dringlichkeit.
+
+Zwei Nonnen liefen einen bewachsenen Pfad unweit vom Tempel 
+entlang, als sie zu ihrer beider Unbill entdeckten, dass ihr 
+Pfad in einer steilen Schlucht endete, dessen Grund mehr als 
+hundert Fuß tief lag. Die Klippe auf der anderen Seite war 
+etwa gleich weit entfernt.
+
+"Verzeihung, [[Hwídah]]," sagte die erste Nonne, "Denn mein 
+Geist ist durch das Auswendiglernen so vieler APIs 
+überbeansprucht. War dort nicht eine Hängebrücke über diese 
+Schlucht?"
+
+"Ich glaube, Du hast Recht, [[Yíwen]]," sagte die zweite Nonne.
+
+"Ich erinnere mich an eine stabile Brücke, alt und gangbar,
+und in der Tat hatte ich gehofft, sie auf unserem Spaziergang
+passieren zu können."
+
+- - -
+
+Der Wind pfiff.
+
+"Hab Mitleid, Hwídah, denn meine Augen sind schwach vom Coden
+zu später Stunde. Aber hängen von der Klippe dort drüben nicht
+die Reste der Hängebrücke?"
+
+"Ich glaube so ist es, Yíwen, und wenn Du zu den zwei großen
+Bäumen zu den Seiten unseres Pfades siehst, erkennst Du auch
+von dieser Seite einen nutzlosen Rest der Brücke hängen. 
+Bemerke, wie beide Hälften hier und dort im Wind schaukeln,
+ein paar Planken hängen noch daran, die launisch gegen den 
+Fels schlagen. Das Geräusch erinnert mich an ein Windspiel,
+das einst vor meinem Fenster hing..."
+
+- - -
+
+Die beiden hielten inne, um dem Pochen und Kratzen der Bretter
+gegen die Klippe zu lauschen.
+
+"Ich bitte tausendmal um Entschuldigung, Hwídah, da meine
+Ohren nur das Klappern der Tasten gewöhnt sind, doch hörst Du
+nicht auch eine Stimme im Wind?"
+
+"Ich glaube schon, Yíwen. Betrachte die Seile auf der anderen
+Seite und Du findest [[Zjing]], eine viel gefeierte 
+Ordensschwester, in unsere Richtung schreiend daran hängen.
+Ich habe den Eindruck, sie würde uns winken, wäre sie nicht
+damit beschäftigt, sich festzuklammern. Lass uns nicht unsere
+guten Manieren vergessen."
+
+- - -
+
+Hwídah winkte der Nonne in Gefahr. Yíwen tat es ihr gleich.
+"Ich hoffe, Du hältst mich nicht für unfreundlich, Hwidah,
+aber findest Du nicht auch, das Zjing zu sehr auf die
+Ästethik des Codes achtet? Viele Ordensmitglieder klagen,
+dass sie häufig ihre Module refaktoriert, nur weil sie die
+Implementierung für nicht ausreichend elegant hält."
+
+"Ich halte Dein Urteil für gerecht, Yiwen. Ihre Ziele mögen
+lauter sein, doch sie passen nicht zur Komplexität unseres
+Problem-Bereichs. Tatsächlich haben ihre Bemühungen hin und
+wieder mehr Schaden als Nutzen erbracht. Doch das sollte
+nicht unsere Entscheidung beeinflussen, ihr zu helfen."
+
+- - -
+
+Beide Nonnen standen am Rande der Klippe und meditierten,
+wie der Kameradin am Besten zu helfen war.
+
+"Ist es nicht Pech, Hwidah, dass der Einsturz der Brück uns
+keine Möglichkeit lässt, die Schlucht zu überwinden, um 
+unsere Schwester zu retten?"
+
+"Ja, es ist furchtbar, Yiwen, doch wäre die Brücke 
+/eingestürzt/, müssten die Seile geborsten sein, doch ich 
+kann die sauberen Enden klar sehen. Wenn ich mich recht 
+entsinne, war exakt in der Mitte der Brücke ein hübsch
+bemaltes Tor, an dem die beiden Teile mit Knoten befestigt
+waren, die sich irgendwie gelöst haben müssen."
+
+- - -
+
+Hwídah deutete zum Fluss weit unter ihnen, wo die Reste
+des Tors in einem Strudel dahintrieben.
+
+Yíwen nickte.
+
+"Erinnere ich mich recht, Hwidah, dass die Knoten, welche
+die Seile am Tor hielten bedauerlich groß und hässlich
+waren, und die Schönheit der Brücke schmälerten?"
+
+"Ich glaube, so war es, Yiwen. Ich denke ihre Hässlichkeit
+wäre schmerzlich verlockend für jemanden, der sich um solche
+Dinge sorgt -- wenn es auch unwahrscheinlich ist, dass 
+jemand so leichtsinnig wäre, zu versuchen, die Knoten in der
+Mitte der Brücke stehend neu zu knüpfen. Was mich angeht, 
+habe ich die Knoten nie als störend empfunden. Ich war
+schon dankbar, die Brücke überqueren zu können. Sie hat ihren
+Dienst monatelang exzellent erfüllt."
+

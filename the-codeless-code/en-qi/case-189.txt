@@ -1,0 +1,60 @@
+Date: 2015-04-26
+Number: 189
+Title: The Dense Forest
+Names: Suku
+Topics: brevity, refactoring, complexity
+Geekiness: 2
+Tagline: In which we are hopelessly lost.
+Illus.0.src: roll.jpg
+Illus.0.title: Wait a minute... these aren't directing me home; they're instructions for the Macarena...!
+Credits: Thanks to Kyle Tekaucic for pointing out the typo!
+
+[[Suku]] and her apprentices had come to a secluded temple
+in the heart of a immense old forest.  Here the trees grew
+so thick and tall that a raindrop falling on the canopy
+would take a full day to reach the ground as it dripped from
+leaf to leaf.  (As a consequence, the monks in that place
+could walk outside during a thunderstorm and remain as dry
+as toast, but the next day they would have to set out with
+umbrellas open and galoshes on tight, even if the sun was
+shining.)
+
+On their last night in the temple, master Suku was reviewing
+the code of a senior nun.
+
+"Your methods are exceedingly long," said the master.  "This
+one is several hundred lines at least, with nested loops and
+logical branches many levels deep.  It should be refactored
+into at least thirteen separate methods."
+
+The senior nun laughed.  "If I coded your way, a maintainer
+would have to first study a dozen different routines to
+understand the main one.  But with my way, all the code is
+visible in one place.  And they call /you/ a master!"
+
+- - -
+
+The next thing the senior nun remembered was waking alone in
+the forest.  She put a hand to her throbbing head and
+discovered both a fresh lump and a satchel draped around her
+neck.  Pinned to the satchel was a note:
+
+    A shame you slept for so much of our journey through the
+    woods... many paths wind and cross each other, and it
+    would be easy to lose yourself forever.  But fear not!
+    We have left you precise directions home.
+
+Inside the satchel the nun found a thick roll of paper, such
+as merchants used in their cash registers.  The text on the
+outside of the roll began:
+
+    Stand.
+    Face the clump of moss.
+    Bend right knee, lift right foot three inches.
+    Step out eighteen inches with right leg pointed at the nearest oak.
+    Place right foot down.
+    Shift weight to right foot.
+    Bend left knee--
+
+The senior nun's concentration was broken by the sound of
+wolves howling, very near.

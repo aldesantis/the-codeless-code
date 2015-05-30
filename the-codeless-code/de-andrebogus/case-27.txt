@@ -3,25 +3,47 @@ Lang: de
 Translator: andrebogus
 Title: Kōan Null
 
-Der alte Schriftgelehrte Qi bewahrte die Kōans des Tempels in einem dicken Buch, uns als "The Codeless Code" bekannt. Seine Seiten enthielten alle Weisheit des Tempels. Es fortzuführen war des Schreibers heiligste Aufgabe.
+Der alte Schriftgelehrte [[Qi]] bewahrte die Kōans des Tempels in einem 
+dicken Buch, uns als /The Codeless Code/ bekannt. Seine Seiten 
+enthielten alle Weisheit des Tempels. Es fortzuführen war des 
+Schreibers heiligste Aufgabe.
 
-Eines Tages fragte ihn ein Novize, warum die Kōans von eins nummeriert waren.
+Eines Tages fragte ihn ein Novize, warum die Kōans von /eins/ nummeriert 
+waren.
 
-“Wäre Null nicht passender für unseren Beruf?” erkundigte sich der Novize.
+“Wäre Null nicht passender für unseren Beruf?” erkundigte sich der 
+Novize.
 
-Ein Grauen kroch über des alten Mannes Gesicht. Mit zittrigen Fingern blätterte er Seite um Seite der Annalen. In der Tat war jeder Kōan vom ersten bis zum letzten falsch nummeriert. Und da alle Dokumente, Datenbanken und interne Webseiten des Tempels die Kōans nach Nummer referenzierten, war der Schaden irreparabel.
+Ein Grauen kroch über des alten Mannes Gesicht. Mit zittrigen Fingern 
+blätterte er Seite um Seite der Annalen. In der Tat war jeder Kōan vom 
+ersten bis zum letzten falsch nummeriert. Und da alle Dokumente, 
+Datenbanken und interne Webseiten des Tempels die Kōans nach Nummer 
+referenzierten, war der Schaden irreparabel.
 
-Der Schreiber war am Boden zerstört. Sieben Tage kauerte er in einer Ecke seines Büros, auf seine blanke Feder wie auf eine zum Stoß bereite Kobra starrend.
+Der Schreiber war am Boden zerstört. Sieben Tage kauerte er in einer 
+Ecke seines Büros, auf seine blanke Feder wie auf eine zum Stoß bereite 
+Kobra starrend.
 
-Schweigen überkam den Tempel gleich einer Krankheit. Da keine neuen Kōans niedergeschrieben wurden, gab es in Meetings kein Thema zu diskutieren, und die Schüler hatten nachmittags nichts zu meditieren. Zu guter Letzt wurde die alte von allen Orden hochverehrte Äbtissin Jinyu gebeten, die Sache zu klären.
+Schweigen überkam den Tempel gleich einer Krankheit. Da keine neuen 
+Kōans niedergeschrieben wurden, gab es in Meetings kein Thema zu 
+diskutieren, und die Schüler hatten nachmittags nichts zu meditieren. 
+Zu guter Letzt wurde die alte von allen Orden hochverehrte Äbtissin 
+[[Jinyu]] gebeten, die Sache zu klären.
 
-Die Äbtissin klopfte mit ihrem Gehstock hart an des Schreibers Tür und riss ihn so aus seinem Jammer.
+Die Äbtissin klopfte mit ihrem Gehstock hart an des Schreibers Tür und 
+riss ihn so aus seinem Jammer.
 
-“Junger Mann,” sagte sie (denn der alte Schreiber war viele Jahre jünger als sie): “Ist es nicht so, dass der Kōan eines jeden Tages durch Meditation der Weisheit entsteht, die der Tempel seit Niederschrift des vorigen Kōans gewonnen hat?”
+“Junger Mann,” sagte sie (denn der alte Schreiber war viele Jahre 
+jünger als sie): “Ist es nicht so, dass der Kōan eines jeden Tages 
+durch Meditation der Weisheit entsteht, die der Tempel seit 
+Niederschrift des vorigen Kōans gewonnen hat?”
 
 “So ist es,” sagte der Schreiber, sich tief verneigend.
 
-“Dann ist Dein Weg klar: Gehe zu Kōan Nummer eins, subtrahiere die Weisheit, die er lehrt und enthülle so Kōan Nummer Null. Und ebenso Kōan Minus Eins, Minus Zwei, und so weiter bis zum Anfang der Zeit selbst.”
+“Dann ist Dein Weg klar: Gehe zu Kōan Nummer eins, subtrahiere die 
+Weisheit, die er lehrt und enthülle so Kōan Nummer Null. Und ebenso 
+Kōan Minus Eins, Minus Zwei, und so weiter bis zum Anfang der Zeit 
+selbst.”
 
-So ward des Schreibers Arbeit verdoppelt, doch sein Elend von sich selbst abgezogen.
-
+So ward des Schreibers Arbeit verdoppelt, doch sein Elend von sich 
+selbst abgezogen.

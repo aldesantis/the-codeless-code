@@ -1,0 +1,85 @@
+Number: 52
+Title: Eimer
+Lang: de
+Translator: andrebogus
+
+Nach dem Frühstück bemerkte ein Novize des [[Spider 
+Clan|Spinnen-Ordens]] sechs Mönche, die im Gänsemarsch den Tempel mit 
+Eimern an Jochen und grimmiger Miene verließen. Ein junger Abt folgte 
+dicht dahinter. Die Mönche trotteten einen überwucherten steinigen Pfad 
+den Hügel hinab und verschwanden in einem Fichtendickicht.
+
+Derselbe Novize beobachtete, wie die Mönche nach dem Mittagessen zum 
+Tempel zurück kraxelten. Ihre Eimer waren nun randvoll von feuchter 
+Erde und Steinen, doch trotz der schweren Last lachten die Brüder und 
+gingen leichten Fußes.
+
+So ging es am nächsten Tag und den Tag darauf, und den Tag danach, was 
+die Neugier des Novizen anstachelte. Alle sechs Mönche trugen die roten 
+Lendentücher des [[Laughing Monkey Clan|Ordens des lachenden Affens]], 
+und so ging der Novize zum Tempel des Ordens. Der Abt saß auf dem Boden 
+des Gemeinschaftsraums beim Versuch, ein Ei zu balancieren.
+
+“Was hat es mit den sechs Mönchen, und den Eimern voll Erde auf sich?” 
+fragte der Novize.
+
+“Das ist die Strafe,” sprach der Abt, “für ihr riskantes Mismanagement 
+eines kritischen Software-Moduls.” Er griff in einen kleinen Sack voll 
+Salz, häufte eine Messerspitze davon auf den Boden, stellte das Ei 
+darauf, und blies behutsam das Salz weg. Das Ei kippte. Der Abt 
+seufzte, nahm eine weitere Messerspitze Salz und begann von vorn.
+
+“Welchen Fehler führten sie ein?” fragte der Novize.
+
+“Mu,” sagte der Abt. “Sie führten keinen Fehler ein. Seit vielen Monden 
+wurde keine einzige Zeile Code berührt.”
+
+“Welchen Fehler haben sie übersehen?”
+
+“Mu,” wiederholte der Abt, während sein Ei erneut kippte. “Das Modul 
+funktioniert einwandfrei, und wird dies zweifellos noch viele Monde 
+lang tun.”
+
+Der Novize runzelte die Stirn. “Ich sehe nicht, wie etwas Fehlerfreies 
+und Konstantes zu beanstanden, oder sein Management riskant sein 
+könnte.”
+
+“Du, Mönch!” rief eine Stimme hinter ihm. Der Novize drehte sich um, 
+und sah in die zornige Miene von Java-Meister [[Banzen]].
+
+“Morgen gehst Du mit ihnen,” sagte Banzen.
+
+- - -
+
+“Die Bestrafung ist einfach,” sprach der junge Abt, als der Novize das 
+Joch aufhob. “Ich erkläre es an der Höhle.”
+
+Der Novize folgte den sechs Brüdern den steinigen Pfad hinab, mit dem 
+jungen Abt als Nachhut. Sie gingen schweigend durch den tiefen Wald.
+
+Schließlich kamen sie an eine helle, sonnige Lichtung. In der Mitte 
+ragte eine riesige Felsspitze gen Himmel, so hoch wie fünf Mann, und so 
+dick, dass zwanzig sie kaum umfassen konnten, wenn sie Fingerspitze an 
+Fingerspitze darum standen.
+
+“Ist er nicht gewaltig?” sagte der Abt. “Dieser Fels steht hier seit 
+Anbeginn der Zeit.”
+
+Als er sich näherte, sah der Novize, dass der um den Felsen abgetragen 
+war, so dass ein großer leerer Graben in umgab. Am Rande des Grabens 
+erspähte er den obersten Tritt einer Bambusleiter. Die Mönche 
+verschwanden der Reihe nach die Leiter hinab, und kehrten einige Zeit 
+später schweißgebadet mit vollen Eimern und einem breiten Lächeln 
+zurück.
+
+Schließlich war der Novize an der Reihe.
+
+Der Graben war einige Meter tief. Als der Novize die Leiter in die 
+Schatten hinabstieg, erkannte er, dass die Erde nicht nur um, sondern 
+auch unter dem Felsen abgetragen war. Der gesamte massive Brocken 
+balancierte kippelig auf ein paar Handbreit festgedrückter Erde.
+
+“Krieche unter den Fels,” rief der Abt herunter, “bis zur Stelle unter 
+der Mitte. Fülle Deine Eimer davon. An Deiner Stelle würde ich 
+vorsichtig arbeiten und versuchen, nicht zu niesen.”
+

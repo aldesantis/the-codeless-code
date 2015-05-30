@@ -1,0 +1,83 @@
+Number: 192
+Title: Die Vier Worte der Not
+Subtitle: Teil Zwei
+Tagline: Worin wir ernten, was wir gesät.
+Illus.0.title: Derselbe Mönch erfand später die selbsthaftenden Noizzettel
+Translator: andrebogus
+Lang: de
+
+[[#191|Derselbe Mönch]] hatte eine Seite, die landwirtschaftliche 
+Werkzeuge an die örtlichen Bauern verkaufte.  Diese hatte den Bauern
+jüngst einigen Frust verursacht, und so entschloss sich der Mönch,
+Meister [[Bawan]]s Rat zu folgen, und die [[#191|Vier Worte der Not]] so
+schnell als möglich seinen Nutzern anzubieten. Denn ein verärgerter
+Bauer bringt einem Entwickler ein Problem gerne mit der Schärfe seiner
+Sense vor. 
+
+- - -
+
+Der Mönch widmete seinen ersten Sprint, /Hilfe/-Knöpfe auf der Seite zu
+verteilen, die in das Online-Benutzerhandbuch verlinkten.  Dies, so 
+dachte er, würde am wenigsten Zeit und Aufwand kosten -- und Bauern
+sollten den Wert niedrig hängender Früchte ohnehin zu schätzen wissen.
+ 
+Doch bald nach dem Deployment fand der Mönch eine Nachricht von
+einer Axt gehalten, die in seiner Tür steckte:
+
+     Der Ertrinkende, zu Eurem Boot geschwommen, //
+     hat zur Hilfe nur ein schweres Buch bekommen. //
+     Ein Seil, das hätte den Dienst schon getan, //
+     nun wünschte ich, man knüpfte Euch auf daran.
+
+- - -
+
+Der Mönch widmete seinen zweiten Sprint, um /Abbrechen/-Knöpfe in seiner
+Seite anzubieten, so dass jede wichtige Aktion nur nach Bestätigung
+durch den Nutzer fortfahren würde.
+
+Doch bald nach em Deployment fand der Mönch eine zweite Nachricht, durch
+die eine Mistgabel in seine Tür gesteckt worden war:
+
+     Gefragt, die Order tausender Mistgabeln abzubrechen, //
+     hat die Wahl mir 'nen einfachen Ausweg verwehrt. //
+     Heißt /OK/ nun /abbrechen/ oder umgekehrt? //
+     Mit den Gabeln könnt ich Euren Hintern gut stechen...
+
+- - -
+
+Der Mönch widmete seinen dritten Sprint, einen immer verfügbaren
+/Undo/-Knopf anzubieten, so dass jede Aktion zurückgenommen werden
+konnte. Dies benötigte am meisten Zeit und Aufwand, doch der Mönch sah 
+das Ergebnis mit einiger Befriedigung.
+
+Doch bald nach dem Deployment fand der Mönch eine dritte Nachricht, die
+diesmal von den Klingen einer Astschere an seiner Tür gehalten wurde: 
+
+     Ein reuiger Mann weint, <i>Was hab' ich getan?</i> //
+     Und der güt'ge Gott gibt ihm die Gabe,//
+     die Zeit rückwärts zu gehn, doch nun weinet der Mann: //
+     <i>Wer weiß, was ich un-getan habe?</i>//
+
+- - -
+
+An diesem Abend informierte Bawan den Mönch, dass eine Reihe Städter
+auf dem Weg zum Tempel gesehen wurden, die verschiedene 
+landwirtschaftliche Implemente trugen, die in der untergehenden Sonne 
+glänzten.
+
+Der Mönch deklamierte, "Drei Eurer Vier Worte haben versagt!"
+
+Der Meister entgegnete, "Eku hatte einen Papagei, der ihre Worte treu
+wiedergab, doch niemand kam zu ihm, um Weisheit zu empfangen."
+
+"Wie kann ich meine Nutzer beschwichtigen?" fragte der Mönch.
+
+"Der Papagei beschwichtigte Eku's Katze zum Abendessen," sagte Bawan.
+
+"Es gibt immer noch das vierte Wort der Not," sagte der Mönch.
+"Kann /dieses/ mich retten?"
+
+"Nur wenn Du es selbst sprichst." sagte Bawan.
+
+Der Mönch drückte den /Aus/-Knopf seines Computers und floh für immer
+aus dem Tempel.

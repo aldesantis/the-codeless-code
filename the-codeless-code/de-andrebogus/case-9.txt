@@ -3,7 +3,7 @@ Lang: de
 Translator: andrebogus
 Title: Undendlichkeiten
 
-Zwei Mönche des Clans der Spinne stritten, ob die neue Eingabe-Validierungsroutine in einer Endlosschleife steckte.
+Zwei Mönche des [[Spider Clan|Spinnen-Ordens]] stritten, ob die neue Eingabe-Validierungsroutine in einer Endlosschleife steckte.
 
 “Wie lange läuft sie schon?” fragte der Abt.
 

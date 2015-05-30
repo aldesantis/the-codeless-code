@@ -1,0 +1,64 @@
+Date: 2015-04-26
+Number: 189
+Title: Der Dichte Wald
+Names: Suku
+Topics: brevity, refactoring, complexity
+Geekiness: 2
+Tagline: Worin wir uns hoffnungslos verirren.
+Illus.0.src: roll.jpg
+Illus.0.title: Moment mal...das ist keine Wegbeschreibung nach Hause, sondern Tanzschritte für den Macarena...!
+Translator: andrebogus
+
+[[Suku]] und ihre Lehrlinge kamen an einen abgeschiedenen
+Tempel im Herzen eines riesigen alten Waldes.  Hier wuchsen
+die Bäume so dick und hoch, dass ein Regentropfen, der auf
+die Wipfel fiel, einen ganzen Tag brauchte, um von Blatt zu
+Blatt bis auf den Boden zu fallen.  (Daher wurden die Mönche
+auch während eines Unwetters nicht nass, mussten aber tags
+darauf mit Schirm und Galoschen herausgehen, um trotz 
+sonnigen Wetters nicht durchnässt zu werden)
+
+In ihrer letzten Nacht im Tempel prüfte Meisterin Suku den 
+Code einer älteren Nonne.
+
+"Eure Methoden sind unmäßig lang," sprach die Meisterin.
+"Diese hier geht über mehrere hundert Zeilen, mit tief
+verschachtelten SChleifen und Bedingungen.  Sie sollte in
+mindestens dreizehn verschiedene Methoden refaktoriert 
+werden."
+
+Die ältere Nonne lachte.  "Würde ich so coden wie Ihr,
+müsste man zunächst zwöft unterschiedliche Routinen 
+studieren, um die dreizehnte zu verstehen.  Auf meine Art
+ist der ganze Code an einem Ort.  Und sie nennen /Euch/
+Meisterin!"
+
+- - -
+
+Das nächste, an was die ältere Nonne sich erinnerte, war,
+allein im Wald zu erwachen. Sie hob eine Hand an ihren
+dröhnenden Schädel und entdeckte sowohl eine Beule als auch
+einen Rucksack um ihre Schulter, auf den eine Notiz geklebt
+war: 
+
+    Schade, dass Ihr das Meiste unserer Reise durch den Wald
+    verschlafen habt... viele Pfad winden und kreuzen sich,
+    und man kann leicht für immer verloren gehen. Doch 
+    fürchtet nicht! Wir haben Euch präzise Anweisungen für
+    die Heimreise hinterlassen.
+
+Im Rucksack fand die Nonne eine dicke Papierrolle, wie sie
+Verkäufer in ihren Registerkassen verwendeten.  Der Text auf
+der Rolle begann wie folgt:
+
+    Steh auf.
+    Wende Dich zum Moosklumpen.
+    Biege das rechte Knie, hebe den rechten Fuß drei Zoll.
+    Schreite achtzehn Zoll mit dem rechten Bein in richtung der 
+    nächsten Eiche.
+    Setze den rechten Fuß ab.
+    Verlagere Gewicht auf rechten Fuß.
+    Biege das linke Knie--
+
+Die Konzentration der Nonne wurde vom Geheul von sehr nahen 
+Wölfen unterbrochen.

@@ -3,23 +3,37 @@ Lang: de
 Translator: andrebogus
 Title: Tassen
 
-Java Meister Bawan sprach: “Der Bettler am Marktplatz hat nichts als leere Tassen. Fülle alle bis auf eine mit Tee und er wird Dich preisen; doch ein einziger Tropfen in der letzten und er muss jämmerlich verdursten. Erkläre.”
+Java Meister [[Bawan]] sprach: “Der Bettler am Marktplatz hat nichts 
+als leere Tassen. Fülle alle bis auf eine mit Tee und er wird Dich 
+preisen; doch ein einziger Tropfen in der letzten und er muss 
+jämmerlich verdursten. Erkläre.”
 
-Kein Mönch konnte Bawans Frage beantworten. Der Meister zog sich in seine Gemächer zurück.
+Kein Mönch konnte Bawans Frage beantworten. Der Meister zog sich in 
+seine Gemächer zurück.
 
-Diesen Abend kamen vier Schüler an seine Tür, um Hilfe mit einem widerspenstigen Programm zu erbitten. Seine Log-Dateien quollen vor ArrayIndexOutOfBounds-Exceptions über, welche laut den Studenten unmöglich seien: Das betreffende Array fasste laut Deklaration tausend Elemente, und der Index—ein byte—könne per Definition 255 nicht überschreiten.
+Diesen Abend kamen vier Schüler an seine Tür, um Hilfe mit einem 
+widerspenstigen Programm zu erbitten. Seine Log-Dateien quollen vor 
+ArrayIndexOutOfBounds-Exceptions über, welche laut den Studenten 
+unmöglich seien: Das betreffende Array fasste laut Deklaration tausend 
+Elemente, und der Index—ein byte—könne per Definition 255 nicht 
+überschreiten.
 
-Meister Bawan deutete auf ein Objekt in der Ecke. “Was ist das?” fragte der jeden Schüler.
+Meister Bawan deutete auf ein Objekt in der Ecke. “Was ist das?” fragte 
+der jeden Schüler.
 
 “Ein Besen,” sagte jeder von ihnen.
 
-Darauf griff Bawan den Besen und schwang ihn weit über den Köpfen der Schüler. Bilder flogen von der Wand, Vasen und Tassen fielen klirrend von den Regalen. Papierwände rissen ein, Staub fiel von der Decke.
+Darauf griff Bawan den Besen und schwang ihn weit über den Köpfen der 
+Schüler. Bilder flogen von der Wand, Vasen und Tassen fielen klirrend 
+von den Regalen. Papierwände rissen ein, Staub fiel von der Decke.
 
-“Kein Besen!” schrie Meister Bawan, und schwang wie ein Irrer den Besen. “Kein Besen!”
+“Kein Besen!” schrie Meister Bawan, und schwang wie ein Irrer den 
+Besen. “Kein Besen!”
 
 == Qis Kommentar
 
-Jede Tasse des Bettlers ist genau gleich wie die daneben, und hält doch doppelt so viel wie die zu ihrer Rechten. Nun sag schnell, was es ist.
+Jede Tasse des Bettlers ist genau gleich wie die daneben, und hält doch 
+doppelt so viel wie die zu ihrer Rechten. Nun sag schnell, was es ist.
 
 == Qis Gedicht
 
@@ -27,5 +41,3 @@ Der Stab in Bettlers Hand sucht Gnade //
 In Meisters Hand dagegen Furcht entzündet. //
 Der Unterschied liegt nicht etwa im Stab, //
 sondern im Wo begründet.
-
-

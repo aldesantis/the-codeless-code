@@ -1,0 +1,68 @@
+Date: 2015-05-03
+Number: 190
+Title: To Make An Omelette
+Names: Djishin, Banzen, Mizuh
+Topics: encryption, security, cryptography, expertise, specialization
+Geekiness: 2
+Credits: Inspired by a request from April King.
+Illus.0.src: broken.jpg
+Illus.0.title: Obviously he wasn't using Secure Shell.
+Illus.0.par: 1
+Tagline: In which we have egg on our face.
+
+The monk [[Djishin]] was building an application which
+managed sensitive information of minor importance.  He
+approached master [[Banzen]] and said: "I have spent many
+days reading about cryptography.  I am confident that I can
+implement a secret-sharing framework."
+
+Banzen said: "In the teachings of master [[Mizuh]], it is said
+that a monk will not truly understand cryptography until he
+has juggled eight fresh plover's eggs for eight full minutes
+over a floor of rough-hewn planks.  Return to your domicile
+and practice.  In eight days we will see what you can do."
+
+A week later Djishin returned to Banzen, his head hung low.
+
+The monk said: "Gravity and clumsiness were ever victorious.
+Now I have used up my egg rations for the year, and my
+bedroom floor is sticky."
+
+Banzen said: "Any idiot can fling objects in the air and
+catch them once or twice.  To be a juggler is to understand
+the currents of the atmosphere, the limitations of the hand,
+the subtle mathematics of motion under gravity.  A juggler
+protects the floor as if every egg were a thief."
+
+Djishin considered this.
+
+At length the monk said:  "Risk is proportional to the value
+of what is imperiled.  If a thief breaks into my bedroom
+because my lock is poor, what does it matter if at worst I
+lose my pillow?"
+
+Banzen rapped Djishin on the head with his staff and asked:
+"How does your room smell?"
+
+"Of rotten eggs," said Djishin, rubbing his cranium.
+
+Banzen said: "The true problem was not the missed catch, but
+the yolk seeping into the floorboards.  If your lock is poor
+but your pillow has not been stolen, look under your
+bed!  The thief may simply be lying in wait for the day you
+return with a jingling purse."
+
+
+== Qi's commentary
+
+Djishin owes Banzen a breakfast in bed.  Better the monk
+knows a year of no eggs than one omelette stuffed with
+salmonella.
+
+
+== Qi's poem
+
+Mizuh was threatened by a learned bandit. //
+The bandit wished to know Mizuh's birth-name. //
+"My Parents Never Told Me," said Mizuh. //
+The bandit left dejected, and Mizuh smiled.
