@@ -39,11 +39,8 @@ Selbstverletzung hindert!'"
 
 Der Mönch sagte, "Ihr spracht nur drei Worte.  Was ist das Vierte?"
 
-Bawan drückte den /Aus/-Knopf und ging.
+Bawan drückte den <i>Aus</i>-Knopf und ging.
 
 
 
-{{*}} Anm. des Übersetzers: Das Wort ist eigentlich eine 
-Fehlübersetzung, wie mir ein Informatikprofessor einst deutlich zu
-verstehen gab: "Wenn Sie eine Benutzerschnittstelle haben, dann haben
-Sie sich geschnitten!"
+{{*}} Anm. des Übersetzers: Das Wort ist eigentlich eine Fehlübersetzung, wie mir ein Informatikprofessor vor vielen Jahren deutlich zu verstehen gab: "Wenn Sie eine Benutzerschnittstelle haben, dann haben Sie sich geschnitten!"
