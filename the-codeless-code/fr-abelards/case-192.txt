@@ -1,0 +1,96 @@
+Number: 192
+Lang: fr
+Translator: abelards
+Title: Les Quatre Mots de la Détresse
+Subtitle: Deuxième Partie
+Tagline: Dans laquelle on récolte ce que l'on a semé.
+Illus.0.title: C'est le même moine qui inventa plus tard les Post-It.
+
+[[#191|Ce même moine]] était le mainteneur d'un site
+qui vendait des outils de ferme pour les agriculteurs locaux.
+Le site avait récemment causé beaucoup de frustration à ses
+usagers, et le moine se résolut à suivre les conseils de
+maître [[Bawan]] et leur offrir dès que possible les
+[[#191|Quatre Mots de la Détresse]].
+Car quand un fermier en colère veut vous parler d'un sujet
+pointu, il s'agit généralement de celui qui est au bout
+de sa faux.
+
+- - -
+
+Le moine consacra son premier sprint à la fourniture de boutons
+/Aide/ à travers son interface, sous forme de liens vers le
+manuel utilisateur en ligne.
+Ceci, pensait-il, prendrait le moins de temps et d'effort --
+et d'ailleurs, des fermiers devraient être tout à fait capables
+d'apprécier son choix du fruit des branches basses :
+leur donner le plus de valeur avec le moins d'efforts.
+
+Mais peu de temps après le déploiement, le moine trouva
+sur sa porte une note, qu'on avait épinglée délicatement
+à l'aide d'un bon coup de hache :
+
+
+     Je me noyais, et ai appelé ton bateau à l'Aide. //
+     Tu m'as jeté un lourd volume et a ramé au loin. //
+     Une voix amicale était la seule corde dont j'avais besoin -- //
+     Maintenant j'en souhaite une qui fasse des noeuds coulants.
+
+- - -
+
+Le moine consacra son second sprint à la fourniture de boutons
+/Annuler/ à travers son interface, afin que chaque action
+importante ne puisse se lancer qu'après confirmation.
+
+Mais peu de temps après le déploiement, le moine trouva
+sur sa porte une note, cette fois plantée sur les dents d'une fourche :
+
+     Quand on m'a demandé /Voulez-vous vraiment annuler cette commande ?/ //
+     mes seuls choix furent /OK/ et /Annuler/. //
+     J'ai choisi Annuler, mais j'ai reçu dix mille fourches -- //
+     J'en réserve une pour ton postérieur... OK ?
+
+- - -
+
+Le moine consacra son troisième sprint à la fourniture de boutons
+/Retour arrière/ partout, afin que chaque action puisse être
+réversible. Cela lui prit un temps et un effort certain, mais
+il fut heureux du résultat.
+
+Mais peu de temps après le déploiement, le moine trouva
+sur sa porte une troisième note, fermement tenue par un pieu de jardin :
+
+     Un homme pleure et fait pénitence, <i>Qu'ai-je fait ?</i> //
+     Des dieux compatissants font tourner le temps à l'envers pour lui. //
+     Un criquet chante. Tout le reste est immobile -- //
+     Et maintenant l'homme pleure : <i>Qu'ai-je <b>dé</b>fait ?</i>
+
+- - -
+
+Ce même soir, Bawan informa le moine qu'on avait vu une ligne
+de villageois avancer en remontant la montagne, porteurs de
+divers outils de ferme reflétant les derniers éclats du soleil couchant.
+
+Le moine déclara, "Trois de vos Quatre Mots ne m'ont été d'aucun secours !"
+
+Le maître répondit, "Eku avait un perroquet qui répétait ses mots
+avec grande fidélité, mais personne n'allait voir le perroquet
+pour sa sagesse."
+
+"Comment puis-je apaiser mes utilisateurs ?" demanda le moine.
+
+"Le perroquet apaisa l'appétit du chat d'Eku, à l'heure du dîner," dit Bawan.
+
+"Il reste toujours le Quatrième Mot de la Détresse," dit le moine.
+"Peut-il me sauver ?"
+
+"Seulement si tu l'appelles par toi-même," dit Bawan.
+
+Le moine appuya sur le bouton /Off/ de son poste de travail
+et s'enfuit dans la montage pour toujours.
+
+
+== Note du Traducteur
+
+"Off you go!" Le mot Off signifie Éteindre, mais en conjonction
+avec de nombreux verbes il signifie quitter, partir, décoller...

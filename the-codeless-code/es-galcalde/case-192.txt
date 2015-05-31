@@ -1,0 +1,59 @@
+Number: 192
+Title: Las Cuatro Palabras De La Angustia
+Subtitle: Segunda Parte
+Lang: es
+Translator: galcalde
+Illus.0.title: Ese mismo monje luego inventaría las notas Post-It.
+
+[[#191|Ese mismo monje]] mantenía un sitio que vendía herramientas de agricultura a los granjeros locales. Últimamente había causado mucha frustración a esos granjeros, así que el monje resolvió seguir el consejo del maestro [[Bawan]] y ofrecer las [[#191|Cuatro Palabras De La Angustia]] a sus usuarios lo más rápido posible. Porque cuando un granjero furioso quiere dar a conocer su punto de vista al desarrollador, ese punto de vista generalmente está en la punta de una guadaña.
+
+- - -
+
+El monje dedicó su primer sprint en proveer botones de <em>Ayuda</em> por toda la interfaz, implementada como enlaces al manual de usuario online. Esto, pensó, tomaría el menor tiempo y esfuerzo -- y además, los granjeros deberían apreciar el valor de la fruta que cuelga baja.
+
+Pero poco despues de la implantación el monje halló una nota clavada a su puerta, en el filo de un hacha:
+
+     Ahogándome, Grité Ayuda a tu bote. //
+     Tiraste un volumen pesado y remaste lejos.  //
+     Una voz amigable era la cuerda que necesitaba -- //
+     Ahora ansío la clase de cuerda que hace una soga.
+
+- - -
+
+El monje dedicó su segundo sprint en proveer botones de <em>Cancelar</em> por toda la interfaz, para que cualquier acción de importancia sólo pudiera continuar después de la confirmación.
+
+Pero poco despues de la implantación el monje halló una segunda nota clavada a su puerta, esta en los dientes de una horquilla:
+
+     Cuando me preguntó, <em>¿Deseas cancelar la orden?</em>  //
+     mis únicas opciones eran <em>Aceptar</em> y <em>Cancelar</em>.  //
+     Elegí Cancelar, sin embargo recibí diez mil horquillas --  //
+     Te enviaré una a tu posterior... ¿Aceptas?
+
+- - -
+
+El monje dedicó su tercer sprint en proveer un botón omnipresente de <em>Deshacer</em>, para que cualquier acción pudiera ser revertida. Esto tomó el mayor tiempo y esfuerzo, sin emabrgo estaba contento con el resultado.
+
+Pero poco despues de la implantación el monje halló una tercera nota clavada a su puerta, esta mantenida por pinchos de jardín:
+
+     Un penitente grita, <i>¿Qué he hecho?</i> //
+     Los dioses misericordiosos votaron volver el tiempo atrás. //
+     Un grillo gorjea. Todo lo demás está quieto -- //
+     Ahora el hombre grita: <i>¿Qué he <b>des</b>-hecho?</i>
+
+- - -
+
+Aquella tarde Bawan informó al monje que una linea de ciudadanos había sido vista avanzando por la montaña, llevando varias herramientas de granja que destellaban en el poniente.
+
+El monje declaró, "¡Tres de tus Cuatro Palabras me han fallado!"
+
+El maestro respondió, "Eku tenía un loro que repetía sus palabras fielmente, pero nadie iba al loro en busca de sabiduría."
+
+"¿Como puedo calmar a mis usuarios?" preguntó el monje.
+
+"El loro calmó al gato de Eku a la cena," dijo Bawan.
+
+"Aún queda la Cuarta Palabra de la Angustia," dijo el monje. "¿Puede <em>esta</em> salvarme?"
+
+"Sólo si tú la invocas," dijo Bawan.
+
+El monje apretó el botón <em>Apagar</em> en su estación de trabajo y abandonó la montaña para siempre.
