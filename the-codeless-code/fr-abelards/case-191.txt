@@ -1,5 +1,6 @@
 Number: 191
 Title: Les Quatre Mots de la Détresse
+Subtitle: Première Partie
 Tagline: Dans lequel on n'est pas des fusées.
 Lang: fr
 Translator: abelards
