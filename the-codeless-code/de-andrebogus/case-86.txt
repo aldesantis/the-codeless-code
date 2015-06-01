@@ -4,7 +4,7 @@ Title: Liberation
 Geekiness: 1
 Names: Banzen
 Topics: management, code reviews, mentoring
-Skip: 0
+Lang: de
 Translator: andrebogus
 
 Meister [[Banzen]] untersuchte die Novizen einer entfernten Abtei. Ihre

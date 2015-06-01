@@ -1,0 +1,50 @@
+Number: 90
+Title: NaN
+Credits: Danke an Christopher Lynnes und Eric Winter für die Idee.
+Illus.0.title: Offenbar wird es mit sehr viel Fettloser Butter hergestellt.
+Translator: andrebogus
+Lang: de
+
+Meister [[Kaimu]] wurde von einem Mönch des 
+[[Spider Clan|Spinnen-Ordens]] aufgesucht, der sprach: "In Javascript,
+wenn man Null durch Null teilt, ist das Ergebnis <tt>NaN</tt>: Nichts
+als Nummer. Doch <tt>typeof(Nan)</tt> ist <tt>number</tt>. Welchen Sinn
+können wir in solch einer Sprache finden, in der ein Wert etwas sowohl
+ist als auch nicht ist?"
+
+Kaimu gab dem Mönch eine Münze und sprach, "Auf der Straße der weißen
+Nesseln lebt ein Bäcker, der Naan-Brote so rund wie die perfekte NUll
+verkauft. Kaufe so viele wie Du kannst und bringe sie zu mir."
+
+Der Mönch tat wie geheißen.  Als der Bäcker seine Bezahlung erhielt,
+warf er den Mönch gewaltsam aus dem Laden und ihm die Münze hinterher.
+
+"Falschgeld!" schrie der Händler.
+
+- - -
+
+<div style="color:#666">
+Zum Tempel zurückgekehrt, fand der Mönch einen der Gärtner, wechselte 
+die Kleidung mit ihm und sandte ihn, Meister Kaimu zu sehen.
+
+Kaimu, amüsiert über die offensichtliche Täuschung, rief  "Mönch! Wo ist
+mein Brot?"
+
+Wie vom Mönch instruiert, antwortete der Nicht-Mönch, "Gleich geteilt
+unter allen, die mir halfen, es zu tragen."
+
+Kaimu war zufrieden.
+</div>
+
+== Qi's Kommentar
+
+Wertloses Geld, imitierter Mönch, fiktives Brot,
+<span style="color:#666">falsches Ende</span>.
+
+
+== Qi's Poem
+
+Kaimu traf einen Kämpen, alt, verzweifelt und verlor'n,
+Denn nicht mal seines Namens konnt' erinnern sich der Mann.
+Der Meister sprach "Dies von Kaimu!" und legte Geld ihm vor, 
+Der Recke weint' vor Glück, weil er nun /Nicht-Kaimu/ sein kann.

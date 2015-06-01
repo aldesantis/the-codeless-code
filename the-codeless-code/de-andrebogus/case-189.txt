@@ -7,6 +7,7 @@ Geekiness: 2
 Tagline: Worin wir uns hoffnungslos verirren.
 Illus.0.src: roll.jpg
 Illus.0.title: Moment mal...das ist keine Wegbeschreibung nach Hause, sondern Tanzschritte für den Macarena...!
+Lang: de
 Translator: andrebogus
 
 [[Suku]] und ihre Lehrlinge kamen an einen abgeschiedenen

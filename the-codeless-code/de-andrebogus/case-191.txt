@@ -33,17 +33,14 @@ Der Mönch fragte "Was sind diese 'Vier Worte'?"
 
 Der Meister sagte, "Von der geringsten zur höchsten Linderung geordnet,
 sind sie: /Hilfe/, /Abbrechen/ und /Rückgängig machen/. Gebe sie allen
-Nutzern Deiner Programme, und sie werden sagen: 'Hier arbeitet ein
+Nutzern Deiner Programme, und sie werden sagen: ‘Hier arbeitet ein
 Medicus höchsten Mitgefühls, der unsere Fehlbarkeit versteht und unsere
-Selbstverletzung hindert!'"
+Selbstverletzung hindert!’"
 
 Der Mönch sagte, "Ihr spracht nur drei Worte.  Was ist das Vierte?"
 
-Bawan drückte den /Aus/-Knopf und ging.
+Bawan drückte den <i>Aus</i>-Knopf und ging.
 
 
 
-{{*}} Anm. des Übersetzers: Das Wort ist eigentlich eine 
-Fehlübersetzung, wie mir ein Informatikprofessor einst deutlich zu
-verstehen gab: "Wenn Sie eine Benutzerschnittstelle haben, dann haben
-Sie sich geschnitten!"
+{{*}} Anm. des Übersetzers: Das Wort ist eigentlich eine Fehlübersetzung, wie mir ein Informatikprofessor vor vielen Jahren deutlich zu verstehen gab: "Wenn Sie eine Benutzerschnittstelle haben, dann haben Sie sich geschnitten!"

@@ -3,7 +3,7 @@ Date: 2012-11-17
 Title: Decay
 Geekiness: 0
 Names: Banzen
-Topics: perfection, joy-coding
+Topics: perfection, joy-hacking
 Illus.0.src: shell.jpg
 Illus.0.title: C shell.
 Illus.1.src: sandcastle.jpg
