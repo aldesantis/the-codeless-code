@@ -1,0 +1,56 @@
+Number: 190
+Title: Per fare un'omelette
+Credits: Ispirato a una richiesta di April King.
+Illus.0.title: Chiaramente non stava usando Secure Shell.
+Tagline: In cui ci tiriamo le uova in faccia.
+Lang: it
+Translator: alessandro1997
+
+Il monaco [[Djishin]] stava costruendo un'applicazione che gestiva informazioni
+sensibili di minore importanza. Si avvicinò al maestro [[Banzen]] e disse: "Ho
+passato molti giorni studiando la crittografia. Sono sicuro di poter
+implementare un framework per lo scambio di dati riservati."
+
+Banzen disse: "Secondo gli insegnamenti del maestro [[Mizuh]], un monaco non
+conosce davvero la crittografia finché non è riuscito a destreggiare otto uova
+di piviere fresche per otto minuti su un pavimento di assi tagliate con l'ascia.
+Torna al tuo domicilio e fai pratica. Tra otto giorni vedremo cosa sai fare."
+
+Una settimana più tardi Djishin tornò da Banzen, a testa bassa.
+
+Il monaco disse: "La gravità e la goffaggine hanno vinto. Ora ho usato le mie
+razioni di uova per tutto l'anno, e il pavimento della mia camera da letto è
+appiccicoso."
+
+Banzen disse: "Qualunque idiota può lanciare degli oggetti in aria e riprenderli
+una o due volte. Essere un giocoliere significa comprendere le correnti
+atmosferiche, i limiti della mano, la sottile matematica del moto sotto forza di
+gravità. Un giocoliere protegge il pavimento come se ogni uovo fosse un ladro."
+
+Djishin rifletté sulle parole del maestro.
+
+Infine il monaco disse: "Il rischio è proporzionale al valore di ciò che è in
+pericolo. Se un ladro entra nella mia casa perché la mia serratura è scadente,
+cosa importa, se al limite può rubarmi il cuscino?"
+
+Banzen colpì il monaco sulla testa col proprio bastone e chiese: "Che odore ha
+la tua stanza?"
+
+"Di uova marce" disse Djishin, sfregandosi il cranio.
+
+Banzen disse: "Il vero problema non è la presa mancata, ma il tuorlo che si è
+insinuato tra le assi. Se la tua serratura è scadente ma il tuo cuscino non è
+stato rubato, guarda sotto il tuo letto! Può darsi che il ladro stia
+semplicemente aspettando il giorno che tornerai con una borsa sonante."
+
+== Il commento di Qi
+
+Djishin deve a Banzen una colazione a letto. Meglio che il monaco affronti un
+anno senza uova piuttosto che un'omelette con la salmonella.
+
+== Il poema di Qi
+
+Mizuh fu minacciato da un bandito istruito. //
+Il bandito voleva conoscere il nome di battesimo di Mizuh. //
+"I Miei Genitori Non Me L'Hanno Mai Detto" disse Mizuh. //
+Il bandito se ne andò avvilito, e Mizuh sorrise.
