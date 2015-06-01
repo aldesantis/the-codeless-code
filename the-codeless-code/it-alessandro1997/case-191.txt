@@ -3,6 +3,8 @@ Title: Le Quattro Parole della Salvezza
 Subtitle: Parte prima
 Part: 1
 Tagline: In cui siamo placati.
+Lang: it
+Translator: alessandro1997
 
 Il maestro [[Bawan]] si imbatté in un monaco che combatteva con la
 fotocopiatrice. Il monaco colpiva i bottoni, frustrato, ma la fotocopiatrice
