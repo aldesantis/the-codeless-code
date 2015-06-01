@@ -4,6 +4,7 @@ Geekiness: 0
 Names: Jinyu
 Topics: meetings, yes-men
 Title: Ich treffe Dich im Mondenschein
+Lang: de
 Translator: andrebogus
 
 Zum Ende einer Präsentation kamen mehrere ihrer Äbte zu 

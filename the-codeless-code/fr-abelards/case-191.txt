@@ -39,9 +39,9 @@ Le moine demanda, "Quels sont ces 'Quatre Mots' ?"
 Le maître dit, "Par ordre d'apaisement croissant, ce sont :
 /Aide/, /Annuler/, et /Retour en arrière/.
 Propose-les tous aux utilisateurs de tes propres interfaces,
-et quand ils auront pris congé, ils diront 'Voici un docteur
+et quand ils auront pris congé, ils diront ‘Voici un docteur
 doué de la plus extrême compassion, qui comprend que chacun
-est faillible et nous évite de nous blesser nous-mêmes !'"
+est faillible et nous évite de nous blesser nous-mêmes !’"
 
 Le moine dit, "Vous n'avez donné que trois mots.
 Quel est le quatrième ?"
