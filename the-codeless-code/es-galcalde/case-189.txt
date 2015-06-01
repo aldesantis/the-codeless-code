@@ -2,6 +2,7 @@ Number: 189
 Title: El Bosque Denso
 Lang: es
 Translator: galcalde
+Tagline: En el cual estamos desesperadamente perdidos.
 Illus.0.title: Un momento... estas instrucciones no son para llevarme a casa; son para bailar la Macarena...
 
 [[Suku]] y sus aprendices habían llegado a un templo recóndito en el corazón de un inmenso bosque antiguo. Allí los árboles crecían tan altos y espesos que a una gota de lluvia cayendo sobre el toldo le tomaría un día entero llegar al suelo puesto que goteaba de hoja en hoja. (Como consecuencia, los monjes del en aquel lugar podían caminar por fuera durante una tormenta y mantenerse secos como una tostada, pero al día siguiente tendrían que sacar los paraguas y las botas, aunque el sol estuviera brillando.)
