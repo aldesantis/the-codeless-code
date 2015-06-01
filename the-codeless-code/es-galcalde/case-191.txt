@@ -3,6 +3,7 @@ Title: Las Cuatro Palabras De La Angustia
 Subtitle: Primera Parte
 Lang: es
 Translator: galcalde
+Tagline: En la cual somos apaciguados.
 
 El Maestro [[Bawan]] se encontró a un monje luchando con la máquina fotocopiadora. El monje estaba golpeando botones frustradamente, pero la copiadora estaba en silencio.
 
