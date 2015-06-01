@@ -2,6 +2,7 @@ Number: 184
 Title: Vida
 Lang: es
 Translator: galcalde
+Tagline: En la cual entendemos todo
 Illus.0.title: "Todas las hormigas van marchando / Agitando sus antenas rojas y negras / Todas hacen lo mismo / Todas lo hacen de la misma manera..."
 
 [[Jinyu]], la Abadesa de Todos los Clanes y asuntos de Interés, estaba inspeccionando las actividades de su templo cuando se encontró con uno de los nuevos desarrolladores de aplicaciones móviles, trabajando duro en su escritorio. Ella echó una ojeada por encima del hombro del monje para ver en qué estaba trabajando, pero su pantalla sólo mostraba pequeños cuadrados negros vibrando en un campo blanco. Jinyu golpeó ligeramente la cabeza con su bastón.
