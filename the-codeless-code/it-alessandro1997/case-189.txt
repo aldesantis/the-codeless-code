@@ -1,8 +1,7 @@
 Number: 189
 Title: La foresta fitta
-Tagline: In which we are hopelessly lost.
+Tagline: In cui siamo perduti senza speranza.
 Illus.0.title: Aspetta un attimo... queste non portano a casa! Sono istruzioni per la Macarena!
-Credits: Thanks to Kyle Tekaucic for pointing out the typo!
 Lang: it
 Translator: alessandro1997
 
