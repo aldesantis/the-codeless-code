@@ -1,0 +1,31 @@
+Number: 193
+Title: El Círculo Vicioso
+Lang: es
+Translator: galcalde
+Tagline: En el cual resolvemos una paradoja.
+
+Tres hermanas de una familia pobre pidieron al abad del [[Laughing Monkey Clan|Clan del Mono que Ríe]] la admisión al templo como desarrolladoras.
+
+"No puedo contratar a ninguna de ustedes," dijo el abad después de mirar sus currículums. "No tienen la experiencia necesaria."
+
+"¡Pero es la misma queja a donde quiera que vayamos!" protestó una de las hermanas. "¿Como <em>adquiriremos</em> experiencia si se nos niega la entrada a cuaalquier lugar que <em>ofrezca</em> experiencia simplemente porque nos <em>falta</em> experiencia?"
+
+El Maestro [[Kaimu]] por casualidad pasaba por ahí y lo escuchó. El dijo a las chicas: "El deseo es la raíz de todo el sufrimiento. Si no pueden hacer lo que desean, entonces hagan lo que deben, para que en su tiempo libre puedan hacer lo que verdaderamente aman."
+
+El maestro luego se fue, pero las chicas no estaban conformes.
+
+- - -
+
+Varios meses después el maestro encontró a esas mismas tres hermanas compartiendo un humilde almuerzo en la villa. Les preguntó como le fueron.
+
+La primera dijo, "De día hago carpintería para pagar las cuentas, y de noche tallo esculturas para mi diversión."
+
+La segunda dijo, "De día vendo pescado para pagar las cuentas, y de noche practico danza para mi diversión."
+
+La tercera dijo, "De día arreglo vestidos para pagar las cuentas, y de noche escribo pequeñas aplicaciones para mi diversión."
+
+Kaimu volvió con el abad y, contándole lo que le sucedió, dijo, "Admite a la tercera hermana en tu clan, porque ella tiene lo que buscamos."
+
+El abad dijo, "¿No deberíamos aconsejar a sus hermanas mayores seguir su ejemplo, de que pueden ganar experiencia y también ser admitidas?"
+
+<em>"Null,"</em> dijo Kaimu. "¿Como podemos aconsejarlas en 'lo que aman verdaderamente'?"

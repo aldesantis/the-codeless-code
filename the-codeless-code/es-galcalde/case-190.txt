@@ -2,6 +2,7 @@ Number: 190
 Title: Hacer un Omelette
 Lang: es
 Translator: galcalde
+Tagline: En el cual tenemos huevo en nuestra cara.
 Illus.0.title: Obviamente no estaba usando un Cascarón Seguro.
 
 El monje [[Djishin]] estaba construyendo una aplicación que manejaba información sensitiva de menor importancia. Se acercó al maestro [[Banzen]] y dijo: "He pasado varios días leyendo sobre criptografía. Estoy seguro que puedo implementar una plataforma de compartición de secretos."
