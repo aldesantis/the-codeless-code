@@ -1,0 +1,51 @@
+Number: 189
+Title: La foresta fitta
+Tagline: In which we are hopelessly lost.
+Illus.0.title: Aspetta un attimo... queste non portano a casa! Sono istruzioni per la Macarena!
+Credits: Thanks to Kyle Tekaucic for pointing out the typo!
+Lang: it
+Translator: alessandro1997
+
+[[Suku]] e i suoi apprendisti erano giunti a un tempio isolato nel cuore di
+un'immensa e antica foresta. Qui gli alberi crescevano così alti e imponenti che
+una goccia di pioggia, cadendo sulla chioma, impiegava un giorno intero per
+giungere a terra mentre scorreva di foglia in foglia. (Di conseguenza, i monaci
+di quel luogo potevano passeggiare durante una tempesta e restare perfettamente
+asciutti, ma il giorno successivo si dovevano incamminare con gli ombrelli
+aperti e le galosce ai piedi, anche se il sole splendeva.)
+
+Durante la loro ultima notte al tempio, la maestra Suku stava ispezionando il
+codice di una monaca anziana.
+
+"I tuoi metodi sono eccessivamente lunghi" disse la maestra. "Questo è di almeno
+qualche centinaio di righe, con cicli nidificati e rami logici profondi diversi
+livelli. Dovrebbe essere rifattorizzato in almeno tredici metodi diversi."
+
+La monaca anziana rise. "Se programmassi nel vostro modo, chi mantiene il codice
+dovrebbe prima studiare dodici routine differenti per capire quella principale.
+Ma nel mio modo, tutto il codice è visibile nello stesso posto. E chiamano /voi/
+maestra!"
+
+- - -
+
+La monaca si svegliò nella foresta, da sola. Posò una mano sulla testa pulsante
+e scoprì sia un bernoccolo nuovo di zecca che un borsello appeso al proprio
+collo. Attaccata al borsello vi era una nota:
+
+  È un peccato che tu abbia dormito per così tanto del nostro tragitto
+  attraverso la foresta... molti sentieri si snodano e si intrecciano tra di
+  loro, e sarebbe facile perdersi per sempre. Ma non temere! Ti abbiamo lasciato
+  delle precise istruzioni per tornare a casa.
+
+Dentro il borsello la monaca trovò uno spesso rotolo di carta, come quello chi
+che i mercanti usano nelle casse. Il testo sull'esterno incominciava così:
+
+    Alzati.
+    Voltati verso il muschio.
+    Piega il ginocchio destro, solleva il piede destro di tre pollici.
+    Procedi per diciotto pollici con la gamba destra puntata verso la quercia più vicina.
+    Metti giù il piede destro.
+    Sposta il peso sul piede destro.
+    Piega il ginocchio sinistro--
+
+La concentrazione della monaca anziana fu rotta dal vicino ululato dei lupi.
