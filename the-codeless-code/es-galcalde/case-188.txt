@@ -2,6 +2,7 @@ Number: 188
 Title: Amor Duro
 Lang: es
 Translator: galcalde
+Tagline: En el cual somos excelentes con los demás
 Illus.0.title: Y encima, era un desarrollador de Python.
 
 Un joven monje le preguntó al maestro [[Kaimu]], "Además del dominio técnico, ¿Qué cualidad esencial debe tener un maestro en todo momento?"
