@@ -1,11 +1,18 @@
 Number: 182
 Lang: de
+Illus.0.title: Sie sind wirklich die kleinen Katzenspielzeuge von Mutter Natur.
 Translator: andrebogus
 Title: Mausefalle
 
-Ein ihr an Jahren überlegener Mönch, neidisch auf [[Zjing|Zjing]]s [[#174|Beförderung]], entschied, ihre Arbeit auszuspionieren. Er staunte, als er in ihrem letzten Projekt verwirrenden Code voll offensichtlicher Bugs vorfand. Er wandte sich an Meister [[Banzen|Banzen]].
+Ein ihr an Jahren überlegener Mönch, neidisch auf [[Zjing|Zjing]]s 
+[[#174|Beförderung]], entschied, ihre Arbeit auszuspionieren. Er 
+staunte, als er in ihrem letzten Projekt verwirrenden Code voll 
+offensichtlicher Bugs vorfand. Er wandte sich an Meister 
+[[Banzen|Banzen]].
 
-Der alte Meister dankte dem Mönch für seine Sorgfalt und bat ihn, einen Moment zu bleiben. Dann rief er Zjing an und schaltete das Telefon laut.
+Der alte Meister dankte dem Mönch für seine Sorgfalt und bat ihn, einen 
+Moment zu bleiben. Dann rief er Zjing an und schaltete das Telefon 
+laut.
 
 “Sagt etwas über Euer ‘Maus’-Projekt,” befahl Banzen.
 
@@ -15,11 +22,19 @@ Der ältere Mönch lächelte zufrieden.
 
 Banzen fragte, “Wie schlecht?”
 
-“Heute Morgen haben unsere QA-Werkzeuge dreihundertundacht einzelne Mängel gefunden,” antwortete Zjing.
+“Heute Morgen haben unsere QA-Werkzeuge dreihundertundacht einzelne 
+Mängel gefunden,” antwortete Zjing.
 
-“Das ist ein Problem,” sagte Banzen. “Wenn ich recht erinnere, sollten es dreihundertzwanzig sein.”
+“Das ist ein Problem,” sagte Banzen. “Wenn ich recht erinnere, sollten 
+es dreihundertzwanzig sein.”
 
-“Korrekt,” sagte Zjing. “Jemand scheint die Regeln gegen Ressourcen-Lecks deaktiviert zu haben. Der Selbst-Test des Projekts hat mich benachrichtigt; ich prüfe das gerade.”
+“Korrekt,” sagte Zjing. “Jemand scheint die Regeln gegen 
+Ressourcen-Lecks deaktiviert zu haben. Der Selbst-Test des Projekts hat 
+mich benachrichtigt; ich prüfe das gerade.”
 
-Banzen wünschte ihr gute Jagd und wandte sich zum Mönch. “Fürchtest Du jemals, Mäuse in Deiner Wand zu haben, höre aufs Allgemeinwissen und kaufe vier gute Katzen. Doch höre auch auf Zjing, und gebe den Katzen täglich eine Maus zu jagen—so bist Du sicher, dass sie es nicht verlernt haben.”
+Banzen wünschte ihr gute Jagd und wandte sich zum Mönch. “Fürchtest Du 
+jemals, Mäuse in Deiner Wand zu haben, höre aufs Allgemeinwissen und 
+kaufe vier gute Katzen. Doch höre auch auf Zjing, und gebe den Katzen 
+täglich eine Maus zu jagen—so bist Du sicher, dass sie es nicht 
+verlernt haben.”
 

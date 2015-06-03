@@ -35,8 +35,8 @@ Der Mönch widmete seinen zweiten Sprint, um /Abbrechen/-Knöpfe in seiner
 Seite anzubieten, so dass jede wichtige Aktion nur nach Bestätigung
 durch den Nutzer fortfahren würde.
 
-Doch bald nach em Deployment fand der Mönch eine zweite Nachricht, durch
-die eine Mistgabel in seine Tür gesteckt worden war:
+Doch bald nach dem Deployment fand der Mönch eine zweite Nachricht, 
+durch die eine Mistgabel in seine Tür gesteckt worden war:
 
      Gefragt, die Order tausender Mistgabeln abzubrechen, //
      hat die Wahl mir 'nen einfachen Ausweg verwehrt. //
