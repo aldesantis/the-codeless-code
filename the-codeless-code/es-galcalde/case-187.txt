@@ -2,7 +2,8 @@ Number: 187
 Title: Entrevista de Salida
 Lang: es
 Translator: galcalde
-Illus.0.title: De hecho he tenido aspirantes haciéndome estoen una entrevista, sinel más mínimo indicio de verguenza. En retrospectiva debí haberlos contratado a todos y enviarlos a Marketing.
+Tagline: En la cual tomamos las cosas al pie de la letra
+Illus.0.title: De hecho he tenido aspirantes haciéndome esto en una entrevista, sin el más mínimo indicio de verguenza. En retrospectiva debí haberlos contratado a todos y enviarlos a Marketing.
 
 El maestro Java [[Bawan]] estaba entrevistando a un aspirante para el [[Elephant's Footprint Clan|Clan de la Huella del Elefante]]. Después de preguntarle las preguntas preliminares usuales (sobre clases abstractas, y como hacer burbujear y zumbar los números{{*}}), Bawan dibujó un esquema simple de base de datos en la pizarra y le pidió al aspirante que defina algunos POJOs adecuadamente anotados para Hibernate.
 

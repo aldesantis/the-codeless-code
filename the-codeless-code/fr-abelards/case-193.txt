@@ -1,0 +1,57 @@
+Number: 193
+Lang: fr
+Translator: abelards
+Title: Le Cercle Vicieux
+Tagline: Dans lequel nous résolvons un paradoxe.
+Credits: À partir d'une idée de Gonzalo Alcalde.
+
+Trois soeurs d'une famille pauvre vinrent trouver l'abbé
+du [[Laughing Monkey Clan|Clan du Singe Rieur]] afin de
+requérir leur admission au Temple en tant que développeuses.
+
+"Je ne peux embaucher aucune d'entre vous," dit l'abbé
+après avoir regardé leurs CVs. "Vous n'avez pas l'expérience
+nécessaire."
+
+"Mais c'est partout la même complainte où que nous allions !"
+protesta l'une des soeurs. "Comment allons-nous /acquérir/
+l'expérience si on nous refuse l'entrée partout où l'on
+/offre/ cette expérience, juste parce que l'on /manque/
+d'expérience ?"
+
+Il se trouvait que maître [[Kaimu]] passait par là et entendit ceci.
+Il dit aux soeurs : "Le désir est la source de toute souffrance.
+Si vous ne pouvez faire ce que vous désirez, alors faites ce que
+vous devez, afin que dans votre temps libre vous puissiez faire
+ce que vous aimez vraiment."
+
+Puis le maître prit congé, mais les soeurs n'en furent pas réconfortées.
+
+- - -
+
+Plusieurs mois plus tard le maître tomba sur ces mêmes trois soeurs
+qui partageaient un humble repas au village. Il leur demanda
+ce qu'elles étaient devenues.
+
+La première dit, "le jour je fais de la charpenterie
+pour mettre du pain sur la table, et la nuit je sculpte
+pour mon plaisir."
+
+La première dit, "le jour je vends du poisson
+pour mettre du pain sur la table, et la nuit je danse
+pour mon plaisir."
+
+La première dit, "le jour je reprends des vêtements
+pour mettre du pain sur la table, et la nuit je code
+de petites applications pour mon plaisir."
+
+Kaimu revint voir l'abbé et, lui racontant ce qui s'était passé,
+dit, "Accueillez la troisième soeur dans votre clan, car elle
+a en elle les qualités que nous recherchons."
+
+L'abbé demanda, "Ne devrions-nous pas conseiller à ses deux
+soeurs aînées de suivre son exemple, afin qu'elles gagnent
+de l'expérience et soient également recrutées ?"
+
+/"Null,"/ dit Kaimu. "Comment pouvons-nous les conseiller
+sur <i>ce qu'elles aiment vraiment</i>?"
