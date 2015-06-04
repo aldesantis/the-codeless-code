@@ -1,0 +1,51 @@
+Number: 193
+Title: Teufelskreis
+Tagline: Worin wir ein Paradox auflösen.
+Illus.0.title: Schwestern
+Credits: Nach einer Idee von Gonzalo Alcalde.
+Translator: andrebogus
+Lang: de
+
+Drei Schwestern aus einer armen Familie baten den Abt des 
+[[Laughing Monkey Clan|Tempels des Lachenden Affen]] um Aufnahme als
+Entwickler in den Tempel.
+
+"Ich kann keine von Euch einstellen," sagte der Abt nach Durchsicht
+ihrer Lebensläufe. "Euch fehlt die nötige Erfahrung."
+
+"Aber das hören wir wohin wir uns wenden!" protestierte eine der 
+Schwestern.  "Wie sollen wir die Erfahrung /machen/, wenn wir an jedem
+Ort, der Erfahrung /bietet/ abgelehnt werden, weil sie uns /fehlt/?"
+
+Meister [[Kaimu]] ging gerade vorbei, und hörte dies.
+Er sprach zu den Mädchen: "Begehren ist die Wurzel allen Leids.  Wenn
+Ihr nicht tun könnt, was Ihr begehrt, so tut, was Ihr müsst, auf dass
+Ihr in Eurer Freizeit tun könnt, was Ihr wirklich liebt."
+
+Der Meister ging weiter, doch die Mädchen waren nicht getröstet.
+
+- - -
+
+Einige Monate später traf der Meister auf eben jene drei Schwestern, 
+die ein einfaches Mahl im Dorf teilten. Er fragte sie, wie sie zurecht 
+kämen.
+
+Die Erste sprach, "Tagsüber zimmere ich, um die Rechnungen zu zahlen,
+und nachts schaffe ich zum Vergnügen Skulpturen."
+
+Die Zweite sprach, "Tagsüber verkaufe ich Fisch, um die Rechnungen zu
+zahlen, und nachts übe ich zum Vergnügen Tanzen."
+
+Die Dritte sprach, "Tagsüber flicke ich Kleider, um die Rechnungen zu
+zahlen, und nachts code ich zum Vergnügen kleine Applikationen."
+
+Kaimu kehrte zur Abtei zurück und erzählte dem Abt, was er gehört 
+hatte. Dazu sagte er: "Gewährt der Dritten Einlass in den Orden, denn 
+sie hat, was wir suchen."
+
+Der Abt fragte, "Sollten wir ihre älteren Schwestern nicht anweisen, 
+ihrem Beispiel zu folgen, auf dass sie ebenfalls Erfahrung sammeln und
+aufgenommen werden können?"
+
+/"Null,"/ sagte Kaimu. "Wie können wir sie anweisen, etwas wirklich zu 
+lieben?"

@@ -4,7 +4,7 @@ Translator: andrebogus
 Title: Nichts Für Immer
 Tagline: Worin wir vertrauensvoll ins Nichts springen
 
-An einem kalten Frühlingsmorgen begegnete die Nonne [[Yiwen]]
+An einem kalten Frühlingsmorgen begegnete die Nonne [[Yiwen]] 
 [[#184|einem gewissen Mönch]], der mitten auf einer Brücke
 stand und mit tränenüberströmtem Gesicht in die Schlucht
 hinunterblickte.
