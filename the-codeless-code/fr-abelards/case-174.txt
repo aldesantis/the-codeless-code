@@ -3,8 +3,7 @@ Title: Hors Zone
 Lang: fr
 Translator: abelards
 
-Il était de notoriété publique que la nonne [[Zjing]]
-[[#54|avait le vertige]].
+Il était de notoriété publique que la nonne [[Zjing]] [[#54|avait le vertige]].
 C'est pour cela qu'elle vivait dans la vallée bien en dessous
 des altitudes montagnardes du temple, et n'avait bravé les traîtres
 chemins à flanc de falaise [[#136|qu'une seule fois]].
@@ -35,7 +34,7 @@ Ses pas faisaient craquer les ponts de corde ; elle les traversa.
 Éclairés par la lune, elle voyait de grands stalactites de glace
 trembler au-dessus de sa tête : grands comme des arbres, pointus
 comme des lances, menaçant de tomber au moindre murmure ;
-elle les dépassa sans un son.
+elle les dépassa sans un bruit.
 Des vents rugissants menacèrent de la souffler des chemins
 larges d'un pied pour la renvoyer à sa vallée de la manière
 la plus rapide mais définitive qui soit ; elle s'accrocha
@@ -55,10 +54,10 @@ finalement décidé de rester dans les Lointaines Provinces."
 
 "C'est précisément parce qu'elle est attachée à notre Temple
 qu'elle ne revient pas pour le moment," dit le maître.
-"Elle a été surprise de voir que ses voyages étaient très
+"Elle fut surprise de voir que ses voyages étaient très
 édifiants, pour elle comme pour ses apprentis.
 Il est vrai qu'ils sont fatigués et éprouvés, et qu'ils
-accueilleraient avec plaisir le confort de leur foyer.
+retrouveraient avec plaisir le confort de leur foyer.
 Mais il y a tant encore à enseigner et apprendre.
 Si Suku continue ses voyages, tout cela nous sera d'un
 grand service à la fin."
