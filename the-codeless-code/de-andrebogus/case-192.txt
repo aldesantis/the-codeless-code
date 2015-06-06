@@ -16,11 +16,12 @@ Sense vor.
 
 - - -
 
-Der Mönch widmete seinen ersten Sprint, /Hilfe/-Knöpfe auf der Seite zu
-verteilen, die in das Online-Benutzerhandbuch verlinkten.  Dies, so 
-dachte er, würde am wenigsten Zeit und Aufwand kosten -- und Bauern
-sollten den Wert niedrig hängender Früchte ohnehin zu schätzen wissen.
- 
+Der Mönch widmete seinen ersten Sprint, <i>Hilfe</i>-Knöpfe auf der 
+Seite zu verteilen, die in das Online-Benutzerhandbuch verlinkten.  
+Dies, so dachte er, würde am wenigsten Zeit und Aufwand kosten -- und 
+Bauern sollten den Wert niedrig hängender Früchte ohnehin zu schätzen 
+wissen.
+
 Doch bald nach dem Deployment fand der Mönch eine Nachricht von
 einer Axt gehalten, die in seiner Tür steckte:
 
@@ -31,9 +32,9 @@ einer Axt gehalten, die in seiner Tür steckte:
 
 - - -
 
-Der Mönch widmete seinen zweiten Sprint, um /Abbrechen/-Knöpfe in seiner
-Seite anzubieten, so dass jede wichtige Aktion nur nach Bestätigung
-durch den Nutzer fortfahren würde.
+Der Mönch widmete seinen zweiten Sprint, um <i>Abbrechen</i>-Knöpfe in 
+seiner Seite anzubieten, so dass jede wichtige Aktion nur nach 
+Bestätigung durch den Nutzer fortfahren würde.
 
 Doch bald nach dem Deployment fand der Mönch eine zweite Nachricht, 
 durch die eine Mistgabel in seine Tür gesteckt worden war:
@@ -46,7 +47,7 @@ durch die eine Mistgabel in seine Tür gesteckt worden war:
 - - -
 
 Der Mönch widmete seinen dritten Sprint, einen immer verfügbaren
-/Undo/-Knopf anzubieten, so dass jede Aktion zurückgenommen werden
+<i>Undo</i>-Knopf anzubieten, so dass jede Aktion zurückgenommen werden
 konnte. Dies benötigte am meisten Zeit und Aufwand, doch der Mönch sah 
 das Ergebnis mit einiger Befriedigung.
 
@@ -79,5 +80,5 @@ wiedergab, doch niemand kam zu ihm, um Weisheit zu empfangen."
 
 "Nur wenn Du es selbst sprichst." sagte Bawan.
 
-Der Mönch drückte den /Aus/-Knopf seines Computers und floh für immer
-aus dem Tempel.
+Der Mönch drückte den <i>Aus</i>-Knopf seines Computers und floh für 
+immer aus dem Tempel.

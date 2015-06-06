@@ -1,5 +1,6 @@
 Number: 191
 Title: Die Vier Worte der Not
+Subtitle: Teil Eins
 Tagline: Worin wir getröstet werden
 Translator: andrebogus
 Lang: de
