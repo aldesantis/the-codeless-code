@@ -1,62 +1,55 @@
-Date: 2015-04-12
 Number: 187
-Title: Exit Interview
-Names: Bawan, Kaimu, Jinyu
-Topics: interviews, resumes, honesty
-Geekiness: 3
-Tagline: In which we take things at face value
-Illus.0.src: push.jpg
-Illus.0.title: I have actually had applicants do this to me at an interview, without the slightest hint of embarrassment.  In retrospect I should have hired them all and sent them to Marketing.
+Title: Der Ausgang des Bewerbungsgesprächs
+Tagline: Worin wir die Dinge beim Wort nehmen
+Illus.0.title: Ich hatte schon Bewerber, dieten
+Java-Meister [[Bawan]] prüfte einen Bewerber für den  [[Elephant's 
+Footprint Clan|Orden des Elefanten-Fußabdrucks]].  Nach den üblichen
+ersten Fragen gestellt waren (über abstrakte Klassen, und wie man 
+Zahlen zum Fizzen und Buzzen bringt), zeichnete Bawan ein simples
+Datenbankschema auf die Weißwandtafel und bat den Bewerber, die
+Java-Klassen mit Hibernate-Annotationen zu definieren.
 
-Java master [[Bawan]] was interviewing an applicant for the
-[[Elephant's Footprint Clan]].  After the usual preliminary
-questions had been asked (about abstract classes, and how to
-make numbers fizz or buzz), Bawan drew a simple database
-schema on the whiteboard and asked the applicant to define
-some POJOs suitably annotated for Hibernate.
+"Ich weiß nicht was Ihr meint", sagte der Bewerber.
 
-"I don't know what you mean," said the applicant.
+"Domänen-Objekte," sagte Bawan, "mit Hibernate-Annotationen."
 
-"Domain objects," said Bawan, "with Hibernate annotations."
+"Ich weiß immer noch nicht was Ihr meint", sagte der Bewerber.
 
-"I still don't know what you mean," said the applicant.
+"Vielleicht kennt Ihr sie als JPA-Annotationen," erklärte Bawan.
 
-"Perhaps you know them as JPA annotations," offered Bawan.
+Der Bewerber schüttelte den Kopf.
 
-The applicant shook his head.
+"EJB3?"  fragte Bawan.  "ORM?"
 
-"EJB3?"  asked Bawan.  "ORM?"
+Der Bewerber schüttelte den Kopf.
 
-The applicant shook his head.
+Bawan untersuchte ein Blatt Papier. "Dann könnt Ihr mir womöglich
+erzählen, warum Hibernate, JPA, EJB3 und ORM alle unter "Fähigkeiten"
+ganz oben auf Eurer Bewerbung stehen."
 
-Bawan scrutinized a sheet of paper. "Then perhaps you can
-tell me why Hibernate, JPA, EJB3, and ORM are all mentioned
-at the top of your resume, under the major
-heading /Principal Skills/."
+"Oh!" sagte der Bewerber.  "Mein Personalvermittler hieß mich, diese
+dort hineinzuschreiben.  Er meinte, sie würden sich in 
+BewerbungsgesprächenHe als sehr nützlich erweisen."
 
-"Oh!" said the applicant.  "My recruiter told me to put
-those there.  He said they would prove most beneficial for
-interviews."
+"Ich verstehe," sagte Bawan.  "Nun, meine Zeit ist um. Als nächstes
+befragt Euch Meister [[Kaimu]], der solche Dinge weniger genau nimmt.
+Geht nach rechts, die Treppe hoch und sucht eine Tür mit seinem Namen."
 
-"I see," said Bawan.  "Well, that's all the time I have.
-Your next interviewer will be master [[Kaimu]], who is less
-particular about such things.  Turn right, up the stairs,
-look for the door with his name."
-
-The applicant thanked Bawan and departed.
+Der Bewerber dankte Bawan und verabschiedete sich.
 
 - - -
 
-The next day, Bawan asked Kaimu his opinion of the applicant.
+Am nächsten Tag fragte Bawan Kaimu nach seiner Meinung über den 
+bewerber.
 
-"I never saw him," said Kaimu.  "It appears that he turned
-right from your office instead of left, climbed to the
-pinnacle of the cliff-side tower, and hurled himself through
-a maintenance door normally used to access a WiFi antenna
-on the outside of the building.  Perhaps you can tell me why
-my name was written at the top of that door, above a sign
-saying /Close Eyes, Push Hard/."
+"Ich habe ihn nie getroffen," sagte Kaimu.  "Offenbar ist er von Eurem 
+Büro nach rechts statt links gegangen und hat die Treppen bis zur 
+Turmspitze über der Klippe erklommen, und sich aus einer Wartungstür 
+geworfen, die wir normalerwise nutzen, um eine außen liegende 
+WiFi-Antenne zu erreichen.  Womöglich könnt Ihr mir erzählen, warum 
+mein Name auf der Tür stand, über einem Schild mit der Aufschrift:
+/Augen schließen und fest drücken/."
 
-"Oh!" said Bawan.  "Madame [[Jinyu]] told me to put those
-there.  She said they would prove most beneficial for
-interviews."
+"Oh!" sagte Bawan,  "Doe Ehrwürdige [[Jinyu]] bat mich, das Schild dort
+anzubringen.  Sie meinte, es würde sich in Bewerbungsgesprächen als
+sehr nützlich erweisen."
