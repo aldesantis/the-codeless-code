@@ -1,0 +1,70 @@
+Number: 70
+Title: System
+Translator: andrebogus
+Lang: de
+
+Ein Novize stellte diese Frage Meister [[Bawan]]:
+
+Am Morgen gibt mir mein Meister Anweisungen. //
+Mit den Anweisungen forme ich eine Idee. //
+Mit der Idee zeichne ich Diagramme auf Papier. //
+Mit den Diagrammen, modelliere ich das Design. //
+Mit dem Design generiere ich ein Stub-Projekt. //
+Mit dem Stub-Projekt beginne ich, Code zu schreiben. //
+Mit dem Code generiert der Compiler Byte Code Dateien. //
+Mit den Byte Code Dateien baut das Build-System ein .war-Archiv. //
+Mit dem .war-Archiv startet der Deployer eine Web-Applikation. //
+
+Doch wir sind immer noch nicht fertig.
+
+Aus der Applikation extrahiert die virtuelle Maschine den Byte Code.//
+Aus dem Byte Code erzeugt der Just-in-time-Compiler Maschinencode. //
+Aus dem Maschinencode liest die CPU ihre Instruktion. //
+Aus den Instruktionen erkennt die ALU die auszuführenden Befehle. //
+Aus den Befehlen folgt, wo Elektronen hier- oder dorthin fließen. //
+
+Jeder Schritt raffiniert, destilliert und transformiert das Projekt. //
+Jeder Schritt basiert auf den ihm Folgenden --//
+denn sonst funktioniert das Programm nicht. //
+
+Also ist meine Frage diese: //
+Welches dieser Produkte ist die wahre Software, //
+und welches die wahre Quelle? //
+
+Der Meister antwortete: //
+
+Aber wir sind noch nicht fertig: //
+Elektronen fließen hier- oder dorthin, //
+schalten logische Schaltungen //
+die Zustände im Speicher ändern,
+die als Information interpretiert werden, //
+die als Daten auf dem Bildschirm stehen, //
+die Muster auf Deiner Retina erzeugen, //
+die als Signale an Deinen Kortex geleitet werden, //
+die bis in Dein Zerebrum gelangen,
+und dort eine Idee formen. //
+
+Also ist hier meine Antwort://
+Geh zum Tempelhof, stelle Dich vor die große Eiche. //
+Pflücke eine Eichel von den hohen Ästen. //
+Sammele nasses Laub von der Erde darunter. //
+Mische Deinen Atem mit dem Tau. //
+Feuchte die Erde mit Deinem Schweiß. //
+Dort bleibe, bis die Eiche nicht mehr ist.  
+
+
+== Qi's Kommentar
+
+Wovon sprichst Du, wenn Du "Quelle" sagst?  Welchen Ort meinst Du, wenn
+Du von Code sprichst?  Die Grenzen Deines Arbeitsplatzes sind nicht der
+Horizont.  Du must über die Nöte des Tages hinaus blicken; andernfalls
+wird Deine Implementierung ein Stück trockene Rinde sein, und Du nicht
+mehr als Futter für Würmer.
+
+== Qi's Gedicht
+
+Sind Eiche und Mönch vergangen,//
+hat die neue Zeit angefangen.//
+Überall und nicht wo,//
+Allen Seins und nicht so,//
+als wär Gott wo spazieren gegangen.
