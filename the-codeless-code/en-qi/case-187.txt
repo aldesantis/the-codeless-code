@@ -1,7 +1,10 @@
 Number: 187
 Title: Der Ausgang des Bewerbungsgesprächs
 Tagline: Worin wir die Dinge beim Wort nehmen
-Illus.0.title: Ich hatte schon Bewerber, dieten
+Illus.0.title: Ich hatte schon Bewerber, die mir solcherlei ohne Anzeichen von Scham vorlegten. Im Nachhinein hätte ich sie alle einstellen und ins Marketing schicken sollen.
+Translator: andrebogus
+Lang: de
+
 Java-Meister [[Bawan]] prüfte einen Bewerber für den  [[Elephant's 
 Footprint Clan|Orden des Elefanten-Fußabdrucks]].  Nach den üblichen
 ersten Fragen gestellt waren (über abstrakte Klassen, und wie man 
