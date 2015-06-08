@@ -1,0 +1,58 @@
+Number: 187
+Title: Der Ausgang des Bewerbungsgesprächs
+Tagline: Worin wir die Dinge beim Wort nehmen
+Illus.0.title: Ich hatte schon Bewerber, die mir solcherlei ohne Anzeichen von Scham vorlegten. Im Nachhinein hätte ich sie alle einstellen und ins Marketing schicken sollen.
+Translator: andrebogus
+Lang: de
+
+Java-Meister [[Bawan]] prüfte einen Bewerber für den  [[Elephant's 
+Footprint Clan|Orden des Elefanten-Fußabdrucks]].  Nach den üblichen
+ersten Fragen gestellt waren (über abstrakte Klassen, und wie man 
+Zahlen zum Fizzen und Buzzen bringt), zeichnete Bawan ein simples
+Datenbankschema auf die Weißwandtafel und bat den Bewerber, die
+Java-Klassen mit Hibernate-Annotationen zu definieren.
+
+"Ich weiß nicht was Ihr meint", sagte der Bewerber.
+
+"Domänen-Objekte," sagte Bawan, "mit Hibernate-Annotationen."
+
+"Ich weiß immer noch nicht was Ihr meint", sagte der Bewerber.
+
+"Vielleicht kennt Ihr sie als JPA-Annotationen," erklärte Bawan.
+
+Der Bewerber schüttelte den Kopf.
+
+"EJB3?"  fragte Bawan.  "ORM?"
+
+Der Bewerber schüttelte den Kopf.
+
+Bawan untersuchte ein Blatt Papier. "Dann könnt Ihr mir womöglich
+erzählen, warum Hibernate, JPA, EJB3 und ORM alle unter "Fähigkeiten"
+ganz oben auf Eurer Bewerbung stehen."
+
+"Oh!" sagte der Bewerber.  "Mein Personalvermittler hieß mich, diese
+dort hineinzuschreiben.  Er meinte, sie würden sich in 
+BewerbungsgesprächenHe als sehr nützlich erweisen."
+
+"Ich verstehe," sagte Bawan.  "Nun, meine Zeit ist um. Als nächstes
+befragt Euch Meister [[Kaimu]], der solche Dinge weniger genau nimmt.
+Geht nach rechts, die Treppe hoch und sucht eine Tür mit seinem Namen."
+
+Der Bewerber dankte Bawan und verabschiedete sich.
+
+- - -
+
+Am nächsten Tag fragte Bawan Kaimu nach seiner Meinung über den 
+bewerber.
+
+"Ich habe ihn nie getroffen," sagte Kaimu.  "Offenbar ist er von Eurem 
+Büro nach rechts statt links gegangen und hat die Treppen bis zur 
+Turmspitze über der Klippe erklommen, und sich aus einer Wartungstür 
+geworfen, die wir normalerwise nutzen, um eine außen liegende 
+WiFi-Antenne zu erreichen.  Womöglich könnt Ihr mir erzählen, warum 
+mein Name auf der Tür stand, über einem Schild mit der Aufschrift:
+/Augen schließen und fest drücken/."
+
+"Oh!" sagte Bawan,  "Doe Ehrwürdige [[Jinyu]] bat mich, das Schild dort
+anzubringen.  Sie meinte, es würde sich in Bewerbungsgesprächen als
+sehr nützlich erweisen."
