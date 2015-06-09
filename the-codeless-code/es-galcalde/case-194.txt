@@ -1,0 +1,34 @@
+Number: 194
+Title: Perdido
+Lang: es
+Translator: galcalde
+
+La joven maestra [[Zjing]] había dejado que el monje superior Wangohan [[#183|eligiese su propio stack tecnológico]] para el proyecto que estaba construyendo.
+
+"Porque según lo que observé en el valle," ella explicó, "manejar desarrolladores es como arrear ganado: si quieres que el animal se mueva hacia adelante, el peor lugar para pararse es en su camino."
+
+Durante el primer mes Zjing estaba segura de la sabiduría de su  enfoque, porque [[Wangohan]] que desde que lo vio. Llegaba temprano y ansioso cada mañana, raramente abandonaba su cubículo excepto para dormir. Incluso fue observado charlando amablemente con el monje [[Landhwa]], a quien despreciaba.
+
+Pero hace pocas semanas el comportamiento de Wangohan cambió. Aún llegaba temprano y se quedaba hasta tarde, pero ahora no le hablaba a nadie. Durante las teleconferencias aparecía tan amarillento y pálido que Zjing tuvo que chequear el balance de color de su monitor.
+
+Cuando finalmente le preguntó al monje qué lo preocupaba, Wangohan respondía sólo que había encontrado algunas dificultades inesperadas, pero (le aseguró) que no tema: había Googleado esto, descargó aquello, envió mensajes a fulanos y recibió respuestas de menganos, y que pronto todo estaría fresco como una lechuga. Antes que Zjing pudiera preguntar detalles, o incluso unos sustantivos apropiados, Wangohan terminó la llamada.
+
+<em>Debo investigar,</em> pensó Zjing.
+
+Empezó con el código de Wangohan, y descubrió que todo sobre este era desconocido -- hasta el lenguaje de implementación era uno que el templo no usaba. Atravesando la sintaxis extraña, aprendió que la interfaz de usuario estaba escrita con un framework AJAX-JSON-XPath que iba más allá de las capacidades de los desarrolladores junior del Templo; el lenguaje del template hacía que Perl4 pareciera civilizado y pintoresco; y la capa de persistencia era una base de datos NoSQL tan experimental que el número de lanzamiento empezaba con dos ceros y acababa en las palabras 'alpha' y 'SNAPSHOT'.
+
+<em>He investigado,</em> pensó Zjing. <em>Ahora debo descansar.</em>
+
+- - -
+
+Al día siguiente, después de ser presionado, Wangohan confesó que no pudo conseguir que las tecnologías trabajaran como lo deseaba. Aparecían excepciones extrañas. A veces la aplicación se colgaba, a veces se le acababa la memoria. Al no tener a nadie en el templo a quien acudir, recurrió a foros de mensajes, listas de correos, parches sin probar, y adivinaciones salvajes.
+
+Zjing pidió disculpas, abandonó su pequeña cabaña, y pasó el resto de la mañana inclinándose en una valla pequeña observando una pastura, pensando.
+
+Finalmente apareció un ganado al otro lado de la valla, arrastrando sus pies en su dirección. Luego una docena más, y otra docena tras de ellos.
+
+"¡Granjero!" llamó al hombre caminando detrás de la manada. "¿Cómo llevas tanto ganado hacia el roble más dulce, sin perder a ninguno?"
+
+<em>"Wú,"</em> gritó el granjero. "No hago eso, porque los toros y las vacas no saben nada de seguir -- sólo de evitar. ¡Mira como se alejan mientras me acerco! A veces camino hacia su derecha para alejarlos del bosque, a veces camino a su izquierda para alejarlos de la zanja, y a veces camino atrás para evitar que se den vuelta. Siempre me muevo, pero calmado; viendo todo, y siempre siendo visto. De esa manera mantengo unido al ganado, aunque no tan poblado para que no se vuelvan ansiosos y tomen vuelo. Porque la primera regla de <em>arrear</em> es que debes tener una <em>manada</em>, y una manada es algo nebuloso, a medio camino entre el orden y el caos."
+
+Al oír estas palabras, Zjing fue iluminada.
