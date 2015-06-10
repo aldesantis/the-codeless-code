@@ -1,0 +1,45 @@
+Number: 74
+Title: Badewasser
+Credits: Einige Texturen in der Illustration stammen von <a href="http://fantasystock.deviantart.com">FantasyStock</a>.
+Illus.0.title: Er sagt, das blaue Auge war es absolut wert.
+Translator: andrebogus
+Lang: de
+
+Nach vielen Tagen [[#73|Schnee Schippens]] erlagen die Nonnen [[Yiwen]]
+und [[Hwidah]] der bitteren Kälte und wurden freigestellt, sich mit
+heißen Bädern zu kurieren.  Ein Mönch sollte die beiden mit verbundenen
+Augen dort aufsuchen.
+
+"Meister [[Yishi-Shing]] sagt, er ist tief in Euren Ozean aus 
+Log-Dateien getaucht und hat dort eine Perle entdeckt," sagte der 
+Mönch.  Er winkte mit einem Ausdruck in die etwaige Richtung der 
+beiden, bis ihm dieser aus der Hand genommen wurde.
+
+"Dies sind Stack-Traces von NullPointerExceptions." schniefte Yiwen.  
+"Alle während unseres lang laufenden Datenverarbeitungsjobs geworfen."
+Yíwen.  "All were thrown during our long-running data processing
+
+"Höchstwahrscheinlich sind die Daten das Problem," sagte Hwidah unter
+einem warmen Handtuch, das sie über ihr Gesicht geworfen hatte, um 
+ihre Stirnhöhlen freizukriegen. 
+
+"Bitte vielmals um Verzeihung," sagte Yiwen zu dem Mönch, "aber ich 
+kann nicht sagen, welche Sätze bearbeitet wurden.  Wo sind die 
+INFO-Meldungen, die wir loggen, um Kontext zu haben?"
+
+"Die werden nicht mehr ausgegeben," sprach der Mönch. "Die Flut 
+störender Warnungen und Fehlermeldungen ließ die Log-Partition zu 
+schnell wachsen. Etwas musste getan werden.  Also entschied 
+Yishi-Shing, dass DEBUG- und INFO-Meldungen unterdrückt werden, da 
+sie nicht kritisch sind." 
+
+Yiwen seufzte, warf den Ausdruck in die Arme des geblendeten Mönchs 
+und glitt wieder ins Wasser. "Yishi-Shing harkt den Meeresboden nur 
+nach Perlen ab. Die Austern wirft er ungeöffnet zurück, weil ihre 
+Schalen hässlich und seine Lager klein sind."
+
+"Er hat den wahren Zweck des Fischers vergessen," sagte Hwidah unter
+ihrem Handtuch.  "Nun sitzt er in einem Haufen Perlen, und hungert nach 
+Austernfleisch."
+
+{{*}} "Stealthy Wombat" bietet uns dies Gedicht:<p> Yishi-Shing verliert seine Perle im Saal,<br> lässt Yiwen und Hwidah lang sie suchen,<br> Und Ahab quert die See, findet doch nicht den Wal,<br> und so bleibet ihm nichts als zu fluchen.
