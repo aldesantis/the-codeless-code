@@ -1,0 +1,78 @@
+Number: 194
+Title: Abgekommen
+Translator: andrebogus
+Lang: de
+
+Die junge Meisterin [[Zjing]] hatte dem Mönch [[Wangohan]] erlaubt, 
+[[#183|seine eigene Wahl der Techologiern]] für sein neues Projekt zu
+treffen.
+
+"Denn wie ich im Tal beobachtet habe," erklärte sie, "Entwickler zu
+managen ist wie Vieh zu hüten: Wenn man will, dass das Tier vorwärts
+geht, ist der schlechteste Ort, an dem man sein kann, ihm im Weg."
+
+Einen Monat lang war sich Zjing der Weisheit ihres Ansatzes sicher,
+denn Wangohan war glücklicher, als sie ihn je gesehen hatte. Er kam 
+jeden Morgen früh und motiviert, und verließ seinen Arbeitsplatz fast
+nur noch um zu schlafen. Einige behaupten, ihn freundlich mit dem Mönch
+[[Landhwa]] plaudern gesehen zu haben, den er sonst verachtete.
+
+Doch in den letzten Wochen hatte sich Wangohan's Benehmen geändert. Er 
+kam immer noch früh und blieb bis spät, doch er sprach nun zu niemandem 
+mehr.  Bei Telekonferenzen wirkte er so farblos und blass, dass Zjing
+unwillkührlich die Farbeinstellung ihres Monitors prüfte.
+
+Als sie ihn schließlich fragte, was ihn bekümmerte, antwortete Wangohan
+nur, dass er auf einige unerwartete Schwierigkeiten gestoßen war, doch
+(so versichterte er) keine Panik, er hätte dies gegoogelt, das 
+heruntergeladen, dem gemailt und von jenem eine Antwort bekommen, und
+alles würde sich bald fügen.  Bevor Zjing nach Details fragen konnte,
+hatte Wangohan aufgelegt.
+
+/Ich muss das untersuchen,/ dachte Zjing.
+
+Sie begann mit Wangohan's code, und entdeckte, dass alles daran 
+unbekannt war -- sogar die Programmiersprache wurde sonst nirgends im
+Tempel genutzt.  Durch die fremde Syntax watend erfuhr sie, dass die
+Benutzerschnittstelle auf Basis eines AJAX-JSON-XPath-Frameworks gebaut
+war, viel zu komplex für die Fähigkeiten der Junior-Entwickler des 
+Tempels. Die Template-Sprache ließ Perl4 zivilisiert und gemütlich
+aussehen; und die Persistenzschicht war eine derart experimentelle 
+NoSQL-Datenbank, dass die Versionsnummern mit zwei Nullen anfing und
+mit "alpha" oder "SNAPSHOT" endeten.
+
+/Ich habe es untersucht,/ dachte Zjing. /Und jetzt gehe ich ins Bett./
+
+- - -
+
+Am nächsten Tag gestand Wangohan unter erheblichem Druck, dass er die
+verschiedenen Technologien nicht wie gewünscht zum Laufen bringen 
+konnte. Seltsame Exceptions tauchten auf.  Manchmal hing die 
+Applikation, manchmal lief der Speicher voll.  Weil er niemanden im
+Tempel fragen konnte, hatte sich Wangohan an Foren, Mailinglisten,
+ungetestete Patches und wilde Vermutungen gehalten.
+
+Zjing entschuldigte sich, verließ ihre kleine Hütte und verbrachte den 
+Rest des Morgens damit, in Gedanken an einem Zaun zu lehnen, der an 
+eine Weide grenzte.
+
+Schließlich erschienen auf der anderen Seite des Zauns Rinder, die in
+ihre Richtung schlurften. Dann noch ein Dutzend, und ein weiteres 
+dahinter.
+
+"Hirte!" rief sie zu dem Mann, der hinter der Herde lief. "Wie schaffst
+Du es, so viele Rinder zum süßesten Klee zu führen, ohne eins zu 
+verlieren?"
+
+/"Wú,"/ rief der Hirte.  "Das mache ich gar nicht, denn Ochsen und Kühe
+wissen nichts vom Folgen -- nur vom Meiden.  Seht, wie sie wegstieben,
+wenn ich mich nähere!  Manchmal gehe ich rechts von ihnen, um sie vom
+Wald fern zu halten, dann wieder auf der linken Seite, um sie vom 
+Graben fern zu halten, und manchmal gehe ich hinter ihnen, damit sie
+nicht umkehren. Ich bin immer in Bewegung und doch ruhig, und immer
+sichtbar.  So halte ich meine Rinder zusammen, doch nicht so dicht, 
+dass sie panisch werden und und flüchten.  Denn die erste Aufgabe des
+/Hirtens/ ist, eine /Herde/ zu erschaffen. und eine Herde ist eine
+seltsame Sache, etwa zwischen Ordnung und Chaos."
+
+Als sie dies hörte, war Zjing erleuchtet.
