@@ -3,6 +3,7 @@ Title: El Círculo Vicioso
 Lang: es
 Translator: galcalde
 Tagline: En el cual resolvemos una paradoja.
+Illus.0.title: "Los Ángeles de Charlie: El Inicio"
 
 Tres hermanas de una familia pobre pidieron al abad del [[Laughing Monkey Clan|Clan del Mono que Ríe]] la admisión al templo como desarrolladoras.
 
