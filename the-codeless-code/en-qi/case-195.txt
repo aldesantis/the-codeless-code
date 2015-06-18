@@ -2,7 +2,7 @@ Date: 2015-06-15
 Number: 195
 Title: The Magician's Code
 Names: Elephant's Footprint Clan, Bawan
-Topics: Java, transactions, annotations, internals, AOP, third-party code, open source
+Topics: Java, transactions, annotations, internals, AOP, third-party code, open source, black boxes, encapsulation
 Geekiness: 3
 Tagline: In which bunnies make a brief appearance.
 Illus.0.src: Rabbit.jpg
