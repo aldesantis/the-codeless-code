@@ -1,0 +1,21 @@
+Number: 195
+Title: El Código del Mago
+Lang: es
+Translator: galcalde
+Tagline: En el cual los conejos hacen una breve aparición.
+
+Un monje del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]] halló que su nuevo método de servicio fallaba en actualizar la base de datos, aunque no tiraba excepciones. Él buscó la ayuda del maestro Java [[Bawan]].
+
+Después de un breve investigación, Bawan declaró, "El objeto proxy autogenerado de tu servicio no está commiteando la transacción porque la anotación <em>Transactional</em> fue colocada en un método helper privado, en vez de en el método público de la interfaz que lo llama."
+
+"No entiendo," dijo el monje. "¿Qué es ese 'objeto proxy' del que hablas?"
+
+Bawan miró al monje sospechosamente. "Descríbeme como se hacen los commits y rollbacks en la plataforma orientada a aspectos."
+
+El monje se encogió. "Se hacen automáticamente."
+
+Bawan golpeó al monje en la cabeza. "Si te pregunto cómo el mago del Emperador hace desaparecer conejos, ¿Responderás: 'por arte de magia'? Piensa antes de hablar, o te mostraré como hago desaparecer monjes."
+
+El monje frotó su cabeza. "¿No deberíamos esperar que una plataforma de terceros nos libere de la necesidad de conocer su interior? ¿Qué hay del principio de la caja negra?"
+
+Bawan llegó hacia atrás de la oreja izquierda del monje, sacó una cuchara de madera de la nada, y golpeó al monje con esta. "Cuando un conejo se coloca dentro de la caja negra y desaparece en el momento justo, es el privilegio de la audiencia de exclamar <em>ooh</em> y <em>aah</em> en admiración. Pero los que se paran en el escenario deberían saber como se hace el truco. La pérdida de la inocencia es el precio del aplauso."
