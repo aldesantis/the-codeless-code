@@ -1,0 +1,98 @@
+Number: 196
+Title: Honoraires
+Lang: fr
+Translator: abelards
+Tagline: Dans lequel nous voyons les choses sous un autre angle.
+
+Maître [[Suku]] et ses trois apprentis avaient passé plusieurs
+jours étouffants à traverser un marais herbeux, cherchant un
+temple qui devait se trouver en son centre.
+L'épaisseur de l'air leur avait depuis longtemps coupé tout
+désir de faire la conversation. Pendant des heures, les seuls
+sons qu'ils entendaient étaient le bourdonnement des microdrones
+et du groupe qui pataugeait.
+
+Ils finirent par arriver à une structure bancale sur ses pilotis,
+hébergeant seulement une abbesse et une douzaine de novices.
+
+"Le [[Drowning Temple|Temple Qui Se Noie]] est misérable
+en bien des aspects", dit l'abbesse. "Nos investissements
+ont fini sous l'eau, et la note moyenne de nos novices est
+bien en dessous du niveau C /(dix sur vingt)/.
+Mais dites-nous le montant de vos honoraires pour une présentation
+et nous verrons ce que nous pouvons faire."
+
+"Nous n'échangeons que de la connaissance," dit Suku.
+"Que votre Temple fasse une leçon le premier jour,
+et le mien offrira une leçon le lendemain."
+
+"Cela nous agrée," dit l'abbesse.
+
+"Alors faites-nous de la place pour dormir par terre," dit Suku.
+"Le matin venu, nous apprendrons l'un de l'autre."
+
+Quand les préparations furent faites, et la dernière des lanternes
+éteinte pour la nuit, l'aîné des apprentis de Suku murmura :
+"Maître, que peuvent nous apprendre ces gens ?"
+
+Suku fit le signe &#x2205; sur le plancher moisissant,
+s'allongea sur son tapis, et ferma les yeux.
+
+- - -
+
+Le premier jour, Suku et ses apprentis s'assirent patiemment
+tandis que les novices du Temple Qui Se Noie parlaient de
+leurs pratiques et de leurs observations.
+Comme il s'y attendait, l'apprenti plus âgé
+n'entendit rien qu'il ne savait déjà.
+De fait, il trouvait même certaines des pratiques du Temple
+Qui Se Noie si absurdes qu'il dût masquer ses éclats de rire
+en toussant violemment, et en blâmant ses interruptions sonores
+sur une allergie au pollen d'un genre unique.
+
+Le second jour, l'aîné des apprentis de Suku parla pendant
+deux heures pleines des pratiques bien supérieures de son propre
+temple. Cependant il se trouva assiégé de tant de bravades du
+Temple Qui Se Noie qu'il faillit s'en aller de frustration.
+
+Pour ne rien arranger, quelques-uns des novices du Temple Qui Se Noie
+avaient apparemment contracté sa rare allergie au pollen.
+
+- - -
+
+Cette nuit-là, Suku demanda calmement au plus âgé
+de ses apprentis ce qu'il avait appris des novices.
+
+Il fit le signe de l'ensemble vide &#x2205; sur le plancher moisissant,
+s'allongea sur son tapis, et ferma les yeux.
+
+Suku le frappa sur le nez et répéta sa question aux autres.
+
+Le deuxième apprenti répondit,
+"Notre aîné sait châtier, mais il ne sait pas convaincre."
+
+Le troisième apprenti répondit,
+"Notre aîné souhaite que les autres acceptent,
+mais n'a pas su leur faire rejeter d'abord."
+
+"Excellent," dit Suku.
+"Certains d'entre nous ont appris, alors nos honoraires ont été payés."
+
+Elle attrapa l'index de son plus vieil apprenti, lui disant :
+"Tu parles à tes pairs comme s'ils étaient des registres vides
+qui attendaient d'être remplis par la valeur de ta sagesse.
+Notre monde est peut-être numérique, mais il est bâti
+sur un matériel de chair, qui est déformable et irrationnel et
+facile à surchauffer.
+On ne peut pas changer un cerveau de /zéro/ à /un/
+en louant les mérites du /un/. Il faut commencer par le /zéro/,
+exalter ses vertus, explorer ses failles, exhorter ses auditeurs
+à voir au-delà. Pour comparer le /zéro/ et le /un/, l'auditeur
+doit avoir les deux à l'esprit.
+C'est seulement quand ils auront librement choisi le /un/
+qu'ils abandonneront le /zéro/."
+
+Tenant toujours l'index de l'aîné de ses apprentis,
+Suku dessina lentement un /zéro/ sur le plancher,
+et un /un/ en travers de son centre.
+[[#85|Reconsidérant la signification de ce symbole,]] l'aîné fut corrigé.
