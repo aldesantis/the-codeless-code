@@ -1,0 +1,92 @@
+Number: 194
+Lang: fr
+Translator: abelards
+Title: Errances
+
+La jeune Maître [[Zjing]] avait laissé le moine expérimenté
+[[Wangohan]] [[#183|choisir ses propres technologies]] pour
+le projet qu'il faisait.
+
+"De ce que j'ai pu observer dans la vallée," expliqua-t-elle,
+"gérer des développeurs est comme garder du bétail :
+si vous voulez faire avancer l'animal, le pire endroit
+où se tenir c'est d'être dans son chemin."
+
+Tout au long de son premier mois, Zjing était confiante
+dans la sagesse de son approche, car Wangohan était plus
+heureux que jamais. Il arrivait tôt et plein d'entrain
+chaque matin, quittant rarement son poste sauf pour dormir.
+On l'avait même vu discuter amicalement avec le moine
+[[Landhwa]], qu'il méprisait pourtant de longue date.
+
+Mais durant les dernières semaines, le comportement de
+Wangohan avait changé. Il arrivait toujours tôt, partait
+toujours tard, mais maintenant il ne parlait plus à personne.
+Durant les téléconférences, il semblait si pâle et jaunâtre
+que Zjing avait dû vérifier l'équilibrage des couleurs sur son moniteur.
+
+Quand elle finit par demander au moine ce qui le troublait,
+Wangohan répondit seulement qu'il avait rencontré des difficultés
+inattendues, mais (il lui assurait) d'être sans crainte :
+il avait Googlé ceci, téléchargé cela, envoyé des messages à ceux-ci
+et reçu des réponses de ceux-là, et tout serait corrigé à temps.
+Avant que Zjing ne put demander de détails, ou même quelques
+vrais noms, Wangohan avait mis fin à l'appel.
+
+/Je dois investiguer,/ pensa Zjing.
+
+
+
+She began with Wangohan's code, and discovered that
+everything about it was unfamiliar -- even the
+implementation language was one which the Temple did not
+use.  Wading through the alien syntax, she learned that the
+user interface was coded with an AJAX-JSON-XPath framework
+well beyond the capabilities of the Temple's junior
+developers; the templating language made Perl4 look
+civilized and quaint; and the persistence layer was a
+NoSQL database so experimental that the release number
+began with two zeroes and ended in the words 'alpha' and
+'SNAPSHOT'.
+
+/J'ai investigué,/ pensa Zjing. /Et maintenant je dois me coucher./
+
+- - -
+
+Le lendemain, après d'insistantes questions, Wangohan avoua
+qu'il n'arrivait pas à faire fonctionner les différentes
+technologies comme on le désirait.
+D'étranges exceptions apparaissaient.
+Parfois l'application se bloquait, parfois elle n'avait plus de mémoire.
+Sans personne au Temple vers qui se tourner, il avait eu recours
+à des forums, listes de diffusion, correctifs non testés,
+et d'hypothèses téméraires.
+
+Zjing s'excusa, quitta sa petite hutte, et passa le reste
+de la matinée appuyée sur une basse clôture qui surplombait
+un pâturage, pensive.
+
+Au bout d'un long moment, quelques têtes de bétail apparurent
+de l'autre côté de la clôture, avançant dans sa direction.
+Puis une autre douzaine, et encore une autre derrière elle.
+
+"Fermier !" cria-t-elle à l'homme qui marchait derrière le troupeau.
+"Comment peux-tu mener tant de bétail vers les herbes les plus
+vertes, sans en perdre un seul ?"
+
+/"Wú,"/ cria le fermier.
+"Ce n'est pas ce que je fais, car les taureaux et les vaches
+ne savent pas suivre -- seulement éviter. Regardez comme ils
+s'éloignent quand j'approche !
+Parfois je marche à leur droite pour ne pas les perdre dans
+la forêt, parfois je marche à leur gauche pour ne pas les perdre
+dans le fossé, et parfois je marche derrière pour éviter qu'ils
+ne reviennent sur leur pas.
+Je suis toujours en mouvement, mais calmement : pour tout voir,
+et pour toujours être vu.
+Ainsi je garde mon bétail ensemble, mais pas assez serrés pour
+ne pas qu'ils ne deviennent anxieux et ne fuient.
+Car la première règle du gardien de troupeaux est d'avoir un troupeau,
+et c'est une chose nébuleuse, à mi-chemin entre ordre et chaos."
+
+En entendant ces mots, Zjing reçut l'illumination.
