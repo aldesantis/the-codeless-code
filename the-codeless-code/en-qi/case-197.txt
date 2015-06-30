@@ -52,7 +52,7 @@ a RuntimeException."
 
 "Not when the webservice is an /internal monitor/, and the
 exception came from pinging a non-critical vendor site
-that is known to be unreliable," said Banzen.
+known to be unreliable," said Banzen.
 "<i>SERVICE</i>_ERROR is our custom then, Young Master --
 for that would not have woken Yishi-Shing's
 entire clan while they were sleeping off their three-day upgrade
