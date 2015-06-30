@@ -3,8 +3,8 @@ Number: 197
 Title: Forgiveness
 Names: Zjing, Banzen, Hwídah, Yishi-Shing, Clan of Iron Bones
 Topics: error handling, requirements, trust
-Geekiness: 3
-Tagline: In which there is a rude awakening
+Geekiness: 2
+Tagline: In which there is a rude awakening.
 
 The most sensitive implementation tasks were often trusted
 to masters only, and one such task had just been assigned to young
@@ -49,12 +49,12 @@ a RuntimeException."
 
 "That is our custom," said Zjing.
 
-"Not when the webservice is an internal monitor, and the
+"Not when the webservice is an /internal monitor/, and the
 exception came from pinging a non-critical vendor site
 that is known to be unreliable," said Banzen.
-"<i>SERVICE</i>_ERROR would have been more appropriate,
-since it would not have woken Yishi-Shing's entire clan
-while they were sleeping off their three-day upgrade
+"<i>SERVICE</i>_ERROR is our custom then, Young Master --
+for that would not have woken Yishi-Shing's
+entire clan while they were sleeping off their three-day upgrade
 marathon.  The clan was most interested in administering
 your correction."
 
