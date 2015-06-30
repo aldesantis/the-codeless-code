@@ -5,6 +5,7 @@ Names: Zjing, Banzen, Hwídah, Yishi-Shing, Clan of Iron Bones
 Topics: error handling, requirements, trust
 Geekiness: 2
 Tagline: In which there is a rude awakening.
+Credits: Many thanks to Alex Plumley and Mike Warren for their helpful comments!
 
 The most sensitive implementation tasks were often trusted
 to masters only, and one such task had just been assigned to young
