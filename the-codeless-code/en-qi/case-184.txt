@@ -4,7 +4,7 @@ Title: Life
 Names: Jinyu
 Topics: life, simulation, sparse arrays, efficiency
 Geekiness: 2
-Tagline: In which we get the big picture
+Tagline: In which we get the big picture.
 Illus.0.par: 1
 Illus.0.src: Ant.jpg
 Illus.0.title: "And all the little ants are marching / Red and black antennas waving / They all do it the same / They all do it the same way..."
