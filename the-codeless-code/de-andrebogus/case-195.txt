@@ -1,6 +1,8 @@
 Number: 195
 Title: Codex Magus
 Tagline: Worin Hasen kurz erscheinen.
+Translator: andrebogus
+Lang: de
 
 Ein Mönch des [[Elephant's Footprint Clan|Elefanten-Fußabdruck-Ordens]]
 entdeckte, dass sein neuer Prozess die Datenbank nicht wie gewünscht
