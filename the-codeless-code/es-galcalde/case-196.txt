@@ -1,0 +1,45 @@
+Number: 196
+Title: Tarifa
+Lang: es
+Translator: galcalde
+Tagline: En el cual miramos las cosas desde un ángulo distinto.
+
+La maestra [[Suku]] y sus tres aprendices habían pasado varios días sofocantes atravesando un pantano cubierto de maleza, buscando un templo cercano a su centro. La espesura del aire ya había suprimido cualquier deseo de conversación. Durante muchas horas los únicos sonidos eran el zumbido de microdrones y los pasos chapoteantes del grupo.
+
+Finalmente llegaron a una estructura desvencijada en zancos, habitada sólo por una abadesa y una docena de novatos.
+
+"El [[Drowning Temple|Templo que se ahoga]] es pobre en cada aspecto," dijo la abadesa. "Nuestras inversiones están actualmente bajo el agua, y el grado promedio de nuestros novatos está muy debajo del nivel de C. Pero diganos su tarifa por hablar y veremos que haremos."
+
+"Sólo intercambiamos conocimiento," dijo Suku. "Haga la lectura de su templo en el primer día, y mi templo hará su lectura al día siguiente."
+
+"Esto nos complace," dijo la abadesa.
+
+"Luego háganos espacio para que durmamos en el piso," dijo Suku. "A la mañana aprenderemos de cada uno."
+
+Cuando se hicieron las preparaciones, y la última linterna fue apagada por la noche, el aprendiz más viejo de Suku susurró: "Maestra, ¿Qué puede esa gente enseñarnos?"
+
+Suku hizo una señal &#x2205; en las tárimas mohosas, se tiró en su colchoneta, y cerró los ojos.
+
+- - -
+
+En el primer día, Suku y sus aprendices se sentaron pacientemente mientras los novatos del Templo que se ahoga hablaron de sus haceres y observaciones. Como esperaba, el aprendiz más viejo de Suku no oyó nada que no haya sabido. Sin dudas, halló algunas prácticas de codificación del Templo que se ahoga tan completamente absurdas que tuvo que cubrir su risa tosiendo violentamente y culpando sus estruendos a una alergia rara al polen.
+
+En el segundo día, el aprendiz más viejo de Suku habló dos horas sobre las prácticas de codificación superiores de su templo. Sin embargo se halló tan acosado por los desafíos del Templo que se ahoga que se fue frustrado. Para empeorar las cosas, algunos novatos del Templo que se ahoga aparentemente contrajeron su alergia única al polen.
+
+- - -
+
+Aquella noche, Suku preguntó pacientemente al aprendiz más viejo qué aprendió de los novatos.
+
+El aprendiz más viejo hizo el signo &#x2205; del conjunto vacío en las tárimas mohosas, se tiró en su colchoneta, y cerró los ojos.
+
+Suku lo golpeó en su nariz y repitió la pregunta a los demás.
+
+El segundo aprendiz respondió, "Él sabe como castigar, pero no sabe como convencer."
+
+El tercer aprendiz respondió, "Él desea hacer que los otros acepten, pero falló en hacer primero que los otros rechacen." 
+
+"Excelente," dijo Suku. "Algunos hemos aprendido, así que nuestra tarifa fue pagada."
+
+Ella agarró el dedo índice del aprendiz más viejo, diciéndole: "Le hablas a tus pares como si fueran registros vacíos esperando ser llenados con los bits de tu sabiduría. Nuestro mundo podrá ser digital y seco, pero está construído encima de wetware, el cual es blando, irracional y propenso a sobrecalentarse. No puedes cambiar un cerebro de <em>cero</em> a <em>uno</em> símplemente alabando el <em>uno</em>. Debes empezar en el <em>cero</em>, elogiar sus virtudes, explorar sus fallas, exhortar a tus oyentes a mirar más allá. Para pesar el <em>cero</em> contra el <em>uno</em>, el oyende debe tener a ambos en cuenta. Sólo cuando hayan elegido libremente el <em>uno</em> abandonarán el <em>cero</em>."
+
+Aún manteniendo el dedo índice del aprendiz más viejo, Suku lentamente dibujó un cero en las tárimas y un uno a través de su centro. [[#85|Considerando el nuevo símbolo,]] el aprendiz más viejo fue corregido.

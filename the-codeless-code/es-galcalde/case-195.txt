@@ -3,6 +3,7 @@ Title: El Código del Mago
 Lang: es
 Translator: galcalde
 Tagline: En el cual los conejos hacen una breve aparición.
+Illus.0.title: Yo puse dos conejos en la caja, y salieron ocho. Estoy seguro de que eso no fue mencionado en la documentación.
 
 Un monje del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]] halló que su nuevo método de servicio fallaba en actualizar la base de datos, aunque no tiraba excepciones. Él buscó la ayuda del maestro Java [[Bawan]].
 
