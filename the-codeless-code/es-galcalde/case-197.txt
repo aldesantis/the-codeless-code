@@ -1,0 +1,33 @@
+Number: 197
+Title: Perdón
+Lang: es
+Translator: galcalde
+Tagline: En el cual hay un despertar grosero
+
+Las tareas de implementación más sensibles a menudo eran confiadas sólo a los maestros, y una de ellas justo había sido asignada a la joven maestra [[Zjing]].
+
+"Es un endpoint crítico de un webservice, el cual debe estar listo mañana de mañana," explicó el maestro [[Banzen]]. "Te envié mis notas sobre como debería comportarse."
+
+Zjing trabajó en su choza pequeña toda la noche. Pero mientras se acercaba el amanecer se dio cuenta de algo equivocado: si el backend tiraba una excepción sin verificar, Banzen quería que la atrapara y devolviera un estado de ERROR_DE_SERVICIO.
+
+"O su conocimiento sobre nuestros protocolos está tristemente faltante, o sus notas fueron hechas de apurón," se dijo Zjing a sí misma.  "Porque he implementado una docena de servicios así, y devolvemos ERROR_DE_<i>SISTEMA</i> en este caso."
+
+Ella empezó a escribir un mail para los maestros del templo, pidiendo permiso para hacer el cambio, cuando se detuvo:
+
+"Pasarán horas antes de que se vea. ¿Estoy tan llena de desconfianza que pondré en peligro nuestra planificación, sentándome en mis manos hasta que mis mayores me digan lo que ya sé? ¿Qué clase de maestro se comporta así? ¡Y piensa en el deshonor que traería al pobre maestro Banzen, el hacer conocido su error! Que cierto el dicho: cuando el tiempo es corto, <em>es</em> más fácil pedir perdón que permiso."
+
+- - -
+
+A la medianoche siguiente, todo el [[Clan of Iron Bones|Clan de los Huesos de Hierro]] fue despertado por sus celulares diciendo APAGÓN CRÍTICO. El maestro host [[Yishi-Shing]] despertó a la monja [[Hwídah]] para ayudar a investigar.
+
+"He trazado el problema al nuevo código de Zjing," explicó Hwídah con la voz empañada en la llamada de conferencia. "Su webservice devolvía ERROR_DE_SISTEMA cuando agarraba un RuntimeException."
+
+"Es nuestra costumbre," dijo Zjing.
+
+"No cuando el webservice es un monitor interno, y la excepción viene de pingear un sitio comerciante no crítico que se conoce que es de poca confianza," dijo Banzen. "ERROR_DE_<i>SERVICIO</i> hubiera sido más apropiado, puesto que no habría despertado al clan entero de Yishi-Shing mientras dormían después de su maratón de actualización de tres días. El clan estaba muy interesado en administrar tu corrección."
+
+"Supongo que es fortuito que ellos no sepan donde vivo," dijo Zjing.
+
+En aquel momento hubo un golpe furioso a la puerta de Zjing.
+
+"Ah, ¿deseabas que mantuviera el secreto?" preguntó Banzen. "<em>Yo</em> te pido perdón."
