@@ -3,6 +3,7 @@ Title: Perdón
 Lang: es
 Translator: galcalde
 Tagline: En el cual hay un despertar grosero
+Illus.0.title: Hola chicos. ¿Qué tal?
 
 Las tareas de implementación más sensibles a menudo eran confiadas sólo a los maestros, y una de ellas justo había sido asignada a la joven maestra [[Zjing]].
 
