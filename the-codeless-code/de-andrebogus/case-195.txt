@@ -1,0 +1,39 @@
+Number: 195
+Title: Codex Magus
+Tagline: Worin Hasen kurz erscheinen.
+Translator: andrebogus
+Lang: de
+
+Ein Mönch des [[Elephant's Footprint Clan|Elefanten-Fußabdruck-Ordens]]
+entdeckte, dass sein neuer Prozess die Datenbank nicht wie gewünscht
+aktualisierte, obwohl keine Exceptions geworfen wurden. Er ersuchte
+Meister [[Bawan]] um Hilfe.
+
+Nach kurzer Untersuchung erklärte Bawan, "Dein auto-generiertes 
+Proxy-Objekt comiitted die Transaktion nicht in die Datenbank, weil die
+/Transaction/-Annotation an einer privaten Hilfsmethode anstatt der
+offiziellen Schnitstellenmethode steht, die sie aufruft."
+
+"Ich verstehe nicht." sagte der Mönch. "Was ist dieses 'Proxy Objekt'
+von dem Ihr sprecht?"
+
+Bawan sah den Mönch prüfend an.
+"Sage mir, wie das AOP Framework die Commits und Rollbacks durchführt."
+
+Der Mönch zuckte mit den Schultern. "Automatisch."
+
+Bawan schlug dem Mönch auf den Kopf. "Wenn ich Dich frage, wie der 
+Zauberer des Imperators einen Hasen verschwinden lässt, antwortest Du 
+dann: 'Durch Magie'? Denke nach, bevor Du sprichst, sonst zeige ich 
+Dir, wie man einen Mönch verschwinden lässt."
+
+Der Mönch rieb seinen Schädel.  "Sollten wir nicht erwarten, dass uns
+Frameworks vom Zwang, ihr Inneres zu kennen, befreien?  Was ist mit dem
+Black-Box-Prinzip?"
+
+Bawan griff dem Mönch hinter das linke Ohr, holte einen Holzlöffel
+scheinbar aus dem Nichts, und zog diesen dem Mönch über den Schädel.
+"Wenn der Hase in der Black Box verschwindet, ist es das Privileg der
+Zuschauer, verwundert /aah/ und /ooh/ zu rufen.  Wir aber, die auf der
+Bühne stehen, sollten wissen, wie der Trick funktioniert.  Die 
+verlorene Unschuld ist der Preis des Applauses."
