@@ -1,0 +1,46 @@
+Number: 169
+Title: Melhores práticas
+Lang: pt
+Translator: lucasrodcosta
+Illus.0.title: Deixarei este livro de "Padrões e Práticas" aqui, entre "A Enciclopédia de Acessórios de Encanamento do Encanador" e "1001 Gengivites (Ilustradas a Cor)".
+
+O velho escriba [[Qi]] foi convocado para uma reunião com dois
+abades superiores.
+
+O primeiro abade disse: "Os desenvolvedores estão ignorando
+nossos diversos documentos de Padrões e Práticas. Colocamos
+os arquivos em um projeto num repositório; ninguém os baixou.
+Tornamos os links para os PDF disponíveis numa página web;
+ninguém a visitou. Copiamos meticulosamente os conteúdos numa
+wiki; ninguém navegou por ela."
+
+O segundo abade disse: "Nós estamos considerando agora
+/imprimir/ todo o conteúdo e encaderná-lo como um livro.
+Nós poderíamos colocar uma cópia na mesa de cada um dos
+desenvolvedores. Qual a sua opinião?"
+
+"Encaderne os livros em papel branco", disse o escriba.
+"Quando um ano tiver se passado, a espessa poeira não
+estará tão visível."
+
+"Nós queremos que os desenvolvedores /usem/ os livros",
+disse o primeiro abade.
+
+"Ah!", respondeu o escriba. "Então encaderne-os em papel
+vermelho para que, quando a noite esfriar, eles possam
+queimar mais alegremente."
+
+"Nós queremos que os desenvolvedores /leiam/ eles", disse
+o segundo abade.
+
+"Então deixe-me saber como você fará isso!", disse o escriba.
+"Pois eu nunca encontrei uma forma de fazer alguém ler algo
+contra sua própria vontade."
+
+"Porque você está se fazendo de tolo ao invés de ajudar?!",
+gritou o primeiro abade.
+
+/"Wú"/, respondeu o escriba. "Você trouxe cães selvagens
+que arruinaram três sofás e, agora, você está me perguntando
+qual deve ser a cor do quarto sofá. Eu continuo dizendo a
+você: não é a mobília que deve ser mudada."
