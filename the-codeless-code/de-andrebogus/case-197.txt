@@ -1,0 +1,65 @@
+Number: 197
+Title: Vergebung
+Tagline: Worin ein unsanftes Erwachen liegt.
+Credits: Vielen Dank an Alex Plumley und Mike Warren für ihre hilfreichen Kommentare!
+Illus.0.title: Hi Leute! Was gibt's?
+Translator: andrebogus
+Lang: de
+
+Die empfindlichsten Implementierungsaufgaben wurden oft nur Meistern
+anvertraut, und eine solche ward soeben der jungen Meisterin [[Zjing]]
+zuteil.
+
+"Es ist ein kritischer Webservice-Endpunkt, der morgen früh fertig sein
+muss," erklärte Meister [[Banzen]]. "Ich habe Euch meine Notizen über
+das gewollte Verhalten gemailt."
+
+Zjing ackerte die ganze Nacht in ihrer kleinen Hütte. Doch als der
+Morgen anbrach, bemerkte sie, das etwas verkehrt war: Wenn das Backend
+eine ungecheckte Exception warf, forderte Banzen, diese zu fangen, und
+einen SERVICE_ERROR-Status zurückzugeben.
+
+"Entweder ist sein Wissen unserer Protokolle mangelhaft, oder seine
+Notizen in zu großer Hast verfasst," sagte Zjing zu sich selbst. "Denn
+ich habe schon ein Dutzend solcher Services implementiert, und wir 
+geben in solchen Fällen <i>SYSTEM</i>_ERROR."
+
+Sie wollte eben eine Mail an die Meister des Tempels schicken, um
+Erlaubnis für die Änderung einzuholen, als sie sich selbst stoppte:
+
+"Es wird Stunden dauern, bis dies gesehen wird.  Bin ich so voll 
+Selbstzweifel, dass ich den Zeitplan gefährde, und herumsitze, bis
+meine Älteren mir sagen, was ich ohnehin schon weiß?  Was für ein
+Meister verhält sich so?  Und man denke an die Schmach für den armen
+Banzen, seinen Fehler so offengelegt zu sehen!  Wie wahr ist der 
+Spruch: Ist die Zeit kurz, ist es leichter, um Vergebung, als um 
+Erlaubnis zu bitten."
+
+- - -
+
+Mitternachts darauf erwachte der gesamte 
+[[Orden der Eisernen Knochen|Clan of Iron Bones]] vom Piepen ihrer
+Handies, die CRITICAL OUTAGE meldeten. Host-Meister [[Yishi-Shing]]
+weckte die Nonne [[Hwidah]], ihm bei der Untersuchung zu helfen.
+
+"Ich habe das Problem zu Zjings neuem Code zurückverfolgt," erklärte
+eine schläfrige Hwidah per Konferenzschaltung.  "Ihr Webservice gibt
+SYSTEM_ERROR zurpck, wenn eine RuntimeException geworfen wird."
+
+"So ist unser Brauch," sagte Zjing.
+
+"Nicht, wenn der Webservice ein /interner Monitor/ ist, und die 
+Exception vom Ping einer bekanntermaßen unzuverlässigen nicht 
+kritischen Handler-Seite herrührt," sagte Banzen.
+"<i>SERVICE</i>_ERROR ist hier unser Brauch, junge Meisterin...
+denn dieser hätte nicht Yishi-Shings gesamten Orden geweckt, während
+sie ihren Drei-Tages-Update-Marathon ausschliefen.  Der Orden war sehr
+daran interessiert, Eure Bestrafung selbst vorzunehmen."
+
+"Ich schätze, es ist ein Glück, dass sie nicht wissen, wo ich lebe,"
+sagte Zjing.
+
+In diesem Moment pochte es heftig an Zjings Tür.
+
+"Ah, wolltet Ihr dies geheim halten?" fragte Banzen. "Ich bitte 
+/vielmals/ um Vergebung."
