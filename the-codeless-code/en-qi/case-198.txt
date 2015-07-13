@@ -6,7 +6,7 @@ Topics: learning, memorization, forgetting, change
 Geekiness: 0
 Tagline: In which we relieve ourselves of a burden.
 Illus.0.src: occupied.jpg
-Illus.0.title:
+Illus.0.title: HEY! This is the WOMEN'S shrub!!
 
 In the forecourt of the temple, a monk asked master
 [[Kaimu]]: How can I keep pace with all there is to know,
