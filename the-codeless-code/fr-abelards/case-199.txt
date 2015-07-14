@@ -1,0 +1,58 @@
+Title: Complice malgré lui
+Number: 199
+Lang: fr
+Translator: abelards
+Tagline: Dans lequel on préfèrerait ne pas faire l'effort.
+
+Maître [[Banzen]] fut approché par son apprenti [[Djishin]], qui lui dit :
+"Le Temple a besoin d'une bibliothèque REST qui gère le JSON.
+J'ai identifié plusieurs alternatives disponibles,
+mais je ne sais comment choisir parmi elles."
+
+Banzen sembla décontenancé.
+"N'as-tu pas écrit une telle bibliothèque toi-même, pour la mettre
+à disposition du [[Spider Clan|Clan de l'Araignée]] ?"
+
+"Si," dit Djishin, "mais désormais c'est un boulet à mon pied.
+Chaque semaine le Clan de l'Araignée demande une nouvelle fonctionnalité
+ou entre un nouveau rapport de bug, et l'exige en priorité absolue.
+Et quand /quoi que ce soit/ va mal dans nos Webservices je suis
+convoqué pour enquêter afin de savoir si c'est mon code qui est fautif.
+C'est la même histoire pour toutes les autres bibliothèques
+que j'ai fournies à notre Temple.
+Puis-je vivre dix mille ans et ne jamais en écrire de nouvelles !"
+
+Cet après-midi là Banzen alla trouver l'abbesse Jinyu et lui dit :
+
+"J'ai gaspillé des années à freiner les ardeurs de Djishin
+dans l'écriture de ses propres frameworks au lieu de s'en remettre
+à d'autres plus connus.{{*}}
+À maintes reprises je lui ai montré comment ses solutions étaient
+trop ambitieuses, trop peu malléables, ou trop peu sécurisées.
+
+Mais au final, ce qui l'a influencé n'a pas été mes enseignements,
+mais la douleur de la responsabilité !
+L'aurais-je laissé publier son code pitoyable au Temple
+au tout début de son apprentissage, et je me serais économisé
+toute une vie de problèmes !"
+
+"Le développeur prolifique peut sembler apprécier le travail,
+mais ce n'est pas toujours le cas," dit Jinyu.
+"Chacun a des tâches qu'il apprécie et d'autres qu'il abhorre.
+La faute de Djishin est qu'il a été trop paresseux pour chercher
+des solutions plus loin que le bout de ses doigts.
+/Votre/ faute est que /vous/ n'avez jamais regardé plus loin
+que son Assiduité Apparente pour découvrir la Paresse Intérieure
+de laquelle elle provenait.
+Par bonheur, le précédent maître de Djishin m'avait prévenu
+de cette faiblesse chez ce moine avant que je ne l'accepte ici."
+
+La mâchoire de Banzen s'en décrocha.
+"Pourquoi ne l'avez-vous pas mentionné il y a des années ?"
+
+Jinyu frappa de sa canne le crâne de Banzen.
+"Pourquoi n'avez-vous jamais monté les marches pour venir à mon bureau demander conseil ?
+Ne venez pas vous plaindre de Djishin -- il a /très bien/ appris de votre exemple."
+
+
+{{*}} Comme on peut le voir dans les histoires [[#78]], [[#108]], [[#109]], [[#134]], [[#167]] et [[#190]].
