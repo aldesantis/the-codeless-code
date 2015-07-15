@@ -2,6 +2,8 @@ Number: 198
 Title: Alles Geht Vorüber
 Tagline: Worin wir uns von einer Last befreien.
 Illus.0.title: 
+Translator: andrebogus
+Lang: de
 
 Im Vorhof des Tempels fragte ein Mönch Meister [[Kaimu]]: Wie kann ich
 mit allem Schritt halten, was zu wissen ist, wo die Technologie sich

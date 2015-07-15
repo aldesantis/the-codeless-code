@@ -1,0 +1,51 @@
+Title: Unwissender Komplize
+Number: 199
+Tagline: Worin wir uns lieber nicht die Mühe machen.
+Translator: andrebogus
+Lang: de
+
+Meister [[Banzen]] wurde von seinem Lehrling [[Djishin]] aufgesucht,
+der sagte: "Der Tempel braucht eine REST-Bibliothek mit 
+JSON-Unterstützung.  Ich habe mehrere Dritt-Implementierungen gefunden,
+doch ich weiß nicht, welche ich wählen soll."
+
+Banzen schien überrascht.  "Hattet Ihr nicht solch eine Bibliotheck
+selbst geschrieben, und sie dem [[Spider Clan|Orden der Spinne]] zur
+Verfügung gestellt?
+
+"Ja," sagte Djisjin, "doch nun ist sie mir ein Klotz am Bein. Jede 
+Wooche fordert der Orden irgend ein neues Feature oder meldet einen 
+Bug, der dringlichst zu behandeln sei.  Und wann immer /irgendwas/ mit 
+unserem Web-Service schief geht, werde ich gerufen, um zu prüfen, ob 
+mein Code der Schuldige ist!  Es ist die gleiche Geschichte wie mit 
+allen Bibliotheken, die ich dem Tempel zur Verfügung gestellt habe.  Oh 
+soll ich doch zehntausend Jahre leben, ohne je eine weitere zu 
+schreiben!"
+
+An diesem Nachmittag ging Banzen zur Äbtissin [[Jinyu]], und sprach:
+
+"Ich habe Jahre damit vergeudet, Djishins Verlangen zu stoppen, seine
+eigenen Frameworks zu schreiben, anstatt wohlbekannte zu 
+verwenden.{{*}} Immer wieder zeigte ich ihm, dass seine Lösungen zu
+ambitioniert, zu unflexibel oder zu unsicher waren. Doch am Ende war er
+nicht von meinen Lehren überzeugt, sondern von der Last der 
+Verantwortung!  Hätte ich ihn seinen ersten bedauernswerten Code dem
+Tempel übergeben lassen, ich hätte mir ein Leben voll Ärger erspart!"
+
+"Der produktive Entwickler wird scheinbar die Arbeit genießen, doch das
+ist nicht immer wirklich der Fall." sagte Jinyu.  "Jeder hat Aufgaben,
+die er gern erledigt, und solche, die er hasst.  Djishin's Fehler war,
+dass er zu faul war, nach Lösungen zu suchen, die außer Reichweite
+seiner Fingespitzen lagen. /Euer/ Fehler war, dass /Ihr/ nie seine
+äußere Geschäftigkeit durchschaut und seine innere Faulheit gesehen 
+habt, die dafür ursächlich war.  Zum Glück hat mich Djishin's früherer
+Meister von diesem Mangel unterrichtet, als ich ihn aufnahm."
+
+Banzen stand der Mund offen.  "Warum habt Ihr dies nicht vor Jahren
+erwähnt?"
+
+Jinyu klopfte Banzen mit ihrem Stab auf den Kopf. "Warum stiegt Ihr nie
+die Stufen zu meinem Büro und fragtet mich um Rat? Verschont meine 
+Ohren mit Djishin -- er hat Euer Beispiel /gut/ gelernt."
+
+{{*}} Siehe Kōan [[#78]], [[#108]], [[#109]], [[#134]], [[#167]], [[#190]].
