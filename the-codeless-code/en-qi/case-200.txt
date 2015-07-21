@@ -14,7 +14,7 @@ data type.  To my dismay I received this bit of doggerel
 instead.  Many apologies to those of you who came here seeking
 edification. -- Qi.</i>
 
-//
+- - -
 
 You might //
 not know //
@@ -26,15 +26,17 @@ when new, //
 came two //
 by two:
 
+
         you / me, //
         aye / nay, //
         he / she, //
         we / they,
 
         girl / boy, //
-        fat / thin, //
+        yang / yin, //
         grief / joy, //
         out / in.
+
 
 This is, //
 you see, //
@@ -52,10 +54,10 @@ or white:
         stop / go, //
         false / true,
 
-        sane / mad, //
-        right / wrong, //
-        good / bad, //
-        short / long.
+        live / dead, //
+        here / gone, //
+        tail / head, //
+        off / on.
 
 
 No place //
@@ -80,39 +82,66 @@ or this:
         love / hate.
 
 
-But look //
-around //
-and you //
-are bound
+But if //
+you dare //
+to look //
+with care --
 
-to discover //
-//
-a universe of unending complexity -- //
-where nothing is wholly wrong nor right //
-(including the sentence you are reading).
+to stare //
+foursquare
 
 //
 
-So heed this rule: //
-<i>don't think//
-in bool</i>
+at each allegedly opposing pair, //
 
 //
 
-(a sense- //
-less way //
-to live //
-today,
+fully aware //
+you must distrust your every instinct, and forswear //
+that inborn, implusive tendency //
+to impose binary simplicity --
 
-unless //
+then eventually //
+you may see
+
+that almost nothing //
+is wholly one thing or another.
+
+For words -- like floats and ints and bools -- //
+are merely tools,
+
+providing only crude approximation //
+for the facilitation of communication.
+
+And any string of words, however nice, //
+at best is imprecise,
+
+while at worst may be tragically misleading //
+(and that includes the sentence you're currently reading).
+
+//
+
+So here's //
+my rule:
+
+<i>don't think //
+in bool.</i>
+
+Leave cer- //
+tainty //
+to cir- //
+cuitry
+
+(unless //
 you trust //
 the world //
 is just ...
 
-        live / dead, //
-        here / gone, //
-        tail / head, //
-        off / on,
+
+        sane / mad, //
+        short / long, //
+        good / bad, //
+        right / wrong, //
 
         left / right, //
         all / none, //
