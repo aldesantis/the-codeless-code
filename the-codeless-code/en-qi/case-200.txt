@@ -1,0 +1,149 @@
+Date: 2015-07-19
+Title: The Boolean
+Number: 200
+Names: Yíwen
+Topics: booleans, binary, opposites
+Geekiness: 2
+Tagline: In which we are nostalgic for simpler times.
+
+<i>To mark the solemn occasion of the two-hundredth case
+being entered into the annals of the Temple, I asked the nun
+Yíwen to prepare for me a long, informative, and
+heavily-footnoted treatise on the history of the boolean
+data type.  To my dismay I received this bit of doggerel
+instead.  Many apologies to those of you who came here seeking
+edification. -- Qi.</i>
+
+- - -
+
+You might //
+not know //
+that long //
+ago
+
+most words, //
+when new, //
+came two //
+by two:
+
+
+        you / me, //
+        aye / nay, //
+        he / she, //
+        we / they,
+
+        girl / boy, //
+        yang / yin, //
+        grief / joy, //
+        out / in.
+
+
+This is, //
+you see, //
+our ten- //
+dency --
+
+treat all //
+in sight //
+as black //
+or white:
+
+
+        yes / no, //
+        old / new, //
+        stop / go, //
+        false / true,
+
+        live / dead, //
+        here / gone, //
+        tail / head, //
+        off / on.
+
+
+No place //
+halfway. //
+No shades //
+of gray.
+
+Just hit //
+or miss. //
+Just that //
+or this:
+
+
+        strong / frail //
+        smile / frown //
+        pass / fail //
+        up / down //
+
+        quick / slow //
+        luck / fate //
+        high / low //
+        love / hate.
+
+
+But if //
+you dare //
+to look //
+with care --
+
+to stare //
+foursquare
+
+//
+
+at each allegedly opposing pair, //
+
+//
+
+fully aware //
+you must distrust your every instinct, and forswear //
+that inborn, implusive tendency //
+to impose binary simplicity --
+
+then eventually //
+you may see
+
+that almost nothing //
+is wholly one thing or another.
+
+For words -- like floats and ints and bools -- //
+are merely tools,
+
+providing only crude approximation //
+for the facilitation of communication.
+
+And any string of words, however nice, //
+at best is imprecise,
+
+while at worst may be tragically misleading //
+(and that includes the sentence you're currently reading).
+
+//
+
+So here's //
+my rule:
+
+<i>don't think //
+in bool.</i>
+
+Leave cer- //
+tainty //
+to cir- //
+cuitry
+
+(unless //
+you trust //
+the world //
+is just ...
+
+
+        sane / mad, //
+        short / long, //
+        good / bad, //
+        right / wrong, //
+
+        left / right, //
+        all / none, //
+        day / night, //
+        oh / one).
