@@ -5,11 +5,12 @@ Names: Yíwen
 Topics: booleans, binary, opposites
 Geekiness: 2
 Tagline: In which we are nostalgic for simpler times.
+Credits: Many thanks to Stephen Loftus-Mercer and David Kotsonis for pointing out some tpyos.  I mean typso.  I mean things I spelled wrong.
 
 <i>To mark the solemn occasion of the two-hundredth case
 being entered into the annals of the Temple, I asked the nun
 Yíwen to prepare for me a long, informative, and
-heavily-footnoted treatise on the history of the boolean
+heavily-footnoted treatise on the history of the Boolean
 data type.  To my dismay I received this bit of doggerel
 instead.  Many apologies to those of you who came here seeking
 edification. -- Qi.</i>
@@ -71,14 +72,14 @@ Just that //
 or this:
 
 
-        strong / frail //
-        smile / frown //
-        pass / fail //
-        up / down //
+        strong / frail, //
+        smile / frown, //
+        pass / fail, //
+        up / down, //
 
-        quick / slow //
-        luck / fate //
-        high / low //
+        quick / slow, //
+        luck / fate, //
+        high / low, //
         love / hate.
 
 
@@ -98,7 +99,7 @@ at each allegedly opposing pair, //
 
 fully aware //
 you must distrust your every instinct, and forswear //
-that inborn, implusive tendency //
+that inborn, impulsive tendency //
 to impose binary simplicity --
 
 then eventually //
