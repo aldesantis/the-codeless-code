@@ -45,7 +45,7 @@ namespace convention for keys so that each subsystem may
 have its /own/ ContextUtil class, providing additional
 constants and static methods as needed."
 
-"Much like subclasses," observed Banzen.
+"Much like derived classes," observed Banzen.
 
 "Exactly!" said Djishin again.
 

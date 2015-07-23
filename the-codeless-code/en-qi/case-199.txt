@@ -5,6 +5,10 @@ Names: Djishin, Banzen, Spider Clan, Jinyu
 Topics: third-party code, open source, laziness, new solutions, not-invented-here
 Geekiness: 2
 Tagline: In which we'd rather not make the effort.
+Illus.0.src: thwock-full.jpg
+Illus.0.title: Her cane is a very soft, hollow pine.  With a steel core.
+Illus.0.par: 8
+Illus.0.align: center
 
 Master [[Banzen]] was approached by his apprentice
 [[Djishin]], who said: "The Temple needs a REST library
