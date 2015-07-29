@@ -17,9 +17,10 @@ hours of the day and night.
 The monk replied, "Time and again, the head abbot promises
 many things to the provincial governor.
    <i>Very well,</i> we say,
-   <i>though we shall need more developers,</i>
-   and the abbot agrees.
-Yet always we find ourselves with one month remaining where two are needed.
+   <i>but we shall need more developers.</i>
+   And the abbot agrees.
+Yet always we find ourselves with one month given to complete our work
+where two are needed.
 We fear for our sanity."
 
 "I shall speak to the abbot," said Suku.
@@ -30,14 +31,14 @@ The head abbot's study was half-buried under schedules,
 timesheets, and status reports scribbled over in red
 ink.  The abbot was pacing nervously back and forth.
 
-"How came you to this state?" Suku asked the head abbot.
+"How came you to this state?" Suku asked the abbot.
 
 The abbot replied, "Time and again, my monks tell me they
-need more developers to meet the provincial governor's deadlines.
+need more developers to meet our deadlines.
    <i>Very well,</i> I say,
-   <i>I shall beg the governor to advance me the funds needed,</i>
-   and the governor agrees.
-Yet always we deliver one feature where two were agreed upon.
+   <i>but I must beg the provincial governor for the funds needed.</i>
+   And everyone agrees.
+Yet always we deliver one feature where two were contracted.
 I fear for my head."
 
 "I shall speak to the provincial governor," said Suku.
@@ -52,12 +53,12 @@ one-sided.
 
 "How came you to this state?" Suku asked the treasurer's head.
 
-The governor replied, "Time and again, the temple abbot
+The governor replied, "Time and again, the abbot
 holds my software hostage unless I give him more money.
    <i>Very well,</i> I say,
-   <i>but for double the coins I desire double the work,</i>
-   and the abbot agrees.
-Yet always I find twice as many deficiencies as in the release before.
+   <i>but for double the coins I desire double the work.</i>
+   And the abbot agrees.
+Yet always I find twice as many defects as in the release before.
 I fear the monks are insufficiently motivated, and their abbot takes me
 for a wealthy fool."
 

@@ -1,0 +1,42 @@
+Number: 195
+Title: O Código do Mago
+Lang: pt
+Translator: lucasrodcosta
+Tagline: No qual os coelhos fazem uma breve aparição.
+Illus.0.title: Eu coloquei dois coelhos na caixa, e saíram 8. Estou certo de que isso não foi mencionado na documentação.
+
+Um monje do [[Elephant's Footprint Clan|Clã da Pegada do Elefante]]
+percebeu que seu novo método de serviço estava falhando ao
+atualizar o banco de dados, embora nenhuma excessão estivesse
+sendo lançada. Ele buscou a ajuda do mestre Java [[Bawan]].
+
+Após uma breve investigação, Bawan declarou, "O objeto
+proxy auto-gerado do seu Serviço não está comitando
+a transação porque a anotação /Transactional/ foi
+colocada em um método helper privado, ao invés de em
+um método da interface pública que o chama."
+
+"Não entendo", disse o monge. "Que 'objeto proxy' é este
+que você está falando?"
+
+Bawan olhou o monge suspeitosamente. "Descreva-me como
+são feitos os commits e rollbacks pela plataforma AOP."
+
+O monge deu de ombros. "Eles são feitos automaticamente."
+
+Bawan esbofeteou o monge na cabeça. "Se eu te perguntar como
+o mágico do Imperador faz os coelhos desaparecerem, você irá
+responder 'com magia'? Pense antes de falar, ou eu irei te
+mostrar como faço monges desaparecerem."
+
+O mongo esfregou a cabeça. "Não deveríamos esperar que uma
+plataforma de terceiros nos livrasse da necessidade de conhecer
+seu interior? O que é o Princípio da Caixa Preta?"
+
+Bawan chegou por trás da orelha esquerda do monge, sacou
+uma colher de madeira do nada e o golpeou com ela.
+"Quando um coelho é colocado na Caixa Preta e então
+desaparece, é um privilégio para o público simplesmente
+dizer /ohh/ e /ahh/ em admiração. Mas aqueles que estão
+no palco deveriam saber como o truque é feito. A perda
+da inocência é o preço do aplauso."
