@@ -1,0 +1,199 @@
+Number: 200
+Title: El Booleano
+Lang: es
+Translator: galcalde
+Tagline: En el cual somos nostálgicos por tiempos más simples.
+
+<i>Para marcar la solemne ocasión del caso doscientos entrando en los anales del Templo, le pedía la monja Yíwen que me prepare un tratado largo, informativo, y con muchas notas al pie de página sobre la historia del tipo de datos booleano. Para mi desmayo recibí este pedazo de aleluya. Disculpas para aquellos que vinieron aquí buscando edificación. -- Qi.</i>
+
+- - -
+
+Quizás //
+tú no //
+sepas //
+esto
+
+Pero //
+hace //
+mucho //
+tiempo
+
+Gran can- //
+tidad //
+de pa- //
+labras
+
+De dos //
+en dos //
+se ense- //
+ñaban
+
+	grande / //
+	chico, //
+	pobre / //
+	rico, //
+	risa / //
+	llanto, //
+	diablo / //
+	santo, //
+	
+	ellas / //
+	ellos, //
+	feos / //
+	bellos, //
+	agua / //
+	fuego, //
+	hasta / //
+	luego. //
+
+
+La ten- //
+dencia //
+que te- //
+nemos --
+
+es ver //
+todo //
+blanco o //
+negro:
+
+	falso / //
+	cierto, //
+	vivo / //
+	muerto, //
+	cerca / //
+	lejos, //
+	nuevos / //
+	viejos, //
+	
+	débil / //
+	fuerte, //
+	sino / //
+	suerte, //
+	cuerdo / //
+	loco, //
+	mucho / //
+	poco. //
+
+
+No hay //
+grises. //
+No hay //
+medios.
+
+Sólo //
+esto. //
+o a- //
+quello:
+
+	malo / //
+	bueno, //
+	vacuo / //
+	lleno, //
+	nada / //
+	todo, //
+	brazo / //
+	codo, //
+	
+	día / //
+	noche, //
+	barco / //
+	coche, //
+	sigue / //
+	basta, //
+	desde / //
+	hasta, //
+
+Pero //
+si tu //
+te a- //
+treves
+
+a mi- //
+rar a- //
+tenta- //
+mente --
+
+firme y //
+dete- //
+nida- //
+mente
+
+//
+
+a cada par de palabras oponentes, //
+
+//
+
+debes desconfiar consciente //
+de cada instinto tuyo, y violentamente //
+rechazar esa tendencia innata, impulsiva y precaria //
+de imponer la simplicidad binaria --
+
+y finalmente //
+verás de repente
+
+que casi nada precisamente //
+es una cosa u otra generalmente.
+
+Pues las palabras a fin de cuentas //
+-- como los números y los booleanos -- son sólo herramientas,//
+
+que proveen sólo una cruda aproximación //
+para la facilitación de la comunicación.
+
+Y hasta la cadena de palabras más prometedora //
+(incluyendo la oración que lees ahora),
+
+es imprecisa a lo mejor, //
+y trágicamente engañosa a lo peor.
+
+//
+
+Este es //
+mi con- //
+sejo her- //
+mano:
+
+<i>no ra- //
+zones //
+en boo- //
+leano.</i>
+
+Para //
+los cir- //
+cuitos //
+deja
+
+la exac- //
+titud //
+y cer- //
+teza
+
+(A me- //
+nos que //
+seas cre- //
+yente
+
+de que el //
+mundo es //
+sola- //
+mente ...
+
+	carne / //
+	hueso, //
+	fino / //
+	grueso, //
+	blando / //
+	duro, //
+	sucio / //
+	puro //
+	
+	suma / //
+	resta, //
+	duelo / //
+	fiesta, //
+	curo / //
+	hiero, //
+	uno / //
+	cero.

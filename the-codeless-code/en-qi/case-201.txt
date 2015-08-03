@@ -1,0 +1,117 @@
+Date: 2015-07-26
+Title: Ignorance is Bliss
+Number: 201
+Names: Suku, Spider Clan, Jinyu, Zjing, Ruh Cheen, Wangohan, Eku, Mugen
+Topics: management, leadership, experience, truth, lies
+Geekiness: 1
+Tagline: In which our family receives a little bundle of joy.
+Credits: Many thanks to <a href="http://sialiasnest.tumblr.com/">Sialia</a> for suggesting this week's topic.
+
+The [[Spider Clan]] had lost many abbots under master
+[[Suku]], who had little tolerance for managerial
+foolishness.{{*}}  But Suku was now travelling with her
+apprentices, and the Temple had finally recruited its latest
+replacement abbot: an outsider from the West named
+[[Ruh Cheen]].
+
+Ruh Cheen had been hired directly by Madame [[Jinyu]],
+the Abbess Over All Clans And Concerns.
+Since young master [[Zjing]] was currently assigned to the
+Spider Clan, Jinyu called her in to meet the new abbot.
+
+Ruh Cheen bowed clumsily to Zjing.  "I look forward to
+supporting you in our shared mission," he said cheerily.  "I
+see us as two big ugly mules pulling the same cart.  So I'll
+do my best to stay clean out of your way, lest I trip you up
+and we both find ourselves muzzle-down in the mud."
+
+"That is... good news," said Zjing.
+
+Madame Jinyu added, "Ruh Cheen is not only new to our Temple,
+but new to software development as well.  His previous
+position was managing a team of fish skinners."
+
+"That is... less-good news," said Zjing.
+
+"To me, a /java/ is something you drink, and a /tomcat/
+is something you pet," said Ruh Cheen with a smile.  "So
+I'll be depending on you to teach me the ins and outs of
+whatever it is we do here."
+
+"That is... wow," said Zjing, finding herself at a loss for
+a suitable adjective.  "If you will both excuse me, I shall
+inform the Spider Clan of this... news."
+
+- - -
+
+Zjing called her monks in to a private conference.
+Their astonishment turned quickly to fear.
+
+"How can this abbot hope to manage what he does not even
+understand?" asked one.
+
+"How can old Jinyu have hired him?" demanded another.
+
+"Truly she wishes to punish us for having dispatched our
+other abbots!" cried a third.
+
+"If only we could have but /one/ of them back, to save us from
+impending disaster!" lamented a fourth.
+
+The hubub grew until Zjing called for silence.
+
+"Madame Jinyu is no fool," she said.  "And it is not in her
+best interests to set us up for failure.  Therefore it is
+certain that her choice is best for the Temple.  If we
+cannot see the wisdom behind it, then the only error is that
+our eyes have not yet been opened.  Let us be patient, and
+give this strange abbot our support.  By and by we will be
+enlightened."
+
+And as these words left her lips, Zjing herself was
+enlightened.
+
+- - -
+
+Madame Jinyu summoned Zjing to her offices that evening.
+
+"My spies tell me of your soothing words to the Spider
+Clan," said the old Abbess.
+
+"They were my words, but I did not believe them," Zjing confessed
+in a low voice. "I wished only to restore order."
+
+"And order was restored," said the Abbess.  "Why then does
+little Zjing look so troubled?"
+
+Said Zjing: "When I was elevated to master, I thought to
+myself, <i>Speak the truth as you know it, and you will do
+good service.</i> But today I learned that to do good
+service, sometimes one must speak lies cloaked in the
+semblance of wisdom.  What therefore is wisdom?  What
+therefore is truth?"
+
+Said Jinyu: "One evening long ago there was a great storm,
+and my firstborn son ran to me afraid.  I told him that the
+celestial spirits hunted nightmares in the rain; that each
+bolt of lightning was a spear cast from the clouds, and each
+peal of thunder was a demon's dying gasp.  We both slept
+well thereafter.  My falsehood is easy to see, but a greater
+truth hides in its shadow."
+
+
+== Qi's commentary
+
+I would confess that everything I have written in this
+book is a lie, but I cannot, for there is not even a book.
+
+
+== Qi's poem
+
+[[Mugen]] asked Eku, <i>Have I grown fat and homely?</i>  //
+[[Eku]] asked Mugen, <i>Have I grown pale and wrinkled?</i>  //
+When lie answers lie, truth perishes -- //
+Yet two old masters hold hands in the sunset.
+
+
+{{*}} See cases [[#61|61]], [[#62|62]], [[#67|67]], [[#120|120]], and [[#153|153]].

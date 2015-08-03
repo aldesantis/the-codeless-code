@@ -3,6 +3,9 @@ Title: Cómplice inconsciente
 Lang: es
 Translator: galcalde
 Tagline: En el cual no haríamos el esfuerzo
+Illus.0.title: Su bastón es un pino hueco y muy suave. Con una base de acero.
+Illus.0.par: 8
+Illus.0.align: center
 
 Al maestro [[Banzen]] se le acercó su aprendiz [[Djishin]], quien dijo: "El templo necesita una librería REST con soporte JSON. He encontrado varios candidatos de terceros, pero no sé cómo elegir entre ellos."
 
