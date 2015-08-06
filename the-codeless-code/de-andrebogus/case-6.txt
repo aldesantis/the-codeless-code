@@ -3,7 +3,7 @@ Lang: de
 Translator: andrebogus
 Title: Leere
 
-Von seinem Urlaub zurückkehrend fand der Hohe Abt des [[Laughing Monkey Clan|Ordens der Lachenden Affen] seinen Orden in Panik und Unordnung vor. Das gerade angepasste Finanzsystem warf NullPointerExceptions bei allen neuen Kunden. Diese kündigten erheblich beeunruhigt nach kaum einem Tag ihr Konto.
+Von seinem Urlaub zurückkehrend fand der Hohe Abt des [[Laughing Monkey Clan|Ordens der Lachenden Affen]] seinen Orden in Panik und Unordnung vor. Das gerade angepasste Finanzsystem warf NullPointerExceptions bei allen neuen Kunden. Diese kündigten erheblich beeunruhigt nach kaum einem Tag ihr Konto.
 
 Mit einiger Mühe gelang es dem Abt, das Problem auf eine Methode zurückzuführen, deren Aufgabe es war, eine Liste der Transaktionen des Nutzers zu erstellen. Im Falle, dass keine Transaktionen vorlagen, war das Ergebnis null, nicht die leere Liste.
 

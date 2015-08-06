@@ -1,5 +1,6 @@
 Number: 191
 Title: Die Vier Worte der Not
+Subtitle: Teil Eins
 Tagline: Worin wir getröstet werden
 Translator: andrebogus
 Lang: de
@@ -33,9 +34,9 @@ Der Mönch fragte "Was sind diese 'Vier Worte'?"
 
 Der Meister sagte, "Von der geringsten zur höchsten Linderung geordnet,
 sind sie: /Hilfe/, /Abbrechen/ und /Rückgängig machen/. Gebe sie allen
-Nutzern Deiner Programme, und sie werden sagen: 'Hier arbeitet ein
+Nutzern Deiner Programme, und sie werden sagen: ‘Hier arbeitet ein
 Medicus höchsten Mitgefühls, der unsere Fehlbarkeit versteht und unsere
-Selbstverletzung hindert!'"
+Selbstverletzung hindert!’"
 
 Der Mönch sagte, "Ihr spracht nur drei Worte.  Was ist das Vierte?"
 

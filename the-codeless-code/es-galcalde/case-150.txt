@@ -2,6 +2,7 @@ Number: 150
 Title: Deshacer
 Lang: es
 Translator: galcalde
+Tagline: En lo cual nos deshacemos.
 
 Un monje le preguntó al maestro [[Kaimu]], "¿Cual es el comportamiento ideal del 'deshacer'?"
 

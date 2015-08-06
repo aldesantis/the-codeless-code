@@ -2,7 +2,7 @@ Date: 2014-01-27
 Title: Like a Rolling Stone
 Number: 129
 Names: Landhwa, Wangohan
-Topics: laziness, joy-coding, utilities
+Topics: laziness, joy-hacking, utilities
 Geekiness: 2
 
 Even on the best of days the monk [[Wangohan|Wangohan's]] mood would

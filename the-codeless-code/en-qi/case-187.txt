@@ -4,7 +4,7 @@ Title: Exit Interview
 Names: Bawan, Kaimu, Jinyu
 Topics: interviews, resumes, honesty
 Geekiness: 3
-Tagline: In which we take things at face value
+Tagline: In which we take things at face value.
 Illus.0.src: push.jpg
 Illus.0.title: I have actually had applicants do this to me at an interview, without the slightest hint of embarrassment.  In retrospect I should have hired them all and sent them to Marketing.
 

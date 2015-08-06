@@ -1,0 +1,72 @@
+Date: 2015-06-29
+Number: 197
+Title: Forgiveness
+Names: Zjing, Banzen, Hwídah, Yishi-Shing, Clan of Iron Bones
+Topics: error handling, requirements, trust
+Geekiness: 2
+Tagline: In which there is a rude awakening.
+Credits: Many thanks to Alex Plumley and Mike Warren for their helpful comments!
+Illus.0.src: visitors.jpg
+Illus.0.title: Hi, guys! What's up?
+Illus.0.par: last
+Illus.0.align: center
+
+The most sensitive implementation tasks were often trusted
+to masters only, and one such task had just been assigned to young
+master [[Zjing]].
+
+"It is a critical webservice endpoint, which must be ready
+by tomorrow morning," explained master [[Banzen]]. "I have
+emailed you my notes on how it should behave."
+
+Zjing labored in her little hut throughout the night. But as
+dawn approached she noticed something amiss: if the backend
+threw an unchecked exception, Banzen wanted her to catch it
+and return a status of SERVICE_ERROR.
+
+"Either his knowledge of our protocols is woefully lacking,
+or his notes were made in too much haste," said Zjing to
+herself.  "For I have implemented a dozen such services, and
+we return <i>SYSTEM</i>_ERROR in this case."
+
+She began an email to the Temple masters, requesting
+permission to make the change, when she stopped herself:
+
+"It will be hours before this is seen.  Am I so full of
+self-doubt that I will jeopardize our schedule, sitting on
+my hands until my elders tell me what I already know?  What
+kind of master behaves thusly?  And think of the dishonor it
+would bring on poor Banzen, to have his mistake be known!
+How true the saying: when time is short, it /is/ easier to
+beg forgiveness than permission."
+
+- - -
+
+The following midnight, the entire [[Clan of Iron Bones]]
+was awakened by their cellphones beeping CRITICAL OUTAGE.
+Host master [[Yishi-Shing]] woke the nun [[Hwídah]] to help
+investigate.
+
+"I have traced the problem to Zjing's new code," explained a
+bleary-voiced Hwídah on the conference call.  "Her
+webservice returned SYSTEM_ERROR when it caught
+a RuntimeException."
+
+"That is our custom," said Zjing.
+
+"Not when the webservice is an /internal monitor/, and the
+exception came from pinging a non-critical vendor site
+known to be unreliable," said Banzen.
+"<i>SERVICE</i>_ERROR is our custom then, Young Master...
+for that would not have woken Yishi-Shing's
+entire clan while they were sleeping off their three-day upgrade
+marathon.  The clan was most interested in administering
+your correction."
+
+"I suppose it is fortunate that they do not know where I
+live," said Zjing.
+
+At that moment there was an angry pounding on Zjing's door.
+
+"Ah, did you wish that kept a secret?" asked Banzen.
+"I /do/ beg your forgiveness."

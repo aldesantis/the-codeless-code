@@ -1,0 +1,69 @@
+Number: 197
+Lang: fr
+Translator: abelards
+Title: Pardon
+Tagline: Dans laquelle l'éveil est rude
+Credits: Remerciements à Alex Plumley et Mike Warren pour leurs commentaires utiles !
+
+Bien souvent, on ne faisait confiance qu'aux maîtres pour
+les tâches d'implémentation les plus sensibles, et on venait
+d'assigner l'une d'entre elles à la jeune maître [[Zjing]].
+
+"C'est un point d'entrée webservice critique, qui doit être
+prêt pour demain matin," expliqua maître [[Banzen]].
+"Je t'ai envoyé par email mes notes sur la manière
+dont il devrait se comporter."
+
+Zjing travailla dur tout au long de la nuit dans sa petite hutte.
+Mais comme l'aube approchait elle remarqua quelque chose qui clochait :
+si le serveur renvoyait une exception non vérifiée, Banzen voulait qu'elle
+la rattrape et renvoie le statut SERVICE_ERROR.
+
+"Soit sa connaissance de nos protocoles a de dramatiques lacunes,
+soit ses notes ont été faites trop vites," se dit Zjing.
+"Car j'ai implémenté une dizaine de tels services, et que nous
+renvoyons <i>SYSTEM</i>_ERROR dans ce cas-là."
+
+Elle commença un email aux maîtres du Temple, demandant la permission
+de faire la modifivation, quand elle s'arrêta :
+
+"Des heures se seront passées avant que quelqu'un s'en rende compte.
+Manqué-je à ce point de confiance en moi pour mettre le planning en danger,
+à me tourner les pouces jusqu'à ce que les anciens
+me disent ce que je sais déjà ?
+Quel genre de maître se comporterait ainsi ?
+Et pense au déshonneur que cela apporterait au pauvre Banzen,
+que son erreur soit révélée !
+N'est-ce pas ce que l'on dit : quand les délais sont trop courts,
+il vaut /effectivement/ mieux implorer le pardon en aval
+que la permission en amont."
+
+- - -
+
+Le soir, à minuit, tout le [[Clan of Iron Bones|Clan des Os de Fer]]
+fut éveillé par leurs téléphones portables bippant PANNE CRITIQUE.
+Le maître des hébergeurs [[Yishi-Shing]] réveilla la nonne [[Hwídah]]
+pour participer à l'enquête.
+
+"J'ai retracé la source du problème au nouveau code de Zjing,"
+expliqua Hwídah d'une voix pâteuse à la conférence téléphonique.
+"Son webservice renvoie SYSTEM_ERROR quand il rattrape une RuntimeException."
+
+"Car telle est notre coutume," dit Zjing.
+
+"Pas quand le webservice sert de /monitoring interne/,
+et que l'exception survient lors d'un ping à un site fournisseur
+non critique dont on sait qu'il n'est pas très fiable," dit Banzen.
+"Notre coutume dans ce cas est alors <i>SERVICE</i>_ERROR, jeune Maître...
+car cela n'aurait pas réveillé l'intégralité du clan de Yishi-Shing
+tandis qu'ils récupéraient de leur marathon de mise à jour
+de soixante-seize heures.
+Le clan s'est montré très intéressé d'administrer votre correction."
+
+"Je suppose que j'ai de la chance qu'ils ne savent pas où j'habite,"
+dit Zjing.
+
+À ce moment, la porte de Zjing résonna d'un martèlement colérique.
+
+"Ah, vous vouliez que cela reste secret ?" demanda Banzen.
+"Je vais devoir /sincèrement/ implorer votre pardon."

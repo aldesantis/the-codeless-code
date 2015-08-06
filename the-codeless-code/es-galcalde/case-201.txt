@@ -1,0 +1,67 @@
+Number: 201
+Title: La Ignorancia es Felicidad
+Lang: es
+Translator: galcalde
+Tagline: En la cual nuestra familia recibe un pequeño manojo de alegría.
+
+El [[Spider Clan|Clan de la Araña]] había pedido a muchos abades bajo la maestra [[Suku]], quien tenía poca tolerancia con la estupidez gerencial.{{*}} Pero Suku ahora estaba viajando con sus aprendices, y el Temple finalmente reclutó a su último abad de reemplazo: un extranjero del oeste llamado [[Ruh Cheen]].
+
+Ruh Cheen había sido contratado directamente por Madame [[Jinyu]], la Abadesa de Todos los Clanes y asuntos de Interés. Como la joven maestra [[Zjing]] estaba asignada actualmente al Clan de la Araña, Jinyu la llamó para que conociera al nuevo abad.
+
+Ruh Cheen se inclinó torpemente ante Zjing. "Espero apoyarle en nuestra misión compartida," dijo alegremente. "Veo a nosotros dos como dos mulas grandes y feas tirando del mismo carro. Así que haré lo mejor para estar fuera de su camino, a menos que la haga tropezar y nos hallemos bozal abajo en el lodo."
+
+"Eso es... una noticia buena," dijo Zjing.
+
+Madame Jinyu añadió, "Ruh Cheen no sólo es nuevo en nuestro Templo, sino también nuevo en el desarrollo de software. Su posición previa fue administrar un equipo de desolladores de peces."
+
+"Eso es... una noticia menos buena," dijo Zjing.
+
+"Para mi, Un <em>java</em> es algo que se bebe, y un <em>tomcat</em> es algo que se acaricia {{**}}," dijo Ruh Cheen con una sonrisa.  "Así que dependeré de usted para que me enseñe las entradas y salidas de cualquier cosa que hagamos aquí."
+
+"Eso es... wow," dijo Zjing, hallándose falta de un adjetivo apropiado. "Si me disculpan, debo informar al Clan de la Araña de estas... noticias."
+
+- - -
+
+Zjing llamó a sus monjes para una conferencia privada. Su sorpresa se volvió rápidamente miedo.
+
+"¿Cómo puede este abad esperar manejar lo que ni siquiera entiende?" preguntó uno.
+
+"¿Cómo la vieja Jinyu pudo haberlo contratado?" insistió otro.
+
+"¡Ella desea verdaderamente castigarnos por despachar a nuestros otros abades!" gritó un tercero.
+
+"¡Si sólo pudiéramos tener a <em>uno</em> de ellos de vuelta, para salvarnos del desastre inminente!" lamentó un cuarto.
+
+El alboroto creció hasta que Zjing pidió silencio.
+
+"Madame Jinyu no es ninguna tonta," dijo. "Y no está en sus mejores intereses el tendernos una trampa para el fracaso. Por lo tanto es cierto que su elección es la mejor para el templo. Si no podemos ver la sabiduría que hay detrás, entonces el único error es que nuestros ojos aún no han sido abiertos. Seamos pacientes, y demos a este abad extraño nuestro apoyo. Con el tiempo estaremos iluminados."
+
+Y mientras las palabras abandonaban sus labios, la propia Zjing fue iluminada.
+
+- - -
+
+Madame Jinyu invocó a Zjing a sus oficinas aquella tarde.
+
+"Mis espías me cuentan de tus reconfortantes palabras al Clan de la Araña," dijo la vieja Abadesa.
+
+"Eran mis palabras, pero no creía en ellas," confesó Zjing en voz baja. "Sólo deseaba restaurar el orden."
+
+"Y el orden fue restaurado," dijo la Abadesa. "¿Por qué entonces la pequeña Zjing se ve tan afligida?"
+
+Dijo Zjing: "Cuando fui ascendida a maestra, pensé para mí, <i>Di la verdad como la conoces, y harás un buen servicio.</i> Pero hoy aprendí que para hacer un buen servicio, a veces alguien debe decir mentiras cubiertas en el semblante de la sabiduría. ¿Qué es la sabiduría entonces? ¿Qué es la verdad?"
+
+Dijo Jinyu: "Una tarde hace mucho hubo una gran tormenta, y mi primer hijo corrió asustado hacia mí. Le dije que los espíritus celestiales cazaban pesadillas en la lluvia; que cada rayo era una lanza arrojada desde las nubes, y cada trueno era el jadeo de un demonio muriendo. Ambos dormimos bien desde entonces. Mi falsedad es fácil de ver, pero una verdad más grande se oculta bajo su sombra."
+
+== Comentario de Qi
+
+Confesaría que todo lo que escribí en este libro es mentira, pero no puedo, porque ni siquiera hay libro.
+
+== Poema de Qi
+
+[[Mugen]] le preguntó a Eku, <i>¿He crecido gordo y feo?</i>  //
+[[Eku]] le preguntó a Mugen, <i>¿He crecido pálido y arrugado?</i>  //
+Cuando la mentira responde a la mentira, la verdad muere -- //
+Y sin embargo dos viejos maestros se toman de las manos al atardecer.
+
+{{*}} Véase los casos [[#61|61]], [[#62|62]], [[#67|67]], [[#120|120]], y [[#153|153]].
+{{**}} Java es una variedad de café y Tomcat se refiere a un gato macho.

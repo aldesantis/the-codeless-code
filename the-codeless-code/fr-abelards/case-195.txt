@@ -1,0 +1,44 @@
+Number: 195
+Lang: fr
+Translator: abelards
+Title: Le Code du Magicien
+Tagline: Dans lequel des lapins font une brève apparition.
+Illus.0.title: Je mets deux lapins dans la boîte, et huit en sortent. Je suis à peu près sûr que ça n'était pas mentionné dans la documentation.
+
+Un moine du [[Elephant's Footprint Clan|Clan des Empreintes de l'Éléphant]]
+avait découvert que sa nouvelle méthode de service ne mettait pas la
+base de données à jour, bien qu'aucune exception ne soit levée.
+Il alla quérir l'aide du Maître Java [[Bawan]].
+
+Après une brève investigation, Bawan déclara,
+"L'objet proxy auto-généré par ton Service n'envoie pas la transaction
+car l'annotation /Transactional/ a été placée sur une méthode privée,
+au lieu d'être sur l'interface publique qui l'appelle."
+
+"Je ne comprends pas," dit le moine.
+"Quel est cet 'objet proxy' dont vous parlez ?"
+
+Bawan observa le moine avec suspicion.
+"Décris-moi la manière dont le framework AOP fait ses commits et rollbacks."
+
+Le moine haussa les épaules. "Tout cela est fait automatiquement."
+
+Bawan frappa le moine sur la tête.
+"Si je te demande comment le magicien de l'Empereur fait disparaître
+les lapins, répondrais-tu 'par magie' ?
+Réfléchis avant de parler, ou je te montrerai comment je fais disparaître
+des moines."
+
+Le moine se frotta la tête.
+"Ne devrions-nous pas attendre d'un framework extérieur qu'il nous
+libère du besoin de comprendre la mécanique interne ?
+Que faisons-nous du Principe de la Boîte Noire ?"
+
+Bawan leva la main derrière l'oreille gauche du moine, et fit apparaître
+une spatule en bois de nulle part, et frappa de nouveau le moine avec
+ce nouvel instrument.
+"Quand un lapin est placé dans la Boîte Noire et disparaît sur demande,
+c'est le privilège du public de simplement faire des /ooh/ et /aah/
+d'étonnement. Mais nous qui allons sur scène, devons connaître le truc
+derrière le tour.
+Le prix des applaudissements est la perte de l'innocence."

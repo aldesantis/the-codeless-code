@@ -3,6 +3,7 @@ Title: Las Cuatro Palabras De La Angustia
 Subtitle: Segunda Parte
 Lang: es
 Translator: galcalde
+Tagline: En la cual recogemos lo que sembramos.
 Illus.0.title: Ese mismo monje luego inventaría las notas Post-It.
 
 [[#191|Ese mismo monje]] mantenía un sitio que vendía herramientas de agricultura a los granjeros locales. Últimamente había causado mucha frustración a esos granjeros, así que el monje resolvió seguir el consejo del maestro [[Bawan]] y ofrecer las [[#191|Cuatro Palabras De La Angustia]] a sus usuarios lo más rápido posible. Porque cuando un granjero furioso quiere dar a conocer su punto de vista al desarrollador, ese punto de vista generalmente está en la punta de una guadaña.

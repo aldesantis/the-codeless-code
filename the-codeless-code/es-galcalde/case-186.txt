@@ -2,6 +2,7 @@ Number: 186
 Title: Nada, Para Siempre
 Lang: es
 Translator: galcalde
+Tagline: En la cual hacemos un salto de confianza.
 
 Una fría mañana de primavera, la monja [[Yíwen]] encontró [[#184|a un cierto monje]] parado en medio de un puente, su cara estaba manchada de lágrimas mientras miraba el abismo más abajo.
 

@@ -1,0 +1,89 @@
+Number: 194
+Date: 2015-06-08
+Title: Stray
+Names: Zjing, Wangohan, Landhwa
+Topics: leading edge, bleeding edge, management, leadership
+Geekiness: 2
+
+Young master [[Zjing]] had let the senior monk Wangohan
+[[#183|choose his own technology stack]] for the project he
+was building.
+
+"For from what I have observed in the valley," she
+explained, "managing developers is like herding cattle: if
+you want the animal to move forward, the worst place to
+stand is in its path."
+
+Throughout the first month Zjing was confident of the wisdom
+of her approach, for [[Wangohan]] was happier than she had
+ever seen him.  He arrived early and eager each morning,
+seldom leaving his cubicle except for sleep.  He had even
+been observed chatting amiably with the monk [[Landhwa]],
+whom he despised.
+
+But in the past few weeks Wangohan's demeanor had changed.
+He still arrived early and stayed late, but now he spoke to
+no one.  During teleconferences he appeared so sallow and pale
+that Zjing had to check the color balance of her monitor.
+
+When she finally asked the monk what troubled him, Wangohan
+replied only that he had encountered some unanticipated
+difficulties, but (he assured her) have no fear: he had
+Googled this, downloaded that, sent messages to these and
+got answers from those, and all would be right as rain soon
+enough.  Before Zjing could ask for specifics, or even a few
+proper nouns, Wangohan terminated the call.
+
+/I must investigate,/ thought Zjing.
+
+She began with Wangohan's code, and discovered that
+everything about it was unfamiliar -- even the
+implementation language was one which the Temple did not
+use.  Wading through the alien syntax, she learned that the
+user interface was coded with an AJAX-JSON-XPath framework
+well beyond the capabilities of the Temple's junior
+developers; the templating language made Perl4 look
+civilized and quaint; and the persistence layer was a
+NoSQL database so experimental that the release number
+began with two zeroes and ended in the words 'alpha' and
+'SNAPSHOT'.
+
+/I have investigated,/ thought Zjing.  /And now I must lie down./
+
+- - -
+
+The next day, after being pressed, Wangohan confessed that
+he could not get the various technologies to work as
+desired.  Strange exceptions were appearing.  Sometimes the
+application hung, sometimes it ran out of memory.  Having no
+one in the Temple to turn to, he had resorted to message
+boards, mailing lists, untried patches, and wild guesses.
+
+Zjing excused herself, left her little hut, and spent the
+rest of the morning leaning on a low fence overlooking a
+pasture, thinking.
+
+Eventually some cattle appeared on the other side of the
+fence, shuffling in her direction.  Then a dozen more,
+and a dozen behind them.
+
+"Farmer!" she called out to the man walking behind the herd.
+"How do you lead so many cattle to the sweetest clover,
+losing not one?"
+
+/"Wú,"/ shouted the farmer.  "I do no such thing, for bulls
+and cows know nothing about following -- only about
+avoiding.  See how they edge away as I approach!  Sometimes
+I walk to their right to keep them from the forest,
+sometimes I walk to their left to keep them from the ditch,
+and sometimes I walk behind to keep them from turning
+around.  I am always moving, yet calm; seeing all, and
+always seen.  In this way I keep my cattle together,
+although not so crowded that they become anxious and take
+flight.  For the first rule of /herding/ is that you must
+produce a /herd/, and a herd is a nebulous thing, midway
+between order and chaos."
+
+Hearing these words, Zjing was enlightened.
+
+{{*}} Translator Andre Bogus offers the following poem:<p>The herd was still, the cattle grazed<br>Zjing saw them and was amazed<br>How full of harmony those cows<br>unlike her monks the meadow browse

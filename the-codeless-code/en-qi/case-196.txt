@@ -1,0 +1,98 @@
+Date: 2015-06-22
+Number: 196
+Title: Fee
+Names: Suku, Drowning Temple
+Topics: teaching, compromise, empathy
+Geekiness: 2
+Tagline: In which we look at things from a different angle.
+
+Master [[Suku]] and her three apprentices had spent several
+sweltering days crossing a weedy marshland, seeking a temple
+somewhere near its center. The thickness of the air had long
+since stifled any desire for conversation.  For many hours
+the only sounds were the buzzing of microdrones and the
+group's own squelching footsteps.
+
+Finally they arrived at a rickety structure on stilts, housing
+only one abbess and a dozen novices.
+
+"The [[Drowning Temple]] is a poor one in every respect,"
+said the abbess.  "Our investments are currently under
+water, and the average grade of our novices is well below C
+level.  But name your fee for speaking and we'll see what
+we can do."
+
+"We trade only in knowledge," said Suku.  "Have your temple
+lecture on the first day, and mine will lecture on the
+day following."
+
+"This pleases us," said the abbess.
+
+"Then make space for us to sleep on the floor," said Suku.
+"Come the morning we will learn from each other."
+
+When the preparations were made, and the last lantern had
+been turned down for the night, Suku's eldest apprentice
+whispered: "Master, what can these people teach us?"
+
+Suku made a &#x2205; sign on the moldy floorboards,
+fell back on her mat, and closed her eyes.
+
+- - -
+
+On the first day, Suku and her apprentices sat patiently
+while the novices of the Drowning Temple spoke of their
+doings and observations.  As he expected, Suku's eldest
+apprentice heard nothing that he did not already know.
+Indeed, he found some of the Drowning Temple's coding
+practices so completely absurd that he had to mask his
+laughter by coughing violently and blaming his outbursts on
+a rare pollen allergy.
+
+On the second day, Suku's eldest apprentice spoke for a full
+two hours on the superior coding practices of his own
+temple.  Yet he found himself so beleaguered by challenges
+from the Drowning Temple that he nearly walked out in frustration.
+To make matters worse, some of novices of the Drowning
+Temple had apparently contracted his unique pollen allergy.
+
+- - -
+
+That night, Suku quietly asked the eldest apprentice what he
+had learned from the novices.
+
+The eldest apprentice made the &#x2205; sign of the
+empty-set on the moldy floorboards, fell back on his mat,
+and closed his eyes.
+
+Suku whacked him on the nose and repeated her question to
+the others.
+
+The second apprentice answered, "Our eldest knows how to
+chastise, but not how to convince."
+
+The third apprentice answered, "Our eldest wishes to make
+others accept, but has failed to first make them reject."
+
+"Excellent," said Suku.  "Some of us have learned, so our
+Fee has been paid."
+
+She grabbed the index finger of the eldest apprentice,
+saying to him: "You speak to your peers as if they were
+empty registers waiting to be filled with the bits of your
+wisdom.  Ours may be a dry digital world, but it is built
+atop wetware, which is squishy and irrational and prone to
+overheating.  You cannot flip a brain from /zero/ to /one/
+simply by praising the /one/.  You must start at the /zero/,
+extoll its virtues, explore its faults, exhort your
+listeners to look beyond it.  To weigh the /zero/ against
+the /one/, the listener must have both in mind together.  Only
+when they have freely chosen the /one/ will they abandon the
+/zero/."
+
+Still holding the index finger of the eldest apprentice, Suku slowly
+drew a zero on the floorboards and a one across its center.
+[[#85|Considering the symbol anew,]] the eldest was corrected.
+
+
+

@@ -2,8 +2,8 @@ Number: 192
 Lang: fr
 Translator: abelards
 Title: Les Quatre Mots de la Détresse
-Subtitle: Partie Deux
-Tagline: In which we reap what we sow.
+Subtitle: Deuxième Partie
+Tagline: Dans laquelle on récolte ce que l'on a semé.
 Illus.0.title: C'est le même moine qui inventa plus tard les Post-It.
 
 [[#191|Ce même moine]] était le mainteneur d'un site

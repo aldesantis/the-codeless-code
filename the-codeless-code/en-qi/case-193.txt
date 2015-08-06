@@ -1,0 +1,61 @@
+Date: 2015-05-31
+Number: 193
+Title: The Vicious Circle
+Names: Kaimu, Laughing Monkey Clan
+Topics: interviews, experience, joy-hacking
+Geekiness: 1
+Tagline: In which we resolve a paradox.
+Illus.0.src: sisters.jpg
+Illus.0.title: "Charlie's Angels: The Early Years"
+Credits: From an idea suggested by Gonzalo Alcalde.
+
+Three sisters from a poor family petitioned the abbot of the
+[[Laughing Monkey Clan]] for admission to the Temple as
+developers.
+
+"I cannot hire any of you," said the abbot after he looked
+at their résumés and code samples. "You do not have the
+necessary experience."
+
+"But it is the same complaint everywhere we go!" protested
+one of the sisters.  "How are we to /acquire/ experience
+if we are refused entrance to every place that /offers/
+experience simply because we /lack/ experience?"
+
+Master [[Kaimu]] happened to be passing by and overheard this.
+He said to the girls: "Desire is the root of
+all suffering.  If you cannot do what you desire, then do
+what you must, so that in your spare time you may do what
+you truly love."
+
+The master then departed, but the girls were not comforted.
+
+- - -
+
+Several months later the master came upon these same three
+sisters sharing a humble meal in the village.  He asked them
+how they fared.
+
+The first said, "By day I do carpentry to pay the bills,
+and by night I carve sculptures for my amusement."
+
+The second said, "By day I sell fish to pay the bills,
+and by night I practice dance for my amusement."
+
+The third said, "By day I repair garments to pay the bills, and
+by night I code little applications for my amusement."
+
+Kaimu returned to the abbot and, telling him what had
+transpired, said, "Admit the third sister to your clan, for
+she has what we seek."
+
+The abbot asked, "Should we not advise her elder sisters
+to follow her example, that they might gain experience
+and also be admitted?"
+
+/"Null,"/ said Kaimu. "How can we advise them on 'what to truly love'?"
+
+
+
+
+{{*}} "Stealthy Wombat" offers this poem:<p>Enkudu began a journey of a thousand /li/<br>With only a walking stick, a meal of fish, a cloak, and a navigation app.<br>How happy the first two sisters!<br>Enkudu shall never disdain their love.

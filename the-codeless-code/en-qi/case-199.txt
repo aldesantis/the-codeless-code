@@ -1,0 +1,60 @@
+Date: 2015-07-12
+Title: Unwitting Accomplice
+Number: 199
+Names: Djishin, Banzen, Spider Clan, Jinyu
+Topics: third-party code, open source, laziness, new solutions, not-invented-here
+Geekiness: 2
+Tagline: In which we'd rather not make the effort.
+Illus.0.src: thwock-full.jpg
+Illus.0.title: Her cane is a very soft, hollow pine.  With a steel core.
+Illus.0.par: 8
+Illus.0.align: center
+
+Master [[Banzen]] was approached by his apprentice
+[[Djishin]], who said: "The Temple needs a REST library
+with JSON support.  I have located several third-party
+candidates, but I do not know how to choose among them."
+
+Banzen seemed taken aback.  "Did you not author
+such a library yourself, and provide it to the [[Spider Clan]]?"
+
+"Yes," said Djishin, "but now it is a stone around my neck.
+Every week the Spider Clan requests some new feature or
+files a bug report, claiming the utmost urgency.  And
+whenever /anything/ goes wrong with our webservices I am
+summoned to investigate whether my code is the culprit!  The
+story is the same for all the other libraries I have
+provided to our Temple.  May I live ten thousand years and
+never write another!"
+
+That afternoon Banzen went to the abbess Jinyu, saying:
+
+"I wasted years trying to quell Djishin's desire to write
+his own frameworks instead of acquiring well-known
+ones.{{*}} Time and again I showed him how his solutions
+were too ambitious, or too inflexible, or too insecure.
+Yet in the end he has been swayed not by my
+teachings, but by the pain of responsibility!  Had I let him
+release his pitiful code to the Temple when he first became
+my apprentice I'd have saved myself a lifetime's worth of
+bother!"
+
+"The prolific developer may appear to enjoy work, yet that
+is not always so," said Jinyu.  "Everyone has tasks they
+enjoy and tasks they abhor.  Djishin's fault was that he was
+too lazy to look for solutions farther away than the tips of
+his fingers.  /Your/ fault was that /you/ never looked past
+his Outer Industriousness to discover the Inner Laziness
+from which it came.  Thankfully, Djishin's former master
+warned me of the monk's flaw before I took him in."
+
+Banzen's jaw dropped open.  "Why did you not mention this
+years ago?"
+
+Jinyu rapped Banzen on the head with her cane.  "Why did
+you never climb the steps to my office and ask my advice?
+Do not trouble my ears about Djishin -- he learned
+/well/ from your example."
+
+
+{{*}} See cases [[#78]], [[#108]], [[#109]], [[#134]], [[#167]], [[#190]].

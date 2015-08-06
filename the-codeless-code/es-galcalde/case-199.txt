@@ -1,0 +1,26 @@
+Number: 199
+Title: Cómplice inconsciente
+Lang: es
+Translator: galcalde
+Tagline: En el cual no haríamos el esfuerzo
+Illus.0.title: Su bastón es un pino hueco y muy suave. Con una base de acero.
+Illus.0.par: 8
+Illus.0.align: center
+
+Al maestro [[Banzen]] se le acercó su aprendiz [[Djishin]], quien dijo: "El templo necesita una librería REST con soporte JSON. He encontrado varios candidatos de terceros, pero no sé cómo elegir entre ellos."
+
+Banzen pareció tomado por sorpresa. "¿No has escrito tú mismo una librería, y se la ofreciste al [[Spider Clan|Clan de la Araña]]?"
+
+"Sí," dijo Djishin, "pero ahora es una piedra alrededor de mi cuello. Cada semana el Clan de la Araña pide alguna característica nueva o arma un reporte de bugs, pidiendo la mayor urgencia. ¡Y cuando <em>algo</em> va mal con nuestros servicios web me invocan para investigar si mi código es el culpable! La historia es la misma para todas las otras librerías que ofrecí al templo. ¡Que viva diez mil años y nunca escriba otra!"
+
+Aquella tarde Banzen fue con la abadesa Jinyu, diciendo:
+
+"He desperdiciado mis años intentando sofocar el deseo de Djishin de escribir sus propias plataformas en vez de conseguir otras más conocidas.{{*}} Una y otra vez le mostré como sus soluciones eran muy ambiciosas, o muy inflexibles, o muy inseguras. Sin embargo al final siempre se ha movido no por mis enseñanzas, ¡sino por el dolor de la responsabilidad! ¡Si le hubiera dejado que lanzara su penoso código al templo cuando se convirtió en mi aprendiz me habría ahorrado una vida de molestias!"
+
+"El desarrollador prolífico puede aparecer disfrutando el trabajo, sin embargo no siempre es así," dijo Jinyu. "Todos tienen tareas que disfrutar y tareas que aborrecer. El defecto de Djishin era que era muy perezoso para buscar soluciones más allá de la punta de sus dedos. <em>Tu</em> defecto era que <em>tú</em> nunca miraste más allá de su Laboriosidad Externa para descubrir la Pereza Interna de la cual salió. Afortunadamente, el antiguo maestro de Djishin me avisó del defecto del monje antes que lo tomara."
+
+La mandíbula de Banzen quedó abierta. "¿Por qué no lo mencionaste años antes?"
+
+Jinyu golpeó a Banzen en su cabeza con su bastón. "¿Por qué nunca subiste las escaleras a mi oficina y pediste mi consejo? No molestes mis oídos con Djishin -- el aprendió <em>bien</em> de tu ejemplo."
+
+{{*}} Véase los casos [[#78]], [[#108]], [[#109]], [[#134]], [[#167]], [[#190]].

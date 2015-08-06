@@ -1,0 +1,46 @@
+Date: 2015-06-15
+Number: 195
+Title: The Magician's Code
+Names: Elephant's Footprint Clan, Bawan
+Topics: Java, transactions, annotations, internals, AOP, third-party code, open source, black boxes, encapsulation
+Geekiness: 3
+Tagline: In which bunnies make a brief appearance.
+Illus.0.src: Rabbit.jpg
+Illus.0.title: I put two rabbits in the box, and eight came out.  I'm pretty sure that wasn't mentioned in the documentation.
+
+A monk of the [[Elephant's Footprint Clan]] found that his
+new service method was failing to update the database,
+although no exceptions were thrown.  He sought the help of
+Java master [[Bawan]].
+
+After a brief investigation, Bawan declared, "Your
+Service's auto-generated proxy object is not committing the
+transaction because the /Transactional/ annotation was
+placed on a private helper method, instead of on the
+public interface method which calls it."
+
+"I do not understand," said the monk. "What is this 'proxy
+object' that you speak of?"
+
+Bawan eyed the monk suspiciously.
+"Describe to me how commits and rollbacks are done by the
+AOP framework."
+
+The monk shrugged.  "They are done automatically."
+
+Bawan smacked the monk on the head.  "If I ask you how the
+Emperor's magician makes rabbits disappear, will you answer:
+'by magic'?  Think before speaking, or I will show you how I
+make monks disappear."
+
+The monk rubbed his head.  "Should we not expect a third-party
+framework to liberate us from the need to know its internals?
+What of the Principle of the Black Box?"
+
+Bawan reached behind the monk's left ear, produced a
+wooden spoon out of thin air, and hit the monk with that
+too.  "When a rabbit is placed inside the Black Box and
+vanishes on cue, it is the audience's privilege to simply
+/ooh/ and /aah/ in wonderment.  But we who step on
+stage should know how the trick is done.
+The loss of innocence is the price of applause."

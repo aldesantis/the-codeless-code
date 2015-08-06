@@ -1,0 +1,104 @@
+Number: 143
+Title: Monolith
+Credits: Vielen Dank an benzrf für die Verbesserungsvorschläge!
+Translator: andrebogus
+Lang: de
+
+Der junge Mönch [[Djishin]] trat zu Meister [[Kaimu]] und sagte,
+"Erzählt mir vom [[Temple of the White Iron Sky|Tempel des weißen 
+Eisenhimmels]], wo ihr ausgebildet wurdet."
+
+Kaimu sprach, "Es ist ein seltsamer und gefährlicher Ort.  Wissen hängt
+dick wie Nebel in der Luft, doch wenn Du nur eine Stunde dort bleibst,
+wirst Du weniger wissen als zuvor."
+
+Djishin dachte, /Ich muss sehen, wie so etwas sein kann./
+So ging er los.
+
+Seiner Karte zufolge lag der Tempel zwischen zwei dicht bewaldeten
+Hügeln unterhalb der Berge; ein Schild am Rande der Hauptśtraße wies 
+einen ungepflegten Pfad dorthn aus.  Djishin folgte dem Pfad durch ein
+großes /UND/-Tor{{*}} und sah, dass der Hügel dahinter tatsächlich in
+Nebel gehüllt war, der in dichten Schwaden aus einem Zypressenwald
+weiter oben herunter rollte. Der Nebel wand sich um den Fuß eines
+hellen Turms in der Mitte des Tempelgeländes.  Der Pfad -- hier von
+feuchten Steinen gesäumt -- führte Djishin zu dessen Eingang.
+
+"Was ist dieser Ort, Freund?" fragte er einen weiß gekleideten Mönch,
+der auf den Stufen saß.
+
+Der Mönch schaute von der Lektüre seines Haskell-Codes auf.  "Fremde
+nennen ihn den Turm des Elefantenstoßzahns, auch wenn wir einen anderen
+Namen dafür haben.  Doch saget mir: Seid Ihr ein Software-Entwickler?"
+
+"In meinem Herzen und Tun." antwortete Djishin.
+
+"Wenn Ihr auch im Denken einer sein wollt, so folget dem Pfad zum
+Zypressenhain, und redet mit den Nonnen, die dort meditieren," sprach
+der weiß gekleidete Mönch. "Ihr seid noch nicht bereit für den Turm."
+
+- - -
+
+Im Zypressenhain verdichtete sich der Nebel zu einer warmen, bitter
+schmeckenden Suppe;  von irgendwo weiter oben hörte man Wasser gluckern.
+Die Bäume teilten sich, und Djishin fand sich auf einer Lichtung, wo
+vier Nonnen in weißen Roben meditierend um einen Monolith von schwarzem
+Basalt saßen, auf dem fremdartige Zeichen eingraviert waren, wie sie
+der Mönch noch nie zuvor gesehen hatte:
+
+<pre>
+  (>>=) :: m a -> (a -> m b) -> m b
+          return :: a -> m a
+</pre>
+
+"Was ist dieser Monolith, verehrte Schwestern?" fragte Djishin.
+
+"Wir nennen ihn die Monade," sprach die erste Nonne.
+
+"Warum verehrt ihr sie so?" fragte Djishin.
+
+"Durch sie können wir das Unreine berühren, ohne selbst unrein zu
+werden," sagte die zweite Nonne.  "Wir können einen Vielleicht-Baum mit
+einer Vielleicht-Axt fällen und immer ein Vielleicht-Geräusch hören,
+wenn er fällt -- selbst dann, wenn das Geräusch Nichts ist, wenn die Axt
+nicht real oder kein Baum zu fällen ist."
+
+"Könnt Ihr... diese Erklärung erklären?" fragte Djishin.
+
+"Sie befähigt uns, ohne Fehler zu programmieren," sagte die dritte 
+Nonne. "Denn wir betrachten eine Funktion nur dann als sicher, wenn ihr
+Ergebnis nur von ihren Eingaben abhängt.  Doch wenn eine Funktion
+Seiteneffekte blutet, kann aus jedem Tropfen eine Rebe sprießen, und#
+unser Programm mit seinen Dornen stechen.  Die Monade heißt uns, den
+Fluss mit Bandagen zu stillen. Wir binden die Funktion, fesseln die Welt
+geben sie hinein, schütteln und holen sie wieder heraus, und das ist,
+worum es geht."
+
+"Und diese Gravur, das ist Code?" fragte Djishin, den Monolith 
+bewundernd.
+
+Die Nonnen sahen sich an.  "Eines Tages werden sie alle kennen, so wie
+/20 GOTO 10/.  Doch sagt uns: Seid Ihr ein Software-Entwickler?"
+
+"Ich bin mir nicht mehr sicher," antwortete Djishin, der nun vollends
+konfus war.
+
+An diesem Moment war der junge Mönch erleuchtet.
+
+
+== Qi's Kommentar
+
+Ironischerweise hat die Monade immer mindestens einen Seiteneffekt:
+Sie macht, dass ich mich wie ein Idiot fühle.
+
+
+== Qi's Gedicht
+
+Der Bildschirm schwarz, und jedes Semikolon flieht 
+in alle Ecken, stürmisch weh'n die Daten
+Doch wenn der Sturm verzogen -- wie man sieht --
+die Ruhe ist in Rätseln nur zu raten.
+
+
+
+{{*}} Anm. des Übersetzers: Das Original-/AND/-Gate ist ein Wortspiel, denn Gate ist sowohl ein Tor als auch eine elektronische Schaltung

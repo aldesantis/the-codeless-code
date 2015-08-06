@@ -4,6 +4,7 @@ Number: 96
 Names: Kaimu
 Topics: immutability, thread safety, multithreading, state
 Geekiness: 2
+Lang: de
 Translator: andrebogus
 Illus.0.src: Sleepy.jpg
 Illus.0.title: Versuche ihn nicht vor 6 Uhr Morgens zu rufen
