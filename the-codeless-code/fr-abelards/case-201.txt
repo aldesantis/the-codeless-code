@@ -1,0 +1,121 @@
+Number: 201
+Lang: fr
+Translator: abelards
+Title: Heureux les ignorants
+Tagline: Dans laquelle notre famille reçoit un petit paquet de joie.
+Credits: Mille mercis à <a href="http://sialiasnest.tumblr.com/">Sialia</a> d'avoir suggéré le thème de cette semaine.
+
+Le [[Spider Clan|Clan de l'Araignée]] avait perdu
+de nombreux abbés sous la férule de maître [[Suku]],
+qui avait peu de tolérance pour les imbécillités
+managériales.{{1}}
+Mais Suku voyageait maintenant avec ses apprentis,
+et le Temple avait finalement recruté son dernier abbé
+remplaçant : un étranger venu de l'Ouest nommé
+[[Ruh Cheen]].
+
+Ruh Cheen avait été directement embauché par Madame [[Jinyu]],
+l'Abbesse de Tous les Clans et Préoccupations.
+Puisque la jeune maître [[Zjing]] avait été assignée au
+Clan de l'Araignée, Jinyu la fit appeler pour rencontrer
+le nouvel abbé.
+
+Ruh Cheen s'inclina maladroitement devant Zjing.
+"Je suis impatient de vous apporter mon soutien dans notre
+mission commune," dit-il gaiment. "Je nous vis comme
+deux grosses mules laides tirant le même chariot.
+Alors je ferai de mon mieux pour rester en dehors de votre
+chemin, de peur de vous faire trébucher et que nous ne nous
+retrouvions tous les deux le museau dans la boue."
+
+"Cela est... une bonne nouvelle," dit Zjing.
+
+Madame Jinyu ajouta, "Ruh Cheen n'est pas seulement nouvellement
+arrivé dans notre Temple, mais aussi dans le monde du développement
+logiciel. Son emploi précédent était de gérer une équipe de videurs
+de poisson."
+
+"Cela est... une nouvelle un peu moins bonne," dit Zjing.
+
+"Pour moi, le Python est un serpent et le Ruby une pierre précieuse," {{2}}
+dit Ruh Cheen en souriant. "Alors j'aurai besoin de votre aide pour
+m'apprendre les tenants et aboutissants de tout ce que l'on peut faire
+ici".
+
+"Cela est... wow," dit Zjing, incapable de trouver un adjectif approprié.
+"Si vous voulez bien m'excuser, je vais aller informer
+le Clan de l'Araignée de cette... nouvelle."
+
+- - -
+
+Zjing appela ses moines en séance privée.
+Leur étonnement se transforma vite en peur.
+
+"Comment cet abbé peut espérer gérer ce qu'il ne comprend
+même pas ?" demanda l'un.
+
+"Comment la vieille Jinyu peut l'avoir embauché ?" demanda un autre.
+
+"En fait elle veut nous punir de nous êtres débarrassés des
+autres abbés !" cria un troisième.
+
+"Si seulement nous pouvions retrouver /un seul/ de ces abbés,
+pour nous sauver de ce désastre annoncé !" se lamenta un quatrième.
+
+Le brouhaha allait grandissant jusqu'à ce que Zjing exige le silence.
+
+"Madame Jinyu n'est pas idiote," dit-elle. 
+"Et il n'est pas dans son intérêt de nous faire échouer.
+Ainsi il est certain que son choix est le meilleur pour le Temple.
+Si nous ne pouvons voir la sagesse derrière ce choix,
+alors la seule erreur est que nos yeux n'ont pas encore
+été ouverts. Soyons patients, et apportons tout notre soutien
+à cet étrange abbé. Avec le temps, nous serons éclairés."
+
+Et tandis que ces mots quittèrent ses lèvres,
+Zjing elle-même reçut l'illumination.
+
+- - -
+
+Madame Jinyu fit appeler Zjing dans ses bureaux ce soir-là.
+
+"Mes espions m'ont rapporté votre discours réconfortant
+au Clan de l'Araignée," dit la vieille Abbesse.
+
+"C'étaient mes mots, mais je ne les croyais pas,"
+confessa Zjing à voix basse. "Je désirais seulement
+rétablir l'ordre."
+
+"Et l'ordre fut rétabli," dit l'Abbesse.
+"Et pourquoi donc la petite Zjing a l'air si troublée ?"
+
+Zjing fit : "Quand je fus élevée au rang de Maître, je me suis dit,
+<i>dis toujours la vérité telle que tu la vois, et tu feras le bien.</i>
+Mais aujourd'hui j'ai appris que pour faire le bien, parfois il faut
+dire des mensonges que l'on déguise en sagesse. Qu'est-ce alors
+que la sagesse ? Qu'est-ce alors que la vérité ?"
+
+Jinyu fit: "Un soir il y a bien longtemps, il y eut un grand orage,
+et mon fils aîné accouru apeuré auprès de moi. Je lui ai dit que
+des esprits célestes chassaient les cauchemars sous la pluie ;
+que chaque éclair était un harpon lancé depuis les nuages,
+et que chaque roulement de tonnerre était le dernier souffle
+d'un démon. Nous avons tous les deux bien dormi après cela.
+Mon mensonge est facile à voir, mais dans son ombre se
+cache une vérité encore plus grande."
+
+== Le commentaire de Qi
+
+J'avouerais volontiers que tout ce que j'ai écrit dans
+ce livre est un mensonge, mais je ne peux, car il n'y a
+même pas de livre.
+
+== Le poème de Qi
+
+[[Mugen]] demanda à Eku, <i>Suis-je devenu gras et laid ?</i>  //
+[[Eku]] demanda à Mugen, <i>Suis-je devenue pâle et ridée ?</i>  //
+Quand le mensonge répond au mensonge, la vérité périt -- //
+Mais deux vieux maîtres se tiennent par la main dans le soleil couchant.
+
+{{1}} Voir les cas [[#61|61]], [[#62|62]], [[#67|67]], [[#120|120]], et [[#153|153]].
+{{2}} la version originale dit "pour moi /java/ (café) est quelque chose que l'on boit, et /tomcat/ (matou) est quelque chose que l'on caresse."
