@@ -1,5 +1,5 @@
 Lang: ru
-Translator: Dmitry Esarev
+Translator: ed
 Number: 199
 Title: Невольный Единомышленник
 

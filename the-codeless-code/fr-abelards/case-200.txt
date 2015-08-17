@@ -1,0 +1,140 @@
+Title: Le Booléen
+Number: 200
+Lang: fr
+Translator: abelards
+Tagline: Dans lequel on a la nostalgie d'une époque plus simple.
+Credits: Merci à Stephen Loftus-Mercer et David Kotsonis d'avoir relevé des tpyos. Je veux dire, des typso. Je veux dire, des trucs que j'ai mal épelés.
+
+<i>Pour marquer l'occasion solennelle de l'entrée du deux centième koan
+dans les annales du Temple, j'ai demandé à la nonne
+[[Yíwen]] de me préparer un long traité informatif (et bourré de notes
+de bas de page) sur l'histoire du type de données Booléen.
+Je fus consterné de recevoir à la place ces rimes désordonnées.
+Toutes mes excuses à ceux d'entre vous qui étaient venus chercher ici
+quelque propos édifiant. -- Qi.</i>
+
+- - -
+
+Dans l'an- //
+cien temps //
+ce fut //
+connu
+
+les mots //
+nouveaux //
+entrent par paire //
+dans le dictionnaire :
+
+        non / oui, //
+        elle / lui, //
+        toi / moi, //
+        eux / nous,
+
+        fille / gars, //
+        peine / joie, //
+        yin / yang, //
+        hors / dans.
+
+C'était //
+vois-tu //
+plutôt //
+voulu --
+
+tout est //
+à voir //
+en blanc //
+ou noir :
+
+        présent / absent, //
+        arrière / avant, //
+        vivant / mort, //
+        raison / tort.
+
+        pile / face, //
+        éteint / en marche, //
+        laid / beau, //
+        vrai / faux.
+
+On avance //
+là ou ici : //
+pas de nuances //
+ni de gris.
+
+C'est touché //
+ou manqué. //
+Si c'est pas //
+ci c'est ça :
+
+        faible / fort, //
+        déteste / adore, //
+        perdu / gagné //
+        fonctionne / cassé,
+
+        rapide / lent, //
+        monte / descend, //
+        joie / peine, //
+        amour / haine.
+
+
+Mais si, //
+malin, //
+tu vois //
+plus loin --
+
+observant //
+résolument.
+
+À chaque paire, à ces contraires, //
+
+//
+
+pleinement conscient et /aware/, //
+repousse ton instinct et refuse //
+cette tendance qui nous abuse, //
+qui impose cette simplicité binaire --
+
+alors tu finiras //
+par voir au-delà
+
+qu'en vérité presque rien //
+n'est tout l'autre ou tout l'un.
+
+Les mots ne sont que des outils -- //
+les /floats/, les /ints/, les /bools/ aussi
+
+au final, une grossière approximation //
+pour faciliter la communication.
+
+Et chaque chaîne de mot, fut-elle exquise, //
+ne sera jamais au mieux qu'imprécise,
+
+et au pire une tragique illusion, voire une imposture //
+(cela inclut bien sûr cette phrase dont vous faites la lecture).
+
+//
+
+Voilà //
+ma loi :
+
+<i>ne pense rien //
+en booléens.</i>
+
+Si tu es sûr //
+redoute //
+préfère plutôt //
+le doute
+
+(sauf si tu crois //
+que ce que tu vois //
+n'est que bonne foi //
+et toujours sera...
+
+        nuit / jour, //
+        long / court, //
+        bon / mauvais, //
+        bien fait / mal fait, //
+
+        gauche / droite, //
+        fou / sain, //
+        tout / rien, //
+        zéro / un).
