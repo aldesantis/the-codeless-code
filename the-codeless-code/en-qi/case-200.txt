@@ -6,6 +6,7 @@ Topics: booleans, binary, opposites
 Geekiness: 2
 Tagline: In which we are nostalgic for simpler times.
 Credits: Many thanks to Stephen Loftus-Mercer and David Kotsonis for pointing out some tpyos.  I mean typso.  I mean things I spelled wrong.
+Illus.0.src: Bird Girl.jpg
 
 <i>To mark the solemn occasion of the two-hundredth case
 being entered into the annals of the Temple, I asked the nun
