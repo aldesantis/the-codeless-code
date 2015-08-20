@@ -6,6 +6,8 @@ Topics: management, Agile, optimism, pessimism, change, planning, documentation,
 Geekiness: 2
 Tagline: In which our family receives a little bundle of joy.
 Credits: Many thanks to <a href="http://sialiasnest.tumblr.com/">Sialia</a> for suggesting this week's topic.
+Illus.0.src: lifesaver.jpg
+Illus.0.title: If she has to use that oar, it won't be to row the lifeboat.
 
 After he had been with the Temple for several weeks, the new abbot
 [[Ruh Cheen]] called up young master [[Zjing]] on his monitor.
@@ -22,7 +24,7 @@ everyone."
 an awful lot of diagrams and documents and whatnot, which we
 review at meeting after meeting, all just to /plan/ what
 we're going to build.  But this here Agile Manifesto says that
-all these artifacts and contracts and processes are nowhere
+these artifacts and contracts and processes are nowhere
 near as important as having a product you can poke at.  So
 from now on I want us to /do/ a lot less /planning,/ and
 /plan/ on a lot more /doing/.  Wireframes?  Wastebasket!
