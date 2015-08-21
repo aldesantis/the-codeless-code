@@ -5,7 +5,6 @@ Names: Zjing, Ruh Cheen, Banzen
 Topics: management, Agile, optimism, pessimism, change, planning, documentation, reviews
 Geekiness: 2
 Tagline: In which our family receives a little bundle of joy.
-Credits: Many thanks to <a href="http://sialiasnest.tumblr.com/">Sialia</a> for suggesting this week's topic.
 Illus.0.src: lifesaver.jpg
 Illus.0.title: If she has to use that oar, it won't be for rowing.
 
