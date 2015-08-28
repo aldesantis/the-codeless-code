@@ -1,0 +1,42 @@
+Date: 2015-08-22
+Title: In the Stars
+Number: 203
+Names: Tongshing
+Topics: management, customer relations
+Geekiness: 0
+Tagline: In which the fault lies not in ourselves.
+Illus.0.src: constellation.jpg
+Illus.0.title: I drew a slash in front of one of those stars and accidentally commented out the rest of the drawing.
+
+A certain senior monk found himself in need of more
+developers to meet his project's deadline.  He asked the
+clan abbot for help.
+
+Said the abbot: Let us go to [[Tongshing]] the Project Manager;
+for he is wise in the ways of Customer Relationships, and
+can advise us on how best to approach our client.
+
+After hearing their desires, the Project Manager unfolded a
+morning newspaper.  He turned to the page on which the day's
+astrological forecasts were printed, scrutinized it, frowned
+and said: today is not a propitious day.  Consult me again
+tomorrow.
+
+The next day, and the day after, and the day after that, the
+monk and the abbot returned to the Project Manager for
+counsel.  Each time, the Project Manager unfolded his paper,
+shook his head, and told the pair to return tomorrow.
+
+But on the fifth day, Tongshing said: if you each don robes
+of crimson, today will be a most propitious day to ask your
+client for more money.
+
+The monk and the abbot did as they were told, and returned
+to the Temple with a pouch full of silver coins.  Later, the
+monk went to the Project Manager and said: I cannot argue with
+success, but your methods are most unorthodox.  In an
+Enlightened Age such as ours, how did you come to believe in
+astrology?
+
+I do not, said the Project Manager.  But your client does,
+and he subscribes to this same newspaper.
