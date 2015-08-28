@@ -1,0 +1,58 @@
+Number: 185
+Title: Kommentar-Kompression für Soziale Medien
+Tagline: Worin wir eine soziale Krankheit verbreiten.
+Translator: andrebogus
+Lang: de
+
+Soziale Medien verbrauchen in alarmierender Menge Ressourcen. Jeden Tag
+posten Nutzer etwa 40 Millionen Tweets und 3,5 /Milliarden/ 
+Facebook-Nachrichten {{i}} . . . zusätzlich zu Google Plus, Kinja,
+Reddit, LiveJournal{{2}} und so weiter . . .
+
+Glücklicherweise zeigt die semantische Analyse des Traffics einen
+erheblichen Anteil an Duplikaion.  Um also Bandbreite, Speicher, und
+aufgrund von "Texting-Daumen" {{3}} verlorene Arbeitsstunden 
+einzusparen, schlage ich ein <b>neues standardisiertes Menü</b> vor,
+das jeden Kommentar auf sozialen Medien auf eine 5-Bit-Nummer 
+(0 bis 31) reduziert:
+
+<ol start="0">
+<li> "Ja" (oder “+1”)
+<li> "Nein" (oder “-1”)
+<li> "Egal" (or “×1”)
+<li> tl;dr
+<li> LOL
+<li> SMH
+<li> LOLSMH
+<li> ZOMGROTFLMAOSMH <i>[versuche dies nicht IRL].</i>
+<li> Obligatorischer <a href="http://xkcd.com">XKCD-Comic</a>.
+<li> Irrelevante Fakten.
+<li> bissiger Kommentar.
+<li> Boojum.
+<li> Ein Bild von Deinem Mittagessen.
+<li> Ein Bild von Deinen Genitalien.
+<li> Ein Bild der "Genug Internet für heute" Katze.
+<li> "Firefly" Zitat.
+<li> Wortspiel.
+<li> Schlechtes Wortspiel.
+<li> Kleiner nicht witziger Witz auf Kosten des abwesenden Partners, gibt Lesern einen Einblick in die Bitterkeit Deiner trostlosen Beziehung.
+<li> Plumper Anmach-Versuch mittels sexuellen Andeutungen gefolgt von ;-).
+<li> Unbeholfener Versuch, den vorigen Anmach-Versuch mittels "j/k" gefolgt von ;-) zu übertünchen.
+<li> Trollen.
+<li> Vage Andeutungen.
+<li> Sycopantisches Molly-Knuddeln <i>[In Indiana inzwischen verboten].</i>
+<li> Betrunkenes Geständnis <i>[In Sicherheitseinstellungen zu deaktivieren].</i>
+<li> Ausschweifende Generalisierung.
+<li> #NotAll___.
+<li> Beobachtung dass /DEIN/ Geschlecht/Religion/politische Partei etwas /VIEL SCHLIMMERES/ tut.
+<li> Argumentum Ad Hominem.
+<li> F-Bombe!
+<li> Godwin's Law <i>[beendet automatisch die Debatte].</i>
+<li> Ich verdiene $6400 pro Woche von zu Hause mit diesem einen von einer Mutter erfundenen Trick zur Penisverlängerung: Frag mich wie! {{4}}
+</ol>
+
+
+{{1}} Statistik von <a href="http://www.gwava.com/blog/internet-data-created-daily-2014">dieser Seite</a>.
+{{2}} Nein, wirklich, LiveJournal gibt es noch.  Snopes bestätigt es.
+{{3}} "Texting Thumb" ist ein echter Krankheitsbefund, auch bekannt als <a href="http://ergonomics.about.com/od/De-Quervains_Syndrome/a/What_Is_Texting_Thumb.htm">De Quervain's Syndrom</a>.
+{{4}} 90% allen Internet-Traffics, einer Statistik zufolge, die ich mir gerade ausgedacht habe.
