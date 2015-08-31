@@ -1,3 +1,5 @@
+Lang: de
+Translator: andrebogus
 Title: Unwissenheit Ist Ein Segen
 Number: 201
 Tagline: Worin unsere Familie ein Bündel GLückseligkeit empfängt.
