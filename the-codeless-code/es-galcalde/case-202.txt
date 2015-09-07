@@ -3,6 +3,7 @@ Title: Anclas Libres del Fondo
 Lang: es
 Translator: galcalde
 Tagline: En la cual nuestra familia recibe un pequeño manojo de alegría.
+Illus.0.title: Si ella tiene que usar ese remo, no será para remar.
 
 Después de haber estado con el Templo por varias semanas, el nuevo abad [[Ruh Cheen]] llamó a la joven maestra [[Zjing]] a su monitor.
 
