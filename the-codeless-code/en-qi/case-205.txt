@@ -4,6 +4,8 @@ Number: 205
 Names: Suku
 Topics: naming, collections
 Geekiness: 2
+Illus.0.src: bomb.jpg
+Illus.0.par: 2
 
 Master [[Suku]] and her apprentices had chosen to end the
 summer in a valley below a great mountain range, conducting
