@@ -2,6 +2,8 @@ Title: In den Sternen
 Number: 203
 Tagline: Worin der Fehler nicht bei uns liegt.
 Illus.0.title: Ich habe einen Schrägstrich vor diese Sterne gemalt und versehentlich den Rest des Bildes auskommentiert.
+Lang: de
+Translator: andrebogus
 
 Ein gewisser älterer Mönch sah, dass sein Projekt mehr Entwickler brauchen 
 würde, um den Termin halten zu können.  Er fragte den Abt seines Ordens um 
