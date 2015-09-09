@@ -1,6 +1,6 @@
 Title: Vor Anker
 Number: 202
-Tagline: Worin unsere Familie ein kleines Bündel Glück empfängt.
+Tagline: Worin unsere Familie ein Bündel Glückseligkeit empfängt.
 Illus.0.title: Dieses Ruder braucht sie nicht zum Rudern.
 Lang: de
 Translator: andrebogus
