@@ -1,61 +1,53 @@
-Date: 2015-08-15
-Title: Anchors Aweigh
+Title: Vor Anker
 Number: 202
-Names: Zjing, Ruh Cheen, Banzen
-Topics: management, Agile, optimism, pessimism, change, planning, documentation, reviews
-Geekiness: 2
-Tagline: In which our family receives a little bundle of joy.
-Illus.0.src: lifesaver.jpg
-Illus.0.title: If she has to use that oar, it won't be for rowing.
+Tagline: Worin unsere Familie ein kleines Bündel Glück empfängt.
+Illus.0.title: Dieses Ruder braucht sie nicht zum Rudern.
+Lang: de
+Translator: andrebogus
 
-After he had been with the Temple for several weeks, the new abbot
-[[Ruh Cheen]] called up young master [[Zjing]] on his monitor.
+Einige Wochen nach seiner Ankunft im Tempel, rief der neue Abt [[Ruh Cheen]]
+die junge Meisterin [[Zjing]] zu sich.
 
-"I've been studying all the finicky little details of how
-software gets built here," said Ruh Cheen.  "Now, I don't
-want to ruffle any feathers, but I've come up with a simple
-way to make things go /much/ faster and smoother for
-everyone."
+"Ich habe bis ins Detail angesehen, wie hier Software gebaut wird," sagte Ruh 
+Cheen.  "Nun, ich möchte hier niemanden verärgern, aber ich habe einen 
+einfachen Weg gefunden, die Dinge /viel/ schneller und einfacher zu machen.
 
-"That is... surprising," said Zjing.
+"Das ist... überraschend," sagte Zjing.
 
-"Now the thing is," said Ruh Cheen, "our developers produce
-an awful lot of diagrams and documents and whatnot, which we
-review at meeting after meeting, just to /plan/ what we're
-going to build.  But this here Agile Manifesto says that all
-those things are nowhere near as important as having a
-product you can poke at.  So from now on I want us to /do/ a
-lot less /planning,/ and /plan/ on a lot more /doing/.
-Wireframes?  Wastebasket!  Designs?  Don't bother!
-Sign-offs?  Sayonara!"
+"Nun, die Sache ist die," sagte Ruh Cheen, "unsere Entwickler estellen eine
+schrecklich große Menge an Diagrammen und Dokumenten und was nicht noch alles,
+die wir in Meeting um Meeting prüfen, nur um zu /planen/ was wir bauen werden.
+Nun dieses 'Agile Manifesto' sagt dass all diese Dinge nicht ansatzweise so
+wichtig sind wie ein anschauliches, laufendes Produkt.  Also /plane/ ich, ab
+sofort wesentlich mehr zu /tun/, und weniger zu /planen/. Wireframes? 
+Papierkorb! Design-Dokumente? Vergiss es! Abnahmen? Sayonara!"
 
-"Interesting," began Zjing.  "But--"
+"Interessant," fing Zjing an.  "Aber--"
 
-"Now now..." said Ruh Cheen, "I know that change is
-scary, but I've already pitched the idea to the developers
-and they were downright optimistic."
+"Jetzt nicht..." sagte Ruh Cheen, "Ich weiß, dass Veränderung ängstigt, aber 
+ich habe den Entwicklern die Idee bereits vorgestellt, und sie waren 
+außerordentlich optimistisch."
 
-Feeling the panic rise in her chest, Zjing made a quick excuse
-and ended the call.  When her breathing returned to normal,
-she called master [[Banzen]].
+Die Panik in ihrem Brustkorb aufsteigen fühlend, entschuldigte sich Zjing 
+hastig, und beendete den Anruf.  Als ihre Atemfrequenz wieder auf Normalmaß
+zurückgegangen war, rief sie Meister [[Banzen]] an.
 
 - - -
 
-As she spoke, Zjing fidgeted with a [[#54|cut bundle of
-knotted rope]] that she kept on her desk.  "If I cling to my
-pessimism, it is only because it has been so dearly bought."
+Beim Sprechen spielte Zjing mit einem 
+[[#14|abgeschnittenen Bündel verknotete Seils]], das sie auf ihrem Schreibtisch
+aufbewahrte.  "Wenn ich mich an meinen Pessimismus klammere, dann nur, weil ich
+ihn so teuer erkauft habe."
 
-"As a perfectionist, I sympathize," said the old master.
-"For perfectionism and pessimism are twin blossoms, both
-rooted in the fear of failure.  But even I must concede that
-when an optimist and a pessimist set out to sea, it is the
-optimist who sails toward the unknown with dreams of
-discovery, while the pessimist seeks only a safe harbor."
+"Als Perfektionist kenne ich das nur zu gut," sagte der alte Meister. "Denn
+Perfektionismus und Pessimismmus sind Zwillinge, beide geboren aus der Angst,
+zu versagen.  Doch selbst ich muss zugeben, dass wenn ein Optimist und ein
+Pessimist zur See fahren, es der Optimist ist, der von Entdeckung träumend ins
+Unbekannte segelt, während der Pessimist nur sicheren Hafen sucht."
 
-"Yet what is the pessimist to do when the shoreline is
-receding from view?" asked Zjing.
+"Aber was soll ein Pessimist tun, wenn die Küstenlinie immer ferner wird?"
+fragte Zjing.
 
-"A true pessimist calls upon one of like mind before setting
-foot in the craft," said Banzen.  "Whereupon her friend
-would advise her to bring extra rations, life preservers,
-and a flare gun."
+"Ein echter Pessimist ruft jemand Gleichgesinnten an, bevor er einen Fuß in das 
+Schiff setzt," sagte Banzen.  "Woraufhin ihr Freund ihr raten würde, 
+zusätzliche Rationen, Schwimmwesten und eine Leuchtpistole mitzunehmen"
