@@ -1,0 +1,53 @@
+Title: Vor Anker
+Number: 202
+Tagline: Worin unsere Familie ein Bündel Glückseligkeit empfängt.
+Illus.0.title: Dieses Ruder braucht sie nicht zum Rudern.
+Lang: de
+Translator: andrebogus
+
+Einige Wochen nach seiner Ankunft im Tempel, rief der neue Abt [[Ruh Cheen]]
+die junge Meisterin [[Zjing]] zu sich.
+
+"Ich habe bis ins Detail angesehen, wie hier Software gebaut wird," sagte Ruh 
+Cheen.  "Nun, ich möchte hier niemanden verärgern, aber ich habe einen 
+einfachen Weg gefunden, die Dinge /viel/ schneller und einfacher zu machen.
+
+"Das ist... überraschend," sagte Zjing.
+
+"Nun, die Sache ist die," sagte Ruh Cheen, "unsere Entwickler estellen eine
+schrecklich große Menge an Diagrammen und Dokumenten und was nicht noch alles,
+die wir in Meeting um Meeting prüfen, nur um zu /planen/ was wir bauen werden.
+Nun dieses 'Agile Manifesto' sagt dass all diese Dinge nicht ansatzweise so
+wichtig sind wie ein anschauliches, laufendes Produkt.  Also /plane/ ich, ab
+sofort wesentlich mehr zu /tun/, und weniger zu /planen/. Wireframes? 
+Papierkorb! Design-Dokumente? Vergiss es! Abnahmen? Sayonara!"
+
+"Interessant," fing Zjing an.  "Aber--"
+
+"Jetzt nicht..." sagte Ruh Cheen, "Ich weiß, dass Veränderung ängstigt, aber 
+ich habe den Entwicklern die Idee bereits vorgestellt, und sie waren 
+außerordentlich optimistisch."
+
+Die Panik in ihrem Brustkorb aufsteigen fühlend, entschuldigte sich Zjing 
+hastig, und beendete den Anruf.  Als ihre Atemfrequenz wieder auf Normalmaß
+zurückgegangen war, rief sie Meister [[Banzen]] an.
+
+- - -
+
+Beim Sprechen spielte Zjing mit einem 
+[[#14|abgeschnittenen Bündel verknotete Seils]], das sie auf ihrem Schreibtisch
+aufbewahrte.  "Wenn ich mich an meinen Pessimismus klammere, dann nur, weil ich
+ihn so teuer erkauft habe."
+
+"Als Perfektionist kenne ich das nur zu gut," sagte der alte Meister. "Denn
+Perfektionismus und Pessimismmus sind Zwillinge, beide geboren aus der Angst,
+zu versagen.  Doch selbst ich muss zugeben, dass wenn ein Optimist und ein
+Pessimist zur See fahren, es der Optimist ist, der von Entdeckung träumend ins
+Unbekannte segelt, während der Pessimist nur sicheren Hafen sucht."
+
+"Aber was soll ein Pessimist tun, wenn die Küstenlinie immer ferner wird?"
+fragte Zjing.
+
+"Ein echter Pessimist ruft jemand Gleichgesinnten an, bevor er einen Fuß in das 
+Schiff setzt," sagte Banzen.  "Woraufhin ihr Freund ihr raten würde, 
+zusätzliche Rationen, Schwimmwesten und eine Leuchtpistole mitzunehmen"
