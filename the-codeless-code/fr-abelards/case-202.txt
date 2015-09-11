@@ -1,42 +1,62 @@
 Lang: fr
 Translator: abelards
-Title: Dans les étoiles
-Number: 203
-Tagline: Dans lequel la faute n'est pas nôtre.
-Illus.0.title: J'ai dessiné un slash devant ces étoiles et ai accidentellement commenté tout le reste du dessin.
+Title: Hisse et ho !
+Number: 202
+Tagline: Dans laquelle notre famille reçoit un petit paquet de bonheur.
+Illus.0.title: Si elle doit utiliser cette rame, ça ne sera pas pour ramer.
 
-Un certain moine expérimenté se trouvait avoir besoin
-de davantage de développeurs afin de tenir la date de
-livraison d'un projet. Il demanda de l'aide à l'abbé
-du clan.
+Après plusieurs semaines au Temple, le nouvel abbé
+[[Ruh Cheen]] appela la jeune maître [[Zjing]] sur son écran.
 
-L'abbé dit : Allons voir [[Tongshing]] le Chef de Projet ;
-car il est versé dans les arts de la Relation Clientèle,
-et peut nous conseiller sur la meilleure manière d'approcher
-notre client.
+"J'ai étudié la manière dont on fait les logiciels ici,
+dans ses moindres petits détails," dit Ruh Cheen. 
+"Maintenant, je ne voudrais caresser personne à rebrousse-poil,
+mais j'ai fini par trouver un moyen simple pour que tout aille
+bien plus vite, et de manière bien plus agréable pour chacun."
 
-Après avoir écouté leurs souhaits, le Chef de Projet
-déplia le journal du matin. Il fit tourner les pages
-pour trouver celle de l'horoscope du jour, l'étudia,
-fronça les sourcils et dit : aujourd'hui n'est pas un
-jour propice. Revenez me voir demain.
+"Cela est... surprenant", dit Zjing.
 
-Le jour suivant, et celui d'après, et le jour encore après,
-le moine et l'abbé revinrent voir le Chef de Projet afin
-de trouver conseil. Chaque fois, le Chef de Projet dépliait
-son journal, faisait non de la tête, et leur disait de
-revenir le lendemain.
+"Alors il se trouve," dit Ruh Cheen, "que nos développeurs
+font un sacré nombre de diagrammes et documents et que sais-je encore,
+que nous passons en revue réunion après réunion, et rien que
+pour /planifier/ ce que nous allons construire.
+Mais ce Manifeste Agile que voilà dit que toutes ces choses-là
+sont bien moins importantes qu'un produit que l'on peut triturer.
+Alors à partir de maintenant, je souhaiterais que l'on
+/réalise/ bien moins de /plannings/, et que l'on /planifie/
+bien plus de /réalisations/.
+Prototypes d'écrans ? Poubelle ! Conception ? On oublie !
+Procès-verbaux ? Sayonara !"
 
-Mais le cinquième jour, Tongshing dit : si vous mettez
-tous les deux des robes écarlates, aujourd'hui est un jour
-très favorable pour demander de l'argent à votre client.
+"Intéressant," commença Zjing. "Mais..."
 
-Le moine et l'abbé firent ce qu'on leur avait dit,
-et revinrent au Temple avec un sac plein de pièces d'argent.
-Plus tard, le moine alla voir le Chef de Projet et lui dit :
-je ne peux pas discuter le succès de votre méthode, mais elle
-est tout sauf orthodoxe. Dans Âge des Lumières comme le nôtre,
-comment en êtes-vous venu à croire à l'astrologie ?
+"Du coup..." dit Ruh Cheen, "je sais que tout changement
+fait peur, mais j'ai déjà proposé l'idée aux développeurs,
+et ils sont carrément optimistes."
 
-Je n'y crois pas, dit le Chef de Projet.
-Mais votre client y croit, et il est abonné à ce même journal.
+Sentant la panique lui emplir la poitrine, Zjing trouva
+une rapide excuse et termina l'appel. Quand son souffle
+revint à la normale, elle appela maître [[Banzen]].
+
+- - -
+
+En parlant, Zjing triturait un [[#54|bout de corde emmêlée]]
+qu'elle gardait sur son bureau.
+"Si je m'attache à mon pessimisme, c'est seulement parce qu'il
+fut si durement acquis."
+
+"En tant que perfectionniste, je compatis", dit le vieux maître.
+"Car perfectionnisme et pessimisme sont des boutures jumelles,
+chacune enracinée dans la peur de l'échec.
+Mais même moi je dois concéder que quand un optimiste et un
+pessimiste font du bateau, c'est l'optimiste qui vogue vers
+l'inconnu plein de rêves de découverte, tandis que le pessimiste
+ne cherche qu'un port à l'abri du danger."
+
+"Mais que doit faire le pessimiste quand le rivage devient
+de plus en plus lointain ?" demanda Zjing.
+
+"Un vrai pessimiste en appelle un autre avant même de mettre
+le pied dans le navire," dit Banzen.
+"Sur quoi son ami lui recommande d'amener des rations
+supplémentaires, des gilets de sauvetage, et des fusées de détresse."
