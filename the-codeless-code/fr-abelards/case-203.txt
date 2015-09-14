@@ -1,0 +1,42 @@
+Lang: fr
+Translator: abelards
+Title: Dans les étoiles
+Number: 203
+Tagline: Dans lequel la faute n'est pas nôtre.
+Illus.0.title: J'ai dessiné un slash devant ces étoiles et ai accidentellement commenté tout le reste du dessin.
+
+Un certain moine expérimenté se trouvait avoir besoin
+de davantage de développeurs afin de tenir la date de
+livraison d'un projet. Il demanda de l'aide à l'abbé
+du clan.
+
+L'abbé dit : Allons voir [[Tongshing]] le Chef de Projet ;
+car il est versé dans les arts de la Relation Clientèle,
+et peut nous conseiller sur la meilleure manière d'approcher
+notre client.
+
+Après avoir écouté leurs souhaits, le Chef de Projet
+déplia le journal du matin. Il fit tourner les pages
+pour trouver celle de l'horoscope du jour, l'étudia,
+fronça les sourcils et dit : aujourd'hui n'est pas un
+jour propice. Revenez me voir demain.
+
+Le jour suivant, et celui d'après, et le jour encore après,
+le moine et l'abbé revinrent voir le Chef de Projet afin
+de trouver conseil. Chaque fois, le Chef de Projet dépliait
+son journal, faisait non de la tête, et leur disait de
+revenir le lendemain.
+
+Mais le cinquième jour, Tongshing dit : si vous mettez
+tous les deux des robes écarlates, aujourd'hui est un jour
+très favorable pour demander de l'argent à votre client.
+
+Le moine et l'abbé firent ce qu'on leur avait dit,
+et revinrent au Temple avec un sac plein de pièces d'argent.
+Plus tard, le moine alla voir le Chef de Projet et lui dit :
+je ne peux pas discuter le succès de votre méthode, mais elle
+est tout sauf orthodoxe. Dans Âge des Lumières comme le nôtre,
+comment en êtes-vous venu à croire à l'astrologie ?
+
+Je n'y crois pas, dit le Chef de Projet.
+Mais votre client y croit, et il est abonné à ce même journal.
