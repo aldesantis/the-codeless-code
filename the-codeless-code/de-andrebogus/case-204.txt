@@ -1,0 +1,48 @@
+Title: Nachtschicht
+Number: 204
+Tagline: Worin Zeit relativ ist.
+Lang: de
+Translator: andrebogus
+
+Die kleine Nonne [[Hwidah]] war bekanntermaßen Meister [[Banzen]]s erste Wahl,
+wenn jemand Probleme auf Produktion untersuchen sollte. Hwidah war nicht stolz
+auf diese Rolle, denn sie vermutete, dass dies lediglich 
+[[#152|Banzens Strafe]] für ihre Neugier sei.  Die Tatsache, dass sie nun
+täglich stundenlang über Log-Dateien brütete, war nicht geeignet, ihren 
+Verdacht zu entkräften. 
+
+"Es ist höchst frustrierend," sagte sie Banzen, als dieser sie fragte, wie sie
+mit ihrer neuesten Aufgabe zurecht käme.  "Theoretisch sollte so ein Problem
+nur auftreten, wenn der Lauf nicht um Mitternacht los geht.  Unsere Log-Dateien
+zeigen aber an, dass der Lauf vier Stunden später als geplant begann, aber ich
+kann ums Verrecken nicht herausfinden, warum, und ich werde noch scheel vom
+Log-Lesen"
+
+Banzen schaute sich den laufenden Text am Monitor an.  "Sehr gut," sagte er.
+"Ihr habt genug gelitten.  Wählt eine Stunde am Abend, und Eure weitere 
+Untersuchung sei auf diese eine Stunde beschränkt."
+
+Hwidah dachte einen Moment nach.  "Die siebte Abendstunde," sagte sie, "Dann
+bin ich gerade mit dem Abendessen fertig und allen Herausforderungen 
+gewachsen."
+
+Banzen nickte und ging hinaus.
+
+- - -
+
+Hwidahs Telefon weckte sie nachts um halb Drei. Es war Banzen, der sie in den
+Tempelhof zu einer Rufbereitschafts-Aufgabe zitierte.
+
+"Hatten wir uns nicht auf die siebte Abendstunde geeinigt?" fragte sie müde.
+
+"Haben wir." sagte Banzen.  "Und für mindestens einen unserer Benutzer ist es
+exakt sieben Uhr dreiunddreißig, Ortszeit.  Für einen anderen ist es acht Uhr
+dreiunddreißig, und so weiter, über den ganzen Erdball.  Wie unglücklich, dass
+Ihr die Stunde nicht in UTC spezifiert habt, denn dies wäre eindeutig.
+
+"In der Tat" stöhnte Hwidah.  "Doch wie die meisten geistig gesunden Menschen
+bin ich nicht gewohnt, in UTC zu denken."
+
+"Oh, es ist ganz einfach," sagte Banzen.  "Nehmt einfach unsere Ortszeit und
+addiere vier Stunden.  Ich sehe es als eine gute Übung, um unsere Log-Dateien
+zu lesen, deren Zeitstempel alle in UTC geschrieben werden."
