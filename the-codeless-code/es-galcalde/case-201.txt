@@ -4,7 +4,7 @@ Lang: es
 Translator: galcalde
 Tagline: En la cual nuestra familia recibe un pequeño manojo de alegría.
 
-El [[Spider Clan|Clan de la Araña]] había pedido a muchos abades bajo la maestra [[Suku]], quien tenía poca tolerancia con la estupidez gerencial.{{*}} Pero Suku ahora estaba viajando con sus aprendices, y el Temple finalmente reclutó a su último abad de reemplazo: un extranjero del oeste llamado [[Ruh Cheen]].
+El [[Spider Clan|Clan de la Araña]] había perdido a muchos abades bajo la maestra [[Suku]], quien tenía poca tolerancia con la estupidez gerencial.{{*}} Pero Suku ahora estaba viajando con sus aprendices, y el Templo finalmente reclutó a su último abad de reemplazo: un extranjero del oeste llamado [[Ruh Cheen]].
 
 Ruh Cheen había sido contratado directamente por Madame [[Jinyu]], la Abadesa de Todos los Clanes y asuntos de Interés. Como la joven maestra [[Zjing]] estaba asignada actualmente al Clan de la Araña, Jinyu la llamó para que conociera al nuevo abad.
 
