@@ -1,0 +1,37 @@
+Date: 2015-09-20
+Title: Parrot
+Number: 207
+Names: Bawan, Eku, Eku's parrot
+Topics: laziness, aspiration, impostors, imitation, self-deception
+Geekiness: 1
+Tagline: In which we ask: who's a pretty bird?
+Illus.0.src: crackers.jpg
+Illus.0.title: I used to mix leftover corned-beef hash with flour and yeast to make these *really* tasty saltines.  But when I tried to sell them as "Salted Hash Crackers" I got a visit from the NSA.
+
+
+[[#206|This same monk]] went to master [[Bawan]] and said:
+"Tell me of the monk [[Mudána]], for I am new to the Temple
+and have never heard of him, except that he was banished for
+laziness."
+
+Bawan replied: "Mudána wished to be a great developer.  He
+asked questions of the masters, studied the code of his
+peers, and insisted that the team leads review his work."
+
+The monk said: "If all this is true, then surely Mudána was
+not lazy."
+
+Bawan rapped the monk's head with his staff.  "[[Eku]] had a
+parrot that asked each visitor if Patterns and Antipatterns
+were one and the same, yet the only answer the parrot wanted
+was a cracker.  The bird memorized random bits of
+bibble-babble merely to repeat the sounds.  And it insisted
+on performing for Eku because she would sometimes stroke its
+head."
+
+The monk rubbed his head, saying: "Yet you said that Mudána
+wished to be a great developer!"
+
+Bawan replied: "Eku's parrot wished to be like its master.
+Did it yearn to possess Eku's wisdom, or her ability to open the
+cabinet where the crackers were kept?"

@@ -1,6 +1,7 @@
 Date: 2015-09-13
 Title: Inaction Hero
 Number: 206
+Tagline: In which we are answered.
 Names: Kaimu
 Topics: laziness, industriousness, confidence, inquisitiveness, thoroughness, precision, humility, focus
 Geekiness: 1
