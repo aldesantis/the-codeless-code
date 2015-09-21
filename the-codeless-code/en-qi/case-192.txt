@@ -3,7 +3,7 @@ Number: 192
 Title: The Four Words of Distress
 Subtitle: Part Two
 Part: 2
-Names: Bawan, Eku
+Names: Bawan, Eku, Eku's parrot
 Topics: design, user interfaces, user experience, help, cancel, undo
 Geekiness: 2
 Tagline: In which we reap what we sow.

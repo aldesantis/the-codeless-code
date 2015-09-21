@@ -1,0 +1,78 @@
+Date: 2015-09-13
+Title: Inaction Hero
+Number: 206
+Tagline: In which we are answered.
+Names: Kaimu
+Topics: laziness, industriousness, confidence, inquisitiveness, thoroughness, precision, humility, focus
+Geekiness: 1
+
+A monk emailed master [[Kaimu]]:
+
+      Last week you hinted at Six Qualities //
+      essential to being a diligent developer. //
+      What are these "Six Qualities"?
+
+
+Strangely, within seconds he received a long reply:
+
+      To understand music, //
+      visit the raucous market at noon. //
+      To understand the Six Qualities, //
+      you have only to look around you:
+
+      The First is lacking in the monk [[Mudána]]. //
+      If asked to hunt a deer for supper, //
+      he will spend the day in bed dreaming of venison. //
+      We gave him leave to rest all day -- far away from here.
+
+      The Second is lacking in the nun [[Nabasu]]. //
+      If asked to hunt a deer for supper, //
+      she will cringe as if the bow were a pit-viper, //
+      and beg to be relieved of the duty.
+
+      The Third is lacking in the monk [[Djishin]]. //
+      If asked to hunt a deer for supper, //
+      he will [[#108|try to invent a weapon]] for the task. //
+      That week the Temple will go hungry.
+
+      The Fourth is lacking in the monk [[Landhwa]]. //
+      If asked to hunt a deer for supper, //
+      he will [[#97|drop his bow and haul along a cannon]], //
+      leaving us with little meat, and a large mess.
+
+      The Fifth is lacking in the monk [[Wangohan]]. //
+      If asked to hunt a deer for supper, //
+      he will choose the shuriken [[#194|against all objections]], //
+      and chase a bleeding deer for thirty days.
+
+      The Sixth is lacking in young master [[Zjing]]. //
+      If asked to hunt a deer for supper, //
+      she will promise to do so when she has a free moment... //
+      The deer will be dead of ripe old age by then.
+
+
+The monk thought for a minute and emailed the master:
+
+      The First is too lazy to even begin. //
+      The Second too lazy to conquer self-doubt. //
+      The Third is too lazy to look for good tools. //
+      The Fourth is too lazy to strive for precision. //
+      The Fifth is too lazy to start over fresh. //
+      The Sixth is too lazy to focus attention. //
+
+      Yet if laziness engenders six paths to failure, //
+      how can it be one of the Three Great Virtues?{{*}} //
+
+
+Again, within seconds he received a reply:
+
+      Master Kaimu is away on a deer hunting trip. //
+      When asked to answer emails during his absence, //
+      he decided to code a slick auto-responder instead. //
+      If you're reading this, rephrase and resend your question.
+
+
+
+{{*}} Declared by one of the Patriarchs to be: <a href="http://threevirtues.com">laziness, impatience, and hubris</a>.
+
+

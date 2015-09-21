@@ -1,0 +1,73 @@
+Number: 206
+Title: Heroe de Inacción
+Lang: es
+Translator: galcalde
+
+Un monje le escribió al maestro [[Kaimu]]:
+
+      La semana pasada hiciste alusión a Seis Atributos //
+      esenciales para ser un desarrollador diligente. //
+      ¿Cuales son esos "Seis Atributos"?
+
+
+Extrañamente, en segundos recibió una larga respuesta:
+
+      Para entender la música, //
+      visita el ruidoso mercado al mediodía. //
+      Para entender los Seis Atributos, //
+      sólo tienes que mirar alrededor:
+
+      El primero es insuficiente en el monje [[Mudána]]. //
+      Si se le pide cazar un venado para la cena, //
+      él se pasará el día en la cama soñando con su carne. //
+      Le dejamos descansar todo el día -- muy lejos de aquí.
+
+      El segundo es insuficiente en la monja [[Nabasu]]. //
+      Si se le pide cazar un venado para la cena, //
+      se encogerá como si la reverencia fuese un crótalo, //
+      y pedirá ser aliviada de su deber.
+
+      El tercero es insuficiente en el monje [[Djishin]]. //
+      Si se le pide cazar un venado para la cena, //
+      él [[#108|intentará inventar un arma]] para la tarea. //
+      Esa semana el Templo estará hambriento.
+
+      El cuarto es insuficiente en el monje [[Landhwa]]. //
+      Si se le pide cazar un venado para la cena, //
+      él [[#97|soltará su arco y acarrería un cañon]], //
+      dejándonos con poca carne, y un gran desastre.
+
+      El quinto es insuficiente en el monje [[Wangohan]]. //
+      Si se le pide cazar un venado para la cena, //
+      eligirá el shuriken [[#194|contra toda objeción]], //
+      y perseguirá a un venado sangrante por treinta días.
+
+      El sexto es insuficiente en la joven maestra [[Zjing]]. //
+      Si se le pide cazar un venado para la cena, //
+      ella prometerá hacerlo cuando tenga tiempo libre... //
+      El venado habrá muerto de vejez para ese entonces.
+
+
+El monje pensó por un minuto y escribió al maestro:
+
+      El primero es demasiado perezoso para comenzar. //
+      La segunda es demasiado perezosa para superar su desconfianza. //
+      El tercero es demasiado perezoso para buscar buenas herramientas. //
+      El cuarto es demasiado perezoso para querer alcanzar la precisión. //
+      El quinto es demasiado perezoso para empezar fresco de nuevo. //
+      La sexta es demasiado perezosa para enfocar su atención. //
+
+      Sin embargo si la pereza engendra seis caminos hacia el fracaso, //
+      ¿Cómo puede ser una de las Tres Grandes Virtudes?{{*}} //
+
+
+De nuevo, en segundos recibió una respuesta:
+
+      El Maestro Kaimu se fue a una cacería de venados. //
+      Cuando se le pidió responder sus emails durante su ausencia, //
+      decidió escribir un hábil auto respondedor en su lugar. //
+      Si estás leyendo esto, reformula y vuelve a enviar tu pregunta.
+
+
+
+{{*}} Declaradas por uno de los futuros Patriarcas: <a href="http://pablasso.com/200902/las-3-grandes-virtudes-de-un-programador-pereza-impaciencia-y-arrogancia/">pereza, impaciencia, y arrogancia</a>.

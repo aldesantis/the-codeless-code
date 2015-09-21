@@ -4,9 +4,10 @@ Number: 205
 Names: Suku
 Topics: naming, collections
 Geekiness: 2
+Tagline: 
 Illus.0.src: bomb.jpg
 Illus.0.par: 2
-Illus.0.title: "Congratulations on your purchase of the Lethal Labs' 7000-XE Extreme Enlightenment Delivery System.  Its rugged, tamper-proof construction should provide you with many minutes of contemplative enjoyment."
+Illus.0.title: "Congratulations on your purchase of the Lethal Labs 7000-XE Extreme Enlightenment Delivery System.  Its rugged, tamper-proof construction should provide you with many minutes of contemplative enjoyment."
 
 Master [[Suku]] and her apprentices had chosen to end the
 summer in a valley below a great mountain range, conducting
