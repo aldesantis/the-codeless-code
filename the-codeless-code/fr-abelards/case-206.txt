@@ -1,0 +1,69 @@
+Lang: fr
+Translator: abelards
+Title: Héros d'inaction
+Number: 206
+
+Un moine envoya un email à maître [[Kaimu]] :
+
+      La semaine dernière vous avez mentionné Six Qualités //
+      essentielles pour être un développeur consciencieux. //
+      Quelles sont ces "Six Qualités" ?
+
+Étrangement, il reçut une longue réponse en quelques secondes :
+
+      Pour comprendre la musique, //
+      allez voir la cacophonie du marché à midi. //
+      Pour comprendre les Six Qualités, //
+      il suffit de regarder autour de vous :
+
+      Vous ne trouverez pas la Première chez le moine [[Mudána]]. //
+      Demandez-lui de chasser un cerf pour le souper, //
+      il passera la journée au lit rêvant de venaison. //
+      Nous l'avons laissé passer ses journées au lit --  mais loin de chez nous.
+
+      Vous ne trouverez pas la Seconde chez la nonne [[Nabasu]]. //
+      Demandez-lui de chasser un cerf pour le souper, //
+      elle sera prise de peur comme si l'arc était une vipère, //
+      et vous suppliera d'être relevée de cet office.
+
+      Vous ne trouverez pas la Troisième chez le moine [[Djishin]]. //
+      Demandez-lui de chasser un cerf pour le souper, //
+      [[#108|il essaiera d'inventer une arme]] pour la chasse, //
+      et le Temple souffrira de la faim cette semaine là.
+
+      Vous ne trouverez pas la Quatrième chez le moine  [[Landhwa]]. //
+      Demandez-lui de chasser un cerf pour le souper, //
+      il [[#97|délaissera son arc pour emporter un canon]], //
+      ne nous laissant que peu de viande, et beaucoup de désordre.
+
+      Vous ne trouverez pas la Cinquième chez le moine  [[Wangohan]]. //
+      Demandez-lui de chasser un cerf pour le souper, //
+      il choisira le shuriken [[#194|envers et contre tous]], //
+      et poursuivra un cerf blessé trente jours durant.
+
+      Vous ne trouverez pas la Sixième chez la jeune Maître [[Zjing]]. //
+      Demandez-lui de chasser un cerf pour le souper, //
+      elle vous promettra de le faire dès qu'elle aura un moment... //
+      Le cerf sera mort de vieillesse d'ici là.
+
+Le moine réfléchit une minute et répondit au maître :
+
+      Le Premier a trop de paresse pour commencer. //
+      La Deuxième a trop de paresse pour vaincre son doute d'elle-même. //
+      Le Troisième a trop de paresse pour trouver les bons outils. //
+      Le Quatrième a trop de paresse pour rechercher la précision. //
+      Le Cinquième a trop de paresse pour recommencer à zéro. //
+      La Sixième a trop de paresse pour se concentrer. //
+
+      Mais si la paresse engendre les six voies de l'échec, //
+      comment peut-elle être l'une des Trois Grandes Vertus{{*}} ?//
+
+
+De nouveau, il reçut une réponse quelques secondes plus tard :
+
+      Maître Kaimu est parti chasser le cerf. //
+      Demandez-lui de répondre à ses emails durant son absence, //
+      et il décidera alors de coder une base de réponses automatiques. //
+      Si vous lisez ceci, veuillez reformuler et renvoyer votre question.
+
+{{*}} Qui sont, selon l'un des Patriarches, <a href="http://threevirtues.com">la paresse, l'impatience et l'hubris</a>.
