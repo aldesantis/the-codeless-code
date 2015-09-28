@@ -1,4 +1,4 @@
-Title: Inaction Hero
+Title: Helden Ohne Taten
 Number: 206
 Tagline: Worin wir beantwortet werden.
 Lang: de
