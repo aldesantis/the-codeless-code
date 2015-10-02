@@ -1,0 +1,39 @@
+Number: 208
+Title: El Lobo en el Redil
+Lang: es
+Translator: galcalde
+Tagline: En el cual hay un breve interludio musical
+
+La monja [[Yíwen]] estaba afinando un <em>guqin</em> en su habitación cuando su compañera [[Hwídah]] volvió y se tiró en una silla, visiblemente derrotada.
+
+"Diez mil perdones por mi curiosidad," dijo Yíwen, "pero tu ceja está más arrugada que de costumbre. ¿Has estado investigando fallas en nuestros sistemas de producción otra vez?"
+
+"Es todo lo que parezco hacer estos días," suspiró Hwídah. "Aunque la causa de este problema de la tarde fue particularmente irritante. Cada decisión que hizo el desarrollador es óptima cuando se toma por si misma, sin embargo la combinación tomada por completo es desastrosa. Por lo tanto el mejor enfoque para arreglar el problema sigue siendo esquivo."
+
+"¡Qué desgracia!" dijo Yíwen. "¿Has informado al desarrollador de este enigma, que habrá meditado sobre esto?"
+
+"No hubo necesidad," dijo Hwídah. "Esta miserable alma es ella."
+
+- - -
+
+Durante un rato las dos se sentaron en silencio, mientras Hwídah se consolaba en dulces fragmentos de melodía punteada por Yíwen.
+
+"El acto de escribir código comparte mucho con la composición de la música," observó Hwídah. "Cada nota puede ser perfecta aislada, sin embargo no puede ser juzgada por sí mismo. Debe ser pesada contra las notas qye vienen antes, y las que vienen después, como los pasos en un algoritmo."
+
+"Sin embargo cada una debe pesarse también contra las notas que suenan al lado, ¿Estás de acuerdo?" preguntó Yíwen. "La melodía y la armonía son urdimbre y trama de la música; porque el pentagrama es bidimensional, y el tiempo unidimensional. Incluso en mi humilde <em>guqin</em>, la vibración de una cuerda hace que sus compañeras vibren en simpatía, tan ciertamente como múltiples hilos pueden afectarse entre sí en una aplicación."
+
+"¡Ya quisiera que las armonías del software fueran tan simples como las del sonido!" dijo Hwídah. "¡Porque he 'tocado' mi aplicación en privado muchas veces, y nunca una nota parecía fuera de lugar!"
+
+"¿Simples?" preguntó Yíwen. "¿Nunca has oído hablar de la Raíz Duodécima?"
+
+- - -
+
+"Hace mucho tiempo," dijo Yiwen, "se observó que si una cuerda era punteada junto con otra cuerda la mitad de larga, las dos notas sonaban tan similares para ser juzgadas como idénticas. También se observó que si una cuerda era punteada junto con otra cuerda dos tercios de larga, la armonía resultante era placentera. Lo mismo se mantenía para varios radios simples, como tres cuartos y cuatro quintos, y dos quintos, y así sucesivamente. Así una escala musical tomó forma alrededor de fracciones simples.
+
+"Sin embargo todos los intentos de crear una escala perfecta para el teclado fueron frustrados. Porque hay tantas fracciones, y tantas maneras de ordenarlas, que sin importar que afinación se probó siempre contendría alguna imperfección intolerable. Un intervalo que sonaba exquisito en una clave, en otra <a href="https://es.wikipedia.org/wiki/Quinta_del_lobo">aullaría como un lobo</a>.
+
+"Cada opción es óptima es óptima cuando se toma por si misma, sin embargo la combinación es desastrosa," murmuró Hwídah. "Pero entonces ¿Como se afina tu teclado?"
+
+"Por el mejor mal compromiso de todos," dijo Yíwen. "Hay doce notas por octava, así que el radio de cada nota a la anterior es <em>La raíz duodécima de dos</em>. Porque aunque es un radio irracional, asegura que doce pasos idénticos hacia arriba nos dará exactamente una octava por encima de nuestro punto de partida.
+
+"En este temperamento, <em>ningún</em> intervalo es un radio entero excepto la octava: todas son sostenidas o bemoles lo menos posible. Sin embargo nos permite transponer canciones en cualquier clave sin distorsión o disonancia. De esta manera la perfección le cede el paso  al pragmatismo... porque aunque la armonía del pasto se molesta cuando la rodeamos con una cerca, el no hacerlo sería dejar entrar al lobo."
