@@ -1,0 +1,31 @@
+Lang: fr
+Translator: abelards
+Title: Perroquet
+Number: 207
+Tagline: Dans laquelle on demande : qui êtes-vous, bel oiseau ?
+Illus.0.title: J'avais pour habitude de mélanger des restes de corned beef haché avec de la farine et de la levure pour faire des craquelins *vraiment* délicieux. Mais quand j'ai voulu les vendre sous le nom "Salted Hash Crackers", j'ai reçu une visite de la NSA.
+
+[[#206|Le même moine]] s'en fut trouver maître [[Bawan]] et dit :
+"Parlez-moi du moine [[Mudána]], car je suis nouveau ici et n'ai
+jamais entendu parler de lui, sinon qu'il fut banni pour sa paresse."
+
+Bawan répondot : "Mudána voulait être un développeur exceptionnel.
+Il posait des questions aux maîtres, étudiait le code de ses pairs,
+et insistait pour que le chef d'équipe fasse des revues de son travail."
+
+Le moine dit : "Si tout cela est vrai, alors Mudána n'était
+visiblement pas paresseux."
+
+Le bâton de Bawan claqua sur le crâne du moine.
+"[[Eku]] avait un perroquet qui demandait à chaque visiteur
+si les Patterns et les Antipatterns étaient une seule et même chose,
+mais tout ce que voulait le perroquet, c'était un biscuit.
+L'oiseau n'apprenait quelque verbiage que pour en répéter les sons.
+Et il s'efforçait à parler à Eku car elle lui caressait parfois la tête."
+
+Le moine se frottait la tête, en disant : "Et pourtant vous disiez
+que Mudána désirait être un développeur exceptionnel !"
+
+Bawan répondit : "Le perroquet d'Eku voulait être comme sa maîtresse.
+Mais aspirait-il à posséder la sagesse d'Eku,
+ou sa capacité à ouvrir le placard où étaient gardés les biscuits ?"
