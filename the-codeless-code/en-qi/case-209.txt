@@ -1,0 +1,58 @@
+Date: 2015-10-04
+Title: Submerged
+Number: 209
+Names: Bawan, Landhwa
+Topics: Java, garbage collection, memory leaks, collections, decorator pattern
+Geekiness: 3
+Tagline: In which we spring a leak.
+
+One fall afternoon, Java master [[Bawan]] heard that the
+monk [[Landhwa]] had been struggling with a straightforward
+data-extraction program.  Intrigued, Bawan visited the monk,
+who was slouching low in his chair.
+
+"The program runs out of memory," yawned Landhwa, who had no
+patience for such investigations.  "True, it processes many
+large files, but it does so one at a time, and retains only
+the smallest snippet from each."
+
+"Show me," said Bawan.
+
+The monk sighed, pointing to the screen.  "To process a
+file, I read its lines into a List of Strings.  This I
+search to find the section of interest: a few short lines at
+most.  I extract that via subList, and store it in this
+static Map.  The code could not be simpler."
+
+Bawan nodded.  "Meet me at midnight on the river dock, down
+in the village," he said.  "I know who can help us, and the
+journey is not a long one."
+
+That night Landhwa descended with a lantern to the foggy
+banks.  Spying a twinkling light on the water, he followed
+the boardwalk past dozens of small watercraft to find small
+master Bawan seated in the last rowboat at the end of the
+pier.  The master gestured to the oars.
+
+"Upstream," said Bawan.
+
+Landhwa pulled at the oars alone, while the master sat
+silently in the stern with arms folded.  Each stroke against
+the current was a painful struggle, yet somehow the little craft
+inched its way forward through the fog.  Hours passed.  Just when
+Landhwa was on the verge of collapse, Bawan ordered him to
+dock at an ramshackle pier far from the last village they'd
+passed.  The master looped a coil of rope around one of the
+pilings to anchor them.
+
+"We wait," said Bawan.
+
+Dawn came, scattering the night fog, but still no one
+approached from the banks.  When he happened to glance
+downriver, Landhwa discovered that their rowboat had been
+towing another boat by an underwater line many yards long.
+The lifting fog revealed another boat beyond that, and then
+another and another; and though the tenth passed out of
+sight beyond a bend in the river, Landhwa was certain that
+he had unwittingly towed every boat in the river dock behind
+them that night.
