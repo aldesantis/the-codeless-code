@@ -1,0 +1,25 @@
+Number: 209
+Title: Hundido
+Lang: es
+Translator: galcalde
+Tagline: En el cual hacemos brotar una fuga.
+
+Una tarde de otoño, el maestro Java [[Bawan]] oyó que el monje [[Landhwa]] estaba luchando con un programa inambiguo de extracción de datos. Intrigado, Bawan visitó al monje, quien estaba encorvándose bajo en su silla.
+
+"Al programa se le acaba la memoria," bostezó Landhwa, quien no tenía paciencia para esas investigaciones. "Es cierto, procesa muchos archivos grandes, pero lo hace uno a la vez, y retiene sólo el recorte más pequeño de cada uno."
+
+"Muéstrame," dijo Bawan.
+
+El monje suspiró, señalando la pantalla. "Para procesar un archivo, yo leo sus lineas en una lista de strings. Ahí busco la sección de interés: unas pocas lineas como mucho. La extraigo via subList, y la almaceno en este static Map. El código no podría ser más simple."
+
+Bawan asintió. "Encuéntrame a la medianoche en el muelle del río, en la aldea," el dijo. "Sé quien puede ayudarnos, y el viaje no es muy largo."
+
+Aquella noche Landhwa bajó con una linterna hacia las nubladas orillas. Avistando una luz titilante en el agua, fue por la costanera pasando docenas de embarcaciones pequeñas hasta hallar al pequeño maestro Bawan sentado en el último bote al final del muelle. El maestro hizo un gesto hacia los remos.
+
+"Rio arriba," dijo Bawan.
+
+Landhwa tiró de los remos solo, mientras el maestro se sentaba silenciosamente en popa con los brazos cruzados. Cada golpe contra la corriente era una lucha dolorosa, sin embargo el pequeño bote se movía despacio entre la niebla. Las horas pasaron. Justo cuando Landhwa estaba al borde del colapso, Bawan le ordenó atracar en un muelle desvencijado lejos de la última aldea que pasaron. El maestro enrolló una cuerda alrededor de un pilote para anclar el bote.
+
+"Esperamos," dijo Bawan.
+
+Vino el amanecer, dispersando la niebla nocturna, pero aún no se acercaba nadie de las orillas. Cuando pudo mirar río abajo, Landhwa descubrió que su bote estuvo remolcando otro bote por una linea subacuática de varios metros de largo. La niebla en alza reveló otro bote más allá, y luego otro y otro; y aunque el décimo estaba fuera de vista más allá de una curva en el río, Landhwa estaba seguro de que inconscientemente remolcó todos los botes en el muelle del río tras suyo aquella noche.
