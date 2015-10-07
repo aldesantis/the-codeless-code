@@ -7,6 +7,7 @@ Geekiness: 1
 Tagline: In which we ask: who's a pretty bird?
 Illus.0.src: crackers.jpg
 Illus.0.title: I used to mix leftover corned-beef hash with flour and yeast to make these *really* tasty saltines.  But when I tried to sell them as "Salted Hash Crackers" I got a visit from the NSA.
+Credits: Many thanks to 
 
 
 [[#206|This same monk]] went to master [[Bawan]] and said:
@@ -33,5 +34,5 @@ The monk rubbed his head, saying: "Yet you said that Mudána
 wished to be a great developer!"
 
 Bawan replied: "Eku's parrot wished to be like its master.
-Did it yearn to possess Eku's wisdom, or her ability to open the
+Did it yearn to possess Eku's wisdom... or her ability to open the
 cabinet where the crackers were kept?"
