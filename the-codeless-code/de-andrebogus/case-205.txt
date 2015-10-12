@@ -1,7 +1,7 @@
 Title: Plural-Erguss
 Number: 205
 Illus.0.title: "Wir gratulieren zum Kauf des Lethal-Labor 7000-XE Extremes Erleuchtungs-Zustellungs-Systems.  Seine stabile und sichere Konstruktion wird ihnen einige Minuten kontemplativer Freude bereiten."
-Language: de
+Lang: de
 Translator: andrebogus
 
 Meisterin [[Suku]] und ihre Lehrlinge hatten entschieden, den Rest des Sommers
@@ -27,7 +27,7 @@ wahr?" fragte Suku.
 "Trotzdem nennst Du diese Klasse /Kunden/ statt /Kunde/," sagte Suku.
 
 "Ihr nennt auch Variablen, die nur eine /einzelne/ Instanz enthielten, 
-'kunden' und Methoden, die eine Instanz zurückgeben, 'getKunden'".
+'kunden' und Methoden, die eine Instanz zurückgeben, ‘getKunden’".
 
 "Das habe ich, nicht?" fragte der Mönch.
 
