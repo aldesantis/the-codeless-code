@@ -1,0 +1,91 @@
+Date: 2015-09-27
+Title: Wolf in the Fold
+Number: 208
+Names: Yíwen, Hwídah
+Topics: perfection, elegance, production support, compromise
+Geekiness: 2
+Tagline: In which there is a brief musical interlude
+
+The nun [[Yíwen]] was tuning a /guqin/ in her quarters when her
+roommate [[Hwídah]] returned and slumped into a chair, visibly
+defeated.
+
+"Ten thousand pardons for my curiosity," said Yíwen, "but
+your brow is more deeply-furrowed than usual.  Have you
+again been investigating failures in our production
+systems?"
+
+"It is all I seem to do these days," sighed Hwídah. "Although the
+cause of this evening's trouble was particularly irksome.
+Every choice the developer made is optimal when taken by
+itself, yet the combination taken as a whole is disastrous.
+Thus the best approach to fixing the problem remains elusive."
+
+"How unfortunate!" said Yíwen.  "Have you informed the
+developer of this conundrum, that they might meditate upon
+it?"
+
+"There was no need," said Hwídah.  "This miserable soul is she."
+
+- - -
+
+For a while the two sat in silence, as Hwídah took solace in
+sweet fragments of melody being plucked out by Yíwen.
+
+"The act of coding shares much with the composition of music,"
+observed Hwídah.  "Each note may be perfect in isolation, yet it
+cannot be judged by itself.  It must be weighed against the notes
+that come before, and the ones that come after, like steps in an
+algorithm."
+
+"Yet each must also be weighed against the notes sounded alongside
+it, would you not agree?" asked Yíwen.  "Melody and harmony are the
+warp and weft of music; for the staff is two-dimensional, and
+time is but one axis.  Even in my humble /guqin/, the vibration
+of one string causes its fellows to vibrate in sympathy, as
+surely as multiple threads may affect each other in an application."
+
+"Would that the harmonies of software were as simple as those of
+sound!" said Hwídah.  "For I did 'play' my application many times in
+private, and never a note seemed out of place!"
+
+"Simple?" asked Yíwen.  "Have you never heard of the Twelfth Root?"
+
+- - -
+
+"Long ago," said Yiwen, "it was observed that if a string is
+plucked along with another string exactly one-half its
+length, the two notes sound so similar as to be judged
+identical.  It was also observed that if a string is plucked
+alongside another which is two-thirds its length, the
+resulting harmony is quite pleasing.  The same held true for
+many simple ratios, like three-fourths and four-fifths, and
+two-fifths, and so on.  Thus did a musical scale take shape
+around simple fractions.
+
+"Yet all attempts to produce a perfect scale for the
+keyboard were thwarted.  For there are many such fractions,
+and many ways to arrange them, yet no matter which tuning
+was tried it would always contain some intolerable imperfection.
+An interval that sounded exquisite in one key would
+<a href="https://en.wikipedia.org/wiki/Wolf_interval">howl like a wolf</a>
+in another.
+
+"Every choice is optimal when taken by itself, yet the
+combination is disastrous," murmured Hwídah.  "But then
+how is your keyboard tuned?"
+
+"By the best bad compromise of all," said Yíwen.  "There are
+twelve notes per octave, so the ratio of each note to the
+preceding is /the twelfth root of two/.  For although that
+is a most irrational ratio, it ensures that twelve
+identical steps upward will bring us exactly one octave
+above our starting place.
+
+"In this temperment, /no/ interval is an integer ratio
+except the octave: they are all the slightest bit sharp or
+flat.  Yet it allows us to transpose songs into any key
+without distortion or dissonance.  In this way perfection yields
+to pragmatism... for though the harmony of the pasture
+is disturbed when we gird it with a fence, to do otherwise
+would be to let the wolf in."

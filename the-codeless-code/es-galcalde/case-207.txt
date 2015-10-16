@@ -1,0 +1,20 @@
+Number: 207
+Title: Loro
+Lang: es
+Translator: galcalde
+Tagline: En el cual preguntamos: ¿Quien es un hermoso pajarito?
+Illus.0.title: Solía mezclar restos de guiso de Corned Beef con harina y levadura para hacer estas galletas saladas *muy* deliciosas. Pero cuando intenté venderlas como "Salted Hash Crackers"* me visitó la NSA.
+
+[[#206|Este mismo monje]] fue hacia el maestro [[Bawan]] y dijo: "Cuéntame sobre el monje [[Mudána]], porque soy nuevo en el templo y nunca oí hablar de él, excepto que fue echado por perezoso."
+
+Bawan respondió: "Mudána deseaba ser un gran desarrollador. Hacía las preguntas de los maestros, estudiaba el código de sus pares, e insistía que los líderes del equipo revisaran su trabajo."
+
+El monje dijo: "Si todo eso es cierto, seguramente Mudána no era perezoso."
+
+Bawan golpeó la cabeza del monje con su bastón. "[[Eku]] tenía un loro que preguntaba a cada visitante si los Patrones y Antipatrones eran lo mismo, sin embargo la única respuesta que el loro quería era una galleta. El pájaro memorizó pedazos al azar de balbuceos sólo para repetir los sonidos. E insistía en actuar para Eku porque a veces acariciaba su cabeza."
+
+El monje se frotó la cabeza, diciendo: "¡Sin embargo dijiste que Mudána deseaba ser un gran desarrollador!"
+
+Bawan respondió: "El loro de Eku deseaba ser como su maestra. ¿Anhelaba poseer la sabiduría de Eku, o su capacidad para abrir el armario donde guardaba las galletas?"
+
+{{*}}"Salted Hash Crackers" = "Galletas Saladas de Guiso" = "Crackeadores de Hash Salados"

@@ -1,6 +1,7 @@
 Number: 206
 Title: Heroe de Inacción
 Lang: es
+Tagline: En el cual somos respondidos
 Translator: galcalde
 
 Un monje le escribió al maestro [[Kaimu]]:

@@ -22,7 +22,7 @@ everyone."
 "Now the thing is," said Ruh Cheen, "our developers produce
 an awful lot of diagrams and documents and whatnot, which we
 review at meeting after meeting, just to /plan/ what we're
-going to build.  But this here Agile Manifesto says that all
+going to build.  But this Agile Manifesto says that
 those things are nowhere near as important as having a
 product you can poke at.  So from now on I want us to /do/ a
 lot less /planning,/ and /plan/ on a lot more /doing/.

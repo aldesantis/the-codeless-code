@@ -1,0 +1,50 @@
+Date: 2015-10-13
+Title: Hygiene
+Number: 210
+Names: Zjing, Ruh Cheen, Banzen
+Topics: design reviews, code reviews, refactoring, Agile
+Geekiness: 2
+Tagline: In which we keep our mouths shut.
+
+The abbot [[Ruh Cheen]] called young master [[Zjing]] on
+his monitor for their weekly teleconference.
+
+Ruh Cheen said, "As of today, our monks have completed four
+sprints [[#202|according to my plan]]: no design documents,
+no code reviews, no meddling by the masters.  Have you heard
+the good news?"
+
+Zjing bowed. "Velocity is at an all-time high, and morale is
+better than ever."
+
+"I plan to inform the Abbess this evening," said Ruh Cheen.
+"After which I will suggest that the entire temple adopt
+this practice.  But fear not!  I'm certain she will find
+some new task for the masters to perform."
+
+- - -
+
+Zjing called old master [[Banzen]] on her monitor, to report
+what had transpired.
+
+Banzen said, "Yesterday Ruh Cheen ordered the monks not to
+brush or floss. Today he observed that not a single monk has
+lost any teeth.  From this he has concluded that oral
+hygiene is worthless.  I fear that only one thing will
+change his mind."
+
+The young master was aghast.  "If I wait for gum disease to
+bring a patient to my chair, his mouth may be rotten past
+my ability to mend."
+
+"Yet what is our alternative, young master?" asked Banzen.
+"Force everyone to clean their teeth at knife-point?"
+
+"It has worked for us in the past," said Zjing.
+
+Banzen sighed.  "Has it, I wonder?  For we do not know which
+of our monks are conscientious, and which are merely
+cowards.  I am old; my knife-hand is unsteady,
+and I cannot be everywhere at once.  When I depart this
+earth, I must know that I leave behind a /temple/ -- not a
+crowd of aimless monks destined for toothless grins."
