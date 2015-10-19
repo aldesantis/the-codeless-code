@@ -15,6 +15,6 @@ Bawan golpeó la cabeza del monje con su bastón. "[[Eku]] tenía un loro que pr
 
 El monje se frotó la cabeza, diciendo: "¡Sin embargo dijiste que Mudána deseaba ser un gran desarrollador!"
 
-Bawan respondió: "El loro de Eku deseaba ser como su maestra. ¿Anhelaba poseer la sabiduría de Eku, o su capacidad para abrir el armario donde guardaba las galletas?"
+Bawan respondió: "El loro de Eku deseaba ser como su maestra. ¿Anhelaba poseer la sabiduría de Eku... o su capacidad para abrir el armario donde guardaba las galletas?"
 
 {{*}}"Salted Hash Crackers" = "Galletas Saladas de Guiso" = "Crackeadores de Hash Salados"
