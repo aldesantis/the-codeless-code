@@ -1,5 +1,5 @@
 Lang: ru
-Translator: Dmitry Esarev
+Translator: ed
 Number: 207
 Names: Bawan, Eku, Eku's parrot
 Illus.0.src: crackers.jpg
