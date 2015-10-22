@@ -2,23 +2,23 @@ Number: 1
 Title: Drobiazgi
 Lang: pl
 Translator: badziew
-Illus.0.title: Odpytywanie mistrza Javy dlaczego chodzenie boso jest zakazane w świątyni zwykle skutkuje tą samą odpowiedzią.
+Illus.0.title: Odpytywanie mistrza Javy, dlaczego chodzenie boso jest zakazane w świątyni, zwykle skutkuje tą samą odpowiedzią.
 
 
 Przez trzy dni i noce mistrz Javy nie opuszczał swojej izby.
-Czwartego dnia świątynni mnichowie postanowili wysłać
-jednego z nowicjuszy, aby ten dowiedział się co się stało.
+Czwartego dnia świątynni mnisi postanowili wysłać
+jednego z nowicjuszy, aby ten dowiedział się, co się stało.
 
 Nowicjusz zastał mistrza przy tablicy, zadumanego nad diagramem przepływu
 danych. Rozpoznał schemat na diagramie jako jeden z pomniejszych komponentów
 dużego systemu, do zarządzania którym byli zatrudnieni mnisi. Zapytał więc
-grzecznie mistrza nad czym się tak zastanawia.
+grzecznie mistrza, nad czym się tak zastanawia.
 
 Mistrz odpowiedział://
 - Znalazłem błąd i rozmyślam nad najlepszą metodą jego naprawy.
 
 Nowicjusz odparł://
-- Często głosisz nam kazania mistrzu, o tym jak ważne jest wyznaczanie
+- Często głosisz nam kazania mistrzu, o tym, jak ważne jest wyznaczanie
 odpowiednich priorytetów. Dlaczego więc zadręczasz się teraz czymś tak małym
 i mało istotnym?
 
