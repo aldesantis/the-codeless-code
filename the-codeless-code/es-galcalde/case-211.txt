@@ -1,0 +1,73 @@
+Number: 211
+Title: No Hay Magia
+Lang: es
+Translator: galcalde
+Tagline: En el cual estamos desilusionados.
+
+Una noche la monja [[Hwídah]] fue invocada al Patio del Comando Central por el maestro [[Bawan]].
+
+"Hay un comportamiento curioso en nuestra página 'Cambiar Dirección'," dijo Bawan. "El usuario llena el formulario y elige salvar sus cambios. No se reporta ningún error. No se loguea ningún error. El navegador es enviado a la página 'Perfil de Usuario' como se espera. Sin embargo esta página a veces muestra la dirección vieja en vez de la nueva."
+
+"Una excepción tragada, probablemente," dijo Hwídah, deseando estar en otro lado.
+
+"Hay más," dijo el maestro, sacudiendo su cabeza. "Si el 'Perfil de Usuario' es recargado repetidamente, s veces mostará la vieja dirección y a veces la nueva. No se distingue ningún patrón."
+
+"Un problema de caché, entonces," sugirió la monja.
+
+"Hay <em>aún</em> más," dijo el maestro. "Después de varios minutos pasados, sólo una de las dos direcciones será mostrada para siempre. Pero de nuevo, a veces es la dirección vieja y aveces la nueva."
+
+"Se me acabaron las suposiciones," suspiró Hwídah. "Una maldición, quizás, o un espíritu maligno."
+
+Bawan golpeó su frente. "¡No tengo paciencia con las supersticiones, monja!" dijo, dándose vuelta para irse. "No hya magia. Y los únicos espíritus malignos en este cuarto son los que verás mañana, si me entero que [[#204|la pupila elegida por Banzen]] no es confiable."
+
+- - -
+
+La monja invocó la página problemática, y vio que todo era como lo describió el maestro.
+
+"Es muy curiosos," dijo Hwídah a la pantalla. "Tu cara dice a veces esto, y a veces aquello. Sin embargo me pregunto ¿Qué hay en tu corazón?"
+
+La monja se logueó direco en la base de datos, observando el registro cada vez que lo cambiaba. Pero lo que halló tenía menos sentido: porque aunque la pantalla alternaba al azar entre la dirección vieja y la nueva, la base de datos mostraba la dirección vieja incambiada. Sin embargo después de unos minutos ambas estarían de acuerdo en el registro viejo o en el nuevo en adelante.
+
+"No hay magia," repitió Hwídah. "Cada comportamiento, aunque sea extraño, tiene alguna explicación racional."
+
+- - -
+
+"...Sin embargo no tengo idea de <em>qué</em> es esa explicación," se quejó Hwídah a Yíwen. "Mi única sospecha es que la transacción no haga commit apropiadamente, razón por la cual los cambios no aparecen cuando se ven desde otra sesión de la base de datos."
+
+"Mil perdones," bostezó Yíwen, que estaba aún en la cama, mirando de reojo la lámpara de Hwídah. "Pero <em>mi</em> única sospecha es que estaba durmiendo hace unos minutos, porque es la una de la madrugada pasada. ¿No hay nadie más a quien consultar?"
+
+"El patio está vacío, como mi cerebro," dijo Hwídah. "¡Ayúdame a pensar! El controlador llama a un método de servicio para guardar la dirección. El método de servicio es anotado como transaccional. El método es invocado, pero resulta en caos. ¿Por qué?"
+
+"No se nada sobre manejo de transacciones," dijo Yíwen, cayendo sobre su almohada con los ojos cerrados. "Sólo sé colocar las anotaciones donde pertenecen. El resto es magia."
+
+"No hay magia," dijo Hwídah distraidamente. Entonces como un rayo salió por la puerta, con destino al patio.
+
+- - -
+
+"¿Cuándo un método de servicio commitea una transacción?" preguntó Hwídah con una gran sonrisa.
+
+"¿A las cuatro y treinta de la madrugada?" dijo el maestro Bawan de forma exasperante; porque era ahora ese tiempo.
+
+"<em>No</em> lo hace," dijo la monja. "El objeto proxy que <em>decora</em> el objeto servicio lo hace. Ahora, ¿Cuando ese objeto proxy <em>no</em> hace su trabajo?"
+
+"¿Es otra pregunta con truco?" preguntó Bawan.
+
+"¡Cuando no es usado!" dijo Hwídah triunfante. "Un error en la configuración de la aplicación causaba que el controlador sea inyectado con el objeto servicio en vez de el proxy."
+
+"Interesante," dijo Bawan. "¿Qué hay de la página mostrando a veces el registro viejo y a veces el nuevo?"
+
+"Como no había transacción," dijo Hwídah, "la actualización de la base de datos se hacía <em>sin</em> un commit, en una conexión prestada del pool de conexiones. Si una página pedía prestada esa misma conexión a veces mostraba el registro nuevo. Sino mostraría el viejo."
+
+"Intrigante," dijo el maestro. "Y este comportamiento cesaría despues de un tiempo, porque...?"
+
+"Si esa conexión fuera prestada para alguna <em>otra</em> transacción an otro lugar en la aplicación, entonces ocurrirá un commit o un rollback," dijo Hwídah. "Y si está sin usar por mucho tiempo, hacemos el rollback y la cerramos."
+
+"Excelente," dijo el maestro. "No hay espíritus malignos, entonces. No hay magia. Ahora vete; descansa."
+
+- - -
+
+Hwídah trepó hacia su cama, cuidándose de no despertar a Yíwen. Sin embargo el sueño no le vino inmediatamente. En su lugar se quedó de brazos cruzados, mirando hacia la oscuridad. 
+
+¿Qué <em>es</em> la magia, se preguntó, sino el logro de cosas por medios ocultos? Es el maestro de la prestidigitación menos mago que el esclavizador de espíritus? ¿No es quizás <em>más</em> satisfactorio mirar tras la cortina, para entender el intrincado funcionamiento detrás de la fachada, y darse cueenta que con ese conocimiento viene el poder?
+
+Hwídah aún estaba reflexionando esas cosas mientras se deslizaba, finalmente, en un profundo sueño, imperturbado por el movimiento del templo, los muchos tics y tacs de la máquina sincronizando; agua en los caños, pasos en el salón, gongs para el desayuno, para la meditación, para el inicio de un nuevo día, un día como cualquier otro, en este lugar de maravillas.

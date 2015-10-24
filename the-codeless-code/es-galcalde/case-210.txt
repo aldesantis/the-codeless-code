@@ -1,0 +1,27 @@
+Number: 210
+Title: Higiene
+Lang: es
+Translator: galcalde
+Tagline: En el cual cerramos la boca.
+
+El abad [[Ruh Cheen]] llamó a la joven maestra [[Zjing]] en su monitor para su teleconferencia semanal.
+
+Ruh Cheen dijo, "A parir de hoy, nuestros monjes han completado cuatro rondas [[#202|de acuerdo a mi plan]]: nada de documentos de diseño, nada de revisión de códigos, nada de intromisión por los maestros. ¿Has oído las nuevas noticias?"
+
+Zjing bostezó. "La velocidad está siempre alta, y la moral mejor que nunca."
+
+"Planeo informarlo a la Abadesa esta tarde," dijo Ruh Cheen. "Después de lo cual sugeriré que todo el templo adopte esta práctica. ¡Pero no tema! Estoy seguro que ella hallará alguna nueva tarea para que la hagan los maestros."
+
+- - -
+
+Zjing llamó al viejo maestro [[Banzen]] en su monitor, para reportar lo que transpiró.
+
+Banzen dijo, "Ayer Ruh Cheen ordenó a sus monjes no cepillarse los dientes. Hoy el observó que ningún monje ha perdido un diente. De esto concluyó que la higiene oral es inútil. temo que sólo una cosa cambiará su parecer."
+
+La joven maestra estaba espantada. "Si espero a que la gingivitis traiga un paciente a mi silla, su boca puede estar podrida más allá de mi capacidad de arreglar."
+
+"Sin embargo ¿Cual es nuestra alternativa, joven maestra?" preguntó Banzen. "¿Forzar a todos a limpiarse los dientes a punta de cuchillo?"
+
+"Ha funcionado en el pasado," dijo Zjing.
+
+Banzen suspiró. "¿Lo ha hecho, me pregunto? Porque no sabemos cuales de nuestros monjes son conscientes, y cuales son meramente cobardes. Estoy viejo; mi mano de artes marciales está temblorosa, y no puedo estar en todos lados al mismo tiempo. Cuando deje esta tierra, debo saber que dejo atrás un <em>templo</em> -- no un montón de monjes desorientados destinados a sonreír sin dientes."
