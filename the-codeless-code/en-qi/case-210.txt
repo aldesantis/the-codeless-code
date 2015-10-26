@@ -5,6 +5,8 @@ Names: Zjing, Ruh Cheen, Banzen
 Topics: design reviews, code reviews, refactoring, Agile
 Geekiness: 2
 Tagline: In which we keep our mouths shut.
+Illus.0.src: Toothpaste.jpg
+Illus.0.title: Sure, it tastes great and prevents cavities, but it also makes your bottom teeth shift four places to the right.
 
 The abbot [[Ruh Cheen]] called young master [[Zjing]] on
 his monitor for their weekly teleconference.

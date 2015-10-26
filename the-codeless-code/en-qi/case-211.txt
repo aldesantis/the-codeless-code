@@ -24,7 +24,7 @@ be somewhere else.
 sometimes show the old address and sometimes the new.
 No pattern can be discerned."
 
-"A cacheing problem, then," suggested the nun.
+"A caching problem, then," suggested the nun.
 
 "There is /still/ more," said the master.  "After several
 minutes have passed, only one of the two addresses will be
