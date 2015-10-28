@@ -3,13 +3,13 @@ Skala trudności
 Aby zmniejszyć frustrację ze strony czytelnika, autor poklasyfikował opowieści według poniższych kryteriów:
 
 Nie fachowe.
-	Jeśli wiesz czym jest komputer, to prawdopodobnie zrozumiesz opowieść. Nie twierdzę że ci się <i>spodoba</i>, ale prawdopodobnie ją zrozumiesz.
+	Jeśli wiesz, czym jest komputer, to prawdopodobnie zrozumiesz opowieść. Nie twierdzę, że ci się <i>spodoba</i>, ale prawdopodobnie ją zrozumiesz.
 
 Lekko fachowe.
 	Zawiera trochę podstawowych pojęć dotyczących tworzenia oprogramowania. Testowanie. Ponowne użycie kodu. Pętle nieskończone. Kawa.
 
 Umiarkowanie fachowe.
-	Zorientowane na niedzielnego hakera lub entuzjastów technologii. Jeśli tworzysz w czymkolwiek co przypomnina nowoczesny język programowania - Java, C++, Python, Perl - to nie będziesz mieć problemów. Użytkownicy Prologa prawdopodobnie uznają składnię za osobliwą i niedostatecznie zawiłą. Użytkownicy Lispa rozbolą oczy od odruchowego szukania pierwszego otwarcia nawiasu.
+	Zorientowane na niedzielnego hakera lub entuzjastów technologii. Jeśli tworzysz w czymkolwiek, co przypomnina nowoczesny język programowania - Java, C++, Python, Perl - to nie będziesz mieć problemów. Użytkownicy Prologa prawdopodobnie uznają składnię za osobliwą i niedostatecznie zawiłą. Użytkowników Lispa rozbolą oczy od odruchowego szukania pierwszego otwarcia nawiasu.
 
 Wyjątkowo fachowe.
-	Przeznaczone dla hardkorowych programistów, zwłaszcza tych od Javy. Jeśli twoim językiem jest C#, pamiętaj aby najpierw przetłumaczyć kōan na Zbędnie Duże Litery W Każdym Przeklętym Wyrazie.
+	Przeznaczone dla hardkorowych programistów, zwłaszcza tych od Javy. Jeśli twoim językiem jest C#, pamiętaj, aby najpierw przetłumaczyć kōan na Zbędnie Duże Litery W Każdym Przeklętym Wyrazie.
