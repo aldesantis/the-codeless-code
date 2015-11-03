@@ -1,0 +1,46 @@
+Number: 101
+Title: Rechenschaft
+Illus.0.title: Unter fünf Stockwerken von solidem Stein, aus vier Zoll dicken eisenbeschlagenenen Eichenstämmen.  Und hält immer noch keinen Spam fern.
+Lang: de
+Translator: andrebogus
+
+
+Eines Morgens fand sich der Tempel von Anrufen panischer Nutzer überflutet, die
+angaben, fehlerhafte Mails eines bestimmten Abrechnungssystems erhalten zu
+haben. In den Mails wurde behauptet, sie wären über ein Jahr lang säumig und
+ihre Köpfe wären nun bedauerlicherweise als Zahlungsmittel akzeptabel. 
+
+Die Äbte des Tempels trafen sich im großen Hof, und besprachen, wie man am
+Besten die Quelle des Problems finden konnte, bevor alle Kunden auf der Flucht
+vor den vermeintlichen Häschern in die Berge geflohen wären.
+
+"Das ist nicht nötig." sagte die Nonne [[Hwidah]] vom Rande des Hofes.  "Die
+Schande ist mein.  In unserem letzten Update habe ich versehentlich eine
+Funktion verändert, die nun /Falsch/ zurückgibt, wo /Wahr/ richtig wäre. Ich
+habe den Defekt nun korrigiert, und die Emails werden nicht länger versandt.
+
+Hwidah wurde für zwei Monate in das Verlies unterhalb des Tempels verbannt,
+wo sie alleine verrottende Ausdrucker alter COBOL-Programme auf Defekte
+untersuchte.
+
+Nach einer Woche kam die Nonne [[Yiwen]], um der Gefangenen ihren kalten Reis 
+zu bringen.
+
+"Vergib meine Verwirrung, Hwidah," fragte Yiwen als sie das Tablett unter der
+Zellentür durchschob, "aber warum hast Du den Fehler zugegeben, nachdem Du ihn
+behoben hattest?  Hättest Du nichts gesagt, wäre die Ursache viele Tage lang
+unentdeckt geblieben, und die Aufmerksamkeit des Tempels hätte sich 
+dringlicheren Dingen gewidmet.  Deine Schuld wäre nie ans Licht gekommen."
+
+"Sag mir, Yiwen" sagte die Gefangene, "welches Chaos würde ausbrechen, wenn
+/alle/ Module unseres Systems gelegentlich Nein sagten, wenn die richtige
+Antwort Ja lautete?  Und wenn ich <i>[[#70|System]]</i> sage, welches Bild
+entsteht dabei in Deinem Kopf?
+
+Hwidah schob das leere Tablett unter der Tür durch.  "An diesem Morgen, als mir
+der Schrecken meines Fehlers offenbar wurde, erkannte ich auch dies: Wir sind
+alle Teil des Systems. Es ist eine Erweiterung unserer Wünsche, unserer
+Anstrengung und -- bedauerlicherweise -- unserer Fehler.  Hätte ich meine
+Brpder und Schwestern wertvolle Stunden auf der Suche nach einem Defekt
+vergeuden lassen, den ich heimlich korrigiert hatte, ich hätte das System nur
+zum Zweiten Mal enttäuscht.
