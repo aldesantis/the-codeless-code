@@ -1,0 +1,29 @@
+Title: Papagei
+Number: 207
+Tagline: Worin wir fragen: Wer ist ein schöner Vogel?
+Illus.0.title: Ich habe früher Corned-Beef-Reste mit Mehl und Hefe gemischt, um *richtig* leckere Salzcräcker zu backen. Aber als ich versuchte, sie als "Salted Hash Crackers" zu verkaufen, bekam ich Besuch von der NSA.
+Lang: de
+Translator: andrebogus
+
+[[#206|Derselbe Mönch]] ging zu Meister [[Bawan]] und sprach: "Erzählt mir von 
+dem Mönch [[Mudána]], denn ich bin neu im Tempel und habe nie von ihm gehört, 
+außer dass er wegen Faulheit verbannt wurde."
+
+Bawan antwortete "Mudána wollte ein großartiger Entwickler sein.  Er fragte die
+Meister, studierte den Code seiner Brüder und bestand darauf, dass das Team
+seine Arbeit reviewte."
+
+Der Mönch sprach: "Wenn all das stimmt, war Mudána sicher nicht faul."
+
+Bawan klopfte mit seinem Stab an den Kopf des Mönches.  "[[Eku]] hatte einen
+Papagei, der jeden Besucher fragte, ob Pattern und Antipattern ein und dasselbe
+sei, doch alles was der Papagei wollte, war ein Cracker.  Der Vogel merkte sich
+zufällige Gesprächsfetzen, nur um die Töne wiederzugeben.  Und er bestand 
+darauf, Eku vorzusprechen, weil sie manchmal seinen Kopf streichelte."
+
+Der Mönch rieb seinen Schädel und sprach: "Doch sagtet Ihr nicht, er wollte ein
+großartiger Entwickler sein!"
+
+Bawan antwortete: "Ekus Papagei wollte sein wie sein Meister.  Doch wollte er
+wirklich ihre Weisheit, oder ihre Fähigkeit, den Schrank mit den Keksen zu 
+öffnen?"

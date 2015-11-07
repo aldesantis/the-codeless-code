@@ -1,0 +1,71 @@
+Date: 2015-11-01
+Title: Seasons
+Number: 212
+Names: Qi, Spider Clan, Laughing Monkey Clan, Elephant's Footprint Clan, Ru Cheen, Shinpuru
+Topics: change, documentation, Agile
+Geekiness: 1
+Tagline: In which another leaf is turned.
+Illus.0.src: autumn-leaf.jpg
+Illus.0.title: It probably fell from a red-black tree.
+
+The development teams managed by abbot [[Ruh Cheen]] of the
+[[Spider Clan]] were quite pleased with the abbot's decision
+to [[#210|eliminate all design documents]].  For less time
+writing meant more time coding, which was their principal
+joy.  And since the Temple built its teams with
+developers from all three major clans, word soon
+spread throughout the
+[[Elephant's Footprint Clan|Elephant's Footprint]] and
+[[Laughing Monkey Clan|Laughing Monkey]],
+whose monks petitioned their own abbots to follow
+Ruh Cheen's example.
+
+As the flow of documentation slowed to a trickle,
+one voice that remained oddly silent was that
+of the old scribe [[Qi]], who was responsible for
+cataloging all Temple knowledge -- chiefly, the designs
+of its many systems.  A junior monk asked the scribe, "Why
+have you raised no objections to this new practice?  It
+seems destined to make you obsolete."
+
+The scribe replied, "I do not rebuke the sun for rising late
+in autumn."
+
+The monk reported to his fellows that the scribe had simply
+surrendered to the inevitable.  Yet one senior monk was
+suspicious.
+
+"Tell me his words exactly," said the senior monk.
+
+When the junior monk did this, the senior monk laughed and
+went to see the scribe.
+
+- - -
+
+"So," the senior monk said to Qi, "our scribe welcomes the
+shorter days.  Is it because he is fond of golden leaves and
+crisp apples?  Or has he simply tired of warm afternoons?"
+
+"Let he who dreams of endless summer spend a year in the
+desert," replied the scribe.
+
+"And let he who fancies autumn spend a day among the birds
+and beasts," said the senior monk, "for they know that
+colder days are coming.  What is your plan for the winter of
+your days, when your services are no longer required?
+Emigrate?  Hibernate?"
+
+"Innovate," said the scribe.  "And if I can invent nothing,
+I shall reinvent myself.  Let mathematicians talk of
+/pi/ and /e/ and /i/ and /phi/.  The only constant of
+consequence is /delta-t/, the Inconstant Constant, whose
+value no one knows, except that it always exceeds zero."
+
+"Yet if you remain here, you must witness the death of all
+you have created," observed the senior monk.
+
+The old scribe removed his spectacles to polish them.  "When
+the last leaf has fallen, ask [[#181|Shinpuru the gardener]]
+why he does not burn his rake for warmth."
+
+
