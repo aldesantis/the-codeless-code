@@ -3,6 +3,7 @@ Title: Higiene
 Lang: es
 Translator: galcalde
 Tagline: En el cual cerramos la boca.
+Illus.0.title: Seguro, sabe bien y evita la caries, pero también hace que tus dientes inferiores se muevan cuatro lugares a la derecha.
 
 El abad [[Ruh Cheen]] llamó a la joven maestra [[Zjing]] en su monitor para su teleconferencia semanal.
 
