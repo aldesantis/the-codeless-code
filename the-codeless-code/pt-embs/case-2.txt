@@ -1,0 +1,42 @@
+Number: 2
+Title: Desconhecimentos Desconhecidos
+Lang: pt
+Locale: BR
+Translator: embs
+Illus.0.title: Pensando bem, só vou querer a salada.
+
+O Imperador estava furioso com os defeitos no novo sistema
+de processamento de pedidos que ele havia encomendado e, por
+isso, enviou um mensageiro ao templo para inquirir os monges
+de lá.
+
+"Vossa Excelência enviou-lhes seus mais confiáveis Analistas
+de Negócios para assegurar que todas as funcionalidades
+funcionariam como pretendido", esbravejou o mensageiro.  "Vocês
+não compreenderam nenhuma das suas numerosas apresentações de
+PowerPoint?"
+
+"Nós assistimos a cada uma", disse o mestre Java.  "E tudo foi
+ouvido, foi compreendido."
+
+O mestre dispôs uma pequena tigela de arroz diante do mensageiro,
+que a devorou avidamente.  O mensageiro limpou sua boca nas mangas
+e continuou:
+
+"Esses mesmos Analistas forneceram dez mil páginas de documentos
+de requisitos meticulosamente ilustrados até o último Caso de
+Uso.  Vocês não se deram ao trabalho de examiná-los?"
+
+"Nós examinamos a minúcias cada página", disse o mestre Java.
+"E tudo foi lido, foi compreendido".  O mestre Java dispôs uma
+xícara de chá fumegante diante do mensageiro, que a tragou num
+único gole.
+
+O mensageiro então desfaleceu por sobre a mesa, morto.
+
+O mestre perguntou aos seus alunos: "Não sabia o mensageiro que
+é nosso costume cercar-nos com comida e bebida envenenadas para
+que possamos melhor resistir aos impulsos da carne?"
+
+Disse o monge mais sábio: "Tudo isso foi observado pelo mensageiro,
+foi compreendido."
