@@ -1,0 +1,29 @@
+Number: 1
+Title: As Pequenas Coisas
+Lang: pt
+Locale: BR
+Translator: embs
+Illus.0.title: Perguntar ao mestre Java o porquê de pés descalços não serem permitidos no templo normalmente resulta na mesma resposta.
+
+Por três dias e três noites, o mestre Java não saiu do seu
+cubículo.  No quarto dia, os monges do templo enviaram um
+noviço para perguntar por ele.
+
+O noviço achou o mestre em frente ao quadro negro, contemplando
+um único diagrama de fluxo de dados.  O noviço reconheceu aquilo
+como um componente minoritário do vasto sistema que os monges
+foram contratados para manter.  Polidamente, o noviço perguntou
+em que o mestre estava trabalhando.
+
+O mestre respondeu: "Há um defeito e estou considerando qual
+a melhor maneira de repará-lo."
+
+O noviço disse "Você prega frequentemente sobre a importância
+de atribuir prioridades.  Como, então, pode ficar obcecado
+por algo tão pequeno e desimportante?"
+
+Sem proferir uma palavra, o mestre levantou seu cajado e o
+arremeteu a baixo duramente sobre o pé descalço esquerdo do
+noviço, quebrando-lhe o dedo mínimo.  O noviço gritou de dor
+e cambaleou para fora do cubículo.  Naquele momento, o noviço
+foi iluminado.
