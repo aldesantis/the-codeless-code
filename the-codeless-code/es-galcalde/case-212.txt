@@ -1,0 +1,32 @@
+Number: 212
+Title: Estaciones
+Lang: es
+Translator: galcalde
+Tagline: En el cual otra hoja se da vuelta.
+Illus.0.title: Probablemente cayó de un árbol rojo-negro.
+
+Los equipos de desarrollo manejados por el abad [[Ruh Cheen]] del [[Spider Clan|Clan de la Araña]] estaban encantados con la decisión del abad de [[#210|eliminar todos los documentos de diseño]]. Porque menos tiempo escribiendo significaba más tiempo codificando, lo cual era su alegría principal. Y como el templo armaba sus equipos con desarrolladores de los tres clanes mayores, pronto se corrió la voz a través de [[Elephant's Footprint Clan|La Huella del Elefante]] y [[Laughing Monkey Clan|El Mono que Ríe]], cuyos monjes pidieron a sus abades que siguieran el ejemplo de Ruh Cheen.
+
+Mientras el flujo de la documentación descendió a un goteo, una voz que permanecía curiosamente silenciosa era la del viejo escriba [[Qi]], quien era responsable de catalogar todo el conocimiento del templo -- principalmente, los diseños de sus muchos sistemas. Un monje aprendiz le preguntó al escriba, "¿Por qué no has hecho objeciones a esta nueva práctica? Parece destinada a volverte obsoleto."
+
+El escriba respondió, "Yo no regaño al sol por amanecer más tarde en otoño."
+
+El monje reportó a sus compañeros que el escriba simplemente se había rendido ante lo inevitable. Sin embargo un monje superior estaba desconfiado.
+
+"Dime sus palabras exactamente," dijo el monje superior.
+
+Cuando el monje aprendiz lo hizo, el monje superior rió y fue a ver al escriba.
+
+- - -
+
+"Entonces," dijo el monje superior a Qi, "nuestro escriba da la bienvenida a los días más cortos. ¿Es porque le tiene afecto a las hojas doradas y las manzanas crujientes? ¿O simplemente se ha cansado de las tardes cálidas?"
+
+"Deja que el que sueñe con un verano eterno pase un año en el desierto," respondió el escriba.
+
+"Y deja que el que le guste el otoño pase un día entre pájaros y bestias," dijo el monje superior, "porque ellos saben que se vienen días más fríos. ¿Cual es tu plan para el invierno de tus días, cuando tus servicios no sean más necesitados? ¿Emigrar? ¿Hibernar?"
+
+"Innovar," dijo el escriba. "Y si no puedo inventar nada, debo reinventarme a mi mismo. Deja que los matemáticos hablen del <em>pi</em> y el <em>e</em> y el <em>i</em> y el <em>phi</em>. La única constante de consecuencia es <em>delta-t</em>, la Constante Inconstante, cuyo valor nadie conoce, excepto de que siempre es mayor que cero."
+
+"Sin embargo si te quedas aquí, debes contemplar la muerte de lo que has creado," observó el monje superior.
+
+El viejo escriba se quitó sus lentes para pulirlos. "Cuando la última hoja haya caído, pregúntale a [[#181|Shinpuru el jardinero]] por qué no quema su rastrillo para calentarse."
