@@ -4,7 +4,7 @@ Names: Bawan, Hwídah, Banzen, Yíwen
 Topics: production support, dependency injection, transactions, connection pooling, Java
 Geekiness: 3
 Lang: ru
-Translator: Dmitry Esarev
+Translator: ed
 
 Однажды ночью монахиня [[Hwídah|Гвида]] была вызвана мастером [[Bawan|Баваном]]
 
