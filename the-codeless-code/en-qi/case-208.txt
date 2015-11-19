@@ -82,7 +82,7 @@ is a most irrational ratio, it ensures that twelve
 identical steps upward will bring us exactly one octave
 above our starting place.
 
-"In this temperment, /no/ interval is an integer ratio
+"In this temperament, /no/ interval is an integer ratio
 except the octave: they are all the slightest bit sharp or
 flat.  Yet it allows us to transpose songs into any key
 without distortion or dissonance.  In this way perfection yields

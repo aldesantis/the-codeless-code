@@ -1,0 +1,62 @@
+Date: 2015-11-16
+Title: Streams of Consciousness
+Number: 214
+Names: Kaimu, Banzen
+Topics: Java, languages, streams, annotations, lambda expressions, method references, simplicity, complexity, brevity
+Geekiness: 3
+Tagline: In which we long for a simpler life.
+
+Old master [[Banzen]] and young master [[Kaimu]] were
+sitting on a bench overlooking a gorge, watching fishermen
+in the creek far below.
+
+- - -
+
+Banzen said: "My apprentices learned of Java Streams this
+week.  Now they use Streams everywhere, even when a simple
+/for/ loop would be clearer..."
+
+     Kaimu mused: "When I first worked in the temple kitchens, I was
+     intrigued by the many blades in the knife blocks, and wished
+     to try them all.  But I did not know the difference between
+     a fillet-knife and a boning-knife, and ruined many good
+     fish."
+
+Banzen continued: "...I would happily teach them when to use
+Streams and when to avoid them, but I do not know myself.
+Nor have I read any simple wisdom on the subject..."
+
+     Kaimu continued: "In time I grew to understand the
+     purpose of each blade by observing how its shape and
+     thickness either helped or hindered my task.  In this
+     way I mastered not only the knives I used, but ones I
+     had never seen.  Error is a poor friend but an
+     excellent teacher."
+
+Banzen continued: "...Even if I could correct them today,
+tomorrow will only bring another peril.  Last month my clan
+began to play with annotations.  How can I conduct code
+reviews when essential functionality is migrating from the
+methods to the margins?  And now lambda expressions
+are springing up throughout the code base..."
+
+     Kaimu continued: "Each new cook brought his own
+     utensils, bright and sharp and strange.  My favorite by
+     far was a skinning-knife with a gut hook.  I hardly
+     ever needed it, but when I did it was exquisitely
+     suited to its task."
+
+Banzen continued: "...I do not understand why people
+must tinker with a simple language until it becomes so
+complex that it is nigh impossible to learn..."
+
+     Kaimu continued: "I still sneak into the kitchens from time to
+     time, to marvel at the latest tools by which complex tasks
+     are executed with a minimum of effort."
+
+Banzen leaned on his staff. "My only consolation is that
+every afternoon I can sit on this bench and contemplate the
+happy lives of those whose sole aspiration is to catch and
+clean fish."
+
+     Kaimu replied: "Indeed; theirs is a happy lot."
