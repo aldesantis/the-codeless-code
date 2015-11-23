@@ -1,0 +1,44 @@
+Number: 214
+Title: Flujos de Conciencia
+Lang: es
+Translator: galcalde
+Tagline: En el cual añoramos una vida simple.
+
+El viejo maestro [[Banzen]] y el joven maestro [[Kaimu]] estaban sentados en un banco mirando desde arriba un desfiladero, mirando pescadores en el arroyo allá abajo.
+
+- - -
+
+Banzen dijo: "Mis aprendices aprendieron los Streams de Java esta semana. Ahora usan Streams en todos lados, incluso cuando un simple bucle <em>for</em> hubiera sido más claro..."
+
+     Kaimu meditó: "Cuando empecé a trabajar en las cocinas
+     del templo, estaba intrigado por los muchos cuchillos 
+     en los portacuchillos, y deseé probarlos todos. Pero 
+     no conocía la diferencia entre un cuchillo de filete 
+     y uno para deshuesar, y arruiné mucho pescado bueno."
+
+Banzen continuó: "...Yo les enseñaría felizmente cuando usar Streams y cuando no, pero yo mismo no lo sé. Ni he leído alguna sabiduría simple sobre el tema..."
+
+     Kaimu continuó: "Con el tiempo crecí para entender el
+     propósito de cada cuchillo observando cómo su forma y
+     espesor me ayudaba o dificultaba mi tarea. De esa manera
+     amaestré no sólo los cuchillos que usaba, sino también
+     aquellos que nunca ví. El error es un pobre amigo pero
+     un excelente profesor."
+
+Banzen continuó: "...Incluso si pudiera corregirlos hoy, mañana sólo traerá otro peligro. El mes pasado mi clan empezó a jugar con las anotaciones. ¿Cómo puedo conducir las revisiones de código cuando la funcionalidad esencial está migrando de los métodos a los márgenes? Y ahora las expresiones lambda están brotando rápidamente por toda la báse del código..."
+
+     Kaimu continuó: "Cada cocinero nuevo trajo sus propios
+     utensilios, brillantes, afilados y extraños. Mi favorito 
+     por lejos fue un cuchillo despellejador con un gancho 
+     destripador. Apenas lo he necesitado, pero cuando lo hice
+     era exquisitamente apropiado para esa tarea."
+
+Banzen continuó: "...no entiendo por qué la gente debe juguetear con un lenguaje simple hasta que se vuelve tan complejo que es casi imposible de aprender..."
+
+     Kaimu continuó: "Aún me escurro en la cocina de vez en cuando, 
+     para maravillarme con las últimas herramientas por las cuales
+     las tareas complejas son ejecutadas con el menor esfuerzo."
+
+Banzen se apoyó en su bastón. "Mi única consolación es que cada tarde puedo sentarme en este banco y contemplar las vidas felices de aquellos cuya única aspiración es atrapar y limpiar peces."
+
+     Kaimu respondió: "Sin dudas; el suyo es un lote feliz."
