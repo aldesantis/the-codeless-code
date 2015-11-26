@@ -1,0 +1,17 @@
+Number: 215
+Title: FAQ
+Lang: es
+Translator: galcalde
+Tagline: En el cual fallamos en conseguir una respuesta directa.
+
+Un monje del [[Laughing Monkey Clan|Clan del Mono que Rie]] creó una herramienta útil y flexible que se ocupaba de una necesidad común de negocio. El demostró sus virtudes a los maestros del Templo, y pronto estuvo contento de saber que la herramienta fue elegida como la solución recomendada para todas las aplicaciones del templo. Sin embargo el monje pronto descubrió que la popularidad tenía sus peligros.
+
+"La situación va más allá de lo frustrante," dijo el monje a sus compañeros. "Incluí una docena de programas de ejemplos, monté un FAQ, he creado una presentación introductoria con diapositivas, escribí un <em>largo</em> tutorial en linea, comenté <em>meticulosamente</em> el código fuente, y me aseguré que la documentación de la API esté visible para los desarrolladores dentro de sus IDEs. ¿Por qué, entonces, soy molestado día y noche con las preguntas más básicas?"
+
+El viejo escriba [[Qi]] lo oyó por casualidad. Luego aquel día apareció en la habitación del monje, con sus brazos llenos de libros, papeles sueltos, y rollos de varios tamaños. Estos fueron desparramados en el escritorio del monje.
+
+"Durante muchos años he trabajado como desarrollador y tuve la misma queja que tú," dijo el escriba, atrapando un rollo errante antes que se desenrollara en el suelo. "Por eso me empecé a concentrar en descubrir como crear el Documento Perfecto: algo que guiaría instantáneamente a mis usuarios a cualquier respuesta que se pidiese. Para hacerlo junté toda la sabiduría disponible en el tema, la cual comparto contigo ahora."
+
+El monje miró la pila ensuciando su escritorio. "No tengo tiempo de seleccionar entre todo esto. ¿No puedes simplemente decirme lo que más necesito saber?"
+
+"¡Excelente!" dijo el escriba. "Ya vas por la mitad."
