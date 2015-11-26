@@ -1,0 +1,41 @@
+Date: 2015-11-23
+Title: FAQ
+Number: 215
+Names: Qi, Laughing Monkey Clan
+Topics: documentation, brevity, FAQ
+Geekiness: 1
+Tagline: In which we fail to get a straight answer.
+
+A monk of the [[Laughing Monkey Clan]] created a useful
+and flexible toolkit which addressed a common business need.
+He demonstrated its virtues to the Temple masters, and soon
+was pleased to learn that the toolkit had been chosen as the
+recommended solution for all Temple applications.  Yet the
+monk soon discovered that popularity had its perils.
+
+"The situation is beyond frustrating," said the monk to his
+fellows.  "I included a dozen example programs, assembled a
+FAQ, created an introductory slide presentation, authored a
+/lengthy/ online tutorial, /meticulously/ commented the
+source code, and ensured that the API documentation is
+visible to developers within their IDEs.  Why, then, am I
+pestered day and night with the most basic of questions?"
+
+The old scribe [[Qi]] overheard.  Later that day he appeared
+at the monk's quarters, his arms overflowing with books,
+loose papers, and scrolls of many sizes.  These he spilled out
+onto the monk's desk.
+
+"For many years I labored as a developer and had the same
+complaint as you," said the scribe, catching an errant
+scroll before it rolled onto the floor.  "Thus I bent my
+mind to discovering how to create the Perfect Document: a thing
+that would instantly guide my users to whatever answer was
+required.  To do this I assembled all available wisdom on
+the subject, which I now share with you."
+
+The monk looked at the pile littering his desk.  "I do not
+have time to sift through all this.  Can you not simply tell
+me what I most need to know?"
+
+"Excellent!" said the scribe.  "You're halfway done already."

@@ -1,0 +1,53 @@
+Number: 6
+Title: Vazio
+Lang: pt
+Locale: BR
+Translator: embs
+
+Ao retornar de férias, o chefe abade do [[Laughing Monkey
+Clan|Clã do Macaco Risonho]] encontrou seu templo em estado
+de pânico e desordem.  O sistema financeiro que eles haviam
+acabado de modificar estava lançando NullPointerExceptions
+para todos os novos clientes. Esses usuários, irritados ao
+extremo, estavam encerrando suas contas depois de menos de
+um dia.
+
+Com alguma dificuldade, o abade rastreou o problema até um
+método cujo propósito estabelecido era retornar um List das
+transações do usuário.  Se não houvesse transações, ele
+retornava null em vez de lista vazia.
+
+"Tragam-me o monge que escreveu este método", ele disse aos
+guardas do templo.  "E também o monge cujo código o invoca".
+
+O primeiro monge, que era o mais velho dos dois, declarou
+que a culpa deveria ser, indubitavelmente, colocada na conta
+do segundo.  "Meu Javadoc era claro ao extremo.  Não é minha
+culpa que ele não tenha checado valores nulos."  O segundo
+monge baixou a cabeça, humilhado, e nada disse.
+
+O abade bateu palmas e duas urnas altas de jade foram
+dispostas sobre o chão, uma diante de cada monge.  "Suas
+punições foram escritas em tiras de papel que estão aí
+dentro.  A cada dia, vocês devem retirar a primeira tira
+de papel que sua mão tocar e obedecer seu decreto ao pé
+da letra, até que a urna se esvazie".
+
+O monge mais novo foi ordenado primeiro.  Sua mão não havia
+chegado à metade da urna quando se ouviu o farfalhar de
+papéis.  Ao ler a tira, ele acenou com a cabeça e deixou a
+sala.
+
+O monge mais velho foi até muito baixo na sua urna, até que
+seus dedos tocaram o fundo frio.  "Não há tiras de papel
+nesta urna", disse o monge com um leve sorriso a tocar-lhe
+o canto da boca.
+
+"Como também não há peixe, nem dez montanhas", disse o abade.
+
+O monge mais velho pranteou em dor.  A urna caiu e se
+espatifou.  Um escorpião emergiu apressadamente por entre os
+cacos.
+
+O abade expressou suas condolências ao monge moribundo.
+"Todas as nulidades não são equivalentes".

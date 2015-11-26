@@ -2,7 +2,7 @@ Date: 2015-03-14
 Number: 183
 Title: Choosing Your Battles
 Names: Zjing, Wangohan, Spider Clan, Bawan, Kaimu, Banzen, Satou
-Topics: learning, mistakes, frameworks, mentoring, trust, javascript, user interfaces
+Topics: learning, mistakes, frameworks, mentoring, trust, Javascript, user interfaces
 Geekiness: 1
 Illus.0.src: sword.jpg
 
