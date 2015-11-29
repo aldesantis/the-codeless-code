@@ -1,0 +1,31 @@
+Number: 3
+Title: Encapsulamento
+Lang: pt
+Locale: BR
+Translator: embs
+Illus.0.title: Faça o que fizer, nunca lhes fale que você precisa ir ao banheiro.
+
+Um jovem monge, novo no templo, não apenas declarou todos
+os seus métodos públicos como também todas as suas variáveis
+de instância.  O abade chefe cansou-se de repreender o monge
+e pediu ao mestre Java que o aconselhasse.
+
+No dia seguinte, o mestre Java convocou o monge para almoçar
+com ele em seu escritório particular.
+
+O monge entrou e encontrou uma suntuosa refeição por sobre a
+mesa de conferências.  O mestre ordenou, então, que o monge
+deitasse sobre o chão.
+
+O monge obedeceu e, em seguida, o mestre abriu seu roupão e
+sacou uma grande faca.  Ele pressionou a ponta da faca
+firmemente sobre o tórax do monge até que uma gota rubra
+surgiu ao redor da lâmina.  O monge chorou em prantos de
+terror e perguntou ao mestre qual era a sua intenção.
+
+"Abrir a sua barriga", explicou o mestre, "para que então eu
+possa preenchê-la com o arroz e o chá.  Minha agenda está
+bem cheia e acredito que este método de alimentar os convidados
+é extremamente eficiente."
+
+Depois disso o monge não necessitou de mais reprimendas.

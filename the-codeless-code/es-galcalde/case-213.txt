@@ -1,0 +1,83 @@
+Number: 213
+Title: El Espejo Imperfecto
+Lang: es
+Translator: galcalde
+Tagline: En el cual nuestro problema podría ser resuelto por un pequeño reflejo.
+
+<i>Esta semana la joven maestra Zjing estaba revisando el código del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]], cuyos monjes fueron invocados para diseñar tablas de bases de datos, crear triggers, y construir las capas de persistencia de las aplicaciones del templo.</i>
+
+- - -
+
+El lunes ella vio una tabla llamada CustomerAddress, //
+diseñada para contener la dirección de un Cliente. //
+Tenía ocho columnas apropiadas para esta tarea.
+
+Igualmente ella encontró una <em>clase</em> llamada CustomerAddress, //
+que tenía ocho propiedades correspondientes. //
+<em>Todo está como debería ser,</em> pensó la maestra.
+
+- - -
+
+El martes ella vio una tabla llamada BusinessAddress,  //
+diseñada para contener la dirección de un Negocio. //
+Tenía nueve columnas apropiadas para esta tarea.
+
+Igualmente ella encontró una <em>clase</em> llamada BusinessAddress, //
+que tenía nueve propiedades correspondientes. //
+<em>Tal como esperaba</em>, pensó la maestra.
+
+- - -
+
+El miércoles ella vio una tabla llamada RegimentAddress, //
+diseñada para contener la dirección de un Regimiento. //
+Tenía diez columnas apropiadas para esta tarea.
+
+Igualmente ella buscó una <em>clase</em> llamada RegimentAddress, //
+que tuviera diez propiedades correspondientes, //
+pero no encontró dicha clase --
+
+    Y aunque había una clase llamada Regiment, //
+    su dirección era guardada en BusinessAddress, //
+    donde 'calle' ahora contenía tres campos sin relación, //
+
+    y 'codigoPostal' el 'numeroBase', //
+    y 'suite' el 'numeroBarraca'. //
+    <em>Bienvenido a mi pesadilla,</em> pensó la maestra.
+
+- - -
+
+El jueves ella localizó al desarrollador //
+quien rechazó implementar un RegimentAddress. //
+Ella le preguntó que explicara su razón.
+
+Reutilización, dijo el monje orgullosamente: //
+porque ¿no es mejor tener menos código que manejar? //
+<em>Error simple de principiante,</em> pensó la maestra.
+
+- - -
+
+El viernes ella revisó otra vez el código del monje, //
+porque ella lo aconsejó sobre las virtudes de la consistencia, //
+y estaba ansiosa de ver su progreso.
+
+Una vez más ella buscó una clase llamada RegimentAddress, //
+que tuviera las diez propiedades esperadas, //
+pero no encontró dicha clase --
+
+    Sin duda, BusinessAddress había desaparecido, //
+    y CustomerAddress también. Y en su lugar, //
+    había una clase Address con <em>veinte</em> propiedades --
+
+    atravesando las tres tablas 'Address', //
+    condenadas a ser parcialmente completadas para siempre. //
+    <em>IMPROPERIO ELIMINADO</em>, pensó la maestra.
+
+- - -
+
+El sábado ella se sentó junto a un estanque, //
+considerando el reflejo de tres arces, //
+y pensó:
+
+Tres árboles arriba, tres árboles abajo. //
+Este estanque sin cerebro //
+tiene más buen sentido que ese monje.
