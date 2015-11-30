@@ -1,0 +1,50 @@
+Title: Unter Wasser
+Number: 209
+Tagline: Worin wir ein Leck haben.
+Lang: de
+Translator: andrebogus
+
+Eines herbstlichen Nachmittags hörte Java-Meister [[Bawan]], dass der Mönch
+[[Landhwa]] an einem einfachen Daten-Extraktions-Programm zu kämpfen hatte.
+Dies weckte seine Neugier, und so besuchte er den Mönch, der tief in seinem
+Stuhl hing.
+
+"Das Programm füllt den Speicher," gähnte Landhwa, der keine Geduld für solche
+Untersuchungen hatte. "Ja, es verarbeitet viele große Dateien, aber nur einzeln
+und es behält nur kleinste Schnipsel aus allen."
+
+"Zeige es mir" sagte Bawan.
+
+Der Mönch seufzte und zeigte auf den Bildschirmm.  "Um eine Datei zu 
+verarbeiten, lese ich sie zuerst zeilenweise in eine Liste von Strings. Diese
+durchsuche ich nach der interessanten Stelle; ein paar kurze Zeilen höchstens.
+Diese extrahiere ich mittels subList und speichere diese in einer statischen
+Map.  Der Code könnte nicht einfacher sein."
+
+Bawan nickte.  "Triff mich um Mitternacht am Fluss unten im Dorf," sagte
+er.  "Ich weiß, wer uns helfen kann, und die Reise ist nicht lang."
+
+In der Nacht stieg Landhwa mit einer Laterne durch den Nebel hinab ins Dorf.
+Das Glitzern von Wasser erspähend, folgte er dem beplankten Pier an Dutzenden
+von Wasserfahrzeugen vorbei, bis er Meister Bawan im letzten Ruderboot am Ende
+des Piers fand.  Der Meister deutete auf die Ruder.
+
+"Flussaufwärts", sprach Bawan.
+
+Landhwa ruderte allein, während der Meister stumm mit verschränkten Armen im
+Heck saß. Jeder Ruderschlag gegen die Strömung schien ein kräftezehrender 
+Kampf, doch irgendwie kam das kleine Boot zentimeterweise durch den Nebel
+voran.  Stunden vergingen.  Just als Lahdhwa am Rande des Zusammenbruchs war,
+befahl ihm der Meister, an einem kleinen klapprigen Pier fernab der letzten
+Stadt, die sie passiert hatten, festzumachen. Der Meister knotete ein Seil an
+dem Pier fest, um sie zu sichern. 
+
+"Wir warten." sprach Bawan.
+
+Der Morgen kam und zerstreute den nächtlichen Nebel, doch niemand kam vom Ufer.
+Als Landhwa flussabwärts spähte, entdeckte er, dass ihr Ruderboot ein weiteres
+Boot an einer einige Meter langen unter Wasser gespannten Leine gezogen hatte.
+Der sich lichtende Nebel offenbarte ein weiteres Boot dahinter, und noch eins,
+und ein Anderes, und auch wenn das Zehnte hinter einer Flussbiegung versteckt
+lag, war Landhwa sich sicher, in jener Nacht unwissentlich jedes Boot vom Pier
+den Fluss hoch geschleppt zu haben.
