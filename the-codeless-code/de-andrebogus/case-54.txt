@@ -64,7 +64,7 @@ aber findest Du nicht auch, das Zjing zu sehr auf die
 dass sie häufig ihre Module refaktoriert, nur weil sie die
 Implementierung für nicht ausreichend elegant hält."
 
-"Ich halte Dein Urteil für gerecht, Yiwen. Ihre Ziele mögen
+"Ich halte Dein Urteil für gerecht, Yíwen. Ihre Ziele mögen
 lauter sein, doch sie passen nicht zur Komplexität unseres
 Problem-Bereichs. Tatsächlich haben ihre Bemühungen hin und
 wieder mehr Schaden als Nutzen erbracht. Doch das sollte
@@ -79,7 +79,7 @@ wie der Kameradin am Besten zu helfen war.
 keine Möglichkeit lässt, die Schlucht zu überwinden, um 
 unsere Schwester zu retten?"
 
-"Ja, es ist furchtbar, Yiwen, doch wäre die Brücke 
+"Ja, es ist furchtbar, Ywen, doch wäre die Brücke 
 /eingestürzt/, müssten die Seile geborsten sein, doch ich 
 kann die sauberen Enden klar sehen. Wenn ich mich recht 
 entsinne, war exakt in der Mitte der Brücke ein hübsch
@@ -97,7 +97,7 @@ Yíwen nickte.
 die Seile am Tor hielten bedauerlich groß und hässlich
 waren, und die Schönheit der Brücke schmälerten?"
 
-"Ich glaube, so war es, Yiwen. Ich denke ihre Hässlichkeit
+"Ich glaube, so war es, Yíwen. Ich denke ihre Hässlichkeit
 wäre schmerzlich verlockend für jemanden, der sich um solche
 Dinge sorgt -- wenn es auch unwahrscheinlich ist, dass 
 jemand so leichtsinnig wäre, zu versuchen, die Knoten in der
