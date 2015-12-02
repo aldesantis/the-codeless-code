@@ -1,0 +1,73 @@
+Title: Helden Ohne Taten
+Number: 206
+Tagline: Worin wir beantwortet werden.
+Lang: de
+Translator: andrebogus
+
+Ein Mönch mailte Meister [[Kaimu]]:
+
+      Letzte Woche nanntet ihr die Sechs Qualitäten //
+      Die ein guter Entwickler besitze //
+      Was aber sind diese "Sechs Qualitäten"?
+
+Seltsamerweise kam innerhalb von Sekunden eine lange Antwort:
+
+      Um Musik zu verstehen, besuche //
+      zum Mittag am Marktplatz das Tun//
+      Die Sechs Qualitäten verstehen suche //
+      Hier im Tempel um Dich herum nun.
+
+      Die erste Qualität fehlt dem Mönch [[Mudána]]. //
+      Schickt man ihn zum Mittag zum Jagen, //
+      Träumt er von Wildbret den Tag lang im Bett //
+      Und wir warten mit hängendem Magen.
+
+      Die zweite Qualität fehlt der Nonne [[Nabasu]]. //
+      Schickt man sie zum Jagen hinaus, //
+      erschrickt sie vor'm eigenen Bogen, und dann //
+      bitt't sie and're Pflichten sich aus.
+
+      Die Dritte Qualität fehlet dem Mönch [[Djishin]]. //
+      Schickt man ihn in den Wald mit 'nem Beil, //
+      [[#108|Erfindet er was]], das zur Jagd besser sei.//
+      Und der Tempel verhungert derweil.
+
+      Die Vierte Qualität fehlt dem Mönch [[Landhwa]]. //
+      Gibt man ihm für die Jagd ein Gewehr, //
+      Bringt er heim nur Fetzen, gerötet von Blut. //
+      Mit Kanonen auf Spatzen schießt er.
+
+      Die Fünfte Qualität fehlt dem Mönch [[Wangohan]]. //
+      Er wählt [[#194|jedem Einwand entgegen]] //
+      das Shuriken zur Jagd. Und das Reh, das er trifft, //
+      rennt noch tagelang über die Wegen.
+      
+      Die Sechste Qualität fehlt der jungen [[Zjing]]. //
+      lässt man Sie für den Tempel Wild jagen, //
+      sagt sie "ja ja, sofort wenn ich Zeit dafür find’" //
+      und das Wild stirbt an Nierenversagen.
+
+
+Der Mönch dachte einen Moment lang nach und schrieb dem Meister:
+
+      Der Erste zu faul, überhaupt zu beginnen. //
+      Die Zweite, die Selbstzweifel zu überstehn. // 
+      Der Dritte, nach rechtem Werkzeug zu sinnen. //
+      Der Vierte, für Präzision einzustehn. //
+      Der Fünfte, Bestehendes zu verwerfen. //
+      Die Sechste, die Aufmerksamkeit zu schärfen.
+      
+      Doch säumt Faulheit die sechs Pfade zum Versagen allein //
+      wie kann sie eine der Drei Großen Tugenden{{*}} sein?
+
+
+Erneut kam die prompte Antwort innerhalb von Sekunden:
+
+      Meister Kaimu jagt gerade Wild. //
+      Er schrieb dieses Programm, um seine//
+      Mails zu beantworten an seiner Statt // 
+      Schreibt erneut, und Ihr wisst, was ich meine.
+
+
+{{*}} Von einem der Patriarchen genannt: <a href="http://threevirtues.com">Faulheit, Ungeduld, und Selbstüberschätzung</a>.
+

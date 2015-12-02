@@ -1,0 +1,73 @@
+Lang: fr
+Translator: abelards
+Title: Effusion Plurielle
+Number: 205
+Illus.0.title: "Merci d'avoir acheté le Système d'Illumination Extrême 7000-XR de Létal Labs. Sa conception solide et résistante aux modifications devrait vous offrir de nombreuses minutes de bonheur contemplatif."
+
+Maître [[Suku]] et ses apprentis avaient choisi de finir l'été
+dans une vallée en contrebas d'une grande chaîne de montagnes,
+à pratiquer des revues de code pour un temple mineur.
+Cela, pensaient-ils, serait un travail reposant, pour les
+revigorer avant d'attaquer la grande ascension.
+Toutefois, la négligence des moines de ce temple
+avait de quoi vous rendre furieux.
+Tandis que les jours s'étiolaient, ainsi faisait la patience de Suku.
+
+Un matin, Suku entra dans le compartiment d'un moine particulièrement
+obtus et posa sur son clavier une liasse de code imprimé.
+
+"Chaque instance de cette classe représente un enregistrement
+dans la table /Clients/, est-ce vrai ?" demanda Suku.
+
+"Oui, oui," dit le moine.
+
+"Ce qui veut dire que chaque instance représente /un seul client,/
+n'est-ce pas ?" demanda Suku.
+
+"En effet," dit le moine, "en effet."
+
+"Et pourtant vous avez nommé cette classe /Clients/
+au lieu de /Client/," dit Suku. "Vous avez aussi donné le nom
+'clients' à des variables qui en contiennent /une seule/ instance,
+et 'getCustomers' des méthodes qui en renvoient une seule."
+
+"J'ai fait ça, moi ?" demanda le moine.
+
+"Oui," dit Suku.
+"Curieusement, vous avez aussi donné le nom 'clients' à
+des variables qui contiennent une /liste/ d'instances,
+et 'getCustomers' à des méthodes qui renvoient une liste."
+
+"Je vois," dit le moine en hochant la tête, fronçant des sourcis
+et regardant l'imprimé avec insistance. "Je vois..."
+
+Suku se fendit d'un sourire pincé et déplaisant.
+Si ses apprentis avaient été présents, ils auraient certainement
+battu en retraite, car la rumeur courait que leur maître était
+en partie serpent, et qu'elle pouvait décrocher sa mâchoire
+pour avaler un moine d'une seule bouchée si on la provoquait.
+
+"Tout ce que j'ai dit se retrouve également dans les tables
+/Pièces/ et /Colis/ et /Achats/, et leur classes associées.
+Ce qui rend votre code quelque peu --"
+
+"Cohérent," dit le moine fièrement. "Cohérent."
+
+Nul ne peut dire ce qui s'ensuivit dans le moment d'après,
+mais ce qui est certain c'est que le moine avait déjà
+perdu connaissance quand il toucha le sol.
+
+- - -
+
+Le moine s'éveilla au centre d'une grange abandonnée.
+Sa cheville avait été enchaînée à une pierre avec laquelle
+on attachait les taureaux.
+
+Sur le sol à ses côtés se trouvait une paire de ciseaux,
+un menaçant fatras de tubes, de câbles et de lumières clignotantes,
+et une note :
+
+    Le temps passe vite, //
+    Il est vital d'être précis. //
+    Pour désarmer ces bombes, il suffit //
+    de couper les câbles rouges du haut.

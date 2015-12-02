@@ -1,0 +1,65 @@
+Title: Plural-Erguss
+Number: 205
+Illus.0.title: "Wir gratulieren zum Kauf des Lethal-Labor 7000-XE Extremes Erleuchtungs-Zustellungs-Systems.  Seine stabile und sichere Konstruktion wird ihnen einige Minuten kontemplativer Freude bereiten."
+Lang: de
+Translator: andrebogus
+
+Meisterin [[Suku]] und ihre Lehrlinge hatten entschieden, den Rest des Sommers
+in einem Tal unterhalb der großen Bergkette zu verbringen, und Code Reviews in
+einem kleineren Tempel durchzuführen.  Dies, so dachten sie, wäre ruhige 
+Arbeit, gerade recht, um sich für den schweren Aufstieg auszuruhen. Doch die
+Mönche des Tempels waren zum Haareausraufen nachlässig. Wie die Tage, so 
+verstrich Sukus Geduld.
+
+Eines Morgens betrat Suku den Arbeitsplatz eines besonders begriffsstutzigen
+Mönches, und legte ihm einen Ausdruck auf die Tastatur.
+
+"Jede Instanz dieser Klasse repräsentiert eine Zeile der /Kunden/ Tabelle, ist
+das so?" fragte Suku.
+
+"Wie wahr, wie wahr", sagte der Mönch.
+
+"Was bedeutet, jede Instanz repräsentiert einen /einzelnen Kunden/, nicht 
+wahr?" fragte Suku.
+
+"So ist es," sagte der Mönch, "so ist es."
+
+"Trotzdem nennst Du diese Klasse /Kunden/ statt /Kunde/," sagte Suku.
+
+"Ihr nennt auch Variablen, die nur eine /einzelne/ Instanz enthielten, 
+'kunden' und Methoden, die eine Instanz zurückgeben, ‘getKunden’".
+
+"Das habe ich, nicht?" fragte der Mönch.
+
+"Ja," sagte Suku.
+"Interessanterweise nennst Du auch Variablen, die eine /Menge/ von Kunden
+enthalten 'kunden', und Methoden, die eine Menge zurückgeben, 'getKunden'."
+
+"Ich verstehe," nickte der Mönch, runzelte die Stirn und starrte auf den 
+Ausdruck.  "Ich verstehe..."
+
+Suku lächelte ein hartes, bösartiges Lächeln.  Wären ihre Lehrlinge anwesend,
+wären sie zurückgewichen; denn es wurde gemunkelt, dass ihre Meisterin zur
+Hälfte Schlange war, und bei der kleinsten Provokation ihren Kiefer ausrenken
+und einen Mönch mit Haut und Haaren schlucken konnte.
+
+"All dies gilt ebenso für die /Teile/, /Pakete/ und /Käufe/-Tabellen sowie ihre
+entsprechenden Klassen.  Dadurch ist der Code sehr--"
+
+"Konsistent," sagte der Mönch stolz. "Konsistent."
+
+Was dann passiertte, vermag niemand zu sagen, doch es ist sicher, dass der
+Mönch bereits bewusstlos war, als er zu Boden fiel.
+
+- - -
+
+Der Mönch erwachte inmitten einer verlassenen Scheune.  Sein Fußgelenk war mit
+für Stiere gemachten Eisen an einen Stein gekettet.
+
+Auf dem Boden neben ihm lag eine Schere, ein übel aussehendes Bündel von
+Röhren mit Drähten und blinkenden Lichtern und eine Nachricht:
+
+    Die Zeit ist kurz,//
+    Präzision lebenswichtig,//
+    Nur rote Kabel//
+    Durchschneiden ist richtig.//

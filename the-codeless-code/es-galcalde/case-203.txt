@@ -1,0 +1,20 @@
+Number: 203
+Title: En las Estrellas
+Lang: es
+Translator: galcalde
+Tagline: En el cual la culpa no cae sobre nosotros.
+Illus.0.title: Dibujé una barra en frente de una de esas estrellas y accidentalmente comenté el resto del dibujo.
+
+Cierto monje superior se halló en la necesidad de más desarrolladores para cumplir la fecha límite de su proyecto. Le pidió ayuda al abad del clan.
+
+Dijo el abad: Vayamos con [[Tongshing]] el Administrador de Proyectos; porque es sabio en las maneras de las Relaciones con los Clientes, y puede aconsejarnos en como abordar mejor a nuestro cliente.
+
+Después de oir sus deseos, el Administrador de Proyectos desdobló un periodico matutino. Abrió la página donde se imprimían los horóscopos del día, los escrutinizó, puso cara de enojo y dijo: hoy no es un día propicio. Consúltenme mañana de nuevo.
+
+El día siguiente, y el siguiente, y el siguiente, el monje y el abad volvieron por el consejo del Administrador de Proyectos. Cada vez, el Administrador de Proyectos desdoblaba su periodico, sacudía su cabeza, y le decía al par que volviera mañana.
+
+Pero al quinto día, Tongshing dijo: Si ustedes visten batas de carmesí, hoy será un día muy propicio para pedirle más dinero a su cliente.
+
+El monje y el abad hicieron lo que se les dijo, y volvieron al templo con una bolsa llena de monedas de plata. Más tarde, el monje fue hacia el Administrador de Proyectos y dijo: No puedo discutir con el éxito, pero sus métodos son poco ortodoxos. En una edad iluminada como la nuestra, ¿Cómo es que usted cree en la astrología?
+
+No creo en ella, dijo el Administrador de Proyectos. Pero su cliente sí, y se suscribe a este mismo periodico.

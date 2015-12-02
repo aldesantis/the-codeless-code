@@ -1,0 +1,88 @@
+Date: 2015-11-08
+Title: The Imperfect Mirror
+Number: 213
+Names: Zjing, Elephant's Footprint Clan
+Topics: consistency, persistence layer, design, partially-filled objects, refactoring, modeling, isomorphism
+Geekiness: 3
+Tagline: In which our problem would be solved by a little reflection.
+
+<i>This week young master Zjing was reviewing the code of the
+[[Elephant's Footprint Clan]], whose monks were called upon
+to design database tables, create triggers, and build the
+persistence layers of the Temple's applications.</i>
+
+- - -
+
+On Monday she saw a table named CustomerAddress, //
+designed to hold the address of a Customer. //
+It had eight columns suited for this task.
+
+Likewise she found a /class/ named CustomerAddress, //
+which had eight corresponding properties. //
+/All is as it should be,/ thought the master.
+
+- - -
+
+On Tuesday she saw a table named BusinessAddress,  //
+designed to hold the address of a Business. //
+It had nine columns suited for this task.
+
+Likewise she found a /class/ named BusinessAddress, //
+which had nine corresponding properties. //
+/Just as I expected/, thought the master.
+
+- - -
+
+On Wednesday she saw a table named RegimentAddress, //
+designed to hold the address of a Regiment. //
+It had ten columns suited for this task.
+
+Likewise she sought a /class/ named RegimentAddress, //
+which had ten corresponding properties, //
+but no such class was found --
+
+    And while there was a class named Regiment, //
+    its address was kept in a BusinessAddress, //
+    where 'street' now held three unrelated fields, //
+
+    and 'postalCode' the 'baseNumber', //
+    and 'suite' the 'barracksNumber'. //
+    /Welcome to my nightmare,/ thought the master.
+
+- - -
+
+On Thursday she located the developer //
+who had declined to implement a RegimentAddress. //
+She asked him to explain his rationale.
+
+Reuse, the monk said proudly: //
+for is it not better to have less code to manage? //
+/Simple novice error,/ thought the master.
+
+- - -
+
+On Friday she checked the monk's code again, //
+for she had advised him on the virtues of consistency, //
+and was eager to see his progress.
+
+Once more she sought a class named RegimentAddress, //
+which had the ten expected properties, //
+but no such class was found --
+
+    Indeed, now BusinessAddress was gone, //
+    and CustomerAddress too.  And in their place, //
+    one Address class with /twenty/ properties --
+
+    crossing all three 'Address' tables, //
+    doomed forever to be partially filled. //
+    /EXPLETIVE DELETED/, thought the master.
+
+- - -
+
+On Saturday she sat by a pond, //
+regarded the reflection of three maple trees, //
+and thought:
+
+Three trees above, three trees below. //
+This mindless pond //
+has more good sense than that monk.

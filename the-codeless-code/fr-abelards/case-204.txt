@@ -1,0 +1,57 @@
+Lang: fr
+Translator: abelards
+Title: Tour de garde
+Number: 204
+Tagline: Dans lequel le temps est relatif.
+
+Chacun savait que la petite nonne [[Hwídah]] était la préférée de
+[[Banzen]] dès qu'il fallait enquêter sur des problèmes de production.
+Hwídah n'était pas fière de ce rôle, car elle supposait
+qu'il ne s'agissait que du [[#152|châtiment de Banzen]]
+envers sa nature trop curieuse.
+Le fait qu'elle passait désormais tous les jours des heures à
+parcourir des fichiers de log ne faisait rien pour lever ce soupçon.
+
+"C'est extrêmement frustrant," dit-elle à Banzen quand il vint
+lui demander comment elle avançait sur son dernier sujet.
+"En théorie, un tel problème pourrait arriver si ce traitement
+ne tournait pas à minuit. Nos fichiers journaux de /cron/
+montrent bien qu'il a commencé quatre heures plus tard que
+prévu, mais pour l'amour du Ciel je ne parviens pas à en
+expliquer la raison, et cela me fait tourner chèvre."
+
+Banzen regarda le texte qui défilait sur son moniteur.
+"Très bien," dit-il, "peut-être as-tu assez souffert.
+Choisis-toi une heure dans la soirée, et je limiterai tes
+tâches d'enquête à cette heure, et cette heure seulement."
+
+Hwídah réfléchit un moment.
+"Je commencerai aux dix-neuvième coup de l'horloge," dit-elle.
+"Car j'ai fini mon dîner et que je suis prête pour tous les défis."
+
+Banzen hocha la tête et sortit.
+
+- - -
+
+Le téléphone portable de Hwídah l'éveilla à deux heures trente du matin
+cette nuit-là. C'était Banzen, l'appelant dans la Cour des Commandes
+Centrales du Temple pour son astreinte.
+
+"Ne nous étions-nous pas mis d'accord pour dix-neuf heures seulement ?"
+dit-elle encore ensommeillée.
+
+"C'est bien ce que nous avons fait," dit Banzen.
+"Et pour au moins l'un de nos utilisateurs il est précisément dix-neuf
+heures trente, heure locale. Pour un autre utilisateur il est vingt
+heures trente, et ainsi de suite tout autour du globe.
+Quel dommage que tu n'aies pas spécifié ton heure d'astreinte en UTC,
+car cela aurait été sans ambiguïté aucune."
+
+"En effet," soupira Hwídah.
+"Mais comme la plupart des gens sains d'esprit,
+je n'ai pas l'habitude de penser en UTC."
+
+"Oh, c'est plutôt facile," dit Banzen.
+"Prends simplement notre heure locale et ajoute quatre heures.
+Je trouve toujours ça utile quand je regarde les logs de cron
+de notre Temple, dont les horodatages sont écrits en UTC."

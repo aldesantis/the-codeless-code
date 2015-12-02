@@ -1,0 +1,55 @@
+Number: 5
+Title: Void
+Lang: pt
+Locale: BR
+Translator: embs
+
+Num dia frio de outono, o mestre Java acordou irrequieto.
+Ele saiu sozinho para esvaziar sua mente.
+
+Logo o mestre achou-se nos portões do Templo das Três Pedras,
+onde a arte do ANSI C ainda era praticada.  Um sábio irmão
+montava a guarda.
+
+"Qual é a natureza do /vazio/?", perguntou o mestre.
+
+"Ele não tem natureza nenhuma", respondeu o irmão.  "Ele é
+o graveto apanhado pelo cachorro que não pega gravetos.  Ele
+é a coisa apontada pela mão que aponta para coisa nenhuma.
+Ele é a perfeita ausência de valor".
+
+O mestre pensou: "O Templo das Três Pedras não carece de uma
+guarda.  Não pode haver nada de valor lá dentro".
+
+Mais adiante ele chegou ao [[Temple of the White Iron Sky|Templo
+do Céu Branco de Ferro]], um lugar de teóricos onde se permitia
+apenas ML.  No jardim árido, uma freira escrevia expressões
+lambda na poeira.
+
+"Qual é a natureza do /vazio/?", perguntou o mestre.
+
+"Ele tem a cor do ar e o peso da névoa ascendente", respondeu
+a irmã. "Quando atingido, ele emite o som de uma lua nova
+deslizando por detrás de uma nuvem.  Toda taça vazia contém
+tantos quantos você desejar".
+
+O mestre pensou: "A irmã não disse nada que seja falso mas
+também nada que seja verdadeiro".
+
+Mais abaixo na estrada, o mestre chegou a uma formidável casa
+de campo onde uma velha mulher podava a cerca viva.
+
+"Qual é a natureza do /vazio/?", perguntou o mestre.
+
+A velha mulher deu de ombros e continuou sua poda.
+
+O mestre pensou: "Aqui está a a forma mais pura da sabedoria,
+a menos que haja apenas a falta dela".
+
+Eventualmente, o mestre chegou até um cemitério abandonado.
+
+"Qual é a natureza do /vazio/?", perguntou o mestre.
+
+Do pátio vazio, nenhuma resposta apareceu.
+
+O mestre Java estava satisfeito.

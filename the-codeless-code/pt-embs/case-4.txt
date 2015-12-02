@@ -1,0 +1,28 @@
+Number: 4
+Title: Salgueiros
+Lang: pt
+Locale: BR
+Translator: embs
+
+Um novo sacerdorte do [[Spider Clan|Clã Spider]] estava se
+lamentando a respeito da péssima qualidade do código Javascript
+produzido por seus noviços.
+
+"Irei investigar", disse o mestre Java.
+
+Depois de visitar os noviços, o mestre decretou que os quatro
+primeiros fossem rispidamente fustigados nas juntas dos dedos
+todas as manhãs antes que suas mãos pudessem tocar seus teclados.
+Para o quinto noviço, ele não prescreveu nenhuma medida.  O
+sacerdote perguntou ao mestre o porquê disso.
+
+"A muda, se cuidada, pode tornar-se um salgueiro; mas o mesmo
+não acontece com a folha de capim", disse o mestre.
+
+Ao escutar isso, o sacerdote mandou embora o quinto noviço.
+
+Para sua surpresa, isso muito irritou o mestre Java, e o
+próprio sacerdote foi mandado embora.  Em seu último recibo de
+vencimento, o mestre escreveu o seguinte:
+
+/Nós não podemos subir em milhares de salgueiros e contemplar o nascer do sol./

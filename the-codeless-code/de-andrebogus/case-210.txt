@@ -1,0 +1,46 @@
+Title: Hygiene
+Number: 210
+Tagline: Worin wir unseren Mund halten.
+Illus.0.title: Sicher, sie schmeckt toll und verhindert Karies, aber sie verschiebt auch die unteren Zähne vier Plätze nach rechts.
+Lang: de
+Translator: andrebogus
+
+Der Abt [[Ruh Cheen]] rief die junge Meisterin [[Zjing]] zur wöchentlichen
+Telekonferenz an.
+
+Ruh Cheen sprach, "Zum heutigen Tag, haben unsere Mönche vier Sprints
+[[#202|nach meinem Plan]] fertiggestellt: Keine Design-Dokumente, keine Code
+Reviews, kein Eingreifen durch die Meister.  Habt Ihr die frohe Kunde schon
+gehört?
+
+Zjing verneigte sich. "Die Gechwindigkeit ist hoch wie nie, uns die Moral 
+besser als je zuvor."
+
+"Ich plane, die Äbtissin heute Abend zu informieren" sagte Ruh Cheen. "Und ich
+werde vorschlagen, dass der gesamte Tempel diese Praxis übernimmt.  Doch 
+fürchtet nicht!  Ich bin sicher, sie wird für die Meister andere Aufgaben 
+finden."
+
+- - -
+
+Zjing rief den alten Meister [[Banzen]] an, um ihm das Erfahrene zu berichten.
+
+Banzen sagte, "Gestern befahl Ruh Cheen den Mönchen, sich nicht die Zähne zu
+putzen. Heute stellt er fest, dass kein Mönch einen Zahn verloren hat.  Daraus
+schließt er, dass Mundhygiene nutzlos ist.  Ich fürchte, nur eine Sache wird
+ihn davon abbringen." 
+
+Die junge Meisterin war entgeistert.  "Wenn ich warte, bis ein Patient mit
+verfaultem Zahnfleisch vor meiner Tür steht, könnten meine Fähigkeiten nicht
+ausreichen, seine Mundfäule zu heilen.
+
+"Doch was ist unsere Alternative, junge Meisterin?" fragte Banzen, "jeden mit
+vorgehaltenem Messer zum Zähneputzen zwingen?"
+
+"Es hat in der Vergangenhat funktioniert." sagte Zjing.
+
+Banzen seufzte.  "Hat es das wirklich?  Denn wir wissen nicht, welche unserer
+Mönche gewissenhaft sind und welche nur Feiglinge.  Ich bin alt, mein Waffenarm
+wird zittrig und ich kann nicht überall sein.  Wenn ich diese Erde verlasse,
+muss ich wissen, dass ich einen /Tempel/ zurücklasse -- nicht einen Haufen
+zielloser Mönche mit zahnlosem Grinsen.

@@ -1,0 +1,30 @@
+Number: 202
+Title: Anclas Libres del Fondo
+Lang: es
+Translator: galcalde
+Tagline: En la cual nuestra familia recibe un pequeño manojo de alegría.
+Illus.0.title: Si ella tiene que usar ese remo, no será para remar.
+
+Después de haber estado con el Templo por varias semanas, el nuevo abad [[Ruh Cheen]] llamó a la joven maestra [[Zjing]] a su monitor.
+
+"Estuve estudiando los detalles más pequeños y complicados de como el software se construye aquí," dijo Ruh Cheen. "Ahora, no quiero herir susceptibilidades, pero se me ocurrió una manera simple de hacer las cosas <em>más</em> rápido y más calmado para todos."
+
+"Eso es... sorprendente," dijo Zjing.
+
+"La cosa es que," dijo Ruh Cheen, "nuestros desarrolladores hacen montones de diagramas y documentos y todo lo demás, los cuales revisamos reunión tras reunión, sólo para <em>planear</em> lo que vamos a construir. Pero este Manifiesto Ágil dice que todos esos artefactos y contratos y procesos están bien lejos de ser tan importantes como tener un producto que se puede tocar. Así que desde ahora quiero que <em>hagamos</em> mucha menos <em>planificación,</em> y <em>planeemos</em> mucho más <em>realización</em>. ¿Diseños? ¡Deséchenlos! ¿Aprobaciones? ¡Arrivederci!"
+
+"Interesante," comenzó Zjing.  "Pero--"
+
+"Ya ya..." dijo Ruh Cheen, "Sé que el cambio asusta, pero ya les lancé la idea a los desarrolladores y estaban realmente optimistas."
+
+Sintiendo el pánico crecer en su pecho, Zjing hizo una excusa rápida y acabó la llamada. Cuando su respiración volvió a la normalidad, llamó al maestro [[Banzen]].
+
+- - -
+
+Mientras hablaba, Zjing movía nerviosamente [[#54|un manojo cortado de cuerda atada]] que mantenía en su escritorio. "Si me aferro a mi pesimismo, es sólo porque fue tan queridamente comprado."
+
+"Como perfeccionista, me simpatizo," dijo el viejo maestro. "Porque el perfeccionismo y el pesimismo son flores mellizas, ambas enraizadas en el miedo al fracaso. Pero debo admitir que cuando un optimista y un pesimista salen al mar, el optimista es el que zarpa hacia lo desconocido con sueños de descubrimiento, mientras que el pesimista sólo busca un puerto seguro."
+
+"Sin embargo ¿Qué debe hacer un pesimista cuando la ribera se desvanece de la vista?" preguntó Zjing.
+
+"Un verdadero pesimista llama a alguien que piensa similar antes de poner el pie en el navío," dijo Banzen. "Con lo cual su amigo le aconsejaría traer raciones extra, salvavidas, y un lanza bengalas."

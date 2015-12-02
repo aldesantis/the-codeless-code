@@ -1,0 +1,77 @@
+Date: 2015-09-06
+Title: Plural Effusion
+Number: 205
+Names: Suku
+Topics: naming, collections
+Geekiness: 2
+Tagline: 
+Illus.0.src: bomb.jpg
+Illus.0.par: 2
+Illus.0.title: "Congratulations on your purchase of the Lethal Labs 7000-XE Extreme Enlightenment Delivery System.  Its rugged, tamper-proof construction should provide you with many minutes of contemplative enjoyment."
+
+Master [[Suku]] and her apprentices had chosen to end the
+summer in a valley below a great mountain range, conducting
+code reviews at a minor temple.  This they felt would be
+restful work, reinvigorating them for the long climb ahead.
+Yet the monks of that temple were infuriatingly negligent.
+As the days waned, Suku's patience did also.
+
+One morning Suku entered the cubicle of a particularly
+obtuse monk and lay a printout across his keyboard.
+
+"Each instance of this class represents a row of the /Customers/
+table, is that true?" asked Suku.
+
+"True, true," said the monk.
+
+"Which means that each instance represents a /single customer,/
+does it not?" asked Suku.
+
+"It does," said the monk, "it does."
+
+"Yet you named this class /Customers/ instead of /Customer/,"
+said Suku.
+"You also gave the name 'customers' to variables
+which hold a /single/ instance,
+and 'getCustomers' to methods
+which return a single instance."
+
+"I did, did I?" asked the monk.
+
+"Yes," said Suku.
+"Curiously, you also gave the name 'customers' to variables
+which hold a /collection/ of instances,
+and 'getCustomers' to methods
+which return a collection."
+
+"I see," nodded the monk, furrowing his brow and staring
+hard at the printout.  "I see..."
+
+Suku smiled a tight, unpleasant smile.  Had her apprentices
+been present they would surely have backed away; for it was
+rumored that their master was part serpent, and if provoked
+she could unhinge her jaw and swallow a monk whole.
+
+"All that I have said is equally true for the tables /Parts/
+and /Packages/ and /Purchases/, and their associated
+classes.  Which makes your code quite--"
+
+"Consistent," said the monk proudly. "Consistent."
+
+What happened in the next moment none can say, but it is
+certain that the monk was already unconscious by the time he
+hit the floor.
+
+- - -
+
+The monk awoke in the center of an abandoned barn.  His
+ankle had been chained to a stone meant for tethering bulls.
+
+On the floor beside him lay a pair of scissors, a
+nasty-looking bundle of tubes bristling with wires and
+blinking lights, and a note:
+
+    Time is short. //
+    Precision is vital. //
+    To disarm these bombs, one must only cut //
+    the topmost red wires.

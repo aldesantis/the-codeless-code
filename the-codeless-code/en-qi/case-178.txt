@@ -2,7 +2,7 @@ Date: 2015-01-25
 Number: 178
 Title: Unity
 Names: Landhwa, Wangohan, Zjing
-Topics: constants, classes, abstraction, big ball of mud, coding style, java, coopertation, magic constants, refactoring
+Topics: constants, classes, abstraction, big ball of mud, coding style, Java, coopertation, magic constants, refactoring
 Geekiness: 3
 
 A nasty stomach flu had been making its way through the

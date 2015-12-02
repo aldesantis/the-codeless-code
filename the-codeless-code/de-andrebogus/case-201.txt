@@ -1,0 +1,109 @@
+Lang: de
+Translator: andrebogus
+Title: Unwissenheit Ist Ein Segen
+Number: 201
+Tagline: Worin unsere Familie ein Bündel GLückseligkeit empfängt.
+Credits: Vielen Dank an <a href="http://sialiasnest.tumblr.com/">Sialia</a> für den Vorschlag des dieswöchigen Themas.
+
+Der [[Spider Clan|Orden der Spinne]] hatte unter Meisterin [[Suku]], die keine 
+Torheit ihrer Manager duldete, viele Äbte verloren.{{*}}  Doch Soku reiste nun 
+mit ihren Lehrlingen umher, und der Tempel hatte zu guter Letzt den neuesten 
+Ersatz-Abt rekrutiert: Einen Außenstehenden aus dem Westen namens 
+[[Ruh Cheen]].
+
+Ruh Cheen wurde persönlich von Madam [[Jinyu]], Äbtissin über alle Orden und 
+Anliegen, eingestellt.
+Da die junge Meisterin [[Zjing]] derzeit dem Spinnen-Orden zugeteilt war, 
+schickte Jinyu nach ihr, den neuen Abt zu treffen.
+
+Ruh Cheen verbeugte sich unbeholfen vor Zjing.  "Ich freue mich darauf, Euch
+in unserer gemeinsamen Mission zu unterstützen," sagte er fröhlich. "Ich sehe
+uns als zwei große hässliche Maulesel, die denselben Karren ziehen.  Also werde
+ich das Möglichste tun, Euch nicht im Wege zu stehen, auf dass wir nicht 
+übereinander stolpern, und mit der Schnauze im Schlamm landen."
+
+"Das freut mich zu hören," sagte Zjing.
+
+Madam Jinyu fügte hinzu, "Ruh Cheen ist nicht nur neu am Tempel, sondern auch
+neu in der Software-Entwicklung.  In seiner bisherigen Position leitete er ein
+Team von Fisch-Entgrätern."
+
+"Das freut mich...weniger zu hören," sagte Zjing.
+
+"Für mich ist /Java/ ein Heißgetränk und /Tomcat/ etwas zum Streicheln," sagte
+Ruh Cheen lächelnd. "Also werde ich auf Eure Lehren bauen, über was immer wir
+hier tun." 
+
+"Das ist...Wow." sagte Zjing, die auf einmal kein passendes Adjektiv mehr fand.
+"Wenn Ihr mich nun bitte entschuldigt, werde ich den Orden von dieser...
+Neuigkeit berichten."
+
+- - -
+
+Zjing berief eine private Konferenz unter den Mönchen ein.
+Deren Erstaunen wurde schnell zu Angst.
+
+"Wie kann dieser Abt hoffen, zu managen, was er nicht einmal versteht?" fragte
+einer.
+
+"Wie konnte die alte Jinyu ihn nur einstellen?" wollte ein andrer wissen.
+
+"Sicher will sie uns für den Abgang der anderen Äbte strafen!" rief ein 
+Dritter.
+
+"Wenn wir nur /einen/ von ihnen wieder hätten, uns vor diesem sicheren Desaster
+zu retten!" lamentierte ein Vierter.
+
+Die Unruhe wuchs, bis Zjing die Mönche zur Ruhe rief.
+
+"Madam Jinyu ist kein Narr," sagte sie.  "Und es liegt nicht in ihrem 
+Interesse, uns ins Messer laufen zu lassen.  Also ist sicher, dass ihre Wahl
+das Beste für den Tempel ist.  Falls wir die Weisheit dahinter nicht erkennen,
+dann nur, weil unsere Augen noch nicht geöffnet sind.  Lasset uns geduldig 
+sein, und diesen seltsamen Abt unterstützen.  Nach und nach werden wir alle
+erleuchtet sein."
+
+Als diese Worte ihre Lippen verließen, war Zjing selbst erleuchtet.
+
+- - -
+
+An diesem Abend rief Madam Jinyu Zjing in ihr Büro
+
+"Meine Spitzel erzählten mir von Euren beruhigenden Worten an den 
+Spinnen-Orden," sagte die alte Äbtissin.
+
+"Es waren meine Worte, doch ich glaubte sie nicht," gab Zjing mit gedämpfter
+Stimme zu. "Ich wollte nur Ordnung schaffen."
+
+"Das ist Euch gelungen," sagte die Äbtissin.  "Warum schaut die kleine Zjing 
+dann so aufgewühlt drein?"
+
+Zjing sprach: "Als ich zur Meisterin ernannt wurde, dachte ich zu mir selbst,
+<i>Sprich die Wahrheit wie Du sie weißt, und Du wirst gute Dienste tun.</i>
+Doch heute lernte ich, dass man, um gute Dienste zu tun, manchmal als Weisheit
+getarnte Lügen sprechen muss.  Was aber ist dann Weisheit?  Was Wahrheit?"
+
+Jinyu aber sprach: "An einem Abend vor langer Zeit gab es einen schweren Sturm,
+und mein Erstgeborener rannte ängstlich zu mir.  Ich erzählte ihm, dass die
+Himmelsgeister Albträume im Regen jagen; dass jeder Blitzschlag ein Speer sei,
+der aus den Wolken geschleudert würde, und jeder Donnerhall der Todesschrei
+eines Dämons.  Danach schliefen wir beide gut.  Meine Unwahrheit ist leicht zu
+erkennen, doch eine größere Wahrheit versteckt sich in ihrem Schatten."
+
+
+== Qi's Kommentar
+
+Ich würde gern zugeben, dass alles, was ich in diesem Buch geschrieben habe,
+gelogen ist, doch das geht nicht, weil es nicht einmal ein Buch gibt.
+
+
+== Qi's poem
+
+[[Mugen]] fragt Eku, <i>Bin ich alt und gebeugt?</i> //
+Und [[Eku]]: <i>und ich faltig und grau?</i> //
+Wo die Antworten lügen, wird Wahrheit zerstreut -- //
+Doch die Meister versteh'n sich genau.
+
+
+
+{{*}} Siehe Kōan [[#61|61]], [[#62|62]], [[#67|67]], [[#120|120]], und [[#153|153]].

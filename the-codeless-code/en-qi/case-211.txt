@@ -1,0 +1,145 @@
+Date: 2015-10-18
+Title: No Magic
+Number: 211
+Names: Bawan, Hwídah, Banzen, Yíwen
+Topics: production support, dependency injection, transactions, connection pooling, Java
+Geekiness: 3
+Tagline: In which we are disillusioned.
+
+One night the nun [[Hwídah]] was summoned to the Central
+Command Courtyard by master [[Bawan]].
+
+"There is curious behavior on our 'Change Address' page,"
+said Bawan.  "The user fills out the form and elects to save
+their changes.  No error is reported.  No error is logged.
+The browser is sent to the 'User Profile' page as expected.
+Yet this page sometimes shows the old address instead of
+the new."
+
+"A swallowed exception, most likely," said Hwídah, wishing to
+be somewhere else.
+
+"There is more," said the master, shaking his head.  "If the
+'User Profile' is then reloaded repeatedly, it will
+sometimes show the old address and sometimes the new.
+No pattern can be discerned."
+
+"A caching problem, then," suggested the nun.
+
+"There is /still/ more," said the master.  "After several
+minutes have passed, only one of the two addresses will be
+shown forever after.  But again, it is sometimes the old
+address and sometimes the new."
+
+"I am out of guesses," sighed Hwídah. "A curse, perhaps, or
+an evil spirit."
+
+Bawan slapped her forehead.  "I have no patience for country
+superstitions, nun!" he said, turning to depart.  "There is
+no magic.  And the only evil spirits in this room
+are the ones you will witness tomorrow, if I learn that
+[[#204|Banzen's chosen pupil]] cannot be relied upon."
+
+- - -
+
+The nun called up the troublesome page, and found that all
+was as the master described.
+
+"Most curious," Hwídah said to the screen.  "Your face says
+sometimes this, and sometimes that.  Yet what is in your
+heart, I wonder?"
+
+The nun logged directly into the database, observing the
+record each time she changed it.  But what she found made
+even less sense: for although the screen alternated randomly
+between the old address and the new, the database showed the
+old address steadily.  Yet after a few minutes both would
+agree on either the old or new record forevermore.
+
+"There is no magic," Hwídah repeated.  "Every behavior,
+no matter how odd, has some rational explanation."
+
+- - -
+
+"...Yet I have no idea /what/ that explanation is," Hwídah
+complained to Yíwen.  "My only suspicion is that the
+transaction does not commit properly, which is why the
+changes do not appear when viewed from another database
+session."
+
+"A thousand pardons," yawned Yíwen, who was still in bed,
+squinting at Hwídah's lantern.  "But /my/ only suspicion is
+that I was asleep moments ago, for it is after one in the
+morning.  Is there no one else you may consult with?"
+
+"The courtyard is empty, as are my brains," said Hwídah.
+"Help me think!  The Controller calls a Service method to
+save the address.  The Service method is annotated as
+transactional.  The method is invoked, yet chaos results.
+Why?"
+
+"I know nothing about transaction management," said Yíwen,
+falling back on her pillow with closed eyes.  "I know only
+to put the annotations where they belong.  The rest is
+magic."
+
+"There is no magic," Hwídah said absently.  Then like a
+bolt she was out the door, bounding for the courtyard.
+
+- - -
+
+"When does a Service method commit a transaction?" asked
+Hwídah with a broad smile.
+
+"At four-thirty in the morning?" said master Bawan testily;
+for that was presently the time.
+
+"It /doesn't,/" said the nun.  "The proxy object which
+/decorates/ the Service object does.  Now, when does that
+proxy object /not/ do its job?"
+
+"This is another trick question, isn't it?" asked Bawan.
+
+"When it isn't used!" said Hwídah triumphantly.  "A mistake
+in the application's configuration caused the Controller to
+be injected with the Service object instead of its proxy."
+
+"Interesting," said Bawan.  "What of the page showing
+sometimes the old record and sometimes the new?"
+
+"Since there was no transaction," said Hwídah, "the database
+update was performed /without/ a commit, on a connection
+borrowed from the connection pool.  If a page happened to
+borrow that same connection it would show the new record.
+Otherwise it would show the old one."
+
+"Intriguing," said the master.  "And this behavior
+would cease after a while, because...?"
+
+"If that connection is borrowed for some /other/
+transaction elsewhere in the application, then either a
+commit or a rollback will occur," said Hwídah.  "And if it
+goes unused for too long, we roll it back and close it."
+
+"Excellent," said the master.  "No evil spirits, then.
+No magic.  Now go; get some sleep."
+
+- - -
+
+Hwídah crept into her bed, taking care not to wake Yíwen.
+Yet sleep did not come quickly to her.  Instead she lay
+on folded arms, staring up into the darkness.
+
+What /is/ magic, she wondered, but the achievement of things
+by hidden means?  Is the master of sleight-of-hand any less
+a magician than the enslaver of spirits?  Is it not perhaps
+/more/ satisfying to peek behind the curtain, to understand
+the intricate clockwork behind the facade, and to realize
+that with that knowledge comes true power?
+
+Hwídah was still pondering these things as she slipped, at
+last, into a deep slumber, undisturbed by the stirring of
+the Temple, the many ticks and tocks of the machine spinning
+up; water in the pipes, footsteps in the hall, gongs for
+breakfast, for meditation, for the start of a new day, a day
+like any other day, in this place of marvels.

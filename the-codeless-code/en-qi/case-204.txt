@@ -1,0 +1,63 @@
+Date: 2015-08-30
+Title: Night Shift
+Number: 204
+Names: Banzen, Hwídah
+Topics: localtime, UTC, production support, log files
+Geekiness: 2
+Tagline: In which time is relative.
+Illus.0.src: wakeup.jpg
+Illus.0.par: last
+Illus.0.align: left
+Illus.1.src: wakeup-hand.jpg
+Illus.1.par: 0
+Illus.1.align: right
+
+The small nun [[Hwídah]] was known by all to be master
+[[Banzen]]'s preferred choice for investigating production
+problems.  Hwídah was not proud of this role, for she
+suspected that it was merely [[#152|Banzen's punishment]]
+for her overly-curious nature.  The fact that she now spent
+hours each day poring over log files did nothing to allay
+this suspicion.
+
+"It is most frustrating," she said to Banzen, when he asked
+how her latest assignment fared.  "In theory, such a problem
+could appear if this batch job did not run at midnight.  Our
+cron logs do show that it started four hours later than
+scheduled, but for the life of me I cannot explain why, and
+I am going cross-eyed from the effort."
+
+Banzen looked at the scrolling text on her monitor.  "Very
+well," he said, "perhaps you have suffered enough.  Pick one
+hour of the evening, and your investigative duties shall be
+limited to that hour."
+
+Hwídah thought a moment.  "The hour starting at nineteen
+o'clock," she said.  "For I will be done with dinner and
+ready to face all challenges."
+
+Banzen nodded and went out.
+
+- - -
+
+Hwídah's cell phone woke her at two thirty-three that night.
+It was Banzen, summoning her to the Temple's Central Command
+Courtyard for an on-call assignment.
+
+"Did we not agree on the hour of nineteen only?" she asked
+blearily.
+
+"We did," said Banzen.  "And for at least one of our users
+it is precisely nineteen thirty-three, local time.  For
+another user it is twenty thirty-three, and so on
+around the globe.  How unfortunate that you did not specify
+your working hour in UTC, for that would have been
+unambiguous."
+
+"Indeed," sighed Hwídah.  "But like most sane individuals, I
+am not in the habit of thinking in UTC."
+
+"Oh, it is quite easy," said Banzen.  "Just take our local
+time and add four hours.  I find it good practice for
+looking at the Temple's cron logs, whose timestamps are
+written in UTC."
