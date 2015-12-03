@@ -14,19 +14,19 @@ Die Äbte des Tempels trafen sich im großen Hof, und besprachen, wie man am
 Besten die Quelle des Problems finden konnte, bevor alle Kunden auf der Flucht
 vor den vermeintlichen Häschern in die Berge geflohen wären.
 
-"Das ist nicht nötig." sagte die Nonne [[Hwidah]] vom Rande des Hofes.  "Die
+"Das ist nicht nötig." sagte die Nonne [[Hwídah]] vom Rande des Hofes.  "Die
 Schande ist mein.  In unserem letzten Update habe ich versehentlich eine
 Funktion verändert, die nun /Falsch/ zurückgibt, wo /Wahr/ richtig wäre. Ich
 habe den Defekt nun korrigiert, und die Emails werden nicht länger versandt.
 
-Hwidah wurde für zwei Monate in das Verlies unterhalb des Tempels verbannt,
+Hwídah wurde für zwei Monate in das Verlies unterhalb des Tempels verbannt,
 wo sie alleine verrottende Ausdrucker alter COBOL-Programme auf Defekte
 untersuchte.
 
 Nach einer Woche kam die Nonne [[Yiwen]], um der Gefangenen ihren kalten Reis 
 zu bringen.
 
-"Vergib meine Verwirrung, Hwidah," fragte Yiwen als sie das Tablett unter der
+"Vergib meine Verwirrung, Hwídah," fragte Yiwen als sie das Tablett unter der
 Zellentür durchschob, "aber warum hast Du den Fehler zugegeben, nachdem Du ihn
 behoben hattest?  Hättest Du nichts gesagt, wäre die Ursache viele Tage lang
 unentdeckt geblieben, und die Aufmerksamkeit des Tempels hätte sich 
@@ -37,7 +37,7 @@ dringlicheren Dingen gewidmet.  Deine Schuld wäre nie ans Licht gekommen."
 Antwort Ja lautete?  Und wenn ich <i>[[#70|System]]</i> sage, welches Bild
 entsteht dabei in Deinem Kopf?
 
-Hwidah schob das leere Tablett unter der Tür durch.  "An diesem Morgen, als mir
+Hwídah schob das leere Tablett unter der Tür durch.  "An diesem Morgen, als mir
 der Schrecken meines Fehlers offenbar wurde, erkannte ich auch dies: Wir sind
 alle Teil des Systems. Es ist eine Erweiterung unserer Wünsche, unserer
 Anstrengung und -- bedauerlicherweise -- unserer Fehler.  Hätte ich meine
