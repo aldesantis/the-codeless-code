@@ -4,12 +4,12 @@ Translator: andrebogus
 Title: Nichts Für Immer
 Tagline: Worin wir vertrauensvoll ins Nichts springen
 
-An einem kalten Frühlingsmorgen begegnete die Nonne [[Yiwen]] 
+An einem kalten Frühlingsmorgen begegnete die Nonne [[Yíwen]] 
 [[#184|einem gewissen Mönch]], der mitten auf einer Brücke
 stand und mit tränenüberströmtem Gesicht in die Schlucht
 hinunterblickte.
 
-"Was plagt Dich, Bruder?" fragte Yiwen, besorgt um das
+"Was plagt Dich, Bruder?" fragte Yíwen, besorgt um das
 Wohlergehen des jungen Mannes.
 
 "Die Sinnlosigkeit des Seins!" schluchzte der Mönch.  "Wozu
@@ -18,7 +18,7 @@ fault? Nichts ist für die Ewigkeit, am wenigsten mein Code.
 Was ich auch tue, alles verfällt zu Staub, zu Nichts."
 
 Sich erinnernd, wie Meister Banzen [[#68|dereinst]] diesem
-dunklen Gedanken begegnete, zog Yiwen ihren
+dunklen Gedanken begegnete, zog Yíwen ihren
 [[#151|viel zu großen Schal]] aus und band ein Ende an den Fuß des
 Geländers. "Ein guter Bungee-Sprung macht mir immer den
 Kopf frei", sagte sie. "Nichts bringt die Dinge besser in
@@ -37,19 +37,19 @@ unabdingbar scheinende trübe Laune war verflogen.
 Der Mönch ward erleuchtet. /Nichts ist für die Ewigkeit,/
 stellte er fest.
 
-Als Yiwen das Lachen des Mönchs hörte, ging sie lächelnd
+Als Yíwen das Lachen des Mönchs hörte, ging sie lächelnd
 ihres Weges.
 
 - - -
 
-Am Nachmittag kam ein junger Ordensbruder des Mönches zu Yiwen.
+Am Nachmittag kam ein junger Ordensbruder des Mönches zu Yíwen.
 
 Er sprach: "Mein Bruder wünscht zu erfahren, wann Ihr Euren
 Schal zurückholt, und ihm gleich mit, denn er hängt immer noch
 kopfunter von der Brücke.  Sein Herz mag leicht sein, doch
 sein Körper ist immer noch schwer, und ich brauche Eure Hilfe."
 
-"Wenn sein Herz leicht ist," sagte Yiwen, "ist er in besserer
+"Wenn sein Herz leicht ist," sagte Yíwen, "ist er in besserer
 Verfassung als ich ihn vorfand, und meine Arbeit ist beendet."
 
 Dem Mönch stand der Mund offen. "Ihr wollt ihn doch nicht so
