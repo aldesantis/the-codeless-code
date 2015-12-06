@@ -1,0 +1,27 @@
+Number: 216
+Title: Proxy
+Lang: es
+Translator: galcalde
+Tagline: En el cual no somos molestados.
+
+[[#215|Este mismo monje]] siguió ayudando a los usuarios de la herramienta que escribió. Pero después de otra semana improductiva respondiendo sus preguntas llegó al límite de su paciencia, y una vez más se quejó ante sus compañeros.
+
+"Quizás [[Landhwa]] del [[Spider Clan|Clan de la Araña]] puede aconsejarte," sugirió uno. "Su talento para evitar el trabajo tedioso es legendario en el templo; porque aunque hubieron monjes más perezosos que él, ninguno de ellos consiguió mantener sus cabezas atadas."
+
+Entonces el monje mandó un mensaje a Landhwa, describió su problema, y pidió su consejo.
+
+Una hora después, el monje recibió una respuesta en su pantalla:
+
+<em>De todos los usuarios de tu herramienta,</em> comenzó, <em>¿Quién es el más tercamente orgulloso de su propio intelecto? ¿Quien preferiría recibir cien golpes duros antes que admitir un hueco en su conocimiento sobre cualquier tema?</em>
+
+El monje pensó por un momento, y luego escribió, <em>Kew Niao, seguramente.</em>
+
+<em>Muy bien,</em> llegó la respuesta. <em>Cuando recibas una pregunta no deseada, di que estás indispuesto en el momento, y que el emisor consulte a Kew Niao.</em>
+
+El monje frunció el ceño. <em>Seguiré encontrando eso molesto,</em> escribió.
+
+<em>En ese caso,</em> vino la respuesta, <em>configura tu cuenta para que las preguntas con palabras particulares sean reenviadas silenciosamente a Kew Niao, y ninguna de las partes es más sabia.</em>
+
+<em>¡Excelente!</em> escribió el monje. <em>¿Cómo se hace?</em>
+
+<em>Tristemente, debo confesar que no lo sé,</em> vino la respuesta. <em>Pero estoy absolutamente SEGURO que LANDHWA sabe.</em>

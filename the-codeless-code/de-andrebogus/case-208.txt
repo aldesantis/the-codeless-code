@@ -4,11 +4,11 @@ Tagline: Worin ein kurzes musikalisches Interludium gespielt wird
 Lang: de
 Translator: andrebogus
 
-Die Nonne [[Yiwen]] stimmte gerade eine /guqin/ in ihrem Quartier, als ihre 
+Die Nonne [[Yíwen]] stimmte gerade eine /guqin/ in ihrem Quartier, als ihre 
 Mitbewohnerin [[Hwidah]] heimkehrte und sich sichtlich geschlagen in einen 
 Stuhl fallen ließ.
 
-"Ich bitte tausendmal für meine Neugierde um Verzeihung" sagte Yiwen, "doch
+"Ich bitte tausendmal für meine Neugierde um Verzeihung" sagte Yíwen, "doch
 Deine Braue ist heute noch tiefer gefurcht als sonst.  Hast Du wieder Fehler in
 unseren Produktionssystemen untersucht?"
 
@@ -18,7 +18,7 @@ der Entwicklerin ist für sich genommen optimal, doch die Kombination führt
 geradewegs ins Desaster. Damit bleibt der beste Weg, das Problem zu lösen, 
 verborgen."
 
-"Wie unglücklich!" sagte Yiwen. "Hast Du die Entwicklerin von dieser Zwickmühle
+"Wie unglücklich!" sagte Yíwen. "Hast Du die Entwicklerin von dieser Zwickmühle
 in Kenntnis gesetzt, damit sie darüber meditieren kann?"
 
 "Das war nicht nötig," sagte Hwídah.  "Ich selbst bin die Unglückliche."
@@ -26,7 +26,7 @@ in Kenntnis gesetzt, damit sie darüber meditieren kann?"
 - - -
 
 Eine Weile saßen die beiden stumm da, und Hwidah fand Trost in den süßen
-Melodien, die Yiwen den Saiten entlockte.
+Melodien, die Yíwen den Saiten entlockte.
 
 "Programmieren hat viel mit dem Komponieren von Musik gemein," bemerkte Hwidah.
 "Jede Note mag für sich genommen perfekt sein, doch sie kann nicht gewogen
@@ -34,7 +34,7 @@ werden, ohne die Noten, die davor und danach kommen, wie die Schritte in einem
 Algorithmus."
 
 "Und diejenigen, die zugleich gespielt werden, würdest Du nicht zustimmen?"
-fragte Yiwen. Melodie und Harmonie sind das [TODO warp and weft] der Musik;
+fragte Yíwen. Melodie und Harmonie sind das [TODO warp and weft] der Musik;
 denn das Notensystem ist zweidimensional, und Zeit ist nur eine Achse. Selbst
 an meiner einfachen /guqin/ führt die Schwingung einer Saite dazu, dass die
 anderen Saiten in Harmonie mitschwingen, so sicher wie sich mehrere Threads in
@@ -44,11 +44,11 @@ einer Applikation beeinflussen können.
 Hwidah.  "Denn ich habe meine Applikation viele Male im Stillen durchgespielt,
 und nicht eine Note schien fehl zu sein!"
 
-"Einfach?" fragte Yiwen.  "Hast Du nie von der Pythargoräischen Lücke gehört?"
+"Einfach?" fragte Yíwen.  "Hast Du nie von der Pythargoräischen Lücke gehört?"
 
 - - -
 
-"Vor langer Zeit," sagte Yiwen, "wurde bemerkt, dass wenn eine Saite zusammen
+"Vor langer Zeit," sagte Yíwen, "wurde bemerkt, dass wenn eine Saite zusammen
 mit einer anderen von genau halber Länge geschlagen wird, die Noten so ähnlich
 klingen, dass man sie gleich nennen mag. Ebenso merkte man, dass eine Saite von
 zwei-Dritteln der Länge dazu eine wohlklingende Harmonie erzeugt. Dasselbe gilt
@@ -65,7 +65,7 @@ Vollmond</a>.
 "Jede Wahl ist für sich genommen optimal, doch die Kombination führt ins 
 Desaster." murmelte Hwidah.  "Doch wie ist dann dein Klavier gestimmt?"
 
-"Nach dem besten schlechten Kompromiss von allen," sagte Yiwen. "Es gibt zwölf
+"Nach dem besten schlechten Kompromiss von allen," sagte Yíwen. "Es gibt zwölf
 Noten pro Oktave, also ist das Verhältnis von jeder Note zur vorigen die 
 /zwölfte Wurzel aus zwei/.  Denn auch wenn dieses Verhältnis höchst irrational
 ist, sichert es doch dass zwölf gleiche Schritte aufwärts uns exakt eine Oktave
