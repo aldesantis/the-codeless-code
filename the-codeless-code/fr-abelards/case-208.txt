@@ -1,0 +1,111 @@
+Lang: fr
+Translator: abelards
+Title: Le Loup dans la Bergerie
+Number: 208
+Tagline: Dans lequel nous proposons un bref interlude musical.
+
+La nonne [[Yíwen]] accordait un /guqin/ dans ses quartiers quand
+sa camarade de chambrée [[Hwídah]] revint et s'effondra dans une
+chaise, visiblement abattue.
+
+"Dix mille pardons pour ma curiosité," dit Yíwen, "mais
+ton sourcil est plus froncé qu'à l'accoutumée.
+As-tu encore été enquêter les problèmes de nos systèmes
+de production ?"
+
+"C'est tout ce que je semble faire ces derniers jours",
+soupira Hwídah. "Bien que la cause de notre problème
+de ce soir était particulièrement irritante.
+Chacun des choix de la développeuse était optimal en le considérant
+indépendamment, mais leur combinaison dans le système global
+était désastreuse. Ainsi, la meilleure approche pour corriger
+ce problème reste insaisissable."
+
+"Voilà qui est fâcheux !" dit Yíwen. "As-tu informé la
+développeuse de ce dilemme, afin qu'elle puisse méditer
+sur le sujet ?"
+
+"Il n'en est nul besoin," dit Hwídah.
+"Car tu as devant toi cette âme misérable."
+
+- - -
+
+Un moment passa durant lesquelles elles s'assirent en silence,
+tandis que Hwídah trouvait quelque réconfort dans les quelques
+notes mélodieuses que Yíwen jouait.
+
+"L'acte de coder et la composition de musique ont beaucoup
+en commun," observa Hwídah. "Chaque note peut être parfaite
+prise séparément, mais on ne peut les juger séparément.
+Elles doivent être jugées en fonction des notes précédentes et
+suivantes, telles les étapes d'un algorithme."
+
+"Mais chacune doit aussi être jugée en fonction des notes
+jouées en même temps qu'elle, ne penses-tu pas ?" demanda Yíwen.
+"Mélodie et harmonie sont la trame et la chaîne de la musique ;
+car la note a deux dimensions, mais le temps n'est qu'un axe.
+Même sur mon humble /guqin/, la vibration d'une corde fait vibrer
+ses soeurs à l'unisson, de la même manière que de multiples
+fils d'exécution impactent les uns sur les autres dans une
+application."
+
+"Si seulement les harmonies du logiciel pouvaient être aussi
+simples que celles du son !" dit Hwídah. "Car j'ai 'joué' mon
+application de nombreuses fois en privé, et jamais aucune note
+ne semblait dissonante !"
+
+"Simple ?" demanda Yíwen. "N'as-tu jamais entendu parler de la
+Douzième Racine ?"
+
+- - -
+
+"Il y a bien longtemps," dit Yíwen, "il fut découvert que si
+une corde est pincée en même temps qu'une autre corde
+d'exactement la moitié de sa longueur, les deux notes sont si
+semblables qu'on les juge identiques.
+On a aussi observé que si une corde est pincée avec une autre
+qui est de deux-tiers de sa longueur, l'harmonie qui en résulte
+produira un son plaisant.
+Cela est vrai pour de nombreux rapports simples, comme
+trois quarts ou quatre cinquièmes, et deux cinquièmes, et ainsi
+de suite. Ainsi l'échelle musicale a-t-elle pris forme
+autour de fractions simples."
+
+"Cependant, aucune des tentatives de trouver une échelle parfaite
+pour le clavier n'a porté de fruits. Car il existe de nombreuses
+fractions de cette sorte, et de nombreuses façons de les arranger,
+mais quelle que soit la tentative pour accorder le tout, elle
+contenait toujours quelque imperfection intolérable.
+
+Un intervalle qui sonnait exquis à l'oreille sur une clé
+finissait par <a href="https://fr.wikipedia.org/wiki/Loup_%28musique%29">
+hurler comme un loup</a> dans une autre.
+
+"Chaque choix est optimal pris indépendamment, mais la combinaison
+est désastreuse," murmura Hwídah.
+"Mais alors, comment ton clavier est-il accordé ?"
+
+"Par le meilleur de tous les mauvais compromis," dit Yíwen.
+"Il y a douze notes par octave, alors le rapport de chaque
+note à la précédente est /la douzième racine de deux/.
+Car bien que ce soit une fraction irrationnelle, elle
+assure que douze pas plus haut nous amène exactement
+une octave au-dessus de notre point de départ.
+
+"Dans cette gamme tempérée, /aucun/ intervalle n'est
+un rapport entier sauf l'octave : ils sont tous très
+légèrement trop haut ou trop bas. Mais cela nous permet
+de transposer des chansons dans n'importe quelle clé
+sans distorsion ou dissonance. De cette façon, la perfection
+a cédé au pragmatisme... car bien que l'harmonie des pâturages
+soit perturbée lorsqu'on les ceint de clôtures, ne pas en
+mettre serait laisser rentrer le loup."
+
+== Notes du Traducteur
+
+N'étant pas musicien il est probable que j'aie perdu bien des nuances ici.
+
+Le titre original "Wolf in the Fold", se trouve aussi dans Star Trek
+saison 2 épisode 14. Sa traduction est "Contamination", mais ça ne
+correspondait pas plus à ce kōan que le titre "Quinte du Loup".
+J'ai fini par choisir "le loup dans la bergerie".
