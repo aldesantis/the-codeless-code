@@ -5,14 +5,14 @@ Lang: de
 Translator: andrebogus
 
 Die Nonne [[Yíwen]] stimmte gerade eine /guqin/ in ihrem Quartier, als ihre 
-Mitbewohnerin [[Hwidah]] heimkehrte und sich sichtlich geschlagen in einen 
+Mitbewohnerin [[Hwídah]] heimkehrte und sich sichtlich geschlagen in einen 
 Stuhl fallen ließ.
 
 "Ich bitte tausendmal für meine Neugierde um Verzeihung" sagte Yíwen, "doch
 Deine Braue ist heute noch tiefer gefurcht als sonst.  Hast Du wieder Fehler in
 unseren Produktionssystemen untersucht?"
 
-"Das ist alles, was ich diese Tage tue," seufzte Hwidah. "Allerdings war die
+"Das ist alles, was ich diese Tage tue," seufzte Hwídah. "Allerdings war die
 Ursache des Ärgers heute abend besonders verdrießlich. Jede Design-Entscheidung
 der Entwicklerin ist für sich genommen optimal, doch die Kombination führt
 geradewegs ins Desaster. Damit bleibt der beste Weg, das Problem zu lösen, 
@@ -25,10 +25,10 @@ in Kenntnis gesetzt, damit sie darüber meditieren kann?"
 
 - - -
 
-Eine Weile saßen die beiden stumm da, und Hwidah fand Trost in den süßen
+Eine Weile saßen die beiden stumm da, und Hwídah fand Trost in den süßen
 Melodien, die Yíwen den Saiten entlockte.
 
-"Programmieren hat viel mit dem Komponieren von Musik gemein," bemerkte Hwidah.
+"Programmieren hat viel mit dem Komponieren von Musik gemein," bemerkte Hwídah.
 "Jede Note mag für sich genommen perfekt sein, doch sie kann nicht gewogen
 werden, ohne die Noten, die davor und danach kommen, wie die Schritte in einem
 Algorithmus."
@@ -41,7 +41,7 @@ anderen Saiten in Harmonie mitschwingen, so sicher wie sich mehrere Threads in
 einer Applikation beeinflussen können.
 
 "Wäre nur die Harmonie der Software so einfach wie die des Klangs!" sagte
-Hwidah.  "Denn ich habe meine Applikation viele Male im Stillen durchgespielt,
+Hwídah.  "Denn ich habe meine Applikation viele Male im Stillen durchgespielt,
 und nicht eine Note schien fehl zu sein!"
 
 "Einfach?" fragte Yíwen.  "Hast Du nie von der Pythargoräischen Lücke gehört?"
@@ -63,7 +63,7 @@ anderen wie ein <a href="https://en.wikipedia.org/wiki/Wolf_interval">Wolf bei
 Vollmond</a>.
 
 "Jede Wahl ist für sich genommen optimal, doch die Kombination führt ins 
-Desaster." murmelte Hwidah.  "Doch wie ist dann dein Klavier gestimmt?"
+Desaster." murmelte Hwídah.  "Doch wie ist dann dein Klavier gestimmt?"
 
 "Nach dem besten schlechten Kompromiss von allen," sagte Yíwen. "Es gibt zwölf
 Noten pro Oktave, also ist das Verhältnis von jeder Note zur vorigen die 
