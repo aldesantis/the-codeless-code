@@ -1,0 +1,64 @@
+Lang: fr
+Translator: abelards
+Title: Submergé
+Number: 209
+Tagline: Dans lequel on tire un coup.
+
+Par une après-midi d'automne, le bruit vint aux oreilles
+du maître Java [[Bawan]] que le moine [[Landhwa]] se battait
+depuis un moment avec un programme d'extraction de données
+plutôt clair. Intrigué, Bawan rendit visite au moine, qui
+était avachi dans sa chaise.
+
+"L'ordinateur n'a pas assez de mémoire," bailla Landhwa,
+qui n'avait pas la patience pour de telles investigations.
+"C'est vrai qu'il traite de nombreux fichiers, mais un
+seul à la fois, et il ne conserve qu'une toute petite
+partie des lignes de chacun."
+
+"Montre-moi," dit Bawan.
+
+Le moine soupira, pointant vers son écran.
+"Pour traiter un fichier, je lis ses lignes dans une List
+de Strings. Là-dedans je recherche la section qui nous
+intéresse : quelques courtes lignes tout au plus.
+Je les extrait via subList, et les stocke dans cette
+Map statique. Le code ne peut être plus simple."
+
+Bawan hocha la tête. "Viens me voir à minuit sur le quai
+de la rivière, en bas du village," dit-il. "Je sais qui
+peut nous aider, et ça n'est pas très loin."
+
+Cette nuit-là, Landhwa descendit à la lanterne vers
+le brouillard qui dissimulait les rives.
+Apercevant une lumière chancelante sur l'eau, il suivit
+le pont en bois devant des douzaines de petites embarcations
+pour trouver le petit maître Bawan assis dans le dernier
+rameur tout au bout de la jetée. Le maître lui montra les rames.
+
+"En amont," dit Bawan.
+
+Landhwa ramait seul, tandis que le maître était assis
+à la poupe, silencieux, les bras croisés. Chaque coup
+contre le courant était une lutte de tous les instants,
+mais le petit navire progressait tant bien que mal dans
+le brouillard. Des heures passèrent.
+Juste au moment où Landhwa allait s'écrouler, Bawan lui
+ordonna de s'arrêter à une jetée délabrée, bien loin
+du dernier village qu'ils avaient passé.
+Le maître passa une boucle de corde autour d'un des pilotis
+pour les amarrer.
+
+"Attendons," dit Bawan.
+
+L'aube vint, éparpillant le brouillard de la nuit,
+mais personne n'approchait des rives.
+Quand il regarda en aval, Landhwa découvrit que leur
+rameur remorquait un autre bateau, relié par une corde
+longue de plusieurs mètres qu'il devinait sous l'eau.
+Avec la levée du brouillard, on put voir un autre bateau
+derrière le premier, et puis un autre et encore un autre ;
+et bien que le dixième était caché au-delà d'un méandre
+de la rivière, Landhwa fut certain qu'il avait sans le
+vouloir tiré derrière eux chacun des bateaux qui étaient
+à leur quai de départ cette nuit-là.
