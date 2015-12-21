@@ -1,0 +1,98 @@
+Date: 2015-12-08
+Title: The Chimera's Egg
+Number: 217
+Names: Suku
+Topics: simplicity, single-responsibility principle
+Geekiness: 2
+Tagline: In which we have met the enemy.
+
+After seven straight days of bone-chilling rains, soggy
+rice cakes and dripping tents, master [[Suku]]'s three
+apprentices could no longer remember what it felt like to be
+dry or warm.  So one can scarcely imagine their joy when Suku
+negotiated lodgings at the house of a great livestock
+merchant. The merchant's fire pits were kept burning at all hours,
+his larder was stocked with roasted meat and game,
+and he had no objections to the four travellers
+staying through the winter if they desired.
+
+"My only fee," said the merchant, "is that you assess the
+hermitage that maintains my site.  Every feature I request
+takes longer than I expect, and the site is riddled with bugs."
+
+"First Apprentice!" said the master to the eldest of her
+three companions. "Investigate those monks."
+
+"Where is this hermitage?" asked the First Apprentice.
+
+The livestock merchant pointed out into the rain,
+to a cluster of buildings atop a distant hill.
+
+- - -
+
+Soaked from head to toe again, Suku's First Apprentice came
+at last to the hermitage.  He was welcomed by the head monk
+with a cup of hot wine and the WiFi password.
+
+"Here is one problem," sniffled the First Apprentice
+as he browsed their repository.
+"Your 'Find Animals' page is astonishingly complex.
+Depending on the inputs given, it might query for
+animals /available/ for purchase,
+animals the user has /already/ purchased,
+animals in the /wish-lists/ of the user's friends,
+and so on.
+In each case, the validations done, the tables queried,
+the columns returned, and the information displayed are completely different.
+The results table is an incoherent mess."
+
+"Indeed," agreed the head monk. "The code has grown so
+convoluted that none of us will touch it sober, and so
+fragile that we dare not even add trailing whitespace to a comment.
+
+"Then why not implement several /simple/ screens,
+instead of one unfathomable one?" demanded the apprentice.
+
+"You will have to ask the interface designer," said the head monk.
+"For we were told to follow her mockups exactly."
+
+"Where may this designer be found?" asked the First Apprentice.
+
+The head monk pointed out into the rain,
+to a small hut atop a distant crag.
+
+- - -
+
+Sodden from head to toe once more, Suku's First Apprentice
+came to the interface designer's hut.  There he was given clean
+robes made from recycled conference tote bags, while his
+muddy clothing was washed and dyed a more trendy shade
+of crimson.
+
+"At first the 'Find Animals' page /was/ simple," said the
+designer. "It was used for exactly one type of search, with
+one type of result to display.  Yet whenever a need arose
+which involved searching for animals,
+I was ordered to shove the capability into the 'Find Animals' page."
+
+"Ordered by whom?" asked the First Apprentice,
+punctuating his question with a sneeze.
+
+The interface designer pointed out into the rain,
+to the distant valley where the merchant's house lay.
+
+- - -
+
+Sneezing violently and leaving a trail of crimson dye (which
+had not had adequate time to set), Suku's First Apprentice
+staggered through the gates of the merchant's house and
+collapsed in front of fire pit where his fellows were
+playing mājan with their host.
+
+Weakly, the First Apprentice asked the merchant if he had
+truly insisted that all searching for animals be done
+through exactly one screen.
+
+"Indeed," said the merchant with a proud nod.
+"I did so to make things easier on the developers.
+For obviously /one/ screen is simpler to implement than /several/."

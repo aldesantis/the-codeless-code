@@ -5,7 +5,7 @@ Translator: andrebogus
 Lang: de
 
 <i>Zum feierlichen Anlass des zweihundertsten Kōans, der in die Annalen des
-Tempels Einzug hält, fragte ich die Nonne [[Yiwen]], für mich eine lange,
+Tempels Einzug hält, fragte ich die Nonne [[Yíwen]], für mich eine lange,
 informative und fußnoten-lastige Abhandlung über die Geschichte des Booleschen
 Datentyps vorzubereiten.  Zu meiner Bestürzung erhielt ich stattdessen diese 
 Knittelverse.  Ich bitte jene, die an dieser Stelle Erbauung suchen, vielmals

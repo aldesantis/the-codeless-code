@@ -40,10 +40,10 @@ Erlaubnis zu bitten."
 Mitternachts darauf erwachte der gesamte 
 [[Orden der Eisernen Knochen|Clan of Iron Bones]] vom Piepen ihrer
 Handies, die CRITICAL OUTAGE meldeten. Host-Meister [[Yishi-Shing]]
-weckte die Nonne [[Hwidah]], ihm bei der Untersuchung zu helfen.
+weckte die Nonne [[Hwídah]], ihm bei der Untersuchung zu helfen.
 
 "Ich habe das Problem zu Zjings neuem Code zurückverfolgt," erklärte
-eine schläfrige Hwidah per Konferenzschaltung.  "Ihr Webservice gibt
+eine schläfrige Hwídah per Konferenzschaltung.  "Ihr Webservice gibt
 SYSTEM_ERROR zurpck, wenn eine RuntimeException geworfen wird."
 
 "So ist unser Brauch," sagte Zjing.

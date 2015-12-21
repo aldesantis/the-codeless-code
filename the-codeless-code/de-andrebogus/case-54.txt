@@ -58,13 +58,13 @@ guten Manieren vergessen."
 - - -
 
 Hwídah winkte der Nonne in Gefahr. Yíwen tat es ihr gleich.
-"Ich hoffe, Du hältst mich nicht für unfreundlich, Hwidah,
+"Ich hoffe, Du hältst mich nicht für unfreundlich, Hwídah,
 aber findest Du nicht auch, das Zjing zu sehr auf die
 Ästethik des Codes achtet? Viele Ordensmitglieder klagen,
 dass sie häufig ihre Module refaktoriert, nur weil sie die
 Implementierung für nicht ausreichend elegant hält."
 
-"Ich halte Dein Urteil für gerecht, Yiwen. Ihre Ziele mögen
+"Ich halte Dein Urteil für gerecht, Yíwen. Ihre Ziele mögen
 lauter sein, doch sie passen nicht zur Komplexität unseres
 Problem-Bereichs. Tatsächlich haben ihre Bemühungen hin und
 wieder mehr Schaden als Nutzen erbracht. Doch das sollte
@@ -75,11 +75,11 @@ nicht unsere Entscheidung beeinflussen, ihr zu helfen."
 Beide Nonnen standen am Rande der Klippe und meditierten,
 wie der Kameradin am Besten zu helfen war.
 
-"Ist es nicht Pech, Hwidah, dass der Einsturz der Brück uns
+"Ist es nicht Pech, Hwídah, dass der Einsturz der Brück uns
 keine Möglichkeit lässt, die Schlucht zu überwinden, um 
 unsere Schwester zu retten?"
 
-"Ja, es ist furchtbar, Yiwen, doch wäre die Brücke 
+"Ja, es ist furchtbar, Ywen, doch wäre die Brücke 
 /eingestürzt/, müssten die Seile geborsten sein, doch ich 
 kann die sauberen Enden klar sehen. Wenn ich mich recht 
 entsinne, war exakt in der Mitte der Brücke ein hübsch
@@ -93,11 +93,11 @@ des Tors in einem Strudel dahintrieben.
 
 Yíwen nickte.
 
-"Erinnere ich mich recht, Hwidah, dass die Knoten, welche
+"Erinnere ich mich recht, Hwídah, dass die Knoten, welche
 die Seile am Tor hielten bedauerlich groß und hässlich
 waren, und die Schönheit der Brücke schmälerten?"
 
-"Ich glaube, so war es, Yiwen. Ich denke ihre Hässlichkeit
+"Ich glaube, so war es, Yíwen. Ich denke ihre Hässlichkeit
 wäre schmerzlich verlockend für jemanden, der sich um solche
 Dinge sorgt -- wenn es auch unwahrscheinlich ist, dass 
 jemand so leichtsinnig wäre, zu versuchen, die Knoten in der

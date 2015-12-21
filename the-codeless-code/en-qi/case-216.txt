@@ -1,0 +1,47 @@
+Date: 2015-11-30
+Title: Proxy
+Number: 216
+Names: Landhwa, Spider Clan
+Topics: FAQ, laziness
+Geekiness: 1
+Tagline: In which we are not bothered.
+
+[[#215|This same monk]] continued to assist users of the
+toolkit he had authored.  But after another unproductive
+week spent answering their questions he reached
+the end of his patience, and again complained to his fellows.
+
+"Perhaps [[Landhwa]] of the [[Spider Clan]] can advise you,"
+suggested one.  "His talent for avoiding tedious work is
+legendary throughout the Temple; for although there have
+been lazier monks than he, none have managed to keep their
+heads attached."
+
+So the monk messaged Landhwa, described his problem,
+and asked his advice.
+
+An hour later, the monk received a reply on his screen:
+
+<em>Of all the users of your toolkit,</em> it began, <em>who
+is the most stubbornly proud of his own intellect?  Who
+would rather take a hundred blows than admit one gap in
+their knowledge of any subject?</em>
+
+The monk thought for a moment, then typed,
+<em>Kew Niao, certainly.</em>
+
+<em>Very well,</em> came the reply. <em>Whenever you receive
+an unwanted question, say that you are indisposed at the
+moment, and have the sender consult Kew Niao.</em>
+
+The monk frowned. <em>I will still find that bothersome,</em> he typed.
+
+<em>In that case,</em> came the reply, <em>configure your
+account so that questions with particular keywords
+are quietly forwarded to Kew Niao, with neither party the
+wiser.</em>
+
+<em>Excellent!</em> typed the monk. <em>How is this done?</em>
+
+<em>Sadly, I must confess that I do not know,</em> came the reply.
+<em>But I am absolutely CERTAIN that LANDHWA knows.</em>
