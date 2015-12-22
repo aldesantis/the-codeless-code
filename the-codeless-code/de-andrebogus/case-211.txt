@@ -83,12 +83,12 @@ breiten Grinsen.
 
 "Um Halb Fünf am Morgen?" fragte Meister Bawan launisch zurück, denn dies war
 in der Tat die aktuelle Zeit.
-1
+
 "/Gar nicht/" sagte die Nonne.  "Das Proxy-Objekt, welches das Service-Objekt
 /dekoriert/, tut es.  Nun wann erledigt das Proxy-Objekt diese Aufgabe
 /nicht/?"
 
-"Das ist noch eine Trick-Frage, nicht wahr?" fragte Bawan.
+"Das ist noch eine Fangfrage, nicht wahr?" fragte Bawan.
 
 "Wenn es nicht benutzt wird!" sagte Hwidah triumphierend.  "Ein Fehler in der
 Applikationskonfiguration führte dazu, dass der Controller das Service-Objekt
