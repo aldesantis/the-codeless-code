@@ -1,0 +1,52 @@
+Lang: fr
+Translator: abelards
+Title: Hygiène
+Number: 210
+Tagline: Dans lequel on garde la bouche fermée.
+Illus.0.title: C'est vrai que c'est bon et que cela évite les caries, mais cela va aussi déplacer vos dents du bas de quatre emplacements vers la droite.
+
+L'abbé [[Ruh Cheen]] appela la jeune maître [[Zjing]]
+pour leur téléconférence hebdomadaire.
+
+Ruh Cheen dit, "au jour d'aujourd'hui, nos moines ont terminé
+quatre sprints [[#202|selon ma méthode]] : pas de documents
+de conception, pas de revue de code, pas de maîtres qui s'en
+mêlent. Avez-vous entendu la bonne nouvelle ?"
+
+Zjing s'inclina. "La vélocité est au plus haut, et le moral est
+meilleur que jamais."
+
+"J'ai l'intention d'en informer l'Abbesse ce soir," dit Ruh Cheen.
+"Après quoi je suggèrerai que tout le Temple adopte cette pratique.
+Mais soyez sans crainte ! Je suis certain qu'elle trouvera de
+nouvelles tâches pour occuper les maîtres."
+
+- - -
+
+Zjing appela le vieux maître [[Banzen]] sur son moniteur,
+pour l'informer ce qu'elle venait d'apprendre.
+
+Banzen dit, "Hier, Ruh Cheen a ordonné aux moines de ne pas
+se brosser ni se curer les dents. Aujourd'hui il voit qu'aucun
+moine n'a perdu de dent. À partir de cela il conclut que l'hygiène
+dentaire est inutile. Je crains qu'une seule chose ne lui fasse
+changer d'avis."
+
+La jeune maître était scandalisée.
+"Si je dois attendre que le patient aie la gencive atteinte
+pour qu'il vienne me voir, sa bouche risque d'être pourrie
+au delà de mes capacités à la soigner."
+
+"Mais quelle est notre alternative, jeune maître ?" demanda Banzen.
+"Forcer tout le monde à se laver les dents à la menace du couteau ?"
+
+"Cela a fonctionné pour nous par le passé," dit Zjing.
+
+Banzen soupira. "Ça a marché ? Je me demande.
+Car nous ne savons pas lesquels de nos moines sont consciencieux,
+et lesquels ne sont finalement que des couards. Je suis vieux ;
+le couteau faiblit dans ma main tremblante, et je ne peux pas
+être partout à la fois.
+Quand je quitterai cette Terre, je dois être confiant que je laisse
+derrière moi un /temple/ -- pas une foule de moines sans but
+voués à des sourires édentés."
