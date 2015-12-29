@@ -5,8 +5,8 @@ Illus.0.title: Er sagt, das blaue Auge war es absolut wert.
 Translator: andrebogus
 Lang: de
 
-Nach vielen Tagen [[#73|Schnee Schippens]] erlagen die Nonnen [[Yiwen]]
-und [[Hwidah]] der bitteren Kälte und wurden freigestellt, sich mit
+Nach vielen Tagen [[#73|Schnee Schippens]] erlagen die Nonnen [[Yíwen]]
+und [[Hwídah]] der bitteren Kälte und wurden freigestellt, sich mit
 heißen Bädern zu kurieren.  Ein Mönch sollte die beiden mit verbundenen
 Augen dort aufsuchen.
 
@@ -15,15 +15,15 @@ Log-Dateien getaucht und hat dort eine Perle entdeckt," sagte der
 Mönch.  Er winkte mit einem Ausdruck in die etwaige Richtung der 
 beiden, bis ihm dieser aus der Hand genommen wurde.
 
-"Dies sind Stack-Traces von NullPointerExceptions." schniefte Yiwen.  
+"Dies sind Stack-Traces von NullPointerExceptions." schniefte Yíwen.  
 "Alle während unseres lang laufenden Datenverarbeitungsjobs geworfen."
 Yíwen.  "All were thrown during our long-running data processing
 
-"Höchstwahrscheinlich sind die Daten das Problem," sagte Hwidah unter
+"Höchstwahrscheinlich sind die Daten das Problem," sagte Hwídah unter
 einem warmen Handtuch, das sie über ihr Gesicht geworfen hatte, um 
 ihre Stirnhöhlen freizukriegen. 
 
-"Bitte vielmals um Verzeihung," sagte Yiwen zu dem Mönch, "aber ich 
+"Bitte vielmals um Verzeihung," sagte Yíwen zu dem Mönch, "aber ich 
 kann nicht sagen, welche Sätze bearbeitet wurden.  Wo sind die 
 INFO-Meldungen, die wir loggen, um Kontext zu haben?"
 
@@ -33,13 +33,13 @@ schnell wachsen. Etwas musste getan werden.  Also entschied
 Yishi-Shing, dass DEBUG- und INFO-Meldungen unterdrückt werden, da 
 sie nicht kritisch sind." 
 
-Yiwen seufzte, warf den Ausdruck in die Arme des geblendeten Mönchs 
+Yíwen seufzte, warf den Ausdruck in die Arme des geblendeten Mönchs 
 und glitt wieder ins Wasser. "Yishi-Shing harkt den Meeresboden nur 
 nach Perlen ab. Die Austern wirft er ungeöffnet zurück, weil ihre 
 Schalen hässlich und seine Lager klein sind."
 
-"Er hat den wahren Zweck des Fischers vergessen," sagte Hwidah unter
+"Er hat den wahren Zweck des Fischers vergessen," sagte Hwídah unter
 ihrem Handtuch.  "Nun sitzt er in einem Haufen Perlen, und hungert nach 
 Austernfleisch."
 
-{{*}} "Stealthy Wombat" bietet uns dies Gedicht:<p> Yishi-Shing verliert seine Perle im Saal,<br> lässt Yiwen und Hwidah lang sie suchen,<br> Und Ahab quert die See, findet doch nicht den Wal,<br> und so bleibet ihm nichts als zu fluchen.
+{{*}} "Stealthy Wombat" bietet uns dies Gedicht:<p> Yishi-Shing verliert seine Perle im Saal,<br> lässt Yíwen und Hwidah lang sie suchen,<br> Und Ahab quert die See, findet doch nicht den Wal,<br> und so bleibet ihm nichts als zu fluchen.
