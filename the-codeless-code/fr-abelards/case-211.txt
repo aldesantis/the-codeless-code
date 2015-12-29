@@ -1,0 +1,156 @@
+Lang: fr
+Translator: abelards
+Title: La magie n'existe pas
+Number: 211
+Tagline: Dans lequel on perd nos illusions.
+
+Une nuit, la nonne [[Hwídah]] fut appelée à la Cour de Contrôle
+et Commande par maître [[Bawan]].
+
+"Il y a un comportement curieux sur notre page /Changement d'adresse/,"
+dit Bawan. "L'utilisateur remplit le formulaire et choisit
+d'entregistrer ses changements. Aucune erreur ne lui est remontée.
+Aucune erreur n'est enregistrée dans les fichiers journaux.
+Le navigateur est renvoyé comme prévu sur la page /Profil Utilisateur/.
+Mais cette page montre parfois la vieille adresse et non la nouvelle."
+
+"Une exception ignorée, très probablement," dit Hwídah,
+tout en souhaitant se trouver à n'importe quel autre endroit
+de la planète.
+
+"Ce n'est pas tout," dit le maître secouant la tête.
+"Si le /Profil Utilisateur/ est ensuite rechargé encore et
+encore, il affichera parfois la vieille et parfois la nouvelle
+adresse. On n'arrive pas à distinguer de cause déterministe."
+
+"Un problème de cache, alors," suggéra la nonne.
+
+"Ce n'est /toujours/ pas fini," dit le maître.
+"Après que plusieurs minutes sont passées, seule une des
+deux adresses sera affichée par la suite, et ne changera
+plus jamais. Mais là encore, c'est parfois la nouvelle et
+parfois l'ancienne."
+
+"Je n'ai pas de piste évidente," soupira Hwídah.
+"Un mauvais sort, peut-être, ou un esprit malin."
+
+Bawan la frappa au front.
+"Je n'ai aucune patience pour ces superstitions, nonne !"
+dit-il, se retournant pour prendre congé.
+"La magie n'existe pas. Et les seuls esprits malins
+dans cette pièce sont ceux que tu verras demain, si
+j'apprends qu'on ne peut pas faire confiance à
+[[#204|l'étudiante de Banzen]]."
+
+- - -
+
+La nonne lança la page récalcitrante, et la trouva exactement
+dans l'état que le maître avait décrit.
+
+"C'est très curieux," dit Hwídah à son écran.
+"Ta bouche me dit parfois ceci, parfois cela.
+Mais qu'y a-t-il en ton coeur, je me demande ?"
+
+La nonne se connecta directement à la base de données,
+observant l'enregistremant à chaque fois qu'elle le changeait.
+Mais ce qu'elle trouva avait encore moins de sens : car bien
+que l'écran change aléatoirement entre l'ancienne adresse et
+la nouvelle, la base de données ne faisait que montrer
+l'ancienne continuellement. Toutefois au bout de plusieurs minutes
+les deux se mettaient d'accord sur l'une des deux, pour ne plus
+jamais changer d'avis.
+
+
+
+"There is no magic," Hwídah repeated.  "Every behavior,
+no matter how odd, has some rational explanation."
+
+- - -
+
+"...Yet I have no idea /what/ that explanation is," Hwídah
+complained to Yíwen.  "My only suspicion is that the
+transaction does not commit properly, which is why the
+changes do not appear when viewed from another database
+session."
+
+"A thousand pardons," yawned Yíwen, who was still in bed,
+squinting at Hwídah's lantern.  "But /my/ only suspicion is
+that I was asleep moments ago, for it is after one in the
+morning.  Is there no one else you may consult with?"
+
+"The courtyard is empty, as are my brains," said Hwídah.
+"Help me think!  The Controller calls a Service method to
+save the address.  The Service method is annotated as
+transactional.  The method is invoked, yet chaos results.
+Why?"
+
+"I know nothing about transaction management," said Yíwen,
+falling back on her pillow with closed eyes.  "I know only
+to put the annotations where they belong.  The rest is
+magic."
+
+"La magie n'existe pas," se dit Hwídah distraitement.
+Puis telle un éclair elle était dehors, filant en direction
+de la cour.
+
+- - -
+
+"Quand est-ce qu'une méthode d'un Service envoie une transaction ?"
+demanda Hwídah avec un grand sourire ?
+
+"À quatre heures et demie du matin ?" hésita maître Bawan ;
+car telle était l'heure en cet instant.
+
+"Elle /ne le fait pas,/" dit la nonne.
+"C'est l'objet proxy qui /décore/ l'objet Service qui le fait.
+Maintenant, quand est-ce que cet objet proxy /ne fait pas/
+son travail ?"
+
+"C'est une autre question piège, n'est-ce pas ?" demanda Bawan.
+
+"Quand on ne l'utilise pas !" dit Hwídah triomphalement.
+"Une mauvaise configuration dans l'application fait que c'est
+l'objet du Service que l'on injecte au Contrôleur, au lieu
+de son proxy."
+
+"Intéressant," dit Bawan.  "Et que dire de la page qui affiche
+tantôt l'ancien, tantôt le nouveau ?"
+
+"Puisqu'il n'y a pas eu de transaction," dit Hwídah,
+"la modification de la base de données se fait /sans/ transaction,
+sur une connexion empruntée au groupe de connexions.
+S'il se trouvait une page pour emprunter la même connexion,
+on voyait le nouvel enregistrement. Sinon, on voyait l'ancien."
+
+"Cela m'intrigue," dit le maître.
+"Et ce comportement finit par s'arrêter au bout d'un moment, car... ?"
+
+"Si cette connexion est empruntée à une /autre/ transaction
+quelque part ailleurs dans l'application, alors les modifications
+seront soit appliquées soit effacées dans un rollback," dit Hwídah.
+"Et si c'est inutilisé trop longtemps, on l'annule et on la ferme."
+
+"Excellent," dit le maître. "Pas d'esprits malins, donc.
+La magie n'existe pas. Maintenant va-t-en ; va dormir."
+
+- - -
+
+Hwídah rampa dans son lit, prenant soin de ne pas éveiller Yíwen.
+Mais elle ne parvint pas à trouver le sommeil rapidement.
+Elle était bras croisés, les yeux ouverts dans l'obscurité.
+
+Qu'est-ce que /c'est/, la Magie, se demandait-elle, sinon
+l'accomplissement de choses par des moyens cachés ?
+Le maître des pickpockets est-il moins magicien que celui
+qui soumet les esprits à sa volonté ?
+N'est-il pas /encore plus/ satisfaisant de regarder derrière
+le rideau, pour comprendre la minutieuse horlogerie qui tourne
+derrière la façade, et de réaliser que c'est de la connaissance
+que vient le vrai pouvoir ?
+
+Hwídah se posait encore ces questions tandis qu'elle sombrait,
+enfin, dans un profond sommeil, non perturbé par le ronronnement
+du Temple, les nombreux tics et tacs de la machine qui s'éveillait ;
+l'eau dans les tuyaux, les pas dans le hall, les gongs qui appellent
+pour le petit déjeûner, pour la méditation, pour le lever du jour,
+un jour à tout autre semblable, dans ce palace aux merveilles.
