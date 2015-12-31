@@ -1,0 +1,104 @@
+Lang: fr
+Translator: abelards
+Title: L'oeuf de la Chimère
+Number: 217
+Tagline: Dans lequel on rencontre l'ennemi.
+
+Après sept semaines de pluies continues à vous glacer les os,
+de gâteaux de riz ramollis et de tentes dégoulinantes,
+les trois apprentis de maître [[Suku]] ne se rappelaient
+même plus ce que ça faisait d'être sec ou au chaud.
+On peut alors à peine imaginer leur joie quand Suku négocia
+le gîte et le couvert dans la maison d'un grand marchand de bétail.
+Les âtres du marchand étaient allumés à toute heure,
+son garde-manger rempli de viande rôtie et de gibier,
+et il n'avait pas d'objection à ce que les quatre voyageurs
+y passent l'hiver s'ils le désiraient.
+
+"Mon seul tarif," dit le marchand, "sera que vous fassiez
+un audit de l'ermitage qui assure la maintenance de mon site.
+Chaque fonctionnalité que je demande prend plus longtemps que
+l'on s'y attend, et le site est rempli de bugs."
+
+"Premier Apprenti !" dit le maître au plus âgé de ses
+trois compagnons. "Va investiguer chez ces moines."
+
+"Où est cet ermitage ?" s'enquérit le Prermier Apprenti.
+
+Le marchand de bêtes pointa du doigt l'extérieur où il
+pleuvait toujours des cordes, vers un groupe de bâtisses
+en haut d'une colline dans le lointain.
+
+- - -
+
+De nouveau trempé de la tête aux pieds, le Premier Apprenti de Suku
+arriva enfin à l'ermitage. Il fut accueilli par le père supérieur,
+avec une coupe de vin chaud et le mot de passe du WiFi.
+
+"Voici un problème," renifla le Premier Apprenti tandis qu'il
+parcourait leur dépôt de code.
+"Votre page /Trouver animaux/ est étonnamment complexe.
+En fonction des entrées de formulaire, cela peut faire une
+recherche d'animaux /disponibles/ à l'achat,
+d'animaux que l'utilisateur a /déjà/ achetés,
+d'animaux dans les /wish-lists/ des amis de l'utilisateur,
+et ainsi de suite.
+Dans chaque cas, les validations à appliquer, les tables
+dans lesquelles rechercher, les colonnes renvoyées et les
+informations affichées sont complètement différentes.
+La table de résultats est alors un désordre incohérent."
+
+"En effet," admit le père supérieur.
+"Le code est devenu si compliqué qu'aucun d'entre nous n'oserait
+y toucher sobre, et si fragile que nous n'osons même pas ajouter
+une espace à la fin d'un commentaire.
+
+"Mais alors pourquoi ne pas implémenter plusieurs écrans /simples/,
+au lieu d'un seul inimaginable ?" demanda l'apprenti.
+
+"Il faudra que tu demandes cela au designer de l'interface,"
+dit le père supérieur. "Car on nous a dit de suivre leurs
+prototypes d'écrans à la lettre."
+
+"Et où trouve-t-on ce designer ?" demanda le Premier Apprenti.
+
+Le père supérieur pointa du doigt vers les pluies torrentielles
+au dehors, vers une petite hutte en haut d'un lointain rocher.
+
+- - -
+
+Dégoulinant derechef de la tête aux pieds, le Premier Apprenti
+de Suku arriva à la hutte du designer de l'interface.
+On lui donna de nouvelles robes propres, faites de sacs de
+conférences recyclés, tandis que ses habits boueux furent
+lavés et teints d'une nuance écarlate plus à la mode.
+
+"Au début, cette page /était/ simple," dit le designer.
+"On l'utilisait pour une et une seule recherche, avec un seul
+type d'écran à afficher. Mais quand un nouveau besoin nous est
+remonté qui implique de rechercher des animaux, on m'ordonnait
+de fourrer cette fonctionnalité dans la page /Trouver animal/."
+
+"Qui vous l'ordonnait ?" demanda le Premier Apprenti,
+ponctuant sa question d'un éternuement sonore.
+
+Le designer de l'interface pointa du doigt la mousson,
+vers la vallée lointaine où se trouvait la maison du marchand.
+
+- - -
+
+Dans le vacarme de ses éternuements tonitruants et en
+laissant derrière lui une piste de teinture rouge (qui n'avait
+pas eu le temps de se fixer totalement), le Premier Apprenti
+de Suku tituba en passant par les portes de la maison du
+marchand et s'effondra devant la cheminée où ses camarades
+et leur hôte jouaient au mājan.
+
+Faiblement, le Premier Apprenti demanda au marchand s'il
+avait effectivement insisté pour que toutes les recherches
+d'animaux ne se fassent qu'à travers un seul écran.
+
+"Tout à fait," dit fièrement le marchand avec un hochement de tête.
+"Je l'ai fait afin de simplifier le travail des développeurs.
+C'est évident qu'il est plus simple d'implémenter /un/ écran
+que /plusieurs/."
