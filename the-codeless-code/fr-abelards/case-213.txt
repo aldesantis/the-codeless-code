@@ -1,0 +1,87 @@
+Lang: fr
+Translator: abelards
+Title: Le Miroir Imparfait
+Number: 213
+Tagline: Dans lequel notre problème serait résolu par un peu de réflexion.
+
+<i>Cette semaine-là, la jeune maître Zjing faisait une revue
+du code du [[Elephant's Footprint Clan|Clan des Empreintes de l'Éléphant]],
+dont les moines étaient appelés quand il fallait concevoir les tables
+des bases de données, créer les déclencheurs, et développer les
+couches de persistance des applications du Temple.</i>
+
+- - -
+
+Lundi elle vit une table nommée /CustomerAddress/, //
+conçue pour conserver l'adresse d'un /Client/. //
+Elle avait huit colonnes pour ce faire.
+
+De même elle trouva une classe nommée /CustomerAddress/, //
+qui avait huit propriétés correspondantes. //
+<i>Tout est en bon ordre,</i> pensa la maître.
+
+- - -
+
+Mardi elle vit une table nommée /BusinessAddress/, //
+conçue pour conserver l'adresse d'un /Business/. //
+Elle avait neuf colonnes pour ce faire.
+
+De même elle trouva une classe nommée /BusinessAddress/, //
+qui avait neuf propriétés correspondantes. //
+<i>Comme on peut s'y attendre,</i> pensa la maître.
+
+- - -
+
+Mercredi elle vit une table nommée /RegimentAddress/, //
+conçue pour conserver l'adresse d'un /Regiment/. //
+Elle avait dix colonnes pour ce faire.
+
+De même elle chercha une classe nommée /RegimentAddress/, //
+qui aurait dix propriétés correspondantes. //
+mais nulle part elle ne put en trouver --
+
+    Et bien qu'il y ait une classe nommé /Regiment/, //
+    son adresse était stockée dans une /BusinessAddress/, //
+    où /street/ contenait maintenant trois champs sans rapport, //
+
+    et /postalCode/ le /baseNumber/, //
+    et /suite/ /barracksNumber/. //
+    <i>Bienvenue dans mon cauchemar,</i> pensa la maître.
+
+- - -
+
+Jeudi elle alla trouver le développeur //
+qui avait évité d'implémenter une /RegimentAddress/. //
+Elle lui demanda de lui en expliquer la raison.
+
+<i>Réutilisation et généricité,</i> dit le moine fièrement : //
+car n'est-il pas meilleur d'avoir moins de code à gérer ? //
+<i>Une simple erreur de novice,</i> pensa la maître.
+
+- - -
+
+Vendredi elle vérifia de nouveau le code du moine, //
+car elle lui avait recommandé les vertus de la cohérence, //
+et avait hâte de voir comment il progresserait.
+
+Une fois de plus elle chercha une classe nommée /RegimentAddress/, //
+qui aurait les dix propriétés attendues, //
+mais nulle part elle ne put la trouver --
+
+    De fait, désormais /BusinessAddress/ avait disparu, //
+    et /CustomerAddress/ également. Et à leur place, //
+    une seule classe /Address/ avec <i>vingt</i> propriétés --
+
+    l'union des trois tables /Address/, //
+    condamnées pour toujours à n'être que partiellement remplies. //
+    /JURON CENSURÉ/, pensa la maître.
+
+- - -
+
+Samedi elle s'assit au bord d'un lac, //
+contemplant la réflexion de trois érables, //
+et pensa :
+
+Trois arbres au dessus, trois arbres en dessous. //
+Cet étang n'a pas d'esprit //
+mais a plus de bon sens que ce moine.
