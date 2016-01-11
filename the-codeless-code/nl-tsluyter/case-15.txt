@@ -1,0 +1,16 @@
+Title: Onveranderlijk
+Number: 15
+Lang: nl
+Translator: tsluyter
+
+Een novice was pas kort geleden overgeplaatst vanuit de [[Temple of Three Stones|Tempel van Drie Stenen]], waar men alleen C sprak. Hij was nog niet bekend met de wegen van Java en stuitte al snel op de onveranderlijkheid van Strings. 
+
+“Ik wil louter de inhoud van dit veld omzetten zodat het hoofd- en kleine letters bevat!” riep hij. “Maar dit vereist het bouwen van een StringBuffer en een nieuwe String, waarbij veel karakters onveranderd twee maal worden gekopieerd! Wat is het beoogde doel achter dit ontwerp?”
+
+Een geleerde zuster hoorde zijn klacht en adviseerde hem: “De koperen munt die gaat van hand tot hand kan ook de volgende dag worden geruild; het ei niet.” De novice zag het licht.
+
+Al gauw definieerde de novice al zijn klassen als zijnde onveranderlijk. Niet één eigenschap kon worden veranderd: voor elke uitwisseling moest een nieuwe instantie worden gemaakt. Zijn /constructors/ waren soms angstaanjagend groot en complex. 
+
+De Java meester hoorde hiervan en zei: “Laat de vorm van een ei uit messing gieten en serveer dit als ontbijt aan de non.”
+
+Aldus werd de non belast met het corrigeren van de novice.

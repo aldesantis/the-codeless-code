@@ -1,0 +1,16 @@
+Title: Documentatie
+Number: 16
+Lang: nl
+Translator: tsluyter
+
+Een abt van de [[[[Seven-Clawed Blind Eagle Clan|Zeven-Klauwige Blinde Adelaar Klan]] turfde het opgeleverde werk van de monikken, toen hij opmerkte dat een monnik van de [[Laughing Monkey Clan|Lachende Aap Klan]] geen ontwerpdocumentatie had geschreven. 
+
+“Wat nu als er een fout wordt ontdekt in ons productie systeem?” vroeg de abt de monnik. “Hoe moet de oorzaak dan worden begrepen door eenieder behalve jijzelf?”
+
+“Men dient de code te onderzoeken,” zei de monnik. “Het Document is als een ziekelijk beest wat al gauw ten prooi valt aan de Drie Plagen van Fouten: omissie, verwarring en veroudering.”
+
+De abt rapporteerde dit aan de Java meester, die zei: “Laat de monnik elke dag van de schemer tot middernacht balanceren op één voet, met zijn staf voor zich gestrekt. Als hij één woord kan spreken dat mij behaagt, dan zal ik zijn straf intrekken. Anders niet.”
+
+“Is er een dergelijk woord?” vroeg de abt.
+
+“Dat is moeilijk vast te stellen,” peinsde de meester. “Gisteren behaagde het gekir van een krekel mij, na de eerste drie druppels van een regenbui. De dag ervoor, herinnerde het gekletter van melk in een emmer mij aan een prettige tijd in mijn jeugd. Misschien schuilt het antwoord in de geur van een witte lotus die ooit dreef in de vijver onder mijn raam.”
