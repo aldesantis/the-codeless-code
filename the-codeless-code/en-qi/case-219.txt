@@ -1,0 +1,56 @@
+Date: 2016-01-10
+Title: Nothing Really Matters
+Number: 219
+Names: Wangohan
+Topics: java, annotations, error handling, fail-fast, code reviews, transactions, frameworks
+Geekiness: 3
+Tagline: In which nothing is wrong.
+
+The Temple used a popular dependency-injection and
+transaction-management framework, yet always there were
+junior monks who needed to be schooled in its ways.  One
+such junior monk had been tasked with creating
+a Service interface and its implementation class.
+The senior monk [[Wangohan]] was reviewing his code.
+
+"You have placed a /@Transactional/ annotation on a
+private method!" snapped Wangohan.  "That will do nothing!
+The framework only looks for such annotations on the
+implementations of /public interface/ methods!"
+
+The junior monk replied calmly: "I observed no error."
+
+"Your class also has a non-transactional method call a
+transactional one /directly/!" continued Wangohan.  "That
+too will do nothing!  Transaction management is only
+performed by the implementation's /proxy/, not the
+implementation itself!"
+
+Again the junior monk replied calmly: "I observed no error."
+
+Wangohan went to see master [[Kaimu]] and told him what had
+transpired.  "How can I work with such an idiot?" asked
+Wangohan.  "He only believes there is an error if it leaps
+up and bites his eyeball."
+
+/"Null,"/ said Kaimu. "The junior monk is no idiot.  For
+what he said is true, and yet he means the opposite of what
+he said, which is also true.  So he is twice correct, and
+concisely so."
+
+"Then master Kaimu must be two times too clever for me,"
+replied Wangohan.  "For he clearly just said something, but
+what he said was nonsense, which is the opposite of saying
+something.  Therefore let me depart before I become
+so wise that I surpass the junior monk."
+
+Wangohan bowed mockingly and went out.
+
+Later that day, Kaimu found the junior monk and said to him,
+"There is a smoke alarm in Wangohan's quarters.  Disable it.
+Then tonight when he is sleeping, set his room on fire."
+
+"Surely Wangohan would find this objectionable,"
+said the junior monk.
+
+Kaimu replied calmly: "He will observe no error."
