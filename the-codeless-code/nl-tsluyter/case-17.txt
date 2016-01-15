@@ -1,0 +1,14 @@
+Title: Niet door mij bedacht
+Number: 17
+Lang: nl
+Translator: tsluyter
+
+Een monnik van de [[[[Elephant's Footprint Clan]]|Olifanten Voetafdruk Klan]] was belast met het elimineren van de berg aan redundante code die door de klan was geschapen. Hij benaderde de opperpriester van de klan voor begeleiding. 
+
+“Zie, bijvoorbeeld, hier heb ik vijf aanpakken voor het beheren van gebruikersvoorkeuren,” sprak de monnik, terwijl hij de blauwdrukken op tafel uitspreidde. “Ik moet nu de beste aanpak kiezen, of een soort compromis vaststellen. Hoe dan ook zullen er vier modules in het vuur worden geworpen en hun auteurs worden gedwongen de code van een rivaal te benutten.”
+
+“Dan ben je verdoemd,” sprak de priester. “Als de kat eenmaal haar poot nat heeft gemaakt om een karper uit de vijver te vissen, dan zal zij de karperbuik nog niet inruilen voor tienduizend muizen.”
+
+De monnik wiste zijn voorhoofd. “En dit is nog maar de eerste van een dozijn redundante subsystemen die ik moet consolideren!” Vandaag nog zag ik één van de oudere broeders zijn werpmessen scherpen. Is er dan geen manier om de monniken van onze klan te verenigen?”
+
+De priester hief zijn linker hand, waar de pink ontbrak. “Als de kat geen karper kan krijgen, dan volstaat een stukje van de karper-dief.”
