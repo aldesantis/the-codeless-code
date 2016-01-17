@@ -1,0 +1,63 @@
+Lang: fr
+Translator: abelards
+Title: Flux de conscience
+Number: 214
+Tagline: Dans lequel nous espérons une vie plus simple.
+
+Le vieux maître [[Banzen]] et le jeune maître [[Kaimu]] étaient
+assis sur un banc qui surplombait une gorge, regardant les
+pêcheurs dans la crique, loin en contrebas.
+
+- - -
+
+Banzen dit : "Mes apprentis ont découvert les flux /Java Streams/
+cette semaine. Maintenant ils utilisent ces Flux partout,
+même quand une simple boucle /for/ serait plus claire..."
+
+     Kaimu commença : "Quand j'ai commencé à travailler dans
+     les cuisines du Temple, j'étais intrigué par les nombreuses
+     lames dans les présentoirs à couteaux, et voulus tous les
+     essayer. Mais je ne connaissais pas la différence entre
+     un couteau à filets et un couteau à désosser, et j'ai
+     réduit en charpie plus d'un beau poisson."
+
+Banzen poursuivit : "... je serais ravi de leur apprendre
+quand utiliser et quand éviter les Flux, mais je ne le sais
+pas moi-même. Pas plus que je n'aie lu la moindre sagesse
+simple sur le sujet..."
+
+     Kaimu poursuivit : "Avec le temps j'ai fini par comprendre
+     le dessein de chacune de ces lames en observant comment
+     sa forme et son épaisseur pouvait soit aider soit ralentir
+     ma tâche.
+     De cette manière j'ai pu maîtriser non seulement les couteaux
+     que j'utilisais, mais aussi ceux que je n'avais jamais vu.
+     L'erreur est un piètre ami mais un excellent professeur."
+
+Banzen poursuivit : "... même si je pouvais les corriger aujourd'hui,
+demain ne fera qu'amener un nouveau péril. Le mois dernier mon Clan
+a commencé à jouer avec les annotations.
+Comment puis-je diriger des revues de code quand des fonctionnalités
+essentielles passent du code des méthodes à la marge des fichiers ?
+Et maintenant, des fonctions anonymes se répandent partout dans
+la base de code..."
+
+     Kaimu poursuivit : "Chaque nouveau cuisinier amenait ses
+     propres ustensiles, brillants et aiguisés et étranges.
+     Mon favori et de loin, était un couteau à dépecer avec un
+     crochet à éviscération. Je n'en avais que très rarement besoin,
+     mais quand il le fallait, il était parfaitement adapté à sa tâche."
+
+Banzen poursuivit : "... Je ne comprends pas pourquoi les gens doivent
+triturer un langage simple jusqu'à ce qu'il devienne si complexe qu'il
+en est quasi impossible à apprendre..."
+
+     Kaimu poursuivit : "Je me glisse encore parfois dans les cuisines,
+     de temps à autres, pour m'émerveiller des derniers outils par
+     lesquels des tâches complexes sont exécutées avec un effort minimal."
+
+Banzen s'appuya sur son bâton. "Ma seule consolation est que chaque
+après-midi je peux m'asseoir sur ce banc et contempler les vies heureuses
+de ceux dont la seule aspiration est d'attraper et de nettoyer des poissons."
+
+     Kaimu répondit : "En effet ; ces gens sont heureux."

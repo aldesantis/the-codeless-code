@@ -1,0 +1,133 @@
+Title: Keine Magie
+Number: 211
+Tagline: Worin wir desillusioniert werden.
+Lang: de
+Translator: andrebogus
+
+Eines Nachts wurde die Nonne [[Hwidah]] von Meister [[Bawan]] in den zentralen
+Kommando-Hof gerufen.
+
+"Es gibt ein seltsames Verhalten auf unserer 'Adresse Ändern' Seite." sagte
+Bawan.  "Der Nutzer füllt das Formular aus und klickt 'Speichern'.  Kein Fehler
+wird gemeldet.  Kein Fehler wird geloggt.  Der Nutzer landet wie erwartet auf
+seiner Profilseite. Doch diese zeigt manchmal die alte Adresse anstelle der
+Neuen." 
+
+"Vermutlich eine verschluckte Ausnahmebedingung." sagte Hwidah, die sich
+wünschte, woanders zu sein.
+
+"Es gibt noch mehr." sagte der Meister kopfschüttelnd.  "Wenn man das 
+Nutzerprofil wiederholt neu lädt, wird es manchmal die alte und ein andermal
+die neue Adresse anzeigen.  Und das ohne erkennbares Muster."
+
+"Ein Problem mit den Caches." schlug die Nonne vor.
+
+"Es gibt /noch/ mehr." sagte der Meister.  "Nach mehreren Minuten wird nur noch
+eine der beiden Adressen angezeigt werden.  Doch abermals ist es manchmal die
+Alte und manchmal die Neue."
+
+"Ich weiß nicht," seufzte Hwidah. "Ein Fluch vielleicht oder ein böser Geist?"
+
+Bawan gab ihr eine Ohrfeige.  "Ich habe keine Geduld für Aberglaube, Nonne!"
+sprach er und wandte sich zum Gehen.  "Es gibt keine Magie.  Und die einzigen
+bösen Geister in diesem Raum sind jene, die Du morgen zu spüren bekommst, wenn
+ich feststellen sollte, dass [[#204|Banzens erwählte Schülerin]] nicht
+verlässlich ist."
+
+- - -
+
+Die Nonne rief die vermaledeite Seite auf, und fand alles wie vom Meister
+beschrieben vor.
+
+"Sehr seltsam," sagte Hwidah zum Bildschirm.  "Dein Gesicht sagt einmal dies,
+einmal das.  Doch ich frage mich, was in Deinem Herzen ist?"
+
+Die Nonne meldete sich in der Datenbank an, und beobachtete den Eintrag, wenn
+immer sie ihn änderte.  Doch was sie fand, ergab noch weniger Sinn: Denn sowohl
+der Bildschirm zufällig die alte oder neue Adresse anzeigte, wurde in der 
+Datenbank stets die alte Adresse geführt. Doch nach ein paar Minuten würde
+die Datenbank und die Seite gleichermaßen nur noch die alte oder neue Adresse
+zeigen.
+
+"Es gibt keine Magie" wiederholte Hwidah.  "Jedes Verhalten, wie seltsam auch
+immer, hat eine vernünftige Erklärung."
+
+- - -
+
+"...Doch ich habe keine Ahnung /was/ diese Erklärung ist." beklagte Hwidah zu
+[[Yiwen]].  "Mein einziger Verdacht ist, dass die Transaktion nicht korrekt
+vollendet wird, weshalb auch die Änderungen von einer anderen Datenbanksitzung
+aus nicht zu sehen sind."
+
+"Bitte tausendmal um Verzeihung" gähnte Yiwen, die noch im Bett lag und Hwidahs
+Laterne anblinzelte.  "Doch /mein/ einziger Verdacht ist, dass ich vor Kurzem
+noch schlief, denn es ist kurz nach ein Uhr Nachts. Kannst Du niemand anderen
+konsultieren?"
+
+"Der Hof ist so leer wie mein Kopf" sagte Hwidah. "Hilf mir zu denken!  Der
+Controller ruft eine Service-Methode auf, die Adresse zu speichern. Die Methode
+ist als transaktional gekennzeichnet.  Die Methode wird aufgerufen, doch Chaos
+folgt. Warum?"
+
+"Ich weiß nichts über Transaktions-Management" sagte Yiwen, die ihre Augen
+schloss und sich aufs Kissen plumpsen ließ.  "Ich weiß nur, wohin ich die
+Annotationen schreiben muss. Der Rest ist Magie."
+
+"Es gibt keine Magie," sagte Hwidah abwesend.  Dann schoss sie wie ein Blitz
+zur Tür hinaus, und sprintete auf den Hof.
+
+- - -
+
+"Wann vollendet eine Service-Methode eine Transaktion?" fragte Hwidah mit einem
+breiten Grinsen.
+
+"Um Halb Fünf am Morgen?" fragte Meister Bawan launisch zurück, denn dies war
+in der Tat die aktuelle Zeit.
+
+"/Gar nicht/" sagte die Nonne.  "Das Proxy-Objekt, welches das Service-Objekt
+/dekoriert/, tut es.  Nun wann erledigt das Proxy-Objekt diese Aufgabe
+/nicht/?"
+
+"Das ist noch eine Fangfrage, nicht wahr?" fragte Bawan.
+
+"Wenn es nicht benutzt wird!" sagte Hwidah triumphierend.  "Ein Fehler in der
+Applikationskonfiguration führte dazu, dass der Controller das Service-Objekt
+statt dem Proxy-Objekt injiziert bekam."
+
+"Interessant" sprach Bawan.  "Was ist mit der Seite, die mal die alten, mal die
+neuen Daten zeigte?"
+
+"Weil es keine Transaktion gab," sagte Hwidah "wurde die Datenbank ohne
+Transaktion geändert, auf einer aus dem Pool geborgten Verbindung.  Wenn die
+Seite diese Verbindung aus dem Pool bekam, sah man die neue, sonst die alte
+Adresse."
+
+"Faszinierend" sagte der Meister.  "Und dieses Verhalten hörte nach einer Weile
+auf, weil...?"
+
+"Wenn diese Verbindung für eine /andere/ Transaktion in der Applikation
+verwendet wird, wird diese entweder vollendet oder zurückgerollt." sagte 
+Hwidah.  "Und wenn die Verbindung zu lange ungenutzt bleibt wird sie zurück
+gerollt und geschlossen."
+
+"Exzellent." sagte der Meister.  "Keine Bösen Geister also. Keine Magie. Nun
+geh, schlaf Dich aus."
+
+- - -
+
+Hwidah kroch in ihr Bett, vorsichtig, nicht Yiwen zu wecken.  Doch der Schlaf
+kam nicht leicht zu ihr.  Stattdessen lag sie mit verschränkten Armen da und
+starrte in die Dunkelheit.
+
+Was /ist/ Magie, fragte sie sich, wenn nicht das Erreichen von Dingen mit
+versteckten Mitteln?  Ist ein Meister der Taschenspieler-Tricks etwa weniger
+Magier als der Bezwinger der Geister?  Ist es nicht vielleicht 
+/befriedigender/, hinter den Vorhang zu blicken, und das verworrene Spiel
+hinter der Fassade zu verstehen und zu erkennen, dass dieses Wissen wahre
+Macht verleiht?
+
+Hwidah bedachte dies noch, als sie zuletzt in einen tiefen Schlummer fiel,
+ungestört vom Erwachen des Tempels, der vielen Ticks und Tacks der
+hochfahrenden Maschinen; Wasser in den Rohren, Schritten in den Hallen, Gongs
+die zum Frühstück oder zur Meditation klangen, oder zum Beginn eines neuen
+Tages, wie jeden anderen Tag auch, an diesem Ort der Wunder.

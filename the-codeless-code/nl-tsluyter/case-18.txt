@@ -1,0 +1,35 @@
+Title: Necessary Features
+Number: 18
+Lang: nl
+Translator: tsluyter
+
+Die zelfde monnik van de Olifanten Voetafdruk tuurde naar de code van zijn klan. Hij vond verscheidene implementaties van één en het zelfde Data Access Object; momenteel poogde hij te besluiten welke de definitieve oplossing zou worden die zijn klan zou aannemen. 
+
+“Elke implementatie heeft zo zijn eigen voor- en nadelen,” zei de monnik tegen de Java meester. “En elk heeft eigenschappen die een ander ontbeert. En toch moet ik allen behalve één overgeven aan de wind van vergetelheid. Hoe moet ik kiezen?”
+
+
+“Ik kan je niet antwoorden als ik dorstig ben,” zei de meester. “In de kast bevinden zich drie houten bekers. Vul één uit de rivier, de tweede uit de put van de tempel en de derde bij de waterverkoper in het dorp. Breng ze alle drie naar mij zonder een druppel te morsen en ik zal je alle hulp bieden die ik kan.” 
+
+Aldus deed de monnik en hij plaatste de drie koppen voor de meester.
+
+“Wat heb je geleerd?” vroeg de meester.
+
+De monnik boog. “De waterverkoper slaat twee maal op zijn gong wanneer je hem betaalt. Één maal voordat hij je beker vult en een tweede maal wanneer je jouw eerste slok hebt genomen. Vul je een beker bij de put, dan klinkt er geen gong maar de emmer is zwaar. Doop je je beker in de rivier, dan schrikt dit de vissen op en de riviergod dient te worden vergenoegd met een geschenk van tien witte stenen.”
+
+“Ik kan maar één van deze bekers drinken,” zei de meester. “Van welke zal ik het meeste genieten?”
+
+De monk peinsde zeer diep. “De rivier was koud, maar niet zeer helder. Uit de tempelput heb ik vaak gedronken en het water is bitter door het kalksteen. En hoewel ik niet bekend ben met de waterverkoper, heb ik zijn gong vandaag regelmatig gehoord. Op basis van dit alles zou ik de beker van de waterverkoper kiezen.”
+
+“Een zeer doordacht besluit,” zei de meester. “Inderdaad, ik bezoek deze waterverkoper al acht jaar lang elke ochtend en elke keer was het een zeer voldoenende ervaring. Welke beker is het die hij vulde?”
+
+De meester nam een slok uit de aangewezen beker en zijn gezicht betrok van teleurstelling. “Jonge broeder,” sprak hij. “Je hebt mijn dorst volledig verkeerd begrepen. Waar is het geluid van de gong?”
+
+- - -
+
+De dorst van de meester is niet gelest //
+maar de monnik heeft zijn antwoord — //
+uit welk geluid werd zij geschonken? //
+
+Het was de monnik beter vergaan //
+had hij een koperen schaal in de vensterbank geplaatst //
+en louter gewacht op de volgende regenbui. //
