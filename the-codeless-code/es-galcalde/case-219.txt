@@ -1,0 +1,29 @@
+Number: 219
+Title: Nada Realmente Importa
+Lang: es
+Translator: galcalde
+Tagline: En el cual nada está mal
+
+El templo usaba un framework de inyección de dependencias y manejo transaccional popular, sin embargo siempre habían monjes aprendices que necesitaban ser educados en sus maneras. A un monje aprendiz se le asignó crear una interfaz de servicios y su clase de implementación. El monje avanzado [[Wangohan]] estaba revisando su código.
+
+"¡Has colocado una anotación <em>@Transactional</em> en un método privado!" gritó Wangohan. "¡Eso no hará nada! ¡El framework sólo busca esas anotaciones en las implementaciones de los métodos en la <em>interfaz pública</em>!"
+
+El monje aprendiz respondió calmadamente: "No observé ningún error."
+
+"¡Tu clase también tiene un método no transaccional llamando a otro transactional<em>directamente</em>!" continuó Wangohan.  "¡Eso tampoco hará nada! ¡El manejo de transacciones sólo se hace a través del <em>proxy</em> de la implementación, no la implementación propia!"
+
+De nuevo el monje aprendiz respondió calmadamente: "No observé ningún error."
+
+Wangohan fue a ver al maestro [[Kaimu]] y le dijo lo que transpiró. "¿Cómo puedo trabajar con semejante idiota?" preguntó Wangohan. "El sólo cree que hay un error si le salta y le come el ojo."
+
+<em>"Null,"</em> dijo Kaimu. "El monje aprendiz no es idiota. Porque lo que dijo es verdad, y sin embargo quiere decir lo opuesto de lo que dijo, que también es cierto. Así que el está dos veces cierto, y concisamente."
+
+"Entonces el maestro Kaimu debe ser debe ser el doble de listo que yo," respondió Wangohan. "Porque el claramente dijo algo, pero lo que dijo no tiene sentido, lo cual es el opuesto de decir algo. Por lo tanto déjeme marchar antes que me vuelva tan sabio que supere al monje aprendiz."
+
+Wangohan se inclinó burlonamente y se fue.
+
+Luego ese día, Kaimu halló al monje aprendiz y le dijo, "Hay un detector de humo en la habitación de Wangohan. Desactívalo. Luego esta noche cuando duerma, préndele fuego a su habitación."
+
+"Seguro que Wangohan hallaría esto objetable," dijo el monje aprendiz.
+
+Kaimu respondió calmadamente: "No observará ningún error."
