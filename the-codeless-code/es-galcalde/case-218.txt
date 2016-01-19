@@ -1,0 +1,119 @@
+Number: 218
+Title: Las Retrospectivas Terminales: 
+Subtitle: o, Después del Deployment
+Lang: es
+Translator: galcalde
+Tagline: En el cual explicamos por qué hay veintisiete vacantes.
+
+<i>Como la mayoría del templo está lejos por las vacaciones de Invierno, hubieron pocas noticias que reportar. Pero como algunos de ustedes expresaron interés en los quehaceres de nuestros pares en el exótico Lejano Oeste, recluté a la monja [[Yíwen]] para que prepare una monografía edificante en ese tema.</i>
+
+<i>Le pedí que describiera las condiciones bajo las cuales un desarrollador en esas tierras extrañas podría ser juzgado como insatisfactorio. Tristemente, veo que -- otra vez -- respondió mi sincero pedido con galimatías. Mis más solemnes disculpas. -- Qi.</i>
+
+- - -
+
+La A es de Aldemar //
+cuya App hay que matar //
+
+La B es del joven Bruno //
+rompió el Build como ninguno //
+
+La C es para Conrado //
+el código ha Comentado //
+
+La D es para Damián //
+sus Datos no cargarán //
+
+La E es de Encarnación //
+se traga cada Excepción //
+
+La F es de Filemón //
+le Falla la dirección //
+
+La G es para Gaspar //
+nada sabe Gestionar //
+
+La H de Himeneo //
+abusa del Hardcodeo //
+
+La I es de Ildemar //
+nunca suele Indentar //
+
+La J es por Jonás //
+Joinea tablas de más //
+
+La K para Katherin //
+come Kilobytes sin fin //
+
+La L para Luz Marga //
+cuyas Lineas son muy largas //
+
+La M es para Moria //
+usa bastante Memoria //
+
+La N de Napoleón //
+usa Nombres sin expresión //
+
+La Ñ es para el Ñato //
+ser Ñoqui le es barato //
+
+La O es para Orieta //
+las reglas ella Objeta //
+
+La P es para Pascal //
+su Parche está todo mal //
+
+La Q es para Quetzal //
+sus Queries se ven muy mal //
+
+La R es de Rolando //
+siempre Refactorizando //
+
+La S del chino Shing //
+guarda enteros en Strings //
+
+La T es para Tamara //
+a los Triggers se agarra //
+
+La U de Ulises Mario //
+odia el testing Unitario //
+
+La V es de Valdemar //
+el no sabe Versionar //
+
+La W de Wilfredo //
+loguea Warnings al pedo //
+
+La X para Xosé //
+nunca eXpira su caché //
+
+La Y es para Yoel //
+¿siempre Yo? responde él. //
+
+La Z es para Zhao //
+una palabra: "Zafao"
+
+== Nota del editor
+
+El texto fue inspirado por el libro de Edward Gorey <i>Los pequeños macabros (o Después de la excursión).</i>
+
+Estoy muy encantado de trabajar con <a href="http://scamperingkaos.tumblr.com/">Scamperingkaos</a> en una versión completamente ilustrada de este poema.
+
+== Nota del traductor
+
+Octosílabo es cada verso mío.
+Toda rima consonante de a pares.
+Veintiseis letras latinas ejemplares
+y la eñe castellana con gran brío
+
+Se han procurado con mucho hastío
+sustantivos, adjetivos similares,
+que con el nombre rimasen regulares
+y se ajusten con el texto "definío"
+
+Y encima nombres de lo más variados.
+De origen asíatico, europeo
+y americano tiene el texto completo.
+
+De traducirlo tengan el gran agrado.
+Queda plasmado mi personal deseo
+en este sencillo y simple soneto.
