@@ -1,0 +1,24 @@
+Date: 2016-01-18
+Title: The Two Hard Things
+Number: 220
+Names: Kaimu
+Topics: cache invalidation, naming
+Geekiness: 1
+Tagline: In which we get two for the price of one.
+Credits: The quote cited by the junior monk is by Phil Karlton.
+Illus.0.src: thesaurus.jpg
+Illus.0.title: Changing the name "cache invalidation" would require that we all unlearn the existing name for the concept -- which is a form of cache invalidation.
+
+A junior monk said to master [[Kaimu]]: One of the
+Patriarchs claimed that there are "only two hard things" in
+our craft.  What are these "two hard things"?
+
+Kaimu answered: You only need to remember that the first
+hard thing is called "cache invalidation".
+
+The junior monk asked: Does that mean that a /whole/ cache
+is made invalid, or just some of its elements?  And why call
+it "invalidation" when the only error is that the data is stale?
+Wouldn't "cache element expiration" be a better name?
+
+Kaimu answered: Now you know the second hard thing.
