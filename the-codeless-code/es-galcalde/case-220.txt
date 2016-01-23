@@ -1,0 +1,14 @@
+Number: 220
+Title: Las Dos Cosas Difíciles
+Lang: es
+Translator: galcalde
+Tagline: En el cual tenemos dos por el precio de uno
+Illus.0.title: Cambiar el nombre "invalidación de cache" requeriría que todos desaprendiéramos el nombre existente para el concepto -- lo cual es una forma de invalidación de cache.
+
+Un monje aprendiz le dijo al maestro [[Kaimu]]: Uno de los Patriarcas declaró que hay "sólo dos cosas difíciles" en nuestro trabajo. ¿Cuales son esas "dos cosas difíciles"?
+
+Kaimu respondió: Sólo necesitas recordar que la primera cosa difícil se llama "invalidación de cache".
+
+El monje aprendiz preguntó: ¿Eso significa que <em>toda</em> la caché es inválida, o sólo alguno de sus elementos? ¿Y por qué llamarlo "invalidación" cuando el único error es que el dato está viejo? ¿No sería "expiración de elemento de cache" un mejor nombre?
+
+Kaimu respondió: Ahora sabes la segunda cosa difícil.
