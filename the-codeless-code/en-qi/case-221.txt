@@ -1,6 +1,7 @@
 Date: 2016-01-25
 Number: 221
 Title: Indigestion
+Part: 1
 Geekiness: 3
 Names: Banzen, Satou
 Topics: Java, HTTP, ETag, message digests, hash codes, collisions, assumptions
@@ -8,7 +9,7 @@ Tagline: In which we are too trusting.
 Illus.0.src: chocolate.jpg
 Illus.0.title: If we took the bones out, it wouldn't be crunchy.
 
-Master [[Banzen]] was reviewing the code of a web
+Java master [[Banzen]] was reviewing the code of a web
 application when he came across a new HTTP filter authored
 by his apprentice [[Satou]].  The old master called her
 to his office.
@@ -34,14 +35,14 @@ it discards the response and answers only:
 
 "Ah," said Banzen, squinting at Satou's code.
 "I notice that you obtain your 'hash of the page’s contents'
-by invoking /hashCode()/ on a byte array that contains those contents.
+by invoking /hashCode()/ on a byte-array that holds those contents.
 Are you certain that this is a good digest value?"
 
 Satou thought a moment.  "The /hashCode()/ method returns a
 four-byte int, so the chances of collision should be about
 four billion to one.  I believe these are acceptable odds."
 
-The master congratulated his apprentice on her reasoning
+The Java master congratulated his apprentice on her reasoning
 and bade her wait a few minutes while he fetched a suitable reward.
 Banzen returned with a box of assorted chocolates.
 
@@ -58,7 +59,7 @@ she was too late to stop herself from swallowing the confection.
 "That... wasn't cherry..." she said, her pale face growing much paler.
 
 "Of course not!" laughed Banzen.
-"&lsquo;Cherry&rsquo; is only the name of the /square/ it was in.
+"‘Cherry’ is only the name of the /square/ it was in.
 The /contents/ of the chocolate are anyone's guess.  Here," he
 said, moving a different chocolate to the vacated square.
 "If you liked that, have another."
