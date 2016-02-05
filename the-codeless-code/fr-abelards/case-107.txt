@@ -4,10 +4,10 @@ Lang: fr
 Translator: abelards
 
 Un étranger maigre et débraillé arriva au Temple une nuit,
-et demanda maître [[Kaimu]].  Le maître fut réveillé et
-amené à la porte, d'où l'étranger lui dit :
+et demanda maître [[Kaimu]]. Le maître fut réveillé et
+amené à la porte, où l'étranger lui dit :
 
-"Des années durant, j'ai erré dans cet pays sans merci,
+"Des années durant, j'ai erré dans ce pays sans merci,
 cherchant le langage de programmation parfait. Nommez
 m'en un, n'importe lequel : je l'ai testé, fut-il rapide ou lent,
 haut ou bas niveau, de l'Ada au Zeno. Mais quels que furent les
@@ -25,11 +25,11 @@ objet sans y être obligé ;
 j'y souhaite un mécanisme de ramasse-miettes, détection des interblocages,
 pouvoir y définir des exceptions sur mesure, redimensionner les tableaux
 de n'importe quel type automatiquement, et des expressions régulières
-pour faire la correspondance sur les chaînes de caractères.
+pour chercher les correspondances sur des chaînes de caractères.
 Je veux la simplicité du BASIC, la pureté du Smalltalk, la concision
 du Haskell, la rapidité du C, la cohérence du Lisp, la lisibilité
 de Python, la flexibilité de Perl, et la portabilité de...
-Java, j'imagine, mais avec des interfaces avec le code native
+Java, j'imagine, mais avec des interfaces avec le code natif
 qui ne soient pas un sac de noeuds."
 
 "Et bien, demain matin nous vous aiderons au mieux de nos compétences,"
@@ -52,13 +52,13 @@ renoncerait à l'un pour ne travailler qu'avec l'autre."
 Aux premières lueurs du soleil, l'étranger revint aux portes du Temple,
 où de nouveau Kaimu et le moine le saluèrent.
 
-"Cherches-tu toujours cette vision de ton coeur ?" demanda Kaimu.
+"Poursuis-tu toujours cette vision qu'a eue ton coeur ?" demanda Kaimu.
 
 "Non !" répliqua l'étranger. "Car dans l'appentis j'ai trouvé
 une dague des plus formidables, pas plus grande que ma main,
 et dont la poignée s'ouvrait pour révéler les choses les plus
-merveilleuses : pinces à épiler, cure-dents, pinces coupantes,
-forets, clés à molette et alésoir et règles et davantage de
+merveilleuses : pince à épiler, cure-dents, pinces coupantes,
+forets, clés à molette et alésoir et règles et plus de
 petites lames que vous ne pouvez en compter !
 En le prenant en main, j'ai compris que ma destinée est de
 fabriquer cette chose que je recherchais -- un langage fait
@@ -67,12 +67,12 @@ de tous les autres outils !"
 
 Et sur ces paroles, l'étranger s'inclina et prit congé.
 
-Le moine se tourna vers Kaimu, dont la mâchoire était quelque
-peu lâche. "Que disent nos annales au sujet de la Leçon Incomprise ?"
+Le moine se tourna vers Kaimu, dont la mâchoire béait.
+"Que disent nos annales au sujet de la Leçon Incomprise ?"
 
 "Que même elle apporte la sagesse," dit le maître, "ne fût-ce
 qu'au malheureux professeur. Sans aucun doute, j'aurais été
-deux fois plus efficaces si j'avais été deux fois moins malin."
+deux fois plus efficace si j'avais été deux fois moins malin."
 
 "Et cet étranger ?" demanda le moine. "Il va très certainement
 échouer dans son entreprise, car ce couteau qu'il estime tant
@@ -83,11 +83,11 @@ dans la confusion."
 
 "Laissons-le essayer, et souhaitons-lui bonne chance !"
 dit Kaimu. "S'il n'y avait pas eu d'autres fous de sa manière,
-nous n'aurions ni Perl ni Python, ni Bourne shell ni Tcl,
+nous n'aurions ni Perl ni Python, ni Bourne Shell ni Tcl,
 et le monde n'en serait que plus pauvre.
 Je regrette juste que vous et moi ne soyons pas de tels fous,
 car en ne tentant jamais l'impossible, nous ne pourrons
 jamais espérer l'atteindre."
 
 Et maître et moine quittèrent les portes, et rentrèrent
-dans le Temple ensemble pour saluer le jour qui venait.
+dans le Temple ensemble pour saluer le jour qui se levait.
