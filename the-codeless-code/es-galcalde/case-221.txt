@@ -1,0 +1,32 @@
+Number: 221
+Title: Indigestion
+Lang: es
+Translator: galcalde
+Tagline: En el cual somos muy confianzudos.
+Illus.0.title: Si le sacáramos los huesos, no sería crocante.
+
+El maestro [[Banzen]] estaba revisando el código de una aplicación web cuando se encontró un nuevo filtro HTTP escrito por su aprendiz [[Satou]]. El viejo maestro la invocó a su oficina.
+
+"Has empezado a incluir un cabezal 'ETag' con cada página que envías," dijo Banzen a la monja. "Explícate, porque no he oído de este cabezal."
+
+"El ETag es un hash de los contenidos de la página," dijo Satou con orgullo, feliz de saber algo que el maestro no sabía. "Lo calculo antes de devolver la página pedida al navegador."
+
+"¿Cuál es su propósito?" preguntó Banzen.
+
+"Un hack de eficiencia," respondió Satou. "Si el navegador pregunta por la misma página después, puede incluir el último ETag con su pedido, efectivamente diciendo: <em>Aún poseo este contenido que me enviaste antes.</em> Si el servidor determina que una nueva respuesta tendría el mismo ETag, descarta la respuesta y sólo responde: <em>Nada ha cambiado."</em>
+
+"Ah," dijo Banzen, mirando de reojo el código de Satou. "Me doy cuenta que obtienes tu 'hash de los contenidos de la página' invocando <em>hashCode()</em> en un array de bytes que contiene esos contenidos. ¿Estás segura que es un buen valor de resumen?"
+
+Satou lo pensó por un momento. "El método <em>hashCode()</em> retorna un entero de cuatro bytes, así que las probabilidades de colisión deberían ser de cuatro mil millones a una. Creo que son probabilidades aceptables."
+
+El maestro felicitó a su aprendiz en su razonamiento y le pidió que esperara unos minutos mientras traía una recompensa apropiada. Banzen volvió con una caja de chocolates surtidos.
+
+"Elige uno," dijo él.
+
+Los chocolates eran indistinguibles, pero estaban colocados en filas y columnas prolijas con una leyenda en la tapa de la caja. Satou encontró un cuadrado con la etiqueta <em>Cereza</em> y colocó el chocolate correspondiente en su boca.
+
+Su expresión cambió de deleite a confusión a horror, pero era muy tarde para que dejara de tragar la golosina.
+
+"Eso... no era cereza..." dijo ella, su cara pálida se empalideció más.
+
+"¡Claro que no!" rió Banzen. "&lsquo;Cereza&rsquo; es sólo el nombre del <em>cuadrado</em> en el que estaba. Los <em>contenidos</em> del chocolate no lo sabe nadie. Aquí," dijo, moviendo otro chocolate al cuadrado vacante. "Si te gustó, ten otro."
