@@ -2,7 +2,7 @@ Date: 2016-01-10
 Title: Nothing Really Matters
 Number: 219
 Names: Wangohan
-Topics: java, annotations, error handling, fail-fast, code reviews, transactions, frameworks
+Topics: Java, annotations, error handling, fail-fast, code reviews, transactions, frameworks
 Geekiness: 3
 Tagline: In which nothing is wrong.
 
