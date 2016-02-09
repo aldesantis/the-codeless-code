@@ -1,0 +1,29 @@
+Number: 222
+Title: Suplente
+Lang: es
+Translator: galcalde
+Illus.0.title: Ella no sabe cual será su castigo, pero está bien segura que *no* le dará "dos pulgares arriba".
+
+Después de que la monja [[Satou]] había [[#221|corregido su código,]] ella volvió con el maestro Java [[Banzen]] y le pidió que lo revisara.
+
+"Entonces," dijo Banzen, mirando de reojo la última revisión. "<em>Ahora</em> obtienes tu 'hash de los contenidos de la página' tomando el arreglo de bytes que contiene los contenidos y enviándolo a <em>Arrays.hashCode()</em>."
+
+"¿Eso no funcionará?" preguntó Satou nerviósamente.
+
+"Funcionará correctamente en esta circunstancia," dijo Banzen. "Pero si tu 'hash de los contenidos de la página' tiene la intención de ser un resumen, entonces deberías usar una utilidad que <em>calcule</em> un resumen."
+
+"Pero si mi código funciona adecuadamente, y hace uso de lo que tengo a mano, ¿cuál es la ventaja de dicho cambio?" preguntó Satou.
+
+El maestro miró con furia. "Párate en aquella esquina, con los codos a tus costados y tus pulgares arriba," dijo Banzen. "¡Y quédate así hasta que te ilumines!"
+
+Satou tristemente se quedó en la esquina como le fue dicho. El maestro escribió algo en su teléfono, luego se sentó en su silla y se quedó en silencio también.
+
+Segundos después, un guardia del templo que estuvo haciendo vigilancia durante horas en la nieve entró en la oficina de Banzen, su cuchillo estaba preparado y sus lentes se empañaron por el repentino cambio de temperatura.
+
+"¡Perdone mi citación, viejo amigo!" dijo el maestro "No hay emergencia. Por favor, póngase cómodo y le explicaré."
+
+El guardia se quitó su manto de piel y lo colocó sobre la cabeza de Satou. Cuando él escuchó su grito ahogado saltó hacia atrás con el cuchillo levantado.
+
+"¡Ese no es su perchero normal!" exclamó el guardia.
+
+"No," dijo Banzen, "Pero funciona adecuadamente, y hace uso de lo que tenía a mano."
