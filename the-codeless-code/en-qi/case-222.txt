@@ -12,14 +12,14 @@ she returned to Java master [[Banzen]] and asked that he
 review it.
 
 "So," said Banzen, squinting at the latest revision.
-"You /now/ obtain your 'hash of the page’s contents'
+"You /now/ obtain your 'hash of the pages contents'
 by taking the byte-array that holds those contents
 and sending it into /Arrays.hashCode()/."
 
 "Will that not work?" asked Satou nervously.
 
 "It will function adequately in this circumstance," said
-Banzen.  "But if your 'hash of the page’s contents' is meant
+Banzen.  "However, if your 'hash of the page contents' is meant
 to be a digest, then you should use a utility that
 /calculates/ a digest."
 

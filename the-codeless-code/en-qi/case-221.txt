@@ -18,7 +18,7 @@ to his office.
 you send," said Banzen to the nun.  "Explain, for I have
 not heard of this header."
 
-"The ETag is a hash of the page's contents,"
+"The ETag is a hash of the page contents,"
 said Satou with pride, glad to know something her master did not.
 "I calculate it just before I return the requested page to the browser."
 
@@ -34,9 +34,10 @@ it discards the response and answers only:
 /Nothing has changed."/
 
 "Ah," said Banzen, squinting at Satou's code.
-"I notice that you obtain your 'hash of the page’s contents'
-by invoking /hashCode()/ on a byte-array that holds those contents.
-Are you certain that this is a good digest value?"
+"I notice that you obtain your 'hash of the page contents'
+by loading them into a byte-array called /contents/
+and then invoking /contents.hashCode()/.
+Are you certain that this will be a good digest value?"
 
 Satou thought a moment.  "The /hashCode()/ method returns a
 four-byte int, so the chances of collision should be about
