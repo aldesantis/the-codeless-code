@@ -1,0 +1,53 @@
+Date: 2016-02-15
+Number: 223
+Title: Hidden Costs
+Geekiness: 1
+Names: Banzen, Satou
+Topics: principle of least astonishment, POLA, efficiency, learning curve
+Illus.0.src: coat-stand.jpg
+Illus.0.title: You know, IKEA sells a pretty nice coat stand which doesn't require food or bathroom breaks.
+
+As punishment for
+[[#222|implementing an unusual solution to a problem]],
+the nun [[Satou]] had been ordered by master [[Banzen]]
+to pose motionless in the entryway of his office
+each day, pretending to be a coat stand.
+
+Each new visitor that entered would invariably look about
+with puzzlement and ask what should be done with their coat.
+The master would then point wordlessly to Satou.
+Eventually the visitor would comprehend.
+
+When one hundred visitors had come and gone, Banzen asked his
+apprentice whether she had served his guests well.
+
+Satou replied, "Not one coat lay crumpled on the floor,
+dampened a chair, or burdened its owner."
+
+Banzen shook his head and ordered the nun to continue
+her services.
+
+When another hundred visitors had come and gone, Banzen again
+asked his apprentice whether she had served his guests well.
+
+Satou replied, "I stole from each."
+
+Banzen raised an eyebrow and asked, "What did you steal?"
+
+"Alas!" cried Satou. "Now I have stolen from you as well!"
+
+Banzen smiled and released the nun from her duties.
+
+
+== Qi's commentary
+
+Until this tale makes sense, I have stolen from you as well. //
+Alas, I know no better way to keep you from a life of crime.
+
+
+== Qi's poem
+
+Satou built a clock that lost a minute a day. //
+She hung it where forty million monks could see. //
+The next day she was sentenced to beheading -- //
+The nun could not deny that she had stolen a life.
