@@ -6,6 +6,7 @@ Names: Banzen, Satou
 Topics: principle of least astonishment, POLA, efficiency, learning curve
 Illus.0.src: coat-stand.jpg
 Illus.0.title: You know, IKEA sells a pretty nice coat stand which doesn't require food or bathroom breaks.
+Tagline: In which the management assumes some responsibility for your loss.
 
 As punishment for
 [[#222|implementing an unusual solution to a problem]],
