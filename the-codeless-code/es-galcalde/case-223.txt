@@ -3,6 +3,7 @@ Title: Costos Ocultos
 Lang: es
 Translator: galcalde
 Illus.0.title: Saben, IKEA vende un buen perchero que no necesita comida ni ir al baño.
+Tagline: En el cual la administración asume algo de responsabilidad por tus pérdidas.
 
 Como castigo por [[#222|implementar una solución inusual a un problema]], la monja [[Satou]] fue ordenada por el maestro [[Banzen]] a posar sin moverse en la entrada de su oficina todos los días, pretendiendo ser un perchero.
 
