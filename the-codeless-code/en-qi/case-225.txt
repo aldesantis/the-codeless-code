@@ -1,0 +1,47 @@
+Date: 2016-03-06
+Number: 225
+Title: The Three Most Terrifying Words
+Geekiness: 2
+Names: Hwídah
+Topics: production support, race conditions, challenges, unknowns
+Tagline: In which we are possibly in trouble.
+
+The nun [[Hwídah]] was eating lunch with her clan when a
+senior monk approached, seeking her aid with a production issue.
+Not wishing to disturb the others, the senior monk bent down
+to whisper in Hwídah's ear.
+
+"Ah," said Hwídah, rising from the table.
+"The three most terrifying words."
+Immediately she departed with the senior monk.
+
+A novice who witnessed this exchange happened upon
+the senior monk that evening.  The novice asked,
+"What were those 'three most terrifying words'?"
+
+The senior monk replied, "Possible race condition."
+
+The novice thought a moment and said brightly,
+"Tell Hwídah that those /cannot/ be
+the 'three most terrifying words',
+for the words <i>'Definite</i> race condition'
+would be even /more/ terrifying!"
+
+The senior monk laughed and continued on his way.
+
+- - -
+
+That night the novice fell into long, terrible nightmares
+from which he was unable to wake.  After what seemed like an
+eternity he came to his senses, twisted up inside his own
+bedsheets.
+
+Tossing off the mangled covers, the novice found himself
+alone in the middle of a featureless desert.
+An empty sedative bottle lay on the sand nearby.
+Tied to it was a tightly-folded map of the whole world:
+all its continents and its mountains and its many, many deserts.
+
+Inside one desert was a tiny red dot, pointed to by a tiny
+red arrow, next to which was some tiny red text in Hwídah's
+handwriting which read, <i>"Possibly</i> your location".
