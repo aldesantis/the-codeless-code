@@ -1,0 +1,75 @@
+Date: 2016-02-21
+Number: 224
+Title: Unsupported Accusations
+Geekiness: 0
+Names: Hwídah
+Topics: production support, warnings, anomalies
+Tagline: In which we succeed in getting to the bottom of things.
+Credits: Many thanks to Larry Niven, whose 'Flatlander' taught me these most valuable seven words.
+
+While passing by the temple's Support Desk, the nun
+[[Hwídah]] heard of strange behavior in a certain
+application.  Since she had been appointed by master
+[[Banzen]] to assist with production issues, the nun
+dutifully described the symptoms to the application's senior
+monk:
+
+"Occasionally a user will return to a record they had
+previously edited, only to discover that some information is
+missing," said Hwídah.  "The behavior is not repeatable, and
+the users confess that they /may/ be imagining things."
+
+"I have heard these reports," said the senior monk.  "There is
+no bug in the code that I can see, nor can we reproduce the
+problem in a lower environment."
+
+"Still, it may be prudent to investigate further," said the
+nun.
+
+The monk sighed.  "We are all exceedingly busy.  Only a few
+users have reported this issue, and even /they/ doubt
+themselves.  So far, all are content to simply re-enter the
+'missing' information and continue about their business.
+Can you offer me one shred of evidence that this is anything
+more than user error?"
+
+The nun shook her head, bowed, and departed.
+
+- - -
+
+That night, the senior monk was awoken from his sleep by a
+squeaking under his bed, of the sort a mouse might make.
+This sound continued throughout the night -- sometimes in
+one place, sometimes another, presumably as the intruder
+wandered about in search of food.  A sandal flung in the
+direction of the sound resulted in immediate quiet, but
+eventually the squeaking would begin again in a different
+part of the room.
+
+"This is doubtless some lesson that the meddlesome Hwídah
+wishes to teach me," he complained to his fellows the next
+day, dark circles under his eyes.  "Yet I will /not/ be
+bullied into chasing nonexistent bugs.  If the nun is so
+annoyed by the squeaking of our users, let /her/ deal with
+it!"
+
+The monk set mousetraps in the corners and equipped himself
+with a pair of earplugs.  Thus he passed the next night, and
+the night after, though his sleep was less restful than he
+would have liked.
+
+On the seventh night, the exhausted monk turned off the
+light and fell hard upon his bed.  There was a loud CRACK
+and the monk found himself tumbling through space.  With a
+CRASH he bounced off his mattress and rolled onto a cold
+stone floor.  His bed had, apparently, fallen through the
+floor into the basement.
+
+Perched high on a ladder -- just outside the gaping hole in
+the basement's wooden ceiling -- was the nun Hwídah, her
+face lit only by a single candle hanging nearby.  She
+descended and dropped an old brace-and-bit hand drill into
+the monk's lap.  Then she crouched down next to his ear.
+
+"If you don't understand it, it's dangerous," whispered the
+nun.

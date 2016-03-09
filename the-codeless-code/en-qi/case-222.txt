@@ -1,0 +1,54 @@
+Date: 2016-01-31
+Number: 222
+Title: Stand-In
+Geekiness: 2
+Names: Banzen, Satou
+Topics: Java, principle of least astonishment, POLA, message digests, hash codes
+Illus.0.title: She doesn't know what her punishment will be, but she's fairly certain that she will *not* be giving it "two thumbs up".
+Illus.0.src: thumbs-up.jpg
+
+After the nun [[Satou]] had [[#221|corrected her code,]]
+she returned to Java master [[Banzen]] and asked that he
+review it.
+
+"So," said Banzen, squinting at the latest revision.
+"You /now/ obtain your 'hash of the pages contents'
+by taking the byte-array that holds those contents
+and sending it into /Arrays.hashCode()/."
+
+"Will that not work?" asked Satou nervously.
+
+"It will function adequately in this circumstance," said
+Banzen.  "However, if your 'hash of the page contents' is meant
+to be a digest, then you should use a utility that
+/calculates/ a digest."
+
+"But if my code functions adequately, and makes use of what
+I have on hand, then what is the advantage of such a
+change?" asked Satou.
+
+The master glared.  "Stand in that corner, with your elbows
+at your sides and your thumbs up," said Banzen.
+"And remain quiet until you are enlightened!"
+
+Satou glumly stood in the corner as she was told.  The
+master typed something into his phone, then sat back in his
+chair and fell silent as well.
+
+Seconds later, a temple guard who had been standing watch
+for hours in the snow burst into Banzen's offices, his knife
+at the ready and his spectacles fogged from the sudden
+change in temperature.
+
+"Forgive my summons, old friend!" said the master "There is
+no emergency.  Please, make yourself comfortable and I will
+explain."
+
+The guard removed his fur cloak and draped it on Satou's head.
+When he heard her muffled cry he jumped backwards with a start,
+knife raised.
+
+"That is not your usual coat stand!" exclaimed the guard.
+
+"No," said Banzen,  "But it functions adequately,
+and makes use of what I had on hand."

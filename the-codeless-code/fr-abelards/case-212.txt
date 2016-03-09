@@ -1,0 +1,68 @@
+Lang: fr
+Translator: abelards
+Title: Saisons
+Number: 212
+Tagline: Dans lequel on tourne une nouvelle feuille.
+Illus.0.title: Probablement tombée d'un arbre rouge-noir.
+
+Les équipes de développement menées par l'abbé [[Ruh Cheen]] du
+[[Spider Clan|Clan de l'Araignée]] étaient satisfaites de la
+décision de l'abbé [[#210|d'éliminer tous les documents de conception]].
+Car moins de temps à écrire, c'était plus de temps à coder,
+qui était leur principal plaisir. Et puisque le Temple avait
+bâti ses équipes avec des développeurs des trois clans majeurs,
+la nouvelle se répandit très vite aux clans
+[[Elephant's Footprint Clan|des empreintes de l'Éléphant]] et
+[[Laughing Monkey Clan|du Singe Rieur]], dont les moines
+se mirent à demander à leurs propres abbés de suivre l'exemple
+de Ruh Cheen.
+
+Tandis que les flots de documentation se réduisaient pour ne
+lui parvenir qu'en goutte-à-goutte, une voix restait étrangement
+silencieuse : celle du vieux scribe [[Qi]], responsable de
+cataloguer toute la connaissance du Temple -- principalement
+la conception de ses nombreux systèmes.
+Un jeune moine demanda au scribe, "Pourquoi n'avez-vous pas
+levé d'objections envers cette nouvelle pratique ? Elle semble
+vouée à vous rendre obsolète."
+
+Le scribe répondit, "Je ne réprimande pas le soleil quand
+il se lève tard en automne."
+
+Le moine rapporta à ses camarades que le scribe s'était
+simplement rendu à l'évidence de son inévitable destin.
+Mais un vieux moine avait des soupçons.
+
+"Répète-moi ses mots exacts," dit le vieux moine.
+
+Et lorsque le jeune s'exécuta, son aîné rit et partit voir le scribe.
+
+- - -
+
+"Alors," dit le moine à Qi, "notre scribe n'est pas contre
+des jours plus courts. Est-ce parce qu'il aime les pommes
+fraîches et les feuilles d'or ? Ou est-il simplement fatigué
+des après-midis chauds ?"
+
+"Que celui qui rêve d'étés sans fin passe un an dans le désert,"
+répondit le scribe.
+
+"Et que celui qui aime l'automne passe une journée parmi les
+oiseaux et les bêtes," dit le vieux moine, "car elles savent
+que les jours froids arrivent. Quel est votre plan pour
+l'hiver de vos jours, quand vos services ne seront plus
+nécessaires ? La migration ? L'hibernation ?"
+
+"L'innovation," dit le scribe. "Et si je ne peux rien inventer,
+je me réinventerai moi-même. Laissons les mathématiciens parler
+de /pi/ et /e/ et /i/ et /phi/. La seule constante qui compte
+est /delta-t/, l'Inconstante Constante, dont personne ne connaît
+la valeur, mais dont on sait qu'elle est toujours au-delà de zéro."
+
+"Mais si vous restez ici, vous devrez voir la mort de tout ce
+que vous avez créé," observa le vieux moine.
+
+Le vieux scribe retira ses lorgnons pour les polir.
+"Quand la dernière feuille sera tombée, demandez à
+[[#181|Shinpuru le jardinier]] pourquoi il ne brûle pas
+son râteau pour avoir un peu plus chaud."

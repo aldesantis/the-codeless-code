@@ -1,0 +1,45 @@
+Lang: fr
+Translator: abelards
+Title: FAQ
+Number: 215
+Tagline: Dans laquelle nous n'arrivons pas à obtenir une réponse simple.
+
+Un moine du [[Laughing Monkey Clan|Clan du Singe Rieur]]
+avait créé un ensemble d'outils utiles et flexibles pour
+répondre à un besoin métier courant.
+Il en démontra les vertus aux maîtres du Temple, et eut
+rapidement le plaisir de voir que ce toolkit avait été
+choisi pour devenir la solution recommandée pour toutes
+les applications du Temple. Mais le moine découvrit
+tout aussi vite que la popularité avait ses périls.
+
+"La situation est au-delà de la frustration," dit le moine
+à ses camarades. "J'ai mis une douzaine de programmes
+d'exemple, mis une FAQ sur pied, créé un jeu de diapositives
+d'introduction, écrit un /long/ tutorial en ligne,
+/méticuleusement/ commenté le code source, et je me suis
+assuré que la documentation de l'API soit intégrée dans l'IDE
+des développeurs. Pourquoi donc suis-je harcelé jour et nuit
+avec les questions les plus basiques ?"
+
+Le vieux scribe [[Qi]] entendit cela.
+Plus tard dans la journé, il vint dans les quartiers du moine,
+ses bras débordant de livres, feuilles volantes, et rouleaux
+de toutes tailles. Il jeta tout ceci sur le bureau du moine.
+
+"Pendant de nombreuses années, j'ai travaillé en tant que
+développeur et j'avais les mêmes complaintes que toi,"
+dit le scribe, rattrapant un rouleau qui allait tomber par terre.
+"C'est ainsi que j'ai consacré mon esprit à découvrir comment
+créer le Document Parfait : quelque chose qui guiderait
+instantanément mes utilisateurs vers la réponse adéquate
+à la moindre de leurs questions.
+Pour cela, j'ai assemblé toute la sagesse disponible sur le
+sujet, que je partage maintenant avec toi."
+
+Le moine regarda la pile qui encombrait son bureau.
+"Je n'ai pas le temps de parcourir tout cela.
+Ne pouvez-vous pas me dire ce dont j'ai le plus besoin ?"
+
+"Excellent !" dit le scribe.
+"Tu as déjà fait la moitié du travail."

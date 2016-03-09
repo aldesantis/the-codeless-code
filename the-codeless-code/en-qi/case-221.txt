@@ -1,0 +1,66 @@
+Date: 2016-01-25
+Number: 221
+Title: Indigestion
+Part: 1
+Geekiness: 3
+Names: Banzen, Satou
+Topics: Java, HTTP, ETag, message digests, hash codes, collisions, assumptions
+Tagline: In which we are too trusting.
+Illus.0.src: chocolate.jpg
+Illus.0.title: If we took the bones out, it wouldn't be crunchy.
+
+Java master [[Banzen]] was reviewing the code of a web
+application when he came across a new HTTP filter authored
+by his apprentice [[Satou]].  The old master called her
+to his office.
+
+"You have begun including an 'ETag' header with each page
+you send," said Banzen to the nun.  "Explain, for I have
+not heard of this header."
+
+"The ETag is a hash of the page contents,"
+said Satou with pride, glad to know something her master did not.
+"I calculate it just before I return the requested page to the browser."
+
+"What is its purpose?" asked Banzen.
+
+"An efficiency hack," replied Satou.
+"If the browser asks for that same page later,
+it can include the last ETag with its request,
+effectively saying:
+/I still possess this content that you sent me earlier./
+If the server then determines that a new response would have the same ETag,
+it discards the response and answers only:
+/Nothing has changed."/
+
+"Ah," said Banzen, squinting at Satou's code.
+"I notice that you obtain your 'hash of the page contents'
+by loading them into a byte-array called /contents/
+and then invoking /contents.hashCode()/.
+Are you certain that this will be a good digest value?"
+
+Satou thought a moment.  "The /hashCode()/ method returns a
+four-byte int, so the chances of collision should be about
+four billion to one.  I believe these are acceptable odds."
+
+The Java master congratulated his apprentice on her reasoning
+and bade her wait a few minutes while he fetched a suitable reward.
+Banzen returned with a box of assorted chocolates.
+
+"Take one," he said.
+
+The chocolates were indistinguishable, but they were laid out in neat
+rows and columns with a legend on the lid of the box.  Satou found
+a square labeled /Cherry/ and popped the corresponding
+chocolate in her mouth.
+
+Her expression changed from delight to confusion to horror, but
+she was too late to stop herself from swallowing the confection.
+
+"That... wasn't cherry..." she said, her pale face growing much paler.
+
+"Of course not!" laughed Banzen.
+"‘Cherry’ is only the name of the /square/ it was in.
+The /contents/ of the chocolate are anyone's guess.  Here," he
+said, moving a different chocolate to the vacated square.
+"If you liked that, have another."

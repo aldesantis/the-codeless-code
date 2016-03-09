@@ -1,0 +1,67 @@
+Date: 2016-01-02
+Title: The Terminal Retrospectives
+Subtitle: or, After the Deployment
+Number: 218
+Names: Yíwen
+Topics: nonsense
+Geekiness: 2
+Tagline: In which we explain why there are twenty-six vacancies.
+
+<i>As most of the Temple is away for the mid-winter
+holidays, there has been little news to report.  But since
+some of you have expressed interest in the doings of our
+peers in the exotic Far West, I recruited the nun [[Yíwen]]
+to prepare an edifying monograph on that subject.</i>
+
+<i>I asked her to describe the conditions under which a
+developer in those strange lands might be judged as
+unsatisfactory.  Sadly, I see that -- yet again -- she has
+answered my earnest request with amphigory.  My most solemn
+apologies. -- Qi.</i>
+
+- - -
+
+
+A is for Agnes whose App must be killed //
+B is for Boris who's Broken the build //
+C is for Caitlin who Comments out code //
+D is for Derrick whose Data won't load
+
+E is for Egbert who swallows Exceptions //
+F is for Fay who won't Follow directions //
+G is for Garth who can't Grasp the essentials //
+H is for Hal who Hardcoded credentials
+
+I is for Ives who Indenting disables //
+J is for Jacob who Joins twenty tables //
+K is for Kathryn whose Kludge was all wrong //
+L is for Leda whose Lines are too long
+
+M is for Max using Memory excessive //
+N is for Nan choosing Names inexpressive //
+O is for Otto, Objecting to rules //
+P is for Petra who didn't use Pools
+
+Q is for Quincy whose Queries look grim //
+R is for Rex who Refactors at whim //
+S is for Sidney, stores numbers in Strings //
+T is for Tilton, to Triggers he clings
+
+U is for Ulmer who hates Unit testing //
+V is for Vin and his Very deep nesting //
+W is for Wade who logs Warnings most dire //
+X is for Xander whose cache won't eXpire
+
+Y is for Yancy who Yells when he's chided, and //
+Z is for Zeb who by Zero divided.
+
+
+
+== Editor's note
+
+The text was inspired by Edward Gorey's
+<i>The Gashlycrumb Tinies (or, After the Outing).</i>
+
+I'm very pleased to be working with
+<a href="http://scamperingkaos.tumblr.com/">Scamperingkaos</a>
+on a fully-illustrated version of this poem.

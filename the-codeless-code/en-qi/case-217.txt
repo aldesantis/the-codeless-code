@@ -44,7 +44,7 @@ animals in the /wish-lists/ of the user's friends,
 and so on.
 In each case, the validations done, the tables queried,
 the columns returned, and the information displayed are completely different.
-The results table is an incoherent mess."
+The result is an incoherent mess."
 
 "Indeed," agreed the head monk. "The code has grown so
 convoluted that none of us will touch it sober, and so

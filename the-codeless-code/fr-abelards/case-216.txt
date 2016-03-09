@@ -1,0 +1,49 @@
+Lang: fr
+Translator: abelards
+Title: Proxy
+Number: 216
+Tagline: Dans lequel on ne nous ennuie pas.
+
+[[#215|Le même moine]] continuait à fournir son assistance
+aux utilisateurs du toolkit dont il était l'auteur.
+Mais après une autre semaine improductive passée à
+répondre à leurs questions, finit par atteindre le bout
+de sa patience, et se plaint de nouveau auprès de ses
+camarades.
+
+"Peut-être que [[Landhwa]] du [[Spider Clan|Clan de l'Araignée]]
+peut t'aider," suggéra l'un d'entre eux.
+"Son talent pour éviter tout travail fastidieux est
+légendaire à travers le Temple ; car bien qu'il y ait eu
+des moines plus paresseux que lui, aucun n'avait réussi
+à garder la tête sur ses épaules."
+
+Alors le moine envoya un message à Landhwa, décrivit son
+problème, et lui demanda conseil.
+
+Une heure plus tard, le moine reçut une réponse sur son écran :
+
+<em>De tous les utilisateurs de ton toolkit,</em> commençait-il,
+<em>qui est le plus têtu et fier de son propre intellect ?
+Qui préfèrerait prendre des centaines de coups plutôt que
+d'admettre une seule faille dans sa connaissance de n'importe
+quel sujet ?</em>
+
+Le moine réfléchit un moment, puis tapa <em>Kew Niao, certainement.</em>
+
+<em>Très bien,</em> fut la réponse.
+<em>Chaque fois que tu reçois une question indésirable,
+dis que tu n'es pas disponible en ce moment, et demande
+à l'envoyeur de consulter Kew Niao.</em>
+
+Le moine sourcilla.
+<em>Même cela, je vais encore le trouver pénible,</em> tapa-t-il.
+
+<em>Dans ce cas,</em> fit la réponse, <em>configure ton email
+de manière à ce que les questions avec certains mots-clés soient
+silencieusement transférées à Kew Niao, ni vu ni connu !</em>
+
+<em>Excellent !</em> tapa le moine. <em>Comment on fait ?</em>
+
+<em>Désolé, je dois avouer que je ne sais pas,</em> fut la réponse.
+<em>Mais je suis absolument CERTAIN que LANDHWA sait.</em>

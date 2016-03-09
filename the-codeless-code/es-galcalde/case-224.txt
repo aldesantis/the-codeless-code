@@ -1,0 +1,31 @@
+Number: 224
+Title: Acusaciones No Soportadas
+Lang: es
+Translator: galcalde
+Tagline: En el cual tenemos éxito en llegar al fondo de las cosas.
+
+Mientras pasaba por la Mesa de Soporte del templo, la monja [[Hwídah]] oyo de un extraño comportamiento en una cierta aplicación. Como ella fue asignada por el maestro [[Banzen]] para socorrer con los problemas de producción, la monja obedientemente describió los síntomas al monje superior de la aplicación:
+
+"Ocasionalmente un usuario volverá a un registro que habían previamente editado, sólo para descubrir que alguna información falta," dijo Hwídah.  "El comportamiento no es repetible, y los usuarios confiesan que <em>pueden</em> estar imaginando cosas."
+
+"He oído de esos reportes," dijo el monje superior. "No hay bug en el código que pueda ver, ni podemos reproducir el problema en un entorno más bajo."
+
+"Sin embargo, puede ser prudente investigar más a fondo," dijo la monja.
+
+El monje suspiró. "Estamos sumamente ocupados. Sólo unos pocos usuarios reportaron este problema, e incluso <em>ellos</em> dudan de sí mismos. Hasta ahora, todos están contentos de simplemente reingresar la información 'perdida' y seguir con sus asuntos. ¿Puedes ofrecerme un trozo de evidencia de que esto es algo más que un error de usuario?"
+
+La monja sacudió su cabeza, se inclinó, y se fue.
+
+- - -
+
+Aquella noche, el monje superior fue despertado de su siesta por un chirrido bajo su cama, como el que un ratón podría hacer. Este sonido continuó toda la noche -- a veces en un lugar, a veces en otro, presuntamente como el intruso deambulaba buscando comida. Una sandalia voló en la dirección del sonido resultando en quietud inmediata, pero finalmente el chirrido empezaría de nuevo en otra parte del cuarto.
+
+"Sin dudas es alguna lección que la entrometida de Hwídah desea enseñarme," se quejó ante sus compañeros al día siguiente, con ojeras. "Sin embargo <em>no</em> me intimidarán a perseguir bugs que no existen. ¡Si la monja está tan molesta por el chirrido de nuestros usuarios, dejemos que <em>ella</em> lidie con eso!"
+
+El monje colocó trampas para ratones en las esquinas y se equipó con un par de tapones para los oídos. Así pasó la noche siguiente, y la noche después, aunque su siesta fue menos relajada que lo que hubiera querido.
+
+A la séptima noche, el monje exhausto apagó al luz y se tumbó en la cama. Hubo un fuerte CRACK y el monje se halló rodando en el espacio. Con un CRASH rebotó en su colchón y rodó hacia un piso frío de piedra. Su cama se había, aparentemente, caído através del piso hacia el sótano.
+
+Sentada en una escalera -- fuera del agujero enorme en el techo de madera del sótano -- estaba la monja Hwídah, su cara iluminada sólo por una vela cercana. Ella bajó y soltó una vieja barrena en el regazo del monje. Entonces ella se agachó junto a su oreja.
+
+"Si no la entiendes, es peligrosa," susurró la monja.
