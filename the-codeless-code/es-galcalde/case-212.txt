@@ -15,7 +15,7 @@ El monje reportó a sus compañeros que el escriba simplemente se había rendido
 
 "Dime sus palabras exactamente," dijo el monje superior.
 
-Cuando el monje aprendiz lo hizo, el monje superior rió y fue a ver al escriba.
+Cuando el monje aprendiz lo hizo, el monje superior rio y fue a ver al escriba.
 
 - - -
 
@@ -23,10 +23,11 @@ Cuando el monje aprendiz lo hizo, el monje superior rió y fue a ver al escriba.
 
 "Deja que el que sueñe con un verano eterno pase un año en el desierto," respondió el escriba.
 
-"Y deja que el que le guste el otoño pase un día entre pájaros y bestias," dijo el monje superior, "porque ellos saben que se vienen días más fríos. ¿Cual es tu plan para el invierno de tus días, cuando tus servicios no sean más necesitados? ¿Emigrar? ¿Hibernar?"
+"Y deja que el que le guste el otoño pase un día entre pájaros y bestias," dijo el monje superior, "porque ellos saben que se vienen días más fríos. ¿Cuál es tu plan para el invierno de tus días, cuando tus servicios no sean más necesitados? ¿Emigrar? ¿Hibernar?"
 
-"Innovar," dijo el escriba. "Y si no puedo inventar nada, debo reinventarme a mi mismo. Deja que los matemáticos hablen del <em>pi</em> y el <em>e</em> y el <em>i</em> y el <em>phi</em>. La única constante de consecuencia es <em>delta-t</em>, la Constante Inconstante, cuyo valor nadie conoce, excepto de que siempre es mayor que cero."
+"Innovar," dijo el escriba. "Y si no puedo inventar nada, debo reinventarme a mí mismo. Deja que los matemáticos hablen del <em>pi</em> y el <em>e</em> y el <em>i</em> y el <em>phi</em>. La única constante de consecuencia es <em>delta-t</em>, la Constante Inconstante, cuyo valor nadie conoce, excepto de que siempre es mayor que cero."
 
 "Sin embargo si te quedas aquí, debes contemplar la muerte de lo que has creado," observó el monje superior.
 
 El viejo escriba se quitó sus lentes para pulirlos. "Cuando la última hoja haya caído, pregúntale a [[#181|Shinpuru el jardinero]] por qué no quema su rastrillo para calentarse."
+
