@@ -4,7 +4,7 @@ Lang: es
 Translator: galcalde
 Tagline: En el cual nada está mal
 
-El templo usaba un framework de inyección de dependencias y manejo transaccional popular, sin embargo siempre habían monjes aprendices que necesitaban ser educados en sus maneras. A un monje aprendiz se le asignó crear una interfaz de servicios y su clase de implementación. El monje avanzado [[Wangohan]] estaba revisando su código.
+El templo usaba un framework de inyección de dependencias y manejo transaccional popular, sin embargo siempre había monjes aprendices que necesitaban ser educados en sus maneras. A un monje aprendiz se le asignó crear una interfaz de servicios y su clase de implementación. El monje avanzado [[Wangohan]] estaba revisando su código.
 
 "¡Has colocado una anotación <em>@Transactional</em> en un método privado!" gritó Wangohan. "¡Eso no hará nada! ¡El framework sólo busca esas anotaciones en las implementaciones de los métodos en la <em>interfaz pública</em>!"
 
