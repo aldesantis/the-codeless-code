@@ -4,15 +4,15 @@ Lang: es
 Translator: galcalde
 Tagline: En el cual hacemos brotar una fuga.
 
-Una tarde de otoño, el maestro Java [[Bawan]] oyó que el monje [[Landhwa]] estaba luchando con un programa inambiguo de extracción de datos. Intrigado, Bawan visitó al monje, quien estaba encorvándose bajo en su silla.
+Una tarde de otoño, el maestro Java [[Bawan]] oyó que el monje [[Landhwa]] estaba luchando con un programa claro de extracción de datos. Intrigado, Bawan visitó al monje, quien estaba encorvándose bajo en su silla.
 
 "Al programa se le acaba la memoria," bostezó Landhwa, quien no tenía paciencia para esas investigaciones. "Es cierto, procesa muchos archivos grandes, pero lo hace uno a la vez, y retiene sólo el recorte más pequeño de cada uno."
 
 "Muéstrame," dijo Bawan.
 
-El monje suspiró, señalando la pantalla. "Para procesar un archivo, yo leo sus lineas en una lista de strings. Ahí busco la sección de interés: unas pocas lineas como mucho. La extraigo via subList, y la almaceno en este static Map. El código no podría ser más simple."
+El monje suspiró, señalando la pantalla. "Para procesar un archivo, yo leo sus líneas en una lista de strings. Ahí busco la sección de interés: unas pocas líneas como mucho. La extraigo vía subList, y la almaceno en este static Map. El código no podría ser más simple."
 
-Bawan asintió. "Encuéntrame a la medianoche en el muelle del río, en la aldea," el dijo. "Sé quien puede ayudarnos, y el viaje no es muy largo."
+Bawan asintió. "Encuéntrame a la medianoche en el muelle del río, en la aldea," él dijo. "Sé quién puede ayudarnos, y el viaje no es muy largo."
 
 Aquella noche Landhwa bajó con una linterna hacia las nubladas orillas. Avistando una luz titilante en el agua, fue por la costanera pasando docenas de embarcaciones pequeñas hasta hallar al pequeño maestro Bawan sentado en el último bote al final del muelle. El maestro hizo un gesto hacia los remos.
 
