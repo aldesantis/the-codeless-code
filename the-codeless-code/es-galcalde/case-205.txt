@@ -4,7 +4,7 @@ Lang: es
 Translator: galcalde
 Illus.0.title: "Felicitaciones por la compra del Sistema de Entrega de Iluminación Extrema 7000-XE de Laboratorios Letal. Su construcción resistente y segura debería proveerle muchos minutos de disfrute contemplativo."
 
-La maestra [[Suku]] y sus aprendices han elegido terminar el verano en un valle bajo una gran cordillera, llevando a cabo revisiones de código en un templo menor. Esto sintieron que sería un trabajo relajado, que los revigorizaba para la larga subida frente a ellos. Sin embargo los monjes de aquel templo eran exasperantemente negligentes. Mientras los días menguaban, tambinén menguaba la paciencia de Suku.
+La maestra [[Suku]] y sus aprendices han elegido terminar el verano en un valle bajo una gran cordillera, llevando a cabo revisiones de código en un templo menor. Sintieron que esto sería un trabajo relajado, que los revigorizaba para la larga subida frente a ellos. Sin embargo los monjes de aquel templo eran exasperantemente negligentes. Mientras los días menguaban, también menguaba la paciencia de Suku.
 
 Una mañana Suku entró  en el cubículo de un monje particularmente obtuso y echó una impresión sobre su teclado.
 
@@ -30,7 +30,7 @@ Suku hizo una sonrisa desagradable. Si sus aprendices hubiesen estado presentes 
 
 "Consistente," dijo orgullosamente el monje. "Consistente."
 
-Lo que ocurrió inmediatamente nadie puede decir, pero es cierto que el monje ya estaba inconciente cuando cayó all piso.
+Lo que ocurrió inmediatamente nadie puede decir, pero es cierto que el monje ya estaba inconsciente cuando cayó al piso.
 
 - - -
 
