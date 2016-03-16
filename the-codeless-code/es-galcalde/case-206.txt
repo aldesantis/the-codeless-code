@@ -8,7 +8,7 @@ Un monje le escribió al maestro [[Kaimu]]:
 
       La semana pasada hiciste alusión a Seis Atributos //
       esenciales para ser un desarrollador diligente. //
-      ¿Cuales son esos "Seis Atributos"?
+      ¿Cuáles son esos "Seis Atributos"?
 
 
 Extrañamente, en segundos recibió una larga respuesta:
@@ -40,7 +40,7 @@ Extrañamente, en segundos recibió una larga respuesta:
 
       El quinto es insuficiente en el monje [[Wangohan]]. //
       Si se le pide cazar un venado para la cena, //
-      eligirá el shuriken [[#194|contra toda objeción]], //
+      elegirá el shuriken [[#194|contra toda objeción]], //
       y perseguirá a un venado sangrante por treinta días.
 
       El sexto es insuficiente en la joven maestra [[Zjing]]. //
@@ -59,7 +59,7 @@ El monje pensó por un minuto y escribió al maestro:
       La sexta es demasiado perezosa para enfocar su atención. //
 
       Sin embargo si la pereza engendra seis caminos hacia el fracaso, //
-      ¿Cómo puede ser una de las Tres Grandes Virtudes?{{*}} //
+      ¿Cómo puede ser una de las Tres Grandes Virtudes? {{*}} //
 
 
 De nuevo, en segundos recibió una respuesta:
@@ -72,3 +72,4 @@ De nuevo, en segundos recibió una respuesta:
 
 
 {{*}} Declaradas por uno de los futuros Patriarcas: <a href="http://pablasso.com/200902/las-3-grandes-virtudes-de-un-programador-pereza-impaciencia-y-arrogancia/">pereza, impaciencia, y arrogancia</a>.
+
