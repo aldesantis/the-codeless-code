@@ -11,7 +11,7 @@ Illus.0.title: "Todas las hormigas van marchando / Agitando sus antenas rojas y 
 
 "He diseñado una nueva estructura de datos dispersa," dijo el monje, "y deseaba ver si podía usarla para implementar una simulación eficiente del <a href="http://es.wikipedia.org/wiki/Juego_de_la_vida">Juego de la Vida</a>.
 
-El monje pulsó un botón en la pantalla de su tablet, dejándola en blanco. Luego dibujó a lo largo de la pantalla una linea negra dentada con un estilete. Cuando presionó de vuelta el mismo botón la linea negra se abrió, extendiéndose a lo largo de la pantalla como un confeti pixelado.
+El monje pulsó un botón en la pantalla de su tablet, dejándola en blanco. Luego dibujó a lo largo de la pantalla una línea negra dentada con un estilete. Cuando presionó de vuelta el mismo botón la línea negra se abrió, extendiéndose a lo largo de la pantalla como un confeti pixelado.
 
 Jinyu frunció el ceño. "¿Esa es la 'vida'?"
 
@@ -24,6 +24,7 @@ Jinyu limpió la pantalla como vio hacerlo el monje. Entonces tomó el estilete 
 
 Cuando apretó el botón de nuevo, las palabras inmediatamente se pudrieron y se disolvieron en un charco retorcido de larvas blancas y negras. De las larvas surgieron enjambres de moscas de pixeles negros: dispersándose, multiplicándose, chocándose, muriéndose. Hormigas negras y carroñeras abandonaron los cadáveres diezmados, deslizándose al unísono hacia destinos desconocidos en la infinidad. En un corto tiempo todo lo que quedó era un gran desierto blanco, donde unas pequeñas manchas solitarias de polvo se agitaban en un viento débil e invisible.
 
-Jinyu delvolvió la tablet al monje. "Una simulación muy precisa."
+Jinyu devolvió la tablet al monje. "Una simulación muy precisa."
 
 {{*}} El texto emergente de la ilustración es de <a href="https://www.youtube.com/watch?v=IXPOHCsgWFw">"Ants Marching" de la Dave Matthews Band</a>, el cual encaja muy bien con el tema. Y si quieren alucinar <em>de verdad</em>, miren esta maravillosa implementación de <a href="https://www.youtube.com/watch?v=xP5-iIeKXE8">La Vida en la Vida</a>.
+
