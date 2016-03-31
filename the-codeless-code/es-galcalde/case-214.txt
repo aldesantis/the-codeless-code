@@ -12,7 +12,7 @@ Banzen dijo: "Mis aprendices aprendieron los Streams de Java esta semana. Ahora 
 
      Kaimu meditó: "Cuando empecé a trabajar en las cocinas
      del templo, estaba intrigado por los muchos cuchillos 
-     en los portacuchillos, y deseé probarlos todos. Pero 
+     en los porta cuchillos, y deseé probarlos todos. Pero 
      no conocía la diferencia entre un cuchillo de filete 
      y uno para deshuesar, y arruiné mucho pescado bueno."
 
@@ -25,7 +25,7 @@ Banzen continuó: "...Yo les enseñaría felizmente cuando usar Streams y cuando
      aquellos que nunca ví. El error es un pobre amigo pero
      un excelente profesor."
 
-Banzen continuó: "...Incluso si pudiera corregirlos hoy, mañana sólo traerá otro peligro. El mes pasado mi clan empezó a jugar con las anotaciones. ¿Cómo puedo conducir las revisiones de código cuando la funcionalidad esencial está migrando de los métodos a los márgenes? Y ahora las expresiones lambda están brotando rápidamente por toda la báse del código..."
+Banzen continuó: "...Incluso si pudiera corregirlos hoy, mañana sólo traerá otro peligro. El mes pasado mi clan empezó a jugar con las anotaciones. ¿Cómo puedo conducir las revisiones de código cuando la funcionalidad esencial está migrando de los métodos a los márgenes? Y ahora las expresiones lambda están brotando rápidamente por toda la base del código..."
 
      Kaimu continuó: "Cada cocinero nuevo trajo sus propios
      utensilios, brillantes, afilados y extraños. Mi favorito 
