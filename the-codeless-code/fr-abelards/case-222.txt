@@ -1,0 +1,51 @@
+Lang: fr
+Translator: abelards
+Number: 222
+Title: Remplacement
+
+Après avoir [[#221|corrigé son code,]]
+la nonne [[Satou]] revint trouver le maître Java [[Banzen]]
+et lui demanda de faire une revue de code.
+
+"Alors," dit Banzen, plissant des yeux devant la dernière version.
+"/Maintenant/ tu obtiens ta 'hash du contenu de la page'
+en prenant le tableau de bytes qui le contient et en l'envoyant
+à /Arrays.hashCode()/."
+
+"Ça ne va pas marcher ?" demanda nerveusement Satou.
+
+"Dans cette circonstance précise, ça fonctionnera comme prévu,"
+dit Banzen. "Toutefois, si ta 'hash du contenu de la page'
+est censée être un condensé, alors tu devrais choisir un utilitaire
+qui /calcule/ un condensé."
+
+"Mais si mon code fonctionne comme il faut, et qu'il utilise
+ce que j'ai sous la main, alors quel est l'avantage d'un tel
+changement ?" demanda Satou.
+
+Le maître lui jeta un regard perçant.
+"Mets-toi debout dans ce coin, coudes sur tes hanches et pouces en l'air,"
+dit Banzen.
+"Et ne bronche pas jusqu'à ce que tu atteignes l'illumination !"
+
+Satou fit ce qu'on lui dit et alla s'installer dans le coin, maussade.
+Le maître tape quelque chose sur son téléphone, puis s'assit dans sa
+chaise, et ce fut le silence à nouveau.
+
+Quelques secondes plus tard, un garde du temple qui faisait la garde
+depuis plusieurs heures dans le blizzard pénétra dans le bureau de
+Banzen, couteau apprêté et lunettes embuées du soudain changement de
+température.
+
+"Pardonne mon invitation, mon vieil ami !" dit le maître.
+"Il n'y a aucune urgence. Je t'en prie, mets toi à l'aise
+et je vais tout t'expliquer."
+
+Le garde retira son manteau de fourrure et le jeta sur la tête
+de Satou. Quand il entendit son cri étouffé, il fit un bond de surprise
+en arrière, le couteau prêt à frapper.
+
+"Ça n'est pas ton porte-manteau habituel !" s'exclama le garde.
+
+"Non," dit Banzen, "Mais ça fonctionne comme il faut,
+et j'utilise ce que j'ai sous la main."

@@ -1,0 +1,49 @@
+Lang: fr
+Translator: abelards
+Number: 223
+Title: Coûts cachés
+Illus.0.title: Vous savez, IKEA vend un porte-manteau plutôt joli qui n'a pas besoin de nourriture ou de pauses pipi.
+Tagline: Dans lequel le management assume un peu de responsabilité pour les désagréments.
+
+En punition pour avoir
+[[#222|implémenté une solution inhabituelle à un problème]],
+le maître [[Banzen]] avait ordonné à la nonne [[Satou]]
+de se tenir sans bouger à l'entrée de son bureau, tous les jours,
+faisant semblant d'être un porte-manteau.
+
+Chaque nouveau visiteur qui entrait lançait immanquablement
+un regard d'étonnement et demandait ce qu'ils devaient faire
+de leur manteau. Le maître pointait alors Satou, sans un mot.
+Le visiteur finissait par comprendre.
+
+Quand cent visiteurs furent venus et partis, Banzen demanda
+à son apprentie si elle avait bien servi ses invités.
+
+Satou répondit, "Pas un manteau ne fut laissé par terre froissé,
+pas un n'a dégouliné sur une chaise, pas un n'a gêné son propriétaire."
+
+Banzen secoua la tête et ordonna à la nonne de continuer.
+
+Quand une autre centaine de visiteurs furent venus et partis,
+Banzen demanda de nouveau à son apprentie si elle avait
+bien servi ses invités.
+
+Satou répondit, "J'ai volé quelque chose à chacun d'entre eux."
+
+Banzen leva un sourcil et demanda, "Qu'as-tu volé ?"
+
+"Hélas !" cria Satou. "Maintenant je vous ai volé aussi !"
+
+Banzen sourit, et libéra la nonne de sa corvée.
+
+== Le commentaire de Qi
+
+Jusqu'à ce que vous compreniez cette histoire, je vous ai volé aussi. //
+Hélas, je ne connais aucun meilleur moyen de vous empêcher de vivre de rapines.
+
+== Le poème de Qi
+
+Satou construisit une horloge qui perdait une minute par jour. //
+Elle l'accrocha là où quarante millions de moines pouvaient la voir. //
+Le jour suivant on la condamna à la décapitation -- //
+La nonne ne put nier qu'elle avait volé une vie.
