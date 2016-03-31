@@ -3,11 +3,11 @@ Title: Entrevista de Salida
 Lang: es
 Translator: galcalde
 Tagline: En la cual tomamos las cosas al pie de la letra
-Illus.0.title: De hecho he tenido aspirantes haciéndome esto en una entrevista, sin el más mínimo indicio de verguenza. En retrospectiva debí haberlos contratado a todos y enviarlos a Marketing.
+Illus.0.title: De hecho he tenido aspirantes haciéndome esto en una entrevista, sin el más mínimo indicio de vergüenza. En retrospectiva debí haberlos contratado a todos y enviarlos a Marketing.
 
 El maestro Java [[Bawan]] estaba entrevistando a un aspirante para el [[Elephant's Footprint Clan|Clan de la Huella del Elefante]]. Después de preguntarle las preguntas preliminares usuales (sobre clases abstractas, y como hacer burbujear y zumbar los números{{*}}), Bawan dibujó un esquema simple de base de datos en la pizarra y le pidió al aspirante que defina algunos POJOs adecuadamente anotados para Hibernate.
 
-"No sé de que habla," dijo el aspirante.
+"No sé de qué habla," dijo el aspirante.
 
 "Objetos de Dominio," dijo Bawan, "con anotaciones de Hibernate."
 
@@ -23,9 +23,9 @@ El aspirante sacudió su cabeza.
 
 Bawan escrutinizó una hoja de papel. "Entonces quizás pueda decirme por qué Hibernate, JPA, EJB3, y ORM están todas mencionadas al principio de su currículum, bajo el título <em>Habilidades Principales</em>."
 
-"Oh!" dijoel aspirante.  "Mi reclutador me dijo que las colocara. Dijo que resultarían más beneficiosas para las entrevistas."
+"Oh!" dijo el aspirante.  "Mi reclutador me dijo que las colocara. Dijo que resultarían más beneficiosas para las entrevistas."
 
-"Ya veo," dijo Bawan. "Bueno, este es todo el tiempo que tengo. Su próximo entrevistador será el maestro [[Kaimu]], quien es menos particular sobre esas cosas. Gire a la derecha, suba por las escaleras, busque la puertacon su nombre."
+"Ya veo," dijo Bawan. "Bueno, este es todo el tiempo que tengo. Su próximo entrevistador será el maestro [[Kaimu]], quien es menos particular sobre esas cosas. Gire a la derecha, suba por las escaleras, busque la puerta con su nombre."
 
 El aspirante agradeció a Bawan y se fue.
 
