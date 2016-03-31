@@ -1,0 +1,66 @@
+Lang: fr
+Translator: abelards
+Number: 221
+Title: Indigestion
+Tagline: Dans lequel on est trop confiant.
+Illus.0.title: Si nous retirions les os, cela ne serait pas aussi croquant.
+
+
+Le maître Java [[Banzen]] révisait le code d'une application Web
+quand il tomba sur un nouveau filtre HTTP écrit par son apprentie
+[[Satou]]. Le vieux maître la fit venir dans son bureau.
+
+"Tu as commencé à inclure un en-tête 'Etag' avec chaque page
+que tu envoies," dit Banzen à la nonne. "Explique-moi,
+car je n'ai jamais entendu parler de cet en-tête."
+
+"L'Etag est un hash du contenu de la page," dit fièrement Satou,
+heureuse de savoir quelque chose que son maître ne savait pas.
+"Je le calcule juste avant de renvoyer la page demandée au navigateur."
+
+"Que cherche-t-on à faire par là ?" demanda Banzen.
+
+"C'est une astuce pour être plus efficace," répondit Satou.
+"Si le navigateur redemande la même page plus tard, il peut
+ajouter le dernier ETag à sa requête, me prévenant de fait :
+/Je dispose encore de ce contenu que vous m'avez envoyé plus tôt./
+Si le serveur détermine ensuite qu'une nouvelle réponse aurait le
+même ETag, il oublie sa réponse et répond seulement :
+/Rien n'a changé./"
+
+
+"Ah," dit Banzen, plissant les yeux en examinant le code de Satou.
+"Je vois que tu obtiens le 'hash des contenus de la page'
+en les chargeant dans un tableau de bytes appelé /contents/
+et puis appeler /contents.hashCode()/.
+Es-tu certaine que cela sera une bonne valeur pour un hash ?"
+
+Satou réfléchit un moment. "La méthode /hashCode()/ renvoie
+un entier de quatre bytes, donc les chances de collisions
+devraient être environ d'une sur quatre milliards. Je pense
+que ce sont des probabilités acceptables."
+
+Le maître Java félicita son apprentie pour son raisonnement
+et lui demanda d'attendre quelques minutes tandis qu'il allait
+lui chercher une récompense adéquate.
+Banzen revint avec une boîte d'assortiment de chocolats.
+
+"Prends-en un," dit-il.
+
+Il était impossible de distinguer les chocolats entre eux,
+mais ils étaient disposés en jolies lignes et colonnes avec
+une légende sur le couvercle de la boîte. Satou trouva un
+carré nommé /Cerise/ et engloutit le chocolat correspondant.
+
+Son expression changea, du délice à la confusion à l'horreur,
+mais il était trop tard pour qu'elle ne s'empêche d'avaler
+la préparation.
+
+"Ça... n'était pas de la cerise..." dit-elle en pâlissant de minute en minute.
+
+"Bien sûr que non !" rit Banzen.
+
+"‘Cerise’ n'est que le nom de la /case/ dans laquelle il se trouvait.
+Le /contenu/ du chocolat est laissé à la surprise de chacun. Voilà,"
+dit-il, déplaçant un autre chocolat dans l'espace laissé vacant.
+"Si tu l'as aimé, prends-un en autre."
