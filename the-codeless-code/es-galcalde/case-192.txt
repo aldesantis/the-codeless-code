@@ -12,7 +12,7 @@ Illus.0.title: Ese mismo monje luego inventaría las notas Post-It.
 
 El monje dedicó su primer sprint en proveer botones de <em>Ayuda</em> por toda la interfaz, implementada como enlaces al manual de usuario online. Esto, pensó, tomaría el menor tiempo y esfuerzo -- y además, los granjeros deberían apreciar el valor de la fruta que cuelga baja.
 
-Pero poco despues de la implantación el monje halló una nota clavada a su puerta, en el filo de un hacha:
+Pero poco después de la implantación el monje halló una nota clavada a su puerta, en el filo de un hacha:
 
      Ahogándome, Grité Ayuda a tu bote. //
      Tiraste un volumen pesado y remaste lejos.  //
@@ -23,7 +23,7 @@ Pero poco despues de la implantación el monje halló una nota clavada a su puer
 
 El monje dedicó su segundo sprint en proveer botones de <em>Cancelar</em> por toda la interfaz, para que cualquier acción de importancia sólo pudiera continuar después de la confirmación.
 
-Pero poco despues de la implantación el monje halló una segunda nota clavada a su puerta, esta en los dientes de una horquilla:
+Pero poco después de la implantación el monje halló una segunda nota clavada a su puerta, esta en los dientes de una horquilla:
 
      Cuando me preguntó, <em>¿Deseas cancelar la orden?</em>  //
      mis únicas opciones eran <em>Aceptar</em> y <em>Cancelar</em>.  //
@@ -32,9 +32,9 @@ Pero poco despues de la implantación el monje halló una segunda nota clavada a
 
 - - -
 
-El monje dedicó su tercer sprint en proveer un botón omnipresente de <em>Deshacer</em>, para que cualquier acción pudiera ser revertida. Esto tomó el mayor tiempo y esfuerzo, sin emabrgo estaba contento con el resultado.
+El monje dedicó su tercer sprint en proveer un botón omnipresente de <em>Deshacer</em>, para que cualquier acción pudiera ser revertida. Esto tomó el mayor tiempo y esfuerzo, sin embargo estaba contento con el resultado.
 
-Pero poco despues de la implantación el monje halló una tercera nota clavada a su puerta, esta mantenida por pinchos de jardín:
+Pero poco después de la implantación el monje halló una tercera nota clavada a su puerta, esta mantenida por pinchos de jardín:
 
      Un penitente grita, <i>¿Qué he hecho?</i> //
      Los dioses misericordiosos votaron volver el tiempo atrás. //
@@ -43,13 +43,13 @@ Pero poco despues de la implantación el monje halló una tercera nota clavada a
 
 - - -
 
-Aquella tarde Bawan informó al monje que una linea de ciudadanos había sido vista avanzando por la montaña, llevando varias herramientas de granja que destellaban en el poniente.
+Aquella tarde Bawan informó al monje que una línea de ciudadanos había sido vista avanzando por la montaña, llevando varias herramientas de granja que destellaban en el poniente.
 
 El monje declaró, "¡Tres de tus Cuatro Palabras me han fallado!"
 
 El maestro respondió, "Eku tenía un loro que repetía sus palabras fielmente, pero nadie iba al loro en busca de sabiduría."
 
-"¿Como puedo calmar a mis usuarios?" preguntó el monje.
+"¿Cómo puedo calmar a mis usuarios?" preguntó el monje.
 
 "El loro calmó al gato de Eku a la cena," dijo Bawan.
 

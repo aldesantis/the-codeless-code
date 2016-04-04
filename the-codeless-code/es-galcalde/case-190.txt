@@ -7,7 +7,7 @@ Illus.0.title: Obviamente no estaba usando un Cascarón Seguro.
 
 El monje [[Djishin]] estaba construyendo una aplicación que manejaba información sensitiva de menor importancia. Se acercó al maestro [[Banzen]] y dijo: "He pasado varios días leyendo sobre criptografía. Estoy seguro que puedo implementar una plataforma de compartición de secretos."
 
-Banzen dijo: "En las enseñanzas del maestro [[Mizuh]], se dice que un monje no entenderá la criptografía verdaderamente hasta que haya hecho malabarismos con ocho huevos frescos de chorlito durante ocho minutos enteros sobre un piso de tablones ásperos. Vuelve a tu domicilio y practica. En ocho días veremos que puedes hacer."
+Banzen dijo: "En las enseñanzas del maestro [[Mizuh]], se dice que un monje no entenderá la criptografía verdaderamente hasta que haya hecho malabarismos con ocho huevos frescos de chorlito durante ocho minutos enteros sobre un piso de tablones ásperos. Vuelve a tu domicilio y práctica. En ocho días veremos que puedes hacer."
 
 Una semana después Djishin volvió a Banzen, su cabeza colgaba bajo.
 
@@ -21,9 +21,9 @@ Finalmente el monje dijo: "El riesgo es proporcional al valor de lo que se pone 
 
 Banzen golpeó a Djshin en la cabeza con su bastón y preguntó: "¿A qué huele tu cuarto?"
 
-"A huevos podridos," dijo Djushin, frotando su craneo.
+"A huevos podridos," dijo Djushin, frotando su cráneo.
 
-Banzen dijo: "El verdadero problema no es la captura fallida, sino la yema filtrándose por las tárimas. Si tu cerradura es pobre pero tu almohada no fue robada, ¡mira bajo tu cama! El ladrón puede estar tirado esperando el día en que vuelvas con una cartera tintineante."
+Banzen dijo: "El verdadero problema no es la captura fallida, sino la yema filtrándose por las tarimas. Si tu cerradura es pobre pero tu almohada no fue robada, ¡mira bajo tu cama! El ladrón puede estar tirado esperando el día en que vuelvas con una cartera tintineante."
 
 
 == Comentario de Qi

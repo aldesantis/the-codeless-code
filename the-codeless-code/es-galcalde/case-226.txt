@@ -1,0 +1,50 @@
+Number: 226
+Title: Primavera, Otoño
+Lang: es
+Translator: galcalde
+
+El lunes después del primer brote de primavera, el Templo entero fue invocado a asamblea en el Gran Salón por la vieja Madame [[Jinyu]],  la Abadesa de Todos los Clanes y asuntos de Interés. Ninguno fue excusado -- sin dudas, dos monjes desesperadamente enfermos fueron llevados en camilla y puestos verticalmente contra la pared, junto al cadáver apoyado de una monja avanzada que había muerto el jueves pasado sin dar el aviso obligatorio de dos semanas.
+
+Directamente enfrente del podio de la vieja Jinyu se sentaban los obedientes monjes del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]], quienes han dominado las artes arcanas del diseño de bases de datos y cientos de librerías de persistencia. Los monjes se colocaron en filas y columnas perfectas encima de tablas de búsqueda ceremoniales que habían sido juntadas para la ocasión.
+
+Detrás de la Huella del Elefante se sentaban los sabios monjes del [[Laughing Monkey Clan|Clan del Mono que Ríe]], que implementaban la lógica de negocios para de los muchos clientes del Templo. Tan tremendamente inteligente era el comportamiento de sus motores de reglas que su base de código se rumoreaba que estaba poseída por los espíritus de analistas de negocios muertos hace mucho tiempo.
+
+Detrás del Mono que Ríe se sentaban los prolíficos monjes del [[Spider Clan|Clan de la Araña]], que creaban las interfaces web y servicios de cada aplicación del Templo. Como los stacks tecnológicos iban y venían tan frecuentemente, sus aprendices estaban entrenados para olvidar instintivamente todo lo que ya no era relevante, a menos de que se enloquecieran. Curiosamente, sin embargo, cuando se les preguntaba cómo funcionaba ese arte de olvidar, los monjes se reían invariablemente y decían que no <em>existía</em> ese arte; porque si lo hubiera, seguramente lo habrían recordado aprendiéndolo.
+
+Estaban orgullosos, los Tres Grandes Clanes del Templo. Así que con gran consternación supieron de los planes de Jinyu para el futuro.
+
+- - -
+
+"En otoño, el abad [[Ruh Cheen]] nos convenció de probar el néctar de [[#210|la metodología ágil]]," dijo la vieja Jinyu a su audiencia. "Durante el invierno mordisqueamos su fruto y lo hallamos dulce. Ahora la primavera ha llegado, y deseamos plantar las semillas de una cosecha más grande.
+
+"Ya no seleccionaremos caprichosamente monjes de los Tres Clanes para trabajar en tareas mientras surjan. En su lugar, cada producto tendrá un Clan Pequeño propio, cuyos miembros no cambiarán.
+
+"Algunos de ustedes pertenecerán a un sólo Clan Pequeño; algunos a dos o tres. Cada Clan Pequeño tendrá sus propias reglas, pondrá sus propios estándares, establecerá sus propias tradiciones. Los monjes de sus Clanes Pequeños serán sus nuevos hermanos. Trabajarán con ellos, comerán con ellos, harán la faena con ellos, y compartirán un salón con ellos.
+
+"Esta noche postearé sus nuevas asignaciones. Mañana los Tres Clanes no existirán. Ahora, váyanse: prepárense."
+
+Entonces la vieja Jinyu dejó el Gran Salón, a un coro de murmullos preocupados. Hasta la monja muerta parecía un poco triste.
+
+- - -
+
+La joven maestra [[Zjing]] miró al viejo [[Banzen]] con una mirada de pavor y desconfianza en partes iguales.
+
+Dijo Zjing, "Cuando la Araña aprenda el trabajo del Mono y el Elefante, ¿Qué formas de redes deberemos ver en los árboles?"
+
+"Creativas," respondió Banzen.
+
+"¿Y cómo debemos manejar esa 'creatividad'?" siguió la monja. "¿Cómo debemos revisar el código? ¿Cómo debemos guiar? ¿Cómo debemos planificar?"
+
+"Diferentemente," dijo Banzen.
+
+"¡Estás irritantemente calmado!" refunfuñó Zjing. "Creí que el Banzen de todos compartiría mis preocupaciones."
+
+Banzen soltó una risita. "Cuando Ruh Cheen fue traído al templo por Jinyu, les dijiste a tus compañeros que [[#201|la abadesa no era una tonta]]. Y aunque estabas mintiendo, dijiste la verdad. Jinyu ve que la Manera del Mundo no es la del Templo. Ella ha elegido seguir al mundo."
+
+"Ella lo está siguiendo por el borde de un precipicio," se quejó la monja.
+
+"¡Sin dudas!" dijo Banzen con una sonrisa. "Sin embargo ¿Qué es el Templo: una piedra, o un pájaro?" El viejo maestro tomo a Zjing por el brazo y fueron hacia la puerta, asintiendo la cabeza respetuosamente mientras pasaban por la monja muerta. "He pasado por tiempos así. La caída inicial siempre es perturbadora para el estómago, pero aún tenemos que estrellarnos contra las rocas abajo."
+
+"Entonces, ¿Cuánto tiempo debo esperar hasta que vea al templo brotar plumas?" preguntó Zjing.
+
+"Mi querida joven maestra," dijo Banzen. "¿No has entendido los términos de tu promoción? <em>Nosotros</em> somos las plumas."
