@@ -1,0 +1,80 @@
+Lang: fr
+Translator: abelards
+Number: 224
+Title: Accusations sans support
+Tagline: Dans lequel on arrive à toucher le fond.
+Credits: Merci à Larry Niven, dont le 'Flatlander' m'a appris cette maxime très utile.
+
+En passant par le Support Client du Temple, la nonne
+[[Hwídah]] entendit parler d'un étrange comportement dans
+une certaine application. Comme maître [[Banzen]] lui avait
+assigné le support de production, la nonne all diligemment
+en décrire les symptômes au moine le plus expérimenté
+sur cette application:
+
+"Parfois un utilisateur va retourner sur un enregistrement
+qu'il avait déjà modifié, pour découvrir qu'une partie des
+informations manque," dit Hwídah.
+"On n'arrive pas à reproduire le bug, et les utilisateurs
+avouent qu'ils /pourraient/ s'imaginer des choses."
+
+"J'ai entendu ces histoires," dit le vieux moine.
+"Je n'ai pu voir aucun bug dans le code, et on n'a pas pu
+le reproduire dans un autre environnement."
+
+"Cependant, cela pourrait être prudent d'investiguer davantage,"
+dit la nonne.
+
+Le moine soupira. "Nous sommes tous plus que surchargés.
+Il n'y a qu'une poignée d'utilisateurs qui ont remonté ce
+problème, et /eux-mêmes/ n'en sont pas tout à fait sûrs.
+Pour l'instant, tous se satisfont de simplement retaper
+les informations 'manquantes' et reprendre leur journée.
+Peux-tu m'offrir une once d'évidence qu'il s'agit d'autre
+chose qu'une erreur utilisateur ?"
+
+La nonne fit non de la tête, s'inclina, et prit congé.
+
+- - -
+
+Cette nuit-là, le vieux moine fut tiré de son sommeil
+par un bruit sous sont lit, le genre de couinements
+qu'une souris pourrait faire.
+Ce bruit continua toute la nuit -- parfois depuis un
+endroit, parfois d'ailleurs, probablement tandis que
+l'intrus nocturne allait et venait en recherche de nourriture.
+
+Le jet d'une sandale dans la direction du bruit le calmait
+immédiatement, mais il finissait toujours par reprendre
+dans une partie différente de la pièce.
+
+"À n'en pas douter, il s'agit là d'une leçon que souhaite
+m'enseigner cette tatillonne de Hwídah," se plaignit-il
+à ses camarades le lendemain, les yeux assombris de profonds
+cernes.
+"Mais je ne me laisserai /en aucun cas/ laisser intimider
+pour aller courir derrière des bugs inexistants.
+Si les couinements de nos utilisteurs l'embêtent tant que ça,
+la nonne n'a qu'à s'en occuper /elle-même/ !"
+
+Le moine mit des pièges à souris dans les coins de la pièce
+et s'arma d'une paire de bouchons d'oreille. Ainsi dormit-il
+la nuit suivante, et la suivante encore, bien que son sommeil
+fut moins reposant qu'il ne l'eût espéré.
+
+La septième nuit, le moine épuisé éteignit la lumière
+et se laissa lourdement tomber sur son lit.
+Il y eut un CRAC sonore et le moine se retrouva balloté
+dans l'espace. Avec un CRASH il rebondit de son matelas
+et roula sur un sol de pierre dure.
+Son lit avait, apparemment, chu du rez-de-chaussée
+jusque dans le sous-sol.
+
+Haut perchée sur une échelle, juste à la limite du trou
+béant dans le plafond en bois du sous-sol, se trouvait la
+nonne Hwídah, le visage éclairé par une unique chandelle
+pendue non loin de là. Elle descendit et jeta sur les genoux
+du moine une vieille perceuse à main.
+Puis elle s'accroupit et se pencha à son oreille.
+
+"Si tu ne le comprends pas, c'est dangereux," murmura la nonne.
