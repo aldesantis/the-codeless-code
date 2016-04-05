@@ -3,7 +3,7 @@ Translator: abelards
 Number: 224
 Title: Accusations sans support
 Tagline: Dans lequel on arrive à toucher le fond.
-Credits: Merci à Larry Niven, dont le 'Flatlander' m'a appris ces sept mots les plus utiles.
+Credits: Merci à Larry Niven, dont le 'Flatlander' m'a appris cette maxime très utile.
 
 En passant par le Support Client du Temple, la nonne
 [[Hwídah]] entendit parler d'un étrange comportement dans
