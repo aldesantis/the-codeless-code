@@ -1,0 +1,124 @@
+Lang: fr
+Translator: abelards
+Number: 226
+Title: Printemps, Automne
+
+Le lundi suivant les premiers bourgeons du printemps,
+tout le Temple fut appelé à se rassembler dans le Grand Hall
+par la vieille [[Jinyu]], Abbesse de Tous les Clans et Préoccupations.
+
+Pas un ne fut excusé -- en fait, deux moines dans un état
+désespéré avaient été amenés sur des brancards et déposés
+contre le mur du fond, à côté du cadavre redressé d'une
+vieille nonne qui était décédée le Jeudi précédent sans
+avoir donné son préavis obligatoire de deux semaines.
+
+Tout devant l'estrade de la vieille Jinyu étaient assis
+les consciencieux moines du
+[[Elephant's Footprint Clan|Clan des Empreintes de l'Éléphant]],
+qui avaient maîtrisé ensemble lest arcanes de la conception de
+bases de données et cent bibliothèques de persistence.
+Les moines s'étaient disposés en lignes et colonnes parfaites,
+au-dessus de tables de correspondance qu'ils avaient jointes
+pour l'occasion.
+
+Derrière les Éléphants étaient assis les très instruits moines
+du [[Laughing Monkey Clan|Clan du Singe Rieur]], qui implémentaient
+les règles métier des nombreux clients du Temple. Leurs moteurs
+de règlent étaient d'une intelligence si effrayante qu'il se
+murmurait que leur base de code était possédée par les esprits
+d'analystes métier disparus depuis bien longtemps.
+
+Derrière les Singes Rieurs étaient assis les prolifiques moines
+du [[Spider Clan|Clan de l'Araignée]], qui bâtissaient les interfaces
+Web et les services de toutes les applications du Temple.
+Comme les technologies Web changeaient souvent, leurs novices
+étaient entraînés à oublier d'instinct tout ce qui n'étaient
+plus pertinent, sous peine de perdre la raison.
+Curieusement, cependant, quand on leur demandait comment
+fonctionnait cet Art de l'Oubli, les moines ne manquaient
+jamais de rire et dire dire qu'un tel Art n'existait /pas/ ;
+car s'il existait, ils se rappelleraient sûrement de l'avoir
+appris.
+
+
+Fiers étaient ces Trois Grands Clans du Temple.
+Ainsi c'est avec un grand désarroi qu'ils apprirent
+les plans qu'avait Jinyu pour leur futur.
+
+- - -
+
+"À l'automne, l'abbé [[Ruh Cheen]] nous a convaincus de
+goûter le nectar de [[#210|la méthodologie Agile]],"
+dit la vieille Jinyu à son public.
+"L'hiver durant, nous avons grignoté son fruit et l'avons trouvé doux.
+Maintenant le printemps est arrivé, et nous désirons planter les graines
+d'une grande récolte."
+
+"Nous n'allons plus choisir aléatoirement des moines de nos
+Trois Clans pour travailler sur les besoins au fur et à mesure
+qu'ils apparaissent. À la place, chaque produit aura un
+Micro Clan bien à lui, dont les membres ne changeront pas."
+
+"Certains d'entre vous appartiendront à un seul Micro Clan ;
+d'autres à deux ou trois. Chaque Micro Clan aura ses propres
+règles, définira ses propres standards, établira ses propres
+traditions. Les moines de vos Micro Clans seront vos nouveaux
+frères. Vous travaillerez avec eux, mangerez avec eux, ferez
+les corvées avec eux, et partagerez une salle avec eux."
+
+"Je publierai vous nouvelles affectations ce soir.
+Demain, les Trois Clans n'existeront plus.
+Maintenant, partez : allez vous préparer."
+
+Ainsi fit la vieille Jinyu avant de quitter le Grand Hall,
+dans un concert de murmures inquiets. Même la vieille nonne
+décédée semblait un poil moins heureuse.
+
+- - -
+
+La jeune maître [[Zjing]] se tourna vers le vieux [[Banzen]]
+avec un regard dans lequel on pouvait voir autant de crainte
+que d'incrédulité.
+
+Zjing dit, "Quand l'Araignée apprendra son art auprès du
+Singe et de l'Éléphant, quel genre de toiles verrons-nous
+dans les arbres ?"
+
+"De toiles créatives," répondit Banzen.
+
+"Et comment pourrons-nous gérer une telle 'créativité' ?"
+continua-t-elle. "Comment ferons-nous les revues de code ?
+Comment pourrons-nous jouer notre rôle de mentors ? Comment
+pourrons-nous planifier ?"
+
+"Différemment," dit Banzen.
+
+"Votre calme me rend folle !" s'exaspéra Zjing.
+"Je pensais s'il y avait bien quelqu'un qui partagerait
+mes inquiétudes, ce serait bien maître Banzen."
+
+Banzen gloussa. "Quand Jinyu fit entrer Ruh Cheen dans le temple,
+vous avez dit à vos confrères que [[#201|l'abbesse n'est pas une idiote]].
+Et bien que vous mentiez, vous avez dit la vérité.
+Jinyu voit que la Voie que prend le Monde n'est pas la Voie
+qu'avait pris le Temple. Elle a choisi de suivre le Monde."
+
+"Elle le suit au-delà du bord de la falaise", grommela la nonne.
+
+"En effet !" dit Banzen dans un sourire.
+"Mais qu'est le Temple : une pierre, ou un oiseau ?"
+Le vieux maître prit le bras de Zjing sous le sien et se dirigea
+vers les portes, avec un hochement de tête respectueux pour la
+vieille nonne décédée.
+"J'ai vécu de telles périodes par le passé.
+Le plongeon initial est toujours déroutant pour l'estomac,
+mais pour l'instant nous ne nous sommes pas encore écrasés
+sur les rochers en contrebas."
+
+"Alors, combien de temps dois-je attendre avant de voir le Temple
+se faire pousser des plumes ?" demanda Zjing.
+
+"Ma chère jeune maître," dit Banzen.
+"N'aviez-vous pas compris les termes de votre propre promotion ?
+/Nous/ sommes les plumes."
