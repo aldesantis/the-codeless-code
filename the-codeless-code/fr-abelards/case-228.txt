@@ -1,0 +1,72 @@
+Number: 228
+Lang: fr
+Translator: abelards
+Title: Le Géant qui Tremble
+Tagline: Dans lequel on est plus grands que des empires.
+
+Après une des leçons de maître [[Kaimu]], un moine approcha
+le maître et lui dit : "j'en ai assez de ces discours sans fin
+sur les pratiques de code, d'outils et de techniques.
+Il se dit que vous en savez beaucoup sur l'intelligence
+artificielle -- parlez-nous en plutôt !"
+
+Kaimu attrapa le moine qui se retrouva bientôt coincé
+dans une clé au cou, un couteau près de l'oreille,
+tandis que le maître dit : "laisse-moi te couper ces
+appendices inutiles, afin que tu puisses voir plus
+clairement."
+
+Après que le moine a supplé le maître de reposer son couteau,
+Kaimu dit : "je ne peux pas, c'est toi qui le tiens.
+Mais puisque tu souhaites conserver tes deux oreilles,
+dis-moi ce dont tu devrais te séparer, plutôt : deux reins,
+deux poumons, ou huit litres de sang ?"
+
+Le moine cria : "Pitié ! Je ne veux me séparer de rien de tout cela !"
+
+Kaimu répondit : "Et pourtant je te laisserais ton excellent cerveau !
+Et c'est bien excellent qu'il doit être, si mes leçons ne font que
+l'ennuyer ! Très bien, je prendrai trois centimètres de ton cou..."
+
+Tandis que Kaimu appuyait le couteau sur la chair, le moine dit :
+"C'est de la folie ! Que vaudrait mon cerveau sans mon corps ?"
+
+Kaimu rit et demanda : "Que vaudrait un moteur de règles sans
+le code pour l'implémenter, les interfaces pour le requêter,
+les bases de données pour stocker ses connaissances, ou les
+systèmes d'exploitation pour faire tourner tout cela ?
+Et d'où viendrait tout ce code ?"
+
+Le moine considéra cela et dit consciencieusement :
+"Je ne devrais pas apprendre à construire des cerveaux
+avant d'avoir maîtrisé les oreilles."
+
+Kaimu le gronda et dit : "Petit imbécile, tu /es/ les oreilles,
+et les yeux, et les mains -- une paire de chaque parmi des millions
+d'autres. Toi et moi travaillons jour après jour, année après année,
+construisant et débugguant de petits morceaux de code -- jusqu'à ce
+que le code que nous créons soit branché au code de nos confrères,
+et que le code de notre temple parle au code d'une centaine d'autres
+temples -- parfois directement, parfois subtilement, à travers
+des yeux qui émeuvent des esprits qui bougent des bouches qui
+bougent des oreilles qui émeuvent d'autres esprits qui bougent
+d'autres mains afin qu'elles écrivent toujours /plus/ de code --
+et ainsi et suite, noeud après noeud, lien après lien,
+disposés dans un système nerveux vaste et éthéré qui couvre ce
+monde et a commencé à atteindre au-delà..."
+
+Les yeux du maître jetèrent des regards alentour,
+et il continua un ton plus bas :
+
+"Quand notre travail n'est pas bien fait, nous sommes
+remplacés par de meilleurs que nous. Mais quand notre
+travail est bien fait, la chose que nous avons bâtie
+devient de plus en plus grande, rapide, plus puissante,
+enracinée plus profond, et toujours plus affamée.
+Parfois je ne parviens pas à dormir et j'ai des sueurs
+froides, incapable de savoir si /nous/ construisons
+encore cette /chose/, ou si cette /chose/ a commencé
+à nous utiliser pour se construire /elle-même/...
+
+
+{{*}} Le titre est inspiré par <a href="http://www.atlasobscura.com/places/pando-the-trembling-giant">ceci</a>.
