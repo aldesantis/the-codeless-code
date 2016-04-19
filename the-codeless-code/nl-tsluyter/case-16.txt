@@ -3,7 +3,7 @@ Number: 16
 Lang: nl
 Translator: tsluyter
 
-Een abt van de [[[[Seven-Clawed Blind Eagle Clan|Zeven-Klauwige Blinde Adelaar Klan]] turfde het opgeleverde werk van de monikken, toen hij opmerkte dat een monnik van de [[Laughing Monkey Clan|Lachende Aap Klan]] geen ontwerpdocumentatie had geschreven. 
+Een abt van de [[Seven-Clawed Blind Eagle Clan|Zeven-Klauwige Blinde Adelaar Klan]] turfde het opgeleverde werk van de monikken, toen hij opmerkte dat een monnik van de [[Laughing Monkey Clan|Lachende Aap Klan]] geen ontwerpdocumentatie had geschreven. 
 
 “Wat nu als er een fout wordt ontdekt in ons productie systeem?” vroeg de abt de monnik. “Hoe moet de oorzaak dan worden begrepen door eenieder behalve jijzelf?”
 
