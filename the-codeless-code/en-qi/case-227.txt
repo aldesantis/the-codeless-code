@@ -4,6 +4,7 @@ Title: You Are What You Eat
 Geekiness: 2
 Names: Zjing, Nimble Roadrunner Clan, Swooping Falcon Clan
 Topics: Agile, code duplication, reuse, selfishness
+Tagline: In which it is somebody else's problem.
 
 Now that the Temple had adopted the Agile Way, its analysts,
 developers, and testers [[#226|had been reorganized]] into
@@ -76,4 +77,3 @@ When the cook asked her to explain, Zjing said: "Not even
 the Patriarchs could teach a fat rabbit to be cunning.  Yet
 if all the greenery sprouted legs and ran, what clever
 little hunters might the cotton-tails become..."
-

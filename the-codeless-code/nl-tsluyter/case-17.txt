@@ -3,7 +3,7 @@ Number: 17
 Lang: nl
 Translator: tsluyter
 
-Een monnik van de [[[[Elephant's Footprint Clan]]|Olifanten Voetafdruk Klan]] was belast met het elimineren van de berg aan redundante code die door de klan was geschapen. Hij benaderde de opperpriester van de klan voor begeleiding. 
+Een monnik van de [[Elephant's Footprint Clan|Olifanten Voetafdruk Klan]] was belast met het elimineren van de berg aan redundante code die door de klan was geschapen. Hij benaderde de opperpriester van de klan voor begeleiding. 
 
 “Zie, bijvoorbeeld, hier heb ik vijf aanpakken voor het beheren van gebruikersvoorkeuren,” sprak de monnik, terwijl hij de blauwdrukken op tafel uitspreidde. “Ik moet nu de beste aanpak kiezen, of een soort compromis vaststellen. Hoe dan ook zullen er vier modules in het vuur worden geworpen en hun auteurs worden gedwongen de code van een rivaal te benutten.”
 

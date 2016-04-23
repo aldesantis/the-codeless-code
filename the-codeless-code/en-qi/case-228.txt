@@ -1,0 +1,67 @@
+Date: 2016-04-17
+Number: 228
+Title: The Trembling Giant
+Geekiness: 1
+Names: Kaimu
+Topics: artificial intelligence
+Tagline: In which we are vaster than empires.
+
+After one of master [[Kaimu]]'s lectures, a monk approached
+the master and said: I am bored of this endless talk of
+coding practices, of tools and techniques.  It is said you
+know much about artificial intelligence -- say something
+about that.
+
+Kaimu grabbed the monk in a headlock, held a knife to his
+ear, and said: Let me cut away these useless appendages,
+that you might see more clearly.
+
+When the monk begged the master to let fall his knife, Kaimu
+answered: I cannot, for it is you that holds it.  But since
+you wish to keep your two ears, tell me what you will part
+with instead -- two kidneys, two lungs, or two gallons of
+blood?
+
+The monk cried: Mercy! I would part with none of these!
+
+Kaimu said: Yet I would leave you your excellent brain!  And
+excellent it must be, if my lectures can provide it only
+boredom! Very well, I shall take two inches of your neck...
+
+As Kaimu pressed the knife into his flesh, the monk said:
+This is madness! What good is my brain without my body?
+
+Kaimu laughed and asked: What good is a rule engine without
+code to implement it, interfaces to query it, databases to
+keep its store of knowledge, or operating systems to make it
+all run?  And whence comes all this code?
+
+The monk considered this and said dutifully: I should not
+seek to build brains until I master the ears.
+
+Kaimu scowled and said: Foolish boy, you /are/ the ears, and
+the eyes, and the hands -- one pair each of uncounted
+millions.  You and I labor day after day, year after year,
+building and debugging little bits of code -- on platforms
+that are /themselves/ made of code -- until the code we
+create is wired to the code created by our fellows, and our
+temple's code speaks to the code of a hundred other
+temples -- sometimes directly, sometimes subtly, through eyes that
+move minds that move mouths that move ears that move other
+minds to move other hands to write even /more/ code -- and
+so on and so on, node upon node, link upon link, splayed out
+in a vast, ethereal nervous system that covers this world and
+has begun to reach beyond...
+
+The master's eyes darted around, and he continued in a
+low voice:
+
+When we do our work poorly, we are replaced with our
+betters.  When we do our work well, the thing we have built
+grows larger, faster, more powerful, more entrenched, more
+hungry.  Sometimes I lie awake in a cold sweat, unable to
+decide if /we/ are still building /it/, or if /it/ has begun
+using us to build /itself/...
+
+
+{{*}} The title is inspired by <a href="http://www.atlasobscura.com/places/pando-the-trembling-giant">this</a>.

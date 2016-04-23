@@ -1,0 +1,102 @@
+Number: 227
+Title: Nous sommes ce que nous mangeons
+Lang: fr
+Translator: abelards
+
+Maintenant que le Temple avait adopté la Voie Agile,
+ses analystes, développeurs et testeurs
+[[#226|avaient été réorganisés]] dans de nombreux Micro Clans.
+On avait donné à chaque Micro Clan la liberté de développer
+ses applications de n'importe quelle manière qui leur convienne.
+
+Il était toujours du ressort des maîtres de faire des revues
+du code de chacun, bien que leur autorité eût été fortement
+diminuée. Ainsi c'est sans grande joie que la jeune maître
+[[Zjing]] pratiquait les revues de code de ces nouveaux clans.
+
+- - -
+
+Au lever du jour, juste après la collation matinale, Zjing
+amena au moine en charge du
+[[Swooping Falcon Clan|Clan du Faucon en Piqué]]
+une liasse de code imprimé.
+
+"Vous avez implémenté des règles métier qui sont au-delà
+de votre périmètre," dit Zjing, pointant le code incriminé.
+"C'est le [[Nimble Roadrunner Clan|Clan du Grand Géocoucou Agile]]"
+qui est le responsable principal de ce processus métier.
+Ils devraient vous fournir une bibliothèque ou un service
+à appeler."
+
+"Cependant, ils ne fournissent aucun des deux," dit le
+supérieur du clan. "Copier leur code s'est fait sans effort.
+Exiger qu'ils nous fournissent une API ne ferait que nous
+ralentir /et/ créer une dépendance externe pour laquelle
+nous devrons assurer le suivi -- l'assurance de nous ralentir
+également tout progrès dans le futur."
+
+- - -
+
+Après la collation de la fin de matinée, Zjing amena son
+listing de code à la nonne en charge du Clan du Grand Géocoucou Agile.
+
+"Le Clan du Faucon en Piqué a dupliqué vos règles métier,"
+dit Zjing, montrant le code. "Vous devriez leur fournir
+une bibliothèque ou un service à appeler."
+
+"Mais nous-mêmes n'avons pas besoin de tout cela,"
+dit la nonne en chef. "Appliquer ces règles dans notre
+interface utilisateur s'est fait sans effort.
+Extraire et publier cela pour d'autres usages en dehors
+de chez nous  ne ferait que nous ralentir /et/ créer une
+autre API pour laquelle nous devrons assurer le suivi
+-- l'assurance de nous ralentir également tout progrès
+dans le futur."
+
+- - -
+
+Après le déjeûner, Zjing s'en fut dans les bois pour se vider l'esprit.
+
+Sur son chemin, elle vit cinq loups encercler un cerf.
+Le brocard, sans aucune voie d'échappatoire possible, fut
+rapidement achevé par le loup le plus rapide, après quoi la
+meute put manger à sa faim.
+
+Sur le retour, elle vit trois lapins manger du trèfle dans
+une grande clairière verte. Il ne se passait pas une minute
+sans qu'un lapin ne tente de repousser l'un des autres.
+En fait, ils passaient autant de temps à se courir les uns
+après les autres qu'à manger.
+
+En voyant ceci, la jeune maître reçut l'illumination.
+
+- - -
+
+Après le repas du soir, Zjing se tint devant un exemplaire
+du Manifeste Agile dans le Grand Hall, en contemplation.
+L'un des cuisiniers lui demanda ce qui pouvait bien
+l'obséder autant.
+
+Zjing dit : "Un changement dans le régime du Temple."
+
+Quand le cuisinier lui demanda des explications, Zjing dit :
+"Même les Patriarches n'ont pas pu apprendre à un gros lapin
+à être un peu plus intelligents. Mais s'il poussait des jambes à
+toute la verdure et qu'elle pouvait s'enfuir devant son
+prédateur, imagine comment ces petites bêtes aux grandes oreilles
+pourraient devenir des chasseurs très malins..."
+
+
+== Notes du Traducteur
+
+Les noms originaux des clans sont :
+
+* [[Swooping Falcon Clan|Clan du Faucon en Piqué]] : Swooping Falcon Clan, difficile à traduire élégamment faute de mot unique : "qui plonge, attaque, descend en piqué ?".
+
+* [[Nimble Roadrunner Clan|Clan du Grand Géocoucou Agile]] : Nimble Roadrunner Clan, je voulais mettre Bip-Bip dans le nom, car j'imagine que Roadrunner est une allusion à "Bip-Bip et Coyote", /Road Runner and Wile E. Coyote/.
+
+Mais en fait, le nom de l'espèce de
+<a href="https://fr.wikipedia.org/wiki/Bip_Bip">Bip-Bip</a>, le
+<a href="https://fr.wikipedia.org/wiki/Grand_G%C3%A9ocoucou">Grand Géocoucou</a>,
+est amplement suffisante pour l'effet comique :)
+J'aurais pu mettre /Cuculidé/ ou /Neomorphinae/ qui ont aussi un grand potentiel, mais je suis resté sur le Grand Géocoucou.
