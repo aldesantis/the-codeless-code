@@ -1,0 +1,48 @@
+Date: 2016-05-30
+Number: 229
+Title: The Recommended Approach
+Geekiness: 2
+Names: Suku
+Topics: APIs, design, reusability, empathy, top-down approach
+Tagline: In which 
+
+A certain monk heard that master [[Suku]] knew the secret of
+designing code for maximum reusability.  But whenever the
+monk begged the master to share her wisdom, Suku only walked
+away.  Exasperated, the monk asked one of Suku's three
+apprentices for help.
+
+"To learn the master's great secret, you must approach her
+correctly," explained the apprentice.  "Come; I shall assist
+you."
+
+The apprentice gave the monk special ceremonial robes, which
+were several sizes too large and had to be wound twice
+around his arms and legs.  To keep the robes from unraveling
+the apprentice tied a long sash tightly around the monk's
+body from wrists to ankles.  When the monk protested that
+walking was now impossible, the apprentice only nodded,
+saying that the monk was meant to approach Suku on his belly,
+with his head low and his feet high.
+
+Angrily the monk writhed slowly down the corridor on his
+stomach, cursing Suku and wondering whether /any/ wisdom could
+possibly be worth such ridiculous effort.
+
+At this thought, the monk was suddenly enlightened.
+
+
+== Qi's commentary
+
+Some masters answer a question with a single gesture; Suku
+answered without even being asked.  The master has a most
+efficient API indeed, for she returns a usable value even
+when her function is not called.
+
+
+== Qi's poem
+
+The general wanted a mount that could cross the Empire. //
+The groom delivered only a plush saddle. //
+Many fine horses stumble on stony roads -- //
+Sometimes even a general should think with his posterior. //
