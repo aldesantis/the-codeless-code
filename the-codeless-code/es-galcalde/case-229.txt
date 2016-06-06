@@ -1,0 +1,28 @@
+Number: 229
+Title: El Enfoque Recomendado
+Lang: es
+Translator: galcalde
+Tagline: En el cual
+
+Cierto monje oyó que la maestra [[Suku]] conocía el secreto de diseñar código para la reusabilidad máxima. Pero cada vez que el monje le pedía a la maestra que compartiera su conocimiento, Suku sólo se alejaba. Exasperado, el monje le pidió ayuda a uno de los tres aprendices de Suku.
+
+"Para aprender el gran secreto de la maestra, debes acercarte a ella correctamente," explicó el aprendiz. "Ven; te ayudaré."
+
+El aprendiz le dio al monje ropas ceremoniales especiales, las cuales eran varios talles más grandes y tuvieron que ser enrolladas dos veces alrededor de sus brazos y piernas. Para evitar que las ropas se desenredaran el aprendiz ató fuertemente una faja larga alrededor del cuerpo del monje de las muñecas a los tobillos. Cuando el monje protestó de que le era imposible caminar, el aprendiz sólo asintió, diciendo que se pretendía que el monje se acercase a Suku de vientre, con la cabeza abajo y sus pies arriba.
+
+Furiosamente el monje se retorció lentamente por el corredor de estómago, maldiciendo a Suku y preguntándose si había <em>alguna</em> sabiduría para la cual valiera la pena un esfuerzo ridículo.
+
+En ese pensamiento, el monje fue iluminado de repente.
+
+
+== Comentario de Qi
+
+Algunos maestros responden una pregunta con un solo gesto; Suku respondió sin que le preguntaran. La maestra tiene una API muy eficiente sin dudas, porque devuelve un valor usable incluso cuando su función no es invocada.
+
+
+== Poema de Qi
+
+El general quiso una montura que pudiera atravesar el Imperio. //
+El peón sólo le dio una silla lujosa. //
+Muchos caballos buenos se tropiezan en caminos pedregosos -- //
+A veces hasta un general debería pensar con su trasero. //
