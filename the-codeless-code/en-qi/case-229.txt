@@ -4,7 +4,7 @@ Title: The Recommended Approach
 Geekiness: 2
 Names: Suku
 Topics: APIs, design, reusability, empathy, top-down approach
-Tagline: In which 
+Tagline: In which we begin to have some pity for others
 
 A certain monk heard that master [[Suku]] knew the secret of
 designing code for maximum reusability.  But whenever the
@@ -26,7 +26,7 @@ saying that the monk was meant to approach Suku on his belly,
 with his head low and his feet high.
 
 Angrily the monk writhed slowly down the corridor on his
-stomach, cursing Suku and wondering whether /any/ wisdom could
+stomach, cursing Suku and wondering whether /any/ information could
 possibly be worth such ridiculous effort.
 
 At this thought, the monk was suddenly enlightened.
