@@ -2,7 +2,7 @@ Number: 229
 Title: El Enfoque Recomendado
 Lang: es
 Translator: galcalde
-Tagline: En el cual
+Tagline: En el cual empezamos a sentir pena por otros
 
 Cierto monje oyó que la maestra [[Suku]] conocía el secreto de diseñar código para la reusabilidad máxima. Pero cada vez que el monje le pedía a la maestra que compartiera su conocimiento, Suku sólo se alejaba. Exasperado, el monje le pidió ayuda a uno de los tres aprendices de Suku.
 
