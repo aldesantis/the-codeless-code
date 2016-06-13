@@ -3,7 +3,7 @@ Number: 231
 Title: Laziness
 Geekiness: 0
 Names: Banzen, Swooping Falcon Clan
-Topics: user interfaces, usability, laziness, requirements
+Topics: user interfaces, usability, laziness, requirements, abstraction
 Tagline: In which someone does not feel like doing their job
 
 The head monk of the [[Swooping Falcon Clan]] asked master
