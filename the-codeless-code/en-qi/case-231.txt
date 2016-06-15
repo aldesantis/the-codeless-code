@@ -64,8 +64,8 @@ skeleton of a kite on her workbench.
 
 "What silks will you offer for that one?" asked Banzen.
 
-"Blue cloud designs only," said the kite-maker.  "But there
-are many dozens to choose from."
+"Blue cloud designs only," said the kite-maker.  "But I
+have many dozens of silks with blue cloud designs."
 
 "And that one?" asked Banzen, pointing to another.
 
@@ -94,7 +94,7 @@ algorithm, Banzen returned to the head monk.
 to you each week until the kite-maker has achieved happiness."
 
 In one quick motion Banzen tossed the contents of the
-envelope into the air.  Hundreds of miniscule squares of colored
+envelope into the air.  Hundreds of minuscule squares of colored
 paper spiraled gently down around the room; each like a
 tiny kite adrift on the wind.
 
