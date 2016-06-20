@@ -2,8 +2,8 @@ Date: 2016-06-06
 Number: 230
 Title: All Together Now
 Geekiness: 2
-Names: Zjing, Djishin, Hungry Worm Clan, Red Pebble Clan, Hall of Irresistable Somnolence
-Topics: design, reuse, coupling, complexity, hidden costs, agility
+Names: Zjing, Hungry Worm Clan, Red Pebble Clan, Hall of Irresistable Somnolence
+Topics: design, reuse, coupling, complexity, hidden costs, Agile
 Tagline: In which we farm some things out
 
 The [[Hungry Worm Clan]] was building a website
