@@ -1,0 +1,29 @@
+Number: 228
+Title: El Gigante Tembloroso
+Lang: es
+Translator: galcalde
+Tagline: En el cual somos más vastos que imperios.
+
+Después de una de las lecturas del maestro [[Kaimu]], un monje se acercó al maestro y dijo: Estoy aburrido de esa charla sin fin sobre prácticas de escribir código, de herramientas y técnicas. Se dice que sabes mucho sobre inteligencia artificial -- dime algo sobre eso.
+
+Kaimu agarró al monje en una llave de cabeza, puso un cuchillo junto a su oreja, y dijo: Déjame cortarte esos inútiles apéndices, y así podrás ver más claramente.
+
+Cuando el monje le pidió al maestro que deje caer su cuchillo, Kaimu respondió: No puedo, porque eres tú quien lo sostiene. Pero como deseas mantener tus dos orejas, dime que partiré en su lugar -- ¿dos riñones, dos pulmones, o dos litros de sangre?
+
+El monje gritó: ¡Piedad! ¡No partiría nada!
+
+Kaimu dijo: ¡Pero te dejaría tu cerebro excelente! ¡Y tanto debe serlo, si mis lecturas sólo dan aburrimiento! Muy bien, debo tomar dos pulgadas de tu cuello...
+
+Mientras Kaimu presionaba el cuchillo en su piel, el monje dijo: ¡Esto es una locura! ¿Que tiene de bueno mi cerebro sin mi cuerpo?
+
+Kaimu se rio y preguntó: ¿Que tiene de bueno un motor de reglas sin código que lo implemente, interfaces que lo consulten, bases de datos donde guardar su conocimiento, o sistemas operativos para correrlo? ¿Y de donde viene todo ese código?
+
+El monje consideró esto y dijo obedientemente: No debería buscar construir cerebros hasta que domine los oídos.
+
+Kaimu frunció el ceño y dijo: Tonto, tú <em>eres</em> los oídos, y los ojos, y las manos -- un par cada uno de innumerables millones. Tu y yo trabajamos día tras día, año tras año, construyendo y debuggueando pequeños pedazos de código -- en plataformas que <em>en si mismas</em> están hechas de código -- hasta el código que creamos está conectado al código creado por nuestros compañeros, y el código de nuestro templo le habla al código de otros cien templos -- a veces directamente, a veces súbitamente, a través de ojos que mueven mentes que mueven bocas que mueven oídos que mueven otras mentes para que muevan otras manos para escribir aun <em>más</em> código -- y así sucesivamente, nodo sobre nodo, enlace sobre enlace, extendido en un vasto, etéreo sistema nervioso que cubre este mundo y ha empezado a alcanzar más allá...
+
+Los ojos del maestro corrieron como un rayo, y continuó en voz baja:
+
+Cuando hacemos mal nuestro trabajo, somos reemplazados por más sabios. Cuando hacemos bien nuestro trabajo, lo que hemos construido crece más grande, más rápido, más poderoso, más atrincherado, más hambriento. A veces me quedo despierto en un sudor frío, incapaz de decidir si <em>nosotros</em> seguimos construyendo <em>eso</em>, o si <em>eso</em> ha empezado a usarnos para construirse <em>a si mismo</em>...
+
+{{*}} El título está inspirado por <a href="http://www.atlasobscura.com/places/pando-the-trembling-giant">esto</a>.
