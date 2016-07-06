@@ -1,0 +1,64 @@
+Date: 2016-06-19
+Number: 232
+Title: Education
+Geekiness: 2
+Names: Djishin, Satou, Banzen
+Topics: mentoring, monads, confidence, knowledge, java
+Tagline: In which we learn something new.
+
+For years the young monk [[Djishin]] had been apprenticed to
+old master [[Banzen]]. Although this was a privilege it
+brought Djishin little joy, for lately the master had been
+growing visibly irritated with the young monk.  Yet the monk
+could not fathom the reason.
+
+One morning Djishin said to his fellow apprentice [[Satou]]:
+I have committed Banzen's teachings to heart and perform my
+duties according to his example, yet his disdain for me is
+palpable!  And whenever I ask if I have done anything to
+incur his displeasure, he tells me No!  I am at my wit's end
+with the old man!
+
+Satou replied: If you can no longer march uphill, then the
+way forward is not in front of you.
+
+Djishin said: I cannot quit his service any more than I
+could bite my own legs off.  Yet my patience has waned to
+the thinnest sliver.  Soon, I fear, the master will push me
+too far, and I will surely rebel.
+
+Satou replied: Then run from the path and don't look back;
+for I cannot see your rebellion ending well for anyone, except
+perhaps the undertaker.
+
+- - -
+
+Not long after, Banzen was reviewing Satou's code and noted
+that she was now using Java's new /Optional/ class
+practically everywhere.  Banzen scolded the nun for her
+usual habit of playing with novelties instead of focusing
+her efforts on building a reliable implementation with
+customary patterns.
+
+Overhearing this exchange, Djishin felt the last dregs of
+patience drain from his body.
+The monk spat: /Optional/ is no passing fad; it is Java's
+implementation of the /Maybe/ monad, and any fool who truly
+cares about reliable implementations would do well to
+follow the nun's example!
+
+There followed an awful silence.  No one moved.
+Djishin could feel his heart pounding in his ears.
+
+Finally the master arched a bushy white eyebrow, saying:
+And what -- my impertinent, /former/ apprentice -- is a Monad?
+
+With a shaky voice, Djishin explained the nature of monads and
+[[#143|how he had learned of them]].
+When he finished, Banzen strode over to the monk, raised his staff,
+and flung both arms around the boy.
+
+At last! exclaimed the master.
+I have been wondering whether I'd trained a monk or a mockingbird.
+Now I can say to the other masters: on this day I learned /two/ things,
+for at last Djishin told me something that I did not know.

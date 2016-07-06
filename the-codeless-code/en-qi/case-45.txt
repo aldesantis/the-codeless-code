@@ -49,7 +49,7 @@ stomach, doubling him up.  "Tell me," said the second monk,
 "in which instance variable did I hit you?"
 
 The first monk leapt forward and boxed his opponent's ears.
-"And here I thought those appendages were for listening!"
+"And here I thought those appendanges were for listening!"
 said the first, as the second staggered aside in pain.
 "How fortunate that I set aside appearances and discovered
 their true purpose!"  His gloating was cut short by an uppercut
@@ -74,7 +74,7 @@ you have mistaken the purposes of those present."
 "Are you saying that the masters intend to conceal the
 answer from us?" asked the novice.
 
-/"Wu,"/ said Zjing.  "If I were the monk who prefers the Way
+/"Wú,"/ said Zjing.  "If I were the monk who prefers the Way
 of Object-Orientation, I would call your attention to the
 Unwritten Hierarchy, in which /Master/ is but a
 subclass of /Student/."

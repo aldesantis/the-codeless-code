@@ -1,0 +1,104 @@
+Date: 2016-06-12
+Number: 231
+Title: Laziness
+Geekiness: 0
+Names: Banzen, Swooping Falcon Clan
+Topics: user interfaces, usability, laziness, requirements, abstraction
+Tagline: In which someone does not feel like doing their job
+
+The head monk of the [[Swooping Falcon Clan]] asked master
+[[Banzen]] for assistance with a difficult customer.  The
+customer was a maker of silk-and-bamboo kites, and the
+clan's application allowed her to curate her large online
+catalog.
+
+"I simply cannot make her happy," complained the
+head monk.
+
+"Tell me what makes her /unhappy,"/ said Banzen.
+"Then perhaps you can do the opposite of that."
+
+"Laziness," the head monk declared; "for she says that our
+interface makes her do too much work, yet the work
+is /her/ fault, not ours."
+
+"Explain," said Banzen.
+
+"First," the head monk said, "for each kite, she wishes to
+allow only certain silks.  So our interface /must/ have her
+specify the silks on a kite-by-kite basis -- yet always she
+says this task is too tedious.  It is not our fault that she
+is so particular!"
+
+"Indeed," said Banzen.
+
+"To make matters worse," the head monk said, "she has
+/hundreds/ of bolts of silk in her shop, of which
+/dozens/ may be offered for any given kite!  We have tried
+every widget in our library -- multiple-selection lists,
+dual listboxes, typeahead-enabled drop-downs -- yet always
+she says this task is too onerous.  It is not our fault that
+she offers so many choices!"
+
+"Absolutely," said Banzen.
+
+"Finally," the head monk concluded, "new silks are always
+being introduced and old ones are always being retired.  So
+she must revise the list of silks for each kite throughout
+the year -- yet always she says this task is too burdensome.
+It is not our fault that fashion is fickle!"
+
+"Agreed," said Banzen.
+
+So Banzen went to see the kite-maker.
+
+- - -
+
+The kite-maker's complaints were exactly as the head monk
+described.  After hearing them, Banzen wandered her workshop,
+and indeed found many hundreds of bolts of silk, each
+a different pattern and hue.
+
+After pondering a moment, Banzen pointed to the bamboo
+skeleton of a kite on her workbench.
+
+"What silks will you offer for that one?" asked Banzen.
+
+"Blue cloud designs only," said the kite-maker.  "But I
+have dozens of silks with blue cloud designs."
+
+"And that one?" asked Banzen, pointing to another.
+
+"That is one of my 'crow' series," said the kite-maker.
+"Blue feather designs or black feather designs, but no
+lightweight silks."
+
+"And that one?" asked Banzen, pointing to another.
+
+"That is one of my 'dragon' series," said the kite-maker.
+"Black solids, red fire designs, or white earth designs,
+but no heavy silks."
+
+When he was certain that he understood the kite-maker's
+algorithm, Banzen returned to the head monk.
+
+- - -
+
+"It is as you described," said Banzen to the head monk.
+"What makes the kite-maker unhappy is laziness."
+
+"Yet how can she be corrected?" asked the monk.
+
+/"Wú,"/ said Banzen, producing a thick envelope from his robes.
+"Here is the means of correction, which I will deliver
+to you each week until the kite-maker has achieved happiness."
+
+In one quick motion Banzen tossed the contents of the
+envelope into the air.  Hundreds of minuscule squares of colored
+paper spiraled gently down around the room; each like a
+tiny kite adrift on the wind.
+
+"Lovely," said the head monk, "but what is it?"
+
+"It is called /confetti/, said Banzen.  "I made it from your
+week's pay.  Using small bills, of course."
