@@ -1,0 +1,63 @@
+Number: 231
+Title: Pereza
+Lang: es
+Translator: galcalde
+Tagline: En el cual alguien no tiene ganas de hacer su trabajo
+
+El monje principal del [[Swooping Falcon Clan|Clan del Halcón en Picada]] le pidió ayuda al maestro [[Banzen]] con un cliente difícil. El cliente era una fabricante de cometas de seda y bambú, y la aplicación del clan le permitía revisar su enorme catálogo en línea.
+
+"Simplemente no puedo hacerla feliz," se quejó el monje principal.
+
+"Dime que la hace <em>infeliz,"</em> dijo Banzen. "Entonces quizás podrás hacer lo opuesto."
+
+"Pereza," declaró el monje principal; "porque ella dice que nuestra interfaz hace que ella haga mucho trabajo, sin embargo el trabajo es <em>su</em> culpa, no nuestra."
+
+"Explícate," dijo Banzen.
+
+"Primero," dijo el monje principal, "para cada cometa, desea permitir sólo ciertas sedas. Así que nuestra interfaz <em>debe</em> tenerla especificando las sedas individualmente por cometa -- sin embargo ella siempre dice que esa tarea es muy tediosa. ¡No es nuestra culpa que ella sea tan particular!"
+
+"Sin dudas," dijo Banzen.
+
+"Para empeorar las cosas," dijo el monje principal, "ella tiene <em>cientos</em> de rollos de seda en su tienda, ¡de los cuales <em>docenas</em> pueden ser ofrecidos para una cometa dada! Hemos probado cada widget en nuestra librería -- listas de selección múltiple, listboxes duales, Drop downs con typeahead -- sin embargo ella siempre dice que esa tarea es muy onerosa. ¡No es nuestra culpa de que ella ofrezca tantas opciones!"
+
+"Absolutamente," dijo Banzen.
+
+"Finalmente," concluyó el monje principal, "siempre se introducen sedas nuevas y se retiran sedas viejas. Así que ella debe revisar la lista de sedas para cada cometa por todo el año -- sin embargo ella siempre dice que esa tarea es muy pesada. ¡No es nuestra culpa que la moda sea voluble!"
+
+"De acuerdo," dijo Banzen.
+
+Entonces Banzen fue a ver a la fabricante de cometas.
+
+- - -
+
+Las quejas de la fabricante de cometas eran tal como las describió el monje principal. Después de escucharlas, Banzen deambuló por su taller, y sin dudas encontró varios cientos de rollos de seda, cada uno con un tono y patrón distintos.
+
+Después de reflexionar un momento, Banzen señaló al esqueleto de bambú de una cometa en su mesa de trabajo.
+
+"¿Qué sedas ofreces para esta cometa?" preguntó Banzen.
+
+"Sólo diseños azul nube," dijo la fabricante. "Pero tengo docenas de sedas con diseños azul nube."
+
+"¿Y para aquella?" preguntó Banzen, señalando a otra.
+
+"Esa es una de mi serie 'cuervo'," dijo la fabricante. "Diseños azul pluma o negro pluma, pero no sedas ligeras."
+
+"¿Y para aquella?" preguntó Banzen, señalando a otra.
+
+"Esa es una de mi serie 'dragón'," dijo la fabricante. "Sólidos negros, diseños rojo fuego o blanco tierra, pero no sedas pesadas."
+
+Cuando él estuvo seguro de entender el algoritmo de la fabricante de cometas, Banzen regresó con el monje principal.
+
+- - -
+
+"Es tal como lo has descrito," dijo Banzen al monje principal. "Lo que pone infeliz a la fabricante de cometas es la pereza."
+
+"¿Sin embargo como puede ser corregida?" preguntó el monje.
+
+<em>"Wú,"</em> dijo Banzen, sacando un sobre grueso de sus ropas. "Aquí están las medidas de corrección, las cuales te entregaré cada semana hasta que la fabricante haya logrado la felicidad."
+
+En un rápido movimiento Banzen tiró los contenidos del sobre al aire. Cientos de cuadrados minúsculos de papel coloreado volaron en espiral por el cuarto; cada uno como una pequeñita cometa a la deriva en el viento.
+
+"Bonito," dijo el monje principal, "¿pero qué es?"
+
+"Se llama <em>confeti</em>, dijo Banzen. "Lo hice con tu paga semanal. Usando billetes pequeños, por supuesto."
