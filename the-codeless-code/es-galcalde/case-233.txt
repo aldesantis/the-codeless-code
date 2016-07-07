@@ -1,0 +1,19 @@
+Number: 233
+Title: La lluvia que cae y que sube
+Lang: es
+Translator: galcalde
+Tagline: En el cual volvemos a los caminos de la naturaleza.
+
+Dos monjes estaban discutiendo sobre la mejor manera de implementar dos workflows algo similares en su aplicación. Fueron a visitar a la maestra [[Suku]] para resolver su disputa.
+
+El primer monje dijo, "Creo que deberíamos implementar ambos workflows separadamente para evitar que se restrinjan el uno al otro. Cuando se haga todo el trabajo podemos identificar las partes en común, y combinarlas en clases base genéricas o utilidades. Si workflows similares son deseados en el futuro, seguiremos este proceso: diseñar cada flujo nuevo independientemente, usar el código genérico donde sea posible, y combinar el código específico del workflow en implementaciones genéricas cuando sea apropiado."
+
+Suku le dijo al primer monje, "Es un enfoque muy natural. Cuando llueve en la montaña, pequeñas gotitas caen en cascada por las piedras. Mientras las aguas bajan hacia el valle, diez mil vías de agua se mezclan mil riachuelos, luego en cien arroyos, luego diez corrientes, luego un poderoso río."
+
+El segundo monje dijo, "Creo que deberíamos implementar ambos workflows juntos, usando sus características para definir un framework genérico. Cuando aparezcan casos especiales o flujos alternativos, podemos abstraerlos como características configurables, o añadir ganchos al framework como es debido. Si workflows similares son deseados en el futuro, seguiremos este proceso: implementar cada flujo nuevo usando el framework, y si se prueba que es imposible, separar las implementaciones genéricas del framework para permitir código específico del workflow según se necesite."
+
+Suku le dijo al segundo monje, "Ese también es un enfoque natural. Cuando llueve en la montaña, pequeñas gotitas nutren las raíces del retoño. Mientras el poderoso roble asciende hacia el cielo, un tronco se divide en diez ramas gruesas, luego en cien ramas medianas, luego mil ramas finas, luego diez mil ramitas."
+
+Ambos monjes se inclinaron y se voltearon para irse -- su discusión aún no se resolvió -- cuando Suku suspiró en frustración y les golpeó la nuca con su bastón.
+
+"¡Monjes!" le dijo a la pareja. "Si al mundo se le borrara todo excepto la lluvia y las montañas, ¿Qué se formaría primero: el río, o el roble?"
