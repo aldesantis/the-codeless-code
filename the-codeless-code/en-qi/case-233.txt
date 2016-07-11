@@ -3,7 +3,7 @@ Number: 233
 Title: The Falling and the Rising Rain
 Geekiness: 2
 Names: Suku
-Topics: design, abstraction, refactoring, reuse, complexity, simplicity, big design up front
+Topics: design, abstraction, refactoring, reuse, complexity, simplicity, big design up front, YAGNI
 Tagline: In which we return to nature's ways.
 
 
