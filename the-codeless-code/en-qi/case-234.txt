@@ -1,0 +1,49 @@
+Date: 2016-07-10
+Number: 234
+Title: Ozymandius
+Geekiness: 1
+Names:
+Topics: FIXME, TODO, kludges
+Tagline: In which we fail to get around to it.
+Illus.0.src: papers.jpg
+
+The nun [[Hwídah]] has composed this uncharacteristically
+somber sonnet for your contemplation:
+
+     I chanced upon an ancient cache of code:       //
+     a stack of printouts, tall as any man,         //
+     that in decaying boxes had been stowed.        //
+     Ten thousand crumbling pages long it ran.      //
+     Abandoned in the blackness to erode,           //
+     what steered a ship through blackness to the moon. //
+     The language is unused in this late year.      //
+     The target hardware, likewise, lies in ruin.   //
+     Entombed within one lone procedure's scope,    //
+     a line of code and then these words appear:    //
+                                                    //
+     <tt># TEMPORARY, I HOPE HOPE HOPE</tt>         //
+                                                    //
+     The code beside persisting to the last --      //
+     as permanent as aught upon this sphere --      //
+     while overhead, a vacant moon flies past.      //
+
+
+//
+//
+//
+//
+//
+
+
+== Editor's note
+
+Inspired by <a href="http://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/">this story</a> of the Apollo Guidance Computer code for Apollo 11,
+and
+<a href="https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.s#L179">this code within</a>,
+and Percy Bysshe Shelley's <a href="https://en.wikipedia.org/wiki/Ozymandias">Ozymandius</a> of course.
+
+I tried to keep to Shelley's unusual (and non-standard)
+rhyme scheme for the sonnet, but I departed from it in the
+second-to-last line for poetic reasons.  For a language
+which excels in stealing words from other cultures, English
+has an appalling lack of rhymes.
