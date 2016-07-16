@@ -1,6 +1,6 @@
 Date: 2016-07-10
 Number: 234
-Title: Ozymandius
+Title: Ozymandias
 Geekiness: 1
 Names:
 Topics: FIXME, TODO, kludges
@@ -28,11 +28,7 @@ somber sonnet for your contemplation:
      while overhead, a vacant moon flies past.      //
 
 
-//
-//
-//
-//
-//
+<div style="padding-top:3in" />
 
 
 == Editor's note
@@ -40,7 +36,7 @@ somber sonnet for your contemplation:
 Inspired by <a href="http://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/">this story</a> of the Apollo Guidance Computer code for Apollo 11,
 and
 <a href="https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.s#L179">this code within</a>,
-and Percy Bysshe Shelley's <a href="https://en.wikipedia.org/wiki/Ozymandias">Ozymandius</a> of course.
+and Percy Bysshe Shelley's <a href="https://en.wikipedia.org/wiki/Ozymandias">Ozymandias</a> of course.
 
 I tried to keep to Shelley's unusual (and non-standard)
 rhyme scheme for the sonnet, but I departed from it in the
