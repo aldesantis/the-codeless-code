@@ -43,3 +43,5 @@ rhyme scheme for the sonnet, but I departed from it in the
 second-to-last line for poetic reasons.  For a language
 which excels in stealing words from other cultures, English
 has an appalling lack of rhymes.
+
+{{*}} Special thanks to Dan Sutton for pointing out a most embarrassing typo.
