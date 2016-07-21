@@ -1,0 +1,55 @@
+Number: 234
+Title: Ozymandias
+Tagline: Worin wir versäumen, dazu zu kommen.
+Language: de
+Translator: andrebogus
+
+
+Die Nonne [[Hwidah]] dichtete dies uncharakteristisch
+trübsinnige Sonett zur Kontemplation durch den geneigten
+Leser:
+
+     Ich stieß auf einen alten Haufen Code:       //
+     Ein Stapel Druckpapier, mannshoch und grau   //
+     Das in den Schachteln fast zwei Zentner wog, //
+     Zehntausend riss'ge Seiten lang genau,       //
+     Verlassen mir in Dunkelheit erbot,           //
+     was dereinst jenes Schiff geführt zum Mond.  //
+     Die Sprache ist seit langem aus der Mod'.    //
+     Die Zielhardware – wie ihresgleichen – tot.  //
+     Vergraben doch in einsam' Prozedur           //
+     Folgt dieser Kommentar der Zeile nur:        //
+                                                  //
+     <tt># TEMPORARY, I HOPE HOPE HOPE</tt>       //
+                                                  //
+     Der Code, er überdauert manches Jahr         //
+     – Beständig vor der Zeit nagendem Zahn –     //
+     Einsam der Mond darüber zieht die Bahn.      //
+
+
+<div style="padding-top:3in" />
+
+
+== Anmerkung des Verfassers
+
+Inspiriert von <a href="http://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/">dieser Geschichte</a> des Codes des Steuercomputers der Apollo 11 Mission,
+und
+<a href="https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc#L179">diesem enthaltenen Code</a>,
+und selbstverständlich Percy Bysshe Shelley's <a href="https://en.wikipedia.org/wiki/Ozymandias">Ozymandias</a>.
+
+Ich habe versucht, Shelley's unübliches Reimschema
+für das Sonnet zu erhalten, doch ich musste davon
+in der vorletzten Zeile aus poetischen Gründen
+abweichen. Für eine Sprache, die alle anderen darin
+übertrifft, von anderen Kulturen zu stehlen, hat
+das Englische einen bedauernswerten Mangel an Reimen.
+
+
+{{*}} Besonderen Dank an Dan Sutton der einen peinlichen Tippfehler entdeckte.
+
+
+== Anmerkung des Übersetzers
+
+Auch das Deutsche, obwohl es wahrlich keinen Mangel an Reimen hat, erlaubte
+mir keine einfache Lösung, um die originale Reimstruktur zu erhalten. Ich
+bitte vielmals um Entschuldigung.
