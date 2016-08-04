@@ -2,6 +2,7 @@ Number: 31
 Title: La Sandalia Elocuente
 Lang: es
 Translator: galcalde
+Illus.0.title: Obviamente fue una excepción tirada.
 
 Dos monjes llevaron su discusión ante el maestro Java [[Kaimu]]. Le preguntaron, "¿Null es un valor, o la ausencia de un valor?"
 
