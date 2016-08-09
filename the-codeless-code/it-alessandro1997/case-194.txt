@@ -1,0 +1,63 @@
+Number: 194
+Title: Alla deriva
+Lang: it
+Translator: alessandro1997
+
+La giovane maestra [[Zjing]] aveva lasciato il monaco aniano Wangohan [[#183|scegliere i propri strumenti di sviluppo]]
+per il progetto a cui stava lavorando.
+
+"Giacché da quello che ho osservato nella valle," ella spiegò, "gestire gli sviluppatori è come
+pascolare le mucche: se vuoi che l'animale vada avanti, l'errore più grave è porsi sul suo cammino."
+
+Durante il primo mese Zjing era sicura della saggezza delle proprie azioni, giacché [[Wangohan]] era
+felice come mai lo aveva visto. Arrivava ogni mattina smanioso e di buon'ora, lasciando raramente la
+sua postazione se non per dormire. Era persino stato visto chiacchierare amabilmente col monaco
+[[Landhwa]], che egli disprezzava.
+
+Ma nelle ultime settimana il compotamento di Wangohan era cambiato. Come prima, arrivava presto e
+andava via tardi, ma non parlava più con nessuno. Durante le teleconferenze appariva così giallo e
+pallido che Zjing dovette controllare la calibrazione dei colori del proprio monitor.
+
+Quando finalmente chiese al monaco cosa lo turbasse, Wangohan rispose che aveva solo incontrato
+alcune difficoltà impreviste, ma (la rassicurò) non c'era da preoccuparsi: aveva cercato questo,
+scaricato quello, scritto a quelli e ottenuto risposte da quegli altri, e tutto si sarebbe sistemato
+in un batter d'occhio. Prima che Zjing potesse chiedere dettagli, o anche solo dei nomi propri,
+Wangohan terminò la chiamata.
+
+/Devo investigare,/ pensò Zjing.
+
+Iniziò spulciando il codice di Wangohan, e scoprì che tutto ciò che lo riguardava non le era
+famigliare -- persino il linguaggio in cui era implementato non veniva utilizzato dal Tempio.
+Avventurandosi nella sintassi aliena, scoprì che l'interfaccia utente era scritta con un framework
+AJAX-JSON-XPath ben al di là delle capacità degli sviluppatori junior del Tempio; il linguaggio di
+templating faceva sembrare Perl4 civilizzato e antiquato; e il livello di persistenza era un
+database NoSQL così sperimentale che il numero di versione iniziava con due zeri e finiva con le
+parole 'alpha' e 'SNAPSHOT'.
+
+/Ho investigato,/ pensò Zjing. /E ora devo sdraiarmi./
+
+- - -
+
+Il giorno seguente, dopo varie pressioni, Wangohan confessò che non riusciva a far funzionare le
+varie tecnologie come voleva. Strane eccezioni comparivano. A volte l'applicazione si bloccava, a
+volte finiva la memoria. Non avendo nessuno nel Tempio che lo potesse aiutare, si era rivolto alle
+bacheche di discussione, alle mailing list, patch non testate e remote intuizioni.
+
+Zjing si scusò, lasciò la propria piccola capanna, e passò il resto della mattina appoggiata a una
+bassa staccionata sulla pastura, pensierosa.
+
+Alcune mucche comparvero dall'altra parte della staccionata, muovendosi disordinatamente verso di
+lei. Poi un'altra dozzina, e una dozzina dietro ancora.
+
+"Pastore!" urlò all'uomo che camminava dietro alle bestie. "Come conduci così tante mucche al
+trifoglio più dolce, senza perderne una?"
+
+/"Wú,"/ urlò il pastore. "Non lo faccio, giacché tori e mucche non sanno seguire -- solo evitare.
+Guarda come si allontanano quando mi avvicino! A volte cammino alla loro destra per evitare che si
+addentrino nella foresta, a volte cammino alla loro sinistra per impedirgli di finire nel canale, e
+a volte cammino dietro di loro per far sì che non si girino. Sono sempre in movimento, ma calmo;
+vedo tutto, e sono sempre visto. In questo modo tengo insieme le mie bestie, senza costringerle
+troppo, giacché non voglio che diventino ansiose e fuggano. Per pascolare una mandria, serve che ci
+sia una mandria; e la mandria è una cosa nebulosa, a metà tra l'ordine e il caos.
+
+Sentendo queste parole, Zjing fu illuminata.
