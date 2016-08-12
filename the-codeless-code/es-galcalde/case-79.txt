@@ -4,7 +4,7 @@ Lang: es
 Translator: galcalde
 Illus.0.title: La mayoría de mis libros están un poco manoseados.
 
-Cierta monja del [[One Shoe Clan|Clan de Un Zapato]] se había enedado con un ccódigo de muestra en un tutorial de PHP. La muestra contenía código de manejo de errores que no estaba previsto para su uso en producción, sin embargo no estaba claro en el texto. La monja copió obedientemente el código, y resultó en desastre.
+Cierta monja del [[One Shoe Clan|Clan de Un Zapato]] se había enredado con un código de muestra en un tutorial de PHP. La muestra contenía código de manejo de errores que no estaba previsto para su uso en producción, sin embargo no estaba claro en el texto. La monja copió obedientemente el código, y resultó en desastre.
 
 Cuando pasó la crisis, la monja halló al viejo escriba [[Qi]] escribiendo en el gran diario del templo. Ella se inclinó. "Di algo sobre los libros de instrucción que enseñan malas prácticas."
 
@@ -24,7 +24,7 @@ Bawan dijo: "Los libros son perros durmientes, incapaces de hacer travesuras por
 
 - - -
 
-El escriba llevó el pedido de la monja al infeliz maestro [[Banzen]], quien buscaba la perfección enn todas las cosas y raramente la hallaba.
+El escriba llevó el pedido de la monja al infeliz maestro [[Banzen]], quien buscaba la perfección en todas las cosas y raramente la hallaba.
 
 Banzen dijo: "Los libros son chuchos salvajes, toman parte de su naturaleza del escritor y parte del lector. Si el templo fue mordido, la culpa es principalmente de los dientes del animal. La única corrección requerida es aquella que se hace con tinta."
 
@@ -32,6 +32,7 @@ Banzen dijo: "Los libros son chuchos salvajes, toman parte de su naturaleza del 
 
 El viejo escriba volvió con la monja, y colocó su gran diario en sus manos. "He investigado la cuestión de los libros de instrucción."
 
-La monja halló ell caso más reciente, el cual aparecía sin finalizar. "Veo los testimonios de tres maestros," dijo ella, "sin embargo todos están en contradicción. ¿Qué escribirás en conclusión?"
+La monja halló el caso más reciente, el cual aparecía sin finalizar. "Veo los testimonios de tres maestros," dijo ella, "sin embargo todos están en contradicción. ¿Qué escribirás en conclusión?"
 
 El escriba ladró tres veces y se fue.
+
