@@ -1,0 +1,35 @@
+Number: 9
+Lang: da
+Translator: jeshansen
+Title: Uendeligheder
+
+To munke fra [[Spider Clan|Edderkoppe-klanen]] diskuterede om den nye
+inputvalideringsmetode var fanget i en uendelig løkke.
+
+"Hvor længe har den kørt?" spurgte abbeden.
+
+"Ikke mere end tredive minutter", sagde den blege, tynde munk.
+
+"Dog ikke mindre end det heller", sagde den mørke, tykke munk.
+
+"Og I to har intet andet udrettet end at vente på at den skulle blive
+færdig?", spurgte abbeden.
+
+Munkede bøjede deres hoveder i skam.
+
+Abbeden rapporterede dette til Javamesteren, der nikkede. "Hvilken en af 
+dem tror løkken _ikke_ er uendelig?"
+
+"Den blege, tynde", sagde abbeden.
+
+"Giv ham da en en hud vin, thi han er viis. Sandelig: Ingen løkke kan være
+uendelig. En dag vil strømmen gå, serveren vil ruste, templet vil blive til
+støv, og solen vil sluge Jorden."
+
+Da spurgte abbeden, "Og hvad med den mørke, tykke, ham der tror at
+løkken er uendelig?"
+
+"Giv ham to hud vin, for han er endnu visere. For brugeren der venter i
+sin browser, er ti sekunder en lidelse, et minut er som en æon, og alt
+længere end det er så godt som uendeligt. Når tigeren flænser antilopen,
+er antilopen ligeglad med om der blev brugt otte klør, eller en million."

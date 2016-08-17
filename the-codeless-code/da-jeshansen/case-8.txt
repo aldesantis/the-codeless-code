@@ -1,0 +1,20 @@
+Number: 8
+Lang: da
+Translator: jeshansen
+Title: Reducér, genbrug og atter genbrug
+
+En novicespurgte den store mester: "Hvad er Vejen?"
+
+Mesteren svarede, "At skrive kode er Vejen."
+
+Novicen spurgte så, "Hvad er ikke Vejen?"
+
+Mesteren svarede, "At skrive kode er ikke Vejen."
+
+Novicen sagde, "Så er dét at skrive kode alle ting."
+
+Mesteren svarede, "Og ligeså med ikke at skrive kode."
+
+Novicen spurgte, "Skriver vi kode lige nu, eller skriver vi ikke kode?"
+
+Mesteren svarede, "Vi er koden."
