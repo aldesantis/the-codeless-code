@@ -1,0 +1,52 @@
+Number: 9
+Lang: da
+Translator: jeshansen
+Title: Stolthed
+
+Efter en overfladisk inspektion dekreterede Javamesteren at hver munk
+hos [[Elephant's Footprint Clan|Elefantfodaftryksklanen]] fra nu af skulle
+fange sin egen fisk, høste sin egen ris, sy sine egne dragter og flikke
+sine egne sko.
+
+I løbet af en måned var munkene halvnøgne og alvorligt underernærede. Tidsfrister
+begyndte at blive overskredet. Abbeden bad Javamesteren om at genoverveje sin 
+beslutning.
+
+"Udemærket", sagde Javamesteren. "Hver torsdag skal de også brænde deres klæder
+og sko, og kaste deres ris og fisk i floden."
+
+Abbeden spurgte hvilken overtrædelse hans klan dog havde begået som kunne afstedkomme
+en sådan afstraffelse.
+
+"Afstraffelse?" sagde Javamesteren. "Jeg ville blot belønne. Er munkene hos 
+Elefantfodaftryksklanen ikke glade for deres uafhængighed og selvforsyning?
+Deres kode fortæller mig følgende:
+
+Hver og en har skrevet essentielt set de samme Datatilgangsobjekt og Værdiobjekter
+som sine naboer. Hver og en har skrevet sin egen teksthjælper og konfigurationsfilsparser.
+Hver og en har gennemgået udsøgte prøvelser for at designe, implementere, integrere, teste,
+debugge, reparere og udvide det som han så let kunne have lånt fra en af hans brødre."
+
+"Skal jeg udlede inkompetence? Hvis det er tilfældet, så må samtlige munke i Elefantfodaftryksklanen
+forvises fra templet.
+
+Skal jeg udlede forsætlig uvidenhed? HVis det er tilfældet, da kræver traditionen
+at de må blinde sig selv med brændenælder, og _så_ forvises.
+
+"Skal jeg udlede foragt for den dyrebare tid? Hvis det er tilfældet, da venter
+fangekælderen dem..."
+
+"Men nej", konkluderede Javamesteren. "Jeg skal i stedet konkludere stolthed —
+stolthed fra hver om at hans kode er hans brødres overlegen. Stolthed er en af de
+Fire Storheders Frø, og må tilskyndes. Lad Elefantfodaftryksklanen finpudse sine
+færdigheder med fåresakse og spyd, med nåle og segl, indtil hver enkelt munk må
+være ligeledes stolt af sine fine klæder og overflod på sin tallerken!"
+
+"Der vil være lidt tid til overs til at kode", observerede abbeden. "Og kejseren er
+ganske bogstavelig i sin fortolkning af ordet _deadline_."
+
+Mesteren nikkede. "Handelsmanden, for nyligt ruineret, kender kun til smerten ved
+tabet. Hvorimod den gamle eneboer lovpriser nøjsomhedens dyd, og ikke vil ændre sin
+overbevisning. Men er disse ikke den samme mand, blot adskilt af en livstid?"
+
+Således blev Elefantfodaftryksklanen frelst to gange og korrigeret.
