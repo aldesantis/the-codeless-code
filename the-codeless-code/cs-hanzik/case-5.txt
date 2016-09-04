@@ -1,0 +1,38 @@
+Number: 5
+Title: Void
+Lang: cs
+Translator: Hanzík
+
+Na podzim, jednoho chladného dne, se Java mistr vzbudil znepokojený. Vydal se na procházku, aby si pročistil hlavu.
+
+Netrvalo dlouho než mistr dorazil před brány chrámu Tří kamenů, kde se stále praktikovalo umění ANSI C. Učený bratr chrámu stál na hlídce.
+
+"Jaký je podstata <em>voidu</em>?" zeptal se mistr.
+
+"Nemá žádnou podstatu," odpověděl bratr. "Je to klacek přinesený psem, který nenosí klacky. Je to věc, na kterou ukazuje ruka, která může ukazovat na cokoliv. Je to dokonalá absence hodnoty."
+
+Mistr si pomyslel: "Chrám Tří kamenů nepotřebuje stráž, neboť se uvnitř nemůže nacházet nic, co by mělo hodnotu."
+
+Za nedlouho došel mistr k chrámu Železné oblohy, k místu plném teoretiků, kde bylo povoleno pouze praktikování ML. V zahradě plné zvadlých květin psala jedna ze sester lambda výraz do hlíny.
+
+"Jaký je podstata <em>voidu</em>?" zeptal se mistr.
+
+"Má barvu vzduchu a váhu ranní rosy," odpověděla sestra. "Když na něj narazíš, vydá zvuk zapadajícího slunce. Každá z prázdných mís jich obsahuje tolik, kolik se ti jen zlíbí."
+
+Mistr si pomyslel: "Sestra neříká nic, co by byla lež, ale zároveň neříká nic, co by byla pravda."
+
+O kus dál přišel mistr k velkému panství, kde stará žena stříhala živý plot.
+
+"Jaký je podstata <em>voidu</em>?" zeptal se mistr.
+
+Žena se pouze uklonila a pokračovala ve stříhání.
+
+Mistr si pomyslel: "Tady lze najít pravou moudrost, pokud tu tedy nějaká vůbec byla."
+
+Nakonec došel mistr k opuštěnému hřbitovu.
+
+"Jaký je podstata <em>voidu</em>?" zeptal se mistr.
+
+Z prázdného hřbitova se nic neozvalo.
+
+Java mistr byl spokojen.

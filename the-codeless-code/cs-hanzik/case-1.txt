@@ -1,0 +1,14 @@
+Number: 1
+Title: Maličkosti
+Lang: cs
+Translator: Hanzík
+
+Tři dlouhé dny a tři ještě delší noci nevyšel Java mistr ze své kanceláře. Čtvrtý den vyslali bratři z chrámu jednoho z učňů, aby zjistil, co se stalo.
+
+Učeň našel mistra u tabule, jak rozjímá nad jediným diagramem datových toků. I jako pouhý žák poznal, že se jedná pouze o malou komponentu velmi rozsáhlého systému, který měli mniši za úkol spravovat. Učedník se optal mistra, na čem pracuje.
+
+"V komponentě se objevil defekt a já přemýšlím nad tím, jak to co nejlépe opravit." odpověděl mistr.
+
+Žák na to řekl: "Mistře, často kážete o tom, jak je důležité si určovat priority. Jak pak, prosím, můžete být posedlý opravou něčeho tak malého a bezvýznamného?"
+
+Bez jediného slova zdvihl mistr svoji hůl a tvrdě udeřil učně do malíčku jeho bosé nohy, až mu zlomil malíček. Žák bolestí vykřikl a odbelhal se pryč z kanceláře. V ten moment byl žák poučen.

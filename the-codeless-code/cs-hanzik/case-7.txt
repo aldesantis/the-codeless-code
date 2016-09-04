@@ -1,0 +1,26 @@
+Number: 7
+Title: Nepřítel dobra
+Lang: cs
+Translator: Hanzík
+
+Mniši z [[Laughing Monkey Clan|Řádu smějící se opice]] se obrátili na Java mistra se seznamem stížností.
+
+"Naším největším problémem budiž proces testování," tvrdil nejmladší z mnichů. "Manuální testování je únavné a s automatizovaným testováním jsou samé problémy. Obojí zbytečně rozptyluje od tvorby nového kódu."
+
+Mistr se nad tímto zamyslel a prohlásil: "Je jisté, že bychom mohli testování zcela vynechat, kdybychom si byli jistí, že je náš kód dokonalý. Povězte mi, jak můžeme dosáhnout dokonalosti?"
+
+"Tréninkem," odpověděl jeden z bratrů.
+
+"Pilným studováním," odpověděl další.
+
+"Uspokojením těch správných bohů," odpověděl třetí.
+
+Z rohu místnosti se ozval starý mnich s bílým plnovousem, který až doposud seděl v naprosté tichosti:
+
+"Vím, jak lze dosáhnout dokonalosti," prohlásil. "Ale obávám se, že pokud svoji odpověď neřeknu těmi správnými slovy, tou správnou intonací a v ten správný moment dne, pak nikoho z vás o pravdivosti mého tvrzení nepřesvědčím. Musím zvážit, jak toto správně provést."
+
+Starý mnich se na dlouhou dobu odmlčel. Za západu slunce bylo slyšet zvon svolávající bratry k večeři.
+
+"Jak dlouho to bude trvat?" zeptal se jeden z nováčků.
+
+"Ne déle než sto let," odpověděl starý mnich.

@@ -1,0 +1,30 @@
+Title: Pýcha
+Number: 10
+Lang: cs
+Translator: Hanzík
+
+Po namátkové kontrole Java mistr rozhodl, že každý z bratrů [[Elephant's Footprint Clan|Řádu sloní šlápoty]] si bude sám v jezeře chytat ryby, sám si bude pěstovat svojí vlastní rýži a sám si bude šít své ošacení.
+
+Netrvalo to ani měsíc a bratři chodili v roztrhaných hábitech a byli značně podvyživení. Ani jeden z deadlinů se nestihl. Místní opat se vydal poprosit Java mistra, aby znovu zvážil své rozhodnutí.
+
+"Dobře tedy," prohlásil Java mistr. "Každý čtvrtek nechť každý spálí své oblečení a zahodí všechnu svojí rýži a ryby do jezera."
+
+Opat se zeptal, čím se jeho řád provinil, že si zaslouží takový krutý trest.
+
+"Trest?" odpověděl Java mistr. "Já vás chtěl odměnit. Netěší se snad bratři Sloní šlápoty ze své soběstačnosti a nezávislosti na ostatních? Jejich kód by toto potvrzoval."
+
+"Každý z bratrů napsal v podstatě identické Data Access objekty a Value objekty jako jeho soused. Každý z bratrů si vytvořil své vlastní nástroje na zpracování stringů a na parsování souborů. Každý vynaložil ohromné úsilí na navržení, implementaci, integraci, testování, debugování a opravě něčeho, co si pouze mohl převzít od některého ze svých bratrů."
+
+"Mám z toho usoudit, že jde o inkompetenci? Pak každý z řeholníků Řádu sloní šlápoty musí být vykázán z kláštera."
+
+"Mám z toho usoudit, že jde o úmyslnou neznalost? Pak si tradice žádá, aby se sami oslepili kopřivami a /až poté/ byli vykázáni z kláštera."
+
+"Mám z toho usoudit, že jde o opovrhování časem? Pak žalář bude pro všechny provinilé vhodnou volbou..."
+
+"Ale ne," usoudil Java mistr. "Namísto toho jsem usoudil, že jde o pýchu. Každý se pyšní svým vlastním kódem, který je lepší a kvalitnější než kód napsaný některým z jeho bratrů. Pýcha je jedním ze Čtyř pilířů kvality a je třeba ji podporovat. Nechť si Řád sloní šlápoty zdokonalí své schopnosti ve všech ohledech, ať mohou být stejně tak pyšní i na své ošacení a bohatou úrodu."
+
+"Pak ale nezbude čas na psaní kódu," prohlásil opat. "Císař se vyjádřil zcela jasně, co nesplnění /deadlinu/ znamená."
+
+Mistr přikývl. "Obchodník se poslední dobou utápí v chudobě a nezná nic než ztrátu a utrpení. Zatím co starý poustevník ctí svá úsporná opatření a nikdy se nezmění. Liší se ale snad tito dva něčím jiným než množstvím letokruhů?"
+
+Tak byl Řád sloní šlápoty ušetřen dvěma trestům a napraven.

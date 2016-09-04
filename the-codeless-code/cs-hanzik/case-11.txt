@@ -1,0 +1,22 @@
+Title: Klece
+Number: 11
+Lang: cs
+Translator: Hanzík
+
+Aby se zabránilo dalšímu množení duplicitního kódu, nařídil opat [[Elephant's Footprint Clan|Řádu sloní šlápoty]], že bratři mohou psát pouze kód, který přímo souvisí s vyvíjenou aplikací. Cokoliv s více obecným použitím musí být předloženo Výboru o znovupoužití softwaru, který prozkoumá všechny možné open source řešení, zváží výhody každé možnosti s navrhovaným využitím pro všechny vyvíjené aplikace, upraví design podle návrhů od členů výboru a (pokud celý proces byl schválen) zařadí projekt do implementačního rozvrhu. Toto celé může trvat dlouhé týdny.
+
+Když se zprávy o tomto nařízení donesly až k Java mistrovi, nechal si poslat dva zpěvavé ptáčky, které patřili mezi opatovo oblíbené, se slovy, že je za týden vrátí. A taky že je vrátil. Vrátil je ve dvou různých klecí z bambusu, které sám Java mistr navrhl.
+
+Mříže první z klecí měli mezi sebou velké mezery, a tak ptáček při přepravě hravě uletěl.
+
+Mříže druhé z klecí byly u sebe tak blízko, že ani světlo ani vzduch nedokázal projít skrz. Ptáček byl po návratu nalezen v kleci mrtvý.
+
+Ke každé z klecí byla přivázaná krátká báseň, psaná rukou mistra:
+
+    Po dlouhé cestě //
+    od vzduchu až po rakev //
+    leží mnoho domů klecí.
+
+    Domek drozda //
+    není sdílený //
+    s domkem červa ani býka.

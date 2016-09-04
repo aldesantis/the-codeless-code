@@ -1,0 +1,14 @@
+Title: Kompromis
+Number: 25
+Lang: cs
+Translator: Hanzík
+
+Dva bratři přišli za Java mistrem s velmi odlišnými strategiemi pro implementaci jednoho z projektů. Každý z nich představil svůj návrh s nadšením a naprostým přesvědčením.
+
+Po krátkém zvážení se mistr rozhodl, aby si bratři rozdělili jednotlivé podsystémy. Každý si vezme na starost jednu polovinu a bude postupovat podle své preferované strategie.
+
+Na to se první z bratrů ohradil: "Neexistuje snad na každý problém právě jedno jediné řešení, které je lepší než ostatní?"
+
+Ani druhý z bratrů nebyl nadšený: "A když není jasné, které řešení je nejlepší, není obecně vhodné zvolit právě jeden postup, abychom předešli chaosu?"
+
+"Ano," odpověděl Java mistr. "Copak jste mě ani jeden neposlouchal?"

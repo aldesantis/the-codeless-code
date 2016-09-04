@@ -1,0 +1,20 @@
+Title: Přerušení
+Number: 21
+Lang: cs
+Translator: Hanzík
+
+Jistý mnich nechtěl opustit svůj terminál. Celé dva dny odmítal jídlo i vodu.
+
+Když to šel Java mistr prověřit, našel tohoto mnicha stále sedět u svého stolu, v tuto chvíli již poměrně roztřeseného. Na jeho monitoru běžel debugger, na kterém běžel tento kód:
+ 
+|   while (true) {
+       /* nedělej nic */
+    }
+
+"Usoudil jsem, že tento cyklus se musí vykonávat, dokud je pravda pravdou," prohlásil mnich. "Když ale zmáčknu klávesu pro přerušení, cyklus se ukončí. To by znamenalo, že přesně v tu chvíli, /pravda již není pravdou./ Jak se kdokoliv z nás může opovažovat přerušit takový program? Jaký chaos můžeme na svět seslat!"
+
+Java mistr sáhl pod stůl a vytáhl terminál ze zásuvky. Obrazovka v tom okamžiku zhasla.
+
+"Nyní ten cyklus už nikdo nemůže přerušit," řekl mistr.
+
+Mnichova mysl našla klidu.
