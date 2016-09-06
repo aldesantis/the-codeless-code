@@ -1,0 +1,15 @@
+Title: Evoluce
+Number: 13
+Lang: cs
+Translator: Hanzík
+
+Jeden z nových učňů si nastudoval kód Java mistra a osvojil si jeho styl doslova a do písmene - použití návrhových vzorů, konvence pro pojmenovávání proměnných, počet mezer používaných pro odsazení vnořených bloků kódu, ba dokonce i komentáře psal jako by je formuloval sám mistr.
+
+Během následující revize kódu byl učeň překvapen, když viděl Java ohromně naštvaného.
+
+"Ale mistře," namítal učeň. "Dělal jsem všechno naprosto přesně jako vy, do posledního středníku. Podívejte se na tuto utilitku, kterou jste napsal sotva minulý měsíc. Povězte, není podobná mému kódu, jako by to byly dvě vejce ze stejného hnízda?"
+
+"Přesně v tom je ten problém," zamračil se mistr. "Včera jsem byl hlupák, před týdnem idiot a před měsícem imbecil. Neukazuj mi kód, který jsem napsal včera. Ukaž mi kód, který napíšu zítra."
+
+
+{{*}} Pravděpodobně [[Banzen]].

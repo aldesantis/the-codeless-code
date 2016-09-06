@@ -1,0 +1,16 @@
+Title: Jakýmkoliv jiným jménem
+Number: 19
+Lang: cs
+Translator: Hanzík
+
+Starý písař byl dotázán, proč v jeho oficiálních záznamech nezapomněl u žádného chrámu a řádu na jméno, ale nejmenoval jediného mnicha ani kněze.
+
+"Kdybych vám dal sečíst pergamen plný čísel, poznamenali byste si nejprve každé číslo sedm?" optal se písař a odehnal tazatele mávnutím jeho inkoustem potřísněné ruky.
+
+Tato odpověď se dostala až k Java mistrovi. Ten pokýval hlavou a dopil svůj čaj.
+
+Druhý den ráno, když se písař vracel do své kanceláře, našel nad svými dveřmi napsáno tučným písmem následující:    
+
+      public static final int NUM_DAYS_IN_WEEK =
+
+A tak byl starý písař [[Qi]] osvícen.

@@ -1,0 +1,12 @@
+Title: Nenapravený mnich
+Number: 26
+Lang: cs
+Translator: Hanzík
+
+Dva kněží z [[Seven-Clawed Blind Eagle Clan|Řádu slepého orla]] našli Java mistra [[Banzen|Banzena]] vzlykat u své klávesnice. Zeptali se ho, co ho trápí.
+
+"Kód tohoto mnicha je otřesný," odpověděl mistr. "Struktura balíčků je neintuitivní, názvy tříd nedávají smysl, metody jsou příliš komplikované a komentáře nedávají smysl. Dlouhých deset let se účastnil všech mých kázání a vždy, nutno uznat, dodržoval všechna moje přikázání do slova a do písmene. I přesto jsou ale plody jeho práce těžko stravitelné."
+
+První z kněžích si prohlédl kód. "Vskutku, bude třeba ho napravit. Navrhuji začít prostým výpraskem."
+
+Mistr si povzdechl a přikývl, načež si sundal svoji róbu, aby odhalil svá záda.
