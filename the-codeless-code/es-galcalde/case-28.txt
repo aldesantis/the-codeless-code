@@ -6,7 +6,7 @@ Translator: galcalde
 
 Al [[Clan of Iron Bones|Clan de los Huesos de Hierro]] se le dio la orden de mantener corriendo los servidores. Ese era su propósito, y era su orgullo.
 
-Un monje del clan corría una revisión de seguridad cuando se dio cuenta de varios servicion no esenciales activados. Reportó sus hallazgos al abad.
+Un monje del clan corría una revisión de seguridad cuando se dio cuenta de varios servicios no esenciales activados. Reportó sus hallazgos al abad.
 
 "Debemos apagar el servicio <em>echo</em> en el puerto siete," dijo el monje. "Es un remanente de tiempos olvidados, y no sirve más para un propósito útil. Todo lo que hace es vomitar todo lo que se le alimenta, como ayuda para probar la latencia y conectividad de la red."
 

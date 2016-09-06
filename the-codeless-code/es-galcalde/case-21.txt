@@ -5,7 +5,7 @@ Translator: galcalde
 
 Cierto monje fue declarado indispuesto a abandonar su terminal. Durante dos días estuvo sin comer ni dormir.
 
-Cuando el maestro Java investigó, encontró al minje visiblemente perturbado. En pantalla estaba el siguiente código, el cual en aquel momento corría bajo el debugger:
+Cuando el maestro Java investigó, encontró al monje visiblemente perturbado. En pantalla estaba el siguiente código, el cual en aquel momento corría bajo el debugger:
 
 <pre>
     while (true) {
