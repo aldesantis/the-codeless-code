@@ -1,7 +1,7 @@
 Title: Kompromis
 Number: 25
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Dva bratři přišli za Java mistrem s velmi odlišnými strategiemi pro implementaci jednoho z projektů. Každý z nich představil svůj návrh s nadšením a naprostým přesvědčením.
 

@@ -1,7 +1,7 @@
 Title: Ahoj, světe!
 Number: 14
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 První den v chrámu položil Java mistr novým učňům tyto tři otázky:
 

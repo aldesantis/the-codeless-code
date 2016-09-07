@@ -1,7 +1,7 @@
 Title: Nezbytné vlastnosti
 Number: 18
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Ten samý mnich ze Sloní šlápoty dumal nad kódem, který jeho řád vytvořil. Prohlížel si několik podobných implementací jednoho Data Access objektu a snažil se rozhodnout, kterou z nich bude řád nadále používat.  
 

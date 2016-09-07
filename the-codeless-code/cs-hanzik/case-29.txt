@@ -1,7 +1,7 @@
 Title: Zlatá rybka
 Number: 29
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Když se nováček stane členem chrámu a začne hledat moudro, je vždy odkázán k Java mistru Bawanovi, aby se ho zeptal: "Jak se stala stará madam [[Jinyu]] Abatyší všech řádů a záležitostí?"
 

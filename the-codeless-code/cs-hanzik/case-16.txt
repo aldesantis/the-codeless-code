@@ -1,7 +1,7 @@
 Title: Dokumentace
 Number: 16
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Opat z [[Seven-Clawed Blind Eagle Clan|Řádu slepého orla]] prováděl evidenci balíčků všech mnichů, když si všiml, že bratr z [[Laughing Monkey Clan|Řádu smějící se opice]] nedodal ani jednu dokumentaci.
 

@@ -1,7 +1,7 @@
 Title: Nenapravený mnich
 Number: 26
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Dva kněží z [[Seven-Clawed Blind Eagle Clan|Řádu slepého orla]] našli Java mistra [[Banzen|Banzena]] vzlykat u své klávesnice. Zeptali se ho, co ho trápí.
 

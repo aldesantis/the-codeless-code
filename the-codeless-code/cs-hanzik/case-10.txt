@@ -1,7 +1,7 @@
 Title: Pýcha
 Number: 10
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Po namátkové kontrole Java mistr rozhodl, že každý z bratrů [[Elephant's Footprint Clan|Řádu sloní šlápoty]] si bude sám v jezeře chytat ryby, sám si bude pěstovat svojí vlastní rýži a sám si bude šít své ošacení.
 

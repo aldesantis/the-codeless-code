@@ -1,7 +1,7 @@
 Number: 6
 Title: Nicota
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Po návratu z dovolené našel hlavní opat [[Laughing Monkey Clan|Řádu smějící se opice]] chrám ve značné panice a chaosu. Finanční systém, který nedávno modifikovali, vyhazoval NullPointerException pro všechny nové zákazníky. Tito uživatelé, v krajních případech značně znepokojení, mazali své účty ještě ten samý den, co ho vytvořili.
 

@@ -1,7 +1,7 @@
 Number: 4
 Title: Vrba
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Nový kněz z [[Spider Clan|Řádu pavoučí sítě]] truchlil nad mizernou kvalitou Javascriptového kódu, který napsali jeho učni.
 

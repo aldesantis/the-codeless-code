@@ -1,7 +1,7 @@
 Title: Bezpečnost
 Number: 22
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Mnich z [[Laughing Monkey Clan|Řádu smějící se opice]] byl dobře obeznámen s programem, který byl vytvořen v dobročinném Chrámu ježatého jaka, a přál si využít jeden z jejich modulů na novém projektu, na kterém právě pracoval. Protože ale repozitář jeho vlastního řádu byl ostře hlídaný, musel si mnich zažádat o povolení o zařazení programu třetí strany u hlavních páterů kláštera.
 

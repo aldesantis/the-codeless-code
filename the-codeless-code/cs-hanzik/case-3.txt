@@ -1,7 +1,7 @@
 Number: 3
 Title: Zapouzdření
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Mladý mnich, nováček chrámu, nejen, že deklaroval všechny své metody public, ale to samé dělal i instancím svých proměnných. Hlavní opat chrámu byl již znaven jeho neustálým napomínáním, požádal tedy Java mistra o radu.
 

@@ -1,7 +1,7 @@
 Title: Tvar
 Number: 23
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Jednoho rána šla jeptiška jménem [[Zjing]] kolem terminálů, u kterého se motalo několik učených bratrů [[One Shoe Clan|Řádu jedné boty]]. Na obrazovce, kromě odrážejícího se slunce, svítil kus kódu nějakého programu. Zjing se na moment zastavila a podívala se na něj.
 

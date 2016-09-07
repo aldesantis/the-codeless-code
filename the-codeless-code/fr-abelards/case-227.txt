@@ -23,7 +23,7 @@ une liasse de code imprimé.
 
 "Vous avez implémenté des règles métier qui sont au-delà
 de votre périmètre," dit Zjing, pointant le code incriminé.
-"C'est le [[Nimble Roadrunner Clan|Clan du Grand Géocoucou Agile]]"
+"C'est le [[Nimble Roadrunner Clan|Clan du Grand Géocoucou Agile]]
 qui est le responsable principal de ce processus métier.
 Ils devraient vous fournir une bibliothèque ou un service
 à appeler."

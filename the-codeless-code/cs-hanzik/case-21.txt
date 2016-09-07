@@ -1,7 +1,7 @@
 Title: Přerušení
 Number: 21
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Jistý mnich nechtěl opustit svůj terminál. Celé dva dny odmítal jídlo i vodu.
 

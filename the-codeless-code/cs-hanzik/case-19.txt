@@ -1,7 +1,7 @@
 Title: Jakýmkoliv jiným jménem
 Number: 19
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Starý písař byl dotázán, proč v jeho oficiálních záznamech nezapomněl u žádného chrámu a řádu na jméno, ale nejmenoval jediného mnicha ani kněze.
 

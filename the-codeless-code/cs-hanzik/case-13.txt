@@ -1,7 +1,7 @@
 Title: Evoluce
 Number: 13
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Jeden z nových učňů si nastudoval kód Java mistra a osvojil si jeho styl doslova a do písmene - použití návrhových vzorů, konvence pro pojmenovávání proměnných, počet mezer používaných pro odsazení vnořených bloků kódu, ba dokonce i komentáře psal jako by je formuloval sám mistr.
 

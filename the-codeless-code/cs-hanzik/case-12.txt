@@ -1,7 +1,7 @@
 Title: Efekt
 Number: 12
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Tři mladí řeholníci -- jeden z [[Spider Clan|Řádu pavoučí sítě]], druhý z [[Laughing Monkey Clan|Řádu smějící se opice]] a třetí z [[Elephant's Footprint Clan|Řádu sloní šlápoty]] -- se hádali, co je nejdůležitější: kód na úrovni webu, kód na business úrovni nebo kód týkající se trvalých dat. Nakonec se rozhodli položit tuto otázku Java mistrovi.
 

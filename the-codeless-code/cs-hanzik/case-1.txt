@@ -1,7 +1,7 @@
 Number: 1
 Title: Maličkosti
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Tři dlouhé dny a tři ještě delší noci nevyšel Java mistr ze své kanceláře. Čtvrtý den vyslali bratři z chrámu jednoho z učňů, aby zjistil, co se stalo.
 

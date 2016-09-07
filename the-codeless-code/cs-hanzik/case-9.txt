@@ -1,7 +1,7 @@
 Title: Nekonečno
 Number: 9
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Dva bratři z [[Spider Clan|Řádu pavoučí sítě]] se hádali, zda je jejich nová validace vstupu zaseknutá v nekonečné smyčce.
 

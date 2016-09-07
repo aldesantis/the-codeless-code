@@ -1,7 +1,7 @@
 Title: Koán nula
 Number: 27
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Starý písař [[Qi]] uchovával koány chrámu v obří knize, která je nám nyní známá jako /The Codeless Code/. Uvnitř se nacházelo veškeré vědění chrámu. Starat se o tuto knihu byla jedna z nejdůležitějších a nejposvátnějších povinností písaře.
 

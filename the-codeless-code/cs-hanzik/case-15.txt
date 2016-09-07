@@ -1,7 +1,7 @@
 Title: Neměnnost
 Number: 15
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Z [[Temple of Three Stones|Chrámu tří balvanů]], kde se používá výhradně C, dorazil před nedávnem nový učeň. Duchovní styl Javy mu byl neznámý. Netrvalo dlouho a narazil na immutabilitu Stringů.
 

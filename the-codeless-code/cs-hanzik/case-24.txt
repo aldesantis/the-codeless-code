@@ -1,7 +1,7 @@
 Title: Červený sešit
 Number: 24
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 V kronice [[Temple of the Morning Brass Gong|Chrámu ranního měděného gongu]] je tento příběh zahrnut v rámci kapitoly /Unit Testing/:
 

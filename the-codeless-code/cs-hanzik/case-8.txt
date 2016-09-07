@@ -1,7 +1,7 @@
 Title:  Zredukovat, zrecyklovat a znovu použít
 Number: 8
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Učeň se zeptal mistra: "Co je naším cílem?"
 

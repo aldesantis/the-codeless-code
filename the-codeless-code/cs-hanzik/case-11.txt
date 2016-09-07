@@ -1,7 +1,7 @@
 Title: Klece
 Number: 11
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Aby se zabránilo dalšímu množení duplicitního kódu, nařídil opat [[Elephant's Footprint Clan|Řádu sloní šlápoty]], že bratři mohou psát pouze kód, který přímo souvisí s vyvíjenou aplikací. Cokoliv s více obecným použitím musí být předloženo Výboru o znovupoužití softwaru, který prozkoumá všechny možné open source řešení, zváží výhody každé možnosti s navrhovaným využitím pro všechny vyvíjené aplikace, upraví design podle návrhů od členů výboru a (pokud celý proces byl schválen) zařadí projekt do implementačního rozvrhu. Toto celé může trvat dlouhé týdny.
 

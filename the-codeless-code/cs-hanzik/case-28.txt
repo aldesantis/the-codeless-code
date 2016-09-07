@@ -1,7 +1,7 @@
 Title: Ozvěna
 Number: 28
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Hlavním úkolem [[Clan of Iron Bones|Řádu železných kostí]] bylo starat se o správný chod serverů. To byl jejich účel, jejich pýcha.
 

@@ -1,7 +1,7 @@
 Title: Ani ano ani ne
 Number: 20
 Lang: cs
-Translator: Hanzík
+Translator: hanzik
 
 Sestra z [[Elephant's Footprint Clan|Řádu sloní šlápoty]] seděla u svého stolu, nohy v kříž, a v tichosti přemýšlela nad Entity-Relationship diagramem, který měla načrtnutý na své bílé tabuli.
 
