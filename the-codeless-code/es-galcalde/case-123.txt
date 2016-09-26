@@ -3,7 +3,7 @@ Title: Orden y Caos
 Lang: es
 Translator: galcalde
 
-Cierto monje, conocido por la elegancia de su código, tenía el hábito de refactorizar el código de sus compañeros de forma que correspondiese. "Porque la inconsistencia miltiplicada se vuelve caos," explicaría, "y el caos cría complejidad, y la complejidad trae confusión, y la confusión es la madre de diez mil defectos."
+Cierto monje, conocido por la elegancia de su código, tenía el hábito de refactorizar el código de sus compañeros de forma que correspondiese. "Porque la inconsistencia multiplicada se vuelve caos," explicaría, "y el caos cría complejidad, y la complejidad trae confusión, y la confusión es la madre de diez mil defectos."
 
 La maestra [[Suku]] -- quien por encima de todo valoraba la limpieza del código -- oyó de esto. Ella se acercó al monje, diciendo, “Requiero tu asistencia para corregir un problema.”
 
