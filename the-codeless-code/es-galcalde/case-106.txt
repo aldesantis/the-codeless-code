@@ -4,7 +4,7 @@ Lang: es
 Translator: galcalde
 Illus.0.title: Todos en el templo viven con temor del día en que necesite una silla de ruedas en vez de un bastón. Ser golpeado por una silla de ruedas duele MUCHO.
 
-Cierto monje era conocido en todo el templo por su humildad. Cuando discutía fallas en el software de su clan siempre tomaba responsabilidad personal, sin embargo cuando recibía alabanzas por características maravillosas hechas por él sólo, siempre le daba crédito al equipo entero. Finalmente la palabra del monje llegó a la vieja [[Jinyu]], Abadesa de Todos los Clanes y asuntos de Interés.
+Cierto monje era conocido en todo el templo por su humildad. Cuando discutía fallas en el software de su clan siempre tomaba responsabilidad personal, sin embargo cuando recibía alabanzas por características maravillosas hechas por él solo, siempre le daba crédito al equipo entero. Finalmente la palabra del monje llegó a la vieja [[Jinyu]], Abadesa de Todos los Clanes y asuntos de Interés.
 
 "Así que," ella le dijo a su abad superior, "¿Este monje dice <i>he fallado</i> tras la derrota de los otros, y <i>hemos vencido</i> tras sus propias victorias?"
 
