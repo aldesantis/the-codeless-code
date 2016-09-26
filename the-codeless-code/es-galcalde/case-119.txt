@@ -14,7 +14,7 @@ Banzen tomó otro tazón. En el fondo había un trozo de pulpa de naranja. "Reci
 
 Suku también tomó otro tazón, descubriendo la tajada más fina de pepino. "Hallé que con la estructura vienen la claridad y la extensibilidad."
 
-"Te encantará escuchar que está haciédole caso a tu consejo ansiosamente," dijo Banzen. "Él ahora divide una aplicación descartable de cien lineas en muchas clases."
+"Te encantará escuchar que está haciéndole caso a tu consejo ansiosamente," dijo Banzen. "Él ahora divide una aplicación descartable de cien lineas en muchas clases."
 
 "Ah," dijo Suku, llegando al siguiente tazón. Tenía dos granos de arroz. "Crees que lo aconsejé pobremente."
 
