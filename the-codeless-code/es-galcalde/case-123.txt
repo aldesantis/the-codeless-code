@@ -7,11 +7,11 @@ Cierto monje, conocido por la elegancia de su código, tenía el hábito de refa
 
 La maestra [[Suku]] -- quien por encima de todo valoraba la limpieza del código -- oyó de esto. Ella se acercó al monje, diciendo, “Requiero tu asistencia para corregir un problema.”
 
-Suku le reveló al monje un gran repositorio, hogar del código fuente de la aplicación más antigua del templo. Durante décadas una procesión incalculable de monjes y monjas pasaron por sus directorios sagrados: añadiendo, quitando, refactorizando, refinando, probando una nueva plataforma por allí, un nuevo enfoque por allá. Varias veces la base de código entera fue migrada de un lenguaje a otro, marcando las capas más profundas con patrones de diseño inconmesurablemente bizarros. Dentro de una clase de utilidad las convenciones de los nommbres eran tan salvajemente inconsistentes que el monje quedó mareado y tuvo que tirarse en el suelo.
+Suku le reveló al monje un gran repositorio, hogar del código fuente de la aplicación más antigua del templo. Durante décadas una procesión incalculable de monjes y monjas pasaron por sus directorios sagrados: añadiendo, quitando, refactorizando, refinando, probando una nueva plataforma por allí, un nuevo enfoque por allá. Varias veces la base de código entera fue migrada de un lenguaje a otro, marcando las capas más profundas con patrones de diseño inconmesurablemente bizarros. Dentro de una clase de utilidad las convenciones de los nombres eran tan salvajemente inconsistentes que el monje quedó mareado y tuvo que tirarse en el suelo.
 
 "Trae el orden al caos," dijo Suku, y salió.
 
-El monje procedió en serio a reescribir la aplicación en el estilo que había perfeccionado por tantos años. Eligió una nueva plataforma brillante para reemplazar las varias oxidadas, luego eligió un rincon polvoriento del repositorio y trabajó lentamente hacia afuera: añadiendo, quitando, refactorizando, refinando.
+El monje procedió en serio a reescribir la aplicación en el estilo que había perfeccionado por tantos años. Eligió una nueva plataforma brillante para reemplazar las varias oxidadas, luego eligió un rincón polvoriento del repositorio y trabajó lentamente hacia afuera: añadiendo, quitando, refactorizando, refinando.
 
 - - -
 
@@ -19,7 +19,7 @@ El monje había convertido la fracción más mínima de archivos cuando golpearo
 
 "¡Emergencia!" dijo el abad sin aliento afuera, agarrando al monje por la bata y sacándolo por la puerta. "¡Desastre! ¡Desorden! ¡Caducidad! ¡Ruina! No hay gente ni tiempo suficientes; ¡Te necesitamos de una vez, vamos, vamos!"
 
-El monje protestó, pidiendo que alguien traiga a la maestra Suku que ella podría intervenir, pero el abad simplemente montó al monje en sus espaldas y lo arrastó por el pasillo como si fuese un saco ruidoso de arroz.
+El monje protestó, pidiendo que alguien traiga a la maestra Suku que ella podría intervenir, pero el abad simplemente montó al monje en sus espaldas y lo arrastró por el pasillo como si fuese un saco ruidoso de arroz.
 
 Aquella tarde Suku halló al monje, atado a su nuevo cubículo por muchas espirales de cuerda fuerte.
 
