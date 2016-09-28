@@ -1,0 +1,110 @@
+Number: 33
+Title: Strach
+Lang: pl
+Translator: mina86
+Illus.4.title: Tak, tyle że on nie dostaje zbyt dużo poczty.
+
+Niedawno przyjęty do świątyni mnich zbliżył się do mistrza.
+
+― Otrzymałem zadanie dodania kilku nowych funkcji do systemu obsługi
+zamówień Cesarskiego Szewca, ale nie jestem w stanie zrozumieć, jak on
+działa.  Logika jest rozproszona pomiędzy wiele aplikacji
+zaimplementowanych przy użyciu najróżniejszych technologii.  Zamiast
+stworzyć wspólne biblioteki, autorzy najzwyklej skopiowali fragmenty
+kodu pomiędzy różnymi miejscami, często wprowadzając subtelne
+rozbieżności.  Zadania pracujące w tle wyszukują i modyfikują rekordy
+w bazie danych bez żadnego udokumentowanego powodu.  Sama baza danych
+wydaje się spiskować przeciwko mnie: prosta modyfikacja jednej tabeli
+może wyzwolić kaskadę zmian w wielu innych.
+
+― Widzę, że stoisz na rozdrożu ― odparł mędrzec w zadumie,
+dostrzegłszy frustrację zakonnika. ― Możesz wprowadzić do kodu tylko
+niezbędne modyfikacje i szybko ogłosić zwycięstwo albo rozpocząć
+żmudne zadanie refaktoryzacji całego kodu.  Którą z tych ścieżek
+wybierzesz?
+
+Mnich zgiął się ze wstydu.
+
+― Nie jestem w stanie się zdecydować.  Boję się dotknąć czegokolwiek,
+gdyż moja niewiedza niechybnie przeniesie moją klęskę.
+
+― Strach jest dobrym pancerzem, ale słabym ostrzem ― przytaknął
+mistrz. ― Aby przezwyciężyć swój niepokój, musisz rozwiać swoją
+ignorancję ― wyjaśnił myśliciel, po czym przy pomocy laski otworzył
+okno i wskazał odległy las. ― Udaj się w góry, podążając przez trzy
+dni Drogą Białych Pokrzyw, aż napotkasz pustelnię wzniesioną nad
+urwiskiem.  Mieszka tam uczony brat, który przetrzymuje kopie
+dokumentacji naszego użytkownika.  On wytłumaczy ci architekturę
+systemu.
+
+Zakonnik zrobił, co mu kazano i trzeciego dnia o zachodzie słońca
+dotarł do pustelni, która nie przypominała żadnego budynku, który
+kiedykolwiek widział.
+
+Pierwotnie musiała to być solidna kamienna konstrukcja wzniesiona na
+skraju urwiska, ale teraz trzy nowe skrzydła z nieociosanych sosnowych
+desek i z dachem z kory wybijały się daleko poza kraniec przepaści.
+Kilkadziesiąt pomieszczeń łączyły ścieżki, kładki i schody.  Wszystko
+utrzymywało się w całości na długich szczudłach wspieranych przez
+wychodnie skalne ledwo widoczne w dole urwiska.
+
+Przymocowane do konstrukcji były bambusowe przybudówki rozciągające
+się jeszcze dalej w pustkę.  Rampy i drabiny wyłaniały się z ich
+spodów, prowadząc do kolejnych pomieszczeń zawieszonych na sznurach
+i wykonanych głównie z trzciny i słomy.  Całość była związana linami
+z konopi, przymocowanymi do parapetów i wiatrowskazów jak gdyby
+olbrzymi pijany pająk złapał dziesiątki hat w swoją sieć.  Struktura
+chwiała się nawet na delikatnym wietrze, wydając przy tym niepokojące
+skrzypienie.
+
+Mnich stał przez chwilę w oszołomieniu, ale po chwili ochłonął
+i uderzył w gong.
+
+Pustelnik wynurzył się z najdalszego pokoju.  Wspinał się po linach
+i zjeżdżał po dachach, aż wreszcie zniknął pod bambusową klapą, aby
+ostatecznie ukazać się w drzwiach chaty.
+
+― Jakie nowiny przynosisz do mnie ze świątyni? ― spytał starzec. ― Czy
+w końcu zostałem wezwany do domu?
+
+Zakonnik potrząsnął głową na znak, że nie ma takiej wiadomości do
+przekazania.
+
+Pustelnik westchnął i zawiesił głowę.
+
+― Jakim nieszczęśliwy! Do czasu, gdy otrzymam takie słowo, moim
+zadaniem jest rozwijać tę pustelnię dalej poza granice urwiska, aby
+móc przechowywać rosnącą kolekcję świątynnych plików tymczasowych.
+Robię to od lat, wiernie i bezkrytycznie, wierząc, że pewnego dnia
+zdobędę przychylność mistrza i przyzwolenie na powrót z wygnania.
+Jednak muszę przyznać, że moja praca staje się coraz trudniejsze
+z każdą mijającą porą roku.  Zimą śnieg ciąży na dachach, aż bambusowe
+szczudła zaczynają się wyginać, a latem muszę odganiać sroki, aby moje
+słomiane ściany nie stały się częścią czyjegoś gniazda.  Nawiasem
+mówiąc, nie masz, mam nadzieję, żadnych alergii?  Pyłek? Ambrozja?
+Kiedyś widziałem siedem pokoi, które rozpadły się i spadły w otchłań
+urwiska w odpowiedzi na energicznym kichnięcie…
+
+― Ależ to szaleństwo! ― wzburzył się mnich. ― Teraz gdy już wiesz, ile
+dokładnie pomieszczeń jest potrzebnych, czy nie możesz zburzyć tej
+potworności i zacząć od nowa?
+
+― Co za bzdury.  Tylko pomyśl, ile czasu takie przedsięwzięcie może
+zająć i jak niezadowolonym może to sprawić mojego mistrza.  W jaki
+sposób przyjdzie mi uzasadnić usunięcie magazynu, zamiast je dodawać?
+Moje banicja może zostać przedłużona o kolejną dekadę! ― Pustelnik
+potrząsnął głową, po czym, uspokoiwszy się, kontynuował. ― O wiele
+bezpieczniej jest zrobić dokładnie to, co zostało mi nakazane.
+Rozumiem tę pustelnię całkiem dobrze, jej silne i słabe punkty.
+Dopóki będę stąpać z rozwagą i unikać pieprzu, szanse na moją zgubę
+w długim upadku są stosunkowo niewielkie.
+
+Konstrukcja zaskrzypiała na wietrze jakby w odpowiedzi.
+
+― Ale dość o moim losie.  Jeżeli nie zostałeś tu wysłany, aby
+przywołać mnie do domu, to niechybnie potrzebujesz mojej pomocy
+w zrozumieniu systemu obsługi zamówień Cesarskiego Szewca.  Wielu
+przyszło tu w tym właśnie celu, gdyż to ja jestem jego autorem.
+
+Mnich tylko skłonił się i odszedł z powrotem w dół drogi, gdyż już
+otrzymała obiecane oświecenie od pustelnika.
