@@ -5,23 +5,23 @@ Translator: badziew
 Illus.0.title: Odpytywanie mistrza Javy, dlaczego chodzenie boso jest zakazane w świątyni, zwykle skutkuje tą samą odpowiedzią.
 
 
-Przez trzy dni i noce mistrz Javy nie opuszczał swojej izby.
+Przez trzy dni i noce mistrz Javy nie opuszczał swojej izby.
 Czwartego dnia świątynni mnisi postanowili wysłać
-jednego z nowicjuszy, aby ten dowiedział się, co się stało.
+jednego z nowicjuszy, aby ten dowiedział się, co się stało.
 
 Nowicjusz zastał mistrza przy tablicy, zadumanego nad diagramem przepływu
-danych. Rozpoznał schemat na diagramie jako jeden z pomniejszych komponentów
+danych. Rozpoznał schemat na diagramie jako jeden z pomniejszych komponentów
 dużego systemu, do zarządzania którym byli zatrudnieni mnisi. Zapytał więc
 grzecznie mistrza, nad czym się tak zastanawia.
 
 Mistrz odpowiedział://
-― Znalazłem błąd i rozmyślam nad najlepszą metodą jego naprawy.
+― Znalazłem błąd i rozmyślam nad najlepszą metodą jego naprawy.
 
 Nowicjusz odparł://
-― Często głosisz nam kazania mistrzu, o tym, jak ważne jest wyznaczanie
+― Często głosisz nam kazania mistrzu, o tym, jak ważne jest wyznaczanie
 odpowiednich priorytetów. Dlaczego więc zadręczasz się teraz czymś tak małym
-i mało istotnym?
+i mało istotnym?
 
-Mistrz bez słowa uniósł swą laskę i uderzył z całej siły w mały palec
-lewej stopy nowicjusza, łamiąc najmniejszą z jego kości. Mnich zawył z bólu
-i odkuśtykał z celi mistrza. I tak oto doznał oświecenia.
+Mistrz bez słowa uniósł swą laskę i uderzył z całej siły w mały palec
+lewej stopy nowicjusza, łamiąc najmniejszą z jego kości. Mnich zawył z bólu
+i odkuśtykał z celi mistrza. I tak oto doznał oświecenia.

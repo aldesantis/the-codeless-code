@@ -5,7 +5,7 @@ Translator: tehora
 Illus.0.title: Co więcej, był programistą Pythona
 
 Młody mnich zapytał mistrza [[Kaimu]]://
-― Poza biegłością w technicznych aspektach, jaka jest najważniejsza cecha, jaką powinien posiadać mistrz?
+― Poza biegłością w technicznych aspektach, jaka jest najważniejsza cecha, jaką powinien posiadać mistrz?
 
 Kaimu odpowiedział://
 ― Łaskawość.
@@ -17,13 +17,13 @@ Kaimu odpowiedział://
 ― Dla przyszłego ciebie.
 
 Mnich zapytał://
-― A kiedy [[Suku]] odmówiła mi dowództwa, dla kogo była łaskawa?
+― A kiedy [[Suku]] odmówiła mi dowództwa, dla kogo była łaskawa?
 
 Kaimu odpowiedział://
-― Dla naszej świątyni i naszych klientów.
+― Dla naszej świątyni i naszych klientów.
 
 Mnich rzekł://
-― W zeszłym tygodniu, [[Bawan]] zrzucił aplikanta z wieży w przepaść za sfałszowanie listu motywacyjnego. Nie było tu klientów, świątyni ani przyszłego ja. Dla kogo Bawan był łaskawy?
+― W zeszłym tygodniu, [[Bawan]] zrzucił aplikanta z wieży w przepaść za sfałszowanie listu motywacyjnego. Nie było tu klientów, świątyni ani przyszłego ja. Dla kogo Bawan był łaskawy?
 
 Kaimu odpowiedział://
 ― Dla świata.

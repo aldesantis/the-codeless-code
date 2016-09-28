@@ -4,12 +4,12 @@ Lang: pl
 Translator: adams
 
 
-Dwóch mnichów przyszło do mistrza Javy z różnymi
+Dwóch mnichów przyszło do mistrza Javy z różnymi
 pomysłami na implementację jednego projektu. Każdy
-zaprezentował swoje podejście z pasją i przekonaniem.
+zaprezentował swoje podejście z pasją i przekonaniem.
 
 Po namyśle, mistrz powiedział im, żeby podzielili projekt
-na dwa podsystemy. Każdy mnich weźmie podsystem i wykonana
+na dwa podsystemy. Każdy mnich weźmie podsystem i wykonana
 go po swojemu.
 
 Pierwszy mnich zaprotestował://
@@ -17,7 +17,7 @@ Pierwszy mnich zaprotestował://
 najlepsze?
 
 Drugi mnich również był niepocieszony://
-― I nawet jeśli teraz nie znamy najlepszego rozwiązania, czy nie
+― I nawet jeśli teraz nie znamy najlepszego rozwiązania, czy nie
 lepiej konsekwentnie stosować jedno podejście, żeby uniknąć chaosu?
 
-― Tak ― rzekł mistrz Javy. ― Żaden z was nie uważał?
+― Tak ― rzekł mistrz Javy. ― Żaden z was nie uważał?
