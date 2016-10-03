@@ -59,6 +59,6 @@ Irónicamente, la Monada siempre tiene al menos un efecto secundario: me hace se
 La pantalla se oscurece. //
 Los puntos y comas se dispersan a las cuatro esquinas de la pantalla. //
 Una tormenta puede golpear la alta colina -- //
-Sin embarco cuando el mundo cambia, las tormentas ceden el paso a un enigma más grande.
+Sin embargo cuando el mundo cambia, las tormentas ceden el paso a un enigma más grande.
 
 {{*}} En Haskell, el tipo Maybe A tiene dos valores: Nothing y Just A, donde A es otro tipo. Sirve para especificar algo que puede no estar ahí.
