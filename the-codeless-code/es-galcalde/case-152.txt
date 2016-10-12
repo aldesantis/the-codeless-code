@@ -9,7 +9,7 @@ Sus viajes la llevaron a los salones de la abadía donde moraba el [[Clan of the
 
 "Es irritante," ella oyó a un monje del Aliento Amargo quejándose. "Seleccioné un Estado de Orden 'Desconocido', envié el form, y todo aparece bien. Sin embargo cuando vuelvo al form hay un error de validación quejándose de un Estado de Orden ilegal. ¡Y el desarrollador jura que no hizo cambios a la página!"
 
-"Por lo tanto es simpre con las Arañas," suspiró otra voz. "Si algo se acerca demasiado, lo envuelven en ocho capas de javascript, paralizan su sensibilidad, chupan su utilidad, y declaran que el cadaver retorcido es un trabajo bien hecho."
+"Por lo tanto es siempre con las Arañas," suspiró otra voz. "Si algo se acerca demasiado, lo envuelven en ocho capas de javascript, paralizan su sensibilidad, chupan su utilidad, y declaran que el cadáver retorcido es un trabajo bien hecho."
 
 Su risa siguió a Hwídah mientras se escurría hacia la puerta de la abadía. <em>Esto, debo investigarlo,</em> pensó, sus puños se cerraron.
 
@@ -17,7 +17,7 @@ Su risa siguió a Hwídah mientras se escurría hacia la puerta de la abadía. <
 
 Luego aquel día Hwídah se acercó al maestro java [[Banzen]], con el fuego de la honesta indignación en sus ojos y una impresión en la mano.
 
-"Este defecto fue creado por un monje del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]], no nosotros. El reescribió el método que convierte cada fila de base de datos en un objeto, y su nuevo código contiene esto..." Allí apuñaló su dedo en una linea que decía:
+"Este defecto fue creado por un monje del [[Elephant's Footprint Clan|Clan de la Huella del Elefante]], no nosotros. El reescribió el método que convierte cada fila de base de datos en un objeto, y su nuevo código contiene esto..." Allí apuñaló su dedo en una línea que decía:
 
 <pre>
     order.setStatusCode(rs.getInt(STATUS_CODE));
@@ -29,7 +29,7 @@ Luego aquel día Hwídah se acercó al maestro java [[Banzen]], con el fuego de 
 
 "Nada letal," dijo Banzen. "Mi castigo usual involucra un bote que guardo en el desfiladero al sur para la ocasión. El monje saldrá mojado y magullado, y en el futuro examinará sus remos y sus APIs un poco más críticamente antes de usarlos."
 
-La cara de Hwídah se volvió escarlata. "¿Pero qué hay del honor del Clan de la Araña? ¡Los monjes del Aliento Amargo del Lobo se burlan de nosotros en su abadía por esto!" Entonces se congeló, dandode cuenta que ella había revelado su traspaso en territorio prohibido, pero Banzen sólo suspiró.
+La cara de Hwídah se volvió escarlata. "¿Pero qué hay del honor del Clan de la Araña? ¡Los monjes del Aliento Amargo del Lobo se burlan de nosotros en su abadía por esto!" Entonces se congeló, dándose cuenta que ella había revelado su traspaso en territorio prohibido, pero Banzen sólo suspiró.
 
 "La falla verdadera cae en los autores de la venerable API de JDBC, y con cada mantenedor desde entonces," dijo el maestro. "Le dieron al monje un bote de remo bien usado, con remos robustos montados en sus escálamos. ¿Deberíamos condenarlo simplemente por no darse cuenta que el remo izquierdo era muy corto? No... la inmersión que recibe cuando el bote gire en los rápidos bastará."
 
@@ -49,10 +49,10 @@ En la merienda Yíwen no se encontraba, pero Hwídah espió a dos jóvenes apren
 
 "¡Sin duda!" said Djishin. "Cuando conocí este error, escribí un método de utilidad <em>getInteger</em> apropiado. Sin embargo los desarrolladores sólo buscarán lo que creen que necesiten, y lo que saben que buscan, así que la utilidad queda sin usar."
 
-Hwídah se hundió desesperanzada. "Así que el monje de la Huella del Elefante es apenas corregido, y el monje del Aliento Amargo del Lobo no es corregido en absoluto. Al menos la miserable de Hwídah ha sido corregida, porque ahora entiendo por qué se nos prohibe entrar en la cueva del lobo, y es para mantener la armonía entre clanes. Un insulto sólo puede volverse una queja si es escuchada."
+Hwídah se hundió desesperanzada. "Así que el monje de la Huella del Elefante es apenas corregido, y el monje del Aliento Amargo del Lobo no es corregido en absoluto. Al menos la miserable de Hwídah ha sido corregida, porque ahora entiendo por qué se nos prohíbe entrar en la cueva del lobo, y es para mantener la armonía entre clanes. Un insulto sólo puede volverse una queja si es escuchada."
 
 Djishin dijo, "Tú percibes las astas de los remos sobre el agua, pero tu verdadero curso ha sido determinado por lo que está debajo."
 
 Satou continuó, "Nuestro maestro sabe que violaste el edicto: es lo mucho que nos contó. Pero el edicto no es suyo, y no puede evitar que sea violado por el irreprimiblemente curioso. Por lo tanto usa el edicto y sus violaciones para un propósito mayor."
 
-Satou puso un brazo sociable al rededor de Hwídah. "¡Disfruta tu alimento, hermana del Clan de la Araña! Porque temo que la corrección de Hwídah está sólo comenzando..."
+Satou puso un brazo sociable alrededor de Hwídah. "¡Disfruta tu alimento, hermana del Clan de la Araña! Porque temo que la corrección de Hwídah está sólo comenzando..."
