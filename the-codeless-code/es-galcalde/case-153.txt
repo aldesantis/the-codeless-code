@@ -2,7 +2,7 @@ Number: 153
 Title: El Círculo Rojo
 Lang: es
 Translator: galcalde
-Illus.0.title: Como conseguir con la cabeza alta en los negocios sin intentarlo.
+Illus.0.title: Como tener una cabeza alta en los negocios sin intentarlo.
 
 La Maestra [[Suku]] y sus tres aprendices llegaron a un templo donde sesenta monjes de ojos rojos trabajaban dura y frenéticamente a todas horas del día y la noche.
 
