@@ -47,7 +47,7 @@ En la merienda Yíwen no se encontraba, pero Hwídah espió a dos jóvenes apren
 
 "¡Entonces deberíamos darles un remo izquierdo nuestro!" dijo Hwídah.
 
-"¡Sin duda!" said Djishin. "Cuando conocí este error, escribí un método de utilidad <em>getInteger</em> apropiado. Sin embargo los desarrolladores sólo buscarán lo que creen que necesiten, y lo que saben que buscan, así que la utilidad queda sin usar."
+"¡Sin duda!" dijo Djishin. "Cuando conocí este error, escribí un método de utilidad <em>getInteger</em> apropiado. Sin embargo los desarrolladores sólo buscarán lo que creen que necesiten, y lo que saben que buscan, así que la utilidad queda sin usar."
 
 Hwídah se hundió desesperanzada. "Así que el monje de la Huella del Elefante es apenas corregido, y el monje del Aliento Amargo del Lobo no es corregido en absoluto. Al menos la miserable de Hwídah ha sido corregida, porque ahora entiendo por qué se nos prohíbe entrar en la cueva del lobo, y es para mantener la armonía entre clanes. Un insulto sólo puede volverse una queja si es escuchada."
 
