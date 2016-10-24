@@ -1,0 +1,5 @@
+Translator: Luke
+Name: Luke Marlin
+Nom: Luke Marlin
+URL: https://github.com/lukemarlin
+License: [CC-BY-SA](http://creativecommons.org/licenses/by-nc/3.0/deed.en_US)
