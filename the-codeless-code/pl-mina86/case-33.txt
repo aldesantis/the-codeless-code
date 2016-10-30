@@ -26,7 +26,7 @@ wybierzesz?
 Mnich zgiął się ze wstydu.
 
 ― Nie jestem w stanie się zdecydować.  Boję się dotknąć czegokolwiek,
-gdyż moja niewiedza niechybnie przeniesie moją klęskę.
+gdyż moja niewiedza niechybnie przyniesie moją klęskę.
 
 ― Strach jest dobrym pancerzem, ale słabym ostrzem ― przytaknął
 mistrz. ― Aby przezwyciężyć swój niepokój, musisz rozwiać swoją
@@ -38,7 +38,7 @@ dokumentacji naszego użytkownika.  On wytłumaczy ci architekturę
 systemu.
 
 Zakonnik zrobił, co mu kazano i trzeciego dnia o zachodzie słońca
-dotarł do pustelni, która nie przypominała żadnego budynku, który
+dotarł do pustelni, nie przypominającej żadnego budynku, który
 kiedykolwiek widział.
 
 Pierwotnie musiała to być solidna kamienna konstrukcja wzniesiona na
@@ -50,10 +50,10 @@ wychodnie skalne ledwo widoczne w dole urwiska.
 
 Przymocowane do konstrukcji były bambusowe przybudówki rozciągające
 się jeszcze dalej w pustkę.  Rampy i drabiny wyłaniały się z ich
-spodów, prowadząc do kolejnych pomieszczeń zawieszonych na sznurach
-i wykonanych głównie z trzciny i słomy.  Całość była związana linami
-z konopi, przymocowanymi do parapetów i wiatrowskazów jak gdyby
-olbrzymi pijany pająk złapał dziesiątki hat w swoją sieć.  Struktura
+spodów, prowadząc do kolejnych, zawieszonych na sznurach pomieszczeń
+wykonanych głównie z trzciny i słomy.  Całość była związana linami
+z konopi przymocowanymi do parapetów i wiatrowskazów, jak gdyby
+olbrzymi pijany pająk złapał dziesiątki chat w swoją sieć.  Struktura
 chwiała się nawet na delikatnym wietrze, wydając przy tym niepokojące
 skrzypienie.
 
@@ -70,29 +70,29 @@ w końcu zostałem wezwany do domu?
 Zakonnik potrząsnął głową na znak, że nie ma takiej wiadomości do
 przekazania.
 
-Pustelnik westchnął i zawiesił głowę.
+Pustelnik westchnął i zwiesił głowę.
 
 ― Jakim nieszczęśliwy! Do czasu, gdy otrzymam takie słowo, moim
 zadaniem jest rozwijać tę pustelnię dalej poza granice urwiska, aby
 móc przechowywać rosnącą kolekcję świątynnych plików tymczasowych.
 Robię to od lat, wiernie i bezkrytycznie, wierząc, że pewnego dnia
 zdobędę przychylność mistrza i przyzwolenie na powrót z wygnania.
-Jednak muszę przyznać, że moja praca staje się coraz trudniejsze
+Jednak muszę przyznać, iż moja praca staje się coraz trudniejsza
 z każdą mijającą porą roku.  Zimą śnieg ciąży na dachach, aż bambusowe
 szczudła zaczynają się wyginać, a latem muszę odganiać sroki, aby moje
 słomiane ściany nie stały się częścią czyjegoś gniazda.  Nawiasem
 mówiąc, nie masz, mam nadzieję, żadnych alergii?  Pyłek? Ambrozja?
 Kiedyś widziałem siedem pokoi, które rozpadły się i spadły w otchłań
-urwiska w odpowiedzi na energicznym kichnięcie…
+urwiska w odpowiedzi na energiczne kichnięcie…
 
 ― Ależ to szaleństwo! ― wzburzył się mnich. ― Teraz gdy już wiesz, ile
 dokładnie pomieszczeń jest potrzebnych, czy nie możesz zburzyć tej
 potworności i zacząć od nowa?
 
 ― Co za bzdury.  Tylko pomyśl, ile czasu takie przedsięwzięcie może
-zająć i jak niezadowolonym może to sprawić mojego mistrza.  W jaki
-sposób przyjdzie mi uzasadnić usunięcie magazynu, zamiast je dodawać?
-Moje banicja może zostać przedłużona o kolejną dekadę! ― Pustelnik
+zająć i jak niezadowolonym może to uczynić mojego mistrza.  W jaki
+sposób przyjdzie mi uzasadnić usunięcie magazynów, zamiast ich dodawania?
+Moja banicja może zostać przedłużona o kolejną dekadę! ― Pustelnik
 potrząsnął głową, po czym, uspokoiwszy się, kontynuował. ― O wiele
 bezpieczniej jest zrobić dokładnie to, co zostało mi nakazane.
 Rozumiem tę pustelnię całkiem dobrze, jej silne i słabe punkty.
@@ -107,4 +107,4 @@ w zrozumieniu systemu obsługi zamówień Cesarskiego Szewca.  Wielu
 przyszło tu w tym właśnie celu, gdyż to ja jestem jego autorem.
 
 Mnich tylko skłonił się i odszedł z powrotem w dół drogi, gdyż już
-otrzymała obiecane oświecenie od pustelnika.
+otrzymał obiecane oświecenie od pustelnika.
