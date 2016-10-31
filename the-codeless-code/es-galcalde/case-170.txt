@@ -18,7 +18,7 @@ Yishi-Shing sacudió su cabeza. "Entonces tenemos nuestra respuesta."
 El maestro tomo la laptop del monje y envió lo siguiente de forma cruzada a una docena de foros de mensajes:
 
      <b>**ADVERTENCIA**</b> ¡Los arrays de discos de 24 terabytes del Elefante Tronante
-     NO PUEDEN ser montados bajo Pinguino Petulante con el kernel kernel 89!
+     NO PUEDEN ser montados bajo Pinguino Petulante con el kernel 89!
      ¡No existe ninguna solución! ¡¡¡EVITEN ESTA CONFIGURACIÓN!!!
 
 Yishi-Shing luego cerró la laptop y se alejó, tarareando.
