@@ -1,0 +1,16 @@
+Title: Efekt
+Number: 12
+Lang: cs
+Translator: hanzik
+
+Tři mladí řeholníci -- jeden z [[Spider Clan|Řádu pavoučí sítě]], druhý z [[Laughing Monkey Clan|Řádu smějící se opice]] a třetí z [[Elephant's Footprint Clan|Řádu sloní šlápoty]] -- se hádali, co je nejdůležitější: kód na úrovni webu, kód na business úrovni nebo kód týkající se trvalých dat. Nakonec se rozhodli položit tuto otázku Java mistrovi.
+
+Mistr si zavolal jednoho z urostlejších zahradníků, který se staral o pozemky kolem chrámu, a zadal mu úkol: "Bouchej a kopej do těchto tří mnichů po dobu jedné minuty. Poté do nich bouchej a kopej tak dlouho, jak se ti bude chtít."
+
+Zahradník se do bratrů pustil a nepřestal dlouhých sedm minut. Poté se uklonil a odešel.
+
+"Tak," prohlásil mistr. "Kdo dnes nese nejvíce viny za vaše modřiny? Já, protože jsem povolal zahradníka, on, že prodloužil vaše utrpení o dalších šest minut, nebo jeho ruce a nohy? Zvažte svojí odpověď nebo ho zavolám zpět."
+
+Po dlouhém tichu se ozval bratr z Řádu pavoučí sítě: "Ten, kdo vyzdvihl první pilíř tohoto chrámu jistě nese nejvíce viny."
+
+Mistr byl spokojen.

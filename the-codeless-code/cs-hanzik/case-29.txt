@@ -1,0 +1,40 @@
+Title: Zlatá rybka
+Number: 29
+Lang: cs
+Translator: hanzik
+
+Když se nováček stane členem chrámu a začne hledat moudro, je vždy odkázán k Java mistru Bawanovi, aby se ho zeptal: "Jak se stala stará madam [[Jinyu]] Abatyší všech řádů a záležitostí?"
+
+Mistr [[Bawan]] pak vždy dá nováčkovi lopatou na zadnici a dá mu za úkol vrátit se s touto otázkou druhý den. Následující den je otázka opakována, trest znovu uložen, a tak se pokračuje až do té doby, než je nováček osvícen.
+
+Kronika vypráví následující příběh:
+
+Kdysi dávno, když byla ctihodná Jinyu pouze pětadvacet let starou sestrou, byla ona a další mnich stejného věku navštívena opatem jejich řádu.
+
+"Císař přijede na prohlídku našeho nového VAX počítače a aby zvolil vhodné členy pro jeho Královský výbor," pověděl opat. "Rád bych tedy na Jeho Výsost udělal dojem představením všech kvalit našeho chrámu. Naše jezírka jsou bez života a zahaleny závojem řas. Každý z vás si vezme na starost jedno z jezírek, řádně ho vyčistí a postará se o to, aby /každé ráno/ uvnitř plavaly nové ryby. To vše pro potěšení našeho císaře."
+
+Mnich dostal na starost Severní jezírko. Stojatá zelená voda nedávala možnost žádnému životu, a tak mnich s pomocí naběraček a kyblíků odnosil vodu až do poslední kapky pryč. Poté seškrábal z kamenů všechen mech a lišejníky, vytrhal veškerý plevel a kyblíkem za kyblíkem naplnil jezírko čistou vodou, kterou donesl až z chrámové studny. Za týden bylo jezírko plné života díky červeným a zlatým kaprům, které bratr nakoupil na tržnici za své vlastní peníze.
+
+Za celou tu dobu se Jižního jezírka nikdo nedotkl a mladá Jinyu nebyla k nalezení.
+
+Opat si nechal sestru zavolat, neboť se návštěva císaře rychle blížila. Když Jinyu dorazila, dostala od něj ihned za uši. "Pokud císař ztratí důvěru v náš chrám, pak naše smlouva na IT služby nebude to jediné, co bude předčasně spáleno na popel." 
+
+Jinyu se uklonila. "Do dvou dnů bude vše přesně tak, jak bylo nařízeno."
+
+Druhý den šel opat zkontrolovat Severní jezírko, ve kterém nyní plavali modří a černí kapři -- opět zakoupené mnichem na tržišti. Jižní jezírko bylo ovšem ve stejném stavu jako včera. Našel Jinyu odpočívat pod cypřišem a hned jí dal zase za uši.
+
+Jinyu se opět uklonila. "Do zítra bude vše přesně tak, jak bylo nařízeno."
+
+Následující den šel opat znovu zkontrolovat Severní jezírko, které nyní dýchalo životem díky pruhovaným a puntíkovaným kaprům. Jižní jezírko na tom bylo ovšem /ještě hůř/ než předtím. Zahrada kolem byl celá rozkopaná. Jinyu stála uprostřed těch trosek.
+
+Opat dal Jinyu ihned za uši. "Vysvětli mi to!" dožadoval se.
+
+Sestra neřekla ani slovo, otočila lopatou u hromady hlíny v rohu jezírka. Za touto hromadou byl příkop, který Jinyu vykopala až k řece pod chrámem. Odstraněním toho kusu hlíny se stojatá voda z jezírka vypustila.
+
+Poté Jinyu otočila lopatou na druhém konci jezírka, čímž odkryla jiný příkop, který přivedl vodu z horského potoka. Jezírko bylo během chvíle plné průzračně čisté vody, proud z potoka očistil všechno kamení a odplavil suchou trávu a plevel. Na dně bylo možné spatřit záblesky červené a zlaté barvy.
+
+- - -
+
+Tak byla Jinyu zvolena vedoucí Posvátného podvýboru automatizovaného testování.
+
+A pokud by někdo pochyboval v pravost tohoto příběhu, nechť se zajde zeptat Java mistra Bawana na naši oblíbenou otázku.

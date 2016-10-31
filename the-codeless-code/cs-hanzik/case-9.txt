@@ -1,0 +1,26 @@
+Title: Nekonečno
+Number: 9
+Lang: cs
+Translator: hanzik
+
+Dva bratři z [[Spider Clan|Řádu pavoučí sítě]] se hádali, zda je jejich nová validace vstupu zaseknutá v nekonečné smyčce.
+
+"Jak dlouho už běží?" zeptal se opat.
+
+"Ne déle než třicet minut," odpověděl bledý a hubený bratr.
+
+"Ale zároveň ne méně než třicet minut," odpověděl tmavší a tlustý bratr.
+
+"A za celou tu dobu jste nic neudělali a čekáte, až to skončí?" dotázal se opat.
+
+Oba bratři se s ostudou uklonili.
+
+Opat toto nahlásil Java mistrovi, který přikývl: "Který z nich věří, že ta smyčka /není/ nekonečná?"
+
+"Ten bledý," odpověděl opat.
+
+"Pak ho odměňte měchem vína, protože je moudrý. Žádná smyčka není opravdu nekonečná. Jednoho dne vypadne proud, servery zreziví, chrám se promění v prach a slunce pohltí zemi."
+
+Opat se zeptal: "A co mám dělat s tím tlustým bratrem, který věří, že ta smyčka je vskutku nekonečná?"
+
+"Dejte mu dva měchy vína, protože je moudřejší. Pro uživatele, který bude u svého prohlížeče sedět, je deset vteřin utrpení, minuta jako sto let a cokoliv delšího jako věčnost. Když tygr napadne antilopu, tak se antilopa nezajímá o to, zda ji roztrhalo na kusy osm drápů nebo milion."

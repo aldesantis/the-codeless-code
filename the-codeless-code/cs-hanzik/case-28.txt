@@ -1,0 +1,47 @@
+Title: Ozvěna
+Number: 28
+Lang: cs
+Translator: hanzik
+
+Hlavním úkolem [[Clan of Iron Bones|Řádu železných kostí]] bylo starat se o správný chod serverů. To byl jejich účel, jejich pýcha.
+
+Jeden z bratrů řádu prováděl bezpečnostní prohlídku systému, když si všiml, že jsou povoleny některé nepotřebné služby. Výsledek jeho prohlídky nahlásil opatovi.
+
+"Měli bychom vypnout /echo/ službu na portu sedm," pověděl bratr. "Je to služba z časů dávno zapomenutých a dnes neslouží žádnému účelu. Vše, co umí, je vrátit jakoukoliv zprávu, kterou jí zašleme. Hodí se tak maximálně k otestování připojení a doby odezvy."
+
+Opat ho ihned vykázal z chrámu. Bratr, byť překvapen, mohl svůj prohřešek napravit rok dlouhou poutí vysoko do hor. Žádného vysvětlení se mu nedostalo.
+
+Cesta mu zabrala mnoho týdnů. Cesta se vinula nahoru a vpřed, až zanedlouho zmizela ve sněhové závěji. Vzduch začal řídnout. V posledních kilometrech byly kopce nebezpečně strmé, cesta nebyla v pustině plné sněhu ani vidět. Nejednou mnich málem přišel o svůj život, když se pod rouškou noci zatoulal příliš blízko některému z útesů.
+
+Nakonec dorazil k chýši na vrcholu jedné ze skal. Chýše ho při pouze chladem, jedinou postelí, miskou a starodávnou stanicí s VT220 terminálem.
+
+Jednoho dne, když mnich meditoval, zaslechl pípnutí terminálu. Na obrazovce bylo napsáno:
+
+<pre>
+  <b>Spojení navázáno. Zpráva:</b>
+  Deset tisíc pozdravů našemu vzdálenému bratranci!
+  <b>Odpovědět?</b>
+</pre>
+
+Bratr odpověděl hromadou nadšených otázek, ale každý jeho vstup byl terminálem odmítnut. V mžiku oka byl mnich osvícen a napsal:
+
+<pre>
+  Deset tisíc pozdravů našemu vzdálenému bratranci!
+</pre>
+
+Poté terminál nezapípal častěji než párkrát za týden, někdy s jednoduchou zprávou /ahoj/, jindy zase s krátkou básní o žluťoučkém koni. Většinou ale zpráva nedávala vůbec smysl. Bratr ale vždy odpověděl a přečkal tak celý rok.
+
+Když se vrátil zpět do chrámu, pokračoval tak i nadále. Promluvil jen tehdy, když byl dotázán, odpověděl vždy přesně stejná slova, která na něj promluvila. Jeho bratři si ho tak přestali vážit. Všichni ale museli uznat, že nikdy nešířil pomluvy, nikdy nelhal pro své vlastní dobro a nikdy nikoho nezačal urážet.
+
+
+== Qiho komentář
+
+Bratr měl štěstí, trest nebyl moc přísný. Kdyby si ale stěžoval na /discard/ službu na portu devět, to by se teprve naučil držet jazyk za zuby.
+
+
+== Qiho báseň
+
+Věž se tyčí plná pýchy, //
+socha hledí do moře. //
+Proč bylo dílo vytvořeno, //
+když ne aby se stavitel podepsal na tomto světě?

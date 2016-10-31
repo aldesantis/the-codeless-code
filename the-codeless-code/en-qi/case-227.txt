@@ -1,0 +1,79 @@
+Date: 2016-04-10
+Number: 227
+Title: You Are What You Eat
+Geekiness: 2
+Names: Zjing, Nimble Roadrunner Clan, Swooping Falcon Clan
+Topics: Agile, code duplication, reuse, selfishness
+Tagline: In which it is somebody else's problem.
+
+Now that the Temple had adopted the Agile Way, its analysts,
+developers, and testers [[#226|had been reorganized]] into
+many Tiny Clans.   Each Tiny Clan had been given the freedom
+to develop its applications in whatever manner it saw fit.
+
+It was still the task of the masters to review the code of
+all, though their authority had been much diminished.  Thus
+it was with no great joy that young master [[Zjing]]
+reviewed the code of the new clans.
+
+- - -
+
+After the early morning meal, Zjing took a printout to the
+head monk of the [[Swooping Falcon Clan]].
+
+"You have implemented business logic that is outside your
+purview," said Zjing, pointing to the code.
+"The [[Nimble Roadrunner Clan]] is chiefly responsible for
+this business process.  They should provide
+a library or service for you to consume."
+
+"Yet they offer neither," said the head monk. "Copying their
+code was effortless.  Petitioning them for an API would
+impede our progress /and/ create another external
+dependency for us to track -- thus hindering our progress
+in the future."
+
+- - -
+
+After the late morning meal, Zjing took her printout to the
+head nun of the Nimble Roadrunner Clan.
+
+"The Swooping Falcon Clan has duplicated your business
+logic," said Zjing, pointing to the code.  "You should
+provide a library or service for them to consume."
+
+"Yet we ourselves need neither," said the head
+nun. "Embedding the logic in our UI was effortless.
+Extracting and packaging it for external consumption would
+impede our progress /and/ create another API for us to
+manage -- thus hindering our progress in the future."
+
+- - -
+
+After the midday meal, Zjing set off into the woods to clear
+her mind.
+
+On the journey out, she saw five wolves surround a stag.
+The deer, lacking a direction in which to escape, was soon
+taken down by the swiftest wolf, whereupon the whole pack
+ate well.
+
+On the journey back, she saw three rabbits nibbling on
+clover in a wide green clearing.  No rabbit let a single
+minute pass without attempting to chase its fellows away.
+Indeed, as much time was spent rushing about as eating.
+
+At this sight, the young master was enlightened.
+
+- - -
+
+After the evening meal, Zjing stood before a copy of the
+Agile Manifesto in the Great Hall, pondering.  One of the
+cooks asked what she was so fixated on.
+
+Zjing said: "A change in the Temple's diet."
+
+When the cook asked her to explain, Zjing said: "Not even
+the Patriarchs could teach a fat rabbit to be cunning.  Yet
+if all the greenery sprouted legs and ran, what clever
+little hunters might the cotton-tails become..."

@@ -1,0 +1,26 @@
+Title: Koán nula
+Number: 27
+Lang: cs
+Translator: hanzik
+
+Starý písař [[Qi]] uchovával koány chrámu v obří knize, která je nám nyní známá jako /The Codeless Code/. Uvnitř se nacházelo veškeré vědění chrámu. Starat se o tuto knihu byla jedna z nejdůležitějších a nejposvátnějších povinností písaře.
+
+Jednoho dne byl dotázán nováčkem, proč jsou všechny koány číslovány od /jedničky/.
+
+"Nebyla by /nula/ vhodnější pro někoho, jako jsme my?" optal se nováček.
+
+Starý může se znenadání zhrozil, jako by viděl samotnou smrt před sebou. Třesoucí se rukou začal otáčet stránku za stránkou. Vskutku, všechny koány byly špatně očíslované. A protože všechny dokumenty, databáze a interní stránky chrámu odkazovali na koány pomocí jejich čísla, byla tato škoda nenapravitelná.
+
+Písař byl zdrcený. Sedm dní byl schoulený v rohu své kanceláře, zírající na svůj zaschlý štětec, jako by to byla kobra připravená k útoku.
+
+Ticho se šířilo chrámem jako nemoc. Žádné nové koány nebyly zapsané, a tak nebylo ráno o čem diskutovat na poradách ani nic, nad čím by studenti mohli odpoledne meditovat. Nakonec byla podaná žádost, aby stará [[Jinyu]], Matka představená, abatyše všech řádů a záležitostí, problém vyřešila.
+
+Abatyše zabouchala svoji holí na dveře písaře, čímž ho vyrušila u jeho trápení. 
+
+"Mladý muži," pověděla (neboť je starý písař v porovnání s ní o mnoho let mladší). "Není snad pravda, že každý z koánů je stvořen při meditaci nad nově nabytým moudrem, které chrám od doby posledního koánu získal?"
+
+"To je pravda," uklonil se písař.
+
+"Pak je tvá cesta jasná. Vrať se ke koánu číslo jedna, odečti jeho moudro a koán číslo nula se ti zjeví. To samé proveď pro koán mínus jedna, koán mínus dva a tak dále až do počátku časů."
+
+Tak byla práce písaře zdvojnásobena, ale jeho utrpení se samo od sebe odečetlo.

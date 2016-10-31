@@ -1,0 +1,29 @@
+Number: 232
+Title: Educación
+Lang: es
+Translator: galcalde
+Tagline: En el cual aprendemos algo nuevo.
+
+Durante años el joven monje [[Djishin]] fue el aprendiz del viejo maestro [[Banzen]]. Aunque este era un privilegio que le daba poca alegría a Djishin, porque últimamente el maestro se había vuelto visiblemente irritado con el joven monje. Sin embargo el monje no podía entender la razón.
+
+Una mañana Djishin le dijo a su compañera aprendiz [[Satou]]: ¡Me he memorizado las enseñanzas de Banzen e hice mis deberes de acuerdo a su ejemplo, sin embargo su desdén por mí es palpable! ¡Y cuando le pregunto si he hecho algo para causar su disgusto, me dice que no! ¡Estoy frustrado con el viejo!
+
+Satou respondió: Si ya no puedes marchar cuesta arriba, entonces el camino hacia adelante no está frente a ti.
+
+Djishin dijo: No puedo abandonar su servicio de la misma manera que no puedo morderme las piernas. Sin embargo mi paciencia ha menguado hasta la astilla más fina. Pronto, me temo, el maestro me va a presionar, y seguramente me rebelaré.
+
+Satou respondió: Entonces aléjate del camino y no mires atrás; porque no veo que tu rebelión acabe bien para cualquiera, excepto quizás el enterrador.
+
+- - -
+
+No mucho después, Banzen estaba revisando el código de Satou y notó que ella ahora estaba usando la nueva clase de Java <em>Optional</em> practicamente en todos lados. Banzen regañó a la monja por su hábito usual de jugar con novedades en vez de enfocar sus esfuerzos en construir una implementación confiable con patrones habituales.
+
+Escuchando este intercambio, Djishin sintió drenar las últimas sobras de paciencia de su cuerpo. El monje escupió: ¡<em>Optional</em> no es una moda pasajera; es la implementación de Java de la monada <em>Maybe</em>, y a cualquier tonto que le importe verdaderamente las implementaciones confiables le haría bien seguir el ejemplo de la monja!
+
+Un terrible silencio siguió. Nadie se movió. Podía sentir su corazón latiendo en sus oídos.
+
+Finalmente el maestro levantó una ceja espesa y blanca, diciendo: ¿Y qué -- mi impertinente, <em>ex-</em>aprendiz -- es una Monada?
+
+Con una voz temblorosa, Djishin explicó la naturaleza de las monadas y [[#143|como aprendió de ellas]]. Cuando acabó, Banzen dio pasos largos hacia el monje, levantó su bastón, y lanzó sus brazos al monje.
+
+¡Al fin! exclamó el maestro. Me estaba preguntando si había entrenado a un monje o a un sinsonte. Ahora puedo decirle a los otros maestros: este día aprendí <em>dos</em> cosas, porque al fin Djishin me dijo algo que no sabía.

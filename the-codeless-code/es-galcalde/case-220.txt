@@ -5,7 +5,7 @@ Translator: galcalde
 Tagline: En el cual tenemos dos por el precio de uno
 Illus.0.title: Cambiar el nombre "invalidación de cache" requeriría que todos desaprendiéramos el nombre existente para el concepto -- lo cual es una forma de invalidación de cache.
 
-Un monje aprendiz le dijo al maestro [[Kaimu]]: Uno de los Patriarcas declaró que hay "sólo dos cosas difíciles" en nuestro trabajo. ¿Cuales son esas "dos cosas difíciles"?
+Un monje aprendiz le dijo al maestro [[Kaimu]]: Uno de los Patriarcas declaró que hay "sólo dos cosas difíciles" en nuestro trabajo. ¿Cuáles son esas "dos cosas difíciles"?
 
 Kaimu respondió: Sólo necesitas recordar que la primera cosa difícil se llama "invalidación de cache".
 

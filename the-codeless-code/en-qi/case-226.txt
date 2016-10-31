@@ -1,0 +1,113 @@
+Date: 2016-03-14
+Number: 226
+Title: Spring, Fall
+Geekiness: 1
+Names: Ruh Cheen, Jinyu, Spider Clan, Laughing Monkey Clan, Elephant's Footprint Clan, Banzen, Zjing
+Topics: Agile, teams, methodologies, change
+
+On the Monday after the first budding of spring, the
+entire Temple was called to assembly in the Great Hall by
+old Madame [[Jinyu]], the Abbess Over All Clans And Concerns.
+Not a single person was excused -- indeed, two desperately ill
+monks were carried in on stretchers and hoisted upright
+against the back wall, next to the propped-up corpse of a
+senior nun who had died the previous Thursday without giving
+the mandatory two weeks' notice.
+
+Directly in front of old Jinyu's podium sat the diligent
+monks of the [[Elephant's Footprint Clan]], who together had
+mastered the arcane arts of database design and a hundred
+persistence libraries.  The monks had arrayed themselves in
+perfect rows and columns atop low ceremonial look-up tables
+that had been joined together for the occasion.
+
+Behind the Elephant's Footprint sat the knowledgable
+monks of the [[Laughing Monkey Clan]], who implemented the
+business logic of the Temple's many customers.  So frightfully
+intelligent was the behavior of their rule engines that
+their codebase was rumored to be possessed by the spirits of
+long-dead business analysts.
+
+Behind the Laughing Monkey sat the prolific monks of the
+[[Spider Clan]], who built the web interfaces and services
+of every Temple application.  Because web technology stacks
+came and went so frequently, their novices were trained to
+instinctively forget everything that was no longer relevant,
+lest they go mad.  Curiously, though, when asked how this
+Art of Forgetting worked, the monks invariably laughed and
+said that there /was/ no such Art; for if there were, they
+would surely have remembered learning it.
+
+Proud were these, the Three Great Clans of the Temple.  So
+it was with great dismay that they learned of Jinyu's plans
+for their future.
+
+- - -
+
+"In autumn, the abbot [[Ruh Cheen]] convinced us to taste
+the nectar of [[#210|the Agile methodology]]," said old
+Jinyu to her audience.  "Through the winter we nibbled its
+fruit and found it sweet.  Now spring has arrived, and we
+wish to plant the seeds of a great harvest.
+
+"No longer will we haphazardly select monks from the Three
+Clans to work on tasks as they arise.  Instead, each product
+will have a Tiny Clan of its own, whose members will not
+change.
+
+"Some of you will belong to a single Tiny Clan; some to two
+or three.  Each Tiny Clan will have its own rules, set its own
+standards, establish its own traditions.  The monks of your
+Tiny Clans will be your new brethren.  You will work with
+them, eat with them, do chores with them, and share a
+hall with them.
+
+"Tonight I will post your new assignments.  Tomorrow the
+Three Clans will be no more.  Now, go: prepare yourselves."
+
+Thus did old Jinyu depart the Great Hall, to a chorus of
+worried murmuring.  Even the dead senior nun seemed
+a trifle unhappier.
+
+- - -
+
+Young master [[Zjing]] turned to old [[Banzen]]
+with a look that was equal parts dread and disbelief.
+
+Said Zjing, "When the Spider learns her craft from the
+Monkey and the Elephant, what manner of webs shall we see in
+the trees?"
+
+"Creative ones," replied Banzen.
+
+"And how shall we manage such 'creativity'?" continued the
+nun.  "How shall we review code?  How shall we mentor?  How
+shall we plan?"
+
+"Differently," said Banzen.
+
+"You are infuriatingly calm!" scowled Zjing.  "I thought
+that Banzen of all people would share my concerns."
+
+Banzen chuckled.  "When Ruh Cheen was brought into the
+temple by Jinyu, you told your fellows that
+[[#201|the abbess is no fool]].  And though you were lying,
+you spoke true.  Jinyu sees that the new Way of the World
+is not the Temple's Way.  She has chosen to follow the World."
+
+"She is following it over the edge of cliff," grumbled
+the nun.
+
+"Indeed!" said Banzen with a smile.  "Yet what is the
+Temple: a stone, or a bird?"  The old master took Zjing's
+arm in his own and started for the doors, nodding his head
+respectfully as they passed the dead senior nun.  "I have
+lived through such times before.  The initial plunge is
+always unsettling to the stomach, but we have yet to crash
+into the rocks below."
+
+"So, how long must I wait before I see the Temple
+sprout feathers?" asked Zjing.
+
+"My dear young master," said Banzen.  "Did you not understand
+the terms of your own promotion?  /We/ are the feathers."

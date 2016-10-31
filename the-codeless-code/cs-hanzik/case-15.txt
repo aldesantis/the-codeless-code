@@ -1,0 +1,18 @@
+Title: Neměnnost
+Number: 15
+Lang: cs
+Translator: hanzik
+
+Z [[Temple of Three Stones|Chrámu tří balvanů]], kde se používá výhradně C, dorazil před nedávnem nový učeň. Duchovní styl Javy mu byl neznámý. Netrvalo dlouho a narazil na immutabilitu Stringů.
+
+"Chtěl bych přepsat některé znaky na velká písmena," postěžoval si. "Kvůli tomu ovšem musím zkonstruovat StringBuffer a zcela nový String, přitom chci sáhnout pouze na pár znaků! Za jakým účelem byly Stringy takto navrženy?"
+
+Jedna ze zkušenějších sester ho slyšela a poradila mu: "Minci si můžeme předat mezi sebou kolikrát chceme a i přesto si druhý den zachová svojí hodnotu. Můžeme to samé říct o vejci?" Učeň byl osvícen.
+
+Netrvalo dlouho a učeň psal /všechny/ své třídy jako neměnné. Ani jedna z proměnných nešla přepsat, pro každou změnu bylo potřeba vytvořit novou instanci. Konstruktory jeho tříd byly mnohdy neuvěřitelně obrovské a extrémně komplikované.
+
+Když o tom byl Java mistr informován, řekl: "Nechť je vytvořena forma ve tvaru vejce, následně budiž zalitá mosazí a nakonec předaná sestře. Hleďme, jak si na snídani pochutná."
+
+Tímto způsobem byla sestra pověřená napravením nového učně.
+
+

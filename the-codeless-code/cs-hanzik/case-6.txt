@@ -1,0 +1,24 @@
+Number: 6
+Title: Nicota
+Lang: cs
+Translator: hanzik
+
+Po návratu z dovolené našel hlavní opat [[Laughing Monkey Clan|Řádu smějící se opice]] chrám ve značné panice a chaosu. Finanční systém, který nedávno modifikovali, vyhazoval NullPointerException pro všechny nové zákazníky. Tito uživatelé, v krajních případech značně znepokojení, mazali své účty ještě ten samý den, co ho vytvořili.
+
+S jistou obtíží se opat dopátral k metodě, která měla vracet List transakcí uživatele. Pokud uživatel žádné transakce neprovedl, vracela metoda místo prázdného listu pouze null.
+
+"Přiveďte mi mnicha, který tuto metodu napsal," pověděl stráži. "A nezapomeňte také na mnicha, který tuto metodu volá."
+
+První mnich, starší ze dvojice, prohlásil, že vina je na straně druhého bratra. "Můj Javadoc tento krajní případ jasně popisuje. Není mojí chybou, že si nekontroluje null." Druhý mnich svěsil hlavu a neřekl na to nic.
+
+Opat tleskl a nechal před mnichy postavit dvě vysoké nefritové urny. "Váš trest byl napsán na jednotlivé papírky, které se skrývají uvnitř. Každý den si z vaší urny vezmete jeden papírek a do slova a do písmene splníte zadaný úkol. Tak budete činit, dokud nádoba nebude prázdná."
+
+Mladší z mnichů dostal nakázáno, aby šel jako první příkladem. Ještě neměl ruku ani napůl uvnitř a už bylo slyšet šustění papírků. Po přečtení se bratr uklonil a opustil místnost.
+
+Starší ze dvojice hrábl hluboko, až prsty dosáhl na samotné dno nádoby. "V této urně nejsou žádné papírky," prohlásil mnich s úsměvem na tváři.
+
+"Stejně jako tam nejsou ryby nebo deset hor," řekl opat.
+
+Starší mnich najednou vykřikl bolestí až urnu převrhl. Ta spadla na zem a roztříštila se na tisíce kusů. Ze střepů se vyklubal škorpion a utekl po dlažbě pryč.
+
+Opat pohlédl na umírajícího mnicha. "Není nic jako nic."

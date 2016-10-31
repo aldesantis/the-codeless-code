@@ -1,0 +1,24 @@
+Title: Ahoj, světe!
+Number: 14
+Lang: cs
+Translator: hanzik
+
+První den v chrámu položil Java mistr novým učňům tyto tři otázky:
+
+"Mnohdy, když nainstalujeme novou knihovnu nebo se učíme s novým jazykem, první program, který napíšeme je /Ahoj, světe!/. Jeho cílem vypsat tato slova způsobem, který bude demonstrovat správné chování zvolené technologie. A poté tento program už nikdy víc nespustíme."
+
+"Proč tedy říkáme /ahoj/ a ne zároveň /na shledanou/?"
+
+"Proč říkáme /světe/, když se publikum skládá jen z jedné jediné duše, která po prvním výkřiku program zahodí do propadliště dějin?"
+
+"Proč je vysloven pozdrav, na který nebude nikdy odpovězeno?"
+
+- - -
+
+//
+Řekněte mi slovo, které znamená /ahoj/ a /na shledanou/ -- //
+není to snad první výkřik novorozeně? //
+//
+Najděte mi horu, ze které lze vidět celý svět -- //
+odkud lze spatřit každý tygr, //
+a odkud vidíte pustinu nekonečného písku?

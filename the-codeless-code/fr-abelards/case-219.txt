@@ -1,0 +1,58 @@
+Lang: fr
+Translator: abelards
+Title: Rien n'est important.
+Number: 219
+Tagline: Dans lequel rien ne va de travers.
+
+Le Temple utilisait un framework populaire
+d'injection de dépendances et de gestion des transactions,
+mais on trouvait toujours de jeunes moines qui avaient
+besoin d'être formés à sa façon de faire.
+On avait donné à l'un de ces jeunes moines la création
+d'un Service, classes d'interface et d'implémentation.
+[[Wangohan]], moine expérimenté, en faisait la revue de code.
+
+"Tu as placé une annotation /@Transactional/ sur une méthode privée !"
+dit sèchement Wangohan. "Ça ne sert à rien !
+Le framework ne regarde ces annotations que sur les implémentations
+des méthodes d'/interface publique/ !"
+
+Le jeune moine répondit calmement : "je n'ai observé aucune erreur."
+
+"Et de plus, ta classe appelle /directement/ une méthode transactionnelle
+depuis une méthode non-transactionnelle !" continua Wangohan.
+"Ça non plus ça ne sert à rien ! La gestion des transactions n'est
+faite que par le /proxy/ de l'implémentation, pas l'implémentation
+elle-même !"
+
+De nouveau le jeune moine répondit calmement : "je n'ai observé aucune erreur."
+
+
+Wangohan s'en fut voir maître [[Kaimu]] et lui narra cela.
+"Comment puis-je travailler avec un tel idiot ?" demanda Wangohan/
+"Il ne croit aux erreurs que si elles lui sautent dessus pour lui
+mordre le nez."
+
+/"Null,"/ dit Kaimu. "Ce jeune moine n'est pas idiot.
+Car ce qu'il a dit est vrai, mais il voulait dire l'inverse,
+qui est également vrai.
+Alors il a deux fois raison, tout en étant concis."
+
+
+"Alors maître Kaimu doit être deux fois trop malin pour moi,"
+répondit Wangohan. "Car il a clairement dit quelque chose,
+mais ce qu'il a dit était un non-sens, ce qui est l'inverse
+de dire quelque chose.
+Laissez-moi prendre congé avant que je ne devienne encore
+plus sage que ce jeune moine."
+
+Wangohan s'inclina exagérément et sortit.
+
+
+Plus tard dans la journée, Kaimu trouva le jeune moine et lui dit,
+"Il y a un détecteur de fumée dans les quartiers de Wangohan.
+Va la désactiver. Puis, quand il dormira, met le feu à sa chambre."
+
+"J'imagine que Wangohan ne serait pas d'accord," dit le jeune moine.
+
+Kaimu répondit calmement : "il n'observera aucune erreur."

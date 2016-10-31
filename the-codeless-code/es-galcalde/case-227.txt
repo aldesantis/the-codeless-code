@@ -1,0 +1,42 @@
+Number: 227
+Title: Eres lo que comes
+Lang: es
+Translator: galcalde
+
+Ahora que el Templo adoptó el Camino Ágil, sus analistas, desarrolladores, y testers [[#226|habían sido reorganizados]] en varios Clanes Pequeños. A cada Clan Pequeño se le dio la libertad de desarrollar sus aplicaciones en cualquier manera que viesen apropiada.
+
+Aún era tarea de los maestros revisar el código de todos, aunque su autoridad se había disminuido mucho. Por lo tanto no fue con gran felicidad cuando la joven maestra [[Zjing]] revisó el código de los nuevos clanes.
+
+- - -
+
+Después del desayuno, Zjing llevó una impresión del código al monje principal del [[Swooping Falcon Clan|Clan del Halcón en Picada]].
+
+"Han implementado una lógica de negocios que está fuera de su alcance," dijo Zjing, señalando el código. "El [[Nimble Roadrunner Clan|Clan del Correcaminos Veloz]] es el principal responsable de este proceso de negocios. Deberían proveer una librería o servicio para que lo consuman."
+
+"Sin embargo no ofrecen ni uno ni lo otro," dijo el monje principal. "Copiar su código no requirió esfuerzo. Pedirles una API impediría nuestro progreso <em>y</em> crearía otra dependencia externa para que la monitoreemos -- dificultando así nuestro progreso en el futuro."
+
+- - -
+
+Después del tentempié, Zjing llevó su impresión a la monja principal del Clan del Correcaminos Veloz.
+
+"El Clan del Halcón en Picada ha duplicado su lógica de negocios," dijo Zjing, señalando el código.  "Deberían proveer una librería o servicio para que ellos lo consuman."
+
+"Sin embargo no necesitamos ni uno ni lo otro," dijo la monja principal. "Embeber la lógica en nuestra Interfaz de Usuario no requirió esfuerzo. Extraerla y empacarla para el consumo externo impediría nuestro progreso <em>y</em> crearía otra para que la manejemos -- dificultando así nuestro progreso en el futuro."
+
+- - -
+
+Después del almuerzo, Zjing se fue al bosque a aclarar su mente.
+
+En el viaje de ida, vio cinco lobos rodeando un ciervo. El venado, a falta de una dirección por la cual escapar, fue pronto tomado por el lobo más raudo, con lo cual la manada comió bien.
+
+En el viaje de vuelta, vio tres conejos mordisqueando tréboles en un espacio verde y amplio. Ningún conejo dejo pasar un minuto sin intentar ahuyentar a sus compañeros. Sin dudas, se pasaban tanto tiempo corriendo como comiendo.
+
+Ante la vista, la joven maestra fue iluminada.
+
+- - -
+
+Después de la merienda, Zjing se paró frente a una copia del Manifiesto Agil en el Gran Salón, reflexionando. Uno de los cocineros preguntó en qué se estaba fijando tanto.
+
+Zjing dijo: "Un cambio en la dieta del templo."
+
+Cuando el cocinero le pidió que explique, Zjing dijo: "Ni siquiera los Patriarcas podrían enseñar a un conejo gordo a ser astuto. Sin embargo si el pasto tuviera patas y corriera, qué cazadores listos podrían volverse los cola de algodón..."

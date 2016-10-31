@@ -1,0 +1,34 @@
+Title: Nezbytné vlastnosti
+Number: 18
+Lang: cs
+Translator: hanzik
+
+Ten samý mnich ze Sloní šlápoty dumal nad kódem, který jeho řád vytvořil. Prohlížel si několik podobných implementací jednoho Data Access objektu a snažil se rozhodnout, kterou z nich bude řád nadále používat.  
+
+"Každá z implementací se můžu něčím pyšnit i stydět," pověděl mnich Java mistrovi. "A každá z nich má některé vlastnosti, které zase jiná nemá. Jak mám správně rozhodnout, které nechat odvát větrem do zapomenutí?"
+
+"Žíznivý ti nemohu odpovědět," odpověděl mistr. "Ve skříni vedle tebe najdeš tři dřevěné hrnky. Naplň první vodou z řeky, druhý vodou ze studny před chrámem a třetí vodou od kupce ve vesnici. Vrať se, aniž bys vylil jedinou kapku, a já ti poradím, co budu schopen."
+
+Mnich tak učinil a postavil všechny tři nádoby před mistra.
+
+"Co jsi se naučil?" zeptal se mistr.
+
+Mnich se uklonil. "Za jednu minci udeří kupec dvakrát do gongu. Poprvé, než vám nalije vodu do hrnku, a podruhé, když se z něho poprvé napijete. Když nalijete vodu do hrnku ze studny před chrámem, žádný úder gongu neuslyšíte, ale kýbl ze studny je těžký. Když naplníte hrnek vodou z řeky, rozrušíte tím místní ryby a bůh řeky musí být zahnán třemi bílými oblázky."
+
+"Zvládnu vypít pouze jeden z hrnků," řekl mistr. "Na kterém z nich si pochutnám nejvíce?"
+
+Mnich toto důkladně zvážil. "Voda z řeky je studená, ale jinak velmi čistá. Vodu ze studny jsem pil mnohokrát, ta je hořká kvůli místnímu vápenci. A i když se s kupcem z vesnice tolik neznám, slyšel jsem dnes údery do jeho gongu mnohokrát. Na základě toho bych zvolil vodu od kupce."
+
+"Velmi rozumné rozhodnutí," prohlásil mistr. "A vskutku, sám navštěvuji kupce každé ráno již dlouhých osm let a pokaždé to je příjemný zážitek. Který z nádob je od něho?"
+
+Mistr se napil z hrnku, až se na jeho tváři objevilo ohromné zklamání. "Mladý bratře," řekl. "Ty jsi naprosto nepochopil podstatu mé žízně. Kde je zvuk gongu?"
+
+- - -
+
+Mistrova žízeň nebyla zahnána //
+i přesto se bratrovi dostalo odpovědi //
+jaký zvuk vydala nádoba při nalití? //
+
+Mnich by si ušetřil práci
+kdyby jen položil mosazné kadidlo za okno //
+a jen si počkal na déšť. //

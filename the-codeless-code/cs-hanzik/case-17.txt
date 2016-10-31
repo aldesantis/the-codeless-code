@@ -1,0 +1,14 @@
+Title: Nevynalezeno mnou
+Number: 17
+Lang: cs
+Translator: hanzik
+
+Bratr z [[Elephant's Footprint Clan|Řádu sloní šlápoty]] byl pověřen odstraněním hromady redundantního kódy, který řád vyprodukoval. Požádal hlavního pastora o radu.
+
+"Zde, například, máme pět nástrojů pro správu nastavení uživatele," pověděl bratr a rozprostřel všechny výpisy z konzole na stůl. "Buď musím zvolit tu nejlepší z implementací nebo sám vytvořit nějaký kompromis. Tak jako tak budou minimálně čtyři nástroje zahozeny a jejich autoři budou muset použít kód svého rivala."
+
+"Pak jsi ztracen," prohlásil pastor. "Jakmile si kočka jednou smočí packy v rybníce ve snaze o vylovení kapra, už se nikdy nespokojí ani s klecí plnou myší."
+
+Bratr si setřel pot z čela. "A to je pouze jeden z tuctu zbytečných systémů, které musím roztřídit! Dnes jsem spatřil jednoho ze starších bratrů, jak si brousí své oblíbené házecí nože. Nešlo by bratry našeho řádu nějak zklidnit?"
+
+Pastor zdvihl svoji levou ruku, které chyběl malíček. "Pokud kočka kapra chytit nemůže, i kus kapřího zloděje bude stačit."

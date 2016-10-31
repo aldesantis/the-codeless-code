@@ -1,0 +1,16 @@
+Title: Dokumentace
+Number: 16
+Lang: cs
+Translator: hanzik
+
+Opat z [[Seven-Clawed Blind Eagle Clan|Řádu slepého orla]] prováděl evidenci balíčků všech mnichů, když si všiml, že bratr z [[Laughing Monkey Clan|Řádu smějící se opice]] nedodal ani jednu dokumentaci.
+
+"Co když na produkci narazíme na nějaký problém?" zeptal se opat mnicha. "Jak by pak někdo kromě tebe mohl pochopit příčinu tohoto problému?"
+
+"Samotný kód by měl být prozkoumán," odpověděl bratr. "Dokumentace je jak nemocná zvěř, snadno náchylná k některé ze Tří hříšných chyb: opomenutí, obfuskaci a zastaralosti."
+
+Opat toto nahlásil Java mistrovi, který prohlásil: "Nechť náš bratr každé ráno balancuje na jedné noze s jeho holí rozpřaženou a nepřestane s tím až do západu slunce. Pokud dokáže říct slovo, které mě potěší, pak ho ušetřím jeho trestu, ale jinak nikoliv."
+
+"Existuje snad takové slovo?" zeptal se opat.
+
+"Těžko říct," prohlásil mistr. "Včera mě potěšil zvuk cvrčků zpívajících po třetí kapce deště. Předevčírem to byla vůně mléka ve džbánu, jež mi připomněla hezkou vzpomínku z dětství. Možná nalezneme odpověď uvnitř květu bílého lotosu, který kdysi rostl v jezírku po mým oknem."

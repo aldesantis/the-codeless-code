@@ -1,0 +1,22 @@
+Number: 2
+Title: Neznámé neznámé
+Lang: cs
+Translator: hanzik
+
+Císař byl rozzuřen defekty, jež se vyskytly v novém systému pro zpracování objednávek. Poslal tedy do chrámu poslíčka, aby vyzpovídal místní mnichy, které tvorbou systému pověřil.
+
+"Jeho Výsost nechala vypravit nejvěrnější Business Analytiky, aby zajistili, že veškeré funkcionality budou fungovat tak, jak mají," mračil se poslíček. "Nepochopili jste snad některou z jejich mnohých PowerPointových prezentací?"
+
+"Zúčastnili jsme se každé z nich," odpověděl Java mistr. "Vše, co bylo vyslyšeno, bylo též pochopeno."
+
+Mistr položil misku rýže před poslíčka. Během krátké chvíle byla miska prázdná. Poslíček si rukávem otřel pusu a pokračoval:
+
+"Ti samí Analytici vám poskytli deset tisíc stránek dokumentace požadavků, které byly doprovázeny  pečlivě ilustrovanými Use case diagramy. Copak jste si to řádně nepročetli?"
+
+"Pečlivě jsme studovali každou stránku," odpověděl Java mistr. "Vše, co bylo přečteno, bylo též pochopeno." Mistr položil hrnek horkého čaje před poslíčka, ten ho jedním douškem ihned vypil.
+
+Hned poté padl poslíček na stůl, v mžiku oka mrtvý.
+
+Mistr se optal svých studentů: "Copak poslíček nevěděl, že je naším zvykem obklopovat se otráveným jídlem a pitím, abychom lépe odolali potřebám našeho těla?"
+
+Nejmoudřejší z mnichů pravil: "Vše, co bylo poslíčkem zpozorováno, bylo pochopeno."

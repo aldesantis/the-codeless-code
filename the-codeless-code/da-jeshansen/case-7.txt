@@ -1,0 +1,35 @@
+Number: 7
+Lang: da
+Translator: jeshansen
+Title: Det Godes fjende
+
+Munkene fra [[Laughing Monkey Clan|Den Leende Abes Klan]] henvendte sig
+til Java-mesteren med en liste af klager.
+
+"Vores største frustration er testproceduren", insisterede den yngste
+munk. "Manuel test er kedeligt og automatiske tests er besværlige at
+skrive. Begge dele er distraktioner fra at skrive rigtig kode."
+
+Mesteren overvejede dette, og sagde: "Sikkert er det, at vi kunne forbigå
+al test, hvis blot vi vidste at vores kode var perfekt. Hvordan, så, kan vi
+opnå denne perfektion?"
+
+"Gennem øvelse", sagde en munk.
+
+"Gennem flittigt studie", sagde en anden.
+
+"Gennem formildelse af de rette guder", sagde en tredje.
+
+En gammel hvidhåret munk som havde siddet stille i hjørnet løftede hovedet:
+
+"Jeg ved hvorledes perfektion kan opnås", sagde han. "Men jeg frygter
+at alle der hører mit svar aldrig vil være overbevist om at det er sandt
+medmindre jeg udtaler præcist de rette ord, med den mest behageligt intonation,
+på det mest gunstige tidspunkt på dagen. Jeg er nødt til at overveje hvorledes
+dette er gjort bedst."
+
+Den gamle munk forblev tavs i lang tid. Til sidst lød middagsklokken.
+
+"Hvor lang tid vil dette tage?" spurgte en af novicerne.
+
+"Ikke mere end hundrede år," var den gamle munks svar.

@@ -1,0 +1,20 @@
+Title:  Zredukovat, zrecyklovat a znovu použít
+Number: 8
+Lang: cs
+Translator: hanzik
+
+Učeň se zeptal mistra: "Co je naším cílem?"
+
+Mistr odpověděl: "Psát kód je naším cílem."
+
+Učeň se poté zeptal: "Co není naším cílem?"
+
+Mistr odpověděl: "Psát kód není naším cílem."
+
+Učeň na to řekl: "Pak psaní kódu je vše."
+
+Mistr odpověděl: "A stejně tak i nepsaní kódu je vše."
+
+Na to se učeň optal: "Pak tedy, v tuto chvíli, píšeme kód nebo ho nepíšeme?"
+
+Mistr odpověděl: "My jsme ten kód."

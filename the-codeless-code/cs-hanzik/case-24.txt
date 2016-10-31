@@ -1,0 +1,30 @@
+Title: Červený sešit
+Number: 24
+Lang: cs
+Translator: hanzik
+
+V kronice [[Temple of the Morning Brass Gong|Chrámu ranního měděného gongu]] je tento příběh zahrnut v rámci kapitoly /Unit Testing/:
+
+Java mistr [[Kaimu]] občas odpovídal na otázky jedním jediným slovem /null./ Když byl dotázán, co tím myslel, odpověděl naprosto stejně stejně nesrozumitelným slovem - /null./
+
+Mladý mnich, samotář známý pro své slabé zdraví, si začal poznamenávat, na které otázky Kaimu takto odpovídal. Své poznámky si zapisoval do malého červeného sešitu. Během několika měsíců byl tento sešit rychle zaplněn. Každý večer mnich nad sešitem dlouho do noci meditoval.
+
+"Už jsi našel klíč k mysli tvého milovaného mistra Kaimu?" posmívali se mu jednoho dne jeho bratři.
+
+/"Null,"/ odpověděl mnich.
+
+Za tuto odpověď ho ostatní rychle chytili a kopali ho až byl celý od modřin. Jeho drahocenný sešit hodili do ohně.
+
+O tom se doslechl i Java mistr a pověřil opata řádu, aby tento incident vyšetřil. "Tady máte čtyřicet osm otázek, které mladému mnichovi položte," řekl mistr. "Jeho odpovědi mi pak nahlaste."
+
+Opat tak provedl. Na většinu otázek poskytl mnich jednoduchou odpověď. Na pár ovšem odpověděl tajemným /null./ Na všechny další zůstal zticha. 
+
+Java mistr se při čtení jeho odpovědí podrbal na vousech.
+
+"Za jeho odpověď na otázku dvanáct, dejte bratrovi za uši, neboť je drzý," pověděl mistr. "Za jeho odpověď na otázku třicet jedna, dejte mu vrbovým proutkem na zadnici, neboť se odpovědi vyhýbá. Poté mu dejte nový červený sešit."
+
+"A co mám provést s těmi bratry, co ho zmlátili?" zeptal se opat.
+
+"Odměňte je, neboť prokázali chrámu službu. Nyní znám algoritmus závadného mnicha."
+
+

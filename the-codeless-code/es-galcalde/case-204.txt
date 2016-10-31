@@ -6,7 +6,7 @@ Tagline: En el cual el tiempo es relativo.
 
 La pequeña monja [[Hwídah]] era conocida por todos por ser la elección preferida del maestro [[Banzen]] para investigar problemas de producción. Hwídah no estaba orgullosa de su rol, porque sospechaba que era meramente [[#152|el castigo de Banzen]] por su naturaleza excesivamente curiosa. El hecho que ahora pasaba horas cada día leyendo atentamente archivos log no hacía nada para aliviar esta sospecha.
 
-"Es muy frustrante," le dijo a Banzen, cuando le preguntó como le fue en su última tarea. "En teoría, un problema así podría aparecer si este proceso en lote no corriera a la medianoche. Nuestros logs muestran que comenzó cuatro horas después de lo planificado, pero por mi vida no puedo explicar por qué, y estoy volviéndome bizca del esfuerzo."
+"Es muy frustrante," le dijo a Banzen, cuando le preguntó cómo le fue en su última tarea. "En teoría, un problema así podría aparecer si este proceso en lote no corriera a la medianoche. Nuestros logs muestran que comenzó cuatro horas después de lo planificado, pero por mi vida no puedo explicar por qué, y estoy volviéndome bizca del esfuerzo."
 
 Banzen miró el texto deslizante en su monitor. "Muy bien," dijo él, "quizás has sufrido lo suficiente. Elige una hora en la tarde, y tus tareas investigadoras serán limitadas a esa hora."
 

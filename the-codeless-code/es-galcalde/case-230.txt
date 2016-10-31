@@ -1,0 +1,45 @@
+Number: 230
+Title: Todos juntos ahora
+Lang: es
+Translator: galcalde
+Tagline: En el cual cedemos algunas cosas
+
+El [[Hungry Worm Clan|Clan del Gusano Hambriento]] estaba construyendo un sitio web para un artesano que hacía herramientas personalizadas de agricultura. La joven maestra [[Zjing]] estaba revisando el código de sus tres desarrolladores.
+
+
+"No entiendo el propósito de la propiedad <em>UltimaVentaPorFecha</em> en el <em>PurchaseItem</em> de su carrito," le dijo a los tres. "Las palas y los rastrillos no tienen vencimiento."
+
+"Esa propiedad fue pedida por el [[Red Pebble Clan|Clan del Guijarro Rojo]]," respondió el primer monje. "Están construyendo un sistema para administrar las granjas de cerezas de un comerciante, y planean usar nuestro servicio de pedidos de órdenes en vez de construir el suyo."
+
+
+"¿Qué?" preguntó Zjing en descreimiento. "¿Quién les sugirió <em>eso</em>?"
+
+"Tú," dijo el segundo monje. "¿No les [[#227|has dicho a los dos clanes]] que la reutilización de servicios era superior a copiar y pegar código?"
+
+
+"¡Sí, pero las necesidades de negocios de <em>vuestros</em> dos clanes son completamente diferentes!" gritó Zjing. "Al final, los compradores de cerezas pueden necesitar opciones para el tamaño de caja, envío refrigerado, y seguro contra pestes. ¡Todas esas cosas podrían tener sus propias reglas y cálculos!"
+
+"Usted se preocupa por un futuro que puede que nunca ocurra," contraargumentó el tercer monje. "E incluso si pasa, ¿Y qué? Cuanto más características implementemos, mayor será la oportunidad de que demos soporte a nuestros otros clientes."
+
+
+<i>"¿Otros</i> clientes?" preguntó Zjing.
+
+"Dos otros clanes pequeños expresaron interés en nuestros servicios," dijo el primer monje.
+
+"Para partes de uniciclos y trajes de boda de fantasía," dijo el segundo monje.
+
+"Y he empezado a diseñar un mecanismo para manejar casos no previstos," dijo el monje. "Al final el templo ahorrará mucho tiempo de desarrollo en promedio."
+
+
+- - -
+
+Más tarde en esa semana Zjing llamó a una reunión de los clanes pequeños bajo su tutelaje. Docenas de monjes y monjas se juntaron en la sombría, sin ventanas y sofocante, Sala de la Somnolencia Irresistible donde se daban largas presentaciones.{{*}}
+
+La mayoría de los bancos ya habían sido tomados por aldeanos no familiares -- empleados, explicó Zjing, de la tienda de trajes de bodas de fantasía, quienes estaban ahí para asegurarse de que sus requerimientos fueran satisfechos. La reunión luego empezó con una presentación extraordinariamente aburrida sobre sastrería, durante la cual muchos de los monjes y monjas podían verse cabeceando.
+
+Después de la última diapositiva los aldeanos fueron excusados. Cuando el último de ellos se había ido, Zjing sacó una linterna de detrás del podio, y sin decir una palabra incendió la enorme pantalla de proyección de papel de arroz. Las llamas treparon rápidamente y se extendieron por las secas maderas del techo; el calor abrasó el aire; el humo se inflaba; los monjes tosían o gritaban; sonó la alarma de fuego; entonces en algún lado por encima los irrigadores entraron en vida y empezaron a salir agua a borbotones inefectivamente en la escena del pandemonio allá abajo. Fue en ese entonces -- mientras los ocupantes corrían en cuatro direcciones distintas hacia las cuatro puertas de salida -- que descubrieron que sus ropas fueron rápidamente y habilidosamente atadas a las ropas de sus vecinos.
+
+
+
+
+{{*}} Usualmente estas eran mandadas por el departamento de Recursos Humanos, e incluían cursos de actualización anual como: "Primeros auxilios para lesiones accidentales", "Primeros auxilios para heridas intencionales", "Como elegir un plan de seguro de vida completo", y "La importancia de una buena moral de trabajo."

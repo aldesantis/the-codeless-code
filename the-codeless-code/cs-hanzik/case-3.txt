@@ -1,0 +1,16 @@
+Number: 3
+Title: Zapouzdření
+Lang: cs
+Translator: hanzik
+
+Mladý mnich, nováček chrámu, nejen, že deklaroval všechny své metody public, ale to samé dělal i instancím svých proměnných. Hlavní opat chrámu byl již znaven jeho neustálým napomínáním, požádal tedy Java mistra o radu.
+
+Dalšího dne povolal mistr mladého mnicha, aby s ním poobědval v jeho kanceláři.
+
+Mnich byl při vstupu překvapen hostinou, která byla rozprostřena po celém konferenčním stole. Mistr vyzval mladíka, aby si lehl na zem.
+
+Mnich tak učinil, načež mistr odhrnul roucho mladého bratra a vytáhl obrovský nůž. Přitlačil nůž ostrým hrotem na jeho hrudník, až se prostor kolem nože začal zbarvovat do ruda. Mnich vykřikl bolestí a zeptal se mistra, o co mu jde.
+
+"Chci ti rozříznout břicho," vysvětlil mistr, "abych do tebe mohl nasypat rýži a nalít do tebe čaj. Mám poměrně nabitý rozvrh a krmit hosty tímto způsobem mi přijde velmi efektivní."
+
+Poté již nikdy nebylo potřeba mladého mnicha napomínat.

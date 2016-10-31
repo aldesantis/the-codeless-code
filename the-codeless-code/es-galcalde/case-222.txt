@@ -8,7 +8,7 @@ Después de que la monja [[Satou]] había [[#221|corregido su código,]] ella vo
 
 "Entonces," dijo Banzen, mirando de reojo la última revisión. "<em>Ahora</em> obtienes tu 'hash de los contenidos de la página' tomando el arreglo de bytes que contiene los contenidos y enviándolo a <em>Arrays.hashCode()</em>."
 
-"¿Eso no funcionará?" preguntó Satou nerviósamente.
+"¿Eso no funcionará?" preguntó Satou nerviosamente.
 
 "Funcionará correctamente en esta circunstancia," dijo Banzen. "Pero si tu 'hash de los contenidos de la página' tiene la intención de ser un resumen, entonces deberías usar una utilidad que <em>calcule</em> un resumen."
 

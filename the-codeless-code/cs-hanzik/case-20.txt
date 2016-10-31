@@ -1,0 +1,54 @@
+Title: Ani ano ani ne
+Number: 20
+Lang: cs
+Translator: hanzik
+
+Sestra z [[Elephant's Footprint Clan|Řádu sloní šlápoty]] seděla u svého stolu, nohy v kříž, a v tichosti přemýšlela nad Entity-Relationship diagramem, který měla načrtnutý na své bílé tabuli.
+
+Java mistr{{*}} toto zpozoroval a přistoupil k sestře.
+
+Bůh ticha mezi slovy byl už dávno v místnosti.
+
+- - -
+
+Sestra ukázala na diagram. "Tento sloupec, pojmenovaný /complete/, je deklarovaný jako integer. Krátké nahlédnutí do dat mi prozradilo, že tato položka obsahuje pouze dvě unikátní hodnoty: nulu a jedničku. Předpokládám, že nula indikuje lež a jednička pravdu."
+
+Mistr pověděl: "Pouze zasvěcená osoba může říct, co tato čísla znamenají."
+
+Na to odpověděl Bůh ticha mezi slovy: "Přítomnost nuly naznačuje, že musí existovat jednička, která tuto nulu spočítá. V tom případě musí existovat dvojka, která spočítá obě tato číslo. Takto bychom mohli pokračovat až do nekonečna. Vyklubal se snad vesmír takto ze skořápky hadího vejce?" 
+
+- - -
+
+Sestra zdvihla dva prsty její pravé ruky. "Přemýšlela jsem nad uložením dvojky do náhodně zvoleného řádku tabulky, jen abych mohla zpozorovat, jaký to má efekt na aplikaci."
+
+Mistr pověděl: "Chceš rozhodnout, zda pravdu rozhoduje přítomnost jedničky nebo absence nuly."
+
+Na to odpověděl Bůh ticha mezi slovy: "Absence nuly naznačuje přítomnost něčeho. Přítomnost nuly naznačuje absenci čehokoliv. Když had spolkne sám sebe, od ocasu už po hlavu, co pak zbude?"
+
+- - -
+
+Sestra opřela bradu o ukazováček svojí ruky. "Sloupec také povoluje null. Pokud sloupec pokládá otázku, zvyklosti říkají, že null reprezentuje neznámou odpověď."
+
+Mistr pověděl: "Tento null může být mazanou pomlkou, která předchází lži, nebo něžným tichem, které předchází odhalení pravdy. Jeho důležitost spočívá v tom, v co se může proměnit. Až poté, co přestane existovat, můžeme teprve zjistit, co to doopravdy bylo."
+
+Na to odpověděl Bůh ticha mezi slovy: "Duše si vždy osvojí tvář zesnulého. Jakou tvář si má ale vzít duše něčeho, co se ještě nenarodilo?"
+
+- - -
+
+Sestra se zamyslela. "Než se aplikace dotáže databáze, je hodnota tohoto sloupce neznámá. Poté se každý null v tomto sloupci stane úmyslně null Booleanem. V tu chvíli je hodnota zároveň známá i neznámá."
+
+Mistr povědět: "Zjistili jsme tedy pouze to, že jsme nic nezjistili, i to ale budiž zdrojem moudrosti."
+
+Na to odpověděl Bůh ticha mezi slovy: "Mudrc i hlupák jdou do svých hrobů se stejným přesvědčením. Oba věří, že mudrc je tím hlupákem. Kde pak tedy můžeme moudrost nalézt?"
+
+- - -
+
+Sestra položila ruce do klína. "Když uložíme nullový SQL integer, stane se z něho v paměti nullový Boolean. Dvě nicoty, obě naprosto jiné povahy. Jak mohou být dvě nicoty odlišné?"
+
+Na to mistr přikývl.
+
+Bůh ticha mezi slovy pozvedl obočí.
+
+
+
+{{*}} Pravděpodobně [[Kaimu]].

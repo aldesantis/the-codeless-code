@@ -1,0 +1,27 @@
+Lang: fr
+Translator: abelards
+Title: Les Deux Choses Difficiles
+Number: 220
+Tagline: Dans laquelle on en a deux pour le prix d'un.
+Credits: La citation que le jeune moine reprend est de Phil Karlton.
+Illus.0.title: Changer le nom "invalidation du cache" exigerait que nous désapprenions tous le nom actuel du concept -- ce qui est une forme d'invalidation du cache.
+
+Un jeune moine dit à maître [[Kaimu]] :
+  un des Patriarches a déclaré qu'il n'y avait
+  "que deux choses difficiles" dans notre art.
+  Que sont ces "deux choses difficiles" ?
+
+Kaimu répondit :
+  tu n'as besoin de te rappeler que d'une chose,
+  c'est que la première est appelée "invalidation du cache".
+
+Le jeune moine demanda :
+  cela signifie-t-il que /tout/ le cache est invalidé,
+  ou seulement certains de ses éléments ?
+  Et pourquoi l'appeler "invalidation" alors que la seule
+  erreur est que la donnée est périmée ?
+  Est-ce qu'on ne pourrait pas plutôt la nommer
+  "expiration d'éléments du cache" ?
+
+Kaimu répondit :
+  et maintenant, tu connais la seconde chose difficile.

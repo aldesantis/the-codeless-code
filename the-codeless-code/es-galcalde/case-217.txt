@@ -4,29 +4,29 @@ Lang: es
 Translator: galcalde
 Tagline: En el cual conocimos al enemigo.
 
-Después de siete días seguidos de lluvias que congelan hasta los huesos, tortas de arroz empapadas y tiendas goteantes, los tres aprendices de la maestra [[Suku]] no podían recordar como se sentía estar seco o caliente. Así que uno apenas podría imaginar sus alegrías cuando Suku negoció alojamiento en la casa de un gran vendedor de ganado. Los fogones del vendedor seguían quemando a todas horas, su despensa tenía presas y carne asada, y no tenía objeciones de que los cuatro viajeros se quedaran todo el invierno si quisieran.
+Después de siete días seguidos de lluvias que congelan hasta los huesos, tortas de arroz empapadas y tiendas goteantes, los tres aprendices de la maestra [[Suku]] no podían recordar cómo se sentía estar seco o caliente. Así que uno apenas podría imaginar sus alegrías cuando Suku negoció alojamiento en la casa de un gran vendedor de ganado. Los fogones del vendedor seguían quemando a todas horas, su despensa tenía presas y carne asada, y no tenía objeciones de que los cuatro viajeros se quedaran todo el invierno si quisieran.
 
 "Mi única tarifa," dijo el vendedor, "es que evalúen al monasterio que mantiene mi sitio. Cada característica que pido toma más tiempo que lo que esperaba, y el sitio está plagado de bugs."
 
 "¡Primer aprendiz!" dijo la maestra al mayor de sus tres acompañantes. "Investiga a esos monjes."
 
-"¿Donde está ese monasterio?" preguntó el Primer Aprendiz.
+"¿Dónde está ese monasterio?" preguntó el Primer Aprendiz.
 
-El vendedor de ganado apuntó a la lluvia, hacia un grupo de edificios encima de una colina disatnte.
+El vendedor de ganado apuntó a la lluvia, hacia un grupo de edificios encima de una colina distante.
 
 - - -
 
-Empapado de pies a cabeza otra vez, el primer aprendiz de Suku llegó finalmente al monasterio. El fue recibido por el monje principal con una taza de vino caliente y la contraseña del WiFi.
+Empapado de pies a cabeza otra vez, el primer aprendiz de Suku llegó finalmente al monasterio. Él fue recibido por el monje principal con una taza de vino caliente y la contraseña del WiFi.
 
 "Aquí hay un problema," sorbió el primer aprendiz mientras navegaba por su repositorio. "Su página 'Encontrar animales' es asombrosamente compleja. Dependiendo de las entradas dadas, podría buscar animales <em>disponibles</em> para comprar, animales que el usuario <em>ya</em> ha comprado, animales en la <em>lista de deseos</em> de los amigos del usuario, etcétera. En cada caso, la validación hecha, las tablas consultadas, las columnas devueltas, y la información mostrada son completamente diferentes. La tabla de resultados es un desastre incoherente."
 
-"Sin dudas," coincidió el monje principal. "El código creció tan convulsonado que ninguno de nosotros lo tocará sobrio, y tan frágil que no nos atrevemos ni siquiera a añadir un espacio a un comentario.
+"Sin dudas," coincidió el monje principal. "El código creció tan convulsionado que ninguno de nosotros lo tocará sobrio, y tan frágil que no nos atrevemos ni siquiera a añadir un espacio a un comentario.
 
-"¿Entonces por qué no implementan varias pantallas <em>simples</em>, en vez de una sóla e incomprensible?" preguntó el aprendiz.
+"¿Entonces por qué no implementan varias pantallas <em>simples</em>, en vez de una sola e incomprensible?" preguntó el aprendiz.
 
-"¿Tendrás que pedirle al diseñador de interfaces," dijo el monje principal. "Porque se nos dijo que siguiéramos sus bosquejos extactamente."
+"Tendrás que pedirle al diseñador de interfaces," dijo el monje principal. "Porque se nos dijo que siguiéramos sus bosquejos exactamente."
 
-"¿Donde puede encontrarse ese diseñador?" preguntó el primer aprendiz.
+"¿Dónde puede encontrarse ese diseñador?" preguntó el primer aprendiz.
 
 El monje principal apuntó a la lluvia, hacia una pequeña cabaña encima de un peñasco distante.
 
@@ -44,6 +44,6 @@ El diseñador de interfaces apuntó a la lluvia, hacia el valle distante donde e
 
 Estornudando violentamente y dejando un rastro de tinte carmesí (el cual no tuvo el tiempo adecuado para secarse), el primer aprendiz de Suku se tambaleó ante las puertas de la casa del vendedor y colapsó en frente del fogón donde sus compañeros jugaban al mājan con su anfitrión.
 
-Débilmente, el primer aprendiz le preguntó al vendedor si insistió verdaderamente en que toda la búsqueda de animales sea hecha a través de una sóla pantalla.
+Débilmente, el primer aprendiz le preguntó al vendedor si insistió verdaderamente en que toda la búsqueda de animales sea hecha a través de una sola pantalla.
 
 "Sin dudas," dijo el vendedor con una reverencia orgullosa. "Lo hice para facilitarle las cosas a los desarrolladores. Porque obviamente <em>una</em> pantalla es más simple de implementar que <em>varias</em>."

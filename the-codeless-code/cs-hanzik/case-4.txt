@@ -1,0 +1,18 @@
+Number: 4
+Title: Vrba
+Lang: cs
+Translator: hanzik
+
+Nový kněz z [[Spider Clan|Řádu pavoučí sítě]] truchlil nad mizernou kvalitou Javascriptového kódu, který napsali jeho učni.
+
+"Prošetřím to," řekl Java mistr.
+
+Po návštěvě nováčků rozhodl mistr, aby první čtyři byli každý den za úsvitu potrestáni úderem přes jejich prsty, dřív se nesmí dotknout klávesnice. Pátému učni neuložil žádný trest. Kněz se optal mistra, proč tak učinil.
+
+"I z proutku, staráš-li se o něj, může vyrůst vrba. To pro stéblo trávy, ovšem, neplatí," odpověděl mistr.
+
+Kněz na to rozkázal, aby byl pátý nováček propuštěn.
+
+To překvapivě Java mistra rozzuřilo a sám kněz byl z chrámu vypovězen. Na jeho poslední výplatní pásku napsal mistr následující:
+
+<em>Nemůžeme ulehnout na tisíce vrb a rozjímat nad východem slunce.</em>

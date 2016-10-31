@@ -1,0 +1,50 @@
+Number: 229
+Title: L'approche recommandée
+Translator: abelards
+Lang: fr
+
+Un certain moine avait entendu que Maître [[Suku]] avait le
+secret de concevoir son code pour une réutilisabilité maximale.
+Mais à chaque fois que le moine suppliait le maître de partager
+sa sagesse, Suku ne faisait que tourner les talons et s'éloigner.
+Exaspéré, le moins demanda de l'aide à l'un des trois apprentis
+de Maître Suku.
+
+"Pour apprendre le grand secret de notre maître, il faut
+l'approcher correctement," expliqua l'apprenti.
+"Viens, je vais te montrer."
+
+L'apprenti donna au moine des robes de cérémonies spéciales,
+qui étaient trop grandes de plusieurs tailles et qu'il avait
+fallu enrouler deux fois autour de ses bras et jambes.
+Pour éviter que les robes ne se dénouent, l'apprenti lui
+noua une longue étoffe tout autour du corps du moine,
+des poignets aux chevilles.
+Quand le moine protesta que la marche lui devenait impossible,
+l'apprenti ne fit que hocher la tête, disant que le moine
+devrait approcher Suku à plat ventre, la tête basse et les
+pieds aussi haut que possible.
+
+Le moine en colère rampa sur le ventre, lentement,
+tout au long du couloir, maudissant Suku et se demandant
+si /quelconque/ sagesse avait une quelconque chance
+de pouvoir valoir le prix d'efforts aussi ridicules.
+
+À cette pensée, le moine reçut soudainement l'illumination.
+
+
+== Le commentaire de Qi
+
+Certains maîtres répondent une question d'un simple geste ;
+Suku a répondu avant même qu'on ne lui pose de question.
+Maître Suku dispose en effet d'une API redoutablement efficiente,
+puisqu'elle retourne une valeur utilisable même quand on
+n'en appelle pas à sa fonction.
+
+
+== Le poème de Qi
+
+Le général voulait une monture pour traverser ses terres. //
+Le palefrenier ne lui donne qu'une selle moelleuse. //
+Bien des chevaux trébuchent sur les routes caillouteuses -- //
+Parfois, même un général devrait penser avec le derrière. //

@@ -1,0 +1,33 @@
+Title: Bezpečnost
+Number: 22
+Lang: cs
+Translator: hanzik
+
+Mnich z [[Laughing Monkey Clan|Řádu smějící se opice]] byl dobře obeznámen s programem, který byl vytvořen v dobročinném Chrámu ježatého jaka, a přál si využít jeden z jejich modulů na novém projektu, na kterém právě pracoval. Protože ale repozitář jeho vlastního řádu byl ostře hlídaný, musel si mnich zažádat o povolení o zařazení programu třetí strany u hlavních páterů kláštera.
+
+Hlavní opat řádu byl ochotný začlenit modul do projektu pod jednou podmínkou. Kněží vytvoří wrapper třídu, skrz kterou se bude k modulu přistupovat.
+
+"Tím se ubezpečíme, že nebudeš využívat vlastností, které by byly příliš pokročilé tvým znalostem," prohlásil opat. "A má to ještě další výhodu. Pokud se nám bude kdykoliv zdát implementace Chrámu ježatého jaka jako nedostatečná, naše kněžstvo ji může nahradit čímkoliv jiným a kdokoliv, kdo bude používat náš wrapper, se o tuto změnu nebude muset starat."
+
+Mnich se uklonil a šel o této dohodě povědět Java mistrovi.
+
+Java mistr povolal opata a navrhl mu, aby se projeli do hor, kde si budou moci zameditovat nad tím, jak nejlépe takový wrapper sestaví.
+
+"Dnes řídíte vy," pověděl mistr.
+
+Usadili se v opatovo autě, načež se opat znenadání zamračil.
+
+"Tlačítko pro ladění stanic na rádiu někdo zřejmě ukradl," prohlásil opat.
+
+"To je dobře," řekl Java mistr. "Hudba by byla nebezpečným rozptýlením na těch úzkých cestách."
+
+"Také ukradli knoflíky pro klimatizaci," prohlásil opat.
+
+"Výborně!" řekl Java mistr. "Chladný vzduch podporuje vznik revma a nevolnosti v břiše."
+
+Opat otočil klíčkem ve spalování, načež auto odpovědělo pouze tichem. Opustil své sedadlo a šel zjistit, kde nastal problém.
+
+"K tomu všemu," dodal opat, "zdá se, že někdo svařil kapotu ke zbytku auta."
+
+"Tolik šťastných náhod najednou!" zvolal Java mistr. "Nyní je jisté, že nikdo nebude schopen poškodit motor. A pokud se vám bude někdy zdát barva pneumatik nedostatečná, troufám si tvrdit, že je lze kdykoliv vyměnit, aniž by hrozilo nebezpečí nepohodlí při cestování."
+

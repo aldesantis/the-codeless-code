@@ -1,0 +1,87 @@
+Date: 2016-06-06
+Number: 230
+Title: All Together Now
+Geekiness: 2
+Names: Zjing, Hungry Worm Clan, Red Pebble Clan, Hall of Irresistable Somnolence
+Topics: design, reuse, coupling, complexity, hidden costs, Agile
+Tagline: In which we farm some things out
+
+The [[Hungry Worm Clan]] was building a website
+for a craftsman who made custom farming tools.
+Young master [[Zjing]] was reviewing the code
+of their three developers.
+
+
+"I do not understand the purpose of the /LatestSellByDate/ property
+in your shopping cart's /PurchaseItem/," she said to the three.
+"Shovels and rakes do not expire."
+
+"That property was requested by the [[Red Pebble Clan]],"
+replied the first monk.  "They are building a system for
+managing a merchant's cherry farms, and they plan to use our
+order-placement service instead of building their own."
+
+
+"What?" asked Zjing in disbelief. "Who suggested /that/?"
+
+"You did," said the second monk.  "For did you not
+[[#227|tell two of our clans]] that the reuse of services
+was superior to the copying and pasting of code?"
+
+
+"Yes, but the business needs of /your/ two clans are
+completely different!" cried Zjing.
+"Eventually, the cherry purchasers may need options for crate size,
+refrigerated shipping, and insurance against pests.
+All of these could have their own rules and calculations!"
+
+"You are worrying about a future that may never come to
+pass," countered the third monk.  "And even if it does, so
+what?  The more features we implement, the greater the
+chance that we can support our other clients."
+
+
+<i>"Other</i> clients?" asked Zjing.
+
+"Two other Tiny Clans have expressed interest in our services,"
+said the first monk.
+
+"For unicycle parts and novelty wedding costumes,"
+said the second monk.
+
+"And I have begun designing a plug-in mechanism to handle
+unforeseen cases," said the third monk.  "In the end the
+Temple will save much development time overall."
+
+
+- - -
+
+Later that week Zjing called a meeting of the Tiny Clans
+under her tutelage.  Dozens of monks and nuns crowded
+into the dim, stuffy, windowless Hall of Irresistable
+Somnolence where long presentations were given.{{*}}
+
+Most of the benches had already been taken up by unfamiliar
+villagers -- employees, explained Zjing, of the novelty
+wedding costume shop, who were there to ensure that their
+requirements would be met.  The meeting then began with an
+extraordinarily dull presentation about tailoring, during
+which many of the monks and nuns could be seen nodding off.
+
+After the final slide the villagers were excused.  When the
+last of them had gone, Zjing brought forth a lantern from
+behind the podium, and without a word she set the huge rice
+paper projection screen on fire.  Flames climbed swiftly and
+spread across the dry ceiling timbers; heat seared the air;
+smoke billowed forth; monks coughed or cried out; the fire
+alarm clanged; then somewhere overhead the sprinkers came to
+life and began gushing water ineffectively on the scene of
+pandemonium below.  It was only then -- as the occupants
+rose to flee in four different directions to the four exit
+doors -- that they discovered that their robes had been
+swiftly and skillfully sewn to the robes of their neighbors.
+
+
+
+
+{{*}} Usually these were mandated by the HR department, and included yearly refresher courses like: "First Aid For Accidental Injuries", "First Aid For Intentional Injuries", "How to Choose a Comprehensive Life Insurance Plan", and "The Importance of Good Workplace Morale."

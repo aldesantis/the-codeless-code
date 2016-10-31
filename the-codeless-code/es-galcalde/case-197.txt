@@ -7,7 +7,7 @@ Illus.0.title: Hola chicos. ¿Qué tal?
 
 Las tareas de implementación más sensibles a menudo eran confiadas sólo a los maestros, y una de ellas justo había sido asignada a la joven maestra [[Zjing]].
 
-"Es un endpoint crítico de un webservice, el cual debe estar listo mañana de mañana," explicó el maestro [[Banzen]]. "Te envié mis notas sobre como debería comportarse."
+"Es un endpoint crítico de un webservice, el cual debe estar listo mañana de mañana," explicó el maestro [[Banzen]]. "Te envié mis notas sobre cómo debería comportarse."
 
 Zjing trabajó en su choza pequeña toda la noche. Pero mientras se acercaba el amanecer se dio cuenta de algo equivocado: si el backend tiraba una excepción sin verificar, Banzen quería que la atrapara y devolviera un estado de ERROR_DE_SERVICIO.
 

@@ -1,0 +1,91 @@
+Number: 230
+Title: Tous ensemble maintenant
+Tagline: Lorsque l'on sous-traite son travail
+Translator: Luke
+Lang: fr
+
+Le [[Clan du Ver Affamé]] été en train de créer un site web pour
+un artisan fabriquant des outils agricoles sur mesure.
+Le jeune maître [[Zjing]] relisait le code de ses
+trois développeurs.
+
+
+"Je ne comprends pas le rôle de la propriété /DateLimiteDeVente/ dans
+/AcheterObjet/ sur votre panier." dit-elle aux trois.
+"Les pelles et les râteaux n'expirent pas."
+
+"Cette propriété a été demandée par le [[Clan du Galet Rouge]],"
+Répondit le premier moine. "Ils développent un système pour
+gérer les fermes de cerises d'un marchant et ils souhaitent
+utiliser notre service de commande plutôt que de réaliser le leur."
+
+
+"Quoi ?" demanda Zjing, incrédule. "Qui a suggéré /ça/ ?"
+
+"Vous," dit le second moine. "Car n'avez-vous pas
+[[#227|dit à nos deux clans]] que réutiliser des services
+était supérieur à la copie et au collage de code ?
+
+
+"Si, mais les besoins métier de /vos/ deux clans sont complètement
+différents !" se lamenta Zjing.
+"Un jour, les acheteurs de cerises auront éventuellement besoin
+d'options pour la taille de la boîte, la livraison réfrigérée et
+l'assurance contre les pesticides.
+Chacune de ces options pourraient avoir leurs propres règles et
+méthodes de calcul !"
+
+"Vous vous inquiétez d'un futur qui n'arrivera peut-être
+jamais" contra le troisième moine. "Et même s'il se produit,
+alors quoi ? Plus nous mettons en œuvre de fonctionnalités,
+meilleures seront nos chances de répondre au besoin de nos
+autres clients."
+
+"<i>Autres</i> clients ?" demanda Zjing.
+
+"Deux autres petits clans ont exprimé leur intérêt pour nos services,"
+Dit le premier moine.
+
+"Pour des pièces détachées de monocycles et des
+costumes de mariage fantaisistes."
+
+"Et j'ai commencé à concevoir un mécanisme de modules
+pour gérer les cas imprévus," dit le troisième moine.
+"Dans la finalité, le Temple gagnera beaucoup de temps
+de développement."
+
+
+- - -
+
+Plus tard cette semaine, Zjing convoqua les Petits Clans
+pour une réunion sous sa supervision. Des douzaines de moines
+et de nones s'entassèrent dans la pénombre du
+Hall de l'Irrésistible Somnolence où les longues
+présentations étaient données.{{*}}
+
+La plupart des bancs étaient déjà pris par des villageois
+inconnus -- des employés, expliqua Zjing, du magasin de
+costumes fantaisistes qui étaient là pour s'assurer que leurs
+demandes seraient satisfaites. La réunion commença par une
+présentation incroyablement ennuyeuse à propos de la couture
+durant laquelle on pouvait voir de nombreux moines et nones
+s'assoupir.
+
+Après la dernière diapositive, les villageois furent congédiés.
+Lorsque le dernier fût parti, Zjing sorti une lanterne de derrière
+le comptoir et sans un mot mit le feu à l'écran de projection
+en papier de riz. Les flammes grimpèrent rapidement et se propagèrent
+jusqu'au plafond en bois sec; la chaleur satura l'air; la fumée
+tourbillonna; les moines toussaient ou criaient; l'alarme
+incendie se déclencha; puis quelque part au dessus des têtes
+les gicleurs s'animèrent et commencèrent à arroser inefficacement
+la confusion qui régnait en dessous. C'est à cet instant
+seulement -- alors que les participants se levèrent pour courir
+dans les quatre différentes directions vers les quatre portes
+de sortie -- qu'ils découvrirent que leurs bures avaient été
+rapidement et talentueusement cousues aux bures de leurs voisins.
+
+
+
+
+{{*}} Habituellement ces présentations étaient données par le département RH, incluant les remises à niveau annuelles comme: "Premiers secours pour blessures en cas d'accident", "Premier secours pour blessures délibérées", "Comment choisir une assurance vie complète" et "L'importance d'un bon moral au travail"

@@ -6,7 +6,7 @@ Illus.0.title: Es un buen sitio para sentarse y relajarse, si no te importan los
 
 La Maestra Java [[Suku]] entró al cuarto del abad superior del [[Spider Clan|Clan de la araña]]; un monje a su cargo entró también. Ambos se inclinaron.
 
-Suku le dijo al abad: "La semana pasada se me ordenó reimplementar completamente el módulo de visualización de datos, cuyos largos tentáculos se escurrieron hacia cada grieta de nuestro sistema. Pedí siete desarrolladores con varias especialidades para que la reparación pudiera ser lograda en una sola iteración. Sin embargo solo me han asignado este monje solo."
+Suku le dijo al abad: "La semana pasada se me ordenó reimplementar completamente el módulo de visualización de datos, cuyos largos tentáculos se escurrieron hacia cada grieta de nuestro sistema. Pedí siete desarrolladores con varias especialidades para que la reparación pudiera ser lograda en una sola iteración. Sin embargo sólo me han asignado este monje solo."
 
 El abad respondió: "No podemos escatimar siete desarrolladores a la vez. En su lugar, a este monje se le permitirá hacer el trabajo en siete iteraciones. A cambio de su indulgencia debe mantener estable el sistema, puesto que hay varias características nuevas que deseamos lanzar a nuestros usuarios durante ese tiempo."
 
