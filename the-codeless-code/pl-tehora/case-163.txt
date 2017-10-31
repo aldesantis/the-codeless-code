@@ -1,0 +1,27 @@
+Number: 163
+Title: Urlop
+Lang: pl
+Translator: tehora
+Illus.0.title: Naprawdę mam nadzieję, że to literówka.
+
+Pierwszego chłodnego jesiennego dnia posłaniec zawitał do świątyni, przynosząc pilne wieści.
+Ku jej zaskoczeniu podwórza, korytarze i wspólne pokoje były puste. Ani żywej duszy.
+
+Mijając otwarte wejście, usłyszała dobiegające z pokoju stukanie klawiszy. Wewnątrz napotkała starego skrybę
+mocno wpatrującego się w monitor.
+
+― Gdzie... ― zaczęła.
+
+― Urlop. ― odpowiedział skryba, nawet się nie obróciwszy, nieobecnie machając ręką w kierunku reszty świątyni.
+
+― A pan nie? ―  zapytała posłaniec.
+
+― Ja również. ― odparł skryba.
+
+― Ale na ekranie... ― stwierdziła posłaniec.
+
+― Tak. ― odrzekł skryba. ― Najbrzydszy, zawierający najwięcej błędów i  najtrudniejszy w utrzymaniu kod PHP, jaki znajdziesz w Siedemnastu Prowincjach.
+
+― Czemu więc pan nad nim pracuje? ― posłaniec spytała.
+
+― Ponieważ ― skryba uśmiechnął się. ― to nie jest kod Świątyni. To /mój/ kod.
