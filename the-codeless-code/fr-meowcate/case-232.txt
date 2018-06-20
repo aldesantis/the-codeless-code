@@ -1,0 +1,63 @@
+Title: Éducation
+Tagline: Où l'on apprend quelque chose de nouveau.
+Lang: fr
+Translator: Meowcate
+
+Pendant des années le jeune moine [[Djishin]] a suivi
+l'apprentissage du vieux maître [[Banzen]]. Bien que ce soit
+un privilège cela réjouissait peu Djishin, récemment le maître
+se montrait de plus en plus irrité par le jeune moine. Pourtant
+le moine ne pouvait en saisir la raison.
+
+Un matin Djishin dit à sa camarade apprentie [[Satou]] : j'ai
+pleinement appliqué les enseignements de Banzen et accompli mes
+devoirs en suivant son exemple, pourtant son dédain envers moi
+est palpable ! Et à chaque fois que je lui demande si j'ai fait
+quoi que ce soit pour provoquer son déplaisir, il me dit Non !
+Je suis à bout de nerfs avec le vieil homme !
+
+Satou répondit : Si tu ne parviens plus à grimper une cote,
+alors le chemin à suivre n'est pas face à toi.
+
+Djishin dit : Je ne peux pas plus quitter son service que je
+pourrais mordre mes propres jambes. Pourtant ma patience a
+atteinte ses dernières limites. Bientôt, je le crains, le
+maître me poussera trop loin, et je me rebellerai certainement.
+
+Satou répondit : Alors fuis ce chemin et ne regarde pas en
+arrière; car je ne peux voir ta rebellion se terminer bien
+pour qui que ce soit, sauf peut-être pour le fossoyeur.
+
+- - -
+
+Peu après, Banzen examinait le code de Satou et notait qu'elle
+utilisait désormais la nouvelle classe Java /Optional/
+pratiquement partout. Banzen gronda la nonne pour son habitude
+de s'amuser avec les nouveautés plutôt que de consacrer ses
+efforts pour construire une implémentation fiable avec des
+modèles familiers.
+
+Entendant cet échange, Djishin sentit ses derniers traces
+de patience disparaître.
+Le moine pesta : /Optional/ n'est pas un effet de mode; c'est
+l'implémentation Java de la monade /Maybe/, et le premier
+imbécile venu qui se préoccupe vraiment d'implémentations
+fiables ferait bien de suivre l'exemple de la nonne !
+
+S'ensuivit un silence gênant. Personne ne bougea. Djishin
+pouvait etendre son cœurs battre la chamade.
+
+Finalement le maître leva un épais sourcil blanc, disant :
+Et -- mon impertinent, /ancien/ apprenti -- qu'est-ce qu'une
+Monade ?
+
+D'une voix tremblante, Djishin expliqua la nature des monades
+et [[#143|comment il avait découvert leur existence]].
+Quand il eut fini, Banzen se dirigea vers le moine, leva son
+bâton, et enlaça le garçon.
+
+Enfin ! s'exclama le maître.
+Je me suis demandé si j'avais entrainé un moine ou un perroquet.
+Maintenant je peux dire aux autres maîtres : ce jour-ci j'ai
+appris /deux/ choses, parce qu'enfin Djishin m'a dit quelque
+chose que je ne savais pas.

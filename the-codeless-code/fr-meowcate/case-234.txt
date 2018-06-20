@@ -1,0 +1,54 @@
+Title: Ozymandias
+Tagline: Où nous échouons à la contourner.
+Illus.0.src: papers.jpg
+Lang: fr
+Translator: Meowcate
+
+La nonne [[Hwídah]] a composé ce sonnet inhabituellement
+sombre pour que vous méditiez dessus :
+
+    J'ai fouillé le code ancien qui suit :      //
+    un tas d'imprimés haute comme un homme,     //
+    qui en boites rouillées fut recueilli.      //
+    Dix milles pages en tout minimum.           //
+    Laissées ici après avoir conduit            //
+    un vaisseau dans le noir vers Séléné.       //
+    Mais le langage depuis est vieillot.        //
+    Le matériel, même, abandonné.               //
+    D'une procédure, au sein de son scope       //
+    d'un bout de code surgissent ces mots :     //
+                                                //
+    # TEMPORARY, I HOPE HOPE HOPE               //
+                                                //
+    Mais le code persiste, survivant,           //
+    permanent comme rien n'est sur ce roc       //
+    pendant qu'en haut passe l'astre vacant.    //
+
+
+<div style="padding-top:3in" />
+
+== Note du traducteur
+
+J'ai cherché à traduire ce sonnet en gardant le sens original
+des vers tout en cherchant à suivre les règles concernant les
+syllabes et le découpage des rimes d'après /Ozymandias/.
+J'ai choisi de garder le commentaire tel qu'il est écrit dans
+le texte (et code) original.
+Il s'agit donc d'un choix plus artistique que de traduction
+stricte. Je vous invite à consulter le sonnet originel pour
+vous faire une autre idée.
+
+== Note de l'éditeur
+
+Inspiré par <a href="http://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/">cette histoire</a> sur le code de l'ordinateur de guidage Apollo d'Apollo 11,
+et
+<a href="https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc#L179">le code qui suit</a>,
+et bien entendu de <a href="https://en.wikipedia.org/wiki/Ozymandias">Ozymandias</a> de Percy Bysshe Shelley.
+
+J'ai tenté de conserver le schéma de rime inhabituel (et
+non-standard) du sonnet de Shelley, mais je m'en suis éloigné
+dans l'avant-avant-dernière ligne pour des raisons poétiques.
+Pour un langage qui excelle à subtiliser des mots d'autres
+cultures, l'anglais a un réel manque de rimes.
+
+{{*}} Remerciements à Dan Sutton pour avoir fait remarquer une typo très embarrassante.
