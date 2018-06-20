@@ -18,10 +18,10 @@ sombre pour que vous méditiez dessus :
     D'une procédure, au sein de son scope       //
     d'un bout de code surgissent ces mots :     //
                                                 //
-    # TEMPORARY, I HOPE HOPE HOPE               //
+    <tt># TEMPORARY, I HOPE HOPE HOPE</tt>      //
                                                 //
-    Mais le code persiste, survivant,           //
-    permanent comme rien n'est sur ce roc       //
+    Mais le code persiste, survivant --         //
+    permanent comme rien n'est sur ce roc --    //
     pendant qu'en haut passe l'astre vacant.    //
 
 
