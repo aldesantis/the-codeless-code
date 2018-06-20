@@ -5,10 +5,10 @@ Lang: fr
 Translator: Meowcate
 
 La nonne [[Hwídah]] a composé ce sonnet inhabituellement
-sombre pour que vous méditiez dessus :
+sombre pour vous faire méditer :
 
     J'ai fouillé le code ancien qui suit :      //
-    un tas d'imprimés haute comme un homme,     //
+    un tas d'imprimés haut comme un homme,      //
     qui en boites rouillées fut recueilli.      //
     Dix milles pages en tout minimum.           //
     Laissées ici après avoir conduit            //

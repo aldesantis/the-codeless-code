@@ -1,50 +1,50 @@
 Title: Paresse
-Tagline: Où quelqu'un ne semble pas vouloir faire son travail
+Tagline: Où quelqu'un semble ne pas vouloir faire son travail
 Lang: fr
 Translator: Meowcate
 
 Le moine supérieur du [[Swooping Falcon Clan|Clan du Faucon en Piqué]]
 demanda à maître [[Banzen]] son assistance face à une cliente
-difficile. La cliente était une fabriquante de cerfs-volants
-en soie et bambou, et l'application du clan lui permettait de
+difficile. La cliente était une fabriquante de cerf-volant
+en soie et en bambou, et l'application du clan lui permettait de
 gérer son large catalogue en ligne.
 
 "Je ne peux simplement pas la satisfaire," se lamentait le
 moine supérieur.
 
 "Dis moi ce qui la rend /insatisfaite/," dit Banzen. "Alors
-peut-être pourrais-tu en faire l'opposé."
+peut-être pourrais-tu faire l'opposé."
 
 "La paresse," le moine supérieur déclara, "elle dit que notre
-interface lui demande trop de travail, et pourtant le travail
-est de /sa/ faute, pas la notre."
+interface lui impose trop de travail, et pourtant cette charge
+de travail est de /sa/ faute, pas de la nôtre."
 
 "Explique," dit Banzen.
 
-"D'abord," le moine supérieur dit, "pour chaque cerf-volant,
+"D'abord," dit le moine supérieur, "pour chaque cerf-volant,
 elle souhaite n'autoriser que certaines soies. Donc notre
 interface /doit/ lui demander de spécifier les soies selon
-les cerfs-volants au cas par cas -- et pourtant elle dit
-toujours que cette tâche est trop fastidieuse. Ce n'est pas
+les cerfs-volants au cas par cas -- et pourtant elle continue
+ de dire que cette tâche est trop fastidieuse. Ce n'est pas
 notre faute si elle est si exigeante !"
 
 "Bien entendu," dit Banzen.
 
 "Pour ne rien arranger," dit le moine supérieur, "elle a
-des /centaines/ de rouleaux de soies dans son magasin, d'où
-des /douzaines/ peuvent être attribuées à n'importe quel
+des /centaines/ de rouleaux de soies dans son magasin, depuis
+lesquels des /douzaines/ peuvent être attribuées à n'importe quel
 cerf-volant ! Nous avons essayé tous les widgets de la
 librairie -- listes à sélection multiple, zones de listes
 double, listes déroulantes à recherche intégrée -- et
-malgré tout elle dit toujours que sa tâche est trop onéreuse.
+malgré tout elle continue de dire que sa tâche est trop onéreuse.
 Ce n'est pas notre faute si elle propose autant de choix !"
 
 "Absolument," dit Banzen.
 
 "Et enfin," le moine supérieur conclut, "de nouvelles soies
-sont toujours ajoutées et les anciennes sont toujours retirées.
-Donc elle doit actualiser la liste des soies de chaque
-cerf-volant durant l'année -- pourtant elle dit toujours
+sont sans arrêt ajoutées et les anciennes sont sans arrêt retirées.
+Elle doit donc actualiser la liste des soies de chaque
+cerf-volant durant l'année -- pourtant elle continue de dire
 que sa tâche est trop épuisante. Ce n'est pas notre faute
 si la mode est changeante !"
 
@@ -55,13 +55,13 @@ Alors Banzen alla voir la fabriquante de cerf-volant.
 - - -
 
 Les complaintes de la fabriquante de cerf-volant étaient
-exactement ce que le moine supérieur décrivait. Après les
+exactement ce que le moine supérieur avait décrit. Après les
 avoir écouté, Banzen se balada dans son atelier, et découvrit
-en effet des centaines de rouleaux de soie, chacun d'une
-teinte et motif différents
+en effet des centaines de rouleaux de soie, chacun de
+teintes et motifs différents.
 
 Après avoir médité un moment, Banzen pointa du doigt le
-squelette de bambou d'un de ses cerfs-volants sur son atelier.
+squelette de bambou d'un de ses cerfs-volants sur l'atelier.
 
 "Quelles soies proposeriez-vous pour celui-ci ?" demanda
 Banzen.
@@ -74,13 +74,13 @@ base de nuage bleu."
 autre.
 
 "C'est l'un de mes séries 'corbeau'," dit la fabriquante.
-"Des designs à base de plumes bleues ou plumes noires,
+"Des designs à base de plumes bleues ou de plumes noires,
 mais pas de soies légères."
 
 "Et pour ça ?" demanda Banzen, en montrant un autre.
 
 "C'est l'un de mes séries 'dragon'," dit la fabriquante.
-"Noir unis, des designs de feu rouge ou terre blanche,
+"Noir unis, designs de feu rouge ou de terre blanche,
 mais pas de soies lourdes."
 
 Quand il fut certain d'avoir compris l'algorithme de la
@@ -102,7 +102,7 @@ obtienne satisfaction."
 
 D'un mouvement rapide Banzen lança le contenu de l'enveloppe
 dans les airs. Des centaines de minuscules carrés de papier
-coloré volèrent en spiral lentement dans la pièce; chacun
+coloré volèrent en spirale lentement dans la pièce; chacun
 comme un petit cerf-volant tournoyant au gré du vent.
 
 "Adorable," dit le moine supérieur, "mais qu'est-ce donc ?"

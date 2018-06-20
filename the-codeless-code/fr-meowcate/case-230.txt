@@ -5,7 +5,7 @@ Translator: Meowcate
 
 Le [[Hungry Worm Clan|Clan du Ver Affamé]] construisait un site web
 pour un artisan qui fabriquait des outils agricoles spécialisés.
-La jeune maître [[Zjing]] était en pleine revue de code de ses trois
+La jeune maître [[Zjing]] était en pleine revue du code de ses trois
 développeurs.
 
 "Je ne comprends pas l'intérêt de la propriété /DateLimiteDeVente/ dans
@@ -31,8 +31,8 @@ pour la taille des boîtes, les livraisons réfrigérées, et l'assurance contre
 les insectes nuisibles.
 Tout cela pourrait nécessiter ses propres règles et calculs !"
 
-"Vous vous inquiétez pour un futur qui pourrait ne jamais arriver," opposa le
-troisième moine. "Et même si ça arrive, quel est le problème ? Plus nous
+"Vous vous inquiétez pour un futur qui pourrait ne jamais voir le jour," opposa le
+troisième moine. "Et même si cela arrive, quel est le problème ? Plus nous
 implémentons de fonctionnalités, plus grandes sont les chances que nous
 puissons répondre aux besoins de nos autres clients."
 
@@ -52,9 +52,9 @@ beaucoup de temps de développement."
 - - -
 
 Plus tard dans la semaine Zjing organisa un meeting des Petits Clans
-sous sa supervision. Des douzaines de moines et de nonnes dans la
+sous sa supervision. Des douzaines de moines et de nonnes s'entassèrent dans la
 Salle de l'Irrésistible Somnolence, sombre et renfermée par son absence
-de fenêtres, et où les longues présentations se déroulaient.{{*}}
+de fenêtres, où se déroulaient les longues présentations.{{*}}
 
 La plupart des bancs étaient déjà occupés par des villageois inconnus
 -- des employés, expliqua Zjing, du magain de costumes de mariage
@@ -63,13 +63,13 @@ supportées. Le meeting commença alors avec une présentation extraordinairemen
 ennuyeuse à propos de la couture, pendant laquelle beaucoup de moines
 et nonnes semblaient piquer du nez.
 
-Après le dernier slide les villageois furent congédiés. Quand le
+Après le dernier slide, les villageois furent congédiés. Quand le
 dernier d'entre eux fut parti, Zjing sortit une lanterne de derrière
-le podium, et sans un mot elle mit le feu à l'immense écran de projection
+le podium, et sans un mot mit le feu à l'immense écran de projection
 en papier de riz. Les flammes grimpèrent rapidement et se propagèrent
-sur le plafond en bois sec; la chaleur emplissait l'atmosphère; la fumée
+sur le plafond de bois sec; la chaleur emplissait l'atmosphère; la fumée
 tournoyait; les moines toussaient ou criaient; l'alarme incendie se
-déclenchait; quelque part au-dessus, les extincteurs automatiques
+déclenchait; au-dessus d'eux, les extincteurs automatiques
 s'allumèrent et commencèrent à projeter l'eau inefficacement sur le
 spectacle apocalyptique plus bas. C'est seulement à ce moment-là -- alors
 que les occupants se levèrent pour s'enfuir dans les quatre directions
