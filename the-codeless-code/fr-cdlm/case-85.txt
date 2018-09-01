@@ -10,9 +10,9 @@ Deux moines approchèrent maître [[Suku]] pour régler un différend.
 
 Le premier moine dit « J'ai proposé une conception véritablement élégante, mais ce moine dit qu'elle est trop complexe et qu'elle n'est pas maintenable. »
 
-Le second moine dit « J'ai proposé une conception véritablement simple, mais ce moine dit qu'elle est trop limitéee et ne sera pas pratique. »
+Le second moine dit « J'ai proposé une conception véritablement simple, mais ce moine dit qu'elle est trop limitée et ne sera pas pratique. »
 
-Suku se tourna vers son tableau blanc et dessina un gran /phi/, comme ceci :
+Suku se tourna vers son tableau blanc et dessina un grand /phi/, comme ceci :
 
 
 
