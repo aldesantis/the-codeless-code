@@ -1,0 +1,59 @@
+Date: 2016-06-19
+Number: 232
+Title: Education
+Geekiness: 2
+Names: Djishin, Satou, Banzen
+Topics: mentorat, monads, confiance, savoir, java
+Tagline: Dans lequel on apprend quelque chose de nouveau.
+
+Pendant des années, le jeune moine [[Djishin]] avait été apprenti chez le vieux 
+maître [[Banzen]]. Bien que cela ait été un privilège, Djishin n’a eu que peu de joie, 
+car, récemment, le maître était visiblement irrité 
+par le jeune moine. Pourtant, le moine ne pouvait pas en comprendre la raison.
+
+Un matin, Djishin a dit à son compagnon d’apprentissage [[Satou]]: j’ai pris 
+à cœur les enseignements de Banzen et je remplis mes devoirs 
+selon son exemple, mais son dédain pour moi est palpable! Et chaque fois 
+que je demande si j'ai fait quelque chose pour provoquer son mécontentement, il me dit 
+non! Je suis à la fin avec le vieil homme!
+
+Satou répondit: Si vous ne pouvez plus marcher en montée, la voie à suivre n'est 
+pas devant vous.
+
+Djishin a dit: Je ne peux pas quitter son service, pas plus que je ne pourrais 
+me mordre les jambes. Pourtant, ma patience a faibli au plus fin. 
+Bientôt, je crains que le maître ne me pousse trop loin et je vais sûrement 
+me rebeller.
+
+Satou a répondu: Alors cours le chemin et ne te retourne pas; car je 
+ne vois pas ta rébellion se terminer bien pour qui que ce soit, sauf peut-être 
+le croque-mort.
+
+- - -
+
+Peu de temps après, Banzen passait en revue le code de Satou et notait 
+qu’elle utilisait désormais la nouvelle classe /Optional/ de Java pratiquement 
+partout. Banzen gronda la religieuse pour son habitude de jouer avec les 
+nouveautés au lieu de concentrer ses efforts sur la construction d'une 
+implémentation fiable avec des classes habituels.
+
+En entendant cet échange, Djishin a senti les dernières traces de patience 
+s'échapper de son corps. Le moine cracha: /Optional/ n'est pas une mode passagère; c’est 
+l’implémentation de Java de la monade /Maybe/, et n'importe quel imbécile qui 
+se soucie vraiment des implémentations fiables ferait bien de suivre l’exemple de la religieuse !
+
+Il s'ensuivit un terrible silence. Personne ne bougea. Djishin pouvait 
+entendre son cœur battre dans ses oreilles.
+
+Enfin, le maître arqua un sourcil blanc et touffu en disant: Et 
+qu'est - mon impertinent, /ancien/ apprenti - est une monade?
+
+Avec une voix tremblante, Djishin expliqua la nature des monades et 
+[[#143|comment il les avait apprises]]. Quand il eut fini, Banzen s'approcha 
+du moine, leva son bâton et jeta les deux bras autour du 
+garçon.
+
+Enfin! s'écria le maître. Je me demandais si j'avais 
+formé un moine ou un perroquet. Maintenant je peux dire aux autres 
+maîtres: ce jour-là, j'ai appris /deux/ choses, car enfin Djishin m'a 
+dit quelque chose que je ne connaissais pas.
