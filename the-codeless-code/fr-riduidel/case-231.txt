@@ -1,0 +1,97 @@
+Date: 2016-06-12
+Number: 231
+Title: Fainéantise
+Geekiness: 0
+Names: Banzen, Swooping Falcon Clan
+Topics: interface utilisateur, utilisabilité, fainéantise, exigences, abstraction
+Tagline: Dans lequel quelqu'un n'a pas envie de faire son travail
+
+Le moine en chef du [[Clan du Faucon en Piqué]] a demandé au maître 
+[[Banzen]] de l’aider avec une cliente difficile. La cliente 
+fabriquait des cerfs-volants en soie et en bambou et l’application du clan 
+lui a permis de réaliser son grand catalogue en ligne.
+
+"Je ne peux tout simplement pas la rendre heureuse", s'est plaint le moine en chef.
+
+«Dites-moi ce qui la rend /malheureuse/», a déclaré Banzen. "Alors peut-être 
+que vous pourrez faire le contraire."
+
+«La fainéantise» déclara le moine en chef; "Car elle dit que notre 
+interface lui fait trop de travail, pourtant le travail est de /sa/ faute, 
+pas de la nôtre."
+
+"Expliquez", a déclaré Banzen.
+
+«D'abord, dit le moine en chef, pour chaque cerf-volant, elle ne veut autoriser 
+que certaines sortes de soies. Donc, notre interface /doit/ lui faire spécifier les types de soies 
+par cerf-volant, mais elle dit toujours que cette tâche est trop 
+fastidieuse. Ce n'est pas notre faute si elle est si particulière!»
+
+«En effet», a déclaré Banzen.
+
+«Pour aggraver les choses», a déclaré le moine en chef, «elle a des /centaines/ 
+de pièces de soie dans son magasin, dont des /dizaines/ peuvent être utilisées pour 
+un cerf-volant donné! Nous avons essayé tous les widgets de notre bibliothèque 
+(listes de sélection multiple, listes de sélection doubles, zones de texte 
+avec complétion), mais elle dit toujours que cette tâche est trop lourde. Ce n'est pas notre faute 
+si elle demande autant de choix!»
+
+«Absolument», a déclaré Banzen.
+
+«Enfin, a conclu le moine en chef, de nouvelles soies sont toujours introduites 
+et les anciennes sont toujours retirées. Elle doit donc réviser 
+la liste des soies pour chaque cerf-volant tout au long de l’année. Pourtant, 
+elle affirme toujours que cette tâche est trop lourde. Ce n'est pas notre faute si 
+la mode est inconstante!»
+
+"D'accord", a déclaré Banzen.
+
+Alors Banzen est allé voir le fabricant de cerf-volant.
+
+- - -
+
+Les plaintes du fabricant de cerf-volant étaient exactement comme le décrivait 
+le moine en chef. Après les avoir entendus, Banzen a erré dans son atelier, 
+et a en effet trouvé plusieurs centaines de éclats de soie, chacun avec 
+un motif et une teinte différents.
+
+Après avoir réfléchi un moment, Banzen montra le squelette 
+de bambou d'un cerf-volant sur son établi.
+
+«Quelles soies allez-vous choisir pour celui-là?» Demanda Banzen.
+
+«Le nuage bleu est conçu uniquement», a déclaré le fabricant de cerf-volant. "Mais j'ai des dizaines 
+de types soies avec des conceptions de nuages ​​bleus."
+
+"Et celui-là?" Demanda Banzen en montrant un autre.
+
+«C’est une de mes séries de "corbeaux"», a déclaré le fabricant de cerf-volant. “Des dessins 
+de plumes bleues ou des dessins de plumes noires, mais pas de soies légères.”
+
+"Et celui-là?" Demanda Banzen en montrant un autre.
+
+«C’est une de mes séries de "dragons"», a déclaré le fabricant de cerf-volant. «Noirs 
+unis, dessins de feu rouge ou conceptions de terre blanche, mais pas de soies 
+lourdes.
+
+Quand il fut certain de comprendre l’algorithme du fabricant de cerf-volant, Banzen retourna chez le moine en chef.
+- - -
+
+"C'est comme vous l'avez décrit", a déclaré Banzen au moine en chef. "La paresse 
+est ce qui rend le fabricant de cerf-volant malheureux."
+
+"Mais comment peut-elle être corrigée?", Demanda le moine.
+
+"/Wú/," dit Banzen, produisant une enveloppe épaisse de ses robes. 
+"Voici la méthode de correction, que je vais vous livrer chaque 
+semaine jusqu'à ce que le fabricant de cerf-volant ait atteint le bonheur."
+
+Dans un mouvement rapide, Banzen lança en l'air le contenu de 
+l'enveloppe. Des centaines de carrés minuscules de papier coloré 
+s'enroulaient doucement autour de la pièce; chacun comme un petit cerf-volant 
+à la dérive sur le vent.
+
+"Adorable", a déclaré le moine en chef, "mais qu'est-ce que c'est?"
+
+«On appelle ça des confettis, dit Banzen. «Je l’ai tirée de votre salaire de la semaine. 
+En utilisant de petites factures, bien sûr. "
