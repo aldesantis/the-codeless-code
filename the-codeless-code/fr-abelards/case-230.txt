@@ -1,0 +1,96 @@
+Number: 230
+Lang: fr
+Translator: abelards
+Title: Pour vous faire marcher
+Tagline: Dans laquelle on vous envoie balader
+
+Le [[Hungry Worm Clan|Clan du Ver Affamé]] construisait
+un site web pour un artisan qui faisait des outils de ferme
+personnalisés.
+La jeune maître [[Zjing]] pratiquait la revue de code de
+leurs trois développeurs.
+
+"Je ne comprends pas le but de la propriété /LatestSellByDate/
+dans votre /PurchaseItem/ du panier de courses," dit-elle aux trois.
+"Les pelles et les râteaux n'expirent pas."
+
+"C'est une propriété qui a été demandée par le
+[[Red Pebble Clan|Clan du Caillou Rouge]]," répondit le premier moine.
+"Ils conçoivent un système pour gérer les fermes de cerises d'un
+marchand, et ils prévoient d'utiliser notre service de placement
+de commandes au lieu de faire le leur."
+
+"Comment ?" demanda Zjing incrédule. "Qui a suggéré /ça/ ?"
+
+"C'est vous," dit le second moine.
+"N'avez-vous pas [[#227|dit à deux de nos clans]]
+qu'il valait mieux réutiliser des services
+plutôt que copier et coller du code ?"
+
+"Si, mais les besoins métiers de /vos/ deux clans sont
+complètement différents !" s'écria Zjing.
+"Au bout d'un moment, les acheteurs de cerises pourraient avoir
+des besoins d'options pour la taille des caisses, la livraison
+réfrigérée, les assurances contre les nuisibles.
+Tout cela pourrait bien avoir ses propres règles et calculs !"
+
+"Vous vous inquiétez d'un futur qui pourrait bien ne jamais
+se réaliser," contra le troisième moine. "Et même s'il arrive,
+et alors ? Plus on implémente de fonctionnalités, plus on a de
+chances de gérer les besoins de nos autres clients."
+
+"<i>Autres</i> clients ?" demanda Zjing.
+
+"Deux autres Micro Clans ont exprimé leur intérêt pour nos services,"
+dit le premier moine.
+
+"Pour des pièces de monocycle et des costumes de mariage fantaisie,"
+dit le second moine.
+
+"Et j'ai commencé la conception d'un mécanisme de plug-ins
+pour gérer les cas imprévus," dit le troisième moine.
+"Au global, le Temple finira par économiser beaucoup de temps
+de développement."
+
+- - -
+
+Plus tard dans la semaine, Zjing convoqua une réunion des
+Micro Clans dont elle avait la charge. Des douzaines de moines
+et de nonnes remplirent le Hall de l'Irrésistible Somnolence,
+la salle sans fenêtre, étouffante et faiblement éclairée
+dans laquelle on donnait les longues présentations.{{*}}
+
+La plupart des bancs avaient déjà été pris par des villageois
+que les moines ne connaissaient pas -- des employés de la
+boutique de costumes de mariage fantaisie, expliqua Zjing,
+wui étaient là pour s'assurer que leurs besoins seraient
+pris en compte.
+La réunion commença alors par une présentation extraordinairement
+fade sur le métier de tailleur, durant laquelle on a pu voir bien
+des moines et des nonnes dodeliner de la tête.
+
+Après le dernier écran, les villageois furent excusés.
+Quand le dernier d'entre eux fut parti, Zjing amena une
+lanterne de derrière le podium et, sans un mot, s'approcha
+de l'énorme papier de riz qui servait pour la projection,
+et y mit le feu.
+
+Les flammes montèrent rapidement et s'étendirent à travers les
+poutres sèches du plafond ; la chaleur embrasait l'air ;
+la fumée tourbillonnait ; les moines toussaient et criaient ;
+l'alarme incendie sonnait et résonnait ;
+puis de quelque part au-dessus des têtes, les sprinklers
+prirent vie et commencèrent à faire jaillir de l'eau,
+de manière peu efficace, sur la scène de chaos qui se déroulait
+en contrebas.
+C'est alors seulement -- quand les occupants se levèrent
+pour fuir dans quatre directions différentes vers les quatre
+portes de sorties -- qu'ils découvrirent que leurs robes avaient
+été cousues à celles de leurs voisins, avec adresse et célérité.
+
+{{*}} En général, ces réunions étaient imposées par le département RH,
+et comprenaient des cours de rafraîchissement annuels comme :
+"Premiers Secours pour Blessures Accidentelles",
+"Premiers Secours pour Blessures Intentionnelles",
+"Comment choisir un plan d'Assurance Vie complet",
+et "De l'importance de garder le moral dans une ambiance de travail ".
