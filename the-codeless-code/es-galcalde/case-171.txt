@@ -25,7 +25,7 @@ A su aprendiz dijo: "Observa."
 
 Mientras la pareja caminaba hacia el cubículo de Hwídah, Djishin susurró, "La velocidad de tu diagnosis fue sorprendente."
 
-"Una cuestión simple," dijo Hwídah, pasándole la impresión al monje. "La consulta mal formada comienza con un <tt>WHERE 1=1</tt>. Eso tiene el hedor del SQL generado dinámicamente -- porque aunque la condición inicial es trivial, su valor <tt>TRUE</tt> permite a un desarrollador agregar cualquier número de condiciones <em>reales</em> como cláusulas <tt>AND</tt> simples. He usado esta técnica cuando implementaba formularios de búsqueda con campos opcionales. Una vez que lo reconocía, simplemente buscaba en en nuestro código por las cláusulas <tt>AND</tt> individuales."
+"Una cuestión simple," dijo Hwídah, pasándole la impresión al monje. "La consulta mal formada comienza con un <tt>WHERE 1=1</tt>. Eso tiene el hedor del SQL generado dinámicamente -- porque aunque la condición inicial es trivial, su valor <tt>TRUE</tt> permite a un desarrollador agregar cualquier número de condiciones <em>reales</em> como cláusulas <tt>AND</tt> simples. He usado esta técnica cuando implementaba formularios de búsqueda con campos opcionales. Una vez que lo reconocía, simplemente buscaba en nuestro código por las cláusulas <tt>AND</tt> individuales."
 
 "Me malentiendes," dijo Djishin. "No estaba sorprendido porque fueras <em>capaz</em> de resolverlo inmediatamente; Estaba sorprendido de que lo hayas hecho a pesar de que te dieran una semana entera. Eso tiene el hedor de la ambición -- porque aunque ese problema inicial era trivial, tu honradez pronta ahora permite a mi maestro confiarte cualquier número de problemas <em>reales</em>."
 

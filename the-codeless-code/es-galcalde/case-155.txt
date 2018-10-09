@@ -6,7 +6,7 @@ Illus.0.title: De acuerdo a la caja, su ingrediente principal es Helper de Helpe
 
 La maestra [[Suku]] estaba revisando código en un templo distante cuando le pidió a un monje superior que cene con ella.
 
-"Espero que puedas ayudarme," dijo Suku mientras revolvía una olla colgando sobre el fuego. "En el código de tu clan hallé las clases SubmissionEntity, SubmissionDatabase, and SubmissionClient. Aunque <em>Entity</em>, <em>Database</em>, y <em>Client</em> no son la convención de nomenclatura de mi templo, tus monjes las usan consistentemente, y su propósito es claro. Sin embargo aquí y allá también hallé clases como SubmissionEntityHelper, SubmissionDatabaseHelper, y SubmissionClientHelper. ¿Qué son esos <em>Helpers</em>?"
+"Espero que puedas ayudarme," dijo Suku mientras revolvía una olla colgando sobre el fuego. "En el código de tu clan hallé las clases SubmissionEntity, SubmissionDatabase, y SubmissionClient. Aunque <em>Entity</em>, <em>Database</em>, y <em>Client</em> no son la convención de nomenclatura de mi templo, tus monjes las usan consistentemente, y su propósito es claro. Sin embargo aquí y allá también hallé clases como SubmissionEntityHelper, SubmissionDatabaseHelper, y SubmissionClientHelper. ¿Qué son esos <em>Helpers</em>?"
 
 "A veces decoradores, a veces adaptadores, a veces utilidades estáticas," dijo el monje. "A veces todos y nada."
 
