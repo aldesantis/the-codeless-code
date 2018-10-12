@@ -34,7 +34,7 @@ Tout cela pourrait nécessiter ses propres règles et calculs !"
 "Vous vous inquiétez pour un futur qui pourrait ne jamais voir le jour," opposa le
 troisième moine. "Et même si cela arrive, quel est le problème ? Plus nous
 implémentons de fonctionnalités, plus grandes sont les chances que nous
-puissons répondre aux besoins de nos autres clients."
+puissions répondre aux besoins de nos autres clients."
 
 <i>"Autres</i> clients ?" demanda Zjing.
 
@@ -51,19 +51,19 @@ beaucoup de temps de développement."
 
 - - -
 
-Plus tard dans la semaine Zjing organisa un meeting des Petits Clans
+Plus tard dans la semaine Zjing organisa une réunion des Petits Clans
 sous sa supervision. Des douzaines de moines et de nonnes s'entassèrent dans la
-Salle de l'Irrésistible Somnolence, sombre et renfermée par son absence
+Salle de l'Irrésistible Somnolence, sombre et renfermée de par son absence
 de fenêtres, où se déroulaient les longues présentations.{{*}}
 
 La plupart des bancs étaient déjà occupés par des villageois inconnus
--- des employés, expliqua Zjing, du magain de costumes de mariage
+-- des employés, expliqua Zjing, du magasin de costumes de mariage
 fantaisie, qui étaient venus pour s'assurer que leurs demandes seraient
-supportées. Le meeting commença alors avec une présentation extraordinairement
+supportées. La réunion commença alors avec une présentation extraordinairement
 ennuyeuse à propos de la couture, pendant laquelle beaucoup de moines
-et nonnes semblaient piquer du nez.
+et nonnes semblaient s'endormir.
 
-Après le dernier slide, les villageois furent congédiés. Quand le
+Après le dernier transparent, les villageois furent congédiés. Quand le
 dernier d'entre eux fut parti, Zjing sortit une lanterne de derrière
 le podium, et sans un mot mit le feu à l'immense écran de projection
 en papier de riz. Les flammes grimpèrent rapidement et se propagèrent
