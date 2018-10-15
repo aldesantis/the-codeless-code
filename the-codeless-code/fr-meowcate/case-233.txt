@@ -11,8 +11,8 @@ allèrent trouver maître [[Suku]] pour trancher la question.
 Le premier moine dit,
     "Je pense que nous devrions implémenter chaque processus séparément
     pour éviter qu'ils ne se contraignent mutuellement.
-Quand le travail est fait
-    nous pouvons identifier les parties communes,
+Quand le travail sera accompli
+    nous pourrons identifier les parties communes,
     et les combiner en des classes de base génériques ou en utilitaires.
 Si des processus similaires sont demandés à l'avenir,
     nous suivrons cette stratégie :
@@ -35,8 +35,8 @@ Alors que les eaux descendent dans la vallée,
 Le second moine dit,
     "Je crois que nous devrions implémenter chaque processus ensemble,
     utilisant leurs fonctionnalités pour définir une infrastructure générique.
-Quand des cas spéciaux ou des flux alternatifs se montrent,
-    nous pouvons les abstraire en des fonctionnalités configurables,
+Quand des cas spéciaux ou des flux alternatifs se montreront,
+    nous pourrons les abstraire en des fonctionnalités configurables,
     ou ajouter des points de flexibilité dans l'infrastructure de façon appropriée.
 Si des processus similaires sont demandés à l'avenir,
     nous suivrons cette stratégie :
