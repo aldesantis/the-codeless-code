@@ -1,0 +1,84 @@
+Title: Tous ensemble désormais
+Tagline: Où l'on sous-traite certaines choses
+Lang: fr
+Translator: Meowcate
+
+Le [[Hungry Worm Clan|Clan du Ver Affamé]] construisait un site web
+pour un artisan qui fabriquait des outils agricoles spécialisés.
+La jeune maître [[Zjing]] était en pleine revue du code de ses trois
+développeurs.
+
+"Je ne comprends pas l'intérêt de la propriété /DateLimiteDeVente/ dans
+/AcheterProduit/ de votre panier," dit-elle aux trois.
+"Les pelles et les râteaux n'expirent pas."
+
+"C'est une propriété qui nous a été demandée par le
+[[Red Pebble Clan|Clan du Caillou Rouge]]," répondit le premier moine.
+"Ils construisent un système pour gérer les fermes d'un marchand de cerises,
+et ils ont l'intention d'utiliser notre service de commande plutôt que de
+concevoir le leur."
+
+"Quoi ?" s'exclama Zjink, incrédule. "Qui a suggéré /cela/ ?"
+
+"C'est vous," dit le deuxième moine, "N'avez-vous pas [[#227|dit à deux autres
+de nos clans]] que la réutilisation des services était supérieure au fait de
+copier et coller du code ?"
+
+"Certes, mais les besoins métier de /vos/ deux clans sont totalement
+différents !" se lamenta Zjing.
+"Par la suite, les acheteurs de cerises pourraient avoir besoin d'options
+pour la taille des boîtes, les livraisons réfrigérées, et l'assurance contre
+les insectes nuisibles.
+Tout cela pourrait nécessiter ses propres règles et calculs !"
+
+"Vous vous inquiétez pour un futur qui pourrait ne jamais voir le jour," opposa le
+troisième moine. "Et même si cela arrive, quel est le problème ? Plus nous
+implémentons de fonctionnalités, plus grandes sont les chances que nous
+puissions répondre aux besoins de nos autres clients."
+
+<i>"Autres</i> clients ?" demanda Zjing.
+
+"Deux autres Petits Clans ont montré de l'intérêt pour nos services,"
+dit le premier moine.
+
+"Pour des pièces détachées de monocycle et des costumes de mariage
+fantaisie," dit le deuxième moine.
+
+"Et j'ai commencé le design d'un méchanisme de plug-in pour gérer des
+cas imprévus," dit le troisième moine. "Au final le Temple économisera
+beaucoup de temps de développement."
+
+
+- - -
+
+Plus tard dans la semaine Zjing organisa une réunion des Petits Clans
+sous sa supervision. Des douzaines de moines et de nonnes s'entassèrent dans la
+Salle de l'Irrésistible Somnolence, sombre et renfermée de par son absence
+de fenêtres, où se déroulaient les longues présentations.{{*}}
+
+La plupart des bancs étaient déjà occupés par des villageois inconnus
+-- des employés, expliqua Zjing, du magasin de costumes de mariage
+fantaisie, qui étaient venus pour s'assurer que leurs demandes seraient
+supportées. La réunion commença alors avec une présentation extraordinairement
+ennuyeuse à propos de la couture, pendant laquelle beaucoup de moines
+et nonnes semblaient s'endormir.
+
+Après le dernier transparent, les villageois furent congédiés. Quand le
+dernier d'entre eux fut parti, Zjing sortit une lanterne de derrière
+le podium, et sans un mot mit le feu à l'immense écran de projection
+en papier de riz. Les flammes grimpèrent rapidement et se propagèrent
+sur le plafond de bois sec; la chaleur emplissait l'atmosphère; la fumée
+tournoyait; les moines toussaient ou criaient; l'alarme incendie se
+déclenchait; au-dessus d'eux, les extincteurs automatiques
+s'allumèrent et commencèrent à projeter l'eau inefficacement sur le
+spectacle apocalyptique plus bas. C'est seulement à ce moment-là -- alors
+que les occupants se levèrent pour s'enfuir dans les quatre directions
+menant aux quatre issues de secours -- qu'ils découvrirent que leurs robes
+avaient été rapidement et efficacement cousues à celles de leurs voisins.
+
+
+
+
+{{*}} Généralement elles étaient demandées par le département des Relations Humaines, et incluaient des remises à niveau
+annuelles comme "Premiers secours en cas de blessures accidentelles", "Premiers secours en cas de blessures volontaires",
+"Comment choisir une assurance-vie complète", et "L'importance d'un bon moral au travail."
