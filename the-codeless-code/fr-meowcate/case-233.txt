@@ -5,20 +5,20 @@ Translator: Meowcate
 
 
 Deux moines débattaient de la meilleure façon d'implémenter
-deux workflows plutôt similaires dans leur application. Ils
+deux processus plutôt similaires dans leur application. Ils
 allèrent trouver maître [[Suku]] pour trancher la question.
 
 Le premier moine dit,
-    "Je pense que nous devrions implémenter chaque workflow séparemment
-    pour leur empêcher de se contraindre entre eux.
+    "Je pense que nous devrions implémenter chaque processus séparément
+    pour éviter qu'ils ne se contraignent mutuellement.
 Quand le travail est fait
     nous pouvons identifier les parties communes,
     et les combiner en des classes de base génériques ou en utilitaires.
-Si des workflows similaires sont demandés à l'avenir,
-    nous suivrons ce processus :
+Si des processus similaires sont demandés à l'avenir,
+    nous suivrons cette stratégie :
     concevoir chaque nouveau flux indépendamment,
     utiliser le code générique quand c'est possible,
-    et combiner le code spécifique du workflow
+    et combiner le code spécifique du processus
     avec les implémentations génériques quand c'est approprié."
 
 Suku dit au premier moine,
@@ -33,17 +33,17 @@ Alors que les eaux descendent dans la vallée,
     puis en un puissant fleuve."
 
 Le second moine dit,
-    "Je crois que nous devrions implémenter chaque workflow ensemble,
-    utilisant leurs fonctionnalités pour définir un framework générique.
+    "Je crois que nous devrions implémenter chaque processus ensemble,
+    utilisant leurs fonctionnalités pour définir une infrastructure générique.
 Quand des cas spéciaux ou des flux alternatifs se montrent,
     nous pouvons les abstraire en des fonctionnalités configurables,
-    ou ajouter des hooks dans le framework de façon appropriée.
-Si des workflows similaires sont demandés à l'avenir,
-    nous suivrons ce processus :
-    implémenter chaque nouveau flux en utilisant le framework,
+    ou ajouter des points de flexibilité dans l'infrastructure de façon appropriée.
+Si des processus similaires sont demandés à l'avenir,
+    nous suivrons cette stratégie :
+    implémenter chaque nouveau flux en utilisant l'infrastructure,
     et si cela s'avère impossible,
-    séparer les implémentations génériques du framework
-    pour permettre le code spécifique nécessaire du workflow."
+    séparer les implémentations génériques de l'infrastructure
+    pour permettre le code spécifique nécessaire du processus."
 
 
 Suku dit au second moine,
