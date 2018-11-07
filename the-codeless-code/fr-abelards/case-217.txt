@@ -1,6 +1,6 @@
 Lang: fr
 Translator: abelards
-Title: L'oeuf de la Chimère
+Title: L'œuf de la Chimère
 Number: 217
 Tagline: Dans lequel on rencontre l'ennemi.
 
@@ -23,7 +23,7 @@ l'on s'y attend, et le site est rempli de bugs."
 "Premier Apprenti !" dit le maître au plus âgé de ses
 trois compagnons. "Va investiguer chez ces moines."
 
-"Où est cet ermitage ?" s'enquérit le Prermier Apprenti.
+"Où est cet ermitage ?" s'enquit le Premier Apprenti.
 
 Le marchand de bêtes pointa du doigt l'extérieur où il
 pleuvait toujours des cordes, vers un groupe de bâtisses
@@ -54,13 +54,13 @@ y toucher sobre, et si fragile que nous n'osons même pas ajouter
 une espace à la fin d'un commentaire.
 
 "Mais alors pourquoi ne pas implémenter plusieurs écrans /simples/,
-au lieu d'un seul inimaginable ?" demanda l'apprenti.
+au lieu d'un seul écran inimaginable ?" demanda l'apprenti.
 
-"Il faudra que tu demandes cela au designer de l'interface,"
+"Il faudra que tu demandes cela au concepteur de l'interface,"
 dit le père supérieur. "Car on nous a dit de suivre leurs
 prototypes d'écrans à la lettre."
 
-"Et où trouve-t-on ce designer ?" demanda le Premier Apprenti.
+"Et où trouve-t-on ce concepteur ?" demanda le Premier Apprenti.
 
 Le père supérieur pointa du doigt vers les pluies torrentielles
 au dehors, vers une petite hutte en haut d'un lointain rocher.
@@ -73,7 +73,7 @@ On lui donna de nouvelles robes propres, faites de sacs de
 conférences recyclés, tandis que ses habits boueux furent
 lavés et teints d'une nuance écarlate plus à la mode.
 
-"Au début, cette page /était/ simple," dit le designer.
+"Au début, cette page /était/ simple," dit le concepteur.
 "On l'utilisait pour une et une seule recherche, avec un seul
 type d'écran à afficher. Mais quand un nouveau besoin nous est
 remonté qui implique de rechercher des animaux, on m'ordonnait
