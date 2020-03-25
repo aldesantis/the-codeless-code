@@ -1,7 +1,7 @@
 Date: 2015-11-01
 Title: Seasons
 Number: 212
-Names: Qi, Spider Clan, Laughing Monkey Clan, Elephant's Footprint Clan, Ru Cheen, Shinpuru
+Names: Qi, Spider Clan, Laughing Monkey Clan, Elephant's Footprint Clan, Ruh Cheen, Shinpuru
 Topics: change, documentation, Agile
 Geekiness: 1
 Tagline: In which another leaf is turned.
