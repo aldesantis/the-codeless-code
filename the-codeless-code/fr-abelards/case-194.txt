@@ -36,18 +36,22 @@ vrais noms, Wangohan avait mis fin à l'appel.
 /Je dois investiguer,/ pensa Zjing.
 
 
+Elle commença par lire le code de Wangohan,
+et découvrit que rien n'y était familier :
+même le langage de programmation utilisé n'était pas
+un langage habituellement utilisé dans le Temple.
 
-She began with Wangohan's code, and discovered that
-everything about it was unfamiliar -- even the
-implementation language was one which the Temple did not
-use.  Wading through the alien syntax, she learned that the
-user interface was coded with an AJAX-JSON-XPath framework
-well beyond the capabilities of the Temple's junior
-developers; the templating language made Perl4 look
-civilized and quaint; and the persistence layer was a
-NoSQL database so experimental that the release number
-began with two zeroes and ended in the words 'alpha' and
-'SNAPSHOT'.
+En parcourant cette syntaxe étrangère, elle apprit
+que l'interface utilisateur était développée avec un
+ensemble de technologies AJAX-JSON-XPath bien au-delà
+des compétences des jeunes développeurs du Temple ;
+le langage de mise en forme des vues aurait fait passer
+Perl4 pour un langage vieillot, mais civilisé et ravissant ;
+et la couche de persistance était une base de données
+NoSQL si expérimentale que son numéro de version
+commençait par deux zéros, et finissait par les mots 'alpha'
+et 'SNAPSHOT'.
+
 
 /J'ai investigué,/ pensa Zjing. /Et maintenant je dois me coucher./
 
