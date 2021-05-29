@@ -21,36 +21,62 @@ Malheureusement, je vois qu'une fois de plus, elle a répondu
 - - -
 
 A comme Agnès dont l'Appli doit être Achevée
+
 B comme Boris qui le Build a Bloqué
+
 C comme Caitlin qui laisse du Code Commenté
+
 D comme Derrick aux Douteuses Données
 
+
 E comme Egbert qui Engloutit les Exceptions 
+
 F comme Fay qui Fait Fi des instructions
+
 G comme Garth qui comprend pas Grand chose
+
 H comme Hal qui Hardcode, c'est pas rose
 
+
 I comme Ives qui Ignore l'Indentation
+
 J comme Jacob qui Joint des tables à foison
+
 K comme Kathryn et son Kode Krado en Kit
+
 L comme Leda aux Lignes trop Longues, pas trop petites
 
+
 M comme Max qui Maltraite la Mémoire comme une bête
+
 N comme Nan dont le Nommage est N'importe quoi
+
 O comme Otto, qui Objecte à toutes les lois
+
 P comme Petra qui ne Peut Pas Pooler ses requêtes
 
+
 Q comme Quincy qui Query n'importe Quelle requête
+
 R comme Rex qui Revient sans cesse au Refactoring
+
 S comme Sidney qui Stocke les Sommes dans des Strings
+
 T comme Tilton qui Touche aux Triggers et s'entête
 
+
+
 U comme Ulmer qui conspue les tests Unitaires
+
 V comme Vin dont on Voit le code Vraiment laid
+
 W comme Wade et ses Warnings longs comme un Wiki
+
 X comme Xander dont le cache n'eXpire jamais
 
+
 Y comme Yancy dont les émotions sont un Yo-Yo
+
 Z comme Zeb le Zozo qui divise par Zéro
 
 
@@ -66,8 +92,13 @@ pour faire une version illustrée de ce poème.
 == Note du Traducteur
 
 Pour le traducteur, simple copiste et adepte
+
 On sait que la fidélité au texte est chère
+
 Et si le résultat peut sembler austère
+
 Sachez qu'il a gardé lettre, noms et concepts
+
 Inchangés, tout en tentant d'allitérer.
+
 Et faites les vôtres, pour vous amuser !
