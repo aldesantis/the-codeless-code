@@ -1,0 +1,104 @@
+Number: 231
+Title: Paresse
+Language: fr
+Translator: abelards
+
+Le père supérieur du [[Clan du Faucon en Piqué]] demanda 
+de l'aide à Maître [[Banzen]], pour gérer un client difficile.
+Le client faisait des cerf-volants de soie et bambou, et
+l'application du clan lui permettait de présenter son grand
+catalogue en ligne.
+
+"Je n'arrive tout simplement pas à la satisfaire," se plaint le père supérieur.
+
+"Dis-moi ce qui la rend /insatisfaite/,", dit Banzen.
+"Et ensuite peut-être que vous pourrez faire l'inverse de cela."
+
+"La paresse," déclara le père supérieur ;
+"car elle dit que notre interface lui fait faire trop de travail,
+mais ce travail c'est /sa/ faute, pas la nôtre."
+
+"Explique-moi," dit Banzen.
+
+"D'abord," dit le père supérieur, "pour chaque cerf-volant,
+elle ne veut autoriser que certaines soies. Alors notre
+interface /doit/ lui demander les soies autorisées, modèle
+par modèle -- mais elle n'arrête pas de dire que cette tâche
+est trop fastidieuse. Ce n'est pas notre faute si elle a des
+besoins si particuliers !"
+
+"En effet," dit Banzen.
+
+"Et pour empirer les choses," dit le père supérieur,
+"elle a des /centaines/ de rouleaux de soie dans sa boutique,
+dont /plusieurs douzaines/ peuvent être utilisées pour chaque
+modèle de cerf-volant ! Nous avons essayé tous les composants
+graphiques de notre bibliothèque -- les listes à sélection
+multiple, les doubles listes, les menus déroulants avec assistance
+à la saisie -- mais elle nous dit toujours que cette tâche lui
+prend trop d'efforts. Ce n'est pas notre faute si elle a tant
+de choix !"
+
+"Absolument," dit Banzen.
+
+"Enfin," conclut le père supérieur, "elle introduit sans
+cesse de nouvelles soies, tandis qu'elle en sort d'autres
+du catalogue. Alors elle doit revisiter la liste de soies
+pour chaque cerf-volant tout au long de l'année -- et
+invariablement elle nous dit que cela est une charge énorme.
+Ce n'est pas notre faute si ma mode est si frivole !"
+
+"Je suis bien d'accord," dit Banzen.
+
+Alors Banzen s'en fut voir la fabricante de cerf-volants.
+
+- - -
+
+Les complaintes de la fabricante furent exactement celles
+que le père supérieur avait décrites. Après les avoir écoutées,
+Banzen déambula dans son atelier, et trouva en effet des
+centaines de rouleaux de soie, chacune d'une teinte et d'un
+motif différents.
+
+Après avoir réfléchi un moment, Banzen pointa la structure
+en bambou du cerf-volant sur lequel elle travaillait.
+
+"Et quelles soies sont disponibles pour celui-ci ?" demanda Banzen.
+
+"Uniquement lets motifs bleus à nuage," dit la fabricante de
+cerf-volants. "Mais j'ai des douzaines de motifs bleus à nuage."
+
+"Et celui-ci ?" demanda Banzen, en en montrant un autre.
+
+"Il est dans ma série /Corbeau/," dit-elle.
+"Motifs à plumes bleues ou plumes noires, mais aucune soie extra-légère."
+
+"Et celui-là ?" demanda Banzen, en montrant encore un autre.
+
+"C'en est un de la série /Dragon/," dit-elle.
+"Solides noirs, flammes rouges, ou terres blanches, mais aucune soie lourde."
+
+Quand il fut certain qu'il avait compris l'algorithme de la fabricante
+de cerf-volants, Banzen retourna voir le père supérieur.
+
+- - -
+
+"Tout est tel que tu m'avais décrit," lui dit Banzen.
+"C'est bien la paresse qui est source de cette insatisfaction."
+
+"Mais alors comment peut-on la faire changer ?" demanda le moine.
+
+/"Wú,"/ dit Banzen, extrayant une enveloppe épaisse de ses robes.
+"Voici ce qu'il faut changer, et je t'en livrerai chaque semaine
+jusqu'à ce que cette fabricante de cerf-volants soit satisfaite."
+
+D'un geste rapide, Banzen jeta le contenu de l'enveloppe en l'air.
+Des centaines de minuscules carrés de papier coloré churent lentement
+en tourbillonnant dans la pièce, chacun semblable à un petit
+cerf-volant dansant dans le vent.
+
+"C'est très joli," dit le père supérieur, "mais qu'est-ce donc ?"
+
+"Cela s'appelle /des confettis/", dit Banzen.
+"Je les ai faits avec ton salaire de la semaine.
+En petites coupures, bien sûr."
