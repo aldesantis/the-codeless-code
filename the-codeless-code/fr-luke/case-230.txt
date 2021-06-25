@@ -14,9 +14,9 @@ trois développeurs.
 /AcheterObjet/ sur votre panier." dit-elle aux trois.
 "Les pelles et les râteaux n'expirent pas."
 
-"Cette propriété a été demandée par le [[Clan du Galet Rouge]],"
+"Cette propriété a été demandée par le [[Clan du Caillou Rouge]]",
 Répondit le premier moine. "Ils développent un système pour
-gérer les fermes de cerises d'un marchant et ils souhaitent
+gérer les fermes de cerises d'un marchand et ils souhaitent
 utiliser notre service de commande plutôt que de réaliser le leur."
 
 
@@ -24,14 +24,14 @@ utiliser notre service de commande plutôt que de réaliser le leur."
 
 "Vous," dit le second moine. "Car n'avez-vous pas
 [[#227|dit à nos deux clans]] que réutiliser des services
-était supérieur à la copie et au collage de code ?
+était supérieur à la duplication de code ?
 
 
 "Si, mais les besoins métier de /vos/ deux clans sont complètement
 différents !" se lamenta Zjing.
 "Un jour, les acheteurs de cerises auront éventuellement besoin
 d'options pour la taille de la boîte, la livraison réfrigérée et
-l'assurance contre les pesticides.
+l'assurance contre les insectes nuisibles.
 Chacune de ces options pourraient avoir leurs propres règles et
 méthodes de calcul !"
 
@@ -43,14 +43,14 @@ autres clients."
 
 "<i>Autres</i> clients ?" demanda Zjing.
 
-"Deux autres petits clans ont exprimé leur intérêt pour nos services,"
-Dit le premier moine.
+"Deux autres petits clans ont exprimé leur intérêt pour nos services",
+dit le premier moine.
 
 "Pour des pièces détachées de monocycles et des
 costumes de mariage fantaisistes."
 
 "Et j'ai commencé à concevoir un mécanisme de modules
-pour gérer les cas imprévus," dit le troisième moine.
+pour gérer les cas imprévus", dit le troisième moine.
 "Dans la finalité, le Temple gagnera beaucoup de temps
 de développement."
 
@@ -83,7 +83,7 @@ la confusion qui régnait en dessous. C'est à cet instant
 seulement -- alors que les participants se levèrent pour courir
 dans les quatre différentes directions vers les quatre portes
 de sortie -- qu'ils découvrirent que leurs bures avaient été
-rapidement et talentueusement cousues aux bures de leurs voisins.
+rapidement et talentueusement cousues à celles de leurs voisins.
 
 
 

@@ -1,83 +1,96 @@
 Number: 230
-Title: Tous ensemble, tous ensemble
-Translator: abelards
 Lang: fr
+Translator: abelards
+Title: Tous ensemble, tous ensemble
 
-Le [[Clan du Ver Affamé]] développait un site internet
-pour un artisan qui faisait des outils agraires sur mesure.
-La jeune maître [[Zjing]] faisait la revue de code de leurs trois développeurs.
+Le [[Hungry Worm Clan|Clan du Ver Affamé]] construisait
+un site web pour un artisan qui faisait des outils de ferme
+personnalisés.
+La jeune maître [[Zjing]] pratiquait la revue de code de
+leurs trois développeurs.
 
-"Je ne comprends pas la raison d'être de la propriété /DateDePeremption/
-dans les /ElementsAchetes/ de votre panier", dit-elle aux trois.
-"Les pelles et les rateaux n'expirent pas."
+"Je ne comprends pas à quoi sert la propriété /LatestSellByDate/
+dans votre /PurchaseItem/ du panier de courses," dit-elle aux trois.
+"Les pelles et les râteaux n'expirent pas."
 
-"Cette propriété a été demandée par le [[Clan du Caillou Rouge]],"
-répondit le premier moine. "Ils construisent un système de gestion
-des vergers de cerises d'un vendeur, et aimeraient bien utiliser
-notre service de commandes plutôt que de faire le leur."
+"C'est une propriété qui a été demandée par le
+[[Red Pebble Clan|Clan du Caillou Rouge]]," répondit le premier moine.
+"Ils conçoivent un système pour gérer les fermes de cerises d'un
+marchand, et ils prévoient d'utiliser notre service de placement
+de commandes au lieu de faire le leur."
 
+"Comment ?" demanda Zjing incrédule. "Qui a suggéré /ça/ ?"
 
-"Quoi ?" s'étonna Zjing. "Qui a suggéré /ça/ ?"
+"C'est vous," dit le second moine.
+"N'avez-vous pas [[#227|dit à deux de nos clans]]
+qu'il valait mieux réutiliser des services
+plutôt que copier et coller du code ?"
 
-"C'est vous," dit le deuxième moine.
-"Car n'avez-vous pas [[#227|dit à deux de nos clans]]
-que la réutilisation de services était préférable au copier-coller de code ?"
-
-"Certes, mais les besoins métier de /vos/ deux clans sont
+"Si, mais les besoins métiers de /vos/ deux clans sont
 complètement différents !" s'écria Zjing.
+"Au bout d'un moment, les acheteurs de cerises pourraient avoir
+des besoins d'options pour la taille des caisses, la livraison
+réfrigérée, les assurances contre les nuisibles.
+Tout cela pourrait bien avoir ses propres règles et calculs !"
 
-"Un jour, les acheteurs de cerises pourraient avoir besoin de choisir
-la taille de la caisse, la livraison réfrigérée, l'assurance contre les nuisibles.
-Et toutes ces choses-là pourraient avoir leurs propres règles et calculs !"
+"Vous vous inquiétez d'un futur qui pourrait bien ne jamais
+se réaliser," contra le troisième moine. "Et même s'il arrive,
+et alors ? Plus on implémente de fonctionnalités, plus on a de
+chances de gérer les besoins de nos autres clients."
 
-"Vous vous inquiétez d'un futur qui pourrait bien ne jamais arriver,"
-lui opposa le troisième moine. "Et même si cela arrivait, et alors ?
-plus nous implémentons de fonctionnalités, plus nous aurons de chances
-d'aider nos autres clients."
+"<i>Autres</i> clients ?" demanda Zjing.
 
-"Vos <i>autres</i> clients ?" demanda Zjing.
-
-"Deux autres Micro Clans sont intéressés par nos services,"
+"Deux autres Micro Clans ont exprimé leur intérêt pour nos services,"
 dit le premier moine.
 
-"L'un pour les pièces de monocycles, et l'autre pour des costumes de mariage fantaisie,"
-dit le deuxième moine.
+"Pour des pièces de monocycle et des costumes de mariage fantaisie,"
+dit le second moine.
 
-"Et je viens de commencer la conception d'un mécanisme de plug-ins
+"Et j'ai commencé la conception d'un mécanisme de plug-ins
 pour gérer les cas imprévus," dit le troisième moine.
-"Au final, le Temple gagnera beaucoup de temps."
+"Au global, le Temple finira par économiser beaucoup de temps
+de développement."
 
 - - -
 
-Plus tard dans la semaine, Zjing provoqua une réunion de tous
-les Micro Clans sous sa tutelle. Des douzaines de moines et de
-nonnes se serrèrent dans le Hall de l'Irrésistible Somnolence,
-celui qui, sans fenêtres, est mal éclairé, mal aéré, et dans
-lequel on donne les longues présentations.{{*}}
+Plus tard dans la semaine, Zjing convoqua une réunion des
+Micro Clans dont elle avait la charge. Des douzaines de moines
+et de nonnes remplirent le Hall de l'Irrésistible Somnolence,
+la salle sans fenêtre, étouffante et faiblement éclairée
+dans laquelle on donnait les longues présentations.{{*}}
 
 La plupart des bancs avaient déjà été pris par des villageois
-que personne ne connaissait. Zjing expliqua que c'étaient des
-employés de la boutique de vêtements de mariage fantaisie,
-qui étaient venus afin de s'assurer que leurs besoins seraient
+que les moines ne connaissaient pas -- des employés de la
+boutique de costumes de mariage fantaisie, expliqua Zjing,
+wui étaient là pour s'assurer que leurs besoins seraient
 pris en compte.
-Puis la réunion commença par une présentation extrêmement
-ennuyeuse sur la couture, durant laquelle on put voir de
-nombreux moines et nonnes dodeliner de la tête.
+La réunion commença alors par une présentation extraordinairement
+fade sur le métier de tailleur, durant laquelle on a pu voir bien
+des moines et des nonnes dodeliner de la tête.
 
-Après la dernière slide, les villageois furent excusés.
-Quand le dernier fut sorti, Zjing sortit une lanterne de
-derrière le podium, et sans un mot elle mit le feu à l'énorme
-écran en papier de riz.
-Les flammes grimpèrent rapidement et se répandirent sur les
-poutres du plafond ; l'air devint brûlant ; une fumée
-épaisse s'emparait des lieux ; les moines toussaient ou
-criaient ; l'alarme incendie se déclencha ; puis le système
-de sécurité incendie prit vie et déversa de l'eau sur la
-scène chaotique, mais sans grande efficacité.
-C'est seulement à ce moment-là -- quand les occupants se
-levèrent pour fuir vers la plus proche des quatre sorties --
-qu'ils découvrirent que leurs robes avaient été habilement
-et rapidement cousues aux robes de leurs voisins.
+Après le dernier écran, les villageois furent excusés.
+Quand le dernier d'entre eux fut parti, Zjing amena une
+lanterne de derrière le podium et, sans un mot, s'approcha
+de l'énorme papier de riz qui servait pour la projection,
+et y mit le feu.
 
+Les flammes montèrent rapidement et s'étendirent à travers les
+poutres sèches du plafond ; la chaleur embrasait l'air ;
+la fumée tourbillonnait ; les moines toussaient et criaient ;
+l'alarme incendie sonnait et résonnait ;
+puis de quelque part au-dessus des têtes, les sprinklers
+prirent vie et commencèrent à faire jaillir de l'eau,
+de manière peu efficace, sur la scène de chaos qui se déroulait
+en contrebas.
+C'est alors seulement -- quand les occupants se levèrent
+pour fuir dans quatre directions différentes vers les quatre
+portes de sorties -- qu'ils découvrirent que leurs robes avaient
+été cousues à celles de leurs voisins, avec adresse et célérité.
 
-{{*}} D'habitude, ces réunions sont rendues obligatoires par le département des Ressources Humaines, pour les rappels annuels des formatiosn comme "Premiers Secours sur Blessures Accidentelles, "Premiers Secours sur Blessures Volontaires", "Comment Choisir un Excellent Plan d'Assurance Vie", et "L'importance de Garder une Bonne Ambiance au Travail".
+{{*}} En général, ces réunions étaient imposées par le département RH,
+et comprenaient des cours de rafraîchissement annuels comme :
+"Premiers Secours pour Blessures Accidentelles",
+"Premiers Secours pour Blessures Intentionnelles",
+"Comment choisir un plan d'Assurance Vie complet",
+et "De l'importance de garder le moral dans une ambiance de travail ".
+

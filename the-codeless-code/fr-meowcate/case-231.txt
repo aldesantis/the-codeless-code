@@ -1,0 +1,112 @@
+Title: Paresse
+Tagline: Où quelqu'un semble ne pas vouloir faire son travail
+Lang: fr
+Translator: Meowcate
+
+Le moine supérieur du [[Swooping Falcon Clan|Clan du Faucon en Piqué]]
+demanda à maître [[Banzen]] son assistance face à une cliente
+difficile. La cliente était une fabriquante de cerf-volant
+en soie et en bambou, et l'application du clan lui permettait de
+gérer son large catalogue en ligne.
+
+"Je ne peux simplement pas la satisfaire," se lamentait le
+moine supérieur.
+
+"Dis moi ce qui la rend /insatisfaite/," dit Banzen. "Alors
+peut-être pourrais-tu faire l'opposé."
+
+"La paresse," le moine supérieur déclara, "elle dit que notre
+interface lui impose trop de travail, et pourtant cette charge
+de travail est de /sa/ faute, pas de la nôtre."
+
+"Explique," dit Banzen.
+
+"D'abord," dit le moine supérieur, "pour chaque cerf-volant,
+elle souhaite n'autoriser que certaines soies. Donc notre
+interface /doit/ lui demander de spécifier les soies selon
+les cerfs-volants au cas par cas -- et pourtant elle continue
+ de dire que cette tâche est trop fastidieuse. Ce n'est pas
+notre faute si elle est si exigeante !"
+
+"Bien entendu," dit Banzen.
+
+"Pour ne rien arranger," dit le moine supérieur, "elle a
+des /centaines/ de rouleaux de soies dans son magasin, depuis
+lesquels des /douzaines/ peuvent être attribuées à n'importe quel
+cerf-volant ! Nous avons essayé tous les widgets de la
+librairie -- listes à sélection multiple, zones de listes
+double, listes déroulantes à recherche intégrée -- et
+malgré tout elle continue de dire que sa tâche est trop onéreuse.
+Ce n'est pas notre faute si elle propose autant de choix !"
+
+"Absolument," dit Banzen.
+
+"Et enfin," le moine supérieur conclut, "de nouvelles soies
+sont sans arrêt ajoutées et les anciennes sont sans arrêt retirées.
+Elle doit donc actualiser la liste des soies de chaque
+cerf-volant durant l'année -- pourtant elle continue de dire
+que sa tâche est trop épuisante. Ce n'est pas notre faute
+si la mode est changeante !"
+
+"Tout à fait," dit Banzen.
+
+Alors Banzen alla voir la fabriquante de cerf-volant.
+
+- - -
+
+Les complaintes de la fabriquante de cerf-volant étaient
+exactement ce que le moine supérieur avait décrit. Après les
+avoir écouté, Banzen se balada dans son atelier, et découvrit
+en effet des centaines de rouleaux de soie, chacun de
+teintes et motifs différents.
+
+Après avoir médité un moment, Banzen pointa du doigt le
+squelette de bambou d'un de ses cerfs-volants sur l'atelier.
+
+"Quelles soies proposeriez-vous pour celui-ci ?" demanda
+Banzen.
+
+"Uniquement des designs à base de nuage bleu," dit la
+fabriquante. "Mais je n'ai pas des douzaines de soies à
+base de nuage bleu."
+
+"Et pour celui-là ?" demanda Banzen, en en désignant un
+autre.
+
+"C'est l'un de mes séries 'corbeau'," dit la fabriquante.
+"Des designs à base de plumes bleues ou de plumes noires,
+mais pas de soies légères."
+
+"Et pour ça ?" demanda Banzen, en montrant un autre.
+
+"C'est l'un de mes séries 'dragon'," dit la fabriquante.
+"Noir unis, designs de feu rouge ou de terre blanche,
+mais pas de soies lourdes."
+
+Quand il fut certain d'avoir compris l'algorithme de la
+fabriquante, Banzen retourna vers le moine supérieur.
+
+- - -
+
+"C'est comme vous l'aviez décrit," dit Banzen au moine
+supérieur. "Ce qui rend la fabriquante de cerf-volant
+insatisfaite est la paresse."
+
+"Mais comment peut-on corriger son état d'esprit ?" demanda
+le moine.
+
+/"Wú,"/ dit Banzen, sortant une épaisse enveloppe de ses
+robes. "Voici les moyens pour cette correction, que je
+vous livrerai chaque semaine jusqu'à ce que la fabriquante
+obtienne satisfaction."
+
+D'un mouvement rapide Banzen lança le contenu de l'enveloppe
+dans les airs. Des centaines de minuscules carrés de papier
+coloré volèrent en spirale lentement dans la pièce; chacun
+comme un petit cerf-volant tournoyant au gré du vent.
+
+"Adorable," dit le moine supérieur, "mais qu'est-ce donc ?"
+
+"On appelle cela des /confettis/," dit Banzen. "Je les ai
+fabriqué à partir de votre paie de la semaine. En utilisant
+des billets en petites coupures, bien entendu."

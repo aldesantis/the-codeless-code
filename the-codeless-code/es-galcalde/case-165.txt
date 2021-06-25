@@ -6,7 +6,7 @@ Illus.0.title: Sigo apretando el boton de escape, pero sigo aquí.
 
 Cuando al monje [[Landhwa]] se le asignó implementar una nueva capa de seguridad para las aplicaciones del [[Spider Clan|Clan de la Araña]], su enemigo de largo tiempo -- el monje [[Wangohan]] -- sospechó que la perdición de Landhwa finalmente estaba por llegar. Porque la seguridad requería atención al más mínimo detalle, y Landhwa era notoriamente impaciente y perezoso.
 
-Seguramente, cuando varas aplicaciones fueron puestas en producción con el código de Landhwa, las quejas empezaron a inundar el soporte técnico inmediatamente. Los usuarios no podían editar su información personal o ver sus órdenes destacadas, e irónicamente el enlace "Contacto" devolvía una página <em>403 Forbidden</em>. El caos gobernó la mañana.
+Seguramente, cuando varias aplicaciones fueron puestas en producción con el código de Landhwa, las quejas empezaron a inundar el soporte técnico inmediatamente. Los usuarios no podían editar su información personal o ver sus órdenes destacadas, e irónicamente el enlace "Contacto" devolvía una página <em>403 Forbidden</em>. El caos gobernó la mañana.
 
 Landhwa fue invocado para una conferencia de emergencia con los abades del templo. Wangohan se preguntaba ociosamente si volvería a ver de nuevo a su rival -- y si lo viese, en cuantos pedazos.
 

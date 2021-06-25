@@ -1,0 +1,69 @@
+Date: 2016-07-04
+Number: 233
+Title: Lapluie tombe, les arbres poussent
+Geekiness: 2
+Names: Suku
+Topics: design, abstraction, refactoring, réutilisation, complexité, simplicité, big design up front, YAGNI
+Tagline: Dans lequel nous retournons aux voies de la nature.
+
+
+
+Deux moines se disputaient la meilleure façon de mettre en œuvre deux 
+flux de travail assez similaires dans leur application. Ils allèrent 
+chez le maître visiteur, [[Suku]], pour régler leur différend.
+
+Le premier moine déclara : 
+      «Je pense que nous devrions mettre en œuvre les deux flux de travail séparément 
+      pour les empêcher de se contraindre mutuellement. 
+Lorsque tout le travail sera terminé, 
+      nous pourrons identifier les parties communes ,
+      et les combiner en classes de base génériques ou en utilitaires. 
+Si des flux de travail similaires sont souhaités dans le futur, 
+      nous suivrons ce processus: 
+      concevez chaque nouveau flux de manière indépendante, 
+      utilisez le code générique si possible, 
+      et combinez le code spécifique au flux de travail 
+      dans des implémentations génériques, le cas échéant. "
+
+Suku dit au premier moine: 
+      «C'est une approche des plus naturelles. 
+Quand il pleut sur la montagne, 
+      de minuscules gouttelettes dévalent les cailloux. 
+Au fur et à mesure que les eaux descendent dans la vallée, 
+      dix mille ruisselets se confondent 
+      en mille ruisseaux, 
+      puis en cent rus, 
+      puis en dix rivières, 
+      puis en un puissant fleuve ».
+
+Le second moine a déclaré: 
+      «Je pense que nous devrions implémenter les deux flux de travail ensemble, 
+      en utilisant leurs fonctionnalités pour définir un cadre générique. 
+Lorsque des cas spéciaux ou des flux alternatifs surviennent, 
+      nous pouvons les résumer en tant que fonctionnalités configurables 
+      ou ajouter des points d'extension dans la structure, le cas échéant. 
+Si des flux de travail similaires sont souhaités à l'avenir, 
+      nous suivrons ce processus: 
+      implémentez chaque nouveau flux à l'aide du cadre 
+      et, si cela s'avère impossible, 
+      divisez les implémentations génériques du cadre 
+      pour permettre le code spécifique au flux de travail, si nécessaire. "
+
+Suku a dit au deuxième moine: 
+      «C’est aussi une approche naturelle. 
+Quand il pleut sur la montagne, 
+      de minuscules gouttelettes nourrissent les racines du jeune arbre. 
+Alors que le puissant chêne monte vers le ciel, 
+        un tronc se divise en dix branches maîtresses, 
+        puis cent branches, 
+        puis mille rameaux, 
+        puis dix mille brindilles. "
+
+Les deux moines s'inclinèrent et se tournèrent pour partir - 
+leur dispute étant toujours incertaine - 
+sur quoi Suku soupira de frustration 
+et frappa l'arrière de sa tête avec son bâton.
+
+«Moines!» Dit-elle à la paire. 
+"Si le monde était nettoyé, à l'exception des montagnes et de la pluie, 
+lequel surgirait le premier: le fleuve ou le chêne?"
