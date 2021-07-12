@@ -1,0 +1,67 @@
+Number: 233
+Title: Tombe la pluie, poussent les arbres
+Lang: fr
+Translator: abelards
+
+Deux moines débattaient du meilleur moyen d'implémenter deux
+flux opérationnels plutôt similaires dans leur application.
+Ils s'en furent voir Maître [[Suku]] pour qu'elle puisse
+trancher.
+
+
+Le premier moine dit,
+     "Je crois que nous devrions implémenter les deux flux séparément,
+     afin d'éviter qu'ils ne s'imposent mutuellement de contraintes inutiles.
+Quand tout sera terminé
+     nous pourrons identifier les parties communes,
+     et les combiner dans des classes génériques ou des utilitaires.
+Si on devait de nouveau faire des flux opérationnels similaires dans le futur,
+     nous pourrions alors faire comme suit :
+     concevoir chaque workflow de manière indépendante,
+     puis combiner le code spécifique à ce flux,
+     dans des implémentations génériques lorsque c'est approprié."
+
+Suku dit au premier moine,
+     "C'est une approche tout à fait naturelle.
+Quand il pleut sur la montagne,
+     de petites gouttes descendent en cascade.
+Et quand l'eau descend dans la vallée,
+     dix mille ruisseaux fusionnent
+     en un millier de torrents,
+     puis une centaine d'affluents,
+     puis une dizaine de rivières,
+     puis un puissant fleuve."
+
+
+Le second moine dit,
+     "Je pense que nous devrions implémenter les deux flux ensemble,
+     en utilisant leurs fonctionnalités respectives pour faire une bibliothèque générique.
+Quand des cas spéciaux ou des flux alternatifs se présenteront,
+     nous pourrons les abstraire en tant que fonctionnalités configurables,
+     ou ajouter des points d'entrées, des fonctions de rappel dans le cadriciel lorsque c'est approprié.
+Si on devait de nouveau faire des flux opérationnels similaires dans le futur,
+     nous pourrions alors faire comme suit :
+     implémenter chaque nouveau flux opérationnel avec le cadriciel,
+     et si l'on n'y parvient pas, ajouter un cas dans les implémentations génériques
+     pour autoriser l'appel de code spécifique à chaque flux au besoin."
+
+Suku dit au second moine,
+     "C'est aussi une approche tout à fait naturelle.
+Quand il pleut sur la montagne,
+     de petites gouttes nourrissent les racines des jeunes pousses.
+Quand le grand chêne s'élève vers les cieux,
+     un tronc se divise
+     en dix charpentières,
+     puis en une centaine de branches,
+     puis en un millier de rameaux,
+     puis en dix mille brindilles."
+
+
+Les deux moines s'inclinèrent et se tournèrent pour prendre congé --
+et sans réponse définitive quant à leur discussion --
+quand Suku soupira de frustration
+et les frappa à l'arrière de la tête avec son bâton.
+
+"Moines !" dit-elle à l'infortuné duo.
+"Si le monde était rasé, et ne laissant que les montagnes et la pluie,
+lequel arriverait en premier : la rivière, ou le chêne ?"
