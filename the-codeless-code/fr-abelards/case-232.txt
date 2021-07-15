@@ -1,0 +1,63 @@
+Number: 232
+Title: Éducation
+Lang: fr
+Translator: abelards
+
+Depuis des années le jeune moine [[Djishin]] était l'apprenti
+du vieux maître [[Banzen]]. Bien que cela fut un privilège,
+cela n'apportait que peu de joie à Djishin, car depuis quelque
+temps le maître devait de plus en plus irrité par le jeune moine.
+Et pourtant le moine ne parvenait pas à en deviner la raison.
+
+Un matin Djishin dit à sa camarade apprentie [[Satou]] :
+"je me jette à corps perdu dans les enseignements de Banzen,
+mais son dédain pour moi n'en est que plus palpable !
+Et chaque fois que je demande si j'ai fait quelque chose
+qui lui causerait déplaisir, il me di que non !
+Je ne sais plus quoi faire avec le vieil homme !"
+
+Satou répondit : "si tu ne peux plus gravir le chemin,
+c'est que le chemin n'est pas face à toi."
+
+Djishin dit : "je ne peux quitter son service, pas plus
+que je ne pourrais m'arracher les jambes à coups de dents.
+Et pourtant ma patience s'est réduite comme peau de chagrin.
+J'ai peur que bientôt le maître ne me pousse trop loin,
+et que je ne finisse dans une rébellion certaine."
+
+Satou répondit : "alors fuis ce chemin et ne regarde pas
+en arrière ; car je ne vois aucune issue positive à une telle
+rébellion, pour personne, sauf peut-être le croque-mort."
+
+- - -
+
+Peu de temps après, Banzen relisait le code de Satou et
+nota qu'elle utilisait désormais la nouvelle classe Java
+/Optional/ presque partout. Banzen gronda la nonne et son
+appétit pour jouer avec les nouveautés plutôt que de se
+concentrer ses efforts dans une implémentation fiable,
+utilisant les patrons de conception habituels.
+
+Entendant cela, Djishin sentit la dernière once de patience
+quitter son esprit. Le moine cracha : /Optional/ n'est pas
+une mode ephémère ; c'est l'implémentation en Java de la
+monade /Maybe/, et n'importe quel imbécile qui souhaiterait
+vraiment faire une implémentation fiable ferait bien de suivre
+l'exemple de la nonne !
+
+Puis un horrible silence s'ensuivit. Personne ne bougea.
+Djishin pouvait sentir dans ses oreilles les battements de son coeur.
+
+Puis le maître leva un sourcil blanc et touffu, et dit :
+"et donc, mon impertinent /ancien/ apprenti -- qu'est-ce qu'une monade ?"
+
+D'une voix tremblotante, Djsishin expliqua la nature des monades et
+[[#143|comment il les avait découvertes]].
+Quant il en eût fini, Banzen marcha à grands pas vers le moine,
+leva son bâton, et jeta ses deux bras autour du garçon.
+
+"Enfin !" s'exclama le maître.
+"Je finissais par me demander si j'avais formé un moine ou un perroquet.
+Maintenant je peux dire aux autres maîtres : aujourd'hui j'ai appris
+/deux/ choses, car enfin Djishin m'a appris quelque chose que je ne connaissais pas."
+
