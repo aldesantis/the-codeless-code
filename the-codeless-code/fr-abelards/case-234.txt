@@ -1,0 +1,54 @@
+Number: 234
+Title: Ozymandias
+Lang: fr
+Translator: abelards
+
+La nonne [[Hwídah]] a composé ce sonnet inhabituellement sombre pour votre contemplation :
+
+
+La lèvre plissée et le rictus de froide autorité
+Disent que son sculpteur sut lire les passions
+Qui, gravées sur ces objets sans vie, survivent encore
+À la main qui les imita et au cœur qui les nourrit.
+
+Et sur le piédestal il y a ces mots :
+« Mon nom est Ozymandias, Roi des Rois.
+Voyez mon œuvre, ô puissants, et désespérez ! »
+
+À côté, rien ne demeure. Autour des ruines
+De cette colossale épave, infinis et nus,
+Les sables monotones et solitaires s’étendent au loin. » 
+
+     J'ai rencontré du code dans des fichiers antiques :          //
+     la pile plus grande qu'un homme de ce code imprimé,          //
+     était rangée en boîtes que l'humidité pique.                 //
+     Ces plus de dix mille pages que mes doigts effritaient.      //
+
+     En proie à l'entropie, perdu, abandonné                      //
+     Ce code avait pourtant mené l'Homme sur la Lune :            //    
+     Ce langage obsolète plus jamais usité,                       //
+     Et le matériel pour vit la même infortune.                   //
+
+     Enfermé dans le scope d'une fonction solitaire               //
+     Une ligne de code, puis ces mots m'apparurent :              //
+     <tt># TEMPORAIRE TEMPORAIRE, J'ESPÈRE J'ESPÈRE J'ESPÈRE</tt> //
+     
+     À côté, si constant que toute chose ici-bas,                 //
+     se tenait le vieux code, en sa triste parure,                //
+     et aux cieux, solitaire, notre Lune passa.                   //
+
+<div style="padding-top:3in" />
+
+== Note de l'éditeur
+
+Inspiré par <a href="http://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/">cet article (en anglais)</a> sur le code d'Apollo 11 et de son Apollo Guidance Computer.
+et de <a href="https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc#L179">de ce code en particulier</a>,
+et bien entendu, du poème de Percy Bysshe Shelley <a href="https://fr.wikipedia.org/wiki/Ozymandias_(Percy_Bysshe_Shelley)">Ozymandias</a>.
+
+En anglais, Qi a tenté de conserver le rythme inhabituel des rimes de Shelley, sauf pour l'avant-dernière ligne.
+Pour un langage excelle à voler des mots venus d'autres cultures, l'anglais manque cruellement de rimes.
+
+En français, je n'ai eu quant à moi qu'à doubler le "temporaire" du commentaire, et conserver "scope" là où j'aurais voulu garder "portée".
+Toutefois pour bien garder la métrique de 12 pieds, il faut dire "Un-e lign-e de code" et "not-re Lun-e passa", les autres e étant tous muets.
+
+{{*}} Merci à Dan Sutton d'avoir relevé une coquille embarassante.
