@@ -1,0 +1,5 @@
+Est-ce une page,
+ou l'absence d'une page ?
+
+Et que devrions-nous afficher
+si la page 404 elle-même ne pourrait être trouvée ?
