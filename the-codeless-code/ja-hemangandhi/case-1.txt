@@ -1,6 +1,6 @@
 Number: 1
 Title: 小さな事
-Lang: jp
+Lang: ja
 Translator: hemangandhi
 
 Javaの師匠が三日間デスクから離れながった。四日目、お寺の僧侶が弟子を師匠に事情を尋ねさせました。
