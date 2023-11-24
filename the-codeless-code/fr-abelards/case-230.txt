@@ -1,8 +1,7 @@
 Number: 230
 Lang: fr
 Translator: abelards
-Title: Pour vous faire marcher
-Tagline: Dans laquelle on vous envoie balader
+Title: Tous ensemble, tous ensemble
 
 Le [[Hungry Worm Clan|Clan du Ver Affamé]] construisait
 un site web pour un artisan qui faisait des outils de ferme
@@ -10,7 +9,7 @@ personnalisés.
 La jeune maître [[Zjing]] pratiquait la revue de code de
 leurs trois développeurs.
 
-"Je ne comprends pas le but de la propriété /LatestSellByDate/
+"Je ne comprends pas à quoi sert la propriété /LatestSellByDate/
 dans votre /PurchaseItem/ du panier de courses," dit-elle aux trois.
 "Les pelles et les râteaux n'expirent pas."
 
@@ -94,3 +93,4 @@ et comprenaient des cours de rafraîchissement annuels comme :
 "Premiers Secours pour Blessures Intentionnelles",
 "Comment choisir un plan d'Assurance Vie complet",
 et "De l'importance de garder le moral dans une ambiance de travail ".
+
