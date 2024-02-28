@@ -69,5 +69,5 @@ Erneut kam die prompte Antwort innerhalb von Sekunden:
       Schreibt erneut, und Ihr wisst, was ich meine.
 
 
-{{*}} Von einem der Patriarchen genannt: <a href="http://threevirtues.com">Faulheit, Ungeduld, und Selbstüberschätzung</a>.
+{{*}} Von einem der Patriarchen genannt: <a href="https://thethreevirtues.com">Faulheit, Ungeduld, und Selbstüberschätzung</a>.
 

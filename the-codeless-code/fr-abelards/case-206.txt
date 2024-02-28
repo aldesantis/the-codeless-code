@@ -66,4 +66,4 @@ De nouveau, il reçut une réponse quelques secondes plus tard :
       et il décidera alors de coder une base de réponses automatiques. //
       Si vous lisez ceci, veuillez reformuler et renvoyer votre question.
 
-{{*}} Qui sont, selon l'un des Patriarches, <a href="http://threevirtues.com">la paresse, l'impatience et l'hubris</a>.
+{{*}} Qui sont, selon l'un des Patriarches, <a href="https://thethreevirtues.com">la paresse, l'impatience et l'hubris</a>.
